@@ -1,0 +1,1350 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N129</uid>
+  <metadonnees>
+    <dateSeance>20210113210000000</dateSeance>
+    <dateSeanceJour>mercredi 13 janvier 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>129</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210129</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-01-16T16:12:23.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2369810">Présidence de M. Marc Le Fur</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2369814">
+          <intitule>Maisons France services</intitule>
+        </titreStruct>
+        <para id_syceron="2369818">Mme Patricia Lemoine</para>
+        <para id_syceron="2369844">M. Pascal Brindeau</para>
+        <para id_syceron="2369858">Mme Danièle Obono</para>
+        <para id_syceron="2369872">Mme Sylvia Pinel</para>
+        <para id_syceron="2369885">M. Jean-Paul Dufrègne</para>
+        <para id_syceron="2369896">Mme Claire Bouchet</para>
+        <para id_syceron="2369903">M. Pierre Cordier</para>
+        <para id_syceron="2370288">M. Philippe Vigier</para>
+        <para id_syceron="2370311">M. Gérard Leseul</para>
+        <para id_syceron="2370324">Mme Jacqueline Gourault, ministre de la cohésion des territoires et des relations avec les collectivités territoriales</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2370262">
+          <intitule>Décès de Mme Marielle de Sarnez</intitule>
+        </titreStruct>
+        <para id_syceron="2370263">M. le président</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2370265">
+          <intitule>Maisons France services <italique>(suite)</italique></intitule>
+        </titreStruct>
+        <para id_syceron="2370269">M. Thomas Gassilloud</para>
+        <para id_syceron="2370277">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370332">Mme Danièle Obono</para>
+        <para id_syceron="2370338">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370341">M. Jean Lassalle</para>
+        <para id_syceron="2370344">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370346">M. André Chassaigne</para>
+        <para id_syceron="2370351">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370353">Mme Célia de Lavergne</para>
+        <para id_syceron="2370881">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370884">M. Stéphane Travert</para>
+        <para id_syceron="2370892">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370897">Mme Emmanuelle Anthoine</para>
+        <para id_syceron="2370904">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2370907">Mme Emmanuelle Anthoine</para>
+        <para id_syceron="2370914">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2371051">M. Laurent Garcia</para>
+        <para id_syceron="2371056">Mme Jacqueline Gourault, ministre</para>
+        <para id_syceron="2371059">M. Alain David</para>
+        <para id_syceron="2371063">Mme Jacqueline Gourault, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="4">
+        <titreStruct id_syceron="2371517">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 13 janvier 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1781555" ordre_absolu_seance="1" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2369810" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Marc Le Fur<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1781556" ordre_absolu_seance="2" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369811" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1781557" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2369812" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781559" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2369814" valeur="">
+      <orateurs/>
+      <texte>Maisons France services</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781560" ordre_absolu_seance="6" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369815" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur le déploiement des maisons France services.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties : dans un premier temps nous entendrons les orateurs des groupes, puis le Gouvernement. Nous procéderons ensuite à une séquence de questions-réponses.<br/>La parole est à Mme Patricia Lemoine.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781563" ordre_absolu_seance="9" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369818" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Lemoine</nom>
+            <id>721632</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le 22 novembre 2019 à Amiens, le Président de la République se rendait dans l’une des premières maisons France services labellisées en 2020.<br/>Prenant la suite des maisons de service au public – MSAP –, ces nouvelles structures répondent à un objectif clair : harmoniser et simplifier l’accès au service public pour tous les citoyens, qu’ils vivent en milieu urbain ou rural.<br/>Près d’un an jour pour jour après son lancement officiel, ce nouveau dispositif est en bonne voie quant à son objectif, 2 000 maisons France services en 2022, puisque plus de 900 maisons ont d’ores et déjà été labellisées.<br/>Le dispositif des maisons France services répond à un besoin qui n’est pas nouveau. La fracture territoriale s’est accélérée ces dernières années, les villes se sont densifiées et les services, privés comme publics, s’y sont concentrés ; le monde rural, quant à lui, a largement souffert de ce phénomène et, malgré d’importantes politiques publiques en sa faveur, le sentiment d’abandon n’a cessé d’y croître.<br/>Le constat de cette fracture a été très clairement exprimé lors du grand débat national en 2019, de nombreux élus et citoyens des territoires ruraux ou urbains ayant exprimé leur besoin d’une offre de services publics de proximité, riche et accessible : les maisons France services apportent donc la réponse à cette demande en regroupant a minima neufs partenaires de l’État et en proposant une nouvelle offre de services.<br/>Cette première année de mise en œuvre nous donne l’occasion, dans le cadre de notre semaine de contrôle, de dresser un premier bilan de leur installation, de leur efficacité, de leur visibilité et des pistes d’amélioration qui pourraient être envisagées.<br/>L’objectif de proximité des maisons France services se traduit concrètement et simplement sur une échelle temporelle : chaque Français doit pouvoir accéder à une structure de ce type en moins de trente minutes depuis son domicile. C’est l’échelle administrative du canton qui, à cet égard, a été jugée la plus pertinente ; et si le canton constitue en effet la bonne échelle dans la plupart des cas, il convient d’en nuancer la pertinence en fonction des spécificités locales et des disparités territoriales. Ainsi, dans ma circonscription, en Seine-et-Marne, les élus ont fait le choix de retenir l’échelon intercommunal, en partant des MSAP déjà existantes sur le périmètre de l’EPCI – établissement public de coopération intercommunale – et en tenant avant tout compte des bassins de vie et de déplacement des habitants.<br/>Ce travail, mené en toute intelligence avec le préfet et le sous-préfet, a ainsi permis de « déroger » à la règle d’une maison France services par canton. Trop longtemps, en effet, les disparités propres à notre pays ont été ignorées, et nous avons voulu administrer ce dernier de manière uniforme sans faire l’effort de s’adapter, localement, aux particularismes territoriaux. Le droit à la différenciation qui sera au cœur du projet de loi 4D – différenciation, décentralisation, déconcentration et décomplexification – doit donc également se retrouver dans le déploiement des Maisons France services.<br/>Les députés du groupe Agir ensemble ont ainsi pu constater que l’organisation de ces structures pouvait parfois se décliner de façon très originale sur le terrain – je pense notamment à cette maison du Cher, où l’accueil du public passe d’abord par les agents d’accueil de la mairie qui l’abrite, lesquels orientent les administrés en fonction de leurs besoins. Dans ce cas précis, les élus ont fait le choix de laisser la commune au cœur du dispositif, ce qui me paraît tout à fait important à souligner dès lors que l’expérience nous a enseigné que les MSAP qui avaient connu le plus grand succès étaient celles qui étaient majoritairement portées par le bloc communal.<br/>Pour que les structures France services atteignent leurs objectifs, il convient de ne pas occulter ce constat. Les maires, les DGS – directeurs généraux des services – et les secrétaires de mairie sont de formidables relais d’information, et il est important qu’ils soient associés dès le départ à la démarche. Le droit à la différenciation, madame la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, doit être en l’espèce une réalité, et il faut laisser aux élus locaux des marges de manœuvre pour déployer – en lien, évidemment, avec les préfets – ces nouvelles structures de manière optimale en permettant, le cas échéant, qu’ils s’affranchissent d’une critérisation trop contraignante.<br/>Nos collectivités locales voient dans les maisons France services un moyen efficace de satisfaire leurs administrés et de redynamiser leur territoire. Elles s’engagent donc fortement pour obtenir la labellisation et la pérennisation des structures déjà implantées.<br/>Mais cette démarche a un coût important. Si l’État accompagne les collectivités lors de la création de ces maisons, à travers une enveloppe annuelle de 30 000 euros qui permet notamment de couvrir une partie des frais de fonctionnement, celle-ci n’est toutefois pas toujours suffisante pour permettre la présence à temps complet de deux agents, condition nécessaire à la labellisation.<br/>Là encore, faisons preuve de souplesse et laissons aux élus d’un même territoire la faculté de s’accorder entre eux sur le fonctionnement global de leurs maisons France services, notamment lorsque ces structures sont portées par l’intercommunalité : la règle des deux agents doit pouvoir être adaptée, grâce à la mutualisation des moyens humains, dans la mesure où la montée en charge de ces structures se fait souvent de façon très progressive, notamment pour les raisons évoquées plus haut.<br/>À ce titre, mon territoire constitue une nouvelle fois une bonne illustration de ce besoin de souplesse. En effet, l’une des communautés d’agglomération compte trois maisons France services, qui mobilisent aujourd’hui six agents à temps plein. Or, si nous permettions à ces structures de mutualiser leurs agents, il serait possible de ne mobiliser que quatre agents présents physiquement, auxquels viendrait s’ajouter un agent volant, et ce pour une même qualité de service rendu aux citoyens.<br/>La souplesse est donc la clef d’un bon fonctionnement et d’une qualité de service optimale ainsi qu’une source d’économies substantielles pour l’État et les collectivités – et vous connaissez, madame la ministre, l’attachement de notre groupe à la maîtrise de la dépense publique. En écho à la loi visant à accélérer et à simplifier l’action publique que nous avons votée il y a quelques mois, elle doit également s’appliquer au plan administratif, et la labellisation ne doit pas être un parcours du combattant pour nos élus, faisant ainsi obstacle déploiement rapide et efficace des maisons France services.<br/>Nous le savons, la crise sanitaire et économique que nous traversons va nécessairement augmenter le besoin des Français en services publics. Pôle emploi, les caisses d’allocations familiales ou le trésor public seront largement sollicités face à la vague de faillites et de licenciements que nous redoutons tous. Les maisons France services auront donc un rôle de premier plan à jouer, et mon collègue Thomas Gassilloud aura l’occasion de vous interpeller sur ce point précis.<br/>Enfin, les besoins en services publics de nos concitoyens évoluent, et les maisons France services doivent évoluer avec eux – vous nous en avez fait la démonstration en présentant il y a quelques jours, avec le garde des sceaux, le point justice de la maison France services de Sorgues. Nous ne pouvons que nous réjouir de cette innovation qui améliore l’accès au droit et nous aimerions, madame la ministre, que, vous nous exposiez à cet égard la façon dont vous envisagez l’évolution des maisons France services, en ce qui concerne notamment d’éventuels nouveaux partenariats qui pourraient être à l’ordre du jour.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781580" ordre_absolu_seance="26" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369835" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781581" ordre_absolu_seance="27" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369836" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Lemoine</nom>
+            <id>721632</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Par ailleurs, n’oublions pas que la réussite des maisons France services dans certaines zones rurales dépendra de facteurs extérieurs, au premier rang desquels le déploiement du très haut débit et de la fibre, qui permettra d’accueillir des services et des partenaires de l’État dans des territoires reculés. La crise sanitaire a montré que nous pouvions parfaitement nous accommoder de technologies comme la visioconférence ou la téléconsultation et a confirmé que l’accompagnement de nos concitoyens dans l’utilisation du numérique était un enjeu majeur qui ne concernait pas seulement les personnes âgées : les maisons France services ont tout leur rôle à jouer dans cet accompagnement pour une meilleure inclusion numérique.<br/>Plusieurs défis restent à relever, notamment celui de la visibilité des dispositifs. Nombre de nos concitoyens dans le besoin méconnaissent ces services mis à leur disposition.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781583" ordre_absolu_seance="29" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369838" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est vrai !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781584" ordre_absolu_seance="30" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369839" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Lemoine</nom>
+            <id>721632</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Afin d’avoir la visibilité qu’elles méritent, les maisons France services doivent bénéficier d’une communication intensive au plan local comme au plan national, grâce à des campagnes publicitaires dignes de ce nom : présidente d’EPCI, il m’aura fallu près d’un an pour faire connaître à mes administrés mon ancienne MSAP et la rendre incontournable ! Pouvez-vous dès lors nous indiquer, madame la ministre, comment on peut améliorer la visibilité des maisons France services et si vous envisagez une campagne de communication nationale ?<br/>L’outil maison France services est efficace ; faisons en sorte de le valoriser et de l’adapter à notre territoire, en prenant ici l’engagement collectif d’en faire un dispositif pérenne comme auraient pu l’être les MSAP, que nous aurions fort bien pu faire évoluer, alors que changer un label induit inévitablement des coûts, directs et indirects.<br/>Quoi qu’il en soit, nous vous remercions pour votre engagement, madame la ministre, et vous pouvez compter sur le soutien du groupe Agir ensemble pour continuer dans cette direction.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781587" ordre_absolu_seance="33" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369842" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Maxime Minot</nom>
+            <id>720630</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Heureusement que vous êtes là, car vos collègues sont absents !</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Pascal Brindeau" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM761932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781588" ordre_absolu_seance="34" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2369843" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pascal Brindeau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1781589" ordre_absolu_seance="35" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369844" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les maisons France services ont vocation à répondre à une demande qui n’est pas nouvelle mais qui s’accroît, notamment sous l’effet de la crise, à savoir le besoin exprimé par nos concitoyens, qu’ils vivent dans les territoires ruraux ou dans les quartiers sensibles de nos villes, de voir facilité leur accès aux services publics, alors même que la tendance est plutôt, depuis une vingtaine d’années, à la concentration de ces services dans les centres urbains, loin de celles et ceux qui, pourtant, en ont le plus besoin.<br/>On pourrait citer plein d’exemples, mais je pense plus particulièrement aux services postaux, car ils illustrent, avant tous les autres, ce reflux des services publics, l’ouverture à la concurrence exigée par le droit européen ayant profondément modifié l’exercice du service public postal universel par La Poste, autrefois la seule à l’assumer, partout sur le territoire.<br/>Cela ne signifie pas, dans mon esprit, qu’il faille s’arc-bouter <italique>ad vitam aeternam </italique>sur une conception traditionnelle des services publics, qu’on parle de La Poste, des finances publiques ou de la justice, sans prendre en compte l’évolution non seulement de notre environnement technologique, mais aussi de la structure des territoires ruraux ou des quartiers sensibles.<br/>Le constat objectif que l’on peut faire, qui correspond à une tendance lourde plus qu’il n’est le fait d’un gouvernement ou d’un autre, est que lorsque l’on souhaite réintroduire de la proximité dans les services publics, l’État se tourne en général vers les collectivités territoriales. Les maisons France services ne font pas exception à la règle, puisque ce sont évidemment les EPCI – communautés de communes ou communautés d’agglomération – qui sont les interlocuteurs de l’État, dans la continuité des maisons de service au public. Les EPCI doivent cependant mobiliser des moyens qui leur sont propres pour pallier les retraits décidés par l’État, lesquels tiennent d’ailleurs parfois à un contexte plus général qu’une simple décision gouvernementale, comme je l’ai expliqué s’agissant du service postal.<br/>Ce qui est important, comme l’a rappelé ma collègue Patricia Lemoine, c’est la souplesse d’appréciation du périmètre : il s’agit d’une qualité des maisons France services dans leur nouvelle version. En France, il n’est pas une communauté de communes ou une communauté d’agglomération qui ressemble à une autre. Je suis bien placé pour parler de la communauté d’agglomération Territoires vendômois, que, madame la ministre, vous connaissez bien : beaucoup plus rurale que les autres – c’est là sa différence –, elle doit pour cette raison répondre à l’enjeu crucial de la présence des services publics. De même, d’autres communautés de communes ont tenté de répondre à cet enjeu de manière différenciée.<br/>La souplesse s’exprime parfois dans la forme que prennent les maisons France services. Je pense à un exemple que vous connaissez bien aussi, à une idée qu’il me semble intéressant de promouvoir : les maisons mobiles, ou du moins les structures mobiles. <italique>(M.</italique><italique> </italique><italique>Jean-Louis</italique><italique> </italique><italique>Bricout applaudit.)</italique><br/>La communauté de communes Beauce Val de Loire,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781618" ordre_absolu_seance="42" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369853" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <id>605069</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela marche bien.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781619" ordre_absolu_seance="43" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369854" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…située dans le Loir-et-Cher et dans ce Cher que j’aime tant, a été à cet égard un précurseur. Là encore, l’État doit encourager ces initiatives. Si je ne devais poser qu’une seule question, ce serait la suivante : comment l’État envisage-t-il de soutenir le développement des maisons France services mobiles, et quel financement pérenne serait-il possible de dégager à cet effet ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781620" ordre_absolu_seance="44" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369855" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <id>605069</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781621" ordre_absolu_seance="45" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le Loir-et-Cher est bien représenté, ce soir…<br/>La parole est à Mme Danièle Obono.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781623" ordre_absolu_seance="46" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369858" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Danièle Obono</nom>
+            <id>721960</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le Gouvernement présente le dispositif France services comme « un nouveau modèle d’accès aux services publics pour les Français. Il vise à permettre à chaque citoyen quel que soit l’endroit où il vit, en ville ou à la campagne, d’accéder aux services publics et d’être accueilli dans un lieu unique, par des personnes formées disponibles, pour effectuer des démarches au quotidien ».<br/>Beau programme ! Si seulement il correspondait à la réalité ! Il ne s’agit en réalité que d’un grossier palliatif à la réduction des moyens publics, laquelle a conduit à la disparition des services publics sur l’ensemble du territoire. En effet, depuis l’acte II de la décentralisation en 2004, les différentes politiques que sont la réduction des effectifs de la fonction publique, la révision générale des politiques publiques – RGPP – de 2007 à 2012, la modernisation de l’action publique de 2012 à 2017, les politiques dites de dématérialisation du programme action publique 2022, ou encore les privatisations – EDF, GDF, La Poste, la SNCF –, ont conduit à réduire l’accès aux droits et aux services publics, non seulement en zone rurale, mais également en zone urbaine, dans des quartiers populaires, souvent les plus densément peuplés.<br/>La création des maisons France services n’a pas pour objectif de stopper cette évolution, mais de poursuivre un mouvement qui remet en cause des principes républicains fondamentaux de continuité et d’égalité d’accès aux droits sur l’ensemble du territoire, en le parant des vertus de la création d’un lieu unique, pour mieux centraliser – ou recentraliser –, donc pour réduire les effectifs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781626" ordre_absolu_seance="49" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369861" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Elle n’a pas tort…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781627" ordre_absolu_seance="50" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369862" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Danièle Obono</nom>
+            <id>721960</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ainsi, dans les Pyrénées-Orientales, un projet de suppression de treize trésoreries publiques sur dix-sept d’ici à 2022 est toujours en cours.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781628" ordre_absolu_seance="51" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369863" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781629" ordre_absolu_seance="52" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369864" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Danièle Obono</nom>
+            <id>721960</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Elles seront remplacées par des points de contact intégrés aux maisons France services.<br/>À Saint-Paul-de-Fenouillet, depuis l’ouverture d’une maison de services au public, les permanences du contrôleur des impôts, de la CAF – caisse d’allocations familiales – et de la CARSAT – caisse d’assurance retraite et de santé au travail – sont arrêtées. De même, l’assistante sociale ne se déplace plus et la mairie craint que l’ouverture d’une maison France services conduise, dans cette continuité, à la fermeture du dernier bureau de poste.<br/>Ces disparitions sont programmées depuis des années. Une maternité sur deux et un bureau de poste sur deux ont été fermés depuis vingt ans. Une école a été fermée chaque jour depuis dix ans. L’objectif de réduction des dépenses publiques et la rigueur budgétaire conduisent à rentabiliser ce qui ne devrait pas être considéré comme marchandable : l’accès aux droits de tous les citoyens sur le territoire. Ils contribuent également à la mise en concurrence des services publics avec le privé, au bénéfice du privé. Tout cela a conduit à détériorer l’accès aux droits et à réduire les services publics de proximité.<br/>La réalité des conséquences des politiques que le Gouvernement a choisi de poursuivre saute aux yeux de tout le monde : aujourd’hui, avec la crise sanitaire ; hier surtout, avec la mobilisation des gilets jaunes, qui traduisait largement la désertification de l’État dans les territoires qui en ont le plus besoin. Par contre, la nécessité de remettre en cause ces politiques ne semble pas encore avoir complètement éclairé la majorité de cette assemblée, ni du Gouvernement.<br/>Dans la continuité des politiques de réduction de l’accès aux droits par la réduction des services publics, ce sont tous les services sociaux essentiels, tous les travailleurs des services publics essentiels, qui sont remis en cause. Des services de l’État aussi importants que l’intérieur, la justice, les finances publiques, ont subi des coupes drastiques dans leurs effectifs en raison de ces différentes réformes, de même que les services de la protection sociale, les services de Pôle emploi, de La Poste, de secteurs essentiels comme ceux de l’énergie, avec EDF et GDF. Tout cela s’est effectué au prix de l’accès aux droits, mais également de l’égalité républicaine.<br/>De même, puisque la création des maisons France services se fait à effectifs constants, dans ce même cadre de la politique de réduction des effectifs, il n’y aura donc pas d’augmentation réelle des services apportés aux usagers, aussi bien quantitativement que qualitativement.<br/>Vous comprendrez donc fort bien pourquoi le groupe de La France insoumise est opposé à cette politique de réduction des services publics. Au contraire, nous défendons une approche qui va dans le sens d’un redéploiement, d’un renforcement, d’un redéveloppement des services publics, et nous défendons l’idée que tout le monde doit pouvoir vivre à moins de vingt minutes des cinq services publics essentiels. Il faut donc remettre en cause l’ensemble des politiques que vous menez. Je vous interpellerai sur un certain nombre de points qui attendent des réponses précises de la part des élus locaux, mais c’est bien l’ensemble de votre politique que le groupe de La France insoumise remet en cause dans ce débat. <italique>(M.</italique><italique> </italique><italique>Pierre Dharréville applaudit.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Sylvia Pinel" id_acteur="PA336175" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723328">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781636" ordre_absolu_seance="59" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2369871" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sylvia Pinel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781637" ordre_absolu_seance="60" id_acteur="PA336175" id_mandat="PM723328" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369872" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sylvia Pinel</nom>
+              <id>336175</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis heureuse de débattre de cette thématique, qui m’est particulièrement chère, et je veux remercier le groupe Agir ensemble de l’avoir choisie. Pourquoi le Gouvernement a-t-il choisi de déployer les maisons de service au public il y a quelques années ? Elles étaient une réponse pragmatique en lien avec les opérateurs et les collectivités, pour enrayer le cycle vicieux des fermetures en série qui touchent certains territoires.<br/>En effet, nous savons que ces fermetures en cascade nourrissent, à juste titre, le sentiment de relégation des territoires et d’abandon de ceux qui y vivent. Afin d’enrayer ce mouvement, j’avais souhaité, lorsque j’étais membre du Gouvernement, accélérer le déploiement de ces MSAP. Celles-ci avaient vocation à réintroduire, au sein d’espaces mutualisés, les services de la CAF, de Pôle emploi, de GRDF ou de la CARSAT au plus près de nos concitoyens, et à retisser un lien trop souvent distendu. J’avais d’ailleurs eu le plaisir, mes chers collègues, d’en visiter chez certains d’entre vous.<br/>Les maisons France services, héritières des MSAP, poursuivent cette même ambition d’accompagner les citoyens dans leurs principales démarches administratives au plus près du terrain. Actuellement ces maisons, dont 856 ont été labellisées, sont majoritairement portées par les collectivités territoriales. La route est encore longue pour atteindre l’objectif que le Gouvernement s’est fixé : implanter une structure dans chaque canton et en comptabiliser 2 500 d’ici à 2022.<br/>La dernière loi de finances a rehaussé les crédits alloués à cette fin, avec l’objectif d’accélérer le rythme. Il reste désormais à savoir si cette progression des moyens sera suffisante pour permettre une amélioration qualitative de ces structures. En effet, le passage des MSAP aux maisons France services devait s’accompagner d’une montée en gamme et en nombre des services apportés. J’ai souscrit à cet objectif, et je l’ai d’ailleurs régulièrement souligné, même si, comme vous le savez, madame la ministre, j’ai regretté le changement de nom, qui a fait perdre en lisibilité.<br/>L’association de nouveaux opérateurs et l’amélioration des services occasionnent des surcoûts, ce qui est normal. Or le forfait de 30 000 euros par maison, alimenté à la fois par les opérateurs et par l’État via le FNADT – fonds national d’aménagement et de développement du territoire –, n’évolue pas en conséquence. Afin que ce renforcement des maisons France services ne pèse pas sur les budgets des collectivités, déjà contraints par la crise du covid, comptez-vous réévaluer le forfait accordé à chaque maison ?<br/>Par ailleurs, le succès de cette opération dépendra en grande partie du caractère effectif de la montée en gamme promise. En effet, si nos concitoyens ont besoin de proximité, ils ont tout autant besoin d’un service de qualité. Or seules deux personnes formées à l’accueil du public sont prévues dans chaque maison : elles devront être en mesure, a minima, de répondre aux questions des usagers relatives aux démarches d’une dizaine d’opérateurs. La formation des personnels de ces maisons est donc un enjeu clé : elle ne peut pas se limiter à une formation initiale ; elle doit s’opérer de manière continue, afin que chaque agent soit à jour sur les dernières évolutions relatives aux démarches des opérateurs.<br/>À ce titre, je veux saluer l’engagement de l’ANCT – l’Agence nationale de la cohésion des territoires – de développer la formation continue à compter de cette année. Le groupe Libertés et territoires sera toutefois vigilant quant aux modalités de cette formation, afin qu’elle permette un accompagnement effectif et efficace des agents.<br/>La question du numérique est elle aussi cruciale : à l’heure où la réorganisation des services de l’État a laissé une place croissante aux téléprocédures administratives, de nombreux citoyens souffrent des fractures numériques, qu’il s’agisse du déploiement du réseau ou des usages. Afin d’y remédier, le Gouvernement a annoncé, en novembre dernier, la création de 4 000 postes de conseillers numériques. Comment ce dispositif s’articulera-t-il avec celui des maisons France services, dont l’une des missions phares est l’accompagnement des personnes éloignées du numérique ?<br/>L’avenir du réseau territorial des finances publiques est un autre sujet majeur de préoccupation pour les territoires. Le Gouvernement poursuit, malgré la ferme opposition des élus locaux et des agents, la restructuration de ce réseau à travers le plan – bien mal nommé – nouveau réseau de proximité.<br/>L’idée qui a présidé à la création des MSAP était de renforcer les capacités du service public des impôts, notamment lors des pics d’activité de déclaration fiscale. Or la fermeture progressive de nombreuses trésoreries, remplacées par des points de contact, notamment une MFS – maison France services –, relève d’une tout autre logique…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781647" ordre_absolu_seance="70" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369882" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781648" ordre_absolu_seance="71" id_acteur="PA336175" id_mandat="PM723328" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369883" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sylvia Pinel</nom>
+              <id>336175</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et inquiète légitimement, dans le Tarn-et-Garonne, les élus et les habitants concernés : j’en ai déjà parlé hier. Nous ne devons pas rompre avec l’ambition initiale des maisons France services : rapprocher les administrations de nos concitoyens et assurer l’égalité de nos territoires. Elles ne sauraient servir de prétexte pour un nouveau recul des services publics dans nos territoires. <italique>(M.</italique><italique> </italique><italique>Philippe Vigier et M.</italique><italique> </italique><italique>Pierre Cor</italique><italique>dier applau</italique><italique>dissent.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Dufrègne" id_acteur="PA718720" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722436">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781649" ordre_absolu_seance="72" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2369884" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Dufrègne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1781650" ordre_absolu_seance="73" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369885" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens tout d’abord à remercier le groupe Agir ensemble pour avoir proposé ce débat sur le déploiement des maisons France services. C’est un sujet qui me tient à cœur, non seulement parce que je viens d’un territoire rural, mais aussi parce que j’y ai travaillé avec mon collègue Jean-Paul Mattei, dans le cadre de notre rapport sur les services publics dans les territoires ruraux.<br/>Les maisons France services sont amenées à remplacer progressivement les maisons de service au public. Il s’agit de structures d’accueil physique au public, mais aussi de lieux d’accompagnement numérique. Plusieurs services y sont regroupés, avec un socle de services qui conditionne l’obtention du label.<br/>Si elles proposent certains services, elles ne doivent pas servir de prétexte à un désengagement de l’État. Il s’agit de compléter et de renforcer une offre déjà existante. L’objectif du Gouvernement est de déployer 2 000 maisons France services d’ici à 2022, avec une maison par canton, située à moins de trente minutes de chaque citoyen. Dans notre rapport, je proposais de recentrer le maillage du réseau autour des bassins de vie, en définissant un temps d’accès maximal de vingt minutes.<br/>En octobre 2020, on dénombrait 856 maisons France services dans le territoire métropolitain et ultramarin. Une nouvelle vague de labellisation devrait bientôt avoir lieu. Les préfets doivent chaperonner le projet, en lien avec l’Agence nationale de la cohésion des territoires. Sur le terrain, cependant, ce sont souvent les intercommunalités qui mettent à disposition les personnels et qui sont à l’origine des projets. Il faut continuer à leur faire confiance. De plus, l’accès aux services publics pour les personnes éprouvant des difficultés à se déplacer doit être renforcé : des problèmes persistent.<br/>Dans ma circonscription de l’Allier, une maison France services est déjà installée au Montet, au cœur du bocage bourbonnais. Un projet est en cours de validation à Bourbon-l’Archambault, de même qu’un autre projet, uniquement itinérant. Ce dernier a été élaboré après à un appel à manifestation d’intérêt lancé par l’Agence nationale de la cohésion des territoires. Des réponses devaient être données le 1<exposant>er</exposant> janvier 2021 – nous attendons toujours. Pour cette maison itinérante, l’intercommunalité a fait le choix d’une permanence mobile dans différentes mairies,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1781596" ordre_absolu_seance="78" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2369949" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1781596" ordre_absolu_seance="79" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2369948" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…ce qui ne s’accordait visiblement pas avec la conception de l’itinérance de l’ANCT, laquelle souhaite encourager la présence d’agents traversant les territoires et officiant au sein d’un véhicule mobile équipé. Lorsque le projet a été présenté, l’incompréhension était manifeste. Il est pourtant plus confortable pour les habitants de se rendre dans les mairies, où les secrétaires peuvent prendre les rendez-vous. En outre, cela replace les mairies au cœur du dispositif.<br/>La formation des agents mérite également qu’on s’y intéresse. Elle est conçue pour qu’ils sachent donner des informations, gérer le quotidien, accompagner l’utilisation d’outils informatiques et aider aux démarches en ligne. Cependant, en plus de la formation initiale avant l’ouverture d’un guichet, une formation en amont de chaque nouvelle procédure est souhaitable. Il faut aussi donner les moyens de répondre à des problèmes du quotidien. Par exemple, il arrive que des usagers ne possèdent pas de carte bancaire, ce qui peut être source de blocage dans certaines démarches.<br/>Le Gouvernement fait en ce moment la promotion de MaPrimRénov’, dispositif d’aide à la rénovation énergétique. Lundi, vingt-six rendez-vous étaient pris dans la maison France services du Montet. Alors que la plupart concernaient cette prime, les agents n’avaient reçu aucune information préalable. Pire, le numéro vert dédié n’était pas joignable. Le même souci s’était présenté il y a deux ans, lors de la campagne d’information sur la déclaration d’impôts en ligne. Les agents avaient été formés seulement deux jours avant la clôture.<br/>S’agissant des fonds, il me paraît essentiel de sécuriser le financement pluriannuel des établissements, ou du moins de l’améliorer. Avant, les collectivités disposaient d’une enveloppe de 30 000 euros par maison de services au public. Les maisons France services viennent supplanter ces dernières et impliquent plus de contraintes, plus de services, plus d’agents. L’enveloppe est cependant restée la même.<br/>« Quel que soit l’endroit où l’on habite, on doit pouvoir rencontrer un [des] représentants [du service public] », avait affirmé Édouard Philippe dans sa déclaration de politique générale, en juin 2019. Qu’en est-il aujourd’hui ? Le dispositif est bon, les idées aussi, mais il reste encore un long chemin à parcourir avant d’assister à un déploiement homogène et efficace, lequel, je le répète, ne doit pas servir de prétexte pour diminuer l’offre par ailleurs. <italique>(Applaudissements sur les bancs du groupe GDR. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Gérard Leseul applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Claire Bouchet" id_acteur="PA267337" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774491">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1781601" ordre_absolu_seance="84" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2369895" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Claire Bouchet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1781602" ordre_absolu_seance="85" id_acteur="PA267337" id_mandat="PM774491" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369896" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Claire Bouchet</nom>
+              <id>267337</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est avec une certaine satisfaction que j’aborde le sujet du déploiement des maisons France services, lequel concrétise le retour tant attendu des services publics de proximité dans notre pays. Il répond à une demande forte de nos concitoyens, qu’ils expriment depuis de nombreuses années, comme ils l’ont fait à l’occasion du grand débat national. Le manque de proximité des administrations participait à creuser une fracture territoriale contre laquelle il était urgent d’agir. C’est tout le sens de la création des maisons France services, annoncée par le Président de la République lors de sa conférence de presse du 25 avril 2019.<br/>L’idée directrice est d’instaurer une politique de guichet unique et de remédier à certains dysfonctionnements des maisons de service au public en élevant leur niveau général grâce à un panier commun de services. Les Français peuvent désormais s’adresser dans un même lieu à au moins sept organismes, tels que Pôle emploi, La Poste, l’ensemble des caisses de protection sociale et diverses administrations de l’État. Ce socle de services peut être enrichi par les collectivités territoriales et d’autres partenaires, en fonction des besoins locaux exprimés par nos concitoyens. Pour une meilleure adaptation aux emplois du temps de chacun, les maisons France services sont ouvertes au moins cinq jours par semaine.<br/>Afin de répondre efficacement aux besoins des administrés, chaque agent d’accueil bénéficie d’une formation intégralement financée par l’État, lui permettant de délivrer une information de premier niveau, de résoudre les cas les plus complexes et d’accompagner les usagers dans toutes leurs démarches en ligne. Nous assistons donc bien à l’avènement d’un service public moderne, qui apporte une réponse à visage humain aux besoins des citoyens, tout en exploitant les potentialités du numérique et en formant les personnes éloignées des usages de l’internet.<br/>Ce retour des services publics de proximité trouve sa traduction concrète sur le terrain avec une ambition simple : chaque Français doit à terme pouvoir accéder à une maison France services en moins de trente minutes. Le Président de la République lui-même s’est exprimé en ce sens, souhaitant qu’une maison France services voie le jour dans chaque canton d’ici à la fin du quinquennat. À ce jour, plus de 1 100 maisons France services ont ouvert en métropole et dans les territoires ultramarins ; 800 d’entre elles, soit une écrasante majorité, étaient des MSAP labellisées, ce qui atteste une réelle amélioration des services proposés. Les nouvelles maisons France services amorcent un déploiement massif de l’ensemble des services publics en ciblant prioritairement les territoires ruraux.<br/>Le développement de ces nouveaux réseaux de proximité est rendu possible par un fort soutien financier de l’État : chaque structure labellisée bénéficie d’une subvention de 30 000 euros par an, à condition de respecter un cahier des charges précis auquel les MSAP doivent se conformer. C’est là une contrepartie indispensable pour assurer un service public de qualité.<br/>Ces projets ne pourraient cependant voir le jour sans le concours des collectivités territoriales. L’État se tient à leurs côtés, via la dotation d’équipement des territoires ruraux – DETR – et la dotation de soutien à l’investissement local, afin de couvrir 80 % des dépenses d’investissement liées à la création d’une maison France services. Je forme le vœu que cette dynamique de déploiement s’accélère durant l’année à venir et que la formation des personnels d’accueil soit renforcée, comme l’offre des services.<br/>Si les retours d’expérience des premières maisons France services sont très positifs, il existe néanmoins quelques obstacles à surmonter au niveau local. Je l’ai constaté dans ma circonscription des Hautes-Alpes, où certaines manquent de personnel, en particulier la MSAP du Champsaur-Valgaudemar, qui se déploie sur trois sites différents pour s’adapter aux particularités géographiques. Cette maison devrait abandonner deux de ses sites pour satisfaire au critère de deux agents travaillant simultanément et ainsi obtenir le label France services. La labellisation se traduirait donc par un éloignement des services publics, ce qui va à l’encontre de notre objectif commun.<br/>Plus globalement, ce même critère de deux ETP – équivalents temps plein – par structure est à l’origine de plus de la moitié des refus de labellisation : il est nécessaire de prendre en considération les caractéristiques de chaque territoire pour s’y adapter. Dans cette perspective, j’ai toute confiance en notre Gouvernement, en particulier en vous, madame la ministre, sans oublier notre secrétaire d’État chargé de la ruralité, Joël Giraud, pour assurer la présence de France services dans tous nos territoires, sans exception. En définitive, la majorité parlementaire peut être fière d’avoir engagé le renouveau des services publics de proximité, qui doit être poursuivi sans relâche afin de fournir à nos concitoyens des endroits où trouver des solutions aux difficultés qu’ils rencontrent. En effet, la simplicité constitue la vraie protection et le vrai service au public. <italique>(M.</italique><italique> </italique><italique>Jean-Marc Zulesi applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre Cordier" id_acteur="PA718850" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722478">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1781608" ordre_absolu_seance="93" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2369902" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Cordier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1781609" ordre_absolu_seance="94" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2369903" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Meilleurs vœux à tous. En bon gaulliste que je suis, je vais essayer de faire la synthèse entre les libéraux et les communistes, qui se sont exprimés il y a quelques instants par l’intermédiaire de Jean-Paul Dufrègne. Je voulais souligner l’intérêt des débats que nous avons eus hier et aujourd’hui, sur la pauvreté comme sur les EHPAD, et maintenant sur l’aménagement du territoire. Ce sujet impose le constat terrible de fermetures de services publics, de suppressions d’emplois publics, d’abandons de territoires ruraux ou urbains, mais aussi de grands services, comme la SNCF ou La Poste : peu à peu, les fermetures de bureaux ou de guichets handicapent nos territoires. En 2015, la loi portant nouvelle organisation territoriale de la République, dite NOTRe, a instauré les MSAP, principalement pour donner les moyens d’accompagner les citoyens dans leurs démarches administratives. Finalement, madame la ministre, vous emboîtez sur ce point le pas au gouvernement précédent.<br/>Concernant la communication, il faut effectivement la renforcer car les gens ne savent pas que ces maisons existent, comme l’a dit notre collègue tout à l’heure.<br/>Lors d’une audition en commission, madame la ministre, nous avons eu l’occasion d’évoquer le choix de l’échelon territorial. Le chef-lieu de canton est souvent un bourg centre, doté d’un collège et d’un bureau de poste et entouré de nombreuses petites communes. Il semblait donc pertinent d’y implanter les maisons de services publics. Le redécoupage cantonal réalisé par le gouvernement précédent en 2015 a toutefois remis en cause cette logique d’aménagement du territoire et cassé un dynamisme à l’œuvre dans les départements : les élus que nous sommes ont tous pu le constater, quelle que soit leur circonscription. Je m’interroge désormais sur le choix de l’échelon cantonal. La notion de bassin de vie ne serait-elle pas préférable ? Une expérience intéressante impliquant des intercommunalités a été évoquée tout à l’heure par M. Pascal Brindeau. Madame la ministre, quel échelon vous paraît le plus pertinent ? Déciderez-vous de laisser les territoires répondre eux-mêmes à cette question ?<br/>S’agissant des équipes, deux agents polyvalents doivent être présents dans les maisons France services, en plus d’autres partenaires, l’assurance maladie, la CAF, Pôle emploi et la MSA – Mutualité sociale agricole –, ainsi que des services des ministères de l’intérieur, des finances et de la justice. Les agents sont très motivés ; j’ai d’ailleurs eu l’occasion d’en rencontrer quelques-uns dans le département des Ardennes, qui fut pilote pour développer les maisons France services. Beaucoup de leurs questions concernent la formation : il semblerait qu’elle ne soit pas tout à fait suffisante en termes de polyvalence.<br/>En outre, ces maisons de service au public ne seraient ouvertes que vingt-quatre ou vingt-cinq heures par semaine chacune, ce qui peut sembler un peu court pour les habitants qui souhaitent s’y rendre. Avez-vous prévu une évaluation régulière de la performance et, pourquoi pas, un recueil du taux de satisfaction des usagers ? Il faut vraiment interroger nos concitoyens pour savoir ce qu’ils pensent du dispositif.<br/>S’agissant du financement, l’État verse 30 000 euros par an, soit, bon an mal an, le coût d’un salarié au sein de ces structures. On sait qu’il y faut deux agents : qui va payer la différence ? J’ai reçu des informations selon lesquelles, dans mon département, ce seront les communes ou les intercommunalités qui mettront la main à la poche.<br/>Sans doute me direz-vous, madame la ministre, que vous avez mis fin à la baisse des dotations, sachant que le gouvernement précédent avait tout de même retiré 11 milliards d’euros des caisses des collectivités territoriales. Il n’en demeure pas moins qu’il s’agit de frais de fonctionnement. Il convient d’être particulièrement attentif aux questions de financement : veillons à ne pas alourdir le budget de fonctionnement des collectivités territoriales.<br/>Pour conclure, il ne faudrait pas que les maisons France services soient un lot de consolation pour calmer les usagers. À cet égard, je rejoins les collègues qui siègent dans la partie gauche de l’hémicycle – vous le savez, les gaullistes ont toujours été proches des communistes et partagent de nombreux points communs avec eux. <italique>(M.</italique><italique> </italique><italique>Jean-Paul Dufrègne applaudit. – Sourires et exclamations sur les bancs des groupes GDR, FI et SOC.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781810" ordre_absolu_seance="102" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vive le CNR !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781811" ordre_absolu_seance="103" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les citoyens ne comprendraient pas que ce soit un lot de consolation pour les territoires. Ils nous le disent, madame la ministre : « Où vont nos impôts ? » Les guichets des gares, les bureaux de poste et les trésoreries disparaissent, alors que les impôts ne diminuent pas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781812" ordre_absolu_seance="104" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370283" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez conclure, mon cher collègue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781813" ordre_absolu_seance="105" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370284" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je conclus, monsieur le président.<br/>Dans les territoires où le développement économique est naturel et où les gens n’ont pas de besoins particuliers, la présence de l’État n’est pas indispensable. En revanche, dans les territoires qui souffrent, et ils sont nombreux en France – j’ai cité le département des Ardennes, mais il y en a beaucoup d’autres –, l’État doit être davantage présent. Vous le savez, madame la ministre, je crois en l’État. Dans ces territoires en difficulté, nous avons besoin de vous. <italique>(Applaudissements sur les bancs des groupes LR et GDR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781815" ordre_absolu_seance="107" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370286" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <id>720630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Vigier" id_acteur="PA331582" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722646">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781816" ordre_absolu_seance="108" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370287" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Vigier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781817" ordre_absolu_seance="109" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela nous fait plaisir de mener un tel débat, d’autant qu’il est transpartisan et plutôt apaisé. Lorsqu’il est question des territoires, il est difficile de tenir un discours dans l’hémicycle et un autre sur le terrain. Le département ministériel dont vous avez la charge, madame la ministre, correspond à des attentes fortes de la population.<br/>Ma commune a eu la chance de disposer d’un établissement public numérique dès 2002. Nous avions répondu à l’époque à un appel à projets de la région Centre visant à améliorer les outils numériques. Ma collègue Sylvia Pinel, ici présente, a lancé la génération des maisons de services au public. Et pour Noël, j’ai eu le bonheur, comme d’autres, de trouver dans mon petit soulier la labellisation d’une maison France services dans la commune dont j’ai été maire pendant seize ans. C’est, à n’en pas douter, un très beau cadeau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781819" ordre_absolu_seance="111" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370290" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <id>720630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, madame la ministre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781820" ordre_absolu_seance="112" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370291" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’invite chacun à relire le beau livre de Christophe Guilluy, <italique>La France périphérique</italique>, qui montre comment nous en sommes arrivés à cette spirale de sentiment d’abandon, parfaitement illustré par le mouvement des gilets jaunes. Cela a été dit, de nombreux services ont disparu : des caisses primaires d’assurance maladie, des bureaux de poste, des banques, des services fiscaux. Des sous-préfectures ont été démembrées, notamment celle du chef-lieu de canton qui se trouve dans ma circonscription, dont le nombre d’agents est passé de vingt à sept.<br/>Face à cet abandon, il est nécessaire d’offrir une capacité de rebond, de redonner une perspective et d’expliquer que le service public pour tous n’est pas seulement un slogan, mais une exigence.<br/>Je mentionne en outre les problèmes de mobilité. Dans mon territoire, il n’y a pas de train permettant de rejoindre la capitale régionale, Orléans, et les services de car sont rares.<br/>Il y a aussi un problème de complexité croissante. Il suffit de regarder les différents formulaires pour s’en rendre compte. Même lorsqu’on est expert en ces matières, il faut être, par moments, courageux.<br/>Et l’on parle trop peu de l’illettrisme numérique – qui donc est au rendez-vous à cet égard ? – et du sous-équipement numérique. L’équipement numérique des familles qui vivent en zone rurale n’a rien de commun avec celui des familles qui résident dans les agglomérations.<br/>Il faut donc bâtir la France d’après, la France post-covid, une France qui maîtrise beaucoup mieux les outils numériques. Notre pays a besoin de se ressouder, d’avoir une véritable cohérence. D’ailleurs, des habitants des très grandes villes ont souhaité rejoindre nos provinces. Le moment est venu, me semble-t-il, de donner une impulsion complémentaire.<br/>Ma circonscription a la chance d’être maillée de plusieurs maisons France services. Je suis très attaché à cet outil, qui correspond aux attentes des habitants.<br/>J’en viens à quelques points de vigilance.<br/>Pour obtenir la labellisation, le dossier à constituer n’est pas mince. Il faut en outre deux salariés et une ouverture pendant vingt-quatre heures au minimum. J’appelle d’ailleurs les services de l’État à faire preuve d’un peu de souplesse. Dans ma commune, nous avons eu quelque mal à faire comprendre que la maison France services pouvait fonctionner pour partie dans une médiathèque et pour partie dans un autre lieu. Avec un peu de salive et de persuasion, nous y sommes parvenus.<br/>Il est arrivé que la direction générale des finances publiques – DGFIP – téléphone le lundi matin pour s’enquérir du nombre de rendez-vous pris pour le jeudi suivant. S’il n’y en avait pas six, elle jugeait le nombre insuffisant et annonçait qu’elle ne viendrait pas. J’ai été amené à dire deux ou trois fois au directeur des services fiscaux que cela ne pouvait pas fonctionner ainsi. Imagine-t-on une épicerie qui n’accueillerait pas le premier client qui se présente ? Personne ne viendrait ! Depuis lors, les choses se sont améliorées. Je me permets de vous relater cet épisode, madame la ministre, car il n’était peut-être pas remonté jusqu’à vous.<br/>Il est beaucoup question des difficultés auxquelles nous serons confrontés en matière d’emploi en 2021. À cet égard, madame la ministre, j’appelle votre attention sur la question des outils numériques. J’ai réuni la semaine dernière toutes les équipes de Pôle emploi travaillant dans ma circonscription. Pôle emploi s’est considérablement adapté au cours de cette période très difficile, et j’ai eu la bonne surprise d’apprendre que, dans mon territoire, pourtant très rural, 65 % des usagers maîtrisaient les outils numériques, connaissaient leurs droits et les possibilités de formation. Auparavant, nous pouvions nous doter de points relais emploi, mais ils étaient, disons-le franchement, assez statiques. Désormais, nous pourrons disposer d’un outil beaucoup plus dynamique. En la matière, les maisons France services auront toute leur pertinence.<br/>L’ANCT a un rôle absolument majeur à jouer. Pour monter les dossiers requis dans le cadre du plan de relance, il serait plus aisé que les agents de l’État donnent un coup de main aux communes – certes, les députés le feront de leur côté –, d’autant qu’elles doivent remettre leur copie le 29 janvier au plus tard.<br/>S’agissant du déploiement de la 4G, nous avons parfois des différends avec les opérateurs – certains de vos collaborateurs connaissent parfaitement ces questions, madame la ministre. Il serait bon de disposer d’un lieu où l’on puisse confronter notre point de vue avec celui de l’ARCEP, l’Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, dont la présidence sera sans doute confiée à l’une de nos collègues,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781833" ordre_absolu_seance="125" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370304" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’audition s’est tenue cet après-midi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781834" ordre_absolu_seance="126" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370305" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et faire le point sur les résultats atteints sur le terrain.<br/>Par ailleurs, je vous invite à foncer en matière de développement du coworking, qui correspond à une attente, à un besoin exprimé de plus en plus fréquemment. Cela nous permettra, j’en suis persuadé, d’aller de l’avant.<br/>Pour conclure, je formule quelques propositions. D’abord, je ne vois pas comment nous pourrions nous passer de l’application numérique évoquée par mes collègues. Il faut une application simple, à l’usage de tous les élus, dont chacun puisse se servir comme il se sert d’Airbnb.<br/>Ensuite, cela a été dit, il faut bien sûr garantir la pérennité du dispositif.<br/>Enfin, je vous incite à faire le maximum en matière de formation dans les outils numériques. Le déploiement de la fibre est une bonne chose – j’ai pris connaissance du bilan dressé par Amélie de Montchalin –, mais ce sera peine perdue s’il n’y a pas de développement des usages. Je vous invite donc à poursuivre le combat que vous avez engagé. <italique>(Applaudissements sur les bancs du groupe Dem. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Pierre Cordier et Mme</italique><italique> </italique><italique>Sylvia Pinel applaudissent également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gérard Leseul" id_acteur="PA774958" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774981">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781839" ordre_absolu_seance="131" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370310" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gérard Leseul.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781840" ordre_absolu_seance="132" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370311" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <id>774958</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie nos collègues du groupe Agir ensemble d’avoir inscrit la question des maisons France services à l’ordre du jour.<br/>Pour de très nombreux usagers, l’attente, l’absence de réponse, les réponses automatiques sont les principaux fléaux dans les services publics et marquent parfois une certaine déshumanisation. Il est agaçant d’être renvoyé de service en service, voire d’être renvoyé sur internet, pour un nombre croissant de démarches administratives. S’équiper d’un ordinateur, d’une imprimante, d’un scanner, disposer des compétences requises, tout cela a un coût. Beaucoup de nos concitoyens ont l’impression que l’État les délaisse et, par la numérisation, externalise ses charges.<br/>En novembre 2017 déjà, une enquête publiée par le Centre de recherche pour l’étude et l’observation des conditions de vie, le CREDOC, soulignait le sentiment d’abandon par les pouvoirs publics éprouvé par une partie de la population : une personne sur trois estimait vivre dans un territoire délaissé. Ce sentiment d’abandon est à la fois géographique et social. Cette perception est très forte dans les territoires situés en dehors des grandes aires urbaines. En 2018, le mouvement des gilets jaunes a mis cette réalité en lumière de manière crue : la colère populaire a notamment pris racine dans les territoires isolés, précisément là où l’État a peu à peu reculé en supprimant un grand nombre de services publics.<br/>Il convient d’en tirer une leçon : aussi utiles soient-ils, le développement du numérique et la dématérialisation des procédures administratives ne peuvent pas être une fin en soi. Le processus doit absolument s’accompagner d’une présence humaine dans les territoires, pour orienter, guider, conseiller et aider les administrés. C’est fondamental pour assurer la cohésion du pays, sa solidité, la solidarité en son sein ; personne ne doit être laissé de côté.<br/>Plusieurs orateurs l’ont rappelé, à la suite du grand débat national et pour tenter de répondre à la crise sociale, le Président de la République a annoncé, le 25 avril 2019, la création d’un réseau France services. Celle-ci poursuit trois objectifs : une amélioration de l’accessibilité des services publics, une simplification des démarches administratives pour lutter contre l’errance administrative et un renforcement de la qualité de service grâce à l’affectation d’agents polyvalents, laquelle nécessite, cela a été dit, de la formation. Cette idée, largement inspirée des maisons de services au public mises en place durant le précédent quinquennat, doit être ambitieuse, madame la ministre.<br/>Aujourd’hui se pose la question du rythme de déploiement des maisons France services à travers le territoire. Promesse a été faite que chaque canton serait doté d’un tel équipement d’ici à 2022.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781846" ordre_absolu_seance="138" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370317" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <id>720630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en sommes loin !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781847" ordre_absolu_seance="139" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370318" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <id>774958</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourtant, sur le terrain, nous constatons parfois des lenteurs, alors que les communes mettent tout en œuvre pour obtenir la labellisation de ce service à destination du public.<br/>Tel est le cas dans la ville du Trait, dans ma circonscription. Depuis 2019, les services municipaux mènent un travail exemplaire afin d’obtenir la labellisation. Grâce à la mobilisation du maire et au travail des équipes municipales, la commune a été labellisée par la caisse d’allocations familiales pour l’accompagnement et l’accès des habitants à leurs droits par l’intermédiaire du centre social. Elle a également été labellisée par la caisse primaire d’assurance maladie – CPAM – pour l’accompagnement et l’accès des bénéficiaires à leurs droits. Elle est engagée dans la réduction de la fracture des usages numériques par l’aménagement d’un espace dédié au numérique. Elle est déjà organisée pour favoriser le retour à l’emploi grâce à l’installation d’un bureau emploi formation, partenaire de Pôle emploi. Elle est en outre partenaire de La Poste, avec laquelle elle a signé une convention en mai 2019. Enfin, un plan de formation à l’accueil, à la médiation et à l’accompagnement concernant neuf agents de la collectivité a été réalisé en partenariat avec la CAF, la CPAM et le Centre national de la fonction publique territoriale – CNFPT.<br/>De plus, la municipalité du Trait répond aux critères que vous avez fixés, puisqu’il s’agit d’une petite centralité, qu’elle est située sur un axe de passage des habitants du canton concerné et qu’elle est assez éloignée de l’offre de services publics existante.<br/>L’exemple que je viens détailler, madame la ministre, soulève la question de la capacité à atteindre l’objectif fixé de 2 500 maisons France services d’ici à 2022, alors que l’on constate une lenteur dans le traitement administratif. Il y aura en principe une maison France services dans chaque canton, à moins de trente minutes du domicile de chaque Français. J’insiste sur ce point, car il est essentiel : pour relever le défi de la dépendance à la voiture individuelle, il nous faut limiter autant que possible les déplacements. On peut d’ailleurs se demander si, dans certains cantons dont le territoire est étendu, une maison France services suffira pour satisfaire ce critère. Peut-être faudrait-il effectivement réduire la distance que vous avez fixée.<br/>En résumé, les maisons France services s’inscrivent dans une démarche de proximité intéressante et nécessaire, déjà engagée grâce aux maisons de services au public. D’après vos propos, madame la ministre, l’objectif est « d’élever [le] niveau général [de ces dernières] avec un panier commun de services », de créer de véritables maisons de services publics. Pour autant, il ne faudrait pas mettre de côté les centaines de communes qui réalisent des efforts pour aller au-delà des missions qui leur incombent, mais qui n’entreront pas forcément dans le dispositif et dans le champ de la labellisation France services. Cet investissement des collectivités locales, qui est parfois anticipé depuis de nombreuses années, mérite soutien et encouragements de la part du Gouvernement. Enfin, il faut bien sûr accélérer le déploiement en cours pour atteindre l’objectif annoncé de 2 500 maisons France services. <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre de la cohésion des territoires et des relations avec les collectivités territoriales" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781852" ordre_absolu_seance="144" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370323" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre de la cohésion des territoires et des relations avec les collectivités territoriales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781853" ordre_absolu_seance="145" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370324" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre de la cohésion des territoires et des relations avec les collectivités territoriales</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, mesdames et messieurs les députés, je veux tout d’abord vous présenter mes meilleurs vœux, à toutes et à tous.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781854" ordre_absolu_seance="146" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Recevez les nôtres en retour !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1781855" ordre_absolu_seance="147" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370326" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci beaucoup.<br/>L’année 2020 nous aura collectivement bouleversés. La crise sanitaire, d’une ampleur inédite, a été difficile pour notre pays. Elle est encore lourde de menaces économiques et sociales pour nombre de nos concitoyens.<br/>Dans un tel contexte, nous devons collectivement pouvoir compter sur tout ce qui fait la solidité de notre nation, comme l’a exprimé le Président de la République lors de ses vœux aux Français. Il convient à la fois d’apporter des réponses aux interrogations, besoins et difficultés de nos concitoyens et de nous donner les moyens de construire l’avenir de notre pays, en accompagnant les élus et les habitants au plus près de leurs projets et de leurs démarches, au moment où le plan de relance se déploie dans les territoires.<br/> <br/>Quoique récentes, les maisons France services font déjà partie des piliers sur lesquels nous allons pouvoir reconstruire notre pays.<br/>Aussi je tiens sincèrement à remercier le groupe Agir ensemble d’avoir inscrit un débat sur leur déploiement à l’agenda parlementaire. C’est en effet l’occasion de faire un point d’étape avec vous sur l’avancée de ce programme, et je remercie tous les parlementaires qui se sont déjà exprimés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781722" ordre_absolu_seance="152" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci pour les autres !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781723" ordre_absolu_seance="153" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370214" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Et ceux qui le feront ensuite ! Je vois qu’il faut toujours trouver des failles, monsieur le député.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781724" ordre_absolu_seance="154" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370215" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous écoutons Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781725" ordre_absolu_seance="155" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370216" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Si je ne fais pas d’erreur, c’est vous, monsieur Cordier, qui avez parlé du contrôle parlementaire. Quand on parle de ce sujet, on pense surtout au contrôle de l’exécution des lois. Or il peut s’effectuer dans un autre cadre, car l’action publique ne se résume pas au travail législatif. Il me paraît très important de le souligner.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781726" ordre_absolu_seance="156" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370217" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On l’oublie souvent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781727" ordre_absolu_seance="157" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370218" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Depuis 2019, année de leur création, l’objectif des maisons France services est à la fois simple et très ambitieux : faire vivre et faire revenir, lorsque c’est nécessaire, les services publics dans les territoires. Nous sommes d’accord sur le constat, fait par tous, du recul des services publics, qui est une réalité depuis un certain nombre d’années. Dès 2017, nous avons fait de la présence des services publics partout dans le territoire l’une des priorités de notre action. Il est vrai que depuis de nombreuses années, certains parlementaires l’ont rappelé, nos concitoyens ont eu le sentiment d’un départ des services publics et d’être délaissés, enclavés, voire déconsidérés dans leur propre territoire. Ces iniquités territoriales ont abîmé notre cohésion sociale, nourrissant les discours d’une France coupée en deux, d’une France périphérique, voire d’une France devenue un archipel.<br/>Ces iniquités ont été au cœur, vous vous en souvenez, des revendications des gilets jaunes et du grand débat qui a suivi. Lors de la conférence de clôture du grand débat, le Président de la République avait ainsi annoncé sa volonté de faire revenir les services publics dans tous les territoires,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781729" ordre_absolu_seance="159" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370220" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il ne sait pas ce que c’est qu’un service public !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781730" ordre_absolu_seance="160" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…en particulier les plus fragiles, c’est-à-dire les territoires ruraux et les quartiers prioritaires de la politique de la ville – QPV. Il avait alors fixé un objectif quantitatif pour garantir un maillage homogène dans l’ensemble du territoire.<br/>Cela a été un élément récurrent de vos interventions, donc je m’y arrête un instant : oui, le Président de la République avait bien déclaré vouloir une maison France services dans chaque canton, et vous vous êtes interrogée, madame Lemoine, sur l’opportunité d’en créer une dans les intercommunalités. C’est aussi une bonne idée, mais l’important est de déployer les services publics là où ils manquent. J’ajouterai à cet égard que les intercommunalités se situent dans des cantons.<br/>Par ailleurs, vous l’avez rappelé à juste titre, madame Pinel, le gouvernement précédent avait créé les MSAP. Vous regrettez le changement de nom, mais il ne s’agissait pas de changer pour changer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781733" ordre_absolu_seance="163" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370224" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <id>605069</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’était juste pour changer les panneaux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781734" ordre_absolu_seance="164" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370225" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Notre volonté était de monter en gamme. En effet, il convient de reconnaître que si certaines MSAP fonctionnaient très bien, d’autres marchaient mal. Nous avons donc voulu créer un système qui garantisse un nombre de services équivalant dans l’ensemble des maisons France services, de manière à assurer à l’usager de trouver un minimum de réponses.<br/>Je le dis et le redis, ce sont souvent les collectivités territoriales qui étaient à l’origine de la création des MSAP et qui le sont des maisons France services. Des réseaux associatifs se sont également engagés dans la création de MSAP puis des maisons France services, je pense par exemple aux PIMMS – points d’information médiation multiservices –, qui sont très présents dans les QPV. Partenaire très important, La Poste avait aussi créé des MSAP et le groupe continue d’agir avec les maisons France services. C’est donc souvent, pour ne pas dire toujours, sur le terrain, en collaboration avec les porteurs de projet, que les choses se construisent.<br/>Le nombre de maisons France services a été donné à plusieurs reprises, mais il n’est plus exact, car nous venons d’en labelliser de nouvelles à la suite de plusieurs demandes. Celui-ci s’élève aujourd’hui très exactement à 1 123. Je précise que nous ne procédons pas à une ou deux vagues de labellisation par an. Nous le faisons, si je puis dire, au fil de l’eau, lorsque les demandes nous parviennent. Nous n’attendons pas d’en avoir quatre-vingts ou cent. Nous accordons le label France services aux maisons qui disposent de tous les services suffisants.<br/>Au-delà du nombre de structures, je souhaite insister sur la qualité du service, garantie dans chacune d’elles. Elles concentrent un panier minimum de services, emploient au moins deux agents d’accueil formés, ont fait l’objet d’un processus de labellisation exigeant et certifié par un organisme extérieur et sont régulièrement évaluées. Cela me permet de répondre dès à présent à l’une des questions qui ont été soulevées : oui, des évaluations sont menées, notamment auprès des usagers, dont le taux de satisfaction est d’ailleurs très élevé puisqu’il atteint environ 85 %.<br/>France services est donc un mouvement de fond, mais aussi une transformation profonde des services publics et du lien entre l’État, les collectivités territoriales et les citoyens. Lorsqu’il en a annoncé la création, le Président de la République avait, une fois encore, fixé un objectif clair : forger un nouveau pacte territorial. Nous le bâtissons depuis trois ans avec des convictions que j’ai chevillées au corps, nourries par une longue expérience d’élue locale.<br/>Les solutions répondant aux grands défis actuels doivent venir, et viennent déjà largement, des territoires. L’État, pour sa part, doit désormais être un accompagnateur, et non plus un prescripteur, qui encourage partout les dynamiques. Il convient de faire ce que j’appelle du « cousu main ». C’est la raison pour laquelle nous essayons de trouver un équilibre entre un cahier des charges ambitieux, qui garantisse à tous les citoyens la même qualité de service, et la flexibilité et la souplesse nécessaires pour que les projets s’adaptent aux territoires.<br/>Les premiers artisans de cette méthode, ce sont bien sûr les élus locaux, que je salue. Vous le savez, j’ai déjà visité de nombreuses maisons France services dans le pays et je puis vous assurer que l’engagement des élus, des communes et des intercommunalités est exemplaire. Cela permet d’impulser et d’animer l’ensemble des projets, notamment par la mise à disposition de locaux et d’agents d’accueil. Les élus confèrent aux projets leur principale force : l’ancrage local, au plus proche des réalités vécues.<br/>Les seconds piliers de ce programme, ce sont bien sûr nos partenaires, dont je veux également saluer la force et l’engagement. Si la proximité est évidemment le premier mot-clé de France services, la simplicité vient immédiatement après. Il s’agissait, là encore, d’un objectif clairement affiché par le Gouvernement : simplifier la vie de nos concitoyens pour lesquels les démarches administratives sont trop souvent un véritable casse-tête.<br/>J’ajoute que, pour reprendre les propos de M. Leseul, l’important réside dans la dimension humaine. Ce sont des hommes et des femmes qui vous accueillent dans les maisons France services et non…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781743" ordre_absolu_seance="173" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370234" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Des machines ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781744" ordre_absolu_seance="174" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370235" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…des machines, en effet, ou des répondeurs qui vous demandent de taper sur la touche 1, 2 ou 3 de votre téléphone.<br/>Ce programme réussit à garantir un même niveau de qualité partout grâce au rassemblement d’un cercle de neuf partenaires : la CNAM, la CNAV – Caisse nationale d’assurance vieillesse –, la CNAF – Caisse nationale des allocations familiales –, La Poste, la MSA – Mutualité sociale agricole –, Pôle emploi, la DGFIP, les services du ministère de l’intérieur et ceux du ministère de la justice.<br/>J’en profite pour revenir sur ce que disait Patricia Lemoine tout à l’heure. La semaine dernière, M. le garde des sceaux et moi-même avons inauguré à Sorgues, en Vaucluse, le premier « point justice », puisque c’est ainsi que le ministère de la justice a décidé d’appeler cette structure qui réunit désormais les points d’accès au droit, les maisons de la justice et du droit et les relais d’accès au droit. Il s’agit d’une simplification, car ces trois lieux seront regroupés sous le label « point justice », lequel sera, le plus souvent, implanté dans les maisons France services.<br/>Je constate aussi que, selon les territoires et leur originalité, les élus locaux ont parfois créé, de leur propre initiative, des services supplémentaires. Je me tourne vers vous, monsieur Dufrègne, député de l’Allier, pour vous dire que je me suis rendue dans la commune de Marcillat-en-Combraille…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781747" ordre_absolu_seance="178" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370238" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781748" ordre_absolu_seance="179" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370239" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…où une maison France services s’est installée à côté de la mairie et de l’office du tourisme. En plus de tous les services que j’ai cités, la mairie a mis en service des voitures électriques, conduites par des chauffeurs bénévoles, pour, par exemple, conduire des personnes âgées à Montluçon le jour du marché. C’est formidable, parce que c’est le service public qui se développe.<br/>J’en profite pour vous dire, monsieur le député, que votre bus Bourbon-l’Archambault fait partie des dernières labellisations qui viennent d’être accordées ; puisque j’étais dans l’Allier, je ne pouvais pas ne pas vous le dire.<br/>De la même manière, je crois que c’est vous, monsieur Vigier, qui en avez parlé tout à l’heure, il est très important que France services contribue au développement des espaces de travail partagé.<br/>Nous nous donnons également les moyens de développer les bus France services dans les QPV comme dans les territoires ruraux. Nous en avions cinquante-deux et nous en disposons désormais de quatre-vingts.<br/>Je rappelle que nous investissons dans les maisons France services à hauteur de 60 000 euros, puis dans leur fonctionnement à hauteur de 30 000 euros. À ce propos, vous m’avez tous dit que ce montant n’a pas augmenté. Or je précise que le financement moyen des MSAP s’élevait à 25 000 euros, avec des écarts très importants d’une maison à l’autre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781753" ordre_absolu_seance="184" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370244" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <id>605069</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une personne au lieu de deux, maintenant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1781754" ordre_absolu_seance="185" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370245" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Attendez un instant, je ne fais pas de reproche, je présente le système tel qu’il était. Le financement moyen était de 25 000 euros, certains touchant plus et d’autres moins. Nous avons décidé de fixer un montant forfaitaire de 30 000 euros, si bien que chaque maison France services est assurée de disposer de cette somme.<br/>Il est un point auquel je suis très attachée – je le dis haut et fort – : si les élus, ainsi que les intercommunalités en général, sont souvent à l’origine des maisons France services, il est aussi très important de maintenir le lien avec chaque mairie et chaque secrétaire de mairie. J’ai constaté dans les territoires que des secrétaires de mairie venaient à France services pour participer à des réunions avec ses animateurs, créant ainsi un lien permanent, qui me semble très intéressant.<br/>Et puis, vous l’avez tous dit, il faut que les agents d’accueil, qui incarnent ce guichet unique qu’est France services, soient formés. C’est très important.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1781654" ordre_absolu_seance="188" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370249" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <id>605069</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1781655" ordre_absolu_seance="189" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370250" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour ce faire, nous avons créé des formations. Après avoir reçu une formation de base, généraliste, les agents d’accueil suivent des formations avec les opérateurs qui se trouvent sur place, ce qui leur permet de répondre directement aux usagers ou de les orienter vers les services compétents. Notre objectif est que toute personne qui entre dans une maison France services avec un problème reçoive une réponse.<br/>Je sais que ceux qui se rendent dans une maison France services ne savent pas toujours dire ce qu’ils cherchent. Ils espèrent un contact humain qui peut leur ouvrir des portes, parce que le dialogue permet d’identifier le problème qu’ils rencontrent. Cette présence humaine renforcée est la clé de la réussite des maisons France services, grâce à l’engagement des agents d’accueil, ces hommes et femmes spécifiquement formés aux différentes démarches et disposant d’outils d’accompagnement de ceux qui se présentent au guichet.<br/>Les agents sont également formés pour développer de nouveaux services. Naturellement, vous l’avez indiqué, leur formation doit être permanente, car les services offerts par ces maisons évoluent. La formation est une donnée essentielle, qui constitue la clé de la réussite de France services.<br/>Vous l’aurez compris, France services est non seulement un programme, mais également une communauté qui se renforce au fil des mois et qui rassemble des personnes animées par une ambition commune.<br/>Enfin, et ce n’est pas la moindre de ses dimensions, France services est l’une des solutions que le Gouvernement apporte pour accompagner les personnes mal à l’aise avec internet et favoriser l’inclusion numérique. Nous avançons rapidement, d’abord dans le fibrage du territoire français. Un orateur a dit tout à l’heure que, s’il était bien d’avoir la fibre, il fallait aussi en connaître les usages. Reste que, pour connaître ces usages, il faut d’abord avoir la fibre ! Dans le plan de relance, nous avons prévu une enveloppe supplémentaire de 240 millions d’euros en complément d’une première enveloppe supplémentaire ouverte il y a quelques mois, ce qui porte l’ensemble à 530 millions d’euros, essentiellement destinés aux départements accusant un retard dans le développement de la fibre.<br/>Toujours dans le cadre du plan de relance, le Gouvernement a annoncé que 4 000 conseillers numériques allaient être formés. Des jeunes seront ainsi envoyés dans les maisons France services comme dans les mairies, pour accompagner les personnes rencontrant des difficultés dans l’usage du numérique. C’est essentiel. N’imaginons pas que seules les personnes âgées sont éloignées du numérique. Même s’ils possèdent un téléphone portable, certains jeunes ne savent pas toujours utiliser un ordinateur, par exemple pour remplir une fiche.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1781661" ordre_absolu_seance="195" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370256" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <id>605069</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1781662" ordre_absolu_seance="196" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370257" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>France services nous permettra d’accompagner les personnes éloignées d’internet grâce à des formations, des cours ou de manière plus personnalisée, et de les aider à devenir autonomes dans l’utilisation de ces outils.<br/>Mesdames et messieurs les députés, même si je n’ai pas répondu à toutes vos questions, j’ai essayé de le faire. Vous pourrez maintenant m’en poser d’autres, ce dont je vous remercie par avance.<br/>Pour l’heure, le déploiement du programme atteint, voire dépasse les objectifs quantitatifs et qualitatifs initialement fixés par le Président de la République. Si l’année 2019 a été celle du lancement de ces maisons et 2020 celle de leur montée en puissance, notre objectif en 2021 sera de mieux les faire connaître. Certains l’ont dit : il faut développer la communication. C’est vrai. Voilà pourquoi nous allons l’intensifier à l’échelle tant nationale que locale, avec le concours des élus et des collectivités.<br/>À cette fin, nous comptons évidemment sur vous pour être, dans vos circonscriptions, des relais de France services. Vous avez prouvé que c’était déjà le cas. C’est d’autant plus nécessaire que ce programme est peut-être un des plus beaux symboles de l’action que nous menons en faveur des territoires. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem, Agir ens et LT, ainsi que sur quelques bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1781667" ordre_absolu_seance="201" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2370262" valeur="">
+      <orateurs/>
+      <texte>Décès de Mme Marielle de Sarnez</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1781668" ordre_absolu_seance="202" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="2370263" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Madame la ministre, mes chers collègues, pardonnez-moi de prendre la parole avec une certaine émotion. <italique>(Mmes et MM.</italique><italique> </italique><italique>les députés et Mme</italique><italique> </italique><italique>la ministre </italique><italique>de la cohésion des territoires et des relations avec les collectivités territoriales</italique><italique> se lèvent.) </italique>Nous venons d’apprendre le décès de Marielle de Sarnez, qui était notre collègue et, pour beaucoup d’entre nous, une amie. On la savait très malade, mais nous espérions tous son retour. Permettez-moi d’avoir une pensée particulière pour sa famille, pour ses amis, en particulier du groupe Dem, et pour les membres de la commission des affaires étrangères, dont elle était la présidente unanimement appréciée. Si vous le voulez bien, nous allons observer une minute de silence. Il appartiendra au président de l’Assemblée d’évoquer dans les prochains jours sa mémoire, son œuvre et sa personnalité si appréciée dans notre maison. <italique>(Mmes et MM.</italique><italique> </italique><italique>les députés et Mme</italique><italique> </italique><italique>la ministre observent une minute de silence.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="6" id_preparation="1781670" ordre_absolu_seance="204" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2370265" valeur="">
+      <orateurs/>
+      <texte>Maisons France services <italique>(suite)</italique></texte>
+      <interExtraction nom_orateur="M. Thomas Gassilloud" id_acteur="PA722358" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723552">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="6" id_preparation="1781671" ordre_absolu_seance="205" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370266" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Même si notre esprit est ailleurs, il nous appartient maintenant de reprendre nos travaux.<br/>Nous en venons aux questions. Je vous rappelle que leur durée ainsi que celle des réponses est limitée à deux minutes sans droit de réplique.<br/>La parole est à M. Thomas Gassilloud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="6" id_preparation="1781674" ordre_absolu_seance="208" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Gassilloud</nom>
+              <id>722358</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comment ne pas vous faire part de mon émotion alors que nous venons d’apprendre la mort de notre chère collègue Marielle de Sarnez ? Au nom du groupe Agir ensemble, je présente à sa famille et à ses proches nos sincères condoléances. Je retiendrai pour ma part son sourire, la méthode avec laquelle elle présidait la commission des affaires étrangères et l’énergie qu’elle a dépensée pour la rendre la plus participative possible.<br/>Nous débattons ce soir des maisons France services. Je remercie mes collègues pour leurs interventions, ainsi que Mme la ministre, qui nous a apporté certains éléments d’information. Ma circonscription a la chance de compter trois maisons France services : deux sont soutenues par la communauté de communes des Monts du Lyonnais, l’une à Saint-Symphorien-sur-Coise, l’autre à Saint-Laurent-de-Chamousset. Une troisième vient d’ouvrir à Vaugneray, sous l’impulsion de la commune, et une quatrième est en projet.<br/>Vous avez annoncé, madame la ministre, que l’on comptait aujourd’hui 1 123 maisons France services. Je me réjouis que ma circonscription soit si bien lotie, car ces maisons sont appréciées par la population. Je salue les élus locaux et les agents qui y travaillent, car ils rendent à tous un service très utile. Ces élus ont engagé des financements de leur collectivité, alors qu’ils ne sont pas responsables du repli des services publics constaté durant les vingt dernières années.<br/>J’appellerai votre attention sur trois points.<br/>Le premier est la lisibilité de ces maisons. Quand j’étais jeune maire, il y avait dans ma commune un relais de services public. Le temps d’expliquer ce dont il s’agissait, c’était devenu une maison de services au public. Voici à présent les maisons France services. Au-delà du coût qu’ils représentent, ces changements de nom créent un défaut de lisibilité. Nous conviendrons tous qu’il faudra conserver l’appellation maison France services.<br/>Le second point sur lequel j’appelle votre attention est l’engagement des partenaires des maisons France services. Même si les personnels de celles-ci sont de véritables couteaux suisses, veillons à ce que les partenaires ne se désengagent pas. Dans les maisons France services, j’ai constaté que Pôle emploi était assez discret, au moment même où nombre de nos concitoyens allaient devoir y recourir. Au-delà de la charte d’engagement signée par les partenaires, il faudrait une véritable contractualisation, pour que ceux-ci ne se contentent pas de fournir un référent et un numéro de téléphone.<br/>Dernier point : une expérimentation vise à créer un numéro de téléphone unique pour contacter les maisons France services. Le département du Rhône y prendra part. Pourriez-vous nous préciser les objectifs et la manière dont elle fonctionnera ? Certaines inquiétudes s’expriment déjà. Les personnels devront-ils répondre à des appels émanant de personnes qui ne résident pas nécessairement dans le territoire couvert par ladite maison France services ? <italique>(Applaudissements sur les bancs du groupe Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="6" id_preparation="1781681" ordre_absolu_seance="215" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="6" id_preparation="1781682" ordre_absolu_seance="216" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370277" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie de votre intervention. Je vous ai bien entendu : nous n’allons plus changer le nom des maisons France services et, je l’ai indiqué, nous mènerons une grande campagne de communication. Nous avons en effet constaté que, si les maisons France services marchaient bien dans les territoires, elles n’étaient pas encore suffisamment connues au plan national.<br/>Par ailleurs, nous contractualisons avec les opérateurs, car leur pérennité dans ces maisons est importante. La Mutualité sociale agricole, présente dans les maisons France services, s’est proposée comme partenaire pour porter elle-même des maisons France services. Vous le savez, la MSA possède un important maillage dans les zones rurales. Elle a déjà créé dix-sept maisons : cet opérateur est ainsi devenu porteur de projets.<br/>J’en profite pour vous dire, même si vous ne m’avez pas posé la question, qu’outre la montée en gamme des MSAP existantes, transformées en maisons France services, il faut compter la création de 300 maisons France services ex nihilo, c’est-à-dire entièrement nouvelles. Je répète devant la représentation nationale que tous les élus qui auraient envie de créer une maison France services dans leur territoire peuvent s’adresser à l’ANCT, laquelle accompagnera leur projet, aux côtés des préfets.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Danièle Obono" id_acteur="PA721960" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723434">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781782" ordre_absolu_seance="219" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370331" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Danièle Obono.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781783" ordre_absolu_seance="220" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Du point de vue du groupe La France insoumise, le déploiement des maisons France services sert de cache-misère à la disparition des services publics, laquelle pose problème non seulement aux usagers, mais aussi aux agents qui assurent le service public. Madame la ministre, je tenais à vous interpeller à travers deux exemples : la situation de La Poste, d’une part, et celle de certaines collectivités territoriales, d’autre part.<br/>À La Poste, les agents rencontrent des difficultés pour assurer leur mission de service public du fait de la réduction des effectifs et de la priorité donnée aux missions commerciales, la direction étant en recherche de rentabilité. Entre 2014 et 2018, on a observé une diminution de 10 % des effectifs et une augmentation de 8 % à 13 % des contrats courts ; or, si le volume de courrier baisse, le nombre de boîtes aux lettres augmente, tout comme les livraisons de colis. Par ailleurs, les effectifs ne peuvent pas être réduits proportionnellement au volume de courrier en raison de l’obligation de service public. Il y a donc un problème de conciliation entre l’activité commerciale des agents et leur mission de service public : selon le témoignage de certains agents, ceux-ci ne disposent pas toujours de créneaux pour assurer cette dernière. Madame la ministre, quelles mesures ont été prises pour garantir le partage du temps de travail des employés de La Poste afin qu’ils puissent assurer l’ensemble de leurs missions, sans que cela ne se traduise par de la souffrance, du stress et des conditions de travail dégradées ?<br/>Le deuxième exemple est celui de la mobilisation des agents des collectivités territoriales. Alors que ces collectivités souffrent d’un manque criant de personnel, certaines d’entre elles vont jusqu’à recourir à des jeunes en service civique ou à des alternants pour remplacer les agents manquants, notamment dans les sous-préfectures. Madame la ministre, je sais que, lors de votre visite d’une maison France services à Maurs, dans le Cantal, vous avez constaté vous-même la présence de jeunes en service civique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781786" ordre_absolu_seance="223" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2370335" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, madame la députée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781787" ordre_absolu_seance="224" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2370336" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un reportage de l’émission <italique>Cash investigation</italique> a mis en lumière la surexploitation et l’usage critiquable de ces jeunes<italique>.</italique> Comment comptez-vous mettre un terme à ces pratiques qui posent problème du point de vue de la qualité du service public, tant pour les agents que pour les usagers ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781788" ordre_absolu_seance="225" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370337" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781789" ordre_absolu_seance="226" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vos remarques sur La Poste sont tout à fait justifiées. La Poste assume une mission de service public ; elle est elle-même un service public et un partenaire historique des MSAP, puisque les bureaux de poste hébergeaient 504 MSAP, dont 194 ont été labellisées France services. Cela signifie qu’il a parfois fallu clarifier la situation et trancher entre la mission commerciale de La Poste, comme vous dites, et celle de service public. La direction de La Poste en est pleinement consciente. C’est la raison pour laquelle il y aura sûrement, à terme, moins de bureaux de poste labellisés France services qu’il n’y avait de MSAP.<br/>Par ailleurs, qu’il y ait des jeunes en service civique dans les maisons France services est positif et encourageant, mais ces jeunes ne sauraient remplacer les deux agents d’accueil qui doivent être présents de manière permanente.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean Lassalle" id_acteur="PA1838" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723068">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781791" ordre_absolu_seance="228" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370340" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean Lassalle.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781792" ordre_absolu_seance="229" id_acteur="PA1838" id_mandat="PM723068" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370341" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean Lassalle</nom>
+              <id>1838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, permettez-moi de m’associer à mon tour à l’émotion que vous nous avez fait partager, avec des mots très justes, au moment où l’une d’entre nous, parmi les plus passionnées, s’en est allée. J’ai passé suffisamment de jours et de nuits au contact de sa passion et de son irrépressible goût de la vie pour ne pas m’en souvenir à cet instant. Le groupe Libertés et territoires, dont je viens de voir la coprésidente, s’associe à cet hommage.<br/>Les maisons France services se placent dans la continuité des maisons de services au public dont ma collègue du groupe Libertés et territoires, Sylvia Pinel, fut à l’origine. Je souhaitais simplement vous demander de préciser le type de relation que ces maisons entretiendront avec le département et les communautés de communes et quelle sera la participation financière de l’État : participera-t-il seulement un peu au départ, pour amorcer le processus, avant de laisser les acteurs locaux prendre seuls la suite ? Vous l’avez suffisamment dit dans le passé, il est souhaitable, bien que ce ne soit pas facile, qu’un tel schéma ne se perpétue pas,</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781794" ordre_absolu_seance="231" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781795" ordre_absolu_seance="232" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr, la priorité est de développer les maisons France services dans le pays, avec l’accord des collectivités territoriales. Nous ne le faisons pas sans négocier avec le bloc communal, c’est-à-dire avec les communes ou les intercommunalités, mais aussi avec les départements. Le Calvados avait développé des maisons pour ainsi dire « déconcentrées » des services du département. Plutôt que de créer une structure, France services s’est associée aux « Points info 14 » – c’est le numéro du département – pour s’installer dans le même lieu qu’eux. En effet, le service public, ce n’est pas que l’État et ses opérateurs, c’est aussi les collectivités territoriales. Dans l’Essonne, une structure s’est installée dans une sous-préfecture : les services de l’État ont ainsi été complétés par des opérateurs et, si d’autres permanences de collectivités territoriales veulent s’y installer, elles seront les bienvenues. Comme le disait tout à l’heure la représentante du groupe Agir ensemble, qui a demandé ce débat, il faut de la souplesse et de l’adaptation sur le lieu d’implantation comme sur l’association des services publics au sens large du terme.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. André Chassaigne" id_acteur="PA267306" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723054">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781796" ordre_absolu_seance="233" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370345" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. André Chassaigne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781797" ordre_absolu_seance="234" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370346" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme chacun d’entre nous, je voudrais dire combien nous sommes tristes d’apprendre le décès de Marielle de Sarnez – ces quelques mots sont simples, mais je crois que nous ressentons tous une émotion au fond de nous-mêmes.<br/>Ma question concerne le lien entre le développement des maisons France services et la restructuration des finances publiques. Sous prétexte de gagner en efficacité et parallèlement au développement de la dématérialisation, de nombreuses trésoreries ont fermé le 1<exposant>er</exposant> janvier dernier ou fermeront en cours d’année. Elles seront remplacées par l’accueil de proximité des maisons France services, lequel doit être assuré par un personnel polyvalent des collectivités territoriales ou de La Poste. Cette nouvelle forme d’accueil devait être accompagnée de permanences régulières d’agents des services fiscaux à des plages horaires précises et renforcées en période de forte sollicitation, mais il apparaît désormais que les contribuables ne pourront avoir d’entretien physique que sur rendez-vous, ou à condition que le nombre de demandeurs soit suffisant. À défaut – ou plutôt a priori – seront privilégiées d’autres formes de contact : téléphone, visioconférence ou internet.<br/>Il faut reconnaître que nous avions été alertés par la réponse à une question écrite que j’avais déposée en 2019 : « Les agents des espaces France services pourront présenter aux usagers qui le demandent le fonctionnement des sites internet de la DGFIP et les accompagner dans leurs démarches pour déclarer leurs impôts, payer leurs amendes, signaler un changement de statut administratif ou régler des redevances du secteur public local. En plus des réponses à leurs questions qui leur seront apportées par les animateurs des espaces France services, les usagers y trouveront des postes informatiques avec accès internet pour accomplir leurs démarches administratives. […] Les animateurs polyvalents des espaces France services seront formés par la DGFIP sur les sujets de sa compétence. »<br/>Ma question traduit une inquiétude réelle : ne craignez-vous pas que, dans quelques années, soit plagiée une célèbre repartie du général de Gaulle ? « Les maisons France services avaient une apparence : un quarteron de missions glorifiées. Elles avaient une réalité : un bouquet de services au rabais, provisoirement financés, ersatz de services publics supprimés. » Mais c’est une simple question.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781801" ordre_absolu_seance="238" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370350" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781802" ordre_absolu_seance="239" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370351" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme je ne suis pas un général en retraite, mais un homme de troupe, vous pouvez compter sur moi. <italique>(Applaudissements sur plusieurs bancs des groupes Dem, Agir ens et UDI-I.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Célia de Lavergne" id_acteur="PA719310" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722622">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781803" ordre_absolu_seance="240" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370352" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Célia de Lavergne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1781804" ordre_absolu_seance="241" id_acteur="PA719310" id_mandat="PM722622" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370353" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Célia de Lavergne</nom>
+              <id>719310</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi d’associer le groupe La République en marche à l’émotion, à la tristesse et au vide qui nous habitent au moment où nous apprenons le décès de la présidente Marielle de Sarnez, et de présenter nos condoléances à ses amis, à ses proches, à ses collègues du groupe Dem ainsi qu’à vous-même, madame la ministre.<br/>Les maisons France services, déployées depuis deux ans, fonctionnent très bien. Elles représentent la réhumanisation du service public, la proximité et la disponibilité ; les maisons France services signent, au fond, le retour des services publics dans les territoires après de trop nombreuses années d’éloignement. N’en déplaise aux esprits chagrins, nous devons nous féliciter de cette réussite et je tiens à vous remercier personnellement, madame la ministre, pour l’investissement dont vous avez fait preuve dans ce dossier depuis le premier jour.<br/>Cela a été dit, il est nécessaire de déployer une communication massive vis-à-vis des publics les plus éloignés. J’ai deux questions. La première concerne les territoires, comme la Drôme provençale, qui ont vécu avec émoi la réorganisation de la direction générale des finances publiques, laquelle a bloqué la fluidité des démarches de labellisation, entraînant des retards. Ces territoires ont besoin de temps : pensez-vous qu’il serait envisageable, à titre dérogatoire et ciblé, de décaler du 31 décembre 2021 à la mi-2022 la date butoir pour effectuer la démarche de labellisation France services ?<br/>Deuxièmement, dans les territoires les plus reculés, les maisons France services sont complétées par des bus subventionnés par des appels à projet de l’État. Ils existent déjà à Die, où ils sont plébiscités. D’autres communes attendent une réponse, comme celle de Beaufort-sur-Gervanne qui a répondu à un appel à projet à l’automne dernier. Quand ces communes sauront-elles si leur candidature est retenue ? Combien de bus seront déployés et de communes desservies pour améliorer le service au plus près des habitants ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781684" ordre_absolu_seance="245" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370880" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781685" ordre_absolu_seance="246" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370881" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons pour objectif le déploiement d’au moins 2 000 maisons France services dans le territoire d’ici au début de l’année 2022. Avec l’ambition de disposer d’un maillage de 2 500 maisons d’ici à la fin de l’année 2022, les labellisations se poursuivront et tous les territoires pourront ouvrir des maisons France services tout au long de l’année 2022.<br/>Par ailleurs, s’agissant du déploiement des bus France services, dont j’ai déjà annoncé la poursuite, les lauréats de l’appel à projet pour le déploiement de cinquante nouveaux bus devraient être annoncés courant janvier. Le nombre de communes visitées par les bus dépend du schéma prévu pour chaque bus et peut évoluer : je ne suis donc pas en mesure de vous indiquer le nombre exact de communes couvertes, qui dépend, en outre, de la morphologie des territoires. En Corse, où un tel projet est en cours de développement, se déplacer de village en village est beaucoup plus long que dans les plaines de la Beauce, par exemple. Nous ne pourrons donc vous préciser l’étendue de la couverture des bus France services qu’une fois celle-ci planifiée.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Travert" id_acteur="PA607395" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM760313">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781687" ordre_absolu_seance="248" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370883" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Travert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781688" ordre_absolu_seance="249" id_acteur="PA607395" id_mandat="PM760313" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370884" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Travert</nom>
+              <id>607395</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, nous partageons, ce soir, votre peine et celle de vos collègues du groupe Mouvement démocrate (OMDEM) et démocrates apparentés.<br/>Il y a tout juste un an, les 460 premières maisons France services de notre pays ouvraient leurs portes. Le 14 novembre dernier, le second comité interministériel aux ruralités décidait de la labellisation de 323 nouvelles entités, portant à 856 le nombre de structures France services.<br/>D’ici à 2022, de nouvelles labellisations étendront le réseau, vous l’avez rappelé, l’ambition étant de compter une maison France services par canton d’ici à la fin du quinquennat, soit un total de 1 800 structures. La délégation aux collectivités territoriales et à la décentralisation de l’Assemblée nationale, que j’associe à ma question, a accompagné et défendu avec conviction ce déploiement au service de nos concitoyens.<br/>Cette initiative a commencé à porter ses fruits dans la vie quotidienne des Français : contacter son référent à Pôle emploi, remplir un formulaire en ligne, demander des allocations, autant de démarches réalisées dans ces guichets uniques qui signent le retour du service public au cœur des territoires et au plus près de là où les gens vivent.<br/>L’objectif, à terme, est que chaque Français puisse accéder à une structure France services en moins de trente minutes. Mais une autre modalité de France services pourrait encore diminuer ce délai – ou tout du moins en assurer l’effectivité dans les zones les plus reculées : les bus France services, auxquels ma collègue Célia de Lavergne vient de faire référence dans sa question. Tenant des permanences itinérantes dans les villages, permettant ainsi aux usagers de procéder aux principales démarches administratives du quotidien en un lieu unique, ces bus seront les bienvenus en zone rurale.<br/>Dans mon département de la Manche, une association a développé l’expertise d’un bus itinérant dans un tout autre domaine, celui de la parentalité. Les deux véhicules de l’association Parentibus sillonnent une bonne partie du département pour écouter parents et grands-parents, et combler le déficit de services en zone rurale.<br/>Le déploiement des bus France services, qui poursuivent le même objectif, a commencé : comment l’envisagez-vous et comment l’État se propose-t-il d’accompagner chaque initiative ? Comme l’Allier, la Manche pourrait-elle participer à l’expérimentation des bus itinérants France services ? Enfin, pouvez-vous dresser un point précis de l’avancement du déploiement du réseau France services dans l’ensemble du territoire national ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781695" ordre_absolu_seance="256" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370891" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781696" ordre_absolu_seance="257" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370892" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En vous écoutant, je me suis rappelée que les bus France services du Cantal, à l’inauguration desquels je m’étais rendue, existaient déjà grâce à une initiative du département – cette information complétera également ma réponse à Jean Lassalle. Le département nous a contactés pour installer d’autres services aux côtés des leurs, afin d’obtenir la labellisation France services.<br/>Naturellement, nous partageons votre intérêt pour les bus France services, outil d’une grande souplesse – vous l’avez dit – qui se révèle particulièrement adapté à la ruralité. Nous avons également lancé l’expérimentation de tels bus dans les QPV et les quartiers de reconquête républicaine, et elle marche très fort ! Ces bus permettent en effet de mutualiser les ressources et d’étendre la couverture territoriale – je l’ai rappelé tout à l’heure en répondant à Célia de Lavergne –, ce qui est évidemment le gage d’un service rendu. Les bus France services sont donc particulièrement pertinents.<br/>Nous disposons d’ores et déjà de cinquante-deux bus. Afin d’assurer une couverture optimale des quartiers prioritaires de la politique de la ville, un premier appel à manifestation d’intérêt pour le déploiement de trente bus France services a été lancé, à l’été 2020, dans le cadre de l’opération Quartiers d’été, que vous connaissez bien et que j’ai initiée avec Julien Denormandie.<br/>Par ailleurs, comme je l’ai expliqué précédemment, outre la dotation de fonctionnement de 30 000 euros que l’État accorde à chaque bus, tout projet peut bénéficier d’une aide à l’investissement d’un montant de 68 000 euros. Dans la lignée de cette initiative, un nouvel appel à manifestation d’intérêt visant à renforcer l’investissement dans cinquante nouveaux bus France services sera lancé prochainement. En outre, un autre projet, d’ores et déjà été lancé dans les zones rurales, a rencontré un vrai succès. La liste des lauréats du projet des cinquante bus sera bientôt dévoilée.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Anthoine" id_acteur="PA719318" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722624">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781700" ordre_absolu_seance="261" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370896" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Anthoine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781701" ordre_absolu_seance="262" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370897" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À mon tour, je tiens, au nom du groupe Les Républicains, à partager la peine de la famille, des amis et du groupe politique de la présidente Marielle de Sarnez. Je leur présente toutes nos condoléances.<br/>Annoncées par le Président de la République le 25 avril 2019 pour sortir de la crise des gilets jaunes, les maisons France services doivent répondre au besoin de proximité des services publics. C’est dans ce cadre que j’ai travaillé, avec les services de la préfecture de la Drôme, à leur déploiement.<br/>Les maisons France services sont censées se distinguer par la qualité du service offert aux administrés mais, madame la ministre, qu’en est-il, en pratique, de leur efficacité ? Comment le respect du cahier des charges qui leur est imposé est-il contrôlé ? Par ailleurs, combien d’agents ont-ils été spécialement formés ?<br/>Vous avez rappelé que 1 123 maisons France services avaient déjà été labellisées : se pose donc la question des premiers résultats. Quid des premières évaluations de ces nouvelles structures ? Tout à l’heure, vous avez annoncé un taux de satisfaction des usagers de 85 %. Mais observe-t-on une hausse de la fréquentation des maisons France services ? Il importe de connaître la véritable valeur ajoutée qu’elles apportent.<br/>L’origine de ces structures est une autre question importante. En effet, la plupart des maisons France services étant d’anciennes maisons de services au public, combien d’entre elles ont-elles été créées ex nihilo ? Ce nombre ne saurait être marginal, au risque de confirmer les craintes d’un rhabillage, à peu de frais, des anciennes MSAP créées pendant le quinquennat de François Hollande ? Il en existait 1 340, contraintes de se métamorphoser progressivement en maisons France services, sans quoi elles perdraient leur financement. L’effort de l’État pour parvenir à 2 000 structures labellisées semble finalement limité.<br/>Madame la ministre, en répondant à ces différentes questions, pouvez-vous mettre en évidence la pertinence du déploiement de ce nouveau label qu’est France services ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781707" ordre_absolu_seance="268" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370903" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781708" ordre_absolu_seance="269" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370904" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je rappelle tout d’abord que 300 maisons France services ont été créées ex nihilo. Par ailleurs, des audits de qualité sont menés, avant la labellisation puis, très régulièrement, à titre de contrôle. En outre, plus de 2 500 agents ont été spécialement formés.<br/>La fréquentation des maisons France services est en constante augmentation, et pas moins de 150 000 demandes sont traitées chaque mois dans l’ensemble de ces structures, ce qui est très élevé. Bien entendu, la fréquentation varie d’une maison à l’autre, selon leur lieu d’implantation ; mais toutes les maisons fonctionnent, comme le prouvent les chiffres que je vous ai fournis. Les demandes sont satisfaites et des audits de qualité sont menés en permanence. Enfin, je tiens à vous indiquer que les bonnes pratiques sont diffusées au sein du réseau des maisons France services que nous avons créé.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Anthoine" id_acteur="PA719318" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722624">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781710" ordre_absolu_seance="271" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370906" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Anthoine, pour une seconde question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781711" ordre_absolu_seance="272" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370907" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’aimerais désormais m’intéresser aux leviers qui permettraient aux maisons France services de résorber la fracture territoriale.<br/>Le Président de la République observait, à juste titre, que « les maisons d’accueil de services publics ont été utilisées pour fermer des services ou des bureaux de Poste ». Partant de ce constat, nous sommes en droit de nous interroger sur le nouveau label France services : n’est-il pas le simple prolongement de cette politique ? Loin de résorber la fracture territoriale, les maisons France services n’en seraient, dès lors, que le paravent.<br/>Dans son rapport, la mission « Agenda rural » préconisait d’installer prioritairement les maisons France services au sein des mairies – vous avez d’ailleurs rappelé l’importance de cette relation, et c’est également la voie qui me semble devoir être privilégiée. Mais, dans les faits, qu’en est-il ?<br/>Alors que l’une des grandes souffrances des territoires ruraux tient à la difficulté à accéder à une connexion à internet, les maisons France services représentent une promesse pour développer l’accès au numérique. Mais pour qu’elle se transforme en réalité, il est nécessaire qu’au-delà d’un simple accès à du matériel informatique, un réel accompagnement soit proposé. Des formations au numérique doivent pouvoir y être dispensées. D’où mon interrogation : l’offre de services proposée par ces structures correspond-elle bien aux annonces faites à l’origine ?<br/>En outre, si neuf partenaires doivent systématiquement être accessibles dans chaque maison France services, d’autres partenariats sont censés venir enrichir cette offre. Qu’en est-il réellement ? Combien de structures proposent l’accès à ces services facultatifs et à d’autres partenaires ? De quelle nature sont-ils ?<br/>Ainsi, madame la ministre, les maisons France services sont-elles véritablement la bonne réponse à la fracture territoriale que nous connaissons ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781717" ordre_absolu_seance="278" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2370913" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1781718" ordre_absolu_seance="279" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2370914" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>À entendre vos questions, vous n’en semblez pas persuadée ! <italique>(Sourires.)</italique><br/>Je tiens tout d’abord à rappeler que les maisons France services sont déployées en relation avec les collectivités territoriales : naturellement, il ne s’agit pas d’un modèle venant s’appliquer verticalement dans les territoires mais, dans 85 % des cas, d’une structure construite, réfléchie et développée pour et avec les élus locaux – dans les autres cas, il s’agit d’une structure associative ou pilotée par La Poste. Soyez donc assurée que nous travaillons avec les collectivités territoriales.<br/>La dernière maison France services que j’ai visitée, à Sorgues, dans le Vaucluse, regroupe vingt et un services. Installée à l’intérieur d’un ancien espace scolaire, elle propose d’ailleurs une organisation intelligente autour de différents pôles : par exemple, le guichet d’accompagnement des créateurs d’entreprises par la CCI – chambre de commerce et d’industrie – voisine avec celui de Pôle emploi et celui du service départemental de soutien aux chômeurs et aux bénéficiaires du RSA – revenu de solidarité active. Cette maison France services a vu le jour à l’initiative de la municipalité de Sorgues.<br/>D’ailleurs, le sénateur Alain Milon, qui a créé, avant même les MSAP, les relais de services publics, était maire de Sorgues. Vous voyez donc que la création de services publics dans les territoires et de maisons où l’on peut trouver des réponses, résulte souvent de la volonté des élus.<br/>Par ailleurs, il faut bien distinguer l’utilisation de l’informatique des usages de l’informatique. Tout d’abord, les maisons France services disposent souvent d’un, deux, voire trois ordinateurs en libre accès. Ensuite, elles assurent un accompagnement en vue de l’inclusion numérique, c’est-à-dire l’accompagnement de gens qui viennent apprendre à recourir à l’informatique ; je le répète, 4 000 postes d’accompagnateurs vont être créés par le Gouvernement. Enfin, lorsqu’une personne âgée ne sait pas remplir sa feuille d’impôt en ligne, elle peut être aidée soit par l’un des deux agents de permanence, soit par un agent de la DGFIP présent sur place. Le système « aidants connect » permet de garantir à la fois la sécurité de l’accompagnateur et celle de l’usager en évitant la captation d’informations. Il ne faut pas confondre ces diverses manières d’employer l’informatique, sujet sur lequel nous avons beaucoup travaillé.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Garcia" id_acteur="PA720178" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722882">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781757" ordre_absolu_seance="284" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2371050" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Laurent Garcia.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781758" ordre_absolu_seance="285" id_acteur="PA720178" id_mandat="PM722882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2371051" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Garcia</nom>
+              <id>720178</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce soir, notre groupe est triste ; notre groupe a froid ; notre groupe est en deuil, comme la République elle-même : l’ancienne ministre Marielle de Sarnez, notre collègue Marielle, nous a quittés. Pour cette militante infatigable, cette Européenne plus que convaincue, tous les superlatifs seront en deçà de la réalité. Le groupe Mouvement démocrate – MoDem – et démocrates apparentés présente ses condoléances à sa famille, à la famille centriste, à toutes celles et à tous ceux qui l’aimaient.<br/>Ma question porte sur la réflexion à mener en vue de la création d’une maison France services dans le cadre d’un projet de rénovation urbaine, et sur la possibilité d’une complémentarité entre cette structure et le dispositif « Cités éducatives » existant. Je prends l’exemple de Laxou, une ville de taille moyenne située dans ma circonscription. L’un de ses quartiers, reconnu comme une priorité nationale, bénéficie à ce titre du nouveau programme de rénovation urbaine ; un autre de ses quartiers, intercommunal et déjà rénové, a reçu le label « Cités éducatives ».<br/>La création d’une maison France services s’impose, mais tous les acteurs ont fait valoir d’autres urgences, surtout celle de moyens humains et financiers permettant d’offrir aux enfants du quartier en cours de rénovation une politique éducative adaptée, qui assure leur réussite scolaire. Les groupes scolaires de ce quartier sont fortement stigmatisés en raison de leur manque de moyens et d’une faible mixité sociale ; la rénovation ne suffira pas à résoudre ce problème, puisque les parents, jugeant que ces établissements ne garantissent pas des apprentissages de qualité, scolarisent leurs enfants dans d’autres structures. C’est pourquoi la collectivité, les travailleurs sociaux, les associations, les professionnels de l’éducation et de santé se demandent s’il serait possible d’étendre à ce quartier les objectifs et les moyens alloués au quartier de la même ville ayant reçu le label « Cités éducatives ».<br/>Après analyse des besoins de la catégorie socioéconomique à laquelle appartiennent les parents et les enfants concernés, la création d’une maison France services orientée en partie vers la réussite éducative paraît absolument logique. Par conséquent, je vous interroge sur la possibilité de combiner les deux dispositifs, grâce à une extension du périmètre de la labellisation « Cités éducatives ».</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781762" ordre_absolu_seance="289" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2371055" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781763" ordre_absolu_seance="290" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2371056" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie de votre question, qui me donne l’occasion de saluer l’esprit qui préside au déploiement du dispositif « Cités éducatives », visant à rapprocher l’école des parents, des associations, du tissu social en somme. C’est là un réel progrès, qui fera, j’en suis certaine, fera la différence pour de nombreux jeunes des quartiers. Nadia Hai, qui promeut ce projet, y est d’ailleurs particulièrement attentive.<br/>En tant qu’il renforce la présence de l’État dans les territoires, le dispositif France services rejoint bien sûr l’ambition du label « Cités éducatives », qui consiste à muscler le service public de l’éducation là où le besoin s’en fait sentir. L’ANCT veille en outre à la coordination de ces deux actions : c’est tout l’avantage d’avoir regroupé les programmes de soutien aux territoires au sein d’une même structure. Toutefois, vous conviendrez que ces dispositifs sont très différents. Leurs critères ne sont pas les mêmes ; ils ne sauraient l’être, puisque l’un concerne les enfants et les jeunes, l’autre les citoyens. Je vous assure que je veillerai néanmoins à ce que les synergies entre France services et les autres programmes relevant de l’ANCT soient maximisées, afin, peut-être, de développer une maison France services dans le territoire que vous avez évoqué.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain David" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781765" ordre_absolu_seance="292" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2371058" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781766" ordre_absolu_seance="293" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2371059" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David</nom>
+              <id>1008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La commission des affaires étrangères avait en Marielle de Sarnez une grande présidente, pour laquelle j’éprouvais beaucoup de sympathie. Nous la savions gravement atteinte, mais nous espérions tous qu’elle vaincrait cette terrible maladie ; j’ai beaucoup de peine et je suis très affecté par son décès. Je présente mes condoléances à sa famille, ainsi qu’à son groupe parlementaire.<br/>Madame la ministre, Gérard Leseul a rappelé, au nom du groupe Socialistes et apparentés, la nécessité absolue d’assurer, au sein des territoires, une présence humaine qui puisse orienter, guider, conseiller et aider les administrés dans leurs démarches. C’est pour cette raison que nous suivons avec une attention particulière le déploiement du réseau des maisons France services. Au-delà du rythme auquel s’opère la couverture du territoire et de la promesse d’implanter l’une de ces maisons dans chaque canton d’ici à 2022 pour répondre au sentiment de délaissement et d’abandon ressenti par un trop grand nombre de nos concitoyens, le véritable service public de proximité est d’abord incarné par les mairies.<br/>Gérard Leseul l’a indiqué, il est fondamental que les communes qui jouent le jeu de la labellisation France services et qui consentent des efforts significatifs soient reconnues et valorisées. La commune doit être confortée dans son rôle de premier contact, qui oriente les habitants vers le bon interlocuteur. Après l’annonce présidentielle, en avril 2019, de la création des maisons France services, certaines associations d’élus locaux avaient d’ailleurs objecté que celles-ci existaient déjà sous la forme des MSAP, consacrées par la loi NOTRe. Pouvez-vous nous indiquer si les MSAP ont bien fait l’objet de l’analyse réclamée par la Cour des comptes ? Comment peuvent-elles être labellisées en tant que maisons France services ? <italique>(M.</italique><italique> </italique><italique>Gérard Leseul applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jacqueline Gourault, quali  ministre" id_acteur="PA227076" id_nomination_oe="PM773497" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781769" ordre_absolu_seance="296" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2371062" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781770" ordre_absolu_seance="297" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2371063" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je suis entièrement d’accord avec vous sur le caractère fondamental d’une présence humaine, comme sur le fait que les mairies restent, au sein des territoires, le premier lieu institutionnel d’accueil. En revanche, vous n’ignorez pas que, précisément pour sauvegarder ces mairies auxquelles nous sommes très attachés, certaines d’entre elles, situées dans l’extrême ruralité, ont des horaires d’accueil plutôt restreints. Les maisons France services assurent alors une bonne complémentarité.<br/>Par ailleurs, les MSAP peuvent tout à fait être labellisées et devenir des maisons France services, à condition d’en respecter la charte et de disposer des opérateurs, d’un bâtiment et d’un accueil suffisant. Nous accompagnons évidemment les collectivités territoriales qui souhaitent créer une maison France services, souvent grâce à la DETR ou à la DSIL – dotation de soutien à l’investissement local.<br/>Enfin, si vous le permettez, monsieur le président,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781773" ordre_absolu_seance="300" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2371066" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous en prie, madame la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781774" ordre_absolu_seance="301" id_acteur="PA227076" id_mandat="-1" id_nomination_oe="PM773497" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2371067" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jacqueline Gourault</nom>
+              <id>227076</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…je voudrais remercier les députés pour les mots qu’ils ont eus pour Marielle.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1781775" ordre_absolu_seance="302" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2371068" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Merci beaucoup, madame la ministre.<br/>Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="4" ordinal_prise="9" id_preparation="1781775" ordre_absolu_seance="304" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2371517" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="9" id_preparation="1781775" ordre_absolu_seance="305" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2371518" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Questions sur le développement des éoliennes sur le territoire ;<br/> Débat sur les conclusions du rapport de la commission d’enquête sur les obstacles à l’indépendance du pouvoir judiciaire.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="9" id_preparation="1781775" ordre_absolu_seance="306" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2371519" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures dix.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="9" id_preparation="1781775" ordre_absolu_seance="307" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2371520" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

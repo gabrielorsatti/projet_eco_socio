@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N188</uid>
+  <metadonnees>
+    <dateSeance>20200322183000000</dateSeance>
+    <dateSeanceJour>dimanche 22 mars 2020</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>188</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200188</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Sun, 29 Mar 2020 14:25:21 GMT</horaireGmt>
+    <heureGeneration>2020-03-29T16:25:22.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2067165">Présidence de M. Richard Ferrand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2067169">
+          <intitule>Hommage au médecin urgentiste<br/> victime du Covid-19</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2067172">
+          <intitule>Urgence face à l’épidémie de Covid-19</intitule>
+        </titreStruct>
+        <para id_syceron="2067173"/>
+        <sommaire2>
+          <titreStruct id_syceron="2067178">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2067180">Mme Marie Guévenoux, rapporteure de la commission mixte paritaire</para>
+          <para id_syceron="2067190">M. Marc Fesneau, ministre chargé des relations avec le Parlement</para>
+          <para id_syceron="2067208">Mme Yaël Braun-Pivet, présidente de la commission mixte paritaire</para>
+          <para id_syceron="2067212">M. le président</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2067213">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2067215">M. Jean-Luc Mélenchon</para>
+          <para id_syceron="2067227">Mme Elsa Faucillon</para>
+          <para id_syceron="2067147">M. Stanislas Guerini</para>
+          <para id_syceron="2067155">M. Philippe Gosselin</para>
+          <para id_syceron="2067163">Mme Isabelle Florennes</para>
+          <para id_syceron="2067103">M. Christophe Bouillon</para>
+          <para id_syceron="2067117">M. Pierre-Yves Bournazel</para>
+          <para id_syceron="2067136">M. Bertrand Pancher</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2067078">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2067084">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du dimanche 22 mars 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1595929" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2067165" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Richard Ferrand</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1595930" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067166" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1595931" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2067167" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à dix-huit heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1595933" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2067169" valeur="">
+      <orateurs/>
+      <texte>Hommage au médecin urgentiste<br/> victime du Covid-19</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1595934" ordre_absolu_seance="6" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067170" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous avons appris aujourd’hui le décès d’un médecin urgentiste atteint par le Covid-19. C’est une terrible nouvelle qui nous affecte tous ; je souhaite, au nom de la représentation nationale, rendre hommage à l’ensemble des soignants qui protègent nos vies au péril de la leur, et auxquels nous devons tant, en cette période de crise sanitaire sans précédent. <italique>(Applaudissements sur tous les bancs.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595936" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2067172" valeur=" (n[[o]] 2766)">
+      <orateurs/>
+      <texte>Urgence face à l’épidémie de Covid-19</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595937" ordre_absolu_seance="9" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2067173" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Commission mixte paritaire</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595938" ordre_absolu_seance="10" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067174" valeur=" " roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi d’urgence pour faire face à l’épidémie de Covid-19 (n<exposant>o</exposant> 2766).<br/>Je vous rappelle que, dans le contexte de la crise actuelle, la conférence des présidents a établi des règles dérogatoires d’organisation de nos séances. En premier lieu, les huit groupes ne sont représentés, outre leur président ou son représentant, que par deux députés. Le vote sur l’ensemble du texte se fera à main levée, chaque président ou son représentant portant les voix de tout son groupe, mais les députés ont la possibilité de faire savoir à leur groupe ou au service de la séance qu’ils souhaitent voter différemment. Les non-inscrits ont également la possibilité de communiquer au service de la séance leur position de vote sur l’ensemble.<br/>Je vous rappelle également que les orateurs s’expriment depuis leur banc et non à la tribune. Je les invite également à ne pas poser les mains sur le micro. Celui-ci sera nettoyé après chaque usage, mais il est demandé à chacun des orateurs d’utiliser un micro différent.<br/>Naturellement, il convient de respecter les mesures barrières que nous connaissons tous. En particulier, les sorties de l’hémicycle seront échelonnées.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595942" ordre_absolu_seance="14" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2067178" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="Mme Marie Guévenoux" qualite="rapporteure de la commission mixte paritaire" id_acteur="PA721880" id_nomination_oe="-1" id_nomination_op="-1446820" id_mandat="PM723410">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595943" ordre_absolu_seance="15" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067179" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie Guévenoux, rapporteure de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595944" ordre_absolu_seance="16" id_acteur="PA721880" id_mandat="PM723410" id_nomination_oe="-1" id_nomination_op="-1446820" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067180" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie Guévenoux</nom>
+              <id>721880</id>
+              <qualite>rapporteure de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous voici à la dernière étape du processus de discussion d’un projet de loi exceptionnel, dicté par des circonstances exceptionnelles, et dont le cheminement législatif aura été permis par un engagement exceptionnel de la part de tous.<br/>Le projet de loi d’urgence pour faire face à l’épidémie de Covid-19 a été délibéré en conseil des ministres mercredi après-midi. Le Sénat l’a adopté vendredi au petit matin. Notre commission des lois l’a examiné jusqu’à vendredi soir et l’Assemblée nationale s’est prononcée cette nuit même. La commission mixte paritaire est parvenue à un compromis à 14 heures 30 ; le Sénat l’a validé à 17 heures 30 ; nous allons voter et, si tout va bien, le Président de la République pourra promulguer la loi dès ce soir.<br/>Voilà ce que l’on appelle une véritable procédure d’urgence. Nous pouvons déjà nous montrer fiers d’avoir, ensemble, relevé le défi de la célérité dans notre combat contre l’épidémie qui menace le peuple français. Mais nous avons une seconde raison de nous réjouir : les conditions dans lesquelles nous nous trouvons n’ont pas abattu la force de notre démocratie parlementaire.<br/>Nous aurions pu sacrifier à l’ambition de la vitesse notre raison d’être même. Le Sénat, dans la journée de jeudi, avait fait un travail d’excellente qualité sous la direction du rapporteur Philippe Bas. Nous aurions pu abdiquer nos prérogatives de législateur et avaliser tel quel le projet de loi qui nous était transmis. Nous aurions pu fermer la porte à toute évolution pour parvenir avec un moindre effort à une adoption dans le courant du week-end. Au contraire, l’Assemblée nationale a pleinement assuré sa mission constitutionnelle ; elle a exercé son droit d’amendement ; elle a inscrit dans le texte des évolutions et des améliorations ; elle a entendu toutes les voix qui se sont exprimées au cours du débat. J’ai rapidement parcouru le compte rendu des débats en commission des lois et en séance publique pour y vérifier ce que je pressentais : le projet de loi que nous avons adopté a incorporé des amendements présentés par la totalité des groupes politiques de l’Assemblée et même par des députés non inscrits. Voilà un beau symbole de l’unité nationale qui se construit face au péril sanitaire. Ainsi, il importe de le souligner, je ne vous présente pas seulement le texte de la majorité, mais le texte de toute l’Assemblée nationale ; merci à tous, vraiment.<br/>J’en arrive à la commission mixte paritaire, sur laquelle je m’attarderai peu. Le même esprit d’ouverture qu’à l’Assemblée a régné au Sénat. La présidente de la commission mixte paritaire, que je salue, et moi-même avons rapidement acquis la certitude que la volonté était d’aboutir à un consensus : chacun était prêt à des concessions réciproques.<br/>Nos débats se sont concentrés sur deux points essentiels. Dans le volet sanitaire du projet de loi, que nous avons symboliquement transformé en titre I<exposant>er</exposant> au vu des enjeux qu’il emporte, nous avons réussi à trouver un consensus au sujet de la clause de sauvegarde. Le Sénat considérait qu’une marge de manœuvre trop importante était laissée au Premier ministre, autorisé à limiter trois libertés fondamentales : la liberté de circulation, la liberté de réunion et la liberté d’entreprendre. Du côté de l’Assemblée nationale, nous considérions qu’une liste limitative comportait le risque de bloquer l’action du Gouvernement dans le cas où une mesure à laquelle nous n’aurions pas pensé serait nécessaire. En commission mixte paritaire, nous avons restreint la clause de sauvegarde en circonscrivant le pouvoir de limitation du Premier ministre à la seule liberté d’entreprendre, car il est difficile, à ce stade, d’imaginer les restrictions qui pourraient être requises en fonction de l’évolution de la situation sanitaire. En contrepartie, nous avons étendu les pouvoirs du Premier ministre en matière de fermeture de lieux et de restrictions de circulation. Par ailleurs, la commission mixte paritaire a précisé que toutes les mesures prises au titre de l’état d’urgence sanitaire pourraient faire l’objet d’un référé suspension ou liberté ; il s’agit d’une garantie importante pour le citoyen.<br/>Dans le volet électoral, nous avons choisi d’apaiser les inquiétudes des élus municipaux en écrivant noir sur blanc que les élections régulièrement acquises lors du premier tour du 15 mars le seraient définitivement. Nous avons aussi explicité le scénario selon lequel l’épidémie empêcherait un second tour avant l’été, en indiquant qu’il faudrait alors prolonger au-delà de l’été le mandat des conseils municipaux dans les communes où un second tour était nécessaire. Il faudrait pour cela une nouvelle loi ; il faudrait même aussi une loi organique, car nous devrions alors, en conséquence, reporter les élections sénatoriales à une date postérieure. Bien sûr, cette disposition n’a ni pour objet ni pour effet de figer le corps électoral des sénateurs : le Sénat sera renouvelé une fois que les conseils municipaux l’auront tous été.<br/>La commission mixte paritaire a également décidé de maintenir la désignation des maires élus ce week-end en dépit des consignes de confinement, en différant simplement leur prise de fonction pour qu’elle ait lieu à la même date que dans les communes où l’élection a été reportée pour respecter ces consignes. C’est une solution de consensus et de bon sens dont nous devons la suggestion à notre collègue Charles de Courson.<br/>Tel est le compromis adopté en commission mixte paritaire et que le Sénat a d’ores et déjà approuvé. Je vous invite à faire de même. Nous aurons alors fourni au Gouvernement toutes les armes nécessaires pour mener le combat. Tous, sur tous les bancs, nous souhaitons que vous en fassiez le meilleur usage, et que ce virus rejoigne rapidement la liste des maladies dont la science a libéré l’humanité. <italique>(Applaudissements sur les bancs des groupes LaREM, MODEM, LR et LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Marc Fesneau" qualite="ministre chargé des relations avec le Parlement" id_acteur="PA719938" id_nomination_oe="PM759796" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595953" ordre_absolu_seance="25" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067189" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre chargé des relations avec le Parlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1595954" ordre_absolu_seance="26" id_acteur="PA719938" id_mandat="-1" id_nomination_oe="PM759796" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067190" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Fesneau</nom>
+              <id>719938</id>
+              <qualite>ministre chargé des relations avec le Parlement</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Avant toute chose, je tenais à saluer la mobilisation exceptionnelle de l’Assemblée nationale, de ses élus, de ses fonctionnaires et des collaborateurs parlementaires, qui ont fait en sorte que le débat démocratique ait pleinement lieu en ces temps difficiles. Vous me permettrez de remercier également les services du Gouvernement qui ont contribué à l’écriture du projet de loi, avant de participer à celle des ordonnances.<br/>Ce débat qui nous a tous mobilisés s’est tenu alors même que des règles sanitaires très strictes – vous les avez rappelées, monsieur le président – ont été édictées et appliquées au sein de votre assemblée. Nous nous y sommes collectivement pliés avec discipline, de la même manière que nos concitoyens appliquent au quotidien les consignes sanitaires du Gouvernement. Il y allait de notre devoir d’exemplarité.<br/>Je souhaite également souligner la qualité du dialogue qui s’est noué entre les deux assemblées et avec le Gouvernement afin de parvenir à examiner dans des conditions satisfaisantes pas moins de trois projets de loi entre jeudi et aujourd’hui. C’est qu’aucun examen législatif rapide ne saurait être sérieux sans consensus entre les parties prenantes sur l’urgence d’agir et les réponses à apporter. Indéniablement, il y a eu et il y a encore des divergences ; c’est normal au sein d’une démocratie : cela prouve que la démocratie n’a pas été mise entre parenthèses. Nous les avons surmontées ; c’est le sens du compromis qui vous est soumis, c’est aussi la fonction du débat parlementaire.<br/>Je veux remercier très sincèrement le président de l’Assemblée nationale de son rôle essentiel dans l’organisation des débats, de sa disponibilité et de son écoute. Je remercie également l’ensemble des présidents de groupe et des députés mobilisés, qui ont agi dans un esprit de responsabilité. Cela a créé les conditions de la confiance ; je sais que vous en étiez très soucieux, monsieur le président.<br/>Nombre de citoyens pourraient s’étonner que le Parlement ait eu besoin de quatre jours pour adopter une loi dite d’urgence pour faire face à l’épidémie de Covid-19. Nous devons assumer ce débat que nous avons tous appelé de nos vœux, pour plusieurs raisons. Premièrement, nous restons convaincus que les Français attendent une réponse claire et forte concernant ce que l’État va faire au cours des prochaines semaines. C’était l’une des vertus du débat que de l’apporter. Ensuite, la discussion a témoigné de notre volonté de transparence et de sa nécessité concernant la situation sanitaire, sociale et économique du pays. Troisièmement, le consensus à propos de mesures exceptionnelles favorise d’autant leur compréhension, leur acceptation et leur mise en œuvre par nos concitoyens. Nos débats ont montré toute l’utilité de la démocratie représentative : faire état des observations, des interrogations, des inquiétudes de nos compatriotes sur le terrain, auxquelles nous avons voulu apporter des réponses.<br/>À cet égard, je salue en particulier le rôle essentiel de vos collègues absents de l’hémicycle en raison des règles sanitaires que nous nous sommes imposées, et dont vous avez néanmoins relayé l’expression. Je les remercie de leur engagement quotidien dans leur territoire, où ils jouent pleinement leur rôle auprès de nos concitoyens, en les représentant, en répondant à leurs attentes, à leurs besoins, en les rassurant aussi, parfois. C’est un travail précieux.<br/>Je voudrais revenir plus précisément sur quelques mesures emblématiques du texte. Le titre II, consacré à l’urgence sanitaire, donne les moyens au Gouvernement et à ses représentants de prendre des mesures réglementaires fortes pour enrayer la propagation du Covid-19, en s’inspirant notamment de la loi du 3 avril 1955. Des dispositions aussi exceptionnelles que le contrôle de la circulation des personnes et des véhicules, le maintien des personnes à domicile, le blocage temporaire des prix ou encore les réquisitions ne seront évidemment pas mises en œuvre sans contrôle si les circonstances exigent qu’elles le soient. Le Parlement devra autoriser par la loi la prorogation de l’état d’urgence sanitaire. À plusieurs reprises, la décision de recours à l’état d’urgence devra être éclairée par les données scientifiques, rendues publiques – nous en avons particulièrement débattu hier. L’Assemblée nationale comme le Sénat pourront requérir toute information complémentaire dans le cadre du contrôle et de l’évaluation des mesures. Il est précieux, en effet, de s’appuyer sur la science pour prendre nos propres responsabilités politiques et de poursuivre le contrôle parlementaire de l’action du Gouvernement, même dans cette période exceptionnelle. C’est également utile au Gouvernement.<br/>Outre des mesures plus coercitives qui visent les multirécidivistes contribuant manifestement à la propagation du virus par leur comportement irresponsable, des décisions de bon sens et tenant compte des réalités humaines ont été prises, dont l’abandon du jour de carence pour les arrêts maladie, le temps de l’épidémie, dans le secteur privé comme dans le secteur public, ou encore la prolongation de la trêve hivernale jusqu’au 31 mai 2020.<br/>Le titre III nous dote d’un arsenal nous permettant de faire face à une situation économique détériorée par la crise sanitaire. Environ quarante habilitations y sont prévues. C’est un choix radical, que le Gouvernement assume. Il faut être lucide : nous ne connaissons pas toutes les mesures qu’il faudra prendre en fonction de l’évolution de la situation. Mais nous prévoyons dès à présent de soutenir massivement la trésorerie des entreprises et de leur apporter des aides directes et indirectes afin de préserver l’essentiel. Le droit du travail sera également adapté de façon temporaire afin de garantir de la souplesse et de limiter les ruptures de contrats de travail. Ces mesures provisoires auront pour seul et unique objectif de permettre la poursuite du travail et la satisfaction des besoins essentiels de la nation.<br/>D’autres dispositions, qui pourront être complétées par ordonnance, sont de nature à adapter les procédures du quotidien. Je pense au fonctionnement des organes des collectivités, à celui des syndics de copropriété, aux procédures judiciaires ; dans ces domaines aussi, le débat parlementaire a pris tout son sens, en venant rappeler au Gouvernement telle ou telle dimension de la vie en collectivité qui justifie telle ou telle mesure particulière.<br/>Enfin, le titre III bis entérine le report du second tour des élections municipales et l’installation des conseillers municipaux élus au premier tour, ainsi que leurs conséquences. Je n’y reviendrai pas, sinon pour me réjouir qu’un accord entre les deux assemblées ait pu être obtenu sur ces points.<br/>Le projet de loi nous donne des moyens significatifs pour réagir aux problèmes posés par la propagation du Covid-19. Il ne suffira pas pour relever tous les défis qui nous attendent et devra sans doute être complété par d’autres dispositions. Si nous devons nous réjouir du travail accompli au cours des quatre derniers jours, la crise que nous connaissons nous oblige à l’humilité, qui concourt à la transparence et à l’esprit de responsabilité.<br/>Permettez-moi enfin de saluer ceux qui, dans l’urgence, sont en première ligne – à cet égard, j’associe le Gouvernement à l’hommage que vous avez rendu, monsieur le président, au membre du personnel médical qui vient de disparaître. Ils montrent un grand professionnalisme, beaucoup de dévouement et une capacité de mobilisation qui force notre admiration à tous. Je salue l’engagement sans faille des policiers, des gendarmes, des pompiers qui veillent au respect scrupuleux des mesures sanitaires et demeurent toujours aux côtés de nos concitoyens face aux difficultés. Je salue encore tous ceux qui, en soutien aux soignants et au service des Français, assurent chaque jour la continuité de la vie économique et sociale du pays – au fond, la mise en œuvre d’une économie de guerre sanitaire.<br/>Ce sont des fonctions essentielles, visibles ou moins visibles, auxquelles participent les agriculteurs, les artisans, les chauffeurs routiers, les transporteurs, ceux qui assurent la maintenance des réseaux téléphoniques, électriques ou d’eau, ceux qui assurent la collecte des ordures ménagères, les commerçants, les caissières…<br/>Je voudrais saluer également les élus locaux et leurs équipes qui ne ménagent pas leurs efforts pour résoudre une multitude de problèmes : ils font preuve d’une ingéniosité de tous les instants et s’adaptent en permanence. Je tiens par ailleurs à saluer l’ensemble des fonctionnaires, nationaux comme locaux, qui assurent eux aussi la continuité du service public. Au fond, je salue ici tous les maillons d’une chaîne de solidarité humaine précieuse dans les temps difficiles que nous traversons. Tous comptent, tous apportent leur pierre à l’édifice, y compris par de petits gestes quotidiens : ici pour rompre la solitude d’un voisin ou d’un parent isolé, là pour rendre un service nécessaire et, finalement, faire vivre le beau mot de fraternité. Plus que jamais, il nous faut leur rendre hommage, car nous leur devons déjà beaucoup, et nous leur devrons encore beaucoup. Tous font leur part et ont une action déterminante dans les moments que nous traversons.<br/>Par delà nos différences, vous aussi avez fait la vôtre, au nom, je le crois du seul intérêt qui vaille en ce moment : l’intérêt général. De tout cela, soyez remerciés. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM. – M.</italique><italique> </italique><italique>Bertrand Pancher applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Yaël Braun-Pivet" qualite="présidente de la commission mixte paritaire" id_acteur="PA721908" id_nomination_oe="-1" id_nomination_op="PM770018" id_mandat="PM723418">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595836" ordre_absolu_seance="4" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067207" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Yaël Braun-Pivet, présidente de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595837" ordre_absolu_seance="5" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM770018" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067208" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour reprendre les mots de Jean-Jacques Rousseau, « Tout État libre où les grandes crises n’ont pas été prévues est à chaque orage en danger de périr. » Nous pouvons nous féliciter d’avoir hérité de notre histoire les réponses qui s’imposent pour garantir la continuité de l’État, l’ordre républicain et, aujourd’hui, la santé publique. La guerre sanitaire évoquée par le Président de la République, nous sommes résolus à la mener avec toute la force de la République, car la France, c’est la République chevillée au corps et au cœur de chacun des Français ; car, dans notre pays, la démocratie est toujours la solution. En nous étant réunis tout au long de ces derniers jours, en ayant légiféré en toute transparence, en ayant conservé force à la loi, c’est à cela que nous sommes restés fidèles.<br/>Dans cette crise, nous, parlementaires, avions une double responsabilité : celle d’agir pour donner au Gouvernement les moyens d’une action puissante et rapide, celle également de rester unis. Le Président de la République a appelé les Français à se hisser à la hauteur du moment : je crois sincèrement que nos assemblées l’ont fait.<br/>Comme je l’ai dit dans mon intervention lors de la discussion générale, on ne légifère bien que lorsque l’on délibère bien. C’est, je crois, ce que nous avons fait en commission, puis dans l’hémicycle, jusqu’à très tard dans la nuit. Nous avons échangé, nous nous sommes concertés, nous avons réussi à créer des points de consensus. Aujourd’hui, au Sénat, nous avons vécu une commission mixte paritaire historique, marquée du début à la fin par le souci de chacun des députés et sénateurs, quel que soit leur groupe politique, de trouver la meilleure des solutions, la meilleure des rédactions et le meilleur consensus possibles, tout cela dans l’intérêt des Français et dans l’intérêt général ; par le souci, également, d’agir le plus rapidement et le plus efficacement possible tout en faisant preuve de la plus grande rigueur du point de vue juridique : il convenait de ne pas confondre vitesse et précipitation, de ne pas bâcler le travail législatif qui nous est confié.<br/>Nous devons désormais approuver les conclusions de la commission mixte paritaire. J’espère que nous serons unanimes à le faire car, je le répète, le pays a besoin que nous soyons unis afin de donner au Gouvernement toute la force de la République. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595841" ordre_absolu_seance="9" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="2067212" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Conformément à notre usage concernant la lecture des conclusions d’une commission mixte paritaire, les interventions dans la discussion générale vaudront explications de vote.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595842" ordre_absolu_seance="10" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2067213" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Jean-Luc Mélenchon" id_acteur="PA2150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722506">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595843" ordre_absolu_seance="11" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067214" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Jean-Luc Mélenchon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595844" ordre_absolu_seance="12" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2067215" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous vous l’avons dit, nous ne voterons pas ce texte : après en avoir délibéré, nous, les dix-sept députés du groupe La France insoumise, pensons en conscience que c’est notre devoir. En effet, nous ne pensons pas que les mesures qu’il contient soient à la hauteur de la situation telle que nous l’analysons.<br/>Avant de résumer nos raisons, je voudrais dire une fois de plus quel est, dans ce moment, notre principe d’action. Nous sommes une opposition, une force de proposition alternative, et nous le resterons en toutes circonstances. Dans une démocratie, l’opposition contribue à l’intérêt général par ses marques de solidarité, mais aussi par ses critiques, qui permettent de ne jamais oublier le postulat fondamental de la démocratie et de la raison : en toute situation, un autre chemin est possible. Si le devoir et le droit de la majorité étaient évidemment de prendre les décisions qui lui paraissent nécessaires et d’en exiger l’application, le droit et le devoir d’une opposition sont de proposer une solution alternative, c’est-à-dire de se présenter comme un recours à la disposition du pays. C’est ce rôle que nous assumons en cet instant, avec notre plan d’urgence, nos amendements et nos interventions dans l’hémicycle.<br/>La pandémie est certes un fait biologique, mais elle est avant tout un phénomène social qui résulte des conditions dans lesquelles, jusqu’à présent, l’humanité a produit, échangé, défini ses priorités. Si nous en sommes là aujourd’hui, c’est parce que l’égoïsme social, la liberté du marché et la concurrence libre et non faussée ont dominé sans frein, affaibli et détruit sans contrepartie presque tous nos moyens de défense collective. C’est avec cela qu’il faut rompre pour de bon, pas seulement pour créer un monde nouveau demain, mais aussi pour pouvoir nous tirer d’affaire dès aujourd’hui. Autrement dit, le monde d’après, sur lequel bon nombre projettent à présent leurs espérances, doit commencer dès maintenant avec d’autres moyens de produire et d’échanger, et une autre hiérarchie des normes. L’intérêt général, le salut commun, l’entraide, la planification écologique : voilà ce qui doit dorénavant et sans délai dominer. Selon nous, dans la situation de péril commun, ces principes ne doivent rencontrer aucune limite.<br/>À nos yeux, les meilleurs artisans sont ceux qui, par leur travail, font vivre le pays à chaque instant. Le confinement forcé est nécessaire et indispensable et, par solidarité avec les consignes données par les autorités sanitaires et le Gouvernement, j’invite chacun à le respecter, même s’il n’est pas sans coût psychologique grave. Mais il n’est pas l’horizon indispensable et indépassable de l’action collective pour le futur. La France dispose de tous les moyens matériels, moraux et même spirituels pour maîtriser la situation et d’atteindre ses objectifs sanitaires. Pour ce faire, le front social doit être pourvu sans délai du nombre nécessaire de masques, de respirateurs, de tests – indispensables pour savoir qui est malade et doit être confiné, qui ne l’est pas et doit pouvoir se rendre utile. À cette fin, les 100 000 salariés des 1 000 entreprises de textile doivent être réquisitionnés pour produire en priorité les centaines de millions de masques dont nous avons besoin ; les milliers de postes de travail des entreprises de mécanique doivent être réquisitionnés pour produire les milliers de respirateurs dont nous avons besoin ; les entreprises fermées ou en liquidation, dont les productions touchent directement aux moyens dont nous avons besoin, doivent être nationalisées et rouvertes sans délai : tout l’appareil de production peut et doit être mobilisé, jour et nuit, pour stopper le désastre avant le pic de l’épidémie.<br/>Dans toutes les entreprises concernées, les salariés eux-mêmes doivent décider des meilleures conditions sanitaires de la production, être équipés pour leur protection et, par le contact avec les entreprises qui les fournissent, organiser la continuité des chaînes d’approvisionnement qui leur sont nécessaires. Chacun doit se voir garantir que son revenu, son logement et ses fournitures de base seront assurés, et que par conséquent, il peut et doit consentir sans condition au confinement. Un impôt sur les grandes fortunes et les revenus du capital doit immédiatement contribuer au financement des mesures de salut commun. La France doit se mobiliser non seulement pour elle, mais également pour participer à la solidarité avec les peuples qui l’appelleraient à l’aide, en particulier et en priorité ceux de l’espace francophone.<br/>Votre plan ne prévoit ni cette mise à contribution de toutes les composantes du pays, ni la planification des moyens nécessaires. Il ne tire aucune leçon de l’égoïsme des nations qui composent l’Union européenne, laquelle, au mépris des valeurs qu’elle proclame, s’est opposée à tout bon sens. Vos décisions seront appliquées et, même si nous n’y croyons pas, nous vous souhaitons de tout cœur qu’elles réussissent. Mais, si elles échouent, le pays doit savoir qu’il dispose sur nos bancs d’une proposition alternative, d’une autre cohérence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595850" ordre_absolu_seance="18" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM770018" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est nul !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595851" ordre_absolu_seance="19" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067222" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Irresponsable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595852" ordre_absolu_seance="20" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067223" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le Gouvernement et les autorités sanitaires savent qu’ils peuvent compter sur nous pour toute l’aide dont ils pourraient avoir besoin ; il en va de même pour le pays. Ni maintenant, ni jamais, nous n’oublions que nos vies sont nos œuvres.<br/>Ainsi que l’a permis Prométhée, nous ne combattons pas d’autres ennemis que les erreurs et les abus d’une façon de vivre. Le moment est venu d’en changer radicalement : telle est la révolution que doit accomplir la civilisation humaine de notre époque. <italique>(Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595854" ordre_absolu_seance="22" id_acteur="PA721314" id_mandat="PM723236" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067225" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Raphaël Schellenberger</nom>
+              <id>721314</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Archi-nul !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Elsa Faucillon" id_acteur="PA721896" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723414">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595855" ordre_absolu_seance="23" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067226" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Elsa Faucillon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1595856" ordre_absolu_seance="24" id_acteur="PA721896" id_mandat="PM723414" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067227" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Considérant qu’il était notre rôle de passer à l’action, à la prise de décision rapide et de défendre la solidarité, c’est dans un esprit de responsabilité collective – en débattant, en faisant valoir des convictions, en tentant de tracer un chemin – que les députés du groupe GDR ont siégé ces derniers jours. Puisque l’occasion m’en est donnée, je veux dire tout mon soutien et ma solidarité à celles et ceux qui affrontent le virus, aux familles de celles et ceux qui y ont succombé, à la famille du médecin décédé aujourd’hui.<br/>Je veux évidemment saluer le courage du personnel soignant, qui affronte cette épidémie avec des moyens bien trop faibles et affaiblis par des choix politiques de supprimer des lits et des postes. Je veux saluer le dévouement de tous les autres, mobilisés au service de la protection collective, qui derrière une caisse de supermarché, qui derrière une benne à ordures, qui derrière un volant pour livrer des repas aux aînés ou assurer les maraudes – et cela, bien souvent, sans protection. Je veux dire aussi qu’aux mains qui applaudissent le soir à vingt heures, s’ajoutent des mots. Des mots sur les maux, qui demandent plus de moyens pour l’hôpital, des masques pour les personnels.<br/>L’urgence sanitaire nécessite un plan de bien plus grande ampleur que ce qui a été voté dans le cadre du projet de loi de finances rectificative. Nous continuerons donc à demander des moyens bien plus importants pour l’hôpital : chaque jour, nous voyons à quel point cela est décisif ; malheureusement, dans les prochains jours, nous verrons à quel point cela est même vital. Nous continuerons de demander des réquisitions d’entreprises, car nous considérons que l’on est encore trop loin du compte. À nos yeux, le texte issu de la commission mixte paritaire ne dissipe pas les inquiétudes que nous avons exprimées ces derniers jours. Inquiétude tout d’abord s’agissant de la dérogation démocratique qu’il prévoit, bien plus importante que dans l’état d’urgence. Or nous pensons au contraire que pour encourager le rassemblement de toutes et tous et avancer ensemble, la démocratie et la coopération doivent être notre ligne de conduite.<br/>Nous avions proposé qu’au-delà du Parlement, un comité de suivi associe des scientifiques, des représentants du monde du travail, des acteurs sociaux et économiques. Nous pensons que le rassemblement, l’unité, la confiance ne se décrètent pas : ils se construisent, ils se gagnent. Or accorder les pleins pouvoirs à l’exécutif, c’est prendre le risque du manque de transparence et de coopération. Le plus grand risque de tous, c’est que la suspicion naisse et que la colère gronde. Nous pensons que la démocratie sociale et politique est essentielle pour l’adhésion du peuple non seulement aux mesures prises, mais aussi au comportement à adopter, en particulier le confinement.<br/>Inquiétude, aussi, devant les mesures dites « sociales », qui ne relèvent d’ailleurs pas de l’état d’urgence. Je pense à l’article 7, qui prévoit d’importantes dérogations au droit du travail, dérogations qui pourraient se prolonger, car ces mesures ne sont pas circonscrites dans le temps ; je pense à la durée du travail, aux congés payés, au travail dominical, qu’elles concernent. Les Français font preuve en ce moment d’une grande solidarité : ils font beaucoup d’efforts, y compris ceux qui restent confinés, même si ceux qui sont en première ligne en font plus encore. Mais ces mesures nous inquiètent, car elles donnent l’impression que rien du logiciel n’est remis en cause, que ce sont toujours les mêmes qui vont payer la crise.<br/>Certaines dispositions auraient pourtant pu démentir cette impression et inspirer confiance, par exemple le rétablissement de l’impôt de solidarité sur la fortune, l’ISF, qui n’aurait même pas suscité de polémique ; vous l’avez refusé. Alors que le gouvernement italien a annoncé l’arrêt de toute activité de production non essentielle, Mme Pénicaud se montre fière de pouvoir contraindre les salariés du BTP à travailler. Nos choix politiques peuvent sauver des vies : ce que nous devrions décider d’urgence, c’est d’arrêter ces activités non essentielles et d’assurer le revenu des salariés. Ce que nous faisons aujourd’hui dit quelque chose du monde d’aujourd’hui, mais aussi du monde de demain. La solidarité, le choix de protéger la planète, mais surtout les vies humaines, avant votre logiciel économique, reviendrait à dire quelque chose dans l’immédiat et pour l’« après ».<br/>Compte tenu de ces inquiétudes confirmées par la CMP, par ces dérogations démocratiques, par ces choix qui aboutissent à faire payer la crise toujours aux mêmes, nous voterons en toute responsabilité et en toute conviction contre ce texte. <italique>(Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stanislas Guerini" id_acteur="PA721498" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723294">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595910" ordre_absolu_seance="42" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067146" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stanislas Guerini.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595911" ordre_absolu_seance="43" id_acteur="PA721498" id_mandat="PM723294" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067147" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stanislas Guerini</nom>
+              <id>721498</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce soir, l’heure n’est ni aux grands discours, ni à je ne sais quel recours politique : l’heure est à l’action, humble, efficace, concrète, quotidienne. C’est ce que permet le texte que nous allons adopter. Il donne au Gouvernement les moyens d’agir. Ce soir, les Français peuvent se dire que les parlementaires, députés comme sénateurs, ont été dans leur immense majorité à la hauteur de la situation tragique que connaît notre pays. Ils ont su se mettre d’accord sur l’essentiel ; ils ont su travailler dans l’esprit de concorde, d’unité nationale, qui doit prévaloir en ce moment. Mme la présidente de la commission des lois a souligné l’attention dont députés et sénateurs ont fait preuve lors de la CMP, où le sens des responsabilités l’a emporté, afin, encore une fois, de donner au Gouvernement les moyens d’agir.<br/>Le cœur de ce texte, c’est l’état d’urgence sanitaire, que nous avons créé. Il repose sur trois principes essentiels. Le premier consiste à donner au Gouvernement un large champ d’action ; c’est pour cela que nous avons forgé cet outil juridique nouveau, parce que la situation est elle-même nouvelle, parce que nos textes ne la prévoyaient pas. Ce virus s’attaque à tous les aspects de notre société, il a des conséquences pour tous. C’est la raison pour laquelle nous avions besoin de permettre au Gouvernement, par ce texte, d’agir dans tous les domaines.<br/>Le deuxième principe est de borner dans le temps cet outil juridique que nous avons construit. C’est un principe de responsabilité. L’heure viendra où nous réfléchirons à une façon pérenne d’inscrire dans notre législation cet état d’urgence sanitaire : ce sera au moment de la reconstruction du pays, où nous aurons à nous interroger collectivement au sujet des profondeurs philosophiques de notre société. Aujourd’hui, il faut agir dans l’urgence.<br/>Le troisième principe, dont nous avons longuement débattu, est celui du contrôle : le contrôle exercé par le Parlement, mais aussi le fait que toutes les décisions que le Gouvernement va prendre seront appuyées sur la science, sur les autorités sanitaires ; le fait que les avis de celles-ci seront rendus publics ; la possibilité pour le Parlement d’interroger à tout moment le Gouvernement, soit pour prolonger cet état d’urgence, soit pour demander tout type d’informations. Nous devons pouvoir nous assurer que nous avons agi de manière responsable.<br/>Le texte que nous allons adopter ne se trompe pas de priorité. Nous avons fait le choix, lors de son examen, de reléguer les questions électorales en dernière position ; nous avons bien fait. Nous avons recherché le consensus concernant le fait que toute opération électorale devait être purement et simplement gelée. Il était de notre responsabilité de le faire. Le pays n’a pas la tête aux élections municipales : nous ne devons pas avoir la tête aux élections municipales. Nous reprendrons le processus électoral par la suite.<br/>Je tiens à remercier ceux qui nous ont permis de travailler dans l’urgence et de donner ce texte de confiance au Gouvernement. Madame la présidente de la commission des lois, merci d’avoir si bien conduit nos travaux. Madame la rapporteure, merci de les avoir menés à bien dans des conditions qui sortaient de l’ordinaire, d’avoir vous-même fait un travail extraordinaire, avec le soutien des administrateurs de l’Assemblée nationale et de tous ceux qui permettent à notre assemblée de siéger alors même qu’elle constitue, nous le savons, un foyer de l’épidémie. Merci à vous qui, vous aussi, agissez de manière responsable.<br/>En guise de conclusion, je voudrais avoir un mot pour nos concitoyens, à commencer par ceux qui sont malades, par les familles des victimes, déjà trop nombreuses. Hier, 562 de nos concitoyens avaient perdu la vie : autant de familles endeuillées à qui j’adresse mes pensées, ainsi qu’à ceux qui maintiennent notre pays debout, aux soignants qui sauvent des vies, à ceux qui sont en première ligne, au front, qui travaillent, parfois invisibles. Je pense aux caissières et aux caissiers des supermarchés : ils permettent à notre pays de continuer à s’alimenter, à vivre. Je pense à tous ceux qui font preuve de responsabilité en restant confinés chez eux, certains dans de petits appartements, dans des quartiers difficiles : il faut les remercier de respecter cette règle. Restez chez vous ; c’est cela qui nous permettra de sauver des vies. <italique>(Applaudissements sur les bancs des groupes LaREM, LR et MODEM. – M.</italique><italique> </italique><italique>Charles de</italique><italique> </italique><italique>Courson applaudit également.) </italique> </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595918" ordre_absolu_seance="50" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067154" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595919" ordre_absolu_seance="51" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067155" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il est des moments graves, des moments solennels, où pourtant –<italique> </italique>je vais vous faire une confidence – on se sent l’esprit en paix. Cela peut paraître singulier dans une période si troublée. Il s’agit d’une paix intérieure : être en paix avec soi-même est parfois difficile. Il s’agit aussi d’être en paix avec ceux qui vous entourent et que vous respectez. Je le dis ici, humblement : chacun d’entre nous peut être en paix, car il tente en ce moment, en ces temps exceptionnels que nous vivons, dans des délais si brefs, de donner le meilleur de lui-même.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595920" ordre_absolu_seance="52" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067156" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien, monsieur !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595921" ordre_absolu_seance="53" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2067157" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons travaillé sous le regard de nos concitoyens, sous le regard vigilant, parfois sans concession, de ces familles confinées, de ces soignants qui œuvrent sans arrêt, de ces caissières, chauffagistes, artisans, transporteurs, de ces cohortes encore présentes sur le pont. Ils sauront bien nous juger, sans aucun doute. Dans tous les cas, nous avons tenté d’être dignes de leur confiance. Tous, sans exception, nous avons mesuré le poids de nos fonctions ; tous, nous mesurons en ce moment la charge particulière, singulière, de représenter nos collègues absents, que je salue. D’une certaine façon, ils sont bien présents, aujourd’hui, avec nous. <italique>(Applaudissements sur tous les bancs.)</italique><br/>En faisant ainsi, je le disais cette nuit, c’est bien la nation que nous avons représentée. Ensemble, ici, au-delà de nos différences et de nos sensibilités, nous sommes bien, tous, la République, la République debout, la démocratie qui tient bon et ne vacille pas. Je tiens à saluer le sens des responsabilités de chacun, l’esprit d’unité nationale qui a prévalu et qui nous unit. Avec Raphaël Schellenberger, autour de Damien Abad, que je salue également tous deux, le groupe Les Républicains a essayé d’être une force de proposition. Nous avons eu le souci permanent de travailler à une œuvre collective dans l’intérêt général, mus par un esprit de résistance, non à nos collègues, mais à la fatalité, à la maladie, à ce qui s’abat actuellement sur le pays.<br/>Je tiens enfin à saluer la présidence de l’Assemblée nationale, ses services, nos collaborateurs et ceux de l’Assemblée, tous ceux qui, dans l’ombre, nous ont permis de faire aboutir ce travail. Je salue Yaël Braun-Pivet, Gilles Le Gendre et d’autres collègues, comme Stanislas Guerini, sans vous oublier, monsieur le ministre. Nous avons connu hier des interventions et des interruptions de séance fructueuses, qui démontrent vos talents de fin négociateur.<br/>Certains ne s’y retrouveront pas ; certains trouveront que nous avons été trop longs. Quoi ! Trois jours pour bousculer des pans entiers de notre droit, ce serait trop long ! Ce que nous allons adopter tout à l’heure n’est pas rien : quarante-trois habilitations, qui se traduiront par une vingtaine d’ordonnances ; des bouleversements de notre droit économique, social, électoral, fiscal, pénal, sanitaire, j’en passe et des meilleurs ; sans compter un certain nombre de principes constitutionnels, au sommet de notre hiérarchie des normes, la liberté d’aller et de venir, la liberté de réunion, la liberté d’entreprendre, eux aussi bousculés par des temps bien incertains. Pour donner des pouvoirs exceptionnels à l’État, il est essentiel que la représentation nationale prenne son temps. C’est aussi la grandeur du bicaméralisme, de la navette parlementaire, à laquelle nous rendons hommage.<br/>Puisque les pouvoirs sont exceptionnels, les recours ne doivent pas être l’exception. Il y avait là matière à de vrais débats : tous ne sont pas éteints. Mais le Gouvernement a désormais toutes les cartes en main. Il doit s’en emparer. Vous devez impérativement utiliser ces voies et moyens qui, nous l’espérons, permettront de juguler la crise et de nous préparer des jours meilleurs. Je ne suis pas naïf : il y aura des bilans, des évaluations ; mais l’heure n’est pas aux polémiques. Restons unis dans cet esprit de résistance. Résistons ! Il est des guerres que l’on a su mener ; il est des victoires que nous attendons ; et dans tous les cas, ce qui nous unit nous grandit ! <italique>(Applaudissements sur les bancs des groupes LR, LaREM, MODEM et LT.)</italique>    </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Florennes" id_acteur="PA721742" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723370">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595926" ordre_absolu_seance="58" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067162" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Isabelle Florennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1595927" ordre_absolu_seance="59" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067163" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je l’ai dit en commission, rappelé en séance, et je le redis ici : face à cette crise, nous sommes tous responsables. En parvenant à un accord dans des délais aussi resserrés, le Parlement a fait preuve de responsabilité. Nous pouvons nous en féliciter pour notre démocratie, bien sûr, mais surtout pour les Français.<br/>En quatre jours, nous avons examiné deux textes qui nous aideront à surmonter l’épidémie et jettent les bases juridiques qui nous permettront de mieux appréhender d’autres catastrophes du même ordre. Ensemble, nous avons su agir pour aujourd’hui et pour demain. Malgré les contraintes logistiques, le Parlement a pu jouer pleinement son rôle, d’autant plus important que la crise sanitaire a obligé le Gouvernement à prendre des mesures de protection de la population qui sont attentatoires à la liberté.<br/>Ce matin, nous sommes parvenus à un accord avec nos collègues sénateurs et nous en sommes satisfaits. L’organisation du texte, tout d’abord, témoigne de notre priorité actuelle à toutes et à tous : gérer l’urgence sanitaire. La clause de sauvegarde a été améliorée, comme vous l’avez rappelé, madame la rapporteure.<br/>Concernant le volet démocratique, nous offrons la garantie aux candidats élus dans 30 000 communes que leurs résultats de dimanche dernier resteront acquis.<br/>Nous nous félicitons du report de la date de dépôt des listes à juin prochain afin de suspendre la campagne électorale : notre groupe le souhaitait ardemment.  <br/>Le Gouvernement a désormais à sa disposition des moyens d’action complets et juridiquement sécurisants. L’état d’urgence sanitaire, créé sur le modèle de l’état d’urgence de droit commun, est, à n’en pas douter, l’outil qu’il nous fallait pour avancer de manière efficace et pour protéger les Français.<br/>Les mesures économiques et sociales adoptées permettront d’adapter l’économie du pays à la situation et de protéger l’ensemble des acteurs, des très petites entreprises – TPE – aux grandes entreprises, des salariés aux entrepreneurs, sans oublier les commerçants, les artisans et les indépendants.<br/>Sur le plan politique et institutionnel, nous avons su dépasser nos divergences pour prolonger les fonctions des équipes actuelles. C’était absolument nécessaire, car nos élus sont, comme beaucoup d’autres Français, en première ligne. Ils sont mobilisés pour lutter contre l’épidémie, et nous leur faisons confiance pour avancer au mieux durant cette crise.<br/>J’adresserai mes derniers mots aux malades, aux victimes, à leurs familles, aux soignants, à tous ceux qui se battent et assurent la bonne marche de notre pays, pour leur dire merci. Ils me rappellent les mots de Gabriel Chevallier dans le roman <italique>La Peur</italique> : « Le geste du héros est un paroxysme et nous n’en connaissons pas les causes. Au sommet de la peur, on voit des hommes devenir braves, d’une bravoure terrifiante parce qu’on la sait désespérée. » À ces braves, je dis merci pour tout, et aux autres, je demande, pour les soutenir, de rester chez eux. <italique>(Applaudissements sur les bancs des groupes LaREM et LR. –</italique><italique> </italique><italique>M. Charles de Courson applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christophe Bouillon" id_acteur="PA267233" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723500">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1595867" ordre_absolu_seance="8" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067102" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Bouillon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1595868" ordre_absolu_seance="9" id_acteur="PA267233" id_mandat="PM723500" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067103" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Bouillon</nom>
+              <id>267233</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom du groupe Socialistes et apparentés, mes premières pensées vont bien évidemment aux familles endeuillées, à celles et ceux qui souffrent. Aujourd’hui, de nombreuses personnes luttent contre la maladie dans notre pays. J’ai également une pensée pour nos collègues, pour vos collègues ministres, pour les agents de cette maison et pour nos collaborateurs.<br/>Je peux témoigner comme vous tous, depuis jeudi, qu’il s’exprime aussi un grand sens des responsabilités. Sur chacun de ces bancs, nous faisons preuve d’une intelligence utile. Notre travail depuis quatre jours est important, utile et nécessaire ; il grandit le Parlement, et apporte une très belle démonstration de ce que nous sommes capables de faire lorsque nous savons nous rassembler sur l’essentiel, discuter, débattre, construire. Là est l’important. Aucune des questions posées n’a été inutile. Au contraire, elles ont toutes permis d’avancer.<br/>Nous avons constaté les uns et les autres qu’il était important de pouvoir se reposer sur le Parlement, sur ce que nous représentons chacun et chacune. Depuis le début, avec nos collègues, nous avons eu pour boussole une direction, trois impératifs.<br/>Le premier est de prendre soin des Français. Pour cela, il faut que la consigne essentielle – rester chez soi – soit strictement appliquée. C’est la raison pour laquelle nous sommes très favorables à toutes les mesures qui permettent de satisfaire à cette exigence absolue et d’organiser ce confinement, essentiel dans la lutte contre la maladie.<br/>Prendre soin des Français, c’est aussi prendre soin de ceux qui prennent soin des Français. Nous avons tous eu une pensée pour les blouses blanches, qui, dans cette guerre, passez-moi l’expression, sont en quelque sorte notre grande armée, à qui il faut donner les moyens – masques, gels, respirateurs, tests. Bref, il faut que l’intendance suive : il est essentiel que tous les moyens soient accordés dans ce combat à celles et ceux qui sont au front.<br/>Prendre soin des Français, c’est prendre soin des salariés, de celles et ceux grâce à qui, au quotidien, la France tourne, les magasins sont approvisionnés, les moyens de transport circulent. Chacun dans des fonctions différentes, ils sont essentiels à la vie de notre Nation ; c’est un peu le <italique>back office</italique> de notre pays. Il faut, pour protéger notre économie, protéger ces salariés qui attendent beaucoup de nous. Il doivent savoir qu’à travers ces nombreuses dispositions, nous répondons à leurs inquiétudes.  <br/>Le deuxième impératif est de prendre soin de la France. Pour son économie, il est essentiel de prévenir les faillites, d’éviter que les salariés se retrouvent à la rue ou dans des situations difficiles. Ce texte comporte des mesures qui vont dans ce sens et que nous soutenons. Pour la même raison, nous avons voté en faveur du projet de loi de finances rectificative, qui apporte des réponses pour l’économie.  <br/>Outre l’économie, notre modèle social est essentiel. Il faut conjuguer les deux : ne passons pas par pertes et profits, au nom des impératifs économiques, le dialogue social, car il est essentiel. Nous devons aller plus loin en la matière, et garantir aujourd’hui aux salariés que leurs droits ne seront pas diminués. Il est essentiel qu’ils soient pleinement mobilisés ; ils ne peuvent l’être que dans le dialogue social.<br/>Enfin, le troisième impératif est de prendre soin de la République. Nous sommes attachés à l’équilibre des pouvoirs. Nous conjuguons depuis toujours l’ordre et la liberté, c’est notre grammaire. Continuons à le faire. Les droits du Parlement ne doivent pas être confinés, en tout cas pas au-delà du confinement. Faisons en sorte d’apporter des réponses en la matière.<br/>Lorsqu’on touche aux libertés fondamentales, il faut que ce soit d’une main qui tremble. Les pouvoirs exorbitants ne doivent être confiés que pour des délais raisonnables, et toujours sous le contrôle du Parlement – c’est essentiel. À cet égard, ne nous plaçons pas en dessous des mesures que nous avons été capables de prendre lors d’une époque terrible, en 2015-2016, au moment de l’application de l’état d’urgence.<br/>Enfin, si nous voulons éviter que la crise sanitaire, qui entraîne déjà une crise financière et économique, ne s’accompagne aussi d’une crise démocratique et sociale, il nous faut conjuguer tous ces aspects.  <br/>C’est la raison pour laquelle nous sommes favorables à l’état d’urgence sanitaire et ne nous opposerons pas aux mesures prévues ; mais nous souhaitons faire ce choix en responsabilité.<br/>Vous pouvez compter sur nous dans la bataille contre le virus. Nous y contribuerons, avec en bandoulière la devise de notre république : liberté, égalité, fraternité. <italique>(Applaudissements sur les bancs des groupes LaREM, MODEM, LR et LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre-Yves Bournazel" id_acteur="PA722030" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723454">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1595881" ordre_absolu_seance="22" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067116" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre-Yves Bournazel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1595882" ordre_absolu_seance="23" id_acteur="PA722030" id_mandat="PM723454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067117" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Yves Bournazel</nom>
+              <id>722030</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi d’avoir une pensée émue pour toutes les victimes, leurs familles, leurs proches, comme pour tous nos concitoyens confinés, parfois inquiets – restez chez vous, suivez les consignes, c’est impératif.<br/>À l’issue de l’examen d’un texte de loi qui a demandé un travail difficile, il arrive que les députés applaudissent. Aujourd’hui, les seuls applaudissements qu’il est possible de faire résonner dans le pays doivent être pour les soignants, tous les soignants… <italique>(M. Bertrand Pancher applaudit.)</italique><br/>…pour toutes celles et tous ceux qui, dans les services publics, les commerces, les entreprises, permettent de faire vivre les fonctions essentielles de notre pays. L’un d’eux, médecin à Compiègne, est décédé, et nous lui rendons hommage.<br/>Dans chaque guerre, sur le front, des milliers de personnes se sacrifient pour que nous continuions de vivre. Notre pays est pris dans un tourbillon inédit, infernal, où les certitudes ne sont plus celles d’hier et où l’urgence commande tout.<br/>L’urgence la plus impérieuse est de se concentrer sur l’essentiel : l’intérêt général. L’essentiel, pour le groupe UDI, Agir et indépendants, et pour tous ici, est de sauver des vies.<br/>Allons donc à l’essentiel dans notre travail parlementaire. Notre groupe, en responsabilité, votera en faveur des textes. Notre position est claire : il faut donner au Gouvernement les marges de manœuvre nécessaires par ordonnance, car nous ne savons pas de quoi demain sera fait et nous ne pourrons jamais légiférer aussi vite que le coronavirus se propage.<br/>En ces circonstances dramatiques, la question de la date de dépôt des listes pour le second tour est apparue secondaire. Aussi ne peut-on que se réjouir que la commission mixte paritaire l’ait tranchée et que la date de dépôt ait été repoussée, dans un esprit sage et de responsabilité collective.<br/>Un second tour pourrait avoir lieu d’ici à la fin du mois de juin, dans les communes n’ayant pas désigné de vainqueur dimanche dernier. Si la situation sanitaire ne le permet pas, alors la totalité des opérations de vote devrait recommencer dans ces communes. Nous avons ainsi trouvé un équilibre entre la situation exceptionnelle que nous vivons et le maintien indispensable de la vie démocratique.<br/>Pour ce qui est le plus important, nous soutenons l’instauration d’un état d’urgence sanitaire. Sur ce point aussi, les discussions ont été constructives, et je voudrais remercier l’ensemble des parlementaires. Il s’agit de donner un cadre suffisamment large pour que le Gouvernement puisse agir, y compris dans des cas qui n’apparaîtront que progressivement.<br/>Cependant, nous n’instaurons pas de façon pérenne dans notre droit la possibilité de recours à ce régime. D’ici un an, il ne pourra plus être invoqué. Je tiens également à souligner que les mesures qui peuvent être prises en application de ce régime ont été énumérées de manière limitative.<br/>Concernant ce qu’il conviendrait d’appeler l’état d’urgence économique, nous approuvons également les ordonnances prévues, qui donnent la latitude pour légiférer rapidement dans de nombreux domaines économiques, administratifs et judiciaires pour lesquels il faut assurer la continuité de la vie quotidienne, afin de protéger le travail des salariés et d’empêcher que des entreprises ne fassent faillite.<br/>À cet égard, l’édiction de règles sur le chômage partiel est très attendue, en particulier par les petites entreprises. Tant pour l’état d’urgence sanitaire que pour les ordonnances, les marges de manœuvre données ne doivent pas empêcher le contrôle démocratique de s’exercer grâce à la représentation nationale.<br/>Non seulement l’état d’urgence doit faire l’objet de ce contrôle, mais les nombreuses ordonnances doivent aussi, autant que possible, être soumises à la consultation des parlementaires. Les mesures prises par ordonnance devront prendre fin à la fin de l’épidémie, que nous espérons tous la plus rapide possible.  <br/>En cette période difficile, nous tentons de faire le lien entre nos concitoyens et les décisions politiques qui s’imposent ; elles sont rapides, sans être toujours lisibles.<br/>Nous tâchons de faire remonter les questions, les inquiétudes, les alertes dont nos concitoyens nous font part. C’est notre rôle, tout comme il est de notre devoir de donner à l’exécutif les moyens financiers et législatifs de faire face à la crise.<br/>Les débats parlementaires ont permis de durcir de manière équilibrée les amendes, en cas de récidive, pour les infractions à l’obligation de confinement, ou encore de donner aux policiers municipaux le pouvoir de dresser des contraventions.<br/>Mes chers collègues, l’esprit d’unité nationale qui a prévalu entre nos deux chambres doit être maintenu tout au long de la crise. L’intérêt de la France doit primer sur toute autre considération.<br/>Pour tous ceux qui sont au front, comme pour ceux qui sont à l’arrière, pour ceux qui font la Nation, nous devons donner au pays les moyens de faire face à cette épidémie et de la vaincre. Ensemble, nous surmonterons cette épreuve.<italique/><italique>(Applaudissements sur les bancs des groupes LaREM, MODEM, LR, LT et SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bertrand Pancher" id_acteur="PA333421" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722920">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1595900" ordre_absolu_seance="41" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2067135" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bertrand Pancher.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1595901" ordre_absolu_seance="42" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2067136" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En cette période de crise sanitaire, d’une gravité inédite dans notre histoire récente, l’unité nationale est un impératif. Elle ne doit pas rester un vain mot, mais s’incarner. C’est pourquoi les députés du groupe Libertés et territoires voteront ces lois tout à fait exceptionnelles.<br/>Nous venons de passer trois jours et deux nuits à débattre dans des conditions jamais connues depuis la guerre d’Algérie, peu nombreux, séparés par des distances de sécurité, mais représentant l’ensemble des courants politiques de notre pays. Nous aurions pu aller plus vite, mais peu importe : l’essentiel est le résultat.  <br/>Par notre vote, nous nous apprêtons à donner au Gouvernement un important arsenal juridique et financier pour affronter l’urgence. Si nous aurons plus tard à évaluer ce dispositif, l’heure n’est pas au bilan, mais à la mobilisation générale.<br/>En période de pandémie, la priorité est de contenir le nombre de malades et de décès, y compris par la privation temporaire de nos libertés fondamentales – le droit de nous réunir, de nous déplacer, d’échanger ou d’exercer nos cultes. En mettant en place des mesures tout à fait exceptionnelles, mais non un régime d’exception, en renforçant lourdement les sanctions pour les contrevenants, nous rappelons la priorité des priorités : que chacun reste chez soi.  <br/>Nous, parlementaires, devons exercer pleinement notre rôle de contrôle, et serons très vigilants, car nous sommes les représentants de nos électeurs, qui nous sollicitent en permanence, et plus encore dans cette période. Nous leur devons transparence et écoute.  <br/>Ces textes d’urgence mobilisent des moyens financiers considérables pour aider nos entreprises, ne pas sombrer et accompagner les salariés. En effet, la deuxième priorité est que notre économie ne s’écroule pas et que nos concitoyens puissent vivre dignement. Nous devons être au rendez-vous.  <br/>Cette loi prévoit des dérogations indispensables au droit du travail. Je tiens à saluer, au nom de mes collègues, l’engagement des partenaires sociaux, sans lequel nous ne pourrons pas réussir.<br/>Je veux aussi saluer celles et ceux qui luttent : les personnels hospitaliers, les soignants, les services de secours. Nous souhaitons que les discussions annoncées cette semaine par le Gouvernement permettent une juste revalorisation de leurs traitements.<br/>Je veux aussi avoir une pensée pour les malades, pour les familles des victimes, et bien sûr pour l’ensemble de nos concitoyens, que je remercie pour leur engagement.<br/>J’ai enfin une pensée pour ceux qui continuent à faire vivre notre pays – fonctionnaires, salariés, éboueurs, postiers, caissiers, livreurs et tant d’autres –, en rappelant qu’ils doivent pouvoir bénéficier de moyens pour se protéger. Nous leur rendons un vibrant hommage.<br/>Cet épisode nous rappelle l’importance de nos services publics, garants de l’intérêt général. On ne peut pas déréguler et en même temps soutenir notre système de soins, nos aînés dépendants, notre système éducatif, l’environnement, et j’en passe. Ce contexte inédit nous contraint, enfin, à une pause dans notre vie démocratique locale, pourtant si essentielle. Les élus locaux sont, eux aussi, en première ligne. Cependant, le processus électoral en cours ne peut se poursuivre. Le compromis trouvé est loin d’être parfait, mais dans les circonstances actuelles, l’urgence est ailleurs.<br/>Ces moyens, ce cadre exceptionnel, donnent à l’exécutif les armes nécessaires pour agir efficacement. Monsieur le ministre, vous avez, comme l’ensemble du Gouvernement, les moyens d’agir. S’ils ne sont pas suffisants, et si nous y sommes conviés, nous reviendrons dans l’hémicycle. Le Président de la République nous a dit qu’au vu de la situation, tout notre pays devait se mobiliser et que plus rien ne serait comme avant. Nous l’espérons.<br/>Nous devons agir en faveur d’une vie démocratique enfin apaisée en nous écoutant, en nous respectant et en construisant ensemble. Nous devons conserver cet esprit de rassemblement. Oui, nous avons bien travaillé ensemble ces derniers jours, dans un état d’esprit que je n’avais jamais connu depuis mon arrivée au Parlement il y a dix ans, sauf peut-être lors du Grenelle de l’environnement, qui ne nous avait hélas pas conduits à changer un modèle de société que l’on savait déjà chancelant. Nous devons assurer un développement enfin humain, équilibré et responsable, car cette crise interroge notre modèle économique, nos façons de consommer, cette mondialisation sans contrôle. Demain, si nous ne changeons pas de modèle, la frénésie de la consommation énergétique et des matières premières détruira totalement notre belle planète et notre bien commun, l’humanité.<br/>Nous surmonterons ensemble cette terrible crise à laquelle nous consacrons des moyens considérables. Nous changeons radicalement, et dans l’urgence, nos modes de vie. Que cette terrible épreuve nous fasse retrouver l’essentiel : la beauté de nos vies, la qualité de nos relations. Qu’elle soit utile pour lutter non seulement contre ce fléau, mais aussi contre tous les autres périls qui nous guettent aujourd’hui et demain. Nous en aurons la capacité si nous savons nous appuyer sur nos valeurs, sur nos institutions et si nous nous faisons confiance. Nous sommes peut-être en train de tracer un nouveau chemin. Vive la République, vive la France ! <italique>(Applaudissements sur les bancs des groupes LT, LR, LaREM, MODEM et UDI-Agir.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1595823" ordre_absolu_seance="117" code_grammaire="VOTE_ENS_CMP_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2067078" valeur=" (n[[o]] 2766)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1595824" ordre_absolu_seance="118" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="VOTE_ENS_CMP_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067079" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Mes chers collègues, dans les circonstances exceptionnelles que connaît notre pays, après neuf heures de débat en commission, quatorze heures de débat dans cet hémicycle et quatre heures de réunion de la commission mixte paritaire, je mets aux voix le projet de loi, compte tenu du texte de la commission mixte paritaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1595825" ordre_absolu_seance="119" code_grammaire="VOTE_ENS_CMP_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2067080" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’ensemble du projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1595826" ordre_absolu_seance="120" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="VOTE_ENS_CMP_ML_2_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067081" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je voudrais remercier tous les collègues présents et l’ensemble des présidents de groupe, qui ont permis que nous nous adaptions à ces circonstances exceptionnelles sans que nos débats en soient pour autant troublés. Je veux également remercier l’ensemble des fonctionnaires et des collaborateurs qui ont rendu possible ce rendez-vous démocratique pour leur grand dévouement et leur professionnalisme. <italique>(Applaudissements sur tous les bancs.)</italique><br/>Je veux aussi, comme certains l’ont déjà fait, saluer tous nos collègues absents, mais dont nous sentons tous, par différents canaux, la présence. Je veux enfin vous dire  que je veillerai toujours activement, et avec vous, à ce que notre Assemblée demeure, en toutes circonstances, le cœur battant de notre République et de notre démocratie. <italique>(Applaudissements sur tous les bancs.)</italique></texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="5" id_preparation="1595829" ordre_absolu_seance="123" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2067084" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1595830" ordre_absolu_seance="124" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2067085" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, le mardi 24 mars, à quinze heures :<br/>Questions au Gouvernement.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1595831" ordre_absolu_seance="125" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2067086" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix-neuf heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1595832" ordre_absolu_seance="126" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2067087" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1370 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N185</uid>
+  <metadonnees>
+    <dateSeance>20210302213000000</dateSeance>
+    <dateSeanceJour>mardi 02 mars 2021</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>185</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210185</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-03-08T14:35:41.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2431114">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2431118">
+          <intitule>Moyens de remédier<br/>aux effets de l’épidémie de covid-19 sur la jeunesse</intitule>
+        </titreStruct>
+        <para id_syceron="2431121">M. Pierre-Henri Dumont</para>
+        <para id_syceron="2431139">Mme Maud Petit</para>
+        <para id_syceron="2431153">Mme Cécile Untermaier</para>
+        <para id_syceron="2431163">M. Thomas Gassilloud</para>
+        <para id_syceron="2431175">Mme Béatrice Descamps</para>
+        <para id_syceron="2431225">M. Michel Larive</para>
+        <para id_syceron="2431234">M. Paul Molac</para>
+        <para id_syceron="2431247">M. Alain Bruneel</para>
+        <para id_syceron="2431260">Mme Fabienne Colboc</para>
+        <para id_syceron="2431274">Mme Frédérique Vidal, ministre de l’enseignement supérieur, de la recherche et de l’innovation</para>
+        <para id_syceron="2431361">Mme Sarah El Haïry, secrétaire d’État chargée de la jeunesse et de l’engagement</para>
+        <para id_syceron="2431372">M. Frédéric Reiss</para>
+        <para id_syceron="2431376">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431380">M. Bernard Perrut</para>
+        <para id_syceron="2431386">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431416">M. Christophe Blanchet</para>
+        <para id_syceron="2431423">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2431429">Mme Marie-Noëlle Battistel</para>
+        <para id_syceron="2431436">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431442">Mme Lise Magnier</para>
+        <para id_syceron="2431447">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2431527">M. Michel Zumkeller</para>
+        <para id_syceron="2431531">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431534">M. Jean-Hugues Ratenon</para>
+        <para id_syceron="2431538">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431543">M. Olivier Falorni</para>
+        <para id_syceron="2431547">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2431853">Mme Karine Lebon</para>
+        <para id_syceron="2431856">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431860">Mme Florence Morlighem</para>
+        <para id_syceron="2431864">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2431868">Mme Nathalie Sarles</para>
+        <para id_syceron="2431871">Mme Frédérique Vidal, ministre</para>
+        <para id_syceron="2431876">Mme Delphine Bagarry</para>
+        <para id_syceron="2431881">Mme Sarah El Haïry, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2431887">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du mardi 02 mars 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1822984" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2431114" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1822985" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431115" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1822986" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2431116" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1822988" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2431118" valeur="">
+      <orateurs/>
+      <texte>Moyens de remédier<br/>aux effets de l’épidémie de covid-19 sur la jeunesse</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1822989" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431119" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur les moyens de remédier aux effets de l’épidémie de covid-19 sur la jeunesse.<br/> La conférence des présidents a décidé d’organiser ce débat en deux parties : dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement, et nous procéderons ensuite à une séquence de questions-réponses.<br/>La parole est à M. Pierre-Henri Dumont.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1822991" ordre_absolu_seance="8" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431121" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Henri Dumont</nom>
+            <id>720684</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>« On m’a enlevé toute forme d’espoir en l’avenir. J’ai plus vite fait de me jeter par la fenêtre. » Écoutez, madame la ministre de l’enseignement supérieur, de la recherche et de l’innovation, madame la secrétaire d’État chargée de la jeunesse et de l’engagement, ces témoignages glaçants de la jeunesse de France. Ils ne vous sont pas apportés par des influenceurs revenus de leurs vacances à Dubaï pour participer à une vaste opération de communication gouvernementale, mais par des vrais jeunes avec lesquels j’ai échangé ; ils font écho à ce que tous, ici, nous entendons dans nos circonscriptions respectives.<br/>Cette détresse est le fruit de l’abandon de la jeunesse par le Gouvernement et la majorité depuis un an. Une jeunesse affamée, devant faire la queue des heures durant devant les centres de distribution de produits de première nécessité, distributions organisées par des associations et des syndicats étudiants qui ont dû se substituer à l’État omnipotent mais incapable, au point de laisser mourir de faim celle qui est son avenir, se couvrant de honte chaque jour un peu plus ; une jeunesse esseulée et isolée, engoncée dans un jour sans fin, ayant pour seule finalité quotidienne d’allumer son ordinateur jusqu’à ce que sonne l’heure du couvre-feu ; une jeunesse désespérée, prenant conscience avec effroi qu’elle sera la première génération à ne pas accomplir le vieux rêve français de mieux vivre que ses parents, car vous l’avez condamnée ; une jeunesse que vous assignez à domicile, lui faisant payer un tribut psychologique, financier et scolaire inversement proportionnel au risque sanitaire qui pèse sur elle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1822993" ordre_absolu_seance="10" id_acteur="PA266776" id_mandat="PM723542" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431123" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Reiss</nom>
+            <id>266776</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Hélas.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1822994" ordre_absolu_seance="11" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431124" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Henri Dumont</nom>
+            <id>720684</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le résultat de votre politique destinée aux jeunes de France depuis le début de la crise est dramatique : 56 % des étudiants ont du mal à se fournir en produits de première nécessité ; 25 % n’arrivent pas à se nourrir à leur faim ; 23 % ont dû renoncer à consulter un médecin, et ils sont dans la même proportion à avoir eu des pensées suicidaires ces derniers mois. Sur le million d’étudiants qui travaillaient hier en parallèle de leurs études, 58 % ont vu leur activité diminuer et 36 % ont totalement perdu ce complément de revenu.<br/>Vous êtes, madame la ministre, madame la secrétaire d’État, coupables de non-assistance à génération sacrifiée, et l’histoire retiendra que votre réponse à la détresse inédite de notre jeunesse fut d’inviter des youtubeuses à l’Élysée afin qu’elles twerkent sur TikTok. Un an après le début de la crise, vous vous réveillez enfin et multipliez les annonces. Au moins, ce débat demandé par Les Républicains, complémentaire à notre travail sur la lutte contre la pauvreté, aura eu ce mérite. Mais vous faites trop peu et trop tard, cherchant toujours à contrecarrer les conséquences de la crise plutôt qu’à en affronter les causes.<br/>Alors que 73 % des 1,7 million d’étudiants annoncent avoir été affectés sur le plan psychologique, affectif ou physique, vos « chèques psy » n’ont concerné que 5 000 d’entre eux. Vous n’arriverez jamais, faute de psychologues directement sur les campus, à accompagner ceux qui en ont le plus besoin. Ce que demandent les étudiants, madame la ministre, madame la secrétaire d’État, ce sont des amphis, pas des psys ! Les universités doivent rouvrir, pas simplement pour les cours magistraux, qui constituent la solution de facilité, mais surtout pour les TD – travaux dirigés –, là où se fait la socialisation ; en testant massivement les étudiants concernés, chaque semaine, grâce aux tests salivaires. Par ailleurs, une enquête récente du <italique>Financial Times </italique>démontre que, sur les 1,1 million de vaccins déjà livrés par AstraZeneca à la France, seules 200 000 doses ont été administrées. Ces doses ne seraient-elles pas plus utiles dans les deltoïdes des étudiants plutôt que dans les frigos de l’ARS, si elles permettent à notre jeunesse de retrouver un semblant de vie sociale ?<br/>La scolarité dans l’enseignement supérieur ne se limite pas aux cours ; elle s’étend aussi en dehors des salles de classe – qu’elles soient virtuelles ou réelles – à ces moments d’échange et de convivialité essentiels à tout un chacun. Pourquoi ne prenez-vous pas exemple sur l’Autriche, où des cafés ouvrent spécialement leurs portes aux étudiants afin que ces derniers puissent y réviser en petits groupes ? Pourquoi ne proposez-vous pas aux universités de banaliser un jour de cours afin que les étudiants puissent sortir s’aérer ou faire du sport – décision d’autant plus urgente à mesure qu’avancent les confinements locaux le week-end ? Pourquoi le Gouvernement ne travaille-t-il pas à la réouverture de certains musées sur une journée, qui seraient alors destinés uniquement aux jeunes et aux étudiants ?<br/>À la précarité psychologique s’ajoute une précarité financière. Dès avril 2020, je vous alertais, madame la ministre, par un courrier sur l’urgence de prévoir un mécanisme de compensation pour les centaines de milliers d’étudiants privés de tout ou partie de leur travail et des revenus qui vont avec, appelant particulièrement votre attention sur les jeunes issus de la classe moyenne, ceux dont les parents ne sont pas assez pauvres pour bénéficier de bourses, mais pas assez riches pour permettre à leurs enfants d’étudier sans travailler. Je proposais un mécanisme simple : verser aux étudiants qui avaient travaillé l’année scolaire précédente l’équivalent de l’intégralité de leur revenu sous forme d’aide mensuelle, afin de ne pas les plonger dans la précarité.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1822999" ordre_absolu_seance="16" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431129" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Sermier</nom>
+            <id>267204</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Excellente proposition !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823000" ordre_absolu_seance="17" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431130" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Henri Dumont</nom>
+            <id>720684</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ce système permettait de s’assurer que seuls ceux qui avaient fait l’effort de travailler seraient bénéficiaires de la solidarité de l’État, sans discrimination. Vous n’avez, madame la ministre, même pas eu la politesse de répondre à ce courrier envoyé par un député de la nation, tout comme vous n’avez pas la décence de répondre aux attentes de millions de jeunes Français. Il n’est pas trop tard pour reprendre cette idée à votre compte. Il n’est pas non plus trop tard pour permettre aux collectivités territoriales de créer, avec le soutien de l’État, des milliers de jobs étudiants pour la durée de la crise sanitaire, pour employer les jeunes en appui dans les centres de vaccination, dans les centres communaux ou intercommunaux d’action sociale, auprès des personnes âgées isolées, à leur domicile ou par téléphone. Les possibilités sont immenses, mais votre volonté est faible. Il n’est pas trop tard, enfin, pour accompagner les 700 000 jeunes qui vont entrer sur le marché du travail ces prochains mois en mettant en place 300 000 jobs pour la nation, pris en charge par l’État sur le modèle du chômage partiel, se substituant pendant un an aux emplois détruits, permettant d’éviter la bascule de ces jeunes actifs dans la pauvreté, tout en écartant le risque d’un RSA jeunes qui enferme au lieu d’émanciper.<br/>Cette mesure dans le secteur non marchand devra s’accompagner d’une mesure forte supplémentaire permettant aux entreprises du secteur marchand d’embaucher des jeunes sans aucune charge autre que le salaire. Car cette crise a un effet pervers : elle renforce le déterminisme social dans des proportions dramatiques. Seul le travail permettra aux jeunes de s’arracher à leur condition sociale. Les stages disponibles, tout comme les alternances, se réduisent comme peau de chagrin ; dès lors, ils deviennent réservés à une élite, celle qui a les réseaux nécessaires pour décrocher le stage ou l’alternance indispensable à la validation de son diplôme,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823002" ordre_absolu_seance="19" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431132" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Sermier</nom>
+            <id>267204</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est clair !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823003" ordre_absolu_seance="20" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431133" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Henri Dumont</nom>
+            <id>720684</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…obligeant les étudiants mal nés à prendre une année sabbatique forcée, à se réorienter dans une filière non désirée ou à arriver sur le marché du travail sans formation autre que théorique, donc avec une employabilité moindre.<br/>Tout comme vos paniers-repas à un euro n’empêchent pas la précarité alimentaire des étudiants, tant l’offre est inégalement répartie sur le territoire et largement sous-dimensionnée par rapport au nombre de bénéficiaires, la plateforme numérique de 30 000 propositions de stage ne permettra pas de répondre à l’ensemble des demandes, loin de là. Vous devez, madame la ministre, madame la secrétaire d’État, libéraliser temporairement mais urgemment les possibilités de stage, par exemple en augmentant le nombre de contrats de stage autorisés dans les entreprises tout en réduisant la durée de carence entre deux stagiaires sur un même poste. La même logique doit s’appliquer aux contrats d’apprentissage, pour lesquels une banque de données territorialisée lancée par les élus locaux, en lien avec les entreprises du bassin de vie et soutenue financièrement par l’État, permettrait de développer plus encore l’apprentissage en lien avec les régions, en particulier pour les métiers sous tension où les offres d’emploi restent non pourvues, ce qui permettrait également de lutter contre la précarité financière des jeunes.<br/>Madame la ministre, madame la secrétaire d’État, la jeunesse de France vous appelle désespérément à l’aide. Enfermée dans une routine dévastatrice, voyant son avenir lui échapper, elle ne peut plus se satisfaire de vos annonces et de dispositifs pensés à la hâte sur un coin de table, sans cohérence ni réelle utilité sur le terrain. Sur cette jeunesse repose l’avenir de notre pays, et le Gouvernement doit en prendre conscience, sérieusement, urgemment. Abandonner la jeunesse de 2021, c’est abandonner la France de demain.<br/>Madame la ministre, madame la secrétaire d’État, mes chers collègues, la jeunesse de France ne peut plus se payer le luxe d’être sacrifiée comme elle l’est aujourd’hui en raison de votre inaction coupable. Notre jeunesse mérite mieux que votre silence ou que vos effets de communication. Il y va de la survie et de l’avenir même de milliers de jeunes Français, donc de l’avenir de notre pays. Au nom de tous les jeunes, agissez ! <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823007" ordre_absolu_seance="24" id_acteur="PA719002" id_mandat="PM775857" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431137" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Julien Ravier</nom>
+            <id>719002</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voilà qui est dit et bien dit !</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Maud Petit" id_acteur="PA721234" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723210">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823008" ordre_absolu_seance="25" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431138" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Maud Petit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823009" ordre_absolu_seance="26" id_acteur="PA721234" id_mandat="PM723210" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431139" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Petit</nom>
+              <id>721234</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe du Mouvement démocrate (MODEM) et démocrates apparentés se réjouit de ce temps d’échange qui vise à aborder les moyens de remédier aux effets de l’épidémie de covid-19 sur la jeunesse, fortement touchée par la crise. Cette génération compte sur nous plus que jamais et, dans l’adversité, nous devons lui donner les moyens et les occasions de vivre pleinement sa jeunesse. Pour ce faire, il faut l’associer à nos travaux. La crise a mis en exergue le travail et les innombrables initiatives individuelles ou collectives prises par les jeunes et les associations dont ils sont membres.<br/>En juillet dernier, la commission d’enquête pour mesurer et prévenir les effets de la crise du covid-19 sur les enfants et la jeunesse a été créée, présidée par notre collègue Sandrine Mörch. J’en ai été la vice-présidente. Après quatre mois de travail, quatre-vingts heures d’auditions, le constat est là, accablant, alarmant : les jeunes ont subi de plein fouet une forte précarisation économique, un isolement important et une série de ruptures, scolaire, affective et psychologique. Il ressort du rapport que plus de 50 % des jeunes sont inquiets pour leur santé mentale, que 30 % ont renoncé à l’accès aux soins faute de moyens, qu’un jeune sur six a arrêté ses études après la crise et que 43 % des non diplômés n’ont même pas accès à internet. En conclusion, la crise a fragilisé un public déjà vulnérable.<br/>Les confinements ont également accru les violences subies. Selon les chiffres du ministère de l’intérieur, 9 % de plaintes supplémentaires ont été enregistrées en 2020 par rapport à 2019 pour violences intrafamiliales. Devant ce constat, je concentrerai mon propos sur les difficultés psychiques et les violences subies par la jeunesse dans sa globalité. La crise aura fait voir avec éclat l’âpreté de ces situations, nous permettant de prendre des mesures fortes pour lutter contre des problèmes qu’elle aggrave.<br/>La santé psychologique représente un enjeu majeur à long terme, et la crise sanitaire s’est révélée propice à l’apparition et à l’aggravation de troubles psychiques : rythmes biologiques désynchronisés, troubles du sommeil, repli sur soi, anxiété et aussi, tragiquement, augmentation des tentatives de suicide chez les moins de quinze ans.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823013" ordre_absolu_seance="30" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431143" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <id>267204</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823014" ordre_absolu_seance="31" id_acteur="PA721234" id_mandat="PM723210" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431144" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Petit</nom>
+              <id>721234</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les professionnels de la santé et de l’enfance nous alertent sur les conséquences médicales à long terme ; il nous faut les prendre en considération maintenant que nous en mesurons l’ampleur. Ainsi, la commission d’enquête recommande d’augmenter le nombre de pédopsychiatres en créant de nouveaux postes et en valorisant la spécialité de pédopsychiatrie dans les cursus de formation pour renforcer son attractivité chez les étudiants. Développer la capacité d’accueil des services psychiatriques pour enfants à l’hôpital doit aussi être une piste à envisager. Le groupe Dem considère tout simplement que la santé psychique du jeune public et sa prise en charge doivent être considérées comme une priorité de santé nationale, et il se fera force de proposition en ce sens.<br/>Concernant les violences faites aux enfants, il est important de rappeler la grande mobilisation autour du 119 : campagne de sensibilisation pendant le confinement pour inciter le grand public à agir dans la lutte contre les violences intrafamiliales, augmentation des moyens humains de la plateforme, forte mobilisation de l’ensemble des acteurs de l’enfance… Rappelons également le plan de lutte contre les violences faites aux enfants dès 2019. Le groupe Dem considère qu’il faut dès aujourd’hui flécher les moyens supplémentaires sur la prévention de ces violences, l’écoute et l’accompagnement des familles.<br/>L’explosion des violences numériques constitue un autre point de vigilance. Le cyber-harcèlement a été particulièrement important pendant les confinements ; la commission d’enquête préconise ainsi de sensibiliser les enfants et jeunes majeurs ainsi que leurs familles à un usage raisonné des outils numériques et d’internet.<br/>Nous pensons aussi à la jeunesse d’outre-mer, pour qui cette pandémie est une épreuve supplémentaire, puisqu’elle a aggravé son isolement. Nous devons à ce propos saluer la mobilisation et le travail de la délégation interministérielle à l’égalité des chances des Français d’outre-mer et la visibilité des outre-mer. Par le biais de la plateforme www.outremersolidaires.gouv.fr, elle a proposé aux étudiants de ces territoires qui étaient éloignés de leur famille une prise en charge du coût de leur retour dès avril 2020, à leur grand soulagement.<br/>Enfin, saluons les nombreuses mesures de soutien aux étudiants. Parmi celles-ci, nous pouvons mentionner l’extension de la tarification à 1 euro des repas des CROUS – centres régionaux des œuvres  universitaires et scolaires – à tous les étudiants,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823114" ordre_absolu_seance="36" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431149" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <id>267204</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas suffisant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823115" ordre_absolu_seance="37" id_acteur="PA721234" id_mandat="PM723210" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431150" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Petit</nom>
+              <id>721234</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…l’accompagnement à l’équipement numérique, les aides exceptionnelles à destination des étudiants ultramarins et de ceux ayant perdu un emploi ou un stage, l’aide exceptionnelle de solidarité, l’extension du dispositif garantie jeunes, dans le cadre du plan « 1 jeune 1 solution ».<br/>Cette pandémie replace les droits de l’enfant et de la jeunesse au cœur de notre action politique et publique. Les actions vont se poursuivre en collaboration – je le souhaite en tout cas – avec les jeunes eux-mêmes, et l’ensemble des acteurs qui œuvrent à faire des droits de l’enfant une priorité dans notre pays. Son avenir dépend de nos décisions d’aujourd’hui. <italique>(Applaudissements sur les bancs du groupe Dem et sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Cécile Untermaier" id_acteur="PA608695" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723564">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823117" ordre_absolu_seance="39" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431152" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Cécile Untermaier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823118" ordre_absolu_seance="40" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431153" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À sa demande, je remplace Mme Michèle Victory, votre collègue de la commission des affaires culturelles et de l’éducation ; ces propos sont donc d’abord les siens.<br/>Depuis de longs mois, la crise sanitaire n’épargne personne ; les effets de l’épidémie de covid-19 sont nombreux et nous ne pouvons que constater le mal-être qui s’empare de notre jeunesse. Celle-ci montre pourtant sa capacité à se mobiliser individuellement ou collectivement ; elle montre chaque jour qu’elle n’est pas abattue, qu’elle propose, qu’elle prend des initiatives, qu’elle est solidaire. Nous avons une promesse à tenir envers elle. Or, pour des milliers de jeunes, la crise a été le révélateur de situations préoccupantes ou les a aggravées. Le taux de pauvreté des moins de 25 ans est trois fois supérieur à celui des plus de 60 ans ; 16 % d’entre eux vivent en dessous du seuil de pauvreté, dans un des pays les plus développés du monde.<br/>Nous le savons, derrière le vocable « jeunesse » se cachent bien des situations économiques inquiétantes. Des jeunes ont perdu leur emploi ; certains le cumulaient avec leurs études ; d’autres venaient de démarrer dans la vie active. La solidarité familiale, si elle continue de jouer largement, dans huit cas sur dix, est évidemment très inégale, pénalisant une nouvelle fois les jeunes de milieux défavorisés. Je pense aussi aux jeunes parents désarmés, aux jeunes sortis d’un système scolaire dans lequel ils n’ont pas trouvé leur place, aux adultes en devenir marginalisés, aux étudiants décrocheurs.<br/>Les effets de la crise sur les jeunes sont divers. Elle touche leur santé – le pourcentage des jeunes inquiets pour leur santé mentale ne cesse d’augmenter, tout comme le renoncement aux soins faute de moyens. Leurs finances sont de plus en plus affectées, alors que leur situation était déjà fragile, puisque 50 % des personnes pauvres ont moins de 30 ans. La crise fait aussi perdre le lien social et suscite l’angoisse d’un avenir troublé.<br/>La réponse de notre assemblée doit être à la hauteur de cette situation inédite, en permettant de faire face à l’urgence matérielle. Nous ne pouvons pas rester spectateurs des images quotidiennes de ces files d’attente s’allongeant de centaines de jeunes devant les banques alimentaires ou Les Restos du cœur.<br/>Nous avons présenté plusieurs propositions dernièrement, notamment celle de l’ouverture du RSA aux 18-25 ans, défendue dans cet hémicycle par mes collègues Vallaud et Saulignac le 18 février dernier. Il ne s’agit pas, contrairement aux caricatures qui ont été faites, d’instaurer des dispositifs d’assistanat, mais au contraire, de proposer une émancipation solidaire. Vingt-trois des vingt-sept pays membres de l’Union européenne disposent déjà d’un minimum jeunesse, et cela doit nous faire réfléchir. En France, le choix de la familialisation des aides, qu’il semble impossible de remettre en question, laisse dans la précarité et la dépendance à l’égard de leur famille des millions de nos concitoyens, qui doivent attendre 25 ans pour bénéficier de l’aide de l’État. Une expérimentation pourrait au moins être tentée. Précisons qu’aucun jeune ne choisit de s’installer dans la précarité ; les jeunes ont en réalité besoin de pouvoir rebondir et faire des expériences. Partout ailleurs, une telle allocation, n’a eu que des effets positifs.<br/>La culture nous manque à tous comme elle manque à la jeunesse. Les librairies ont désormais le statut de commerce essentiel, et c’est bien ainsi. Les musées et les théâtres ne pourraient-ils pas eux aussi être ouverts, et à la jeunesse d’abord ?<br/>J’en viens au sport, dont l’exercice, encadré de manière tatillonne en ce moment, est impossible avec le couvre-feu, lorsque les jeunes travaillent. Ne peut-on laisser souffler un vent de liberté, d’exception, pour les sports de plein air ?<br/>Certes, la jeunesse n’est pas dans la rue, mais le caractère exceptionnel du repli qui l’affecte nous oblige à une attention de tous les instants. Nous devons partir de la jeunesse pour construire la transition avec le monde d’après le covid, plutôt que d’en faire un acteur quelconque qu’il faudrait contraindre. <italique>(M.</italique><italique> </italique><italique>Paul Molac applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Thomas Gassilloud" id_acteur="PA722358" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723552">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823127" ordre_absolu_seance="49" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431162" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thomas Gassilloud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823128" ordre_absolu_seance="50" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431163" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Gassilloud</nom>
+              <id>722358</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie le groupe Les Républicains pour l’inscription à l’ordre du jour de nos travaux de ce débat sur les moyens de remédier aux effets de l’épidémie de covid-19 sur la jeunesse. Je salue aussi la qualité et la richesse du travail mené par nos collègues membres de la commission d’enquête pour mesurer et prévenir les effets de la crise sur les enfants et la jeunesse. Leur rapport permet d’appréhender l’ampleur et la diversité des conséquences de la crise sur les jeunes.<br/>Depuis maintenant près d’un an, nous vivons au rythme de la pandémie. Si nous avons tous observé ses effets tant sanitaires qu’économiques, nous ne sommes toutefois pas frappés de manière égale par le virus et par les conséquences des mesures que nous prenons pour enrayer sa propagation. En effet, nos plus jeunes concitoyens, s’ils sont certes peu exposés aux formes les plus graves de la maladie, subissent en revanche de plein fouet la précarité économique, l’isolement et les ruptures scolaires, affectives ou psychologiques qui en découlent.<br/>Sur le plan psychologique, d’abord, la santé mentale des étudiants s’est profondément dégradée avec la crise sanitaire. Contraints de suivre les enseignements à distance, de renoncer à une large part de leur vie sociale et d’annuler leurs projets de mobilité internationale, ils ont eu le sentiment de passer à côté de leurs années étudiantes, pourtant si essentielles pour nouer des liens, s’engager pour des causes communes ou encore gagner en confiance et s’émanciper.<br/>L’usage accru des écrans a aussi heurté leur santé. Alors qu’ils étaient déjà particulièrement présents dans leur vie, ceux-ci sont devenus quasiment indispensables depuis un an, parce qu’ils permettent aux jeunes de maintenir un semblant de sociabilité et d’accéder aux enseignements à distance.<br/>Les expressions de mal-être et de détresse psychologique ont fortement augmenté chez les adolescents et les jeunes adultes. Les chiffres sont alarmants : près d’un jeune sur trois a eu des pensées suicidaires au cours de ces derniers mois. De plus, la crise a creusé les inégalités sociales, car l’enseignement à distance s’est heurté à la fracture numérique, une réalité pointée depuis bien longtemps, et qui concerne nombre de nos concitoyens ruraux des classes populaires, qui ont subi pendant de longs mois une double assignation à résidence, faute de disposer d’un ordinateur ou d’une connexion à internet satisfaisante. « La classe à la maison » s’est aussi faite au détriment des jeunes issus de familles peu instruites ou allophones. Près d’un enfant sur dix est ainsi sorti des radars de l’éducation nationale pendant le confinement.<br/>Enfin, la crise a entraîné une progression préoccupante de la pauvreté chez les jeunes. Plus d’un tiers des étudiants qui travaillaient ont perdu leur activité professionnelle pendant le premier confinement ; leur perte de revenus mensuels est estimée à 274 euros en moyenne. Dans le même temps, les jeunes ont parfois été montrés du doigt comme les principaux responsables de la propagation du virus, du fait de leur comportement ou de leur insouciance présumés. Ne créons pas de conflit intergénérationnel ! Pour vaincre le virus, nous devons tenir ensemble, en restant unis et solidaires.<br/>La jeunesse est notre avenir à tous. Le Gouvernement a été au rendez-vous pour soutenir les jeunes en difficulté. Sans prétendre dresser la liste de toutes les mesures prises en ce sens, citons par exemple l’annulation des loyers des résidences universitaires en mars 2020, le versement d’une aide exceptionnelle de 200 euros pour tous les étudiants ayant subi une baisse de ressource au mois de juin ou encore l’offre de deux repas quotidiens à 1 euro pour tous les étudiants.<br/>Notre objectif est clair : trouver une solution adaptée aux besoins et aux aspirations de chaque jeune. Notre mobilisation depuis 2017 a par ailleurs porté ses fruits. L’apprentissage a atteint un niveau historique en 2020, avec 500 000 contrats signés. Les embauches se sont maintenues entre août et décembre, puisque 1,2 million de jeunes ont été embauchés en CDD de plus de trois mois ou en CDI. Pour les jeunes précaires éloignés de l’emploi, nous avons multiplié les passerelles vers l’activité ; 600 000 jeunes sont entrés dans un parcours d’insertion vers l’emploi.<br/>Ainsi, près de 7 milliards d’euros ont été investis en deux ans pour favoriser l’insertion et l’activité des jeunes. Au mois d’avril, un service de mentorat sera lancé, pour permettre à plus de 100 000 jeunes d’être suivis par des adultes volontaires dans leurs parcours de formation. Voilà un bel exemple de solidarité intergénérationnelle.<br/>Je terminerai mon propos en rappelant que la crise a démontré toute la vivacité de la jeunesse, sa capacité de mobilisation, d’adaptation et sa volonté de participer à la prise de décision publique pour bâtir le monde de demain, comme en témoigne le développement du service national universel et des missions de service civique.<br/>Au-delà des mesures que nous prenons, cet engagement des jeunes est un facteur d’intégration puissant dans la vie collective. Ainsi, madame la ministre, madame la secrétaire d’État, regardons plus loin que cette parenthèse malheureuse de notre histoire, et demandons-nous comment faire pour accompagner dans le temps long ces initiatives et favoriser l’engagement des jeunes. <italique>(Applaudissements sur les bancs du groupe Dem. –</italique><italique> </italique><italique>Mme</italique><italique> </italique><italique>Nathalie Sarles applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Béatrice Descamps" id_acteur="PA720696" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723044">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823139" ordre_absolu_seance="61" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431174" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Béatrice Descamps.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823140" ordre_absolu_seance="62" id_acteur="PA720696" id_mandat="PM723044" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431175" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Béatrice Descamps</nom>
+              <id>720696</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Lorsque nous évoquons la jeunesse dans le cadre de la crise sanitaire, un paradoxe surgit : cette génération covid est peu affectée par le virus lui-même, mais subit de plein fouet ses conséquences. Cette génération covid, c’est celle des bacheliers, dont les conditions de préparation et de passage d’examen ont demandé beaucoup d’adaptations. Beaucoup ont relevé ce défi supplémentaire, mais l’incertitude concernant le baccalauréat 2021 n’offre guère de perspectives encourageantes pour les élèves concernés.<br/>Dans le cadre de la commission d’enquête consacrée aux conséquences de la covid-19 sur la jeunesse, la question de l’allégement des programmes, plus particulièrement pour les classes à examen, a été soulevée. Les écarts se creusent en effet entre les élèves, ne serait-ce qu’entre ceux qui ont un accès aisé à internet et ceux qui sont confrontés à des difficultés que nous savons diverses – matérielles, financières, sociales. Toutefois, ce que nous pourrions qualifier de nivellement par le bas n’est pas une solution. Cet avis est partagé par les jeunes.<br/>Un certain nombre de jeunes ont décroché ; d’autres risquent de les suivre. Pensons aussi aux nouveaux diplômés. Il est nécessaire de tous les accompagner. Rappelons que cette année, 700 000 jeunes entreront sur le marché du travail, où ils s’ajouteront aux 600 000 déjà victimes du chômage. Le Gouvernement a pris la mesure de ces difficultés aggravées par la pandémie, avec des mesures fortes qu’il déploie dans son plan « 1 jeune 1 solution ». Nous savons toutefois qu’il sera nécessaire d’aller plus loin encore pour une intégration durable des jeunes sur le marché du travail.<br/>À l’occasion de plusieurs rencontres avec les étudiants de l’université de Valenciennes, je n’ai pu que constater la fragilité de leur situation psychologique et financière : leur isolement, lié à l’éloignement de leur département ou pays d’origine, accroît leur détresse. Mais j’ai également admiré leur lucidité sur leur situation, les aides qui leur sont apportées et la grande solidarité qui les unit. La présidence, les professeurs, le CROUS, les associations et les élus travaillent ensemble, depuis le confinement de mars 2020, pour aider les plus fragiles.<br/>Oui, la crise a également révélé la force des acteurs locaux, qui connaissent bien les réalités des territoires. Cela m’amène à évoquer le sujet de l’accès des étudiants aux stages, déjà peu aisé avant la crise sanitaire et particulièrement complexe aujourd’hui. Je salue à nouveau la collaboration des régions et de l’État pour favoriser l’apprentissage par le biais d’aides aux entreprises. Madame la ministre, une réflexion sur le sujet de l’accès aux stages me paraît nécessaire.<br/>Bien que nous ne puissions pas évoquer tous les aspects, fort nombreux, de la crise, il apparaît essentiel d’aborder celui de la santé des jeunes et des moyens qui lui sont consacrés. En effet, le confinement et les nouvelles pratiques ont exposé les jeunes, grands et petits, à une overdose digitale très inquiétante : troubles de la concentration, du sommeil, de l’apprentissage et du langage ; difficulté d’intégration pour les jeunes en situation de handicap. Enfin, la surexposition des enfants aux écrans engendre une hausse du cyberharcèlement et une grande vulnérabilité face au monde digital qui s’offre à eux. Beaucoup de parents se trouvent démunis, et des campagnes de sensibilisation à l’usage maîtrisé et raisonné des écrans seraient utiles.<br/>Si l’accès au sport est particulièrement restreint pour des raisons sanitaires, nous savons combien le sport et la culture sont indispensables à l’épanouissement de chacun et des jeunes en particulier. Les activités 2S2C – sport, santé, culture et civisme –, proposées lors de la reprise des cours en mai dernier, s’inscrivent dans cette logique. Je suis persuadée que les établissements scolaires ont un rôle encore plus grand à jouer dans ce domaine. Ouvrir leurs portes aux artistes, dans le respect des règles sanitaires, est possible. J’ai ainsi lu qu’une compagnie valenciennoise allait intervenir dans des écoles belges : pourquoi ne pas profiter de la situation actuelle pour aider les enseignants à accueillir les artistes dans les écoles ?<br/>Si la crise a révélé en surface nos faiblesses dans de nombreux domaines, elle a aussi fait jaillir une force et des capacités d’adaptation tout en révélant le rôle incontournable des acteurs de terrain. Appuyons-nous sur tous ces constats pour rendre espoir aux jeunes, espoir en l’avenir et en leur avenir : préparer l’après-covid-19, c’est préparer la société et la France de demain. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et Dem. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Paul Molac applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Larive" id_acteur="PA718868" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722484">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823179" ordre_absolu_seance="70" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431224" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Larive.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823180" ordre_absolu_seance="71" id_acteur="PA718868" id_mandat="PM722484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431225" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Larive</nom>
+              <id>718868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En juin dernier, nous avons eu un débat sur le même thème grâce à notre collègue Marie-George Buffet et à sa proposition d’un revenu étudiant. Aujourd’hui, c’est à l’occasion de la semaine de contrôle que se tient un débat sur les moyens de remédier aux effets de la covid-19 sur la jeunesse.<br/>Depuis des semaines, la précarité grandissante des étudiants fait la une des journaux. Partout sur le territoire, des chaînes de solidarité se créent face aux difficultés sociales que les jeunes rencontrent. La jeunesse souffre : elle est au cœur de l’actualité et doit être au centre de nos préoccupations. Tous les indicateurs l’attestent, les conditions d’existence des jeunes se dégradent dans notre pays, où un étudiant sur cinq vit sous le seuil de pauvreté. Près de la moitié des jeunes doivent désormais, quand cela est possible bien entendu, travailler en parallèle de leurs études pour faire face à l’augmentation du coût du logement et de la vie étudiante.<br/>La crise du covid-19 a particulièrement accentué cette précarité : certains étudiants se sont retrouvés dans l’incapacité de subvenir à leurs besoins les plus élémentaires face à l’augmentation des dépenses courantes. D’autres se sont retrouvés confinés dans des logements parfois insalubres. Cette paupérisation est dénoncée depuis de nombreuses années par des syndicats étudiants et des sociologues. En effet, les réformes de l’enseignement supérieur et du marché du travail ont produit une montée des inégalités et de la pauvreté ; en outre, les gouvernements successifs ont considérablement diminué le montant des dotations publiques allouées aux CROUS et aux établissements d’enseignement supérieur ; enfin, depuis 2017, les aides personnalisées au logement – APL – sont constamment revues à la baisse : ce désengagement de l’État a poussé les jeunes à la débrouillardise, les a obligés à occuper des emplois précaires et les a particulièrement exposés aux risques psychosociaux.<br/>Malgré les alertes et les mobilisations étudiantes, l’État n’a jamais saisi ce problème à bras-le-corps. En 2017, La France insoumise avait pourtant proposé l’instauration d’une allocation d’autonomie de 800 euros par mois pour les jeunes âgés entre 18 et 25 ans et pour une durée de trois ans, dans le but de garantir aux étudiants des conditions d’existence décentes. Tout au début de la crise sanitaire, nous avons élaboré un plan en direction de la jeunesse, qui comprenait des mesures d’urgence susceptibles d’apporter une réponse, à court et moyen termes, à l’insécurité économique. Nous demandions notamment la prolongation du versement des bourses durant les deux mois d’été, le gel immédiat du paiement des loyers pour les résidents en cité universitaire et l’ouverture du RSA aux jeunes de moins de 25 ans.<br/>En restant sourd à ces préoccupations, pourtant élaborées en concertation avec les premiers concernés, le Gouvernement n’a pas tenu compte de nos propositions. Il s’est contenté, pendant la crise sanitaire, d’octroyer une aide ponctuelle et insuffisante de 200 euros à moins de la moitié des étudiants. De nombreux jeunes risquent de payer le prix fort de la crise sanitaire et de cette inaction.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823185" ordre_absolu_seance="76" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431230" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823186" ordre_absolu_seance="77" id_acteur="PA718868" id_mandat="PM722484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431231" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Larive</nom>
+              <id>718868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La récession économique n’augure en effet rien de bon pour l’avenir des plus précaires ; déjà, la prochaine période estivale s’annonce, pour la deuxième année consécutive, particulièrement délicate pour trouver un stage, un premier emploi ou un emploi alimentaire.<br/>Ce contexte nous impose d’œuvrer urgemment à la construction d’une nouvelle protection sociale étudiante. Le Gouvernement doit donner les moyens de l’indépendance matérielle à ceux qui contribueront, une fois diplômés, à bâtir l’avenir de notre pays. Cette mobilisation de l’État est indispensable et doit se déployer dans l’urgence, car elle offre la seule garantie d’une perspective émancipatrice pour la jeunesse. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Molac" id_acteur="PA607619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722936">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823188" ordre_absolu_seance="79" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431233" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Molac.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823189" ordre_absolu_seance="80" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431234" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La grave crise sanitaire que nous traversons a mis à jour un véritable paradoxe : alors que les jeunes ne sont pas ou peu touchés par les effets pathologiques du virus, ils paient, un an après le début de la crise, un lourd tribut. Personne, ici, n’a jamais remis en cause la nécessité de protéger nos aînés, qui représentent l’immense majorité des victimes directes du virus. Il est en effet de notre devoir, quelle que soit l’espérance de vie des individus, d’assurer pleinement la protection de la population, donc celle des plus fragiles.<br/>Toutefois, il est également de notre devoir de nous poser cette question fondamentale : avec toutes les mesures de confinement et la mise à l’arrêt de notre pays, ne sommes-nous pas en train de sacrifier une génération qui aspire à découvrir la vie et à la croquer à pleines dents ? Les ravages causés par les effets indirects du covid-19 auront-ils des répercussions à long terme ou serons-nous en mesure de rattraper le retard ?<br/>Mes chers collègues, il est difficile de mesurer dès à présent les conséquences à moyen et long termes de cette crise. Il est à prévoir qu’il y en aura : pour les étudiants et les lycéens qui ont vu leur cursus perturbé et pour ceux dont la formation a été tronquée par rapport à celle des promotions précédentes. Je tiens ici à féliciter et à remercier les équipes pédagogiques et administratives des établissements d’enseignement, car elles n’ont pas ménagé leurs efforts pour assurer une continuité de l’offre éducative.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823192" ordre_absolu_seance="83" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431237" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823193" ordre_absolu_seance="84" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431238" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Malheureusement, l’absence de cours en présentiel dans les universités a duré trop longtemps. Des jeunes ont ainsi perdu toute motivation et n’ont pu trouver les ressources pour enchaîner des heures d’apprentissage dans leur logement et derrière un écran. Une fois de plus, je ne peux que regretter l’absence de vision territorialisée du Gouvernement : pourquoi n’a-t-on pas confié aux présidents et présidentes d’université la responsabilité d’ouvrir ou non les portes de leur établissement et d’y établir un protocole à respecter ? N’est-il pas possible de donner des cours par moitiés de promotion réparties dans un amphithéâtre ?<br/>Je ne suis pas à même de déterminer si les conditions étaient remplies pour assurer l’accueil des étudiants, mais je m’étonne que ce qui est possible pour les lycées, les classes préparatoires et les établissements délivrant des BTS – brevets de technicien supérieur – ne le soit pas pour les universités. Madame la ministre de l’enseignement supérieur, vous avez purement et simplement fermé les universités plutôt que de laisser à celles-ci l’opportunité de s’adapter. Mon département possède une université dite de proximité et à taille humaine qui dispose de bonnes installations et qui me fait dire que des adaptations auraient pu être trouvées.<br/>Je suis extrêmement inquiet pour les jeunes sans diplôme ni formation qui ne sont pas en mesure, du fait du ralentissement économique, de trouver un emploi. Ceux qui ont la chance de bénéficier de l’aide de leur famille restent une charge pour leurs proches. Ces jeunes sont bien souvent exclus des dispositifs financiers d’accompagnement et ne peuvent s’émanciper pour obtenir leur autonomie.<br/>Alors qu’une part non négligeable des jeunes se trouvent en grande précarité et en dehors du circuit de l’emploi, le groupe Libertés et territoires formule, depuis de nombreux mois, le vœu d’étendre le RSA aux jeunes de 18 à 25 ans. Cette mesure serait simple à déployer car il s’agit simplement d’étendre le dispositif à une catégorie supplémentaire de la population. De même, nous pensons qu’il faut profiter de cette crise pour revoir notre approche de l’insertion des jeunes dans la société.<br/>Certains collègues ne seront pas favorables à l’extension du RSA aux jeunes de moins de 25 ans, mais il faudrait au moins en parler. Cette question n’est pas sur la place publique alors qu’elle me semble importante. Je pense en particulier aux étudiants qui sont obligés de travailler pour payer leurs études, car ils sont trop riches pour avoir des bourses et pas assez pour être aidés par leur famille. Ces jeunes n’ont plus de travail, ce qui pose un réel problème.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823198" ordre_absolu_seance="89" id_acteur="PA719024" id_mandat="PM722536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431243" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Blanchet</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823199" ordre_absolu_seance="90" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431244" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les pourfendeurs de cette idée nouvelle ne prennent même pas la peine d’approfondir le sujet car ils considèrent que ce type de mesures favorisent l’assistanat. Pour rencontrer des jeunes partout dans mon territoire, je n’en vois pas beaucoup qui ne veulent rien faire de leur vie et qui souhaitent vivre de l’assistanat et de l’aide publique. Je vois au contraire des jeunes animés par des projets, passionnés parfois par leur travail et enclins à se fixer des objectifs dans la vie. À trop vouloir infantiliser et déresponsabiliser les jeunes, nous ne ferons que leur tourner le dos.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823199" ordre_absolu_seance="91" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431251" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823199" ordre_absolu_seance="92" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431250" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est pourtant à nous de leur donner, dans ces temps troublés, les clefs pour qu’ils bâtissent eux-mêmes leur avenir – même si nous pouvons être en désaccord avec leurs choix, qui font néanmoins que les générations ne se ressemblent pas.<br/>En conclusion, peut-être devrions-nous, mes chers collègues, changer de braquet plutôt que d’attendre l’éradication du virus au moyen de mesures très lourdes ? N’est-il pas temps de se demander s’il ne vaudrait pas mieux vivre avec ce virus ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain Bruneel" id_acteur="PA720546" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722996">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823201" ordre_absolu_seance="94" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431246" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain Bruneel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823202" ordre_absolu_seance="95" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431247" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La pandémie a séquestré les rêves, l’enthousiasme, la création, les folies, les rires, les pleurs et les retrouvailles de la jeunesse. Une génération subit de plein fouet les conséquences de la pandémie : perte d’emploi, précarité, vie sociale et culturelle réduite à néant, poids d’une dette contractée pour les années à venir.<br/>Cette situation inédite génère de nombreuses difficultés dans le quotidien des jeunes, quel que soit leur âge. Depuis l’année dernière, tous ont vécu de fortes perturbations : fermeture des établissements pendant le premier confinement, cours en distanciel et école à la maison. La pandémie de covid-19 a fragilisé la scolarité de nombreux élèves et étudiants, et, plus largement, la vie de tous les jeunes.<br/>La pandémie a plongé notre pays dans une crise profonde. Nous ne pouvons malheureusement que nous inquiéter des difficultés sociales, économiques et psychologiques qu’elle engendre. Le choc sanitaire fait exploser les inégalités sociales en provoquant des décrochages scolaires et universitaires ainsi que des fractures numériques. Il aura fallu s’adapter, se protéger, s’isoler et se réinventer.<br/>Aujourd’hui plus que jamais, il faut remettre l’humain au cœur des préoccupations de la République.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823144" ordre_absolu_seance="99" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431253" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823145" ordre_absolu_seance="100" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431254" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La société est malade ; les maux sont multiples, mais les remèdes existent. Il faut penser et agir autrement, car la jeunesse attend autre chose de l’État : il faut gérer aujourd’hui en pensant aussi à demain. Des solutions existent, d’ailleurs : je vous invite vivement à prendre connaissance du rapport de ma collègue Marie-George Buffet,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823146" ordre_absolu_seance="101" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431255" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bon rapport !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823147" ordre_absolu_seance="102" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431256" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…élaboré au nom de la commission d’enquête pour mesurer et prévenir les effets de la crise du covid-19 sur les enfants et la jeunesse. Cette génération est forte de propositions, malgré un contexte propice à la baisse du niveau de vie et à l’isolement. Les jeunes ne se découragent pas, ils se battent pour entrevoir des jours meilleurs. Mais, pour cela, il faut un revenu jeune ; pour dire stop à la précarité, pour obtenir une autonomie réelle et une valorisation, et, par là même, une reconnaissance.<br/>Au-delà de ces premières mesures, il faut entreprendre la rénovation et la mise aux normes des cités universitaires ; instaurer un accompagnement pédagogique et psychologique en lien avec les collectivités locales ; organiser une réouverture progressive des facultés en lien avec une réelle stratégie vaccinale. La réalité témoigne de la légitimité de ces revendications quand on voit les files d’attente des collectes alimentaires qui ne cessent de s’allonger. À ce propos, permettez-moi de tirer un grand coup de chapeau aux associations qui s’engagent auprès des étudiants.<br/>Les choix politiques sont cruciaux : la vie, la santé, le logement et la solidarité doivent être prioritaires. Les dispositifs instaurés pour la nouvelle génération sont insuffisants ; il faut des moyens exceptionnels, il faut croire en la jeunesse, en l’intelligence collective, en sa capacité de créer le monde d’aujourd’hui et celui de demain.<br/>Madame la ministre, madame la secrétaire d’État, écoutez les étudiants, pas les influenceurs ! Depuis plusieurs semaines, des jeunes alertent sur les réseaux sociaux, leurs témoignages sont relayés par les médias, des courriers sont envoyés au Gouvernement : ils expriment une souffrance morale, physique et psychologique, le manque de perspectives d’avenir, le sentiment de se sentir inutiles. Des files entières se dressent pour recevoir l’aide alimentaire, mais vous n’écoutez pas, vous ne vous réinventez pas. Écoutez les étudiants, pas les influenceurs ! <italique>(Applaudissements sur les bancs des groupes GDR et FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Fabienne Colboc" id_acteur="PA719814" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722770">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823149" ordre_absolu_seance="106" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431258" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Fabienne Colboc.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823150" ordre_absolu_seance="107" id_acteur="PA720100" id_mandat="PM722860" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431259" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Pradié</nom>
+              <id>720100</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame « Tout va bien » !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823151" ordre_absolu_seance="108" id_acteur="PA719814" id_mandat="PM722770" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431260" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Fabienne Colboc</nom>
+              <id>719814</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si la covid-19 touche relativement peu les jeunes dans sa forme grave, les conséquences de la pandémie les frappent de plein fouet. « C’est dur d’avoir 20 ans en 2020 », reconnaissait le Président de la République. Annulation de stage, perte de petits boulots, enseignement à distance, violences intrafamiliales : les jeunes sont confrontés à de nombreux défis. Le Gouvernement, soucieux, a rapidement instauré des actions concrètes, des solutions adaptées à toutes les situations particulières. À tous ceux qui considèrent que l’action de l’État est insuffisante, je tiens à rappeler que 7 milliards d’euros vont être mobilisés pour offrir une solution à chacun. Aussi, les dispositifs d’égalité des chances sont renforcés : cités éducatives, vacances apprenantes, quartiers solidaires. Avant de détailler mon propos, je tiens à mettre en lumière la formidable solidarité qui s’est installée dans tous les territoires pour soutenir la jeunesse, que ce soit au travers des associations, des clubs sportifs, des collectivités ou des entreprises.<br/>J’aborderai les moyens apportés par l’État pour lutter contre les effets de la pandémie selon quatre axes. Tout d’abord, nous devons répondre à l’isolement. Manque de vie sociale et affective, mal-être : l’insouciance propre à la jeunesse a laissé place à des situations très difficiles. Pour y faire face, le Gouvernement a renforcé l’accompagnement psychologique des jeunes et recruté des étudiants référents, dont le rôle est primordial. Il faudra sûrement aller plus loin et peut-être autoriser des sorties en plein air après dix-huit heures ; le sport est bon pour la santé. La période particulière que nous traversons accentue également les risques de repli sur soi. Nous devons soutenir les dispositifs et l’action des associations telles que les « Promeneurs du net », qui permettent de garder le lien et d’éviter les ruptures.<br/>Le deuxième axe consiste à soutenir financièrement les jeunes qui en ont le plus besoin. Les chiffres de la pauvreté montrent une forte augmentation de la précarité depuis le début de la crise. Pour répondre à ces difficultés financières, nous avons mobilisé 150 millions, afin de financer les aides d’urgence exceptionnelles pour les étudiants. Par ailleurs, tous les étudiants, boursiers ou non, peuvent désormais bénéficier de deux repas par jour à un euro. Sur ce point, il y a peut-être des précisions à apporter aux étudiants externes en médecine, pour qu’ils profitent aussi de ces repas à un euro dans les cantines des CHU – centres hospitaliers universitaires. Plus récemment, vous avez annoncé, madame la ministre, que les étudiantes bénéficieront de protections hygiéniques gratuites ; je tiens à saluer cette mesure attendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823154" ordre_absolu_seance="111" id_acteur="PA720100" id_mandat="PM722860" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431263" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Pradié</nom>
+              <id>720100</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les ravis de la crèche !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823155" ordre_absolu_seance="112" id_acteur="PA719814" id_mandat="PM722770" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431264" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Fabienne Colboc</nom>
+              <id>719814</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le troisième axe consiste à faciliter la poursuite d’études. Des parcours individualisés vont être bâtis pour les 35 000 jeunes âgés de 16 à 18 ans en situation de décrochage scolaire. Il me semble également important d’apporter une attention particulière aux choix d’orientation que feront les étudiants actuellement en première année et en décrochage. Je tiens aussi à saluer la décision que vous avez prise pour que les étudiants puissent retourner un jour par semaine à l’université ; au-delà des apprentissages, cela permettra de renouer des liens sociaux indispensables. Peut-être faudra-t-il réfléchir à multiplier les initiatives de mise à disposition de bureaux ou d’espaces de tiers lieux, comme l’espace Mame à Tours, afin d’apporter des solutions aux étudiants qui ont quitté leur logement et qui ne sont pas en mesure de revenir à l’université pour quelques heures par semaine.<br/>Le quatrième axe est de favoriser l’insertion professionnelle. Sur ce volet, je sais combien les associations d’insertion, les missions locales et les collectivités sont mobilisées. Le plan « 1 jeune 1 solution » propose des moyens concrets pour faciliter la formation des jeunes aux métiers d’avenir et leur insertion sur le marché du travail. On peut déjà se féliciter que 500 000 entreprises aient engagé des apprentis, soit 19 % de plus que l’année dernière, mais aussi saluer le renforcement du dispositif des emplois francs destinés aux jeunes des quartiers et de la ruralité. Faciliter l’insertion professionnelle des jeunes, cela passe aussi par l’augmentation conséquente du nombre d’entrées en garantie jeunes et en parcours d’accompagnement vers l’emploi et l’autonomie sur tous les territoires. Il appartient désormais à chacun de faire vivre le plan « 1 jeune 1 mentor » lancé hier par le Président de la République pour généraliser les bonnes pratiques…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823157" ordre_absolu_seance="114" id_acteur="PA720100" id_mandat="PM722860" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431266" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Pradié</nom>
+              <id>720100</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel verbiage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823158" ordre_absolu_seance="115" id_acteur="PA719814" id_mandat="PM722770" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431267" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Fabienne Colboc</nom>
+              <id>719814</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…de parrainage entre jeunes et professionnels, dont s’est déjà saisie la jeune chambre économique de Tours.<br/>Pour conclure, je voudrais m’adresser aux jeunes générations et leur dire que toutes ces mesures sont là pour leur redonner confiance et construire leur avenir. Nous avons entendu que vos inquiétudes dépassent la crise et concernent aussi l’environnement. Le projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets et les 30 milliards pour la croissance verte sont là pour y répondre. Nous sommes à votre écoute, car la vitalité de vos idées, la richesse de vos propositions et votre esprit d’innovation sont des moteurs pour l’avenir de notre pays.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823160" ordre_absolu_seance="117" id_acteur="PA720100" id_mandat="PM722860" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Pradié</nom>
+              <id>720100</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel baratin !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823161" ordre_absolu_seance="118" id_acteur="PA719814" id_mandat="PM722770" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431270" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Fabienne Colboc</nom>
+              <id>719814</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout cela m’amène à terminer mon propos en appelant à la création d’un observatoire national de la jeunesse. <italique>(«</italique><italique> </italique><italique>Ah</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823162" ordre_absolu_seance="119" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431271" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>V’là l’observatoire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823163" ordre_absolu_seance="120" id_acteur="PA719814" id_mandat="PM722770" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431272" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Fabienne Colboc</nom>
+              <id>719814</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cette préconisation de la commission d’enquête sur la jeunesse, présidée par Sandrine Mörch et dont la rapporteure était Marie-George Buffet, permettrait d’acquérir une connaissance transversale plus fine des situations des jeunes, territoire par territoire. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre de l'enseignement supérieur, de la recherche et de l'innovation" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823164" ordre_absolu_seance="121" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431273" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre de l’enseignement supérieur, de la recherche et de l’innovation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823165" ordre_absolu_seance="122" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431274" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre de l’enseignement supérieur, de la recherche et de l’innovation</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La crise sanitaire que nous traversons depuis près d’un an n’épargne personne : des artistes aux restaurateurs en passant par les pensionnaires des EHPAD, nombreuses sont les catégories qui peuvent, pour des raisons diverses, se prévaloir d’être les premières victimes de cette pandémie. On pourrait ergoter longtemps sur ce triste palmarès, mais cela ne servirait qu’à nous diviser en dressant les unes contre les autres les corporations et les générations, quand cette épreuve nous appelle au contraire à plus de fraternité. Pourtant, nous ne pouvons nier la spécificité de certaines situations.<br/>Une année perdue à 20 ans, ce n’est pas une année perdue à 50 ; la période de 18 à 25 ans n’est pas une période comme les autres. C’est l’âge où la personnalité se cristallise, où la citoyenneté se forge et où la conscience politique se trempe. Pour la génération de l’an 2000, cette période a été profondément perturbée par la pandémie. Première année universitaire, premier stage, premier emploi, premier logement : toutes les étapes initiatiques qui accompagnent habituellement l’entrée dans l’âge adulte ont été marquées par les contraintes sanitaires et le ralentissement économique. Ces promesses envolées ne se sont pas seulement soldées par une frustration passagère, mais par une précarité grandissante et un mal-être profond, enfant de la solitude et de la peur du lendemain. Cette détresse nous concerne tous, car la jeunesse qu’elle affecte, c’est bien la France de demain ; cette détresse, le Gouvernement a le devoir d’y répondre. Nous le devons aux jeunes qui ont admirablement accepté les contraintes et les sacrifices, et qui ont droit à leur part de protection et d’espoir.<br/>Peut-être y aura-t-il une « génération covid », si l’on entend par là une génération qui aura su tirer de cette épreuve une conscience nouvelle des autres et de la planète, mais il n’y aura pas de génération sacrifiée <italique>(Protestations sur les bancs du groupe LR)</italique>, car c’est la priorité de l’ensemble du Gouvernement et des collectivités ; c’est la mienne en particulier s’agissant des étudiants. Répondre au mal-être des jeunes, c’est d’abord savoir l’entendre, et c’est la raison pour laquelle, depuis plusieurs mois, nous n’avons eu de cesse d’aller sur le terrain à la rencontre de cette jeunesse qui a tant donné. Mes échanges perpétuels avec les étudiants, dans les campus et dans les restaurants universitaires, m’ont convaincu d’une chose : oui, ils sont sujets au doute, à l’incertitude, à des difficultés matérielles parfois terribles, mais oui, ils sont aussi pleins de ressources, d’envies, de rêves et, surtout, ils se refusent à être des victimes. Jamais leur anxiété n’a été si forte, mais jamais leur envie de s’engager n’a été si résolue. Aussi attendent-ils moins de nous de la compassion que des solutions.<br/>Les jeunes méritent plus et bien mieux qu’un horizon de minima sociaux : leur ambition, c’est d’exister et pas seulement de subsister ; de vivre libre et pas seulement de survivre. Bien sûr, il faut leur en donner la chance et les moyens. C’est pourquoi l’action du Gouvernement s’est concentrée sur deux axes. Le premier est l’accompagnement : rien ne sert de parler d’avenir tant que le quotidien reste un défi. Il nous a donc fallu aider les jeunes à surmonter la crise, tant sur le plan matériel que sur le plan psychologique, et pour cela arrêter d’en faire un objet de polémique. Parce que nous n’avons pas attendu que les difficultés fassent la une des journaux pour nous en emparer : dès le printemps dernier, des mesures inédites ont été prises pour les soutenir financièrement, pédagogiquement et humainement. Depuis le début de l’année, ces efforts ont été amplifiés sur le front de la précarité, mais aussi sur le front du mal-être, avec la mise en place de dispositifs de soutien qui permettent désormais aux étudiants de consulter un psychologue dans le cadre d’un parcours de soins. Ils sont plus de 1 000 psychologues à s’être rendus disponibles à cet appel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823169" ordre_absolu_seance="126" id_acteur="PA720100" id_mandat="PM722860" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431278" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Pradié</nom>
+              <id>720100</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça fait rêver !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823170" ordre_absolu_seance="127" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431279" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Henri Dumont</nom>
+              <id>720684</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le chèque psy !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823171" ordre_absolu_seance="128" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431280" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Après l’accompagnement, il faut aussi permettre aux jeunes de reprendre le fil de leur avenir. Redonner à la jeunesse ce à quoi elle aspire le plus : le pouvoir d’agir. Le vocable « jeunesse » recouvre une très grande hétérogénéité de situations et c’est toute l’ambition du plan « 1 jeune 1 solution » que d’embrasser cette diversité pour ouvrir à chacun un chemin d’avenir et de réussite. Monsieur le député, je tiens à vous rassurer : bien sûr que nous travaillons jour après jour avec les collectivités, avec les régions, loin des accusations stériles, pour trouver ensemble les meilleurs moyens de soutenir la jeunesse. L’autonomie comme levier essentiel à l’émancipation est la boussole du travail mené par mon ministère pour construire un nouveau système d’entraide et d’aide sociale pour les étudiants. L’objectif du Gouvernement est clair : aucun jeune ne doit rester au bord de la route, ni aujourd’hui ni demain,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823172" ordre_absolu_seance="129" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est noté au compte rendu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1823173" ordre_absolu_seance="130" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…ni parce qu’il aura manqué d’opportunités, ni parce qu’il aurait été empêché de les saisir. Le champ des possibles doit rester ouvert pour la génération appelée à bâtir la société durable résiliente et solidaire de demain. Et c’est aussi cela, protéger notre pays et protéger la vie, quoi qu’il en coûte. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État chargée de la jeunesse et de l'engagement" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823319" ordre_absolu_seance="131" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431360" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823320" ordre_absolu_seance="132" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431361" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État chargée de la jeunesse et de l’engagement</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes d’accord sur le constat : il y a bientôt un an, la jeunesse a été percutée par une crise. Mais les conséquences ne sont pas les mêmes pour les étudiants, pour les jeunes qui travaillent déjà et pour ceux qui sont parents ; elles ne sont pas les mêmes pour ceux qui vivent à Aurillac, à Saint-Marcellin ou chez moi, à Nantes ; elles ne sont pas les mêmes pour les jeunes que leurs parents peuvent aider et pour ceux dont ce n’est pas le cas, pour ceux qui ont la chance de vivre dans une maison et pour ceux qui habitent dans huit mètres carrés. Il n’existe donc pas une solution unique, magique. En revanche, des efforts sont consentis pour apporter des réponses, multiples. Bien sûr, elles ne sont pas parfaites. Les effets de la crise n’étaient pas les mêmes en mars dernier : certains s’aggravent, d’autres apparaissent. J’en donnerai quelques exemples avant que nous répondions à vos questions, comme le veut l’exercice de contrôle.<br/>Comme vous l’avez souligné, monsieur Dumont, à l’instar d’autres parlementaires, les conséquences de la crise sont d’abord économiques. La disparition d’emplois dans les secteurs du tourisme et de la restauration, par exemple, a entraîné de la précarité. Nous y répondons en stimulant le recrutement, notamment en alternance, pour les moins de 26 ans. Le plan « Un jeune, une solution », que Mme Colboc a évoqué, a soutenu plus de 1 million de jeunes, qui ont bénéficié de l’aide aux entreprises de 4 000 euros, afin d’aider ces dernières dans cette période difficile à créer des emplois pour les jeunes, quelle que soit leur situation. En outre, les 7 milliards d’euros de crédits du plan ont concouru à la conclusion de 550 000 contrats d’apprentissage.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823322" ordre_absolu_seance="134" id_acteur="PA720100" id_mandat="PM722860" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431363" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Pradié</nom>
+              <id>720100</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un contrat d’apprentissage, ce n’est pas un job !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823323" ordre_absolu_seance="135" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431364" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ces deux réponses ne concernent que le volet économique, monsieur Pradié ; et en effet, ce n’est pas suffisant.<br/>Monsieur Bruneel, vous avez dit que la jeunesse avait besoin de sens, de trouver sa place et de se sentir utile. Là encore, les réponses à apporter pour l’y aider sont diverses. Les missions de service civique ont été adaptées pour lever la contrainte de vingt-quatre heures hebdomadaires minimum, afin que les étudiants trouvent du sens et puissent percevoir une indemnité de 680 euros, désormais accessible à tous, boursiers ou non.<br/>Les réponses concernent également les conséquences morales de la lassitude et de l’isolement, que M. Larive et Mme Descamps ont évoquées. On ne vit pas de la même manière selon qu’on a une famille proche, qu’on est étudiant étranger ou simplement dans une autre région que la sienne. L’aide aux associations constitue une réponse ; selon moi, il faut soutenir aussi ceux qui soutiennent les jeunes. J’ai foi dans les belles initiatives des territoires : des mairies de plus en plus nombreuses ont ouvert des espaces de travail partagés. Vous avez raison de soulever la question de la précarité numérique : certains jeunes n’ont pas accès à ces outils. Cette multitude de réponses veut donner à notre jeunesse l’élan que nous lui devons.<br/>Madame Petit, vous avez parlé des conséquences dans les familles, en particulier des violences, que les travaux de la commission d’enquête présidée par Mme Mörch, dont Mme Buffet était rapporteure, ont montrées. Nous continuons évidemment le travail de prévention, mais pas seulement. L’été dernier, avec Jean-Michel Blanquer, ministre de l’éducation nationale, de la jeunesse et des sports, nous avons créé les vacances apprenantes. Nous allons les pérenniser, car elles apportent une bouffée d’air à 1 million d’enfants, qui partent en colonies de vacances. L’été dernier, nous espérions sortir rapidement de la crise, mais elle dure. Il est nécessaire de les accompagner.<br/>Les conséquences de la crise sont donc psychologiques, morales, économiques, familiales, sociales. Pour donner à notre jeunesse l’élan que M. Bruneel a évoqué, nous devons lui insuffler de l’espoir. Comment ? En étant côte à côte, sur tous les bancs, en démultipliant les solutions, et en acceptant de les faire évoluer. Ainsi, la garantie jeunes, défendue par certains parlementaires, n’est pas taboue. Selon nous, l’ouverture du RSA aux jeunes de moins de 25 ans est insuffisante, pour une raison simple : les jeunes qui ont besoin d’une aide ont besoin d’une aide financière, et il faut y répondre, mais l’accompagnement humain est aussi nécessaire. Il sera assuré par la garantie jeunes universelle, telle qu’elle est envisagée aujourd’hui, en sachant qu’elle continuera à évoluer. Il faut placer l’humain au centre, en renforçant le soutien financier aux missions locales. Le ministère du travail, de l’emploi et de l’insertion d’Élisabeth Borne a déjà apporté plus de 200 millions d’euros pour les renforcer humainement. Elles trouvent des solutions de logement et de mobilité, parce que les jeunes peuvent être fragiles à plusieurs égards : il faut répondre à tous. C’est ce que nous devons à notre jeunesse, comme nous lui devons un pays qui refuse d’être à genoux, qui croit en son avenir. Tel est le sens du plan de relance que nous défendons, grâce à un investissement économique, mais aussi avec la mobilisation du Gouvernement, des élus locaux, et de toutes les forces vives du pays.<br/>Messieurs Gassilloud et Molac, vous avez évoqué les stages. Le site dédié au plan « 1 jeune, 1 solution » propose 30 000 stages. C’est loin d’être suffisant pour répondre à toutes les demandes, mais Mme Vidal apporte des réponses pour accompagner les étudiants dans leur diversité. Un stage de troisième ne se vit pas comme un stage de BTS ou de master. Nous avons besoin des entreprises, qui s’engagent, et des collectivités, qui continuent à proposer des stages. Si nous réunissons nos énergies pour relever ensemble tous ces défis, nous serons à la hauteur des attentes diverses de la jeunesse et nous pourrons la regarder en face : oui, elle est résiliente, oui, elle a de l’énergie – si nous lui faisons confiance. Soyons à ses côtés pour surmonter ces difficultés, qui de toute façon laisseront des cicatrices. En dialoguant et en faisant converger nos solutions, nous dépasserons cette étape. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Frédéric Reiss" id_acteur="PA266776" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723542">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823329" ordre_absolu_seance="141" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431370" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions. Je vous rappelle que la durée des questions et celle des réponses sont limitées à deux minutes et qu’il n’y a pas de droit de réplique.<br/>Dans les questions du groupe Les Républicains, la parole est à M. Frédéric Reiss.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823331" ordre_absolu_seance="143" id_acteur="PA266776" id_mandat="PM723542" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Frédéric Reiss</nom>
+              <id>266776</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je fais partie de la génération de mai 68, dont l’histoire a retenu qu’il est interdit d’interdire : la fin des contraintes, des oppressions et des convenances. Un demi-siècle plus tard, pour tenter de vaincre la pandémie, des libertés fondamentales ont été restreintes, voire bafouées. « C’est dur d’avoir 20 ans en 2020 » : cette phrase, prononcée en octobre par le président Macron, n’a pas fini de résonner dans la tête de ceux qu’on appellera probablement la « génération covid ». C’est une génération anxieuse, en quête de sens, impuissante face aux dérèglements climatiques ; elle s’interroge sur l’avenir de la démocratie, et ne veut pas être sacrifiée.<br/>Paradoxalement, ces jeunes, nourris au numérique, qui ont goûté avidement aux réseaux sociaux, se retrouvent en overdose de visioconférences, qui les désespèrent. Qu’on le veuille ou non, deux années scolaires ont été plus que perturbées – années perdues, selon votre expression, madame la ministre. Le résultat du bac 2020 est en trompe-l’œil, peut-être même constitue-t-il une bombe à retardement. La rentrée 2021 se prépare maintenant. Que fait le Gouvernement pour que la prochaine année scolaire et universitaire se déroule normalement ? Tous les enseignants seront-ils vaccinés d’ici là ?<br/>Ma deuxième question concerne les stages nécessaires à la validation d’une formation, souvent diplômante. La plupart de ceux qui doivent effectuer des stages ont le sentiment de revivre la galère du printemps dernier. À cause de la crise sanitaire, les entreprises n’ont ni le temps, ni le budget, pour recruter des stagiaires. Entre projets ajournés et équipes en télétravail, beaucoup hésitent à accueillir des étudiants. Au-delà des slogans « 1 jeune, 1 solution » ou « 1 jeune, 1 emploi », qu’est-il prévu pour aider les jeunes ? Des collègues ont déjà posé la question et Pierre-Henri Dumont a évoqué des solutions : comment le Gouvernement incitera-t-il les entreprises à embaucher des stagiaires ? <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823334" ordre_absolu_seance="146" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431375" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823335" ordre_absolu_seance="147" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431376" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme vous l’avez dit, l’objectif majeur dans les semaines à venir est de résoudre le problème des stages. Contrairement à l’année dernière, les établissements s’y sont préparés, les collectivités y ont travaillé avec eux, de même que le monde socio-économique. Les universités que j’ai eu la chance de visiter récemment en offrent quelques exemples : à Poitiers, un travail a été accompli avec tous les acteurs du monde socio-économique, pour proposer des stages sur la plateforme JobTeaser ; en Gironde, la forte mobilisation des entreprises membres de la CPME – Confédération des petites et moyennes entreprises – départementale a donné lieu à l’initiative « 1étudiant1entreprise » ; à Strasbourg, la plateforme se nomme « une entreprise, un jeune, un diplôme ». En outre, les plateformes « 1 jeune, 1 solution » et le site etudiant.gouv.fr participent à rendre les stages visibles. Les régions s’engagent également, comme la région Grand Est avec le dispositif « Capital stages », ou la région Centre-Val-de-Loire, avec la plateforme Jobaviz du CROUS. À chaque fois, le travail des établissements est mené en lien avec le monde socio-économique et les collectivités, qui apportent des solutions locales.<br/>Bien sûr, il était également nécessaire que ces stages puissent être différés jusqu’au 31 décembre, comme l’année dernière, afin de bénéficier d’une reprise d’activité économique : il est difficile en ce moment d’obtenir un stage dans certains secteurs, mais les entreprises s’engagent à accueillir les étudiants quand elles en seront capables. Le même dispositif que l’an dernier autorisera les étudiants à effectuer leur stage jusqu’au 31 décembre, sans réinscription : leur diplôme sera ainsi validé.<br/>Ce travail de dentelle s’effectue localement, sur le terrain, toutefois nous pouvons lui donner une visibilité nationale. Les jeunes ont impérativement besoin de savoir que le monde économique les accompagne.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bernard Perrut" id_acteur="PA2377" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723550">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823338" ordre_absolu_seance="150" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431379" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bernard Perrut.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823339" ordre_absolu_seance="151" id_acteur="PA2377" id_mandat="PM723550" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431380" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bernard Perrut</nom>
+              <id>2377</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tous sur ces bancs, nous rencontrons chaque jour des jeunes, qui connaissent des situations dont vous avez souligné la diversité, madame la secrétaire d’État. Ils ne sont pas seulement privés de vie sociale, ils sont confrontés à des difficultés extrêmes pour trouver un stage, un emploi en alternance, leur premier emploi, ou bien le petit job indispensable pour boucler la fin du mois. Certes, vous apportez des réponses, mais elles sont partielles et insuffisantes. Quelles actions concrètes pourriez-vous mener en faveur de l’emploi ? Pouvez-vous nous parler des idées nouvelles évoquées ces derniers jours, le mentorat et la bourse de stages ? Comment fonctionneront-ils ? Seront-ils vraiment utiles ?<br/>Outre la précarité qui les menace, la santé des étudiants nous inquiète, parce qu’ils vivent dans des lieux exigus où s’exacerbent les souffrances liées à l’enfermement. Vous avez inventé le « chèque psy ». Avez-vous des chiffres, pour savoir s’il est bien utilisé, et s’il constitue une réponse suffisante ?<br/>Vous avez annoncé un retour dans les universités, d’abord à des moments déterminés, selon une jauge. Le 22 février dernier, madame la ministre, vous avez évoqué une reprise des cours dans toutes les universités, pour toutes les disciplines, avant la fin du mois. Je suppose qu’il s’agissait du mois de mars. La réalité, hélas, semble en décalage complet avec de telles annonces. Comment pouvez-vous affirmer cela, au mépris des réalités du terrain, malgré le cadre trop resserré encore imposé aux universités ? Les jeunes attendent : quand retourneront-ils effectivement dans les amphithéâtres ou les salles de cours ? Quand pourront-ils de nouveau emprunter la voie des stages ? Les étudiants des universités et des grandes écoles de commerce ne trouvent pas de stage : leur année sera-t-elle « fichue » ? Ils ont besoin d’être rassurés.<br/>Enfin, avez-vous déployé des projets avec les régions et les grandes villes qui veulent s’engager, afin de favoriser la reprise des cours et l’accompagnement des jeunes ? La région Auvergne-Rhône-Alpes, ma région, fournira par exemple des tests antigéniques et du matériel de protection aux établissements d’études supérieures, pour favoriser le retour à une activité normale. La région Île-de-France s’investit également auprès des jeunes. Quels liens peuvent se nouer entre les collectivités locales et vos services ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823343" ordre_absolu_seance="155" id_acteur="PA721314" id_mandat="PM723236" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431384" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Raphaël Schellenberger</nom>
+              <id>721314</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823344" ordre_absolu_seance="156" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431385" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1823345" ordre_absolu_seance="157" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431386" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes évidemment en relation avec les régions : nous partageons un tableau de bord afin d’appliquer des mesures complémentaires et coordonnées. Ainsi, certaines régions prennent en charge les frais de transport des étudiants pour lesquels il est compliqué de ne se déplacer du domicile à l’université qu’une ou deux fois par semaine.<br/>D’autres régions ont acheté des ordinateurs et, dans ce cas, nous avons fourni des clés 4G. Oui, le travail se fait en permanence avec l’ensemble des associations représentatives des collectivités, mais aussi dans chacune des villes universitaires, soit directement, soit par l’intermédiaire des recteurs, qui sont mobilisés sur ces sujets.<br/>En ce qui concerne l’aide psychologique, nous disposons chaque semaine d’informations de l’ensemble des services universitaires. Nous mettrons en place dès le 8 mars une plateforme pour inciter les jeunes à solliciter cette aide. La principale difficulté consiste en effet à les convaincre qu’ils en ont besoin et qu’ils peuvent la demander, sans pour autant se sentir gênés de le faire. Des étudiants relais et des étudiants sentinelles ont été recrutés pour inciter les jeunes à consulter lorsqu’ils vont mal. La mise en place de ce nouvel outil, dès lundi prochain, leur permettra de le faire en toute autonomie et aux heures de la journée qui les arrangent le plus.<br/>Tous les établissements d’enseignement supérieur nous ont communiqué des informations sur l’accueil des étudiants dans les classes. À l’exception de quelques écoles qui, en accord avec les étudiants – quelques milliers en tout –, ont maintenu presque tous les enseignements à distance, toutes les universités accueilleront les étudiants qui le souhaitent dans leurs locaux à partir de la rentrée, c’est-à-dire le 8 mars dans la dernière des trois zones. Ainsi, plus de 90 % des étudiants pourront être accueillis dans les établissements ou le sont déjà. En moyenne, 60 % d’entre eux font le choix de revenir dans les salles de classe tandis que 40 % préfèrent rester à distance, pour diverses raisons.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christophe Blanchet" id_acteur="PA719024" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722536">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823285" ordre_absolu_seance="161" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431415" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Blanchet, pour le groupe Mouvement démocrate (MODEM) et démocrates apparentés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823286" ordre_absolu_seance="162" id_acteur="PA719024" id_mandat="PM722536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Blanchet</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis un an, la jeunesse souffre, particulièrement les étudiants. Malgré les « chèques psy », ils souffrent en silence de l’isolement, de ne pas se voir, de ne pas étudier ensemble, de ne pas réfléchir ensemble, côte à côte, à leur avenir. Ils souffrent de ne pas embrasser leurs grands-parents et c’est pour sauver leur vie qu’ils acceptent, responsables et solidaires, toutes ces conditions depuis un an. Ils souffrent de ne pouvoir s’alimenter correctement même si, grâce à la solidarité, ils retrouvent l’appétit. Ils souffrent de ne pas faire ces fêtes étudiantes qui sont nos souvenirs, et non les leurs.<br/>Ils souffrent de ne pas pouvoir gagner leur autonomie grâce à ces petits boulots, ces jobs d’été que nous avons tous effectués et qui, pour beaucoup, financent en partie l’année scolaire suivante et permettent aux jeunes d’exister. Le job d’été, c’est une période de la vie où le jeune adulte apprend le sens des responsabilités et fait des rencontres décisives, qui parfois influenceront sa vie entière. Le job d’été, ce n’est pas qu’une liasse de quelques centaines d’euros mais une énergie qui anime tous les secteurs économiques et culturels, de l’hôtellerie à l’événementiel. Festivals, cafés, hôtels, restaurants, discothèques, salons, traiteurs, théâtres, cinémas, et tant d’autres : qui n’a jamais fait appel à eux ? Et qu’en est-il des saisonniers dont l’agriculture a tant besoin ?<br/>Depuis un an, madame la ministre, madame la secrétaire d’État, les jeunes de moins de 30 ans sont empêchés de construire leur vie d’adulte. Mais depuis un an, la donne a changé : le vaccin existe et il y a urgence, urgence à donner un calendrier clair et positif à ces jeunes si vous voulez continuer d’obtenir leur adhésion aux restrictions qui leur sont imposées ; urgence à éclairer l’avenir, sachant que la période de recrutement pour la saison estivale commence et que nous devons être clairs pour que chaque employeur ait des perspectives.<br/>Tâchons d’anticiper plutôt que d’annoncer la réouverture la veille pour le lendemain. Pour ce faire, qu’en est-il, non pas du passeport vaccinal, mais du passeport sanitaire ? Cette approche permet en effet d’accélérer le retour à la vie, de jour comme de nuit, et d’apprendre réellement à vivre avec le virus, comme plusieurs autres pays nous le montrent. De plus, elle permettrait de fixer une date à partir de laquelle les jeunes pourraient s’émanciper et bâtir les fondations de leur avenir. C’est l’une des multiples réponses que les jeunes attendent ! <italique>(Mme</italique><italique> </italique><italique>Maud Petit applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823291" ordre_absolu_seance="166" id_acteur="PA720928" id_mandat="PM774485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431421" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Corceiro</nom>
+              <id>720928</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823292" ordre_absolu_seance="167" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431422" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823293" ordre_absolu_seance="168" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431423" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison, les jobs d’été ne sont pas qu’un revenu. Ils en sont un, bien sûr, et chacun en a besoin, mais ils permettent également de vivre des expériences et de créer des liens. Après onze mois de crise sanitaire, nous réalisons à quel point le lien humain et social est essentiel. Dès lors, comment permettre à chacun de faire des projets pour l’été et de construire son avenir ?<br/>Tout d’abord, un espoir est né avec le vaccin, permettant de se projeter et d’apercevoir la lumière qui arrive. S’y ajoutent les mesures concrètes que prend le Gouvernement, et j’évoquerai le secteur que j’accompagne, celui du monde de l’animation et des associations qui accueillent les jeunes l’été, notamment en colonies de vacances ou chez les scouts.<br/>Qu’avons-nous fait dans ce domaine ? Pour soutenir ces associations, nous avons tout d’abord créé un fonds d’urgence de 15 millions d’euros pour permettre le maintien des formations au BAFA – brevet d’aptitude aux fonctions d’animateur – et au BAFD – brevet d’aptitude aux fonctions de directeur – puisqu’ils permettent à de nombreux jeunes d’obtenir un job d’été, qu’ils soient étudiants ou pas.<br/>Certes, il ne s’agit que d’un secteur d’activité. Pour le reste, c’est-à-dire la multitude des dynamiques jobs d’été que l’on aime, qui nous permettent de faire la fête et d’être fiers, je dirai ceci : quand le tourisme va, le job d’été va. Or, le tourisme dépend de l’évolution de la pandémie. Vous posez la question du passeport sanitaire : le Gouvernement explore cette piste qui soulève plusieurs questions. Qu’en est-il dans les pays qui l’ont mis en place, ou lorsqu’il existe des contre-indications médicales ? À quel point ce passeport peut-il être un accélérateur ? Aucune piste n’est écartée.<br/>L’élan que nous donnons consiste à apporter un soutien économique aux entreprises qui permettent aux jeunes de se projeter dans des jobs d’été. Ceux qui n’en ont pas – il faut avoir l’honnêteté d’examiner toutes les situations – bénéficient d’une aide de 900 euros lorsqu’ils sont habituellement saisonniers, pour éviter qu’ils ne basculent dans la précarité et qu’ils soient privés tout à la fois du rêve et du job.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marie-Noëlle Battistel" id_acteur="PA342415" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722826">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823298" ordre_absolu_seance="173" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431428" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie-Noëlle Battistel, pour le groupe Socialistes et apparentés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823299" ordre_absolu_seance="174" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431429" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je pose la question de mon collègue Régis Juanico. En France, la majorité pénale est fixée à seize ans, la majorité civique à dix-huit et la majorité sociale à seulement vingt-cinq ans : quelle étrangeté ! Depuis trop longtemps, les jeunes générations doivent effectuer un parcours du combattant fait de stages, de petits boulots, de contrats courts et précaires, avant d’acquérir le statut légitime d’adultes. Les jeunes aspirent à un droit à l’avenir, à l’autonomie, à un emploi stable, au logement, à la santé. Ils attendent une réponse qui va bien au-delà des aides et des primes ponctuelles instaurées par le Gouvernement, qui ne suffisent plus. Pendant les confinements, 40 % des étudiants ont dû arrêter de travailler. La perte de longs contrats de travail les a fait basculer, nombreux, dans la grande précarité. Les images d’étudiants dans les files d’attente d’épiceries solidaires sont révoltantes.<br/>Outre les étudiants, les projets de centaines de milliers de jeunes – études, concours, entretiens d’embauche, mobilité, séjours à l’étranger – ont volé en éclats à cause de la pandémie, dégradant davantage leurs conditions d’entrée dans la vie adulte.<br/>Notre groupe propose donc d’élargir le RSA aux jeunes de moins de 25 ans et d’instaurer un revenu de base et une dotation universelle à 18 ans : voilà de vraies solutions, contrairement à la proposition de certains membres de la majorité de faire entrer les étudiants dans la spirale infernale de l’endettement. Le Gouvernement entend-il enfin apporter une réponse concrète à la hauteur de la détresse que connaît la jeunesse ? Laquelle ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823305" ordre_absolu_seance="177" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431435" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823306" ordre_absolu_seance="178" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431436" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes d’accord sur un point : l’un de nos objectifs consiste à concrétiser l’autonomie et l’émancipation des jeunes qui étudient. Si c’était aussi simple, je ne doute pas que d’autres gouvernements l’auraient déjà fait. Vous savez néanmoins que se pose au fond la question du modèle social que nous souhaitons : faut-il, comme le font plusieurs de nos voisins, continuer de privilégier l’aide à la famille ou ne vaut-il pas mieux adopter un modèle plus proche de celui des pays d’Europe du Nord, où les aides ciblent principalement les jeunes et leur émancipation ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823307" ordre_absolu_seance="179" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431437" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est ce que nous proposons !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823308" ordre_absolu_seance="180" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431438" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes au milieu du gué depuis des années mais personne ne s’est saisi de cette question. Nous y travaillons avec les associations étudiantes et suivons sur notre boussole le cap de l’émancipation des jeunes qui étudient. Il faut commencer par répertorier l’ensemble des aides proposées aux étudiants. Elles sont multiples et empruntent différents canaux ; le taux de non-recours est incroyablement élevé du fait de la jungle inextricable des dossiers à remplir et des conditions d’éligibilité. Nous devons commencer par mettre à plat l’ensemble de ces aides pour ensuite les regrouper et proposer une aide globale d’autonomie.<br/>En attendant, qu’avons-nous fait pour parer à l’urgence de la situation ? Nous avons fait en sorte que tous les jeunes, boursiers ou non, aient accès à une aide de 500 euros en remplissant un formulaire très simple. Ce montant peut éventuellement être versé chaque mois après examen des dossiers. Nous avons doublé les aides spécifiques que gèrent les CROUS. Depuis deux ans, nous augmentons les bourses, sur des critères sociaux. En somme, nous avons fait en sorte qu’un maximum de mesures touchent l’ensemble des étudiants, boursiers ou non. Et, comme l’a dit Mme El Haïry, nous avons assoupli l’usage des services civiques.<br/>Bref, nous avons proposé des solutions pragmatiques et immédiates. Parallèlement, nous menons sur le fond un travail de long terme que j’espère avoir prochainement l’occasion de vous présenter.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Lise Magnier" id_acteur="PA720230" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722898">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823311" ordre_absolu_seance="183" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431441" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Lise Magnier, pour le groupe Agir ensemble.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823312" ordre_absolu_seance="184" id_acteur="PA720230" id_mandat="PM722898" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431442" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Lise Magnier</nom>
+              <id>720230</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui, les jeunes sont peu touchés par le virus et pourtant ils en subissent les conséquences économiques, sociales et psychologiques, comme tous les Français, qu’ils soient lycéens, bacheliers, étudiants, apprentis, jeunes travailleurs ou à la recherche d’un emploi. Et non, ce n’est pas facile d’avoir 20 ans en 2020.<br/>Au nom du groupe Agir ensemble, je veux tout d’abord dire combien nous avons confiance en notre jeunesse, en tous ces jeunes qui ont des convictions, qui s’engagent et défendent des valeurs, qui innovent et s’adaptent. Mais les situations sont diverses et dans chaque tranche d’âge, cette crise sanitaire a engendré des situations dramatiques et, comme toute crise au reste, elle a révélé nos forces et nos faiblesses.<br/>Nous avons su identifier nos faiblesses, celles de notre système de soins et de santé en particulier, mais nous oublions trop souvent de mettre en avant nos forces, celles d’une nation solidaire, d’un État qui protège. Les jeunes sont inquiets, mais eux aussi se sont révélés être une jeunesse d’une force d’adaptation incroyable, une jeunesse mobilisée, une jeunesse solidaire, une jeunesse qui veut agir, une jeunesse qui veut un avenir.<br/>Le groupe Agir ensemble a fait des propositions pour que les jeunes prennent part à la lutte contre la pandémie, en leur proposant par exemple d’effectuer des services civiques au sein des brigades sanitaires. Cette proposition concrète vise à entretenir la volonté d’engagement des jeunes, mais aussi à les soutenir financièrement. Comment pouvons-nous encourager l’engagement volontaire des jeunes dans le contexte actuel ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823316" ordre_absolu_seance="188" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431446" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1823317" ordre_absolu_seance="189" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431447" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez tant raison de saluer l’engagement des jeunes de tous âges. La crise a effectivement eu des conséquences dramatiques pour tous les jeunes, mais chacun a trouvé sa place : je vais en donner quelques exemples concrets pour répondre directement à votre question.<br/>Nous avons lancé la plateforme jeveuxaider.gouv.fr au tout début du premier confinement, alors qu’on ne connaissait pas encore bien le virus : près de la moitié des 350 000 Français qui s’y sont inscrits avaient moins de 30 ans. Nous avons demandé aux jeunes en service civique de changer leur mission, en plein confinement : plus de 60 000 jeunes ont accepté le jour même, et des avenants ont été signés pour qu’ils rejoignent des associations de lutte conte la grande précarité et contre l’isolement social des personnes âgées dans les EHPAD afin de réduire la fracture entre les générations.<br/>Comment fait-on, comment continue-t-on à faire ? Nous soutenons évidemment tous ceux qui, sur les campus, dans les territoires, dans le cadre des 10 000 missions intergénérationnelles de service civique, souhaitent lutter contre l’isolement des personnes les plus âgées : c’est à cela qu’on mesure à quel point nous sommes à la hauteur de la société. En cette période de vaccination, nous bénéficions également du soutien de volontaires du service civique au titre de la stratégie « tester, alerter, protéger ». Le déploiement de ces missions se poursuivra dans l’ensemble du territoire ; nous devons cette égalité, qui est en quelque sorte une égalité des chances, aux jeunes où qu’ils vivent. Nous mobilisons également la réserve civique, que nous mettons à la disposition de nos collectivités, afin qu’elles recourent à cette force de diffusion de l’information. On peut s’engager à tout âge, mais nous devons saluer l’engagement de la jeunesse, et lui dire combien nous sommes fiers d’elle, qui n’a pas baissé les bras.      </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Zumkeller" id_acteur="PA267330" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723392">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823347" ordre_absolu_seance="192" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431526" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Zumkeller, pour le groupe UDI et indépendants.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823348" ordre_absolu_seance="193" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431527" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <id>267330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ma question, comme bien d’autres, porte sur la situation des étudiants. Il est dur d’avoir 20 ans en cette période de crise sanitaire : impossibilité de fréquenter les lieux culturels, sportifs, et même les lieux d’études ; cours à distance ; perte de liens amicaux, vie sociale bouleversée ; pénurie de petits boulots. Une routine qui s’installe, et une question lancinante : que vaudront les diplômes obtenus à l’issue d’une telle année ? Les études servent-elles encore à quelque chose ? Pour les jeunes, la vie prend quelquefois les allures d’un véritable cauchemar.<br/>Face à cette situation, le Gouvernement a pris quelques dispositions – repas à 1 euro dans les restaurants universitaires, prise en compte des difficultés psychiatriques ou psychologiques – mais ces mesures paraissent bien insuffisantes.<br/>Envisagez-vous une bourse sanitaire et sociale qui compenserait par exemple l’absence du petit boulot habituel, voire la location, bien loin de chez soi, d’un appartement qui coûte souvent très cher à la famille, alors même qu’il est impossible de se rendre à l’université ? Il serait essentiel que les critères d’attribution d’une telle bourse soient suffisamment larges pour permettre aux classes moyennes d’en bénéficier.<br/>D’autre part, pourrait-on fixer une échéance de la vaccination des étudiants ? La chose ne serait pas simple, mais elle aiderait tout le monde. Je souhaite rappeler dans ce cadre la proposition qu’avait émise l’UDI, par la voix de notre président : utiliser le vaccin d’AstraZeneca, puisque celui-ci n’est <italique>a priori</italique> pas administrable aux plus de 65 ans. Cela permettrait à la jeunesse de retrouver le chemin des cours en classe, et surtout cette vie sociale qui lui manque tant.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823351" ordre_absolu_seance="197" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431530" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823352" ordre_absolu_seance="198" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431531" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>L’urgence que vous évoquez touche en effet les enfants des classes moyennes, qui ne peuvent bénéficier des bourses traditionnelles sur critères sociaux. C’est pourquoi nous avons créé deux dispositifs principaux : la possibilité pour un étudiant de demander la révision de son dossier, c’est-à-dire de basculer dans le système boursier existant si la famille a subi d’importantes pertes financières ; et les fameuses aides d’urgence, typiquement destinées aux jeunes qui, habituellement, ne bénéficient pas de bourses sur critères sociaux. En s’adressant à leur CROUS, ils peuvent ainsi obtenir jusqu’à 500 euros par mois pour la durée de leur année universitaire. Ce dispositif est ouvert aux étudiants boursiers ou non, français comme étrangers. Les jeunes s’imaginent souvent que le CROUS ne s’occupe que des boursiers : pas du tout ! Le réseau des œuvres concerne l’ensemble des étudiants. Il s’agit là, je le répète, d’un tout nouveau dispositif, simplifié à l’extrême afin que chacun puisse être aidé.<br/>Quant à la vaccination des étudiants, nous savons que le vaccin protège, individuellement, des complications liées à l’infection par le coronavirus ; nous savons aussi que, fort heureusement, les jeunes présentent très rarement ces complications. En revanche, nous ignorons si la vaccination empêche de propager le virus. Autrement dit, si une personne vaccinée est infectée, elle-même sera protégée par les anticorps qu’a générés la vaccination ; elle ne déclarera pas de pathologie grave ; mais si, durant vingt-quatre, quarante-huit ou soixante-douze heures, elle reste contagieuse, le problème de la transmission virale n’est en rien résolu. C’est la raison pour laquelle, en attendant le résultat des études portant sur ce point, nous en restons à ce qu’a proposé la Haute Autorité de santé : si les données scientifiques évoluent, les doctrines sanitaires, en matière de vaccination, pourront évoluer aussi.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Hugues Ratenon" id_acteur="PA721062" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723158">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823354" ordre_absolu_seance="200" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431533" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Hugues Ratenon, pour le groupe La France insoumise.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823355" ordre_absolu_seance="201" id_acteur="PA721062" id_mandat="PM723158" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431534" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Hugues Ratenon</nom>
+              <id>721062</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaiterais aborder ici la question des étudiants, en particulier de la nécessité de leur octroyer un revenu minimal. Le taux d’idées suicidaires chez eux est connu de tous ici ; leur découragement, leur souffrance, leur solitude doivent plus que jamais nous inquiéter. Avec la crise sanitaire pour facteur aggravant, la société française n’est-elle pas en train de sacrifier une génération, sa jeunesse ? Les jeunes rencontrent des difficultés pour se déplacer, pour manger, pour étudier, se loger, se soigner, communiquer. Beaucoup n’ont presque plus aucune vie sociale. Les parents, eux-mêmes à bout, ne savent plus où donner de la tête. Il est urgent d’agir si nous voulons éviter qu’ils n’abandonnent leurs études, qu’ils ne sombrent. La jeunesse ne doit pas être sacrifiée, mais encouragée !<br/>Entre les aides des caisses d’allocations familiales et des bourses qui révèlent leurs limites, le moment est venu d’instaurer un revenu minimum étudiant qui ne tienne pas uniquement compte de la situation des parents, mais du statut d’étudiant du jeune. Ce dispositif existe déjà dans certaines villes de l’Hexagone, mais il relève d’initiatives locales ; or il faudrait que chaque étudiant bénéficie d’un revenu mensuel versé par l’État. Madame la ministre, ma question sera simple : êtes-vous favorable à sa création ?<br/>Enfin, j’ajouterai que, compte tenu de la précarité et des spécificités ultramarines, le Gouvernement devrait créer un fonds destiné à permettre le retour au pays des étudiants originaires de ces territoires qui le souhaitent.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823358" ordre_absolu_seance="204" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431537" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823359" ordre_absolu_seance="205" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431538" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous énumérez les multiples difficultés que rencontrent les étudiants ; je voudrais évoquer, avec vous, leurs multiples solutions. Ainsi, vous parlez de difficultés à se soigner : dans chaque territoire, les universités, les établissements d’enseignement supérieur, ont créé des centres de santé et des services de santé universitaires, ont organisé par demi-journées ou par journées des consultations de médecins spécialistes, afin que les étudiants puissent se soigner sans avance de frais. Le même constat vaut désormais pour les psychologues, dont les soins, auparavant, n’étaient pas remboursés. La véritable difficulté réside dans le fait d’inciter les étudiants, de les convaincre qu’ils peuvent demander de l’aide…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823360" ordre_absolu_seance="206" id_acteur="PA721062" id_mandat="PM723158" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431539" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Hugues Ratenon</nom>
+              <id>721062</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils en demandent, effectivement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823361" ordre_absolu_seance="207" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2431540" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…et qu’il est important pour eux de le faire.<br/>Quant à la question que vous posez, j’ai eu l’occasion d’y répondre tout à l’heure. Tout d’abord, je le répète, il s’agit là d’un vrai choix de société : d’un côté, l’émancipation et l’autonomie de l’étudiant ; de l’autre, un modèle d’aide sociale fondé sur les revenus de la famille. Encore une fois, cela fait plusieurs mois que nous travaillons, avec les associations étudiantes, sur le sujet d’une aide globale d’autonomie, prenant en compte l’ensemble des dispositifs d’accompagnement des étudiants ; nous voulons qu’elle soit très simple, afin d’éviter le non-recours, et que les collectivités y soient associées – de même qu’elles participent à certains financements, qu’elles accordent des bourses spécifiques aux étudiants ultramarins, dont vous avez parlé. Nous devons nous montrer capables de travailler tous ensemble à la construction de cette aide globale d’économie, destinée à soutenir tous les étudiants qui en ont besoin. Aujourd’hui, 750 000 d’entre eux bénéficient de bourses sur critères sociaux ; notre objectif est de regrouper toutes ces aides en un guichet unique.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Falorni" id_acteur="PA605694" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722558">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823363" ordre_absolu_seance="209" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431542" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Olivier Falorni, pour le groupe Libertés et territoires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823364" ordre_absolu_seance="210" id_acteur="PA605694" id_mandat="PM722558" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431543" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Falorni</nom>
+              <id>605694</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes tous témoins de la précarité qui mine de nombreux jeunes : à l’âge où ils devraient construire leur avenir, beaucoup d’entre eux en sont encore à chercher à se nourrir correctement. J’ai encore pu le constater dans ma circonscription, hélas, il y a quelques jours, dans une épicerie solidaire pour étudiants gérée par la Croix-Rouge.<br/>Nous devons donc moderniser et adapter les instruments de notre solidarité, par exemple en accompagnant davantage les jeunes dont l’insertion sur le marché du travail se trouve fragilisée par la crise. Dans ce contexte d’urgence, les propositions se multiplient : notre débat de ce soir le prouve. Le Gouvernement, pour sa part, a choisi de s’appuyer sur le dispositif de la garantie jeunes. Pourquoi pas ? mais à condition de créer une garantie jeunes universelle et pérenne. Certains critères ont d’ores et déjà été assouplis, comme la condition d’autonomie fiscale, très restrictive, et la durée d’accompagnement ; ces modifications, présentées comme dérogatoires, devraient être pérennisées. Il faut renforcer les missions locales, afin de dépasser largement l’objectif de 200 000 bénéficiaires et de permettre un véritable accompagnement. Il faut aller vers les jeunes, car le dispositif, mal connu, fait l’objet d’un non-recours important : en 2019, plus de 900 000 jeunes se trouvaient sans études, emploi ou formation, mais on dénombrait seulement 93 000 bénéficiaires de la garantie jeunes.<br/>Pour ne laisser aucun jeune au bord du chemin, madame la ministre, madame la secrétaire d’État, seriez-vous prêtes à aller encore plus loin en proposant une garantie jeunes réellement universelle et pérenne ? Quel serait votre calendrier ? Quelle enveloppe supplémentaire envisageriez-vous d’y consacrer en 2021 ? La situation préoccupante des jeunes exige que nous changions de braquet, et ce très rapidement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823367" ordre_absolu_seance="213" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431546" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1823368" ordre_absolu_seance="214" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431547" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison : cette garantie jeunes, créée au cours du précédent quinquennat, constitue une bonne et belle réponse. Elle remédie à la précarité financière par un versement maximal de 497 euros par mois, mais il s’y conjugue un accompagnement humain. Lorsqu’un jeune de 16 à 25 ans – 30 ans s’il est en situation de handicap – a besoin de ce revenu minimum, c’est en effet qu’il se trouve confronté à d’autres difficultés : accès au logement, à la mobilité, achat d’un véhicule s’il n’habite pas en zone urbaine et a donc besoin d’un deux-roues ou d’une voiture pour se déplacer. Il faut répondre à tout cela.<br/>D’où viennent les premières avancées ? Maud Petit parlait tout à l’heure de construire « avec » – avec ceux qui font, avec ceux qui vivent, avec les associations. Dès novembre dernier, j’ai commandé un rapport au COJ, le Conseil d’orientation des politiques de jeunesse : c’est ce qui nous a permis d’élaborer en lien avec cette instance la garantie jeunes universelle de demain. Mais nous n’avons pas attendu l’achèvement de ce travail pour continuer à avancer, pour supprimer les freins que vous avez cités, l’autonomie fiscale par rapport aux parents, une durée de douze à dix-huit mois. Notre calendrier est assez clair : chaque fois que nous identifierons l’un de ces freins, nous le supprimerons. Comment aller vers ceux qui en ont le plus besoin ? En multipliant les intervenants, en accompagnant les missions locales, en renforçant leurs moyens humains grâce aux 200 millions annoncés cette semaine. Nous avons besoin, dans nos territoires, d’hommes et de femmes pour aller chercher ces jeunes qui n’accèdent pas à leurs droits.<br/>Le drame, c’est qu’un jeune sur deux – oui, un sur deux ! – ne connaît pas les dispositifs auxquels il peut prétendre. Faut-il continuer à en créer de nouveaux ou améliorer ceux qui existent déjà en les rendant encore plus accessibles et ouverts ? Ce qu’il faut surtout, c’est aller chercher ces jeunes. Dans les travaux que nous menons actuellement, nous souhaitons évidemment nous appuyer sur l’école de la deuxième chance, sur les EPIDE – établissements pour l’insertion dans l’emploi – et sur l’ensemble des acteurs locaux de bonne volonté pour aller chercher ces jeunes, qu’ils connaissent, et pour ne pas les abandonner au prétexte qu’ils ne savent pas ; ce serait en effet une double condamnation.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Karine Lebon" id_acteur="PA774962" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774987">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823262" ordre_absolu_seance="217" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431852" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Karine Lebon pour le groupe de la Gauche démocrate et républicaine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823263" ordre_absolu_seance="218" id_acteur="PA774962" id_mandat="PM774987" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431853" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Karine Lebon</nom>
+              <id>774962</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le constat est unanime : la jeunesse est particulièrement mise à mal par la crise sanitaire et, en l’absence de mesures urgentes et robustes, elle risque d’en subir les conséquences pendant longtemps. Si la situation est particulièrement périlleuse pour les jeunes adultes de moins de 30 ans qui ne vivent plus chez leurs parents, la crise vient révéler une terrible réalité française : la moitié des pauvres sont des jeunes. Les étudiants sont loin d’être épargnés et le fait qu’ils soient chaque jour si nombreux à attendre un colis alimentaire a surpris et choqué. Mais s’y ajoute ce que l’on ne voit pas, ou moins : les difficultés psychologiques, la peur de l’avenir, la solitude aggravée par l’éloignement – je pense particulièrement à ceux qui viennent des outre-mer – et même l’abandon des études quand la lutte contre la précarité mobilise toute l’énergie et toute l’intelligence. Ce tableau, étayé par d’innombrables témoignages, est la preuve du caractère obsolète du système des bourses – dont je rappelle que 40 % des bénéficiaires doivent travailler – et de l’insuffisance des dispositifs actuels.<br/>Personne ne comprend donc que le Gouvernement rejette systématiquement les pistes qui lui sont présentées : vous avez dit non au RSA jeunes, non au revenu de base à 18 ans, non à l’aide individuelle à l’émancipation et non au revenu étudiant. On sait pourtant que le salariat des étudiants est la première cause d’échec à l’université. Plus que jamais, nous devons trouver les moyens pour que les étudiants puissent se consacrer à leurs études sans être obligés de travailler pour les financer. Un récent sondage montre que la société dans son ensemble souhaite un tel progrès.<br/>Ma question porte d’abord sur l’urgence sociale : quand un dispositif clair et ciblé sera-t-il créé pour répondre à la détresse des étudiants ? Et de manière plus durable, allez-vous dire oui à la création d’une allocation d’autonomie accessible à tous et d’un véritable statut social pour les jeunes en formation ? La jeunesse, l’avenir de notre nation, attend vos réponses, madame la ministre, madame la secrétaire d’État. <italique>(Applaudissements sur les bancs du groupe GDR. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Jean-Hugues Ratenon applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823265" ordre_absolu_seance="221" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431855" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823266" ordre_absolu_seance="222" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il y a plusieurs questions dans votre question. La précarité alimentaire, tout d’abord : il va de soi que le Gouvernement subventionne les associations venant en aide aux étudiants. Partout où les gens veulent aider, nous les accompagnons pour le faire. Si les épiceries sociales et solidaires, par exemple, sont des lieux aussi importants, c’est parce qu’elles sont animées par les étudiants pour les étudiants, et parce qu’on n’y trouve pas uniquement des produits d’épicerie mais aussi du lien humain et du conseil, ainsi que des étudiants qui encouragent leurs camarades à faire savoir qu’ils ne vont pas bien, qui leur conseillent de se diriger vers les assistantes sociales ou vers les psychologues, et qui les aident à construire leur budget. Ce soutien par les pairs est essentiel.<br/>Plus de 2,5 millions de repas à 1 euro sont désormais servis. Traditionnellement, lorsque toutes les universités sont ouvertes, les restaurants universitaires servent environ 150 000 repas par jour. Actuellement, 100 000 repas sont servis chaque jour alors que les jeunes retournent dans les établissements d’enseignement supérieur à raison d’un jour par semaine en moyenne ; les étudiants qui en bénéficient sont donc beaucoup plus nombreux que ceux qui fréquentent habituellement les restaurants universitaires.<br/>Quant à l’aide globale d’autonomie pour les étudiants, j’ai déjà eu l’occasion de répondre à ce sujet : il faut bien sûr y travailler, mais pour cela il faut d’abord recenser l’ensemble des aides existantes et les rendre claires et lisibles. Il faut également que les critères d’accès soient les mêmes. Les aides actuelles dépendent tantôt des revenus des parents, tantôt non ; elles peuvent être locales ou complétées par des aides des collectivités ou des régions et ne dépendent pas seulement de l’État. Tant que nous ne disposerons pas d’un état des lieux, et tant que nous ne serons pas tous d’accord pour verser au pot commun afin de créer l’aide globale d’autonomie, nous resterons bloqués. C’est la raison pour laquelle je continue de travailler sur ce sujet avec les associations étudiantes.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Florence Morlighem" id_acteur="PA720516" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM769311">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823269" ordre_absolu_seance="225" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431859" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions du groupe La République en marche. La parole est à Mme Florence Morlighem.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823270" ordre_absolu_seance="226" id_acteur="PA720516" id_mandat="PM769311" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431860" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Florence Morlighem</nom>
+              <id>720516</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis 2017, le Gouvernement et sa majorité sont résolument engagés auprès de la jeunesse. Ce sont ainsi 7 milliards d’euros qui ont été consacrés à l’emploi des jeunes. Cet effort budgétaire très important porte ses fruits car même en ces périodes très difficiles, l’emploi des jeunes se maintient et un nombre record de jeunes choisit dorénavant l’apprentissage, grande fierté de notre majorité.<br/>Les crises sanitaire et économique liées au covid-19 que nous traversons renforcent encore la nécessité d’agir pour la jeunesse, et le travail doit être au centre des différents dispositifs. Les jeunes ne doivent pas être enfermés dans des minima ; la lutte contre la pauvreté ne peut se résumer à une aide pécuniaire inconditionnelle. C’est d’abord une question de respect envers les jeunes, mais aussi d’efficacité. Il faut proposer à chaque jeune une solution personnalisée et adaptée à ses aspirations et à sa volonté d’émancipation. La jeunesse ne souhaite pas être assistée, elle souhaite disposer d’outils lui permettant de s’insérer dans la société. Je suis convaincue que les solutions proposées par nos oppositions, telles que le RSA jeunes, ne correspondent pas aux attentes de la jeunesse. Les jeunes ne veulent pas toucher une allocation : ils veulent s’insérer, travailler, avoir la possibilité de démontrer leurs multiples talents. Le RSA n’est pas un horizon. Les promoteurs du RSA jeunes oublient de dire à nos concitoyens que sa mise en place entraînerait de fortes hausses d’impôts, que notre majorité refuse car elles freineraient la reprise économique.<br/>Madame la secrétaire d’État, pouvez-vous une nouvelle fois énumérer devant la représentation nationale l’ensemble des dispositifs permettant à la jeunesse de s’insérer dans la société, répondant ainsi à son désir d’émancipation, et confirmer que la France est le pays d’Europe qui fait le plus pour la jeunesse, surtout en ces périodes très difficiles ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823273" ordre_absolu_seance="229" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431863" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823274" ordre_absolu_seance="230" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431864" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous évoquez les différences existant entre les parcours, ainsi qu’au sein de la jeunesse, qui expliquent notre choix de proposer à chaque jeune un chemin, une solution adaptée à sa particularité. Nous avons un objectif clair, l’insertion – qu’elle soit sociale ou professionnelle – car elle permet de lutter en profondeur et dans la durée contre la précarité et l’assignation à résidence. Qu’avons-nous fait pour concrétiser ce projet d’émancipation ? Le plan « Un jeune, une solution », c’est d’abord un engagement de 7 milliards d’euros, financé par le plan de relance, qui a été débattu à l’Assemblée nationale et qui permet d’apporter plusieurs réponses. La première consiste évidemment à accompagner les entreprises pour qu’elles embauchent les jeunes, qu’elles leur fassent confiance. Cela passe par le soutien à l’apprentissage avec 550 000 contrats d’apprentissage. Nous étions en train de gagner le combat contre le chômage, juste avant la crise : nous étions dans la bonne direction car jamais le chômage des jeunes n’avait autant baissé. Nous avons été percutés par la crise ; soit. Que faisons-nous d’autre ? Nous avons porté le nombre de contrats de plus de trois mois, CDD ou CDI, à quasiment 1,2 million pour les jeunes de moins de 26 ans, grâce à l’incitation de 4 000 euros au moment de l’embauche. Une telle mesure vise à favoriser l’emploi en tant que tel.<br/>D’un autre côté, nous ouvrons de nouvelles voies d’engagement, avec 100 000 missions de service civique supplémentaires qui sont aussi accompagnées sur le plan social : les boursiers perçoivent en effet une aide supplémentaire défendue par ma collègue Frédérique Vidal, qui peut en témoigner. Grâce au travail conjoint que nous avons mené, l’indemnité de service civique a été portée à 680 euros pour les jeunes qui s’engagent, en particulier les étudiants.<br/>Les parcours d’insertion sont invididualisés, car nous pensons qu’il faut porter un regard particulier sur chaque jeune. Qu’il s’agisse de parcours emploi compétences ou de PACEA – parcours contractualisés d’accompagnement vers l’emploi et l’autonomie –, ce sont 600 000 jeunes qui sont accompagnés. Nous avons également construit 300 000 parcours d’insertion particuliers, pris des engagements pour lutter contre la précarité alimentaire… Je vois que le temps file alors que je ne suis qu’au début de cette liste ! Bref, les réponses sont diverses et multiples car les difficultés le sont aussi, mais le plus important est que chaque jeune trouve son chemin et trouve une réponse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823276" ordre_absolu_seance="233" id_acteur="PA719024" id_mandat="PM722536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431866" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Blanchet</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nathalie Sarles" id_acteur="PA719972" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722820">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823277" ordre_absolu_seance="234" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431867" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Nathalie Sarles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823278" ordre_absolu_seance="235" id_acteur="PA719972" id_mandat="PM722820" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431868" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Sarles</nom>
+              <id>719972</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie, madame la ministre, madame la secrétaire d’État, d’avoir évoqué tout au long de ce débat de nombreux dispositifs dont nous ne pouvons que nous réjouir. Lorsque je rencontre dans ma circonscription les partenaires que sont la mission locale, Pôle emploi et les associations, je constate que de nombreuses solutions leur sont proposées. Peut-être faudrait néanmoins veiller à limiter la multiplicité des offres, car les jeunes ont parfois du mal à s’y retrouver ; je pense par exemple à deux dispositifs très similaires que sont la garantie jeunes et l’AIJ, l’accompagnement intensif des jeunes, géré par Pôle emploi.<br/>Ma question porte sur l’apprentissage. On l’a dit : en France, il fonctionne. Une impulsion lui a été donnée en 2018 par la loi pour la liberté de choisir son avenir professionnel et les résultats sont là. Il existe cependant, me semble-t-il, un secteur dans lequel nous pourrions et devrions peut-être renforcer l’effort concernant les formations par l’apprentissage : le secteur médicosocial, sur lequel plusieurs députés de la majorité se penchent. Dans ce secteur, certains métiers connaissent des crises de vocation et des établissements de santé – EHPAD, établissements de soins de suite et de rééducation, services de gériatrie – peinent à attirer et à recruter du personnel. Or il existe des formations qualifiantes, d’aide-soignante comme d’infirmière, qui sont onéreuses et parfois longues, et qui mériteraient peut-être le développement de cursus en apprentissage. Nous répondrions ainsi au besoin d’accompagnement dans la formation mais aussi, en parallèle, aux besoins de recrutement des établissements. Existe-t-il des projets en ce sens ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Vidal, quali  ministre" id_acteur="PA717159" id_nomination_oe="PM773461" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823280" ordre_absolu_seance="237" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431870" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1823281" ordre_absolu_seance="238" id_acteur="PA717159" id_mandat="-1" id_nomination_oe="PM773461" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431871" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Vidal</nom>
+              <id>717159</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je concentrerai ma réponse sur l’apprentissage dans le secteur médicosocial, un sujet sur lequel nous avons bien sûr travaillé avec mon collègue Olivier Véran. Vous l’avez dit : il peut être difficile pour des personnes actuellement en emploi, souhaitant progresser et reprendre des études, de le faire autrement que par l’apprentissage. Compte tenu de la tension qui existe dans certains métiers, il est également difficile de se passer de la compétence des personnes qui travaillent déjà dans les établissements. C’est pourquoi nous tâchons de favoriser la progression dans les études à travers l’apprentissage, dans le secteur médicosocial. Ce travail doit bien sûr être mené conjointement avec les régions, car ce sont elles qui pilotent les formations sanitaires et sociales. Quoi qu’il en soit, la demande est croissante pour des cursus en apprentissage, que l’alternance entre pratique et théorie soit organisée quotidiennement, de façon hebdomadaire ou sur de longues périodes. Le sujet est ouvert, notamment dans le cadre du Ségur de la santé. Il complétera les dispositifs que nous avons déjà mis en place, qui permettent par exemple aux infirmières et infirmiers de poursuivre leurs études dans le cadre de masters spécialisés. La question, qui porte aussi sur la nature du contrat – de professionnalisation ou d’apprentissage – est à l’étude avec mon collègue de la santé.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Delphine Bagarry" id_acteur="PA718744" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722442">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1823095" ordre_absolu_seance="239" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431875" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La dernière question est posée par Mme Delphine Bagarry, au titre des députés non inscrits.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1823096" ordre_absolu_seance="240" id_acteur="PA718744" id_mandat="PM722442" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431876" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Bagarry</nom>
+              <id>718744</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La vulnérabilité des jeunes s’est fortement accrue depuis le début de l’épidémie de covid-19. Cela fait un an qu’ils sont confrontés à la solitude, à l’instabilité financière ainsi qu’à un avenir incertain. La conséquence immédiate de cette épidémie a été l’adaptation : les jeunes ont dû s’adapter à l’isolement qui a réduit l’accès à l’éducation pour certains, a affecté la santé mentale pour d’autres, et surtout a conduit nombre d’entre eux à remettre en cause leur avenir. Pour redonner espoir à la jeunesse et pour la sécuriser, donnez-leur accès à la vaccination, favorisez la mise en place d’une aide financière accessible à tous et toutes, favorisez la réouverture des lieux éducatifs et culturels ! Les jeunes sont, avec les aînés, ceux qui sont le plus fragilisés par cette pandémie, et il est urgent que le lien social entre eux puisse se renouer.<br/>Sur le plan pédagogique, la vaccination permettra un retour à un enseignement interactif et accessible à tous. Sur le plan social, la réouverture des universités, des centres de formation et des lieux culturels et d’activités sportives permettra la reprise d’activités collectives et interactives, salvatrices pour tous. Enfin, sur le plan financier, la mise en place d’une allocation d’émancipation pour les jeunes permettra d’apporter de la stabilité et de la sécurité face à la précarité grandissante.<br/>La jeunesse est un temps de rencontres, de partage et de découverte. La construction et l’émancipation personnelles dépendent de ces quelques années, elles se fondent sur l’altérité, sur les confrontations comme sur les communions. Le temps de la jeunesse est court, intense et irréversible. Il ne revient pas : une jeunesse confinée est une jeunesse perdue, une jeunesse gâchée.<br/>Madame la ministre, madame la secrétaire d’État, quand allez-vous mettre au point une stratégie de déconfinement de la jeunesse ? Quand allez-vous autoriser la vaccination des jeunes ? Quand allez-vous mettre en place une aide financière accessible à l’ensemble de la jeunesse ? Et si on demandait aux jeunes de nous faire part de leur avis au moyen d’une large concertation, qui pourrait éventuellement prendre la forme d’une convention ? Écoutons-les, redonnons-leur confiance en l’avenir ! Quand pourrons-nous enfin leur redonner une vie, leur redonner la vie ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1823100" ordre_absolu_seance="241" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2431880" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1823101" ordre_absolu_seance="242" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2431881" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La vie est toujours là, c’est pourquoi nous refusons la notion de génération sacrifiée : cette génération n’est pas morte, elle est debout, elle s’engage, elle crée, elle est solidaire. Si le plan vaccinal vise avant tout à protéger ceux qui meurent en premier, le Président de la République a dit que, d’ici l’été, tous les jeunes et tous les majeurs qui le souhaitent seront vaccinés.<br/>L’élan dont vous parlez se construit en faisant confiance aux jeunes, en mettant en lumière les chemins qu’ils peuvent emprunter, mais aussi en provoquant ces rencontres qui sont si rares. Lundi dernier, sous l’impulsion du Président de la République et grâce au travail effectué conjointement par Frédérique Vidal, Élisabeth Borne, Jean-Michel Blanquer et moi-même, nous avons lancé le plan « Un jeune, un mentor ». Quel est le rapport entre ce plan et la situation sanitaire, me direz-vous ? C’est tout simplement l’élan qui permet à un jeune de se projeter, de croire en l’avenir, de ne pas se laisser aller à l’autocensure, à laquelle il est plus facile de céder en raison de l’isolement résultant de la crise sanitaire. Face à cela, nous répondons par l’humain.<br/>Pour ce qui est de l’aspect financier, nous assumons le fait qu’à une diversité de situations et de difficultés doit répondre une diversité de réponses complémentaires. Frédérique Vidal et moi-même partageons une obsession permanente, celle qu’aucun jeune, étudiant ou non, boursier ou non, ne connaisse une rupture de parcours. C’est pourquoi, par exemple, le montant de la bourse peut être revu si la situation des parents évolue. Ce qui justifie que l’on porte un regard personnalisé sur chacun de nos jeunes, c’est que la crise ne les a pas tous percutés de la même manière.<br/>L’élan dont je vous parle va se faire sentir, au cours des semaines qui viennent, dans cette solidarité réelle, vécue, mais aussi et surtout dans l’énergie que nous allons continuer à mettre dans les réponses apportées à l’ensemble des jeunes. Ces réponses sont évidemment financières et sociales, mais elles résident aussi dans l’espoir, dans l’élan, dans le moral que nous saurons insuffler à la jeunesse pour l’accompagner. <italique>(Mme</italique><italique> </italique><italique>Maud Petit applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1823105" ordre_absolu_seance="243" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2431885" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="1823107" ordre_absolu_seance="245" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2431887" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1823108" ordre_absolu_seance="246" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2431888" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à quinze heures :<br/>Débat consacré à l’Europe ;<br/>Débat sur les nécessaires mutations du secteur aérien face aux défis écologique et économique.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1823109" ordre_absolu_seance="247" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2431889" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures trente</italique>
+            <italique>-cinq</italique>
+            <italique>.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1823110" ordre_absolu_seance="248" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2431890" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

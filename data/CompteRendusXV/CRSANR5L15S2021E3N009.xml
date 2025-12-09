@@ -1,0 +1,1345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021E3N009</uid>
+  <seanceRef>RUANR5L15S2021IDS23229</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210929213000000</dateSeance>
+    <dateSeanceJour>mercredi 29 septembre 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>9</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Troisième session extraordinaire 2021</session>
+    <nomFichierJo>20210009</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-10-06T18:02:55.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2610060">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2610771">
+          <intitule>Accord de sécurité sociale France-IES</intitule>
+        </titreStruct>
+        <para id_syceron="2610772"/>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2610070">
+          <intitule>Exploitation de lanceurs au Centre spatial guyanais</intitule>
+        </titreStruct>
+        <para id_syceron="2610071"/>
+        <sommaire2>
+          <titreStruct id_syceron="2610073">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2610075">M. Jean-Baptiste Lemoyne, secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie</para>
+          <para id_syceron="2610082">M. Lénaïck Adam, rapporteur de la commission des affaires étrangères</para>
+          <para id_syceron="2610731">M. Jean-Louis Bourlanges, président de la commission des affaires étrangères</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2610778">
+            <intitule>Motion de rejet préalable</intitule>
+          </titreStruct>
+          <para id_syceron="2610741">M. Bastien Lachaud</para>
+          <para id_syceron="2610106">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+          <para id_syceron="2610116">Mme Maud Gatel (Dem)</para>
+          <para id_syceron="2610120">Mme Olga Givernet (LaREM)</para>
+          <para id_syceron="2610125">M. Jean-Paul Lecoq (GDR)</para>
+          <para id_syceron="2610312">M. Christian Hutin (SOC)</para>
+          <para id_syceron="2610314">M. Jean-Marie Sermier (LR)</para>
+          <para id_syceron="2610317">M. Benoit Simian (LT)</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2610322">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2610324">M. Christian Hutin</para>
+          <para id_syceron="2610343">M. Thomas Gassilloud</para>
+          <para id_syceron="2610355">M. Yannick Favennec-Bécot</para>
+          <para id_syceron="2610364">M. Bastien Lachaud</para>
+          <para id_syceron="2610374">M. Benoit Simian</para>
+          <para id_syceron="2610395">M. Jean-Paul Lecoq</para>
+          <para id_syceron="2610410">M. Pierre Cabaré</para>
+          <para id_syceron="2610461">Mme Maud Gatel</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2610483">
+            <intitule>Vote sur l’article unique</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2610487">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 29 septembre 2021</journee>
+      <session>Troisième session extraordinaire 2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1941533" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2610060" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1941534" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610061" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1941535" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2610062" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1941538" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2610771" valeur="(n[[o]] 4487)">
+      <orateurs/>
+      <texte>Accord de sécurité sociale France-IES</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1941538" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2610772" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Procédure d’examen simplifiée</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1941538" ordre_absolu_seance="7" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610773" valeur=" (n[[os]] 3016, 4487)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, selon la procédure d’examen simplifiée, en application de l’article 103 du règlement, du projet de loi autorisant l’approbation de l’accord de sécurité sociale entre le gouvernement de la République française et l’Institut d’études de sécurité de l’Union européenne (n<exposant>os</exposant> 3016, 4487).<br/>Ce texte n’ayant fait l’objet d’aucun amendement, je vais le mettre directement aux voix, en application de l’article 106 du règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1941541" ordre_absolu_seance="8" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2610068" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941543" ordre_absolu_seance="10" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2610070" valeur="(n[[o]] 4488)">
+      <orateurs/>
+      <texte>Exploitation de lanceurs au Centre spatial guyanais</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941544" ordre_absolu_seance="11" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2610071" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion d’un projet de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941545" ordre_absolu_seance="12" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610072" valeur=" (n[[os]] 3596 rectifié, 4488)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion du projet de loi autorisant l’approbation de la déclaration relative à la phase d’exploitation des lanceurs Ariane, Vega et Soyouz au Centre spatial guyanais (n<exposant>os</exposant> 3596 rectifié, 4488).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941546" ordre_absolu_seance="13" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2610073" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État chargé du tourisme, des Français de l'étranger et de la francophonie" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941547" ordre_absolu_seance="14" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610074" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941548" ordre_absolu_seance="15" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610075" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <acteurRef>PA703535</acteurRef>
+              <qualite>secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, monsieur le président de la commission des affaires étrangères, monsieur le rapporteur, mesdames et messieurs les députés, nous voici réunis ce soir pour examiner le projet de loi qui autorise l’approbation de la déclaration de 2017 relative à la phase d’exploitation des lanceurs Ariane, Vega et Soyouz au Centre spatial guyanais – CSG. Vous me permettrez en ce moment d’avoir une pensée pour toutes celles et tous ceux qui œuvrent dans ce territoire pour endiguer la propagation de la pandémie. Le ministre des outre-mer, vous le savez, était il y a quelques jours en Guyane pour superviser les mesures sanitaires déployées sur place. Malgré ces épreuves, je veux rappeler combien la Guyane a d’atouts. Souvenez-vous que le général de Gaulle disait en 1964, quand il faisait le choix d’y localiser ce centre : « toutes les régions du monde sauront où est la Guyane. » Il est vrai que nous avons là des infrastructures de première qualité.<br/>Notre filière spatiale est en proie à une concurrence majeure, intra-européenne, mais aussi et surtout américaine et asiatique. Dans ce contexte, il est impératif de poursuivre les investissements européens dans le domaine spatial et de continuer les innovations de rupture dans ce secteur, en prenant appui sur la nouvelle génération de lanceurs. C’est tout le sens de l’inauguration par Sébastien Lecornu du nouveau pas de tir des fusées Ariane à Kourou il y a quelques jours. Nous nous dotons également des moyens nécessaires pour préserver ce savoir-faire technologique français : le plan de relance consacre ainsi 500 millions d’euros à la filière spatiale.<br/>Si l’investissement à l’échelle nationale demeure important, notre ambition ne peut se réaliser que grâce à une coopération interétatique européenne forte et structurée. Les événements récents en matière d’armement ont le mérite d’illustrer un enjeu fondamental : la souveraineté européenne doit reposer sur des alliances sûres avec nos partenaires européens. Dans ce cadre, l’Agence spatiale européenne joue un rôle majeur, tout autant que le Centre national d’études spatiales (CNES), notre agence spatiale nationale.<br/>Pour porter les ambitions européennes dans un contexte d’accélération des projets d’exploration portés par les grandes puissances spatiales et de concurrence de plus en plus sévère entre les acteurs publics et privés du secteur, l’Agence spatiale européenne (ASE – ESA en anglais) s’appuie sur trois lanceurs : Ariane 5, à laquelle succédera très prochainement Ariane 6, Vega et Soyouz.<br/>Le texte, signé par dix-huit États européens, qui vous est aujourd’hui soumis, constitue l’instrument encadrant la gouvernance de l’exploitation de ces lanceurs au Centre spatial guyanais. C’est un véritable accord intergouvernemental qui succède à la déclaration du même nom adoptée il y a des années. La mise en œuvre de cette déclaration a permis le lancement d’environ soixante-quinze satellites institutionnels européens qui ont couvert des besoins stratégiques dans les domaines de la défense, de la navigation et de l’observation.<br/>Il est aujourd’hui proposé de prendre en compte la responsabilité croissante des maîtres d’œuvre industriels Arianespace, ArianeGroup et de la société italienne Avio pour la construction de Vega. L’accord précise notamment les entités chargées de l’exploitation dans une logique de dévolution. Les États parties confient à l’Agence spatiale européenne un mandat visant à s’assurer du respect de la déclaration par ces industriels. La responsabilité juridique liée aux lancements est répartie, selon un schéma propre à chaque lanceur, entre l’État français, l’Agence spatiale européenne et l’opérateur de lancement Arianespace.<br/>L’accord prévoit enfin un principe de préférence européenne en matière de lancement – je sais que ce point a fait débat au sein de votre commission. Il constitue un engagement fort de la France, contribuant à réaliser l’autonomie stratégique européenne, mais soyons très clairs : la France continuera à œuvrer pour que le champ d’application de ce principe de préférence s’étende dans les années à venir et qu’il devienne plus affirmatif qu’incitatif. Il y a là encore des progrès à accomplir, car c’est une dimension essentielle pour que l’Europe prenne son destin en main en la matière.<br/>Tels sont, brièvement esquissés, les enjeux essentiels du texte mis en débat ce soir. Je suis sûr qu’il viendra conforter l’apport que l’activité du CSG constitue pour un territoire cher à notre cœur. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Lénaïck Adam, quali  rapporteur de la commission des affaires étrangères" id_acteur="PA721036" id_nomination_oe="-1" id_nomination_op="-2892592" id_mandat="PM723148">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941554" ordre_absolu_seance="23" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610081" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Lénaïck Adam, rapporteur de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1941555" ordre_absolu_seance="24" id_acteur="PA721036" id_mandat="PM723148" id_nomination_oe="-1" id_nomination_op="-2892592" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610082" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Lénaïck Adam</nom>
+              <acteurRef>PA721036</acteurRef>
+              <qualite>rapporteur de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, mes chers collègues, j’ai reçu pour mission de vous présenter la déclaration relative à la phase d’exploitation des lanceurs Ariane, Vega et Soyouz au Centre spatial guyanais. Une première version de cette déclaration avait été adoptée le 30 mars 2007. La seconde, que nous examinons aujourd’hui, date de décembre 2017. L’Assemblée nationale a été saisie en premier. La phase de négociation de cet accord s’est déroulée entre 2015 et 2017 au sein de l’Agence spatiale européenne. Finalement, cet accord intergouvernemental réunit dix-huit des vingt-deux États membres de l’ESA.<br/>Pour illustrer l’importance de cet accord, je vous présenterai tout d’abord le Centre spatial guyanais et son caractère stratégique pour l’Europe et pour la France.<br/>Le Centre spatial guyanais dispose de trois lanceurs mondialement reconnus : Ariane 5, Vega et Soyouz. Ariane 5 est un lanceur lourd, utilisé depuis 1996. Il est capable de viser n’importe quelle orbite – orbite basse, moyenne, géostationnaire, orbite de libération – et de placer des charges pouvant peser jusqu’à vingt tonnes. Ce lanceur emblématique est considéré comme un des plus fiables au monde. Il a effectué son 110<exposant>e</exposant> vol en juillet dernier, soit le 254<exposant>e</exposant> vol de la famille Ariane. Soyouz est un célèbre lanceur russe intermédiaire dont le premier lancement au CSG date de 2011. Il peut transporter des satellites de cinq tonnes en orbite basse et de trois tonnes en orbite géostationnaire. Vega est un lanceur léger, dont le premier lancement date de 2012 et qui répond à la demande croissante de satellites de petite taille envoyés en orbite basse.<br/>En 2022, deux nouveaux lanceurs seront exploités au CSG : Ariane 6 et Vega-C. Le projet Ariane 6 a été pensé depuis 2014 pour réduire la durée et le coût des procédures de lancement. Les méthodes de fabrication ont été simplifiées et les performances techniques accrues. Le projet a nécessité la construction entre 2015 et 2020 d’un nouvel ensemble de lancement ultramoderne, composé notamment d’une « cathédrale » d’acier d’une hauteur de 100 mètres et pesant 6 000 tonnes, soit le poids de la tour Eiffel. Cette structure innovante encadrera le lanceur et sera capable de se rétracter au moment du lancement grâce à des chariots alimentés par plus de 100 moteurs. M. le secrétaire d’État l’a rappelé, nous avons inauguré hier avec Sébastien Lecornu ce pas de tir à Kourou.<br/>Les lanceurs européens, et plus spécifiquement Ariane, sont le symbole de la politique spatiale européenne, qui s’est construite progressivement depuis les années 1970 et a été marquée par de nombreux succès. Entre 1988 et 2003, Ariane 4 profitait des deux tiers des lancements commerciaux dans le monde, loin devant les États-Unis. Grâce au CSG, l’Europe a occupé et occupe encore une place de premier plan sur le marché mondial des services de lancement.<br/>Le CSG permet aussi l’envoi de programmes européens de manière autonome. Parmi les programmes les plus connus, je citerai Galileo, le système de positionnement par satellites européen, et la sonde Rosetta, la première à avoir approché une comète et à y avoir placé un atterrisseur. Le CSG offre ainsi à l’Europe un accès autonome à l’espace. Or l’accès à l’espace est de plus en plus stratégique. De nombreuses technologies civiles et militaires dépendent aujourd’hui de satellites. Les activités spatiales ont également un effet de levier sur des secteurs économiques variés, notamment grâce à l’exploitation des données spatiales.<br/>Au-delà de l’Europe, le CSG est aussi indispensable à la France. Il joue un rôle majeur pour le développement économique de la Guyane. Il s’étend sur 700 kilomètres carrés, soit deux fois la taille de Mayotte et la moitié de celle de la Martinique, et son activité représente 15 % du PIB du territoire guyanais. Environ 450 entreprises et 4 600 emplois sont liés au secteur spatial. Le centre est également un acteur majeur du tourisme guyanais : hors période de covid-19, les touristes assistent aux lancements, visitent les installations et le musée de l’Espace. En 2019, il avait accueilli 25 000 visiteurs.<br/>Ces activités sont d’autant plus précieuses que le contexte économique et social est aujourd’hui difficile en Guyane : au premier trimestre 2021, le taux de chômage y atteignait 12,7 % selon l’INSEE. Pourtant, pour beaucoup de Guyanais, la poursuite des activités spatiales a pu paraître incertaine. Le projet Ariane 6 a été retardé par des problèmes techniques et par la crise sanitaire. Les lancements ont été interrompus entre les mois de mars et d’août 2020 et le chantier Ariane 6 sol a été ralenti. ArianeGroup vient d’annoncer la suppression de 600 emplois en France et en Allemagne d’ici la fin de l’année 2022.<br/>L’industrie spatiale européenne est confrontée à une concurrence internationale croissante. Les acteurs spatiaux institutionnels et commerciaux sont plus nombreux que par le passé. De nouveaux acteurs issus du secteur privé, venus de la Silicon Valley et des GAFAM, ont développé leurs activités spatiales en reprenant les méthodes de l’industrie numérique. Ils sont devenus incontournables – je pense bien sûr à Space X et à Blue Origin. Il est toutefois important de rappeler que ces acteurs sont en partie financés par la NASA et par le département américain de la défense. Ils bénéficient de contrats publics et de transferts de technologies.<br/>En parallèle, la demande de satellites a évolué. Elle se concentre désormais avant tout sur l’orbite basse et les satellites sont de plus petite taille. Ces satellites sont parfois organisés autour de constellations : c’est le projet Starlink de SpaceX. Face à cette concurrence internationale très forte, l’industrie spatiale européenne n’apparaît pas encore assez compétitive. Elle ne dispose pas, par exemple, d’une technologie de lanceur réutilisable similaire à celle développée par l’entreprise américaine SpaceX, très médiatisée.<br/>Dans un tel contexte, l’actualisation de la déclaration du 30 mars 2007 apparaît indispensable. Elle assure un cadre juridique pour l’exploitation des lanceurs européens.<br/>Je vais maintenant vous présenter la déclaration de 2017. La phase d’exploitation des lanceurs comprend la fabrication des lanceurs, leur intégration, les opérations de lancement et les activités de commercialisation. De plus, pour les futurs lanceurs Ariane 6 et Vega-C, l’exploitation comprend les activités nécessaires pour maintenir la conformité des systèmes de lancement aux accords d’exploitation pertinents élaborés dans le cadre de l’ESA.<br/>La principale innovation de la déclaration de 2017 est présentée dès la section I. L’accord donne plus de responsabilités aux maîtres d’œuvre industriels que sont ArianeGroup et Avio pour l’exploitation des lanceurs Ariane 6 et Vega-C. Pour ces deux lanceurs, l’exploitation n’est plus confiée uniquement au fournisseur de services de lancement Arianespace, comme c’est le cas pour Ariane 5, Vega et Soyouz, mais aussi aux maîtres d’œuvre industriels Ariane 6 et Vega-C, qui deviennent responsables de la fabrication et de l’intégration de leur lanceur et devront assumer les risques de l’exploitation commerciale. L’accord prend ainsi acte de la montée en puissance des maîtres d’œuvre industriels dans l’exploitation des lanceurs.<br/>Le reste du texte reprend très largement la version antérieure de 2007. Il affirme à nouveau un principe de préférence d’utilisation des lanceurs européens pour les missions institutionnelles. Si ce principe est nécessaire pour défendre le spatial européen, on peut regretter qu’il ne soit pas véritablement contraignant pour les parties. La France s’est ici heurtée à la réticence d’autres États.<br/>Comme dans la version de 2007, la section II de l’accord prévoit que l’ESA s’assure de l’application du texte. De même, le régime de responsabilité prévu à la section IV est maintenu. La France, qualifiée d’« État de lancement », assume ainsi encore une part très importante de la responsabilité financière en cas de dommage causé à un tiers. Pour les lancements Ariane, le gouvernement français supporte même l’intégralité de la charge financière.<br/>La section V de l’accord précise que le texte entrera en vigueur lorsque deux tiers des parties de 2007 auront notifié par écrit au directeur général de l’ESA qu’elles acceptent de devenir partie. Au début du mois de septembre 2021, seuls six États sur dix-huit avaient ratifié la déclaration : l’Autriche, la Belgique, la Norvège, les Pays-Bas, le Royaume-Uni et la Suisse. Manquent à l’appel l’Allemagne et l’Italie, qui n’ont pas encore fait le nécessaire. Pour les États qui deviennent partie, la déclaration de 2017 se substituera à l’accord antérieur de 2007. Elle sera en vigueur jusqu’en 2035.<br/>En conclusion, cet accord intergouvernemental vient réduire les incertitudes sur l’activité du CSG à moyen terme en sécurisant le cadre juridique portant sur la phase d’exploitation des lanceurs. Pour maintenir l’activité du CSG à long terme, les États membres de l’ESA devront toutefois continuer à s’engager pour l’Europe spatiale. Ils devront financer des projets toujours plus innovants pour résister à la concurrence internationale, en particulier à celle des acteurs privés américains. Les dernières annonces de l’ESA, qui prévoient un nombre minimal de lancements institutionnels pour les trois premières années d’exploitation d’Ariane 6 et de Vega-C, étaient nécessaires.<br/>Mes chers collègues, je vous invite maintenant à voter en faveur de l’approbation de cet accord. <italique>(Applaudissements sur quelques bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Louis Bourlanges, quali  président de la commission des affaires étrangères" id_acteur="PA721608" id_nomination_oe="-1" id_nomination_op="PM780013" id_mandat="PM723332">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941848" ordre_absolu_seance="42" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610730" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le président de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941849" ordre_absolu_seance="43" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610731" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Notre rapporteur vous a exposé les lignes de force de l’accord intergouvernemental conclu le 4 décembre 2017 entre dix-huit États membres de l’Agence spatiale européenne : premièrement, les responsabilités et obligations liées à l’exploitation des lanceurs Ariane et Vega développés par l’Agence spatiale européenne et du lanceur Soyouz exploité par le Centre spatial guyanais ; deuxièmement, la pérennisation des financements et la rénovation du cadre juridique touchant l’exploitation des lanceurs ; troisièmement, l’attribution de plus grandes responsabilités aux industriels ArianeGroup et Avio face à Arianespace, qui assure le service de lancement.<br/>Au-delà de ces dispositions, j’insisterai sur un point : par cet accord, nous cherchons à renforcer la compétitivité des lanceurs européens, donc du Centre spatial guyanais, dans un domaine stratégique. L’espace est en effet devenu crucial pour notre défense, pour notre sécurité, mais également, entre autres, pour notre économie – en particulier numérique –, pour notre recherche appliquée et fondamentale, ou pour nos capacités d’observation et de communication.<br/>L’accord proclame certes un principe de préférence pour les missions institutionnelles, qui nous plaît, mais tous les membres de la commission ont exprimé le regret qu’il ne soit pas véritablement contraignant. Vous avez en effet hésité à le rendre incitatif ou affirmatif. Nous voulons, quant à nous, qu’il soit normatif. L’objectif est de continuer à garantir un accès indépendant à l’espace. Cet accord participe donc à la grande ambition de construire une autonomie stratégique de l’Union européenne.<br/>Il est d’ailleurs l’occasion de rappeler les succès de l’Europe spatiale. L’Europe a su, par le passé, proposer de véritables ruptures technologiques, dont Ariane est le symbole. Ariane 4 et Ariane 5 ont permis à l’Europe de conquérir deux tiers du marché mondial des satellites commerciaux dans les années 1990, loin devant les États-Unis, alors traumatisés, hélas, par le tragique accident de la navette Challenger en 1986. Le Centre spatial guyanais est sans doute encore le port spatial le mieux situé au monde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941853" ordre_absolu_seance="47" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610735" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <acteurRef>PA267204</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, de Gaulle !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941854" ordre_absolu_seance="48" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610736" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes fiers de voir cette région lointaine et si proche à la fois être la vitrine de la plus parfaite modernité française. La France y exerce des responsabilités particulières et mobilise des moyens financiers et humains très importants. Cet accord conforte notre position. Il s’appliquera jusqu’à la fin de l’année 2035. C’est un point solide.<br/>Néanmoins, nous ne devons pas oublier les menaces qui pèsent sur les lancements commerciaux européens. La concurrence internationale s’est renforcée ces dernières années, avec l’arrivée d’États, comme la Chine et bientôt l’Inde, et surtout des sociétés privées américaines qui ont rapidement démontré leur capacité à innover. Nous sommes donc confrontés à une double compétition, une double menace : une menace géopolitique marquée par la montée en puissance des géants technologiques du Pacifique et une menace capitaliste caractérisée par le dynamisme conquérant – méritoire, d’ailleurs, à bien des égards – d’acteurs privés qui concurrencent les États.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941855" ordre_absolu_seance="50" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610755" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On dénonce la menace capitaliste, enfin !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941856" ordre_absolu_seance="51" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610738" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous pensons que les Européens sont loin d’avoir pris toute la mesure des efforts à accomplir, des innovations à multiplier et des changements à opérer dans l’urgence si nous voulons conserver la place éminente qui fut la nôtre et qui doit continuer de l’être. L’industrie spatiale européenne doit sortir du labyrinthe dans lequel trop d’années et trop d’acteurs l’ont poussée, mais le seul moyen qui sera à disposition, le seul fil d’Ariane, ce sera, bien sûr, l’innovation. C’est elle qu’il faut jouer, et à fond. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem. – M. Jean-Paul Lecoq applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941857" ordre_absolu_seance="52" code_grammaire="MOTION_RP_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2610778" valeur=" 4488">
+      <orateurs/>
+      <texte>Motion de rejet préalable</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941858" ordre_absolu_seance="53" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610740" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’ai reçu de M. Jean-Luc Mélenchon et des membres du groupe La France insoumise une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.<br/>La parole est à M. Bastien Lachaud.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941859" ordre_absolu_seance="54" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2610741" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <acteurRef>PA720846</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le texte que nous examinons aujourd’hui devait être adopté selon la procédure simplifiée. Le Gouvernement aurait ainsi pu escamoter une discussion indispensable. Je ne connais pourtant aucun responsable politique qui contesterait que la question spatiale mérite la plus grande attention. La France est la deuxième nation au monde à contribuer au financement de la recherche spatiale. Ce secteur de pointe concourt à la défense et à la souveraineté nationales d’une manière déterminante. Il contribue encore au rayonnement scientifique et culturel de notre pays. Il représente même un véritable enjeu de civilisation – l’humanité n’est-elle pas cette espèce qui regarde toujours vers les étoiles, dans l’espoir d’y trouver un sens à son destin et une origine à son existence ? Et pourtant, aujourd’hui, nous vivons dans un monde où les étoiles ne luisent plus. Combien de nos enfants n’ont jamais vu la Voie lactée ? Dans le même temps, les milliardaires s’approprient l’espace et considèrent cette nouvelle frontière de l’humanité comme un Far West dont ils peuvent faire la conquête.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941860" ordre_absolu_seance="55" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610742" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Fiat</nom>
+            <acteurRef>PA720286</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Il a raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1941861" ordre_absolu_seance="56" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610743" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <acteurRef>PA720846</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Comme on le voit, les enjeux sont immenses. Et nous pourrions nous abstenir d’examiner le seul texte de la législature ayant trait à la politique spatiale ? Les députés de La France insoumise ne l’ont pas accepté et ont, encore une fois, suscité un débat que l’exécutif voulait éviter pour masquer la faiblesse de son bilan. En réalité, il ne s’agit même pas de faiblesse, mais d’un naufrage lent, causé par un véritable manque de vision et de la naïveté devant l’iceberg des prétentions hégémoniques de l’Allemagne.<br/>Bien sûr, nous pouvons nous enorgueillir de quelques succès scientifiques. La contribution française aux missions martiennes menées par les États-Unis et par la Chine fait de la France une puissance spatiale singulière. Outre son apport au savoir, elle donne une idée de ce que peut la diplomatie spatiale en faveur de la coopération et de la paix. Le long dialogue que les agences française et russe nourrissent depuis des décennies en est d’ailleurs un autre exemple. Nous coopérons encore pour une prochaine mission lunaire.<br/>Un autre succès est, bien sûr, la présence de Thomas Pesquet dans la station spatiale internationale, qui constitue une vitrine irremplaçable et une incitation majeure à ne pas rester à la traîne de l’Histoire. On peut espérer que le partage de son expérience aura fait naître des milliers de vocations de scientifiques, d’ingénieurs, de spationautes, d’écologues, mais aussi de rêveurs invétérés, de poètes et d’artistes. Gagarine et Armstrong y étaient bien parvenus, en transcendant les divisions qu’impliquait la guerre froide.<br/>Pourtant, ces réussites ne peuvent dissimuler une situation caractérisée par la privatisation de l’industrie spatiale et de l’espace lui-même, l’affaiblissement du CNES, le déclassement de la France au sein de l’Agence spatiale européenne, la prise d’ascendant de l’Allemagne, l’enfermement progressif de notre politique dans une approche mercantile, l’attentisme de notre diplomatie lorsqu’il s’agit de garantir des régulations efficaces contre l’accaparement des ressources et la militarisation de l’espace. Depuis plusieurs années, le secteur spatial français est soumis aux assauts d’une concurrence internationale dure, mais aussi aux coups portés par nos prétendus amis, et nous l’acceptons au prétexte de la construction européenne.<br/>Le dernier exemple en date est criant : le PDG d’ArianeGroup a annoncé la semaine dernière la suppression de 600 postes, mais également la délocalisation de la production du moteur Vinci. Ce moteur cryotechnique, qui est une pièce maîtresse du futur lanceur Ariane 6, ne sera donc plus fabriqué sur le site de Vernon, en Normandie, mais bien à Ottobrunn, en Bavière, où des essais sur le moteur Vulcain sont déjà pratiqués et alors que les essais de qualification sont déjà prévus en Allemagne. Et Bruno Le Maire donne sa bénédiction à une telle avanie ! La France est pourtant première contributrice aux activités des lanceurs au sein de l’ESA, avec un financement de 50 %, tandis que l’Allemagne ne contribue qu’à hauteur de 20 %. Quant au site de Vernon, il a déjà perdu 20 % de ses effectifs ces dernières années, mais que ne ferait-on pas pour plaire à nos amis allemands ?<br/>Depuis des années, les intentions allemandes ne font plus de doute. Depuis son Livre blanc de 2010, il est clair que notre voisin vise la suprématie européenne dans le domaine spatial. Depuis 2017, les actes confirmant ses intentions se sont multipliés. Le plus emblématique date de novembre 2019 : l’Allemagne est devenue le premier contributeur de l’ESA, et elle est bien décidée à faire appliquer le plus strictement possible le principe du « qui paye décide ».<br/>Le Gouvernement n’a pas cru bon de défendre la position française et a capitulé en rase campagne. Les effets de ce renoncement n’auront pas tardé : l’Allemagne prend les commandes dans le domaine des mini-lanceurs. En novembre 2020, ce sont trois start-up allemandes du secteur qui obtiennent des subventions de l’ESA. L’une d’entre elles, Isar Aerospace, obtient en avril 2021 un contrat avec Airbus, qui est pourtant membre d’ArianeGroup. <italique>(M. Christian Hutin applaudit.)</italique> Bientôt, quel que soit le service commercialisé, l’Allemagne sera toujours en situation de le fournir et d’en tirer un bénéfice. En avril 2021, la même start-up allemande, Isar Aerospace, passe un accord avec la Norvège afin de pouvoir y faire ses lancements. Ce faisant, elle contribue à marginaliser le rôle du centre spatial guyanais et, si l’on n’y prend garde, Kourou sera prochainement un port de second rang.<br/>En mai 2021, c’est carrément l’État allemand qui passe contrat avec la même Isar Aerospace. C’est curieux, car il existait pourtant chez Arianespace un projet de minilanceur – Sparrow – qui, bizarrement, a été arrêté en 2017… L’Allemagne ne se voyait sans doute pas fabriquer un gâteau européen qu’il aurait fallu partager : la voilà désormais en passe de fabriquer un gâteau strictement allemand. On voit bien qu’il n’y a pas de dépendance mutuelle acceptable pour les dirigeants allemands. On ne saurait les en blâmer : ils ont été élus pour défendre les intérêts allemands.<br/>Je sais que ces observations vont susciter des protestations. Permettez donc que je cite la réponse que le gouvernement allemand lui-même a faite à un questionnaire de l’Union européenne. Il y a quelques mois à peine, il se désolait auprès de Bruxelles du fait que « jusqu’à aujourd’hui, il n’y a pas de concurrence européenne possible dans les catégories actuelles de lanceurs Ariane – et Vega –, alors qu’une concurrence vivante émerge dans le domaine des microlanceurs dans toute l’Europe. La prochaine étape logique serait de développer cette concurrence sur des systèmes de lancement et de charges utiles plus lourds ». Vous voilà prévenus !<br/>Et pour couronner le tout, le 6 septembre dernier, le gouvernement allemand a officialisé son soutien au projet de plateforme de lancement de minilanceurs – dit GOSA – en mer du Nord !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941779" ordre_absolu_seance="66" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610096" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941780" ordre_absolu_seance="67" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610097" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <acteurRef>PA720846</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Mais je n’ai encore abordé que l’aspect commercial du problème ; c’est en effet la priorité de l’Allemagne. Elle n’oublie pourtant pas la dimension militaire de la question spatiale. Je dois ici rappeler de quelle façon Berlin a déchiré les accords de Schwerin de 2002, qui prévoyaient le partage des compétences dans le domaine des satellites d’observation, et donc une dépendance mutuellement consentie entre la France et l’Allemagne : la France développerait la filière des satellites optiques tandis que l’Allemagne développerait celle des satellites radars. En 2017, pourtant, l’Allemagne a choisi de commander deux satellites optiques à son industriel OHB pour 400 millions d’euros. Adieu la complémentarité entre les deux nations ! Pendant des années, la France avait été incitée à sous-investir dans le domaine électromagnétique, et il fallait désormais remonter la pente ! Comment nos dirigeants peuvent-ils encore prétendre faire confiance à leurs homologues allemands ?<br/>Face à cela, le Gouvernement est incapable de proposer un horizon différent pour une politique spatiale qui serait un facteur de progrès, de paix et de développement conforme à l’intérêt national et à l’intérêt général humain. Il reste enfermé dans des idées déjà périmées, fasciné par une vision erronée des réussites du <italique>New Space</italique>. Le CNES, instrument décisif de planification de la politique spatiale nationale, a été si gravement affaibli ces dernières années que le voilà ravalé au rang de simple opérateur parmi d’autres. Au lieu d’un État stratège de l’espace, le Gouvernement préfère continuer d’appliquer les méthodes ordinaires et inefficaces du libéralisme : privatisation et mise en concurrence.<br/>Rien d’étonnant, me direz-vous, à ce que la start-up nation s’emballe pour le spatial, le considère comme un marché juteux et ne tienne la science pour rien d’autre que le supplément d’âme d’une industrie très lucrative. Le fait est pourtant bien établi que ça ne peut pas marcher comme ça : le mythe de l’initiative privée couronnée de succès dans le secteur spatial a fait long feu. Quiconque s’est penché une seconde sur le sujet sait bien que les prétendus capitaines d’industrie Elon Musk et Jeff Bezos, ainsi que leurs créatures SpaceX et Blue Origin, ne sont pas autre chose que des tiques gorgées d’argent public – les centaines de millions de dollars de contrats passés avec l’État américain !<br/>Imaginer jouer à armes égales sur un marché prétendument concurrentiel face à des adversaires de cette sorte, c’est sérieusement déraisonner ! D’autant plus que leur modèle économique n’est même pas entièrement profitable. Compte tenu des dégâts graves qu’ils infligent à l’environnement et de leur mépris à l’égard des règles de sécurité protégeant les populations survolées par leurs appareils, on peut déplorer la timidité de l’État français à contester devant les instances internationales compétentes la déloyauté de telles entreprises.<br/>De manière générale, le Gouvernement n’a pas une seule fois cherché à peser sur la scène internationale en faveur d’un renouveau de la régulation des activités spatiales. Il a fait preuve d’un attentisme et d’un suivisme stupéfiants ! Sans vision ni ambition, il s’est refusé à racheter la constellation OneWeb alors qu’Airbus en possédait déjà l’essentiel ; il a même été incapable de la faire racheter par l’Union européenne ! Ce gâchis est incroyable. Les Britanniques, eux, n’ont pas commis l’erreur de laisser passer l’occasion : associés à un groupe indien, ils se sont emparés du fleuron. L’investissement était si judicieux qu’en un an, sa valeur avait tout bonnement doublé. Au lieu de quoi, la Commission européenne se réveille avec deux ans de retard et commande, en janvier 2021, une étude de faisabilité pour peut-être, un jour, disposer de sa propre constellation ! Étant donné la saturation de l’orbite basse, il n’est même pas absurde d’imaginer qu’une telle constellation arriverait trop tard.<br/>Que dire enfin du suivisme français dans le domaine militaire ? La France doit savoir tout faire et se prémunir contre toutes sortes d’agressions ; c’est une évidence. Pourtant, la mise en vedette de la menace chinoise et de la menace russe ne peut satisfaire aucun esprit raisonnable. Pourquoi ne rien dire des activités états-uniennes dans ce domaine, ou encore des activités indiennes ? L’Inde revendique en effet d’avoir réussi, le 27 mars 2019, à faire exploser un satellite situé à 300 kilomètres de la Terre. Curieux partenaire stratégique de la France que ce pays qui commet le même genre de démonstrations de force que la Chine !<br/>Quoi qu’il en soit, le Gouvernement a choisi son récit : gentils Américains, méchants Russes et Chinois. Et pour complaire aux gentils, rien de mieux que de les imiter ! Ainsi, en juillet 2019, Emmanuel Macron annonçait la création, sur le modèle états-unien, d’un commandement militaire de l’espace à Toulouse. Et comme la mesure n’était pas pleine, il a fallu annoncer en février 2021 qu’il aurait pour voisin, à Toulouse donc, le centre d’excellence spatiale de l’OTAN ! Est-ce ainsi que la France considère œuvrer contre la militarisation de l’espace ? En accueillant sur son sol un centre spatial d’une alliance militaire ? Il ne suffira pas de nous expliquer que les opérations militaires de l’OTAN et de ses membres bénéficient de nos renseignements et communications spatiales, car c’était le cas bien avant l’installation de ce centre d’excellence ! Quant à installer à Toulouse une myriade d’officiers de l’OTAN, donc états-uniens, c’est faire entrer le loup dans la bergerie : le renseignement américain a espionné jusqu’à Angela Merkel et a fourni des armes pour organiser le rachat d’Alstom, mais on est prié de croire qu’il ne bougera pas un petit doigt à Toulouse ? Ce serait touchant si ce n’était grave. <italique>(Mme Caroline Fiat applaudit.)</italique><br/>Pour conclure, j’esquisserai brièvement le genre de projet spatial digne de la France. Il implique d’abord de retrouver des marges de manœuvre et de ne plus sacrifier aux vieilles lunes de l’Europe allemande. Autour d’un Centre national d’études spatiales restauré et conforté dans son rôle de planificateur, cette stratégie placerait la science et l’intérêt général humain au cœur de ses préoccupations. Elle s’appuierait sur des partenariats avec toutes les puissances spatiales de premier rang, mais elle ferait aussi une grande place aux puissances spatiales en devenir, désormais présentes sur tous les continents, y compris l’Afrique. Fidèle à l’idéal universel de la France, cette stratégie viserait à mettre l’excellence française au service du plus grand nombre et refuserait qu’au banquet de l’espace, quelques-uns aient tout et d’autres n’aient rien.<br/>Accéder à l’espace, c’est offrir des services en matière de transports, de navigation, de suivi du réchauffement climatique, de cartographie, d’océanographie, de démographie et même d’archéologie, de suivi des épidémies, d’évolution des populations animales et des milieux naturels menacés. Il est inimaginable que face à la catastrophe écologique qui touche l’humanité entière, quelques-uns se réservent l’usage de l’espace pour leur petit confort tandis que des millions d’autres pâtiraient.<br/>Une stratégie spatiale souveraine sera un instrument diplomatique au service de notre indépendance. Elle contribuera de façon décisive à la promotion d’une francophonie politique, ambitieuse et égalitaire, comme Jean-Luc Mélenchon l’a évoqué <italique>(« Ah ! » sur quelques bancs du groupe LaREM) </italique>devant les étudiants de l’université de Ouagadougou en juillet dernier, en proposant la création d’une université francophone de l’espace. La stratégie spatiale de la France doit promouvoir le discernement dans les usages de l’espace et réaffirmer le caractère inappropriable des ressources spatiales. L’épopée humaine nous dicte de regarder vers l’espace. Il n’y a aucune raison d’y porter un regard inquiet ni de se glacer à l’idée du silence éternel de ces espaces infinis. Au contraire, l’espace est déjà peuplé : il est peuplé d’humains, d’idées et de rêves. L’espace nous invite à renouer avec la grandeur ; nous ne devons pas nous satisfaire de ce condensé de bureaucratie. <italique>(Mme Caroline Fiat applaudit.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941788" ordre_absolu_seance="77" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610105" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941789" ordre_absolu_seance="78" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610106" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <acteurRef>PA703535</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Puisque les relations franco-allemandes dans le domaine spatial ont été évoquées, je dirai deux mots pour tordre le cou à une présentation peu nuancée, c’est le moins qu’on puisse dire,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941790" ordre_absolu_seance="79" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610107" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Façon de parler…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941791" ordre_absolu_seance="80" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610108" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <acteurRef>PA703535</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…même si cela se comprend à quelques mois d’échéances importantes pour le pays, et alors qu’il semble que M. Mélenchon ait prévu de se rendre prochainement en Guyane. Cela n’autorise pas tout et il convient de rappeler plusieurs éléments objectifs.<br/>L’accord conclu avec l’Allemagne est important. Vous le savez, l’Allemagne a également lancé des initiatives nationales indépendantes…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941793" ordre_absolu_seance="82" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610110" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Surtout indépendantes !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941794" ordre_absolu_seance="83" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610111" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <acteurRef>PA703535</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…en faveur du développement de solutions de microlanceurs. Par conséquent, il était crucial d’encadrer ces développements pour ne pas mettre à mal Ariane 6. Précisément, l’accord qui a été atteint est équilibré et sécurise le futur d’Ariane 6, puisqu’il fixe la cadence de lancement à sept Ariane 6 par an, soit un socle solide. Ce rythme de lancement permettra de pérenniser les emplois sur le site de Vernon et de sécuriser ArianeGroup ainsi que les chaînes de sous-traitance et de fournisseurs ; c’est capital.<br/>J’ajoute qu’aux termes de l’accord, la France et l’Allemagne s’engagent à utiliser Ariane 6 pour leurs lancements institutionnels et invitent les pays européens à faire de même sur la base d’un prix de lancement harmonisé.<br/>Vous évoquez, monsieur Lachaud, le transfert des activités d’assemblage, d’intégration et d’essai du moteur en Allemagne, mais vous oubliez les logiques industrielles, notamment l’intégration de l’étage supérieur et du moteur, assemblé en Allemagne, en cohérence avec la nouvelle répartition des moteurs à l’échelle européenne : la classe des moteurs de 100 tonnes de poussée revient à Vernon, tandis que celle des moteurs de 10 tonnes de poussée revient à Lampoldshausen, bourgade dont vous avez rappelé l’existence. Vous omettez également de préciser que la France a obtenu la fabrication des turbopompes à oxygène, qui devaient être produites en Italie pour être transférées en Allemagne.<br/>Mieux vaut donc disposer de tous les éléments pour constater qu’un équilibre a été atteint. Au reste, le site de Vernon tourne désormais son avenir vers le développement des nouveaux systèmes réutilisables de propulsion, notamment Prometheus. Il convenait de remettre les choses à leur place. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Maud Gatel (Dem)" id_acteur="PA721760" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM779695">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941798" ordre_absolu_seance="87" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610115" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans les explications de vote, la parole est à Mme Maud Gatel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941799" ordre_absolu_seance="88" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610116" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel (Dem)</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous partageons pleinement l’ambition de renforcer la souveraineté européenne et française en matière spatiale. C’est la raison pour laquelle je ne suis pas complètement le raisonnement de M. Lachaud. Nous aurions certes préféré que l’accord soit plus contraignant, comme l’a indiqué le président de la commission, Jean-Louis Bourlanges, mais il ne faut pas pour autant se contenter de regarder passer les trains – ou, en l’occurrence, lancer les satellites – sans réagir. La question de la souveraineté en matière de défense et de données nous impose de moderniser le cadre tel qu’il nous est proposé dans la déclaration de 2017. Nous ne pouvons pas rester les bras croisés face à l’apparition de nouveaux acteurs, étatiques ou capitalistes. À l’évidence, il nous faut avoir le débat ce soir et, dès lors, nous voterons contre la motion de rejet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941801" ordre_absolu_seance="89" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610118" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le bon sens a parlé !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olga Givernet (LaREM)" id_acteur="PA718674" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722420">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941802" ordre_absolu_seance="90" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610119" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Olga Givernet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941803" ordre_absolu_seance="91" id_acteur="PA718674" id_mandat="PM722420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610120" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olga Givernet (LaREM)</nom>
+              <acteurRef>PA718674</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La motion de rejet préalable déposée par le groupe La France insoumise vise à rejeter l’examen du projet de loi autorisant l’approbation de la déclaration relative à la phase d’exploitation des lanceurs Ariane, Vega et Soyouz au centre spatial guyanais. Le groupe La République en marche souhaite rappeler qu’il s’agit d’un engagement fort de la communauté spatiale européenne. Les gouvernements de dix-huit États membres de l’Agence spatiale européenne se sont accordés sur son texte le 4 décembre 2017 ; nous pouvons nous en féliciter. Cette déclaration ne saurait attendre plus longtemps l’approbation de la France.<br/>Elle confère aux deux maîtres d’œuvre industriels que sont le Français ArianeGroup et l’Italien Avio des responsabilités accrues lors de la phase d’exploitation des lanceurs. C’est la principale nouveauté de cette déclaration par rapport à la précédente. L’accord prend ainsi acte de la montée en puissance des maîtres d’œuvre industriels dans l’exploitation des futurs lanceurs européens.<br/>Aussi ce projet de loi concrétise-t-il la souveraineté spatiale européenne à laquelle nous sommes très attachés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941805" ordre_absolu_seance="94" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610765" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <acteurRef>PA720846</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et la souveraineté de la France ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941805" ordre_absolu_seance="95" id_acteur="PA718674" id_mandat="PM722420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610764" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olga Givernet</nom>
+              <acteurRef>PA718674</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous noterez que la déclaration prévoit un principe de préférence d’utilisation des lanceurs européens par les parties.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941805" ordre_absolu_seance="96" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610767" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <acteurRef>PA720846</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La préférence, tout est là !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941805" ordre_absolu_seance="97" id_acteur="PA718674" id_mandat="PM722420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610766" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olga Givernet</nom>
+              <acteurRef>PA718674</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le texte les invite à tenir compte de l’existence de ces lanceurs, tant dans leurs programmes nationaux que dans les programmes européens et les autres programmes internationaux auxquels ils participent.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941805" ordre_absolu_seance="98" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610769" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <acteurRef>PA720846</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’Allemagne contracte avec d’autres !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941805" ordre_absolu_seance="99" id_acteur="PA718674" id_mandat="PM722420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610768" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olga Givernet</nom>
+              <acteurRef>PA718674</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Là encore, c’est un objectif que nous partageons tous.<br/>Le groupe La France insoumise souhaite écarter l’examen de ce projet de loi au prétexte qu’il serait contraire à certaines dispositions constitutionnelles. Nous croyons au contraire que l’adoption de cette motion serait un mauvais coup porté à l’Europe de l’espace, mais aussi à la Guyane, particulièrement éprouvée par la crise sanitaire. À cet égard, l’excellent rapport de notre collègue Lénaïck Adam souligne le rôle structurant du centre spatial dans le développement économique de la Guyane. Pour toutes ces raisons, le groupe La République en marche votera contre cette motion de rejet. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq (GDR)" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723506">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941807" ordre_absolu_seance="101" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610124" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1941808" ordre_absolu_seance="102" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610125" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq (GDR)</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je commencerai par remercier le groupe La France insoumise qui a dégainé le premier ; nous ne pouvions pas être plusieurs à demander que le débat ait lieu dans l’hémicycle mais il aurait eu lieu quoi qu’il en soit, tant il nous paraissait évident que la question spatiale devait faire l’objet, au cours de la législature, d’un débat ici même. Et pour cause : les enjeux sont considérables.<br/>Au sein de la commission des affaires étrangères, Pierre Cabaré et moi-même sommes rapporteurs d’une mission d’information consacrée à la diplomatie de l’espace : nous avons entre autres auditionné un représentant de l’Agence spatiale canadienne, je crois. Il nous a expliqué qu’au Canada, l’engagement financier public en la matière donnait lieu à un débat avec la population, afin de savoir combien celle-ci consentait à mettre au pot pour que ce Far West n’en demeure pas un. Tel est d’ailleurs l’objet de notre mission, dont le rapport, malheureusement, ne sera présenté qu’en commission et non soumis au débat public. Il est donc évident que la discussion de ce soir était nécessaire. <italique>(M. Bastien Lachaud acquiesce.) </italique><br/>Notre groupe adhère à une grande partie des propos de notre collègue Lachaud. Toutefois, il n’a pas été établi qu’une entreprise privée, quelle qu’elle soit, puisse développer une activité spatiale sans un concours financier considérable de son État. Nous n’en sommes donc pas encore au point où l’initiative privée s’emparerait du domaine spatial pour y faire de l’argent ; à ce jour, elle a besoin de fonds publics importants. J’apprécie cette motion de rejet préalable, parce qu’elle permet le débat, parce qu’elle a offert à Bastien Lachaud l’occasion de fournir des arguments, de montrer la question sous toutes ses faces : il fallait que cela soit fait. Cependant, concernant l’objet précis de notre discussion actuelle, je suis au regret de dire que je ne la soutiendrai pas. <italique>(M. le président de la commission applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christian Hutin (SOC)" id_acteur="PA333818" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722990">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941911" ordre_absolu_seance="105" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610311" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christian Hutin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941912" ordre_absolu_seance="106" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610312" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin (SOC)</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci à M. Lachaud d’avoir remis la fusée au cœur du village. J’en suis navré, mais la plupart des choses qu’il a dites – un peu trop vite – étaient bel et bien fondées. <italique>(Mme Caroline Fiat approuve.)</italique> Par ailleurs, je souscris totalement aux propos de mon ami Jean-Paul Lecoq. Ce n’est pas le pays des merveilles, il faut commencer à réfléchir, à discuter ! Nous baignons dans un commercialisme, dans un libéralisme, dans un capitalisme de l’espace qui devient de la folie pure ! On peut nous raconter tout ce qu’on veut, mais nos amis ne méritent plus vraiment ce nom. Nous ne savons plus vraiment où nous en sommes. Nous nous trouvons dans une situation très complexe. Mais l’industrie spatiale est essentielle à la Guyane, qui en tire 20 % de son produit national brut (PNB) ; j’ai longuement évoqué ce sujet avec Christiane Taubira, que je connais bien. C’est uniquement pour cette dernière raison, cher collègue, bien que je comprenne entièrement vos arguments et en partage beaucoup, que je ne voterai pas en faveur de la motion.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Marie Sermier (LR)" id_acteur="PA267204" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722794">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941913" ordre_absolu_seance="107" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610313" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Marie Sermier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941914" ordre_absolu_seance="108" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610314" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier (LR)</nom>
+              <acteurRef>PA267204</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’Union européenne a évidemment besoin d’une politique spatiale cohérente, rénovée, forte, à laquelle contribuent ses principaux États membres. Je regrette d’ailleurs que l’Allemagne se trouve un peu à la traîne dans cette opération. Je le répète, l’Europe a besoin d’une telle solidarité ; la France également. Réciproquement, l’espace a besoin de l’Union européenne : ainsi que l’ont rappelé les uns et les autres, il ne peut se passer de stabilité, d’intérêt général, d’une voix historique qui porte dans le concert des nations.<br/>Même si les propos de notre collègue Lachaud ne manquaient ni d’intérêt ni de précision, nous souhaitons et nous devons pouvoir débattre à ce sujet, pour l’Europe, pour l’espace, pour la Guyane – car aujourd’hui plus que jamais, nous pouvons nous féliciter qu’en son temps, le général de Gaulle ait pris la décision de situer notre centre spatial à Kourou. Notre position doit être claire : pour cela, encore une fois, il nous faut débattre. C’est pourquoi nous ne voterons pas pour la motion de rejet préalable.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Benoit Simian (LT)" id_acteur="PA719592" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722706">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941916" ordre_absolu_seance="110" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610316" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Benoit Simian.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941917" ordre_absolu_seance="111" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610317" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian (LT)</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Libertés et territoires ne soutiendra pas cette motion de La France insoumise, d’autant que M. le secrétaire d’État vient de nous confirmer que le transfert de production des sites français vers les sites allemands, à la suite de l’accord entre les deux États, sera entièrement compensé en termes de charges.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941918" ordre_absolu_seance="112" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610318" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’espère que vous y croyez !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941919" ordre_absolu_seance="113" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610319" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a cité le projet portant sur les turbopompes ; on pourrait aussi bien évoquer ceux qui ont trait à l’hydrogène, par exemple. Naturellement, nous nous opposons à la motion de rejet préalable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941920" ordre_absolu_seance="114" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610320" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et que dire des 600 types au chômage ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941921" ordre_absolu_seance="115" code_grammaire="REJET_MOTION_1_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2610321" valeur="" decision="REJET motion de rejet préalable (main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(La motion de rejet préalable, mise aux voix, n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941922" ordre_absolu_seance="116" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2610322" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941923" ordre_absolu_seance="117" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610323" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Dans la discussion générale, la parole est à M. Christian Hutin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941924" ordre_absolu_seance="118" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2610324" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>M. le président m’informe que je dispose de cinq minutes : c’est court. Je voudrais donc employer la première minute à rappeler que, sans ses territoires ultramarins, la France de notre temps ne serait pas aussi puissante qu’elle l’est. Ils sont une richesse énorme, la richesse de la France du XXI<exposant>e</exposant> siècle. Elle leur doit son rang de troisième puissance maritime au monde, ses terres rares, et j’en passe. Lorsqu’on a décidé un jour de faire décoller des fusées spatiales de Kourou, c’est tout bonnement parce que nous disposions de Kourou ! La France du XXI<exposant>e</exposant> siècle est la France des outre-mer : je le crois profondément. Peut-être ne se trouvera-t-il personne d’autre pour le rappeler ce soir : il importait d’autant plus que je le fasse.<br/>Deuxièmement, il faut reconnaître que nous ne nous attendions pas du tout à faire face à une telle concurrence. Tout marchait bien, Ariane était magnifique et nous étions les meilleurs du monde, quand ont débarqué des milliardaires excentriques, des Jeff Business, des Charles Bronson,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941926" ordre_absolu_seance="120" id_acteur="PA721036" id_mandat="PM723148" id_nomination_oe="-1" id_nomination_op="-2892592" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610326" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Lénaïck Adam</nom>
+            <acteurRef>PA721036</acteurRef>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Jeff Bezos et Richard Branson !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941927" ordre_absolu_seance="121" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610327" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…qui ont décidé un beau jour qu’il ne devait pas être plus difficile de voyager dans l’espace que de prendre un ticket pour une attraction à la foire. Je rappelle que certaines personnes ont aujourd’hui du mal à payer leur facture d’électricité. C’est lamentable ! Pour affronter ces concurrents, nous avons Soyouz, Vega et Ariane. Soyouz, ce sont les Russes. Qu’est-ce que nous avons été bêtes de les ennuyer, comme nous le faisons encore, avec un tas de considérations économiques ! Entre les 58 milliards d’euros que nous ont piqués les États-Unis dans cette affaire de sous-marins destinés à l’Australie, et tout ce qu’a pu nous faire la Russie ces derniers temps, je tiens à souligner qu’il existe une légère différence ! Il n’y a pas un Français assis au fond d’un café, à jouer au PMU, pour ne pas penser qu’on se moque du monde en importunant les Russes, qui confient leur lanceur à Kourou, alors que nous faisons risette aux Américains qui nous ont fauché 58 milliards ! En dehors de Soyouz, il nous reste Vega – nos amis italiens. C’est tout. Monsieur le secrétaire d’État, je suis désolé d’avoir à vous le dire, mais M. Lachaud avait raison.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941928" ordre_absolu_seance="122" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610328" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Fiat</nom>
+            <acteurRef>PA720286</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ah !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941929" ordre_absolu_seance="123" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610329" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ce qui se passe en Allemagne est une honte absolue ! <italique>(M. Bastien Lachaud applaudit.)</italique> Vous pouvez me jouer du violon, me raconter tout ce que vous voulez à propos d’un troisième ou même d’un quatrième étage, il n’en reste pas moins que des gens qui font partie du programme Ariane ont décidé de créer un site près de Rostock – je ne vous rappellerai pas l’Histoire et ce serait honteux de le faire. Mais on pourrait parler de Wernher von Braun. Encore une fois, c’est lamentable : des Européens sont en train de nous trahir. Les Allemands devraient venir avec nous à Kourou !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941930" ordre_absolu_seance="124" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610330" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <acteurRef>PA720846</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est évident !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941931" ordre_absolu_seance="125" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610331" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ce serait bien la moindre des choses !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941932" ordre_absolu_seance="126" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610332" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <acteurRef>PA720846</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Il parle juste !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941933" ordre_absolu_seance="127" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610333" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je le répète : quoi que l’on puisse raconter, nous avons deux amis à l’heure où je vous parle, la Russie de Soyouz et l’Italie de Vega. Aujourd’hui, les Allemands ne sont pas nos amis ! <italique>(Applaudissements sur les bancs du groupe FI.)</italique> Au niveau européen, nous pouvons y aller gaiement !<br/>Troisièmement, enfin…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941935" ordre_absolu_seance="129" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610335" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Allez-y, monsieur Hutin : il vous reste quarante-cinq secondes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941936" ordre_absolu_seance="130" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610336" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Vous êtes adorable, monsieur le président.<br/>Durant plusieurs années, j’ai été président d’Atmo France, la fédération des associations agréées de surveillance de la qualité de l’air (AASQA). Je peux vous dire que, pour un chevènementiste, ce n’était pas porteur. Toujours est-il, monsieur le rapporteur, qu’il existe chez vous une AASQA – Atmo Guyane, je pense, sur le modèle d’Atmo Hauts-de-France ou d’Airparif.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941938" ordre_absolu_seance="132" id_acteur="PA721036" id_mandat="PM753260" id_nomination_oe="-1" id_nomination_op="-1506520" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610338" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Lénaïck Adam</nom>
+            <acteurRef>PA721036</acteurRef>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>C’est cela, Atmo Guyane.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941939" ordre_absolu_seance="133" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610339" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Aucun lancement ne pouvant avoir lieu sans conséquences, je compte sur vous et sur M. le secrétaire d’État pour donner à Atmo Guyane les moyens de surveiller la qualité de l’air dans le voisinage immédiat des installations.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941940" ordre_absolu_seance="134" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610340" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Il faut conclure, cher collègue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941941" ordre_absolu_seance="135" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610341" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <acteurRef>PA333818</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’aime l’industrie, mais je suis médecin : il convient de prendre garde à la santé publique. Peut-être l’État pourrait-il faire quelque chose sur ce point. <italique>(Applaudissements sur les bancs des groupes FI et GDR. – M. le rapporteur applaudit également.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Thomas Gassilloud" id_acteur="PA722358" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723552">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941942" ordre_absolu_seance="136" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610342" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thomas Gassilloud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941943" ordre_absolu_seance="137" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Gassilloud</nom>
+              <acteurRef>PA722358</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes réunis ce soir afin de débattre du projet de loi autorisant l’approbation de la déclaration relative à la phase d’exploitation des lanceurs Ariane, Vega et Soyouz au Centre spatial guyanais. Des projets de loi de ratification, nous en examinons tant chaque année que, par habitude, voire par lassitude, nous pourrions être tentés de les croire insignifiants. Or ce serait une erreur de sous-estimer ce texte.<br/>Tout d’abord, cet accord constitue la preuve que, lorsque les Européens ont la volonté d’agir en puissance géopolitique, l’Europe en devient effectivement une. Du succès de Galileo, qui a récemment franchi le cap du billiard d’utilisateurs, à la constellation de satellites d’observation de la Terre baptisée Copernicus, qui nous confère une capacité européenne autonome de surveillance pour l’environnement et la sécurité, en passant par la fusée Ariane, le domaine de l’exploration spatiale illustre bien le fait que nous pouvons réussir lorsque nous nous engageons ensemble dans des projets audacieux. Grâce à l’Agence spatiale européenne, notre continent est parvenu à occuper une place centrale dans cette industrie du futur. Résolument européen, le groupe Agir ensemble salue cette volonté de forger notre autonomie stratégique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941945" ordre_absolu_seance="139" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610345" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec les Allemands !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1941946" ordre_absolu_seance="140" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610346" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Gassilloud</nom>
+              <acteurRef>PA722358</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis 1975, l’ASE s’est imposée comme un acteur essentiel de la recherche spatiale, à des fins uniquement pacifiques. Bien qu’elle coopère étroitement avec l’Union européenne, son indépendance juridique lui garantit un modèle d’organisation qui a prouvé son efficacité. La France, premier contributeur aux ressources de l’ASE, joue un rôle clé dans ce système : nous fournissons ainsi plus de 3 milliards d’euros pour le développement du lanceur Ariane. De même, depuis 1980, le cadre juridique d’exploitation de l’ASE s’appuie en grande partie sur Arianespace, société de droit français spécialement créée par le Centre national d’études spatiales.<br/>Surtout, les lanceurs européens sont exploités depuis le territoire français dans le Centre spatial guyanais de Kourou, dont notre collègue Lénaïck Adam a souligné les retombées locales. En 2018, il m’a d’ailleurs été donné la chance de visiter le site de Kourou et d’en évaluer l’impact. En Guyane, 440 entreprises et 4 600 emplois sont liés au Centre spatial, ce qui représente 15 % du PIB du territoire. Il s’agit donc pour la France d’assumer son rôle moteur dans la coopération spatiale européenne et de puissance ambitieuse pour le développement des technologies de demain. Il faut donner de l’espoir à tous les futurs Thomas Pesquet en leur montrant que nous faisons ce qu’il faut pour qu’un jour ils puissent réaliser leurs rêves.<br/>Par ailleurs, si elle est indispensable à long terme, l’exploration spatiale peut nous apporter beaucoup dès aujourd’hui. Au-delà de l’emploi, la recherche spatiale est à l’origine d’avancées scientifiques déterminantes. D’un bras robotique pour réaliser des chirurgies du cerveau à un traitement contre l’ostéoporose, en passant par un système d’échographie à distance ou encore une technologie portable de traitement de l’eau, nous innovons pour aller dans l’espace, nous innovons dans l’espace et nous innovons pour sauver des vies sur Terre.<br/>En outre, maintenir la coopération spatiale européenne…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941812" ordre_absolu_seance="144" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610350" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec les Allemands !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941813" ordre_absolu_seance="145" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610351" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Gassilloud</nom>
+              <acteurRef>PA722358</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…à un pas de course sera un enjeu clé de souveraineté vis-à-vis des grandes puissances. À l’heure où les États-Unis accélèrent leurs lancements grâce à des sociétés privées telles que SpaceX et où la Chine est en train de construire sa propre station spatiale, nous ne pouvons pas nous permettre de rester sur le bord du chemin. Les dernières actualités afghanes et australiennes nous l’ont montré : il serait vain de nous reposer sur d’autres dans cette entreprise. Au contraire, nous devons développer notre autonomie, et l’accord visé par le présent projet de loi donne pour cela les outils nécessaires à l’ASE en régissant la fabrication, l’intégration, les opérations de lancement et les activités de commercialisation des lanceurs. Le texte de la déclaration garantit ainsi à l’Europe un accès fiable et disponible à l’espace, notamment en ce que les parties s’engagent à contribuer au financement du Centre spatial guyanais afin de le maintenir, à chaque instant, en conditions opérationnelles.<br/>Pour toutes ces raisons, le groupe Agir ensemble soutiendra ce texte qui permettra de sécuriser et d’accélérer nos avancées technologiques. Surtout, en adoptant le projet de loi à une large majorité, nous enverrons un signal clair au monde : l’Europe est là, l’Europe innove, l’Europe est ambitieuse et elle peut être le fer de lance de la recherche spatiale. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941815" ordre_absolu_seance="147" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610353" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec les Allemands !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Yannick Favennec-Bécot" id_acteur="PA267042" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722910">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941816" ordre_absolu_seance="148" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610354" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Yannick Favennec-Bécot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941817" ordre_absolu_seance="149" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610355" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec-Bécot</nom>
+              <acteurRef>PA267042</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’accord intergouvernemental entre les dix-huit États membres de l’Agence spatiale européenne, conclu le 4 décembre 2017, a défini les responsabilités et les obligations liées à l’exploitation des nouveaux lanceurs développés par l’Agence spatiale européenne et du lanceur Soyouz, exploité par le Centre spatial guyanais. Une coopération de longue date entre les États membres de l’ASE a permis à l’Europe de s’affirmer comme une puissance majeure dans le domaine de l’accès à l’espace. Les différentes versions d’Ariane se sont imposées comme les lanceurs les plus compétitifs sur le marché mondial et l’arrivée de Vega et de Soyouz a permis d’accroître la flexibilité de l’offre européenne de services de lancement.<br/>La dévolution aux deux maîtres d’œuvre industriels, le français ArianeGroup et l’italien Avio, de responsabilités accrues lors de la phase d’exploitation des lanceurs, constitue la principale évolution de la présente déclaration par rapport à la version précédemment en vigueur. L’accord prend ainsi acte de la montée en puissance des maîtres d’œuvre industriels dans l’exploitation des futurs lanceurs européens en pérennisant leurs financements et en donnant un cadre juridique rénové aux étapes d’exploitation des nouveaux lanceurs Ariane, Vega et Soyouz.<br/>D’ailleurs, le texte de la déclaration prévoit aussi un principe de préférence d’utilisation des lanceurs européens par les parties, invitant celles-ci à tenir compte de l’existence de ces lanceurs lors de la définition et de l’exécution de leurs programmes nationaux ainsi que des programmes européens et internationaux auxquels elles participent. Nous regrettons néanmoins que le principe de préférence ne soit pas contraignant. <italique>(M. le président de la commission des affaires étrangères et M. Christian Hutin applaudissent.)</italique> L’Union européenne se doit de défendre ardemment notre souveraineté industrielle. Au-delà des dispositions techniques,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941820" ordre_absolu_seance="152" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610358" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pas techniques, politiques !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941821" ordre_absolu_seance="153" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610359" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec-Bécot</nom>
+              <acteurRef>PA267042</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…le groupe UDI et indépendants salue cet accord qui vise à renforcer la compétitivité des lanceurs européens et donc du Centre spatial guyanais.<br/>D’une part, comme cela a été dit en commission des affaires étrangères, l’espace est un domaine particulièrement stratégique pour notre défense, notre sécurité et notre recherche fondamentale. Le rapporteur l’a très justement rappelé : les activités spatiales ont également un effet de levier sur des secteurs économiques variés, notamment grâce à l’exploitation des données spatiales. En effet, de nombreuses technologies civiles et militaires dépendent des satellites. En ce sens, il demeure essentiel de favoriser la construction d’une autonomie stratégique de l’Union européenne, alors que la concurrence internationale s’accroît avec l’arrivée sur le marché des sociétés privées américaines – je pense bien sûr à celles de Jeff Bezos, d’Elon Musk ou de Richard Branson – mais aussi d’États comme la Chine et peut-être l’Inde bientôt. Je suis convaincu que l’industrie spatiale européenne peut encore accroître sa compétitivité : par exemple, elle ne dispose pas d’une technologie de lanceur réutilisable telle que celle de SpaceX. Il est donc fondamental que l’Europe continue d’occuper une place de premier plan sur le marché mondial.<br/>D’autre part, le Centre spatial guyanais joue un rôle majeur pour le développement économique de la Guyane et <italique>a fortiori</italique> pour le rayonnement de la France. Son activité génère 15 % du PIB du territoire guyanais. Environ 450 entreprises et 4 600 emplois sont liés au domaine spatial – ce qui, reconnaissons-le mes chers collègues, est considérable. Le Centre spatial est donc un acteur majeur du tourisme guyanais.<br/>Le présent accord marque une nouvelle étape importante dans l’exploitation des lanceurs Ariane, Soyouz et Vega. Son approbation permettra, je l’espère, d’accroître encore notre rayonnement dans le domaine spatial. Pour toutes ces raisons, le groupe UDI et indépendants votera ce texte. <italique>(M. le président de la commission des affaires étrangères applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bastien Lachaud" id_acteur="PA720846" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723094">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941825" ordre_absolu_seance="157" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610363" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bastien Lachaud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941826" ordre_absolu_seance="158" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610364" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <acteurRef>PA720846</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce texte entérine un partage des tâches entre toutes les parties intéressées au maintien et au développement d’un lanceur européen. En tant que tel, nous ne pouvons y être opposés. Mais il est absurde de séparer cette question du reste de la politique spatiale de la France. Elle en est la pierre angulaire et, à ce titre, l’approuver reviendrait à approuver l’ensemble de la politique.<br/>Or il ne saurait en être question. La politique spatiale décidée par le Gouvernement ces dernières années est empreinte de suivisme, de naïveté et d’idéologie. Elle ne permet pas de faire face aux grands défis auxquels l’humanité est confrontée. L’espace est une nouvelle frontière et, si nous ne travaillons pas à en rendre l’exploration utile à toute l’humanité, nous y reproduirons les désastres que le capitalisme a semés sur terre : la guerre et la pollution. La course folle au profit a déjà ses emblèmes en la personne des trois milliardaires qui règlent leur rivalité à coups de fusées.<br/>Mais que font les États ? La France en tout cas laisse filer. Les États-Unis, eux, poussent leurs pions, convaincus qu’un mégalomane étasunien, c’est déjà une victoire pour eux. Ils observent, avec les Musk et Bezos, l’adage que l’on prête à Roosevelt à propos du dictateur Somoza : « C’est un salaud, mais c’est notre salaud ! » D’ailleurs, les États-Unis font tout pour permettre la ruée vers l’espace. En 2015, à la fin de la présidence de Barack Obama, ils ont par exemple adopté une loi, le <italique>Space Act</italique>, portant sur les vols spatiaux commerciaux et autorisant l’appropriation et l’exploitation des éventuelles ressources minières trouvées dans l’espace.<br/>Face à cela, le Gouvernement n’a proposé aucune action diplomatique d’ampleur ; il n’a essayé de former aucune coalition pour protester contre cette décision unilatérale qui contrevient au traité de l’espace de 1967. Au contraire, le Gouvernement a cherché à noyer le poisson en mettant en scène d’autres menaces pour faire oublier la stratégie hégémonique des États-Unis. Il lui a paru plus confortable de livrer la Chine et la Russie à la détestation de l’opinion plutôt que d’assumer une position non alignée claire et ferme. Le comble fut d’accepter l’installation du centre d’excellence spatial de l’OTAN à Toulouse. Après cela, comment ne pas être considéré justement comme un auxiliaire servile de l’impérialisme américain ?<br/>Alors que l’affaire des sous-marins australiens a récemment fourni une preuve éclatante que Washington ne traite jamais d’égal à égal avec des alliés mais se borne à flatter ou à contraindre des vassaux, il est inconcevable que ce centre de l’OTAN puisse voir le jour sur le territoire national. Quelle meilleure preuve du suivisme de l’exécutif et de son inconséquence ? Avoir décidé la création d’un commandement militaire de l’espace à Toulouse, c’était déjà donner le signal que la France inscrivait ses pas dans ceux des États-Unis et, le cas échéant, ne saurait pas s’empêcher de dévaler la pente de la militarisation de l’espace. Inviter l’OTAN à prendre ses quartiers tout à côté, c’est manifester une naïveté et une imprudence confondantes devant le pays qui s’est fait une spécialité d’espionner ses amis comme ses ennemis. Quant à croire que nous n’en pâtirons pas un jour ou l’autre, et que nous saurons toujours nous en prémunir, ce serait manquer sérieusement de modestie.<br/>Pourtant, si le Gouvernement joue les fiers-à-bras lorsqu’il s’agit de défense et prétend conserver à la France une supériorité technique qui la protégerait de toute action hostile, il est infiniment moins visible lorsqu’il s’agit de protéger le savoir-faire industriel de notre pays. Aveuglé par un rêve de construction européenne auquel il sacrifie les intérêts français, il laisse l’Allemagne nous dépouiller avec patience et méthode.<br/>La réalité des intentions allemandes, que j’ai évoquées tout à l’heure dans le détail, ne peut être contestée. Explicitement formulées dans plusieurs livres blancs depuis 2010, elles se traduisent dans les faits puisque Berlin se donne incontestablement les moyens de ses ambitions. Aujourd’hui, l’Allemagne est le premier contributeur de l’Agence spatiale européenne. Elle en retire de nombreux avantages, orientant les crédits vers ses entreprises. Après avoir capté une partie essentielle des savoir-faire français, elle développe les siens et rejette puissamment le <italique>statu quo</italique> qui assurait à la France le premier rang dans le concert spatial mondial. Désormais, l’Allemagne compte bien avoir son mini-lanceur et l’utiliser depuis chez elle. À terme, elle compte même s’imposer sur le segment des lanceurs lourds et faire du Centre spatial guyanais un vestige de la puissance française.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941833" ordre_absolu_seance="165" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610371" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941834" ordre_absolu_seance="166" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <acteurRef>PA720846</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Déjà, Arianespace délocalise vers l’Allemagne la production du moteur Vinci, pièce maîtresse de la future Ariane 6. Que font les autorités françaises devant ces coups portés à notre position ? Elles bayent aux corneilles ! Elles se félicitent de voir l’Europe avancer quand, en réalité, c’est la France qui recule. Exactement de la même façon qu’il a été incapable de saisir l’opportunité OneWeb ou, au moins, de la faire saisir par l’Union européenne, le Gouvernement attend. Incapable de peser et de proposer une vision indépendante et originale, il est dépassé par les événements et, pour le faire oublier, il feint de les organiser. Il nous demande d’entériner cet état de fait. Impossible : nous nous abstiendrons. <italique>(Mme Caroline Fiat applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Benoit Simian" id_acteur="PA719592" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722706">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941835" ordre_absolu_seance="167" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610373" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Benoit Simian.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941836" ordre_absolu_seance="168" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610374" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À la suite de l’affaire des sous-marins, dans un contexte international où la diplomatie <italique>business</italique> prédomine, la France ne peut plus accepter d’être traitée comme un paillasson.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941837" ordre_absolu_seance="169" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610375" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941838" ordre_absolu_seance="170" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610376" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aussi le Centre spatial guyanais est-il plus que jamais vital car il nous permet d’être une puissance spatiale de premier plan et indépendante, en particulier des États-Unis. De plus en plus de technologies civiles et militaires dépendent de l’accès à l’espace : ne pas y être présent conduirait à un abandon de souveraineté considérable. Il est nécessaire que l’Europe maintienne sa position parmi les leaders du lancement dans le monde et se modernise pour faire face à la concurrence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941839" ordre_absolu_seance="171" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610377" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1941840" ordre_absolu_seance="172" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610378" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Proche de la ligne d’Équateur, ce qui facilite le lancement des satellites géostationnaires, de plus dans une zone qui n’est pas soumise au risque de cyclones tropicaux, la situation du site guyanais lui permet d’être un site de lancement idéal et à moindre coût. Les différentes versions d’Ariane, véritable fleuron de notre industrie française, se sont imposées au fil des décennies comme les lanceurs les plus compétitifs sur le marché mondial. Elles représentent, il faut le dire ici, la moitié des lancements de satellites.<br/>Le Centre spatial guyanais est évidemment très important pour la Guyane. Pourvoyeur d’emplois et d’attractivité, cela a été dit, il génère l’activité de 450 entreprises, qui représentent 4 600 emplois et 15 % du PIB local. Mais notre industrie spatiale est aussi vitale pour d’autres territoires, situés en métropole. Dans le département dont je suis élu, la Gironde, ArianeGroup compte plus de 3 500 emplois à Saint-Médard-en-Jalles et Le Haillan. C’est du port de Bordeaux, sur la commune de Parempuyre, que partiront les pièces détachées d’Ariane 6 à bord d’un navire hybride fonctionnant à la voile et au gaz.<br/>Il y a certes un bémol : le groupe vient d’annoncer il y a quelques jours la suppression de 600 postes d’ici à 2022, soit 8 % des effectifs totaux. Ces réductions suscitent des inquiétudes, susceptibles de s’amplifier si la situation d’ArianeGroup ne s’améliore pas. Les restructurations en son sein sont liées aux difficultés à faire face à la compétition internationale. La course à l’espace est relancée avec l’arrivée, aux côtés des acteurs étatiques traditionnels que sont les États-Unis, la Russie et la Chine, de nombreux acteurs privés qui concurrencent les lanceurs installés tels qu’Ariane : Jeff Bezos et Blue Origin, Richard Branson et Virgin, Elon Musk et SpaceX, société dont le modèle de lanceurs réutilisables a contribué à une diminution radicale des coûts d’accès à l’espace. ArianeGroup fait ainsi face à une concurrence accrue, voire féroce, et je tiens à saluer l’engagement des équipes qui ont inauguré hier le nouveau pas de tir à Kourou, aux côtés du ministre Sébastien Lecornu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941870" ordre_absolu_seance="175" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610385" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941871" ordre_absolu_seance="176" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610386" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour maintenir son rang et ne pas se laisser distancer dans la course à l’espace, il est primordial que l’Europe soit unie dans le domaine spatial. La déclaration établit un cadre juridique pour l’exploitation des lanceurs européens qu’il faut saluer et s’inscrit dans cette logique d’unité.<br/>À la suite du rapporteur Lénaïck Adam, nous regrettons toutefois le caractère peu contraignant du principe de préférence européenne pour les parties à la convention concernant le choix d’un lanceur. Nous saluons toutefois l’accord structurel récemment passé avec l’Allemagne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941873" ordre_absolu_seance="178" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610388" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941874" ordre_absolu_seance="179" id_acteur="PA719592" id_mandat="PM722706" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610389" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoit Simian</nom>
+              <acteurRef>PA719592</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il nous permettra de sanctuariser quatre vols institutionnels par an et d’affirmer la souveraineté européenne. Il était absurde que nous soyons une fois de plus la seule puissance mondiale à ne pas mettre en place un protectionnisme s’agissant d’un secteur aussi stratégique.<br/>Notre groupe s’est interrogé sur le transfert de la production du moteur Vinci destiné à occuper l’étage supérieur d’Ariane 6 du site de Vernon dans l’Eure vers l’Allemagne. Les représentants syndicaux s’inquiètent de ce qui pourrait être aussi un transfert de compétences. M. le secrétaire d’État nous a rassurés : ce transfert sera compensé par de nouvelles charges liées notamment à la production de turbopompes à l’hydrogène, ce qui m’a été confirmé par la direction du site girondin cet après-midi. Ce transfert depuis Vernon s’effectue dans le cadre du projet de production de lanceurs européens Ariane 6. En Allemagne, des industriels ont présenté le 6 septembre un projet devant démarrer en 2023, qui a pour but de transformer un navire en mer du Nord en site spatial pour microlanceurs. Nous espérons qu’il aura des retombées bénéfiques pour le site de Vernon et qu’aucune concurrence ne s’installera entre pays européens dans le domaine spatial.<br/>Le groupe Libertés et territoires votera ce projet de loi d’approbation. Toutefois, nous souhaitons insister sur le fait que, si nous voulons conserver dans nos territoires cette industrie stratégique pourvoyeuse d’emplois, il est vital que l’Europe développe un plan d’envergure pour l’espace. Ainsi la présente déclaration est à relier à la récente proposition de la Commission européenne de création d’une méga-constellation européenne à même de concurrencer le projet SpaceX, car tel est bien l’objectif que nous devons avoir en vue.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723506">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941878" ordre_absolu_seance="182" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610393" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941879" ordre_absolu_seance="183" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610394" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah, enfin un peu de vérité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941880" ordre_absolu_seance="184" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610395" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, l’espace est devenu en quelques années le lieu privilégié de l’expansion de l’économie du numérique, ce qui a permis à la moitié de la population mondiale d’accéder à internet à haut débit par satellite. Les entreprises qui portent ce projet sont extrêmement puissantes. Leur objectif est la maîtrise de toute la chaîne de données numériques depuis leur émission jusqu’à leur traitement. Ce rêve est devenu réalité depuis quelques années grâce à l’effondrement, d’une part, du prix du kilo envoyé en orbite, qui a été divisé par vingt, passant de 200 000 à 10 000 dollars, notamment grâce aux lanceurs réutilisables, et, d’autre part, du prix des satellites, divisé par cent, avec l’émergence de satellites de la taille d’une machine à laver, produits en grande série pour 300 000 dollars l’unité.<br/>Cette révolution n’est pas due à la main invisible du marché : elle est le fruit d’investissements publics colossaux et d’un engagement politique ferme. Les contribuables américains ont presque intégralement financé SpaceX et l’entreprise, à peine rentable encore aujourd’hui, ne doit sa survie actuelle qu’aux commandes publiques. Cette même entreprise mobilise d’ailleurs toutes ses ressources pour construire une infrastructure de 40 000 satellites destinée à couvrir le globe de son propre réseau internet. Pour cela, SpaceX envoie 120 satellites par mois en orbite tous les ans, soit plus que l’on ne l’a jamais fait entre 1974 et 2018.<br/>N’oublions pas que cette infrastructure est très fragile car l’espace est devenu une poubelle où gravitent à 28 000 kilomètres par heure plus de 100 millions d’objets, mesurant quelques millimètres à plusieurs mètres. Il faut donc pouvoir déplacer les satellites en cas de collision mais la surveillance est complexe. Or, en cas de choc, une réaction en chaîne – on l’a vu avec la destruction d’un satellite par l’Inde évoquée à l’instant par Bastien Lachaud – pourrait rendre inutilisable toute l’orbite basse pendant plusieurs décennies.<br/>Malgré ces risques évidents, il n’existe quasiment aucune coopération internationale pour mettre en place un aiguillage dans l’espace sur le modèle de l’aviation civile. Cette faiblesse de la coopération internationale en matière spatiale permet de comprendre l’obsession que Pierre Cabaré et moi-même nourrissons en tant que rapporteurs d’une mission d’information sur l’espace : comment faire pour que la diplomatie internationale prenne en compte ces dangers ? Comment coopérer à l’échelle internationale pour avancer ensemble et pour créer un espace de paix, démilitarisé ? Et quel rôle joue l’Europe ? Et la France, quel rôle a-t-elle joué, joue-t-elle ou devrait-elle jouer ? Je suis d’accord avec tous ceux qui estiment que notre pays n’est pas assez présent sur tous ces dossiers.<br/>Plusieurs éléments de réponses peuvent être avancés. Premièrement, la France est une puissance spatiale majeure et, en tant que telle, elle peut et elle doit peser de tout son poids sur la diplomatie spatiale européenne et internationale. Ce n’est que lorsqu’elle prendra le taureau par les cornes que l’Union européenne et l’Agence spatiale européenne avanceront. Comprendre cela est fondamental.<br/>Deuxièmement, la France est le seul pays au monde à disposer d’une loi sur les opérations spatiales. Datant de 2008, elle oblige les opérateurs à gérer leurs satellites de manière éthique leur vie durant. Elle contribue aussi à rendre les satellites français plus chers et donc moins compétitifs à l’échelle internationale. Il faut impérativement faire de cette loi une directive européenne, voire une base de réflexion à l’échelle internationale. La présidence de l’Union européenne nous en offre l’occasion historique. La France sera-t-elle présente quand elle l’exercera pour avancer sur ces questions d’espace ?<br/>Troisièmement, l’Agence spatiale européenne, qui est déjà une institution mondiale majeure dans le domaine spatial, doit se renforcer politiquement et parler d’une seule voix, très forte. La lenteur du processus de décision, avec vingt-deux États membres, grève son efficacité face aux concurrents. Le texte de clarification dont nous discutons en est l’exemple : il ne rend toujours pas obligatoire pour un État membre de l’Agence spatiale européenne l’utilisation de lanceurs européens. Il faut la rendre obligatoire. Comment disposer de tels outils et ne pas les utiliser de manière systématique ? On croit rêver ! Imagine-t-on un seul instant les Chinois ou les Américains acheter une Ariane 5 et demander aux Européens la permission de lancer l’un de leurs satellites depuis Kourou ? Évidemment que non ! Ils gèrent eux-mêmes leurs lanceurs tandis que l’Europe ne pratique aucun protectionnisme, préférant une politique de portes ouvertes. Et pendant ce temps, la France, qui détenait un leadership en matière spatiale, reste silencieuse.<br/>Il faut espérer que la France et l’Agence spatiale européenne agissent sur les deux axes du spatial, non seulement en contribuant à encadrer par le droit international le nouvel usage intensif de l’espace, mais aussi en accélérant le dynamisme politique de l’ASE, en maintenant un lanceur européen unique ayant un monopole sur son territoire et en déployant une constellation européenne.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941889" ordre_absolu_seance="192" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2610430" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Vous devez conclure.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941890" ordre_absolu_seance="193" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610405" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <acteurRef>PA335612</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je termine, monsieur le président, en soulignant qu’il faut également un <italique>cloud</italique> européen à même de garantir une indépendance et une souveraineté sur nos données depuis le satellite jusqu’au traitement au sol.<br/>Voici les grands enjeux de demain pour la France et pour l’Europe. C’est un chantier extraordinaire. Là encore, agissez, monsieur le secrétaire d’État, pour faire en sorte que notre État soit le moteur de ce changement. En attendant, les députés communistes voteront pour ce texte, pour Kourou, pour la Guyane, car il permet de poser quelques jalons pour l’organisation spatiale européenne. <italique>(M. Pierre Dharréville, M. Christian Hutin et M. le rapporteur applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941893" ordre_absolu_seance="195" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610408" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Bourlanges</nom>
+            <acteurRef>PA721608</acteurRef>
+            <qualite>président de la commission</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Excellente conclusion !</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Pierre Cabaré" id_acteur="PA719496" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722678">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941894" ordre_absolu_seance="196" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610409" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Cabaré.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941895" ordre_absolu_seance="197" id_acteur="PA719496" id_mandat="PM722678" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610410" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cabaré</nom>
+              <acteurRef>PA719496</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le titre du projet de loi évoque l’approbation d’une « déclaration », alors qu’il s’agit en réalité d’un véritable accord intergouvernemental qui lie les parties et donne un cadre juridique d’action et d’engagement commercial et, bien sûr, de responsabilité.<br/>Cette responsabilité vaut aussi sur le plan environnemental, puisque le texte vient préciser au président du CNES son pouvoir de police sur un site dans lequel les installations Seveso seuil haut côtoient des zones de population et où se déploie une biodiversité fragile. Le Centre spatial est indispensable à la Guyane : c’est un joyau pour la France et un avantage considérable, je le répète, pour l’Europe. C’est aussi, bien sûr, un signal pour le monde.<br/>L’Agence spatiale européenne n’est pas une agence de l’Union européenne, mais une agence intergouvernementale indépendante juridiquement, dont les membres n’ont pas obligatoirement à appartenir à l’Union européenne, avec laquelle, bien sûr, elle coopère. Trois principaux pays sont concernés par les programmes de lancement : la France, l’Allemagne et l’Italie. S’ils participent tous les trois à cet accord de consensus, on peut dire que c’est la France qui tire les deux autres.<br/>Les objectifs de cet accord sont multiples. Il indique avec précision les entités chargées de l’exploitation des lanceurs et prend acte de l’activité grandissante des futurs lanceurs européens. Il prévoit aussi, et nous le regrettons, un simple principe de préférence donnée à nos lanceurs pour les missions institutionnelles des États parties. L’Europe doit montrer la force de l’union, car c’est elle qui doit nous engager.<br/>Bien au-delà de l’économie, il y a la diplomatie, outil indispensable pour le spatial. L’espace doit garder son indépendance et son image d’innovation et de paix. J’ai la chance de travailler sur un rapport avec mon collègue et ami Jean-Paul Lecoq,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941902" ordre_absolu_seance="202" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1941903" ordre_absolu_seance="203" id_acteur="PA719496" id_mandat="PM722678" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610418" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cabaré</nom>
+              <acteurRef>PA719496</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…dans le cadre d’une mission d’information. Nous sommes très attentifs depuis le début à la diplomatie et à ce qu’elle peut apporter en termes de paix.<br/>Cet accord met en place un régime de responsabilité internationale pour les opérations de lancement au Centre spatial guyanais, auquel les États parties confient un mandat de supervision globale. Il renforce la France en tant qu’État de lancement pour l’ensemble des lancements opérés depuis notre site guyanais, ce qui n’est pas rien. Ayons à cet égard tous en tête qu’en trente ans et 300 tirs, il ne s’y est jamais produit d’accident.<br/>Ce texte organise l’exploitation industrielle des lanceurs développée par l’ASE et c’est le fondement juridique de l’activité économique du secteur des lancements.<br/>L’espace, c’est l’indépendance ; l’espace, c’est l’innovation. Et l’espace, je le redis, doit rester en paix. Une éthique de l’espace, voilà ce à quoi nous devons tous nous atteler, non pas la France seule mais le monde entier.<br/>Le CNES, qu’a évoqué il y a quelques instants Bastien Lachaud, n’est pas une agence spatiale : c’est un centre technique utile aux entreprises qui apporte des ruptures technologiques et irrigue compétences et innovation.<br/>Je ne peux pas terminer sans vous rappeler que je suis toulousain et, comme tous les Toulousains, je suis un peu chauvin. Bien sûr l’Occitanie, c’est une terre de rugby, mais c’est surtout une terre de champions et vous remarquerez qu’on ne peut pas passer à côté d’un ballon ovale en terre spatiale et aéronautique. Dans un pays qui transforme le rêve en possible, on ne peut pas revenir en arrière. L’aventure du spatial, c’est juste l’infini ! <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Maud Gatel" id_acteur="PA721760" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM779695">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941567" ordre_absolu_seance="209" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2610460" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Maud Gatel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941568" ordre_absolu_seance="210" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2610461" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La conquête spatiale a connu des débuts difficiles en Europe. Alors que l’Union soviétique et les États-Unis enchaînent les succès spatiaux, la coopération européenne est balbutiante et entravée par la coexistence de deux organisations, dont le Centre européen pour la construction de lanceurs d’engins spatiaux, consacré au développement de la fusée Europa, abandonnée au début des années 1970. Toutefois, la ténacité et les rêves de femmes et d’hommes d’équipes scientifiques et politiques permettent à l’Europe de relever la tête et de continuer de regarder avec passion vers les étoiles. Derrière la France, plusieurs États européens soutiennent le projet L-IIIS de lanceurs de troisième génération. Il est adopté lors de la conférence de Bruxelles de juillet 1973, le même jour que la création de l’Agence spatiale européenne, l’ASE.<br/>L’épopée Ariane commence alors et l’Europe se dote d’un accès autonome à l’espace depuis le Centre spatial guyanais, dont nous pouvons tous être fiers. Thomas Pesquet en est un excellent ambassadeur, lui qui en a posté hier une photo sur Twitter depuis la station spatiale internationale pour saluer l’inauguration du pas de tir d’Ariane 6.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941570" ordre_absolu_seance="212" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610463" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Heureusement qu’il a voté Macron !<italique> (Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941571" ordre_absolu_seance="213" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <acteurRef>PA703535</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme de nombreux Français !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941572" ordre_absolu_seance="214" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610465" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il était important d’avoir à la fois un excellent port de lancement et un tout aussi excellent lanceur : ce sera Ariane.<br/>L’irruption de nouveaux acteurs, au premier rang desquels SpaceX, largement soutenu par la puissance publique américaine, ainsi que la compétition spatiale qui se poursuit avec de nouveaux pays ont marqué un tournant de la conquête spatiale européenne. Or l’accès autonome à l’espace est un enjeu stratégique : enjeu de sécurité globale, de connectivité, de communication de données et de lutte contre le changement climatique. La perte de compétitivité de l’Europe en matière spatiale est une réalité et il est temps de s’armer de nouveau pour y remédier. Nous ne pouvons pas rester aux mains d’acteurs privés pour nos lancements.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941575" ordre_absolu_seance="216" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610468" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941576" ordre_absolu_seance="217" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610469" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nos partenaires européens, à l’origine plus éloignés de ces questions, ont bien compris l’intérêt de pouvoir compter sur une force européenne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941577" ordre_absolu_seance="218" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610470" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sauf l’Allemagne !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941578" ordre_absolu_seance="219" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610471" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Même l’Allemagne ! <italique>(Sourires.)</italique><br/>Or Ariane 6 peut rivaliser avec SpaceX si nous le décidons. Le projet d’une constellation européenne avec des centaines de satellites en orbite basse constitue un projet vertueux, qui peut répondre au défi de la sécurité et de la souveraineté.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941580" ordre_absolu_seance="221" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610473" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il reste de la place !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941581" ordre_absolu_seance="222" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610474" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le spatial recouvre des enjeux de souveraineté, de marché et de rupture technologique qui légitiment le besoin d’un soutien public à même d’attirer des investissements privés. Si nous voulons continuer de figurer dans le cercle des grandes puissances spatiales, nous devons avancer ensemble au niveau européen. L’approbation de la déclaration de 2017 relative à la phase d’exploitation des lanceurs Ariane, Vega et Soyouz au Centre spatial guyanais s’inscrit définitivement dans cette ambition.<br/>Pour accroître sa compétitivité et maintenir sa position de port spatial européen, il est essentiel que le Centre spatial guyanais fasse preuve de polyvalence. Avec les deux nouveaux lanceurs, Ariane 6 et Vega C, l’Europe sera en mesure de conforter la place de l’industrie spatiale européenne dans un environnement en grande mutation et de préserver son autonomie d’accès à l’espace. En adaptant le cadre juridique de la phase d’exploitation des lanceurs et en pérennisant les financements, nous posons le socle d’un environnement plus adapté à la compétition internationale.<br/>Chers collègues, comme nous l’avons indiqué en commission, le groupe Mouvement démocrate (MODEM) et démocrates apparentés soutient l’approbation de cet accord intergouvernemental.<br/>Pour terminer, je veux m’arrêter un instant sur l’impact environnemental de la conquête spatiale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941585" ordre_absolu_seance="226" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610478" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <acteurRef>PA333818</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941586" ordre_absolu_seance="227" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2610479" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À l’heure où le tourisme spatial vient de prendre un tournant, nous devons être très vigilants sur l’impact environnemental du développement des activités spatiales, lesquelles seront inévitablement à l’origine de nouvelles sources de pollution. Si le droit international est peu disert à ce sujet, notre pays doit, quant à lui, inciter aux bonnes pratiques en la matière. Je tiens d’ailleurs à saluer le CNES, qui a placé l’environnement au cœur de ses préoccupations en instaurant une approche d’écoconception tout au long de la chaîne de lancement. Ainsi, il active un plan de mesure environnement lors de chaque lancement depuis le Centre spatial guyanais : cent mesures sont alors effectuées pour contrôler la qualité de l’air, de l’eau et des sédiments, mais aussi suivre l’impact du lancement sur la végétation et la faune aquatique.<br/>Vous l’aurez compris, notre groupe conçoit la stratégie spatiale européenne comme une démarche durable tant pour notre environnement sur terre que pour la conquête de l’espace. <italique>(Applaudissements sur les bancs du groupe Dem et sur les bancs des commissions.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941589" ordre_absolu_seance="229" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610482" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La discussion générale est close.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941590" ordre_absolu_seance="230" code_grammaire="VOTE_ENS_PJL_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2610483" valeur=" (n[[o]] 4488">
+      <orateurs/>
+      <texte>Vote sur l’article unique</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941591" ordre_absolu_seance="231" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PJL_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610484" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’article unique du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1941592" ordre_absolu_seance="232" code_grammaire="VOTE_ENS_PJL_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2610485" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’article unique est adopté, ainsi que l’ensemble du projet de loi.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="7" id_preparation="1941594" ordre_absolu_seance="234" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2610487" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1941595" ordre_absolu_seance="235" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2610488" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mardi 5 octobre, à quinze heures :<br/> Ouverture de la session ordinaire ;<br/>Questions au Gouvernement ;<br/>Élection de deux juges suppléants à la Cour de justice de la République ;<br/> Discussion de la proposition de loi permettant la réélection des juges consulaires dans les tribunaux de commerce ; <br/> Discussion de la proposition de loi interdisant les pratiques visant à modifier l’orientation sexuelle ou l’identité de genre d’une personne.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1941596" ordre_absolu_seance="236" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2610489" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1941597" ordre_absolu_seance="237" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2610490" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

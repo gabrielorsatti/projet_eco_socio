@@ -1,0 +1,2111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020E1N006</uid>
+  <metadonnees>
+    <dateSeance>20200703090000000</dateSeance>
+    <dateSeanceJour>vendredi 03 juillet 2020</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>6</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Première session extraordinaire 2020</session>
+    <nomFichierJo>20201006</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Fri, 03 Jul 2020 14:07:44 GMT</horaireGmt>
+    <heureGeneration>2020-07-03T16:07:44.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2144887">Présidence de M. Hugues Renson</presidentSeance>
+      <sommaire1 type_debat="PLF" valeur_pts_odj="1">
+        <titreStruct type_debat="PLF" id_syceron="2144891">
+          <intitule>Projet de loi de finances rectificative pour 2020</intitule>
+        </titreStruct>
+        <sommaire2 type_debat="PLF">
+          <titreStruct type_debat="PLF" id_syceron="2144892">
+            <intitule>
+              <italique>Seconde partie </italique>
+              <italique>(suite)</italique>
+            </intitule>
+          </titreStruct>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2144896">
+              <intitule>Article 9 et état B <italique>(suite)</italique></intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2144897"> 907</lienAdt></para>
+            <para id_syceron="2144900">M. Laurent Saint-Martin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+            <para id_syceron="2144902">M. Cédric O, secrétaire d’État chargé du numérique</para>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="2144904"> 875</lienAdt>, <lienAdt id_syceron="2144914"> 871</lienAdt>, <lienAdt id_syceron="2144916"> 876</lienAdt>, <lienAdt id_syceron="2144934"> 878</lienAdt>, <lienAdt id_syceron="2144937"> 880, 870</lienAdt>, <lienAdt id_syceron="2144941"> 908, 1383, 910</lienAdt>, <lienAdt id_syceron="2144947"> 911</lienAdt>, <lienAdt id_syceron="2144957"> 912, 2320</lienAdt>, <lienAdt id_syceron="2144959"> 1911</lienAdt>, <lienAdt id_syceron="2144972"> 887</lienAdt>, <lienAdt id_syceron="2144974"> 1180</lienAdt>, <lienAdt id_syceron="2144799"> 2015</lienAdt>, <lienAdt id_syceron="2144809"> 584</lienAdt>, <lienAdt id_syceron="2144816"> 888</lienAdt>, <lienAdt id_syceron="2144819"> 1213</lienAdt>, <lienAdt id_syceron="2144826"> 1641</lienAdt>, <lienAdt id_syceron="2144829"> 913</lienAdt>, <lienAdt id_syceron="2144836"> 958, 1647</lienAdt>, <lienAdt id_syceron="2144843"> 160</lienAdt>, <lienAdt id_syceron="2144850"> 935</lienAdt>, <lienAdt id_syceron="2144852"> 1171</lienAdt>, <lienAdt id_syceron="2144854"> 748</lienAdt>, <lienAdt id_syceron="2144855"> 1121</lienAdt>, <lienAdt id_syceron="2144857"> 914</lienAdt>, <lienAdt id_syceron="2144860"> 959</lienAdt>, <lienAdt id_syceron="2144867"> 915</lienAdt>, <lienAdt id_syceron="2144869"> 161, 949</lienAdt>, <lienAdt id_syceron="2144871"> 916</lienAdt>, <lienAdt id_syceron="2144873"> 953</lienAdt>, <lienAdt id_syceron="2144875"> 1422</lienAdt>, <lienAdt id_syceron="2144882"> 917</lienAdt>, <lienAdt id_syceron="2145082"> 918, 919</lienAdt>, <lienAdt id_syceron="2145084"> 950</lienAdt>, <lienAdt id_syceron="2145090"> 162</lienAdt>, <lienAdt id_syceron="2145098"> 409</lienAdt>, <lienAdt id_syceron="2145101"> 922</lienAdt>, <lienAdt id_syceron="2145104"> 1834</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 type_debat="PLF" valeur_pts_odj="2">
+        <titreStruct type_debat="PLF" id_syceron="2145116">
+          <intitule>Démission du Gouvernement</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du vendredi 03 juillet 2020</journee>
+      <session>Première session extraordinaire 2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1642943" ordre_absolu_seance="1" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2144887" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Hugues Renson<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1642944" ordre_absolu_seance="2" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144888" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1642945" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144889" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à neuf heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642947" ordre_absolu_seance="5" code_grammaire="APPEL_PLF_1_20" code_style="Titre" code_parole="" sommaire="1" id_syceron="2144891" type_debat="PLF" valeur=" (n[[o]] 3074)">
+      <orateurs/>
+      <texte>Projet de loi de finances rectificative pour 2020</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642948" ordre_absolu_seance="6" code_grammaire="APPEL_PLF_1_30" code_style="Titre en ital" code_parole="" sommaire="1" id_syceron="2144892" type_debat="PLF" valeur=" Seconde partie ">
+      <orateurs/>
+      <texte>
+        <italique>Seconde partie </italique>
+        <italique>(suite)</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642949" ordre_absolu_seance="7" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="APPEL_PLF_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144893" type_debat="PLF" valeur=" (n[[os]] 3074, 3132)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la seconde partie du projet de loi de finances rectificative pour 2020 (n<exposant>os</exposant> 3074, 3132).<br/>Hier soir, l’Assemblée a poursuivi l’examen des articles, s’arrêtant à l’amendement n<exposant>o</exposant> 1370 à l’article 9 et état B.<br/>Puisqu’il nous reste 1 042 amendements à examiner aujourd’hui, je vous invite, mes chers collègues, à défendre vos points de vue de manière brève, succincte et efficace.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642952" ordre_absolu_seance="10" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2144896" type_debat="PLF" valeur=" état B  9" bibard="" art=" état B  9" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 9 et état B <italique>(suite)</italique></texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642953" ordre_absolu_seance="11" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144897" valeur=" 907" bibard="" art=" état B  9" adt=" 907" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642953" ordre_absolu_seance="11" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144897" type_debat="PLF" valeur=" 907" bibard="" art=" état B  9" adt=" 907" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 1370 n’étant pas défendu, la parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 907.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642954" ordre_absolu_seance="12" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144898" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement, déposé à l’initiative de Boris Vallaud, propose d’instaurer un « chèque rebond local » pour 18,5 millions de Français, valable six mois, et répondant à un triple objectif : pouvoir d’achat, relance de l’économie locale et préservation de l’environnement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642955" ordre_absolu_seance="13" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144899" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Laurent Saint-Martin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642956" ordre_absolu_seance="14" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="1" id_syceron="2144900" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Comme je l’ai fait hier soir concernant tous les amendements de crédits, je demande le retrait de celui-ci. Non pas que le sujet de fond ne soit pas intéressant, mais ce type d’amendement soit fait écho à des débats que nous avons déjà eus, soit est un appel au Gouvernement sur certains points précis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État chargé du numérique" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642957" ordre_absolu_seance="15" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144901" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le secrétaire d’État chargé du numérique, pour donner l’avis du Gouvernement.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642958" ordre_absolu_seance="16" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="1" id_syceron="2144902" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État chargé du numérique</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642959" ordre_absolu_seance="17" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144903" type_debat="PLF" valeur=" 907">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>907 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642960" ordre_absolu_seance="18" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144904" valeur=" 875" bibard="" art=" état B  9" adt=" 875" ssadt="">
+        <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642960" ordre_absolu_seance="18" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144904" type_debat="PLF" valeur=" 875" bibard="" art=" état B  9" adt=" 875" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. François Pupponi, pour soutenir l’amendement n<exposant>o</exposant> 875.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642961" ordre_absolu_seance="19" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144905" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Pupponi</nom>
+                <id>405480</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il tend à ce que les départements puissent faire face à la perte de recettes due, en particulier, à la baisse du produit des droits de mutation à titre onéreux – DMTO. C’est pourquoi nous proposons de créer un plan spécifique de soutien aux départements, doté de 3 milliards d’euros.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642963" ordre_absolu_seance="20" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144907" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642964" ordre_absolu_seance="21" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144908" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il me semble qu’à l’article 7, nous avons décidé ensemble de compenser les DMTO par des avances. Votre amendement étant satisfait, je vous invite à le retirer.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642965" ordre_absolu_seance="22" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144909" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642966" ordre_absolu_seance="23" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144910" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642967" ordre_absolu_seance="24" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2144911" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Vous retirez votre amendement, monsieur Pupponi ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642968" ordre_absolu_seance="25" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2144912" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Pupponi</nom>
+                <id>405480</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Non, ce n’est pas la même chose !</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642969" ordre_absolu_seance="26" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144913" type_debat="PLF" valeur=" 875" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>875 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642970" ordre_absolu_seance="27" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2144914" valeur=" 871" bibard="" art=" état B  9" adt=" 875" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642970" ordre_absolu_seance="27" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144914" type_debat="PLF" valeur=" 871" bibard="" art=" état B  9" adt=" 875" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 871 de M. Charles de Courson est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642971" ordre_absolu_seance="28" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144915" type_debat="PLF" valeur=" 871" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>871, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642972" ordre_absolu_seance="29" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144916" valeur=" 876" bibard="" art=" état B  9" adt=" 876" ssadt="">
+        <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642972" ordre_absolu_seance="29" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144916" type_debat="PLF" valeur=" 876" bibard="" art=" état B  9" adt=" 876" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. François Pupponi, pour soutenir l’amendement n<exposant>o</exposant> 876.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642973" ordre_absolu_seance="30" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144917" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Pupponi</nom>
+                <id>405480</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Comme les deux suivants, cet amendement est destiné à aider le secteur de l’hôtellerie-restauration. L’amendement n<exposant>o</exposant> 878 proposera même la création d’un plan spécifique, mais il s’agit plutôt d’un amendement d’appel.<br/>Le Premier ministre avait annoncé, dans le cadre de l’aide apportée à ce secteur, un plan spécifique pour la Corse, Lourdes et les outre-mer. Le présent projet de loi de finances rectificative – PLFR – ne faisant référence ni à la Corse ni aux outre-mer, nous demandons au Gouvernement quand sera présenté son plan spécifique.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642976" ordre_absolu_seance="32" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144920" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642977" ordre_absolu_seance="33" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144921" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Pour les outre-mer, l’article 6 prévoit une belle compensation, à la hauteur de ce dont ces régions ont besoin. S’agissant de la Corse, il me semble que vous étiez présent hier lorsque nous avons adopté de grandes avancées en matière de compensation des pertes fiscales, dont il me semble que nos collègues, à commencer par M. Acquaviva, se sont satisfaits.<br/>La Corse et les outre-mer ayant obtenu des réponses, je demande le retrait de cet amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642980" ordre_absolu_seance="35" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144924" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642981" ordre_absolu_seance="36" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144925" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642982" ordre_absolu_seance="37" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2144926" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. François Pupponi.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642983" ordre_absolu_seance="38" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2144927" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Pupponi</nom>
+                <id>405480</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Alors, monsieur le rapporteur général, je vais prendre un peu de temps.<br/>Hier, nous avons adopté une compensation des recettes pour la collectivité de Corse. Très bien. Tout le monde était satisfait.<br/>Avec mon amendement, il est question du plan spécifique qu’avait annoncé le Premier ministre pour le secteur de l’hôtellerie-restauration en Corse. Cela n’a rien à voir : d’un côté nous parlons des recettes d’une collectivité locale, de l’autre des recettes des entreprises affectées par la crise.<br/>La Corse a été le seul département métropolitain qui, après le déconfinement, est resté interdit d’accès aux compatriotes. On ne pouvait pas y aller, suite à un décret pris par le Gouvernement. Compte tenu de cette situation particulière due à l’insularité et à la crise économique, le Premier ministre s’est engagé à élaborer un plan spécifique pour l’hôtellerie-restauration en Corse. Or ce plan spécifique n’existe pas et le Gouvernement ne répond pas.<br/>Quand le Gouvernement va-t-il respecter son engagement ? C’est tout ce que nous demandons, et cela n’a rien à voir avec les amendements d’hier qui concernaient la collectivité de Corse.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642989" ordre_absolu_seance="43" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144933" type_debat="PLF" valeur=" 876" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>876 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642990" ordre_absolu_seance="44" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144934" valeur=" 878" bibard="" art=" état B  9" adt=" 878" ssadt="">
+        <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642990" ordre_absolu_seance="44" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144934" type_debat="PLF" valeur=" 878" bibard="" art=" état B  9" adt=" 878" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. François Pupponi, pour soutenir l’amendement n<exposant>o</exposant> 878.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642991" ordre_absolu_seance="45" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144935" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Pupponi</nom>
+                <id>405480</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>C’est le même thème. J’attends la réponse du Gouvernement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642992" ordre_absolu_seance="46" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144936" type_debat="PLF" valeur=" 878" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>878, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642993" ordre_absolu_seance="47" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2144937" valeur=" 880 et 870" bibard="" art=" état B  9" adt=" 878" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642993" ordre_absolu_seance="47" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144937" type_debat="PLF" valeur=" 880 et 870" bibard="" art=" état B  9" adt=" 878" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les amendements n<exposant>o</exposant><exposant>s</exposant> 880 et 870 de M. François Pupponi sont défendus.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642994" ordre_absolu_seance="48" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144938" type_debat="PLF" valeur=" 880 et 870" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L</italique>
+            <italique>es </italique>
+            <italique>amendement</italique>
+            <italique>s</italique>
+            <italique> n<exposant>o</exposant></italique>
+            <italique>
+              <exposant>s</exposant>
+            </italique>
+            <italique> </italique>
+            <italique>880</italique>
+            <italique> et 870</italique>
+            <italique>, repoussé</italique>
+            <italique>s</italique>
+            <italique> par la commission et le Gouvernement, n</italique>
+            <italique>e sont </italique>
+            <italique>pas adopté</italique>
+            <italique>s</italique>
+            <italique>.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642997" ordre_absolu_seance="49" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2144941" valeur=" 908, 1383 et 910" bibard="" art=" état B  9" adt=" 878" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642997" ordre_absolu_seance="49" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144941" type_debat="PLF" valeur=" 908, 1383 et 910" bibard="" art=" état B  9" adt=" 878" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les amendements n<exposant>o</exposant><exposant>s</exposant> 908 de M. Dominique Potier, 1383 de M. Olivier Faure et 910 de Mme Christine Pires Beaune sont défendus.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1642998" ordre_absolu_seance="50" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144942" type_debat="PLF" valeur=" 908, 1383 et 910" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L</italique>
+            <italique>es </italique>
+            <italique>amendement</italique>
+            <italique>s</italique>
+            <italique> n<exposant>o</exposant></italique>
+            <italique>
+              <exposant>s</exposant>
+            </italique>
+            <italique> </italique>
+            <italique>908, </italique>
+            <italique>1383 et 910, </italique>
+            <italique>repoussé</italique>
+            <italique>s</italique>
+            <italique> par la commission et le Gouvernement, </italique>
+            <italique>ne sont pas adoptés</italique>
+            <italique>.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643003" ordre_absolu_seance="51" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144947" valeur=" 911" bibard="" art=" état B  9" adt=" 911" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643003" ordre_absolu_seance="51" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144947" type_debat="PLF" valeur=" 911" bibard="" art=" état B  9" adt=" 911" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 911.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643004" ordre_absolu_seance="52" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144948" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Déposé à l’initiative de Mme Biémouret, il vise à lancer un programme que l’on pourrait intituler « Action cœur de village » – en référence au programme « Action cœur de ville », qui regroupe 222 villes et qui fonctionne bien – et serait doté de 750 millions d’euros.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643005" ordre_absolu_seance="53" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144949" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643006" ordre_absolu_seance="54" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144950" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Nous devrons en débattre lors du projet de loi de finances, j’en conviens. À cette occasion, nous pourrions peut-être décider de recentrer la dotation de solidarité rurale – DSR – sur ces actions, afin d’éviter le saupoudrage.<br/>Tout en vous invitant à retirer votre amendement, je tiens à manifester ma volonté de continuer à en discuter ensemble, en nous inspirant des travaux de la mission conduite par Jean-René Cazeneuve sur les effets de l’épidémie de covid-19 sur les finances locales.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643008" ordre_absolu_seance="56" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144952" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643009" ordre_absolu_seance="57" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144953" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643010" ordre_absolu_seance="58" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2144954" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643011" ordre_absolu_seance="59" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2144955" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je retire l’amendement, non sans dire au rapporteur général que le recentrage de la DSR, qui touche plus de 30 000 communes sur 35 000, faisait partie des propositions de mon rapport sur la réforme de la dotation globale de fonctionnement – DGF. Je ne peux donc qu’y souscrire.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643012" ordre_absolu_seance="60" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144956" type_debat="PLF" valeur=" 911">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>911 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643013" ordre_absolu_seance="61" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_40" code_parole="" sommaire="1" id_syceron="2144957" valeur=" 912 et 2320" bibard="" art=" état B  9" adt=" 911" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643013" ordre_absolu_seance="61" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_40" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144957" type_debat="PLF" valeur=" 912 et 2320" bibard="" art=" état B  9" adt=" 911" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les amendements n<exposant>os</exposant> 912 et 2320 de M. Jean-Louis Bricout sont défendus.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643014" ordre_absolu_seance="62" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144958" type_debat="PLF" valeur=" 912 et 2320" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>912 et 2320, repoussés par la commission et le Gouvernement, successivement mis aux voix, ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643015" ordre_absolu_seance="63" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144959" valeur=" 1911" bibard="" art=" état B  9" adt=" 1911" ssadt="">
+        <interExtraction nom_orateur="Mme Maina Sage" id_acteur="PA702052" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723172">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643015" ordre_absolu_seance="63" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144959" type_debat="PLF" valeur=" 1911" bibard="" art=" état B  9" adt=" 1911" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Maina Sage, pour soutenir l’amendement n<exposant>o</exposant> 1911.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643016" ordre_absolu_seance="64" id_acteur="PA702052" id_mandat="PM723172" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144960" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Maina Sage</nom>
+                <id>702052</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>C’est un amendement d’appel – vous avez vu les montants en jeu – mais important, parce qu’il veut vous alerter sur la situation très difficile de la Polynésie française, dont la principale activité est le tourisme.<br/>Lors de l’examen du PLFR 2, nous avons prévu un renforcement exceptionnel des participations financières de l’État de 20 milliards d’euros, afin de venir en aide aux entreprises stratégiques nationales. L’idée défendue ici – qui est peut-être à creuser dans le cadre du prochain PLFR – est d’en réserver une part pour les entreprises d’intérêt stratégique en outre-mer,<br/>Ces entreprises sont actuellement en grande difficulté. Nos compagnies aériennes, par exemple, vont certes bénéficier d’un prêt garanti par l’État – PGE – classique, mais nous ne bénéficions pas des dispositifs nationaux, notamment sur l’aide au chômage partiel.<br/>Il s’agit ici de reconnaître le caractère stratégique de ces entreprises qui tiennent tout un pan de nos industries, notamment les activités touristiques.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643020" ordre_absolu_seance="68" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144964" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643021" ordre_absolu_seance="69" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144965" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je comprends très bien cet amendement d’appel et je ne nie pas la nécessité d’une réflexion sur les investissements stratégiques en outre-mer, notamment en Polynésie.<br/>La Banque des territoires, dans le cadre du plan d’aide au secteur du tourisme, doit jouer un rôle dans l’ensemble des territoires métropolitains et ultramarins. Elle doit financer ce type de projets soit par de la dette, soit par de l’investissement, avec tous les acteurs et parties prenantes du développement économique public. Les liaisons aériennes entre archipels, citées dans votre amendement, sont un bon exemple du type de développements économiques à financer dans ce genre de territoire.<br/>Je demande de retrait de cet amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643025" ordre_absolu_seance="72" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144969" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643026" ordre_absolu_seance="73" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144970" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643027" ordre_absolu_seance="74" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144971" type_debat="PLF" valeur=" 1911">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>1911 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643028" ordre_absolu_seance="75" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2144972" valeur=" 887" bibard="" art=" état B  9" adt=" 1911" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643028" ordre_absolu_seance="75" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144972" type_debat="PLF" valeur=" 887" bibard="" art=" état B  9" adt=" 1911" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 887 de Mme Sylvia Pinel est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643029" ordre_absolu_seance="76" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144973" type_debat="PLF" valeur=" 887" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>887, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643030" ordre_absolu_seance="77" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144974" valeur=" 1180" bibard="" art=" état B  9" adt=" 1180" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643030" ordre_absolu_seance="77" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144974" type_debat="PLF" valeur=" 1180" bibard="" art=" état B  9" adt=" 1180" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 1180.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643031" ordre_absolu_seance="78" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144975" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Déposé à l’initiative de M. Vallaud, il tend à créer un fonds, doté de 300 millions d’euros, destiné à favoriser l’accès des jeunes à l’emploi.<br/>Je sais que l’on se préoccupe des jeunes jusqu’au plus haut sommet de l’État, mais j’insiste sur le fait que les quelque 700 000 à 800 000 jeunes qui vont entrer sur le marché du travail cette année vont se trouver face à un mur. Je ne sais pas quelles mesures leur sont dédiées mais, en tout cas, un fonds spécifique nous paraît opportun.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643034" ordre_absolu_seance="80" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144978" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1643035" ordre_absolu_seance="81" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144979" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Arrêtons-nous sur cette question, absolument majeure, de l’accès des jeunes à l’emploi. C’est un élément essentiel pour la reprise, et peut-être est-ce une des causes du trop lent redémarrage après la crise de 2008-2009.<br/>Il faut donc mettre le paquet, si vous me passez cette expression, sur l’insertion professionnelle des jeunes. Il ne s’agit pas que de moyens financiers, mais aussi d’efforts en termes d’apprentissage, d’incitation à l’embauche de jeunes sortis de formation initiale, d’accompagnement par le biais de la formation continue tout au long des carrières… Ce dernier point concerne notamment les jeunes qui ont deux ou trois ans d’ancienneté, afin d’éviter le réflexe « dernier entré, premier sorti ».<br/>Au cours des semaines à venir, il faudra conduire toute une réflexion avec les partenaires sociaux et les entreprises sur ce sujet. C’est fondamental pour la reprise : nous pouvons vraiment réussir cette reprise en V, dont tout le monde rêve, si nous mettons l’accent sur l’insertion des jeunes sur le marché de l’emploi.<br/>Pour avoir fait partie de la génération concernée il y a dix ans, j’ai le souvenir d’un tarissement quasi complet des offres d’emploi à la sortie des universités et des écoles : il n’y avait pas un contrat à durée indéterminée – CDI –, juste quelques contrats à durée déterminée – CDD – de temps en temps. Ce retard de deux ou trois ans à l’entrée sur le marché de l’emploi crée un effet boule de neige et beaucoup de difficultés pour une génération, ce qui nuit à la capacité à remettre toute la société sur de bons rails.<br/>Il faut absolument investir dans la jeunesse, pas seulement celle qui entre sur le marché du travail mais aussi celle qui étudie, et lui adresser deux messages très clairs : aux étudiants, « surtout n’arrêtez pas votre cursus universitaire à cause de la crise » – ils peuvent compter sur les bourses existantes et sur les aides que nous avons instaurées ; à ceux qui ont achevé leurs études, « nous vous aiderons à trouver un emploi et nous inciterons les entreprises à embaucher », probablement en recourant au levier des cotisations.<br/>Je demande le retrait de l’amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642850" ordre_absolu_seance="87" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144793" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642851" ordre_absolu_seance="88" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144794" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Mme Pires Beaune n’aura pas longtemps à attendre pour obtenir satisfaction. Le Président de la République le rappelle dans une interview accordée hier soir à la presse quotidienne régionale : la jeunesse est au cœur des défis qui nous attendent. Nous aurons l’occasion d’en reparler puisqu’un plan spécifique doit être présenté par le Président lui-même, si je ne m’abuse, dans les jours qui viennent.<br/>Je demande donc le retrait de l’amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642853" ordre_absolu_seance="90" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2144796" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642854" ordre_absolu_seance="91" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2144797" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je le retire. Monsieur le rapporteur général, vous ne les avez pas citées, mais il ne faut pas oublier les régions, qui gèrent la formation. Dans ce domaine, tous les leviers – nouvelles formations, prolongation de dispositifs de formation, places supplémentaires à l’université ou en établissements d’enseignement – doivent être actionnés.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642855" ordre_absolu_seance="92" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144798" type_debat="PLF" valeur=" 1180">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>1180 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642856" ordre_absolu_seance="93" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144799" valeur=" 2015" bibard="" art=" état B  9" adt=" 2015" ssadt="">
+        <interExtraction nom_orateur="M. Joël Giraud" id_acteur="PA267336" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722434">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642856" ordre_absolu_seance="93" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144799" type_debat="PLF" valeur=" 2015" bibard="" art=" état B  9" adt=" 2015" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Joël Giraud, pour soutenir l’amendement n<exposant>o</exposant> 2015.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642857" ordre_absolu_seance="94" id_acteur="PA267336" id_mandat="PM722434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144800" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Joël Giraud</nom>
+                <id>267336</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement vise à appeler l’attention du Gouvernement sur activités qui ne bénéficient pas du plan de soutien au secteur touristique alors qu’ils sont entièrement dépendants du tourisme : 100 % des artisans d’art, 100 % des commerces de détail dans les communes à 2 000 mètres d’altitude, qui vivent exclusivement du tourisme, et – depuis hier seulement et le rejet de l’amendement que j’avais déposé – les fermes-auberges relevant de l’agritourisme.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642858" ordre_absolu_seance="95" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144801" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642859" ordre_absolu_seance="96" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144802" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement fait écho au débat récurrent sur les secteurs concernés – l’article 18 sera une nouvelle occasion de le reprendre longuement – et à la difficulté à fixer le seuil de perte de chiffre d’affaires pertinent pour caractériser la baisse d’activité des secteurs dépendants des secteurs prioritaires. De l’issue de ce débat complexe dépend à mon avis le succès du texte. Je demande le retrait de l’amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642860" ordre_absolu_seance="97" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144803" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642861" ordre_absolu_seance="98" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144804" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Ma réponse sera familière à l’ancien rapporteur général que vous êtes… <italique>(Sourires.)</italique> Les crédits ouverts dans le projet de loi comprennent déjà les aides que vous souhaitez. En outre, le Gouvernement est opposé à la création de programmes budgétaires par secteur et a opté pour une présentation des crédits par politique publique. La ventilation des aides par secteur pourra être indiquée dans les projets annuels de performance.<br/>L’avis est donc défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Joël Giraud" id_acteur="PA267336" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722434">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642863" ordre_absolu_seance="100" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2144806" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Joël Giraud.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642864" ordre_absolu_seance="101" id_acteur="PA267336" id_mandat="PM722434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2144807" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Joël Giraud</nom>
+                <id>267336</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je retire l’amendement. Je souligne néanmoins que les secteurs que j’ai mentionnés n’ont que très peu bénéficié des prêts garantis par l’État car les banques de premier niveau refusent d’instruire les demandes de prêt en raison des risques inhérents à leur activité.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642865" ordre_absolu_seance="102" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144808" type_debat="PLF" valeur=" 2015">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>2015 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642866" ordre_absolu_seance="103" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144809" valeur=" 584" bibard="" art=" état B  9" adt=" 584" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642866" ordre_absolu_seance="103" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144809" type_debat="PLF" valeur=" 584" bibard="" art=" état B  9" adt=" 584" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 584.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642867" ordre_absolu_seance="104" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144810" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de M. Dominique Potier vise à créer une dotation de 400 millions d’euros pour le développement des contrats de transition écologique, un outil qui fonctionne très bien. En 2020, 200 intercommunalités se sont déjà engagées dans cette démarche ; d’autres parmi les 1 200 EPCI que compte notre territoire frappent à la porte.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642868" ordre_absolu_seance="105" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144811" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642869" ordre_absolu_seance="106" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144812" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit en effet d’un outil efficace, mais le projet de loi prévoit déjà de consacrer 1 milliard d’euros au financement des investissements des collectivités territoriales dans la transition écologique par le biais de la DSIL – dotation de soutien à l’investissement local. Je demande donc le retrait de l’amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642870" ordre_absolu_seance="107" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144813" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642871" ordre_absolu_seance="108" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144814" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642872" ordre_absolu_seance="109" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144815" type_debat="PLF" valeur=" 584">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>584 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642873" ordre_absolu_seance="110" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144816" valeur=" 888" bibard="" art=" état B  9" adt=" 888" ssadt="">
+        <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642873" ordre_absolu_seance="110" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144816" type_debat="PLF" valeur=" 888" bibard="" art=" état B  9" adt=" 888" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. François Pupponi, pour soutenir l’amendement n<exposant>o</exposant> 888.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642874" ordre_absolu_seance="111" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144817" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Pupponi</nom>
+                <id>405480</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement vise à créer un fonds destiné à financer les plans de dynamisation économique établis par les régions.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642875" ordre_absolu_seance="112" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144818" type_debat="PLF" valeur=" 888" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>888, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642876" ordre_absolu_seance="113" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144819" valeur=" 1213" bibard="" art=" état B  9" adt=" 1213" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642876" ordre_absolu_seance="113" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144819" type_debat="PLF" valeur=" 1213" bibard="" art=" état B  9" adt=" 1213" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 1213.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642877" ordre_absolu_seance="114" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144820" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement de crédits pour un montant de 300 millions d’euros au bénéfice des universités – je ne décrirai pas l’état des bâtiments ni des équipements dont la dégradation ne date pas d’hier, évidemment.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642878" ordre_absolu_seance="115" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144821" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642879" ordre_absolu_seance="116" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144822" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Demande de retrait ; à défaut, avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642880" ordre_absolu_seance="117" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144823" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642881" ordre_absolu_seance="118" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144824" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642882" ordre_absolu_seance="119" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144825" type_debat="PLF" valeur=" 1213">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>1213 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642883" ordre_absolu_seance="120" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144826" valeur=" 1641" bibard="" art=" état B  9" adt=" 1641" ssadt="">
+        <interExtraction nom_orateur="Mme Josette Manin" id_acteur="PA720988" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723132">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642883" ordre_absolu_seance="120" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144826" type_debat="PLF" valeur=" 1641" bibard="" art=" état B  9" adt=" 1641" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Josette Manin, pour soutenir l’amendement n<exposant>o</exposant> 1641.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642884" ordre_absolu_seance="121" id_acteur="PA720988" id_mandat="PM723132" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144827" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Josette Manin</nom>
+                <id>720988</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement vise à instaurer un fonds pour la prolongation des contrats doctoraux, doté de 250 millions d’euros.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642885" ordre_absolu_seance="122" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144828" type_debat="PLF" valeur=" 1641" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>1641, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642886" ordre_absolu_seance="123" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144829" valeur=" 913" bibard="" art=" état B  9" adt=" 913" ssadt="">
+        <interExtraction nom_orateur="Mme Josette Manin" id_acteur="PA720988" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723132">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642886" ordre_absolu_seance="123" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144829" type_debat="PLF" valeur=" 913" bibard="" art=" état B  9" adt=" 913" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Josette Manin, pour soutenir l’amendement n<exposant>o</exposant> 913.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642887" ordre_absolu_seance="124" id_acteur="PA720988" id_mandat="PM723132" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144830" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Josette Manin</nom>
+                <id>720988</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de Mme Ericka Bareigts prévoit une enveloppe de 200 millions d’euros pour compenser l’intense sollicitation du fonds de solidarité pour le logement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642888" ordre_absolu_seance="125" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144831" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642889" ordre_absolu_seance="126" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144832" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Demande de retrait.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642890" ordre_absolu_seance="127" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144833" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642891" ordre_absolu_seance="128" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144834" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642892" ordre_absolu_seance="129" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144835" type_debat="PLF" valeur=" 913">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>913 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642893" ordre_absolu_seance="130" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2144836" valeur=" 958 et 1647" bibard="" art=" état B  9" adt=" 958 et 1647" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642893" ordre_absolu_seance="130" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144836" type_debat="PLF" valeur=" 958 et 1647" bibard="" art=" état B  9" adt=" 958 et 1647" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de deux amendements, n<exposant>os</exposant> 958 et 1647, qui peuvent faire l’objet d’une présentation groupée.<br/>La parole est à Mme Christine Pires Beaune, pour les soutenir.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642894" ordre_absolu_seance="131" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144837" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Ces amendements de Mme Sylvie Tolmont concernent le secteur éducatif. Le premier a pour objet de créer un fonds, doté de 200 millions d’euros, pour les projets éducatifs des territoires, le second, un fonds « rebond » pour les établissements scolaires d’un montant là aussi de 200 millions d’euros.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642895" ordre_absolu_seance="132" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144838" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642896" ordre_absolu_seance="133" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144839" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>J’en profite pour revenir sur le dispositif « vacances apprenantes » auquel le PLFR consacre un effort financier de 283 millions d’euros. Il s’agit d’aider les enfants et les jeunes qui n’ont pas pu bénéficier pendant le confinement d’un suivi et d’un soutien scolaire à domicile. J’espère que cette initiative portera ses fruits pendant l’été et nous permettra d’éviter une aggravation des inégalités scolaires.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642897" ordre_absolu_seance="134" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144840" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642898" ordre_absolu_seance="135" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144841" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642899" ordre_absolu_seance="136" code_grammaire="RETRAIT_ADTS" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144842" type_debat="PLF" valeur=" 958 et 1647">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>958 et 1647 sont retirés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642900" ordre_absolu_seance="137" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144843" valeur=" 160" bibard="" art=" état B  9" adt=" 160" ssadt="">
+        <interExtraction nom_orateur="Mme Véronique Louwagie" id_acteur="PA608016" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723024">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642900" ordre_absolu_seance="137" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144843" type_debat="PLF" valeur=" 160" bibard="" art=" état B  9" adt=" 160" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Véronique Louwagie, pour soutenir l’amendement n<exposant>o</exposant> 160.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642901" ordre_absolu_seance="138" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144844" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Véronique Louwagie</nom>
+                <id>608016</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de M. Marc Le Fur tend à créer une prime ponctuelle pour les assistantes maternelles qui ont continué pendant le confinement à accueillir des enfants, permettant ainsi aux parents de poursuivre leur activité professionnelle. Il importe de saluer leur travail et de leur dire notre reconnaissance.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642902" ordre_absolu_seance="139" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144845" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642903" ordre_absolu_seance="140" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144846" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je demande le retrait de l’amendement, mais je m’associe aux propos de Mme Louwagie pour saluer le travail des assistantes maternelles pendant la crise. À leur manière, elles ont été également en première ligne en aidant ceux qui devaient travailler.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642904" ordre_absolu_seance="141" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144847" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642905" ordre_absolu_seance="142" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144848" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642906" ordre_absolu_seance="143" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144849" type_debat="PLF" valeur=" 160" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>160 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642907" ordre_absolu_seance="144" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="2144850" valeur=" 935" bibard="" art=" état B  9" adt=" 160" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642907" ordre_absolu_seance="144" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144850" type_debat="PLF" valeur=" 935" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 935 de M. Guillaume Garot est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642908" ordre_absolu_seance="145" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144851" type_debat="PLF" valeur=" 935">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>935, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642909" ordre_absolu_seance="146" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2144852" valeur=" 1171" bibard="" art=" état B  9" adt=" 1171" ssadt="">
+        <interExtraction nom_orateur="Mme Josette Manin" id_acteur="PA720988" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723132">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642909" ordre_absolu_seance="146" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144852" type_debat="PLF" valeur=" 1171" bibard="" art=" état B  9" adt=" 1171" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de trois amendements, n<exposant>os</exposant> 1171, 748 et 1121, pouvant être soumis à une discussion commune.<br/>Les amendements n<exposant>os</exposant> 748 et 1121 sont identiques.<br/>La parole est à Mme Josette Manin, pour soutenir l’amendement n<exposant>o</exposant> 1171.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642910" ordre_absolu_seance="147" id_acteur="PA720988" id_mandat="PM723132" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144853" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Josette Manin</nom>
+                <id>720988</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il vise à instituer un fonds d’urgence pour les entreprises des collectivités ultramarines, doté de 150 millions d’euros. Celui-ci s’adresserait notamment à celles qui n’ont pas pu bénéficier du prêt garanti par l’État ou du fonds de solidarité.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642911" ordre_absolu_seance="148" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2144854" valeur=" 748" bibard="" art=" état B  9" adt=" 1171" ssadt="">
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642911" ordre_absolu_seance="148" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144854" type_debat="PLF" valeur=" 748" bibard="" art=" état B  9" adt=" 1171" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 748 de M. David Lorion est défendu.<br/>L’amendement n<exposant>o</exposant> 1121 de Mme Ericka Bareigts est défendu.<br/>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642912" ordre_absolu_seance="151" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2145060" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642912" ordre_absolu_seance="152" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2145061" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642912" ordre_absolu_seance="153" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2145062" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis – peut-être l’un de mes derniers avis au nom du Gouvernement…</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642912" ordre_absolu_seance="154" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145063" type_debat="PLF" valeur=" 1171" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>1171 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642913" ordre_absolu_seance="155" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144856" type_debat="PLF" valeur=" 748 et 1121" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(L</italique>
+            <italique>es amendements identiques </italique>
+            <italique>n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>748 et 1121</italique>
+            <italique/>
+            <italique>ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642914" ordre_absolu_seance="156" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144857" valeur=" 914" bibard="" art=" état B  9" adt=" 914" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642914" ordre_absolu_seance="156" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144857" type_debat="PLF" valeur=" 914" bibard="" art=" état B  9" adt=" 914" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 914.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642915" ordre_absolu_seance="157" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144858" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement de M. Dominique Potier visant à créer un fonds d’urgence agricole, doté de 100 millions d’euros et destiné au secteur de l’agritourisme.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642916" ordre_absolu_seance="158" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144859" type_debat="PLF" valeur=" 914" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>914, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642917" ordre_absolu_seance="159" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144860" valeur=" 959" bibard="" art=" état B  9" adt=" 959" ssadt="">
+        <interExtraction nom_orateur="Mme Josette Manin" id_acteur="PA720988" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723132">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642917" ordre_absolu_seance="159" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144860" type_debat="PLF" valeur=" 959" bibard="" art=" état B  9" adt=" 959" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Josette Manin, pour soutenir l’amendement n<exposant>o</exposant> 959.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642918" ordre_absolu_seance="160" id_acteur="PA720988" id_mandat="PM723132" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144861" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Josette Manin</nom>
+                <id>720988</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de Mme Michèle Victory demande la création d’un fonds exceptionnel de solidarité pour les artistes et techniciens du cinéma, de l’audiovisuel, de la diffusion et du spectacle vivant, doté de 100 millions d’euros.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642919" ordre_absolu_seance="161" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144862" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642920" ordre_absolu_seance="162" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144863" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Hier soir, nous avons évoqué les crédits débloqués par le Gouvernement en faveur du spectacle vivant, notamment le fonds au profit des festivals. Je demande donc le retrait.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642920" ordre_absolu_seance="163" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2145064" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642920" ordre_absolu_seance="164" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2145065" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642923" ordre_absolu_seance="165" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144866" type_debat="PLF" valeur=" 959">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>959 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642924" ordre_absolu_seance="166" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="2144867" valeur=" 915" bibard="" art=" état B  9" adt=" 959" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642924" ordre_absolu_seance="166" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144867" type_debat="PLF" valeur=" 915" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 915 de Mme Hélène Vainqueur-Christophe est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642925" ordre_absolu_seance="167" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144868" type_debat="PLF" valeur=" 915">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>915, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642926" ordre_absolu_seance="168" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="2144869" valeur=" 161 et 949" bibard="" art=" état B  9" adt=" 959" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642926" ordre_absolu_seance="168" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144869" type_debat="PLF" valeur=" 161 et 949" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les amendements n<exposant>os</exposant> 161 de M. Marc Le Fur et 949 de Mme Michèle Victory sont défendus.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642927" ordre_absolu_seance="169" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144870" type_debat="PLF" valeur=" 161 et 949">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements identiques n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>161 et 949, repoussés par la commission et le Gouvernement, ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642928" ordre_absolu_seance="170" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="2144871" valeur=" 916" bibard="" art=" état B  9" adt=" 959" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642928" ordre_absolu_seance="170" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144871" type_debat="PLF" valeur=" 916" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 916 de Mme Christine Pires Beaune est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642929" ordre_absolu_seance="171" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144872" type_debat="PLF" valeur=" 916">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>916, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642930" ordre_absolu_seance="172" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="2144873" valeur=" 953" bibard="" art=" état B  9" adt=" 959" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642930" ordre_absolu_seance="172" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144873" type_debat="PLF" valeur=" 953" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 953 de Mme Cécile Untermaier est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642931" ordre_absolu_seance="173" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144874" type_debat="PLF" valeur=" 953">
+          <orateurs/>
+          <texte>
+            <italique>(</italique>
+            <italique>L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>953, repoussé par la commission et le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642932" ordre_absolu_seance="174" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144875" valeur=" 1422" bibard="" art=" état B  9" adt=" 1422" ssadt="">
+        <interExtraction nom_orateur="Mme Patricia Lemoine" id_acteur="PA721632" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM760305">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642932" ordre_absolu_seance="174" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144875" type_debat="PLF" valeur=" 1422" bibard="" art=" état B  9" adt=" 1422" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Patricia Lemoine, pour soutenir l’amendement n<exposant>o</exposant> 1422.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642933" ordre_absolu_seance="175" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144876" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Patricia Lemoine</nom>
+                <id>721632</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de M. Vincent Ledoux vise à financer un dispositif exceptionnel de prise en charge, totale ou partielle, d’emplois visant à remplacer ou épauler des dirigeants de petites entreprises, indépendants et artisans, habituellement au contact du public mais qui subissent, pour raisons médicales, un risque accru en cas d’infection au covid-19.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642934" ordre_absolu_seance="176" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2144877" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642935" ordre_absolu_seance="177" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2144878" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Demande de retrait.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642936" ordre_absolu_seance="178" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2144879" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642937" ordre_absolu_seance="179" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2144880" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642938" ordre_absolu_seance="180" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2144881" type_debat="PLF" valeur=" 1422" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>1422 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642939" ordre_absolu_seance="181" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2144882" valeur=" 917" bibard="" art=" état B  9" adt=" 917" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642939" ordre_absolu_seance="181" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2144882" type_debat="PLF" valeur=" 917" bibard="" art=" état B  9" adt=" 917" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 917.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1642940" ordre_absolu_seance="182" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2144883" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement concerne une entreprise dont la presse a abondamment parlé : la société Luxfer, qui a fermé ses portes il y a quelques mois. Je souhaiterais connaître l’état des discussions entre Bercy et plusieurs repreneurs.<br/>L’objet de l’amendement est d’ouvrir des crédits pour permettre une nationalisation temporaire – j’insiste sur le caractère temporaire. Pourquoi sommes-nous obligés d’en passer par là ? Parce que les propriétaires britanniques préfèrent laisser le site dépérir, quitte à empêcher tout projet – des repreneurs se sont déjà manifestés : ils ne veulent pas de concurrence sur le territoire européen pour l’entreprise, qui est maintenant implantée à Nottingham, et sera donc demain hors de l’Union européenne.<br/>Tout l’enjeu est de conserver sur notre territoire, à moyen et long termes, une capacité de production de bouteilles en aluminium, non pas en acier – c’est important aussi pour le développement d’une filière hydrogène – et surtout le savoir-faire des salariés. Si nous voulons restaurer notre souveraineté, comme nous y a invités le Président de la République, et j’y souscris, nous ferions bien de nous intéresser un peu plus au sort de cette entreprise.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643040" ordre_absolu_seance="185" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2145072" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643041" ordre_absolu_seance="186" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2145073" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Depuis le début de la crise sanitaire du covid-19, nous discutons de la situation de Luxfer à chaque texte que nous examinons. Je comprends votre raisonnement, madame Pires Beaune, mais je ne saurais honnêtement dire s’il faut aujourd’hui nationaliser cette société. Du côté du Gouvernement, Agnès Pannier-Runacher suit de très près la situation de cette entreprise, comme d’ailleurs de toutes celles confrontées aux mêmes difficultés. Il est évidemment hors de question d’abandonner et l’entreprise et les emplois, mais le travail de médiation en cours doit se poursuivre.<br/>Je suis donc défavorable à l’ouverture de crédits fléchés vers la nationalisation de Luxfer. Nous devons examiner quelle aide sera la plus efficace pour sauver le plus grand nombre d’emplois. En tout état de cause, le Gouvernement est aux côtés de la société pour trouver, avec l’ensemble des parties prenantes, une issue favorable.<br/>Demande de retrait.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643044" ordre_absolu_seance="189" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2145076" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643045" ordre_absolu_seance="190" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2145077" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cédric O</nom>
+                <id>764388</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643046" ordre_absolu_seance="191" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2145078" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643047" ordre_absolu_seance="192" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2145079" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je maintiens l’amendement, qui se situe volontairement sur le terrain de l’indépendance sanitaire de la France et de l’Europe plutôt que sur celui du maintien de l’emploi – pourtant, je soutiens les cent salariés de Luxfer depuis le début de la crise.<br/>Je ne comprends pas que le Gouvernement soit aussi laxiste – je pèse mes mots – sur cette question fondamentale, ni qu’il soit aussi peu convaincant et ferme avec les Anglais.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643049" ordre_absolu_seance="194" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145081" type_debat="PLF" valeur=" 917" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>917 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643050" ordre_absolu_seance="195" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="2145082" valeur=" 918 et 919" bibard="" art=" état B  9" adt=" 917" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643050" ordre_absolu_seance="195" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2145082" type_debat="PLF" valeur=" 918 et 919" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les amendements n<exposant>os</exposant> 918 et 919 de Mme Christine Pires Beaune sont défendus.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643051" ordre_absolu_seance="196" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145083" type_debat="PLF" valeur=" 918 et 919">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>918 et 919, repoussés par la commission et le Gouvernement, successivement mis aux voix, ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643052" ordre_absolu_seance="197" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2145084" valeur=" 950" bibard="" art=" état B  9" adt=" 950" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643052" ordre_absolu_seance="197" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2145084" type_debat="PLF" valeur=" 950" bibard="" art=" état B  9" adt=" 950" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 950.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643053" ordre_absolu_seance="198" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145085" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de Jérôme Lambert vise à créer un fonds de soutien à destination des libraires. Compte tenu de nos discussions d’hier soir et du plan de soutien au secteur culturel décidé par le Gouvernement, je le retire.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643054" ordre_absolu_seance="199" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145086" type_debat="PLF" valeur=" 950">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>950 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+        <interExtraction nom_orateur="Mme Véronique Louwagie" id_acteur="PA608016" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723024">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643055" ordre_absolu_seance="200" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2145087" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Véronique Louwagie, pour soutenir l’amendement n<exposant>o</exposant> 1380.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643056" ordre_absolu_seance="201" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2145088" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Véronique Louwagie</nom>
+                <id>608016</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de notre collègue Constance Le Grip tend à soutenir les librairies indépendantes, très fragilisées par leur fermeture administrative pendant la crise sanitaire et par l’essor des ventes sur internet. Pour les mêmes raisons que Mme Pires Beaune, je le retire.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643057" ordre_absolu_seance="202" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145089" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Nous prenons acte de votre position, madame Louwagie, mais vous n’êtes pas signataire de l’amendement…<br/>La parole est à Mme Véronique Louwagie, pour soutenir l’amendement n<exposant>o</exposant> 162.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643059" ordre_absolu_seance="204" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145091" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Véronique Louwagie</nom>
+                <id>608016</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Veuillez m’excuser pour cette erreur, monsieur le président !<br/>L’amendement n<exposant>o</exposant> 162 de Marc Le Fur propose la création d’un fonds de soutien aux monuments historiques ainsi qu’aux parcs et jardins recevant du public. Du fait de leur fermeture administrative, ils n’ont pu recevoir personne et ont vu leurs recettes diminuer fortement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643061" ordre_absolu_seance="206" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2145093" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643062" ordre_absolu_seance="207" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2145094" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Demande de retrait.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643065" ordre_absolu_seance="208" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145097" type_debat="PLF" valeur=" 162" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>162, repoussé par le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643066" ordre_absolu_seance="209" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2145098" valeur=" 409" bibard="" art=" état B  9" adt=" 409" ssadt="">
+        <interExtraction nom_orateur="Mme Véronique Louwagie" id_acteur="PA608016" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723024">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643066" ordre_absolu_seance="209" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2145098" type_debat="PLF" valeur=" 409" bibard="" art=" état B  9" adt=" 409" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de trois amendements identiques, n<exposant>os</exposant> 409, 922 et 1834.<br/>La parole est à Mme Véronique Louwagie, pour soutenir l’amendement n<exposant>o</exposant> 409.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643067" ordre_absolu_seance="210" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145099" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Véronique Louwagie</nom>
+                <id>608016</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement de notre collègue Fabrice Brun vise à financer le versement d’une prime exceptionnelle de 1 000 à 1 500 euros pour les salariés des sous-traitants travaillant dans les EHPAD, quel que soit le statut de ces établissements.<br/>Après l’annonce par le Gouvernement du versement d’une prime exceptionnelle aux professionnels des secteurs sociaux et médico-sociaux mobilisés durant la crise sanitaire, les salariés des sous-traitants, qui n’en sont pas bénéficiaires, ont ressenti une forte injustice et une grande incompréhension. Eux aussi ont mis leur vie en danger pendant la crise. Nous proposons donc de leur verser également cette prime.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643069" ordre_absolu_seance="212" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2145101" valeur=" 922" bibard="" art=" état B  9" adt=" 922" ssadt="">
+        <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643069" ordre_absolu_seance="212" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2145101" type_debat="PLF" valeur=" 922" bibard="" art=" état B  9" adt=" 922" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Christine Pires Beaune, pour soutenir l’amendement n<exposant>o</exposant> 922.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643070" ordre_absolu_seance="213" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145102" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Christine Pires Beaune</nom>
+                <id>608172</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les décrets annonçant le versement d’une prime exceptionnelle aux personnels des établissements publics de santé et aux personnels médico-sociaux ont été publiés, mais une catégorie a été oubliée : les salariés des sous-traitants des EHPAD. L’amendement vise à réparer cet oubli.<br/>J’ajoute qu’un recours a été déposé devant le Conseil d’État par la CFDT santé sociaux afin de demander l’annulation des décrets déjà parus, qui créent une rupture d’égalité. Or les salariés des sous-traitants affectés à temps plein dans les EHPAD méritent la même prime que les autres professionnels.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643072" ordre_absolu_seance="215" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2145104" valeur=" 1834" bibard="" art=" état B  9" adt=" 1834" ssadt="">
+        <interExtraction nom_orateur="M. Hubert Julien-Laferrière" id_acteur="PA722344" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723546">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643072" ordre_absolu_seance="215" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2145104" type_debat="PLF" valeur=" 1834" bibard="" art=" état B  9" adt=" 1834" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Hubert Julien-Laferrière, pour soutenir l’amendement n<exposant>o</exposant> 1834.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643073" ordre_absolu_seance="216" id_acteur="PA722344" id_mandat="PM723546" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145105" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Hubert Julien-Laferrière</nom>
+                <id>722344</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Tous les députés ont salué la décision du Gouvernement de verser une prime de 1 000 à 1 500 euros aux professionnels des EHPAD en première ligne pendant la crise sanitaire, mais ne pas élargir le versement de cette prime aux 16 000 salariés des sous-traitants conduirait à une rupture d’égalité.<br/>Ces salariés travaillent dans les mêmes établissements et dans les mêmes services que les autres professionnels. Ils exercent le même métier, font la plonge, préparent les repas, nettoient les chambres des patients et sont tout aussi  exposés au covid-19 que leurs collègues, avec lesquels ils travaillent tous les jours. La seule différence entre eux, c’est l’en-tête de leur fiche de paie.<br/>Les 16 000 salariés des sous-traitants des EHPAD ne sont pas traités de la même manière que les autres professionnels, au seul motif de leur statut. Or, quand un EHPAD change de sous-traitant, les salariés de ce sous-traitant restent généralement dans l’établissement et sont embauchés par le nouveau sous-traitant.<br/>On ne peut que se réjouir du versement d’une prime exceptionnelle aux professionnels du secteur sanitaire et médico-social exposés pendant la crise sanitaire, mais il doit impérativement être étendu aux salariés des sous-traitants des EHPAD, sous peine de créer une rupture d’égalité pour ces salariés pleinement intégrés aux équipes et à leur organisation quotidienne.<br/>La mesure que nous proposons représenterait un coût de 20 millions d’euros, pris sur le programme « Renforcement exceptionnel des participations financières de l’État dans le cadre de la crise sanitaire ».</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643078" ordre_absolu_seance="221" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2145110" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Très brièvement, quel est l’avis de la commission sur ces amendements identiques ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643079" ordre_absolu_seance="222" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2145111" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <id>720878</id>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Demande de retrait.<br/>Je félicite Cédric O pour le travail qu’il a accompli comme secrétaire d’État chargé du numérique. <italique>(Applaudissements sur les bancs des groupes LaREM et Agir ensemble.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643081" ordre_absolu_seance="224" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145113" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>721824</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je mets donc aux voix les amendements sans demander l’avis de M. le secrétaire d’État… <italique>(Sourires.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1643082" ordre_absolu_seance="225" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145114" type_debat="PLF" valeur=" 409, 922 et 1834" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements identiques n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>409, 922 et 1834 ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1643084" ordre_absolu_seance="227" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2145116" type_debat="PLF" valeur="">
+        <orateurs/>
+        <texte>Démission du Gouvernement</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1643085" ordre_absolu_seance="228" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2145117" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, nous venons d’apprendre que le Président de la République a accepté la démission du Gouvernement présentée par le Premier ministre. Nous allons, par conséquent, interrompre nos travaux.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1643086" ordre_absolu_seance="229" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2145118" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à neuf heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1643087" ordre_absolu_seance="230" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2145119" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

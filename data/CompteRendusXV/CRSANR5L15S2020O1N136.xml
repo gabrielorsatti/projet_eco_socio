@@ -1,0 +1,1664 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N136</uid>
+  <metadonnees>
+    <dateSeance>20200205214500000</dateSeance>
+    <dateSeanceJour>mercredi 05 février 2020</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>136</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200136</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Thu, 06 Feb 2020 15:32:34 GMT</horaireGmt>
+    <heureGeneration>2020-02-06T16:32:34.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2002189">Présidence de Mme Laetitia Saint-Paul</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2002193">
+          <intitule>Questions sur le financement des infrastructures de transport</intitule>
+        </titreStruct>
+        <para id_syceron="2002196">Mme Sylvia Pinel</para>
+        <para id_syceron="2002200">M. Jean-Baptiste Djebbari, secrétaire d’État chargé des transports</para>
+        <para id_syceron="2002204">Mme Sylvia Pinel</para>
+        <para id_syceron="2002209">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002214">M. Yannick Favennec Becot</para>
+        <para id_syceron="2002221">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002226">M. Hubert Wulfranc</para>
+        <para id_syceron="2002229">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002410">M. Bertrand Pancher</para>
+        <para id_syceron="2002418">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002422">M. François Ruffin</para>
+        <para id_syceron="2002426">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002429">M. François Ruffin</para>
+        <para id_syceron="2002434">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002440">M. Jean-Paul Dufrègne</para>
+        <para id_syceron="2002448">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002454">Mme Bérangère Abba</para>
+        <para id_syceron="2002554">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002558">Mme Nathalie Sarles</para>
+        <para id_syceron="2002565">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002570">M. Pascal Lavergne</para>
+        <para id_syceron="2002576">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002581">Mme Frédérique Lardet</para>
+        <para id_syceron="2002590">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002593">M. Jean-Marc Zulesi</para>
+        <para id_syceron="2002599">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002602">M. Stéphane Viry</para>
+        <para id_syceron="2001940">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2001947">M. Jean-Marie Sermier</para>
+        <para id_syceron="2001951">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2001959">M. Fabrice Brun</para>
+        <para id_syceron="2001968">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2001976">M. Maxime Minot</para>
+        <para id_syceron="2001979">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2001983">M. Bruno Millienne</para>
+        <para id_syceron="2002097">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002102">M. Bruno Millienne</para>
+        <para id_syceron="2002113">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002118">Mme Florence Lasserre</para>
+        <para id_syceron="2002125">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002128">Mme Christine Pires Beaune</para>
+        <para id_syceron="2002135">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002145">M. Joël Aviragnet</para>
+        <para id_syceron="2002279">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002283">Mme Sophie Auconie</para>
+        <para id_syceron="2002290">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002294">M. Jean-Luc Warsmann</para>
+        <para id_syceron="2002299">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+        <para id_syceron="2002307">M. Sébastien Nadot</para>
+        <para id_syceron="2002313">M. Jean-Baptiste Djebbari, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2002318">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 05 février 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1554593" ordre_absolu_seance="1" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2002189" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Laetitia Saint-Paul<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1554594" ordre_absolu_seance="2" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002190" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1554595" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2002191" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures quarante-cinq.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554597" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2002193" valeur="">
+      <orateurs/>
+      <texte>Questions sur le financement des infrastructures de transport</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554598" ordre_absolu_seance="6" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002194" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle les questions sur le financement des infrastructures de transport.<br/> Je vous rappelle que la conférence des présidents a fixé à deux minutes la durée maximale de chaque question et de chaque réponse, sans droit de réplique.<br/>La parole est à Mme Sylvia Pinel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554600" ordre_absolu_seance="8" id_acteur="PA336175" id_mandat="PM723328" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002196" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sylvia Pinel</nom>
+            <id>336175</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le secrétaire d’État chargé des transports, alors que 2020 devait marquer le terme de la précédente génération des contrats de plan État-région – CPER –, leur taux d’exécution est loin d’être satisfaisant. Première victime de ces insuffisances : le volet mobilité, qui accumule les retards. Fin 2019, le taux d’engagement des CPER en matière de transports atteignait 51,1 % ; en 2020, les 718 millions d’euros d’autorisations d’engagement demandés dans le cadre de la loi de finances devraient permettre d’atteindre un taux d’engagement de 64 %.<br/>À ce rythme, nous devrions atteindre les 80 % fin 2022, bien loin des 100 % initialement prévus pour 2020. Comment expliquer un tel décalage, qui repousse de nombreux projets d’aménagement du territoire, souvent essentiels ? Sur le terrain, les interrogations sont nombreuses, notamment concernant la fiabilité des financements et la parole de l’État. Pouvez-vous nous confirmer le report des crédits dédiés au volet mobilité sur les deux années à venir, afin de régler les grandes difficultés de financement des contrats en cours ?<br/>Parallèlement, vous avez décidé de relancer des négociations en vue des CPER 2021-2027 sans y inclure la question des infrastructures de transport. Cette méthode interroge. Tout d’abord, ce faisant, vous videz les CPER de leur substance : les transports représentent 50 % des crédits contractuels ; sans eux, comment garantir une vision cohérente du développement territorial ? Ensuite, votre décision de prolonger la contractualisation ne présage en rien d’une meilleure exécution financière des prochains CPER. Aussi, monsieur le secrétaire d’État, quelles garanties pouvez-vous nous fournir pour les prochains contrats ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554602" ordre_absolu_seance="11" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002402" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Dufrègne</nom>
+            <id>718720</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Excellente question !</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État chargé des transports" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554603" ordre_absolu_seance="12" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé des transports.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554604" ordre_absolu_seance="13" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002200" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État chargé des transports</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En matière de transports, vous le savez, les opérations financées par les CPER à l’échelle nationale représentent, après revoyure en 2016 et 2017, tous cofinanceurs confondus, près de 24 milliards d’euros, dont 7,2 milliards financés par l’État. Le taux d’engagement national des CPER pour les crédits de l’État est de 52,5 % fin 2019. Toutefois, des disparités existent entre les régions, du fait notamment des différences de maturité des projets qu’il est proposé de financer ou de la réorientation des crédits en cours d’exécution.<br/>Je partage évidemment votre souhait de voir un maximum de projets se concrétiser dans le territoire ; c’est pourquoi, à ma demande et à la demande des régions, la prolongation des actuels CPER jusqu’en 2022 s’accompagne de la possibilité de redéployer des crédits au sein des CPER vers des opérations plus mûres ou plus immédiates.<br/>Par ailleurs, la promulgation de la loi d’orientation des mobilités, la LOM, et le projet de loi 3D – décentralisation, différenciation et déconcentration – ouvrent de nouvelles perspectives concernant les priorités retenues par l’État en matière d’investissement et le partage des responsabilités en matière de mobilité. Ce cadre trouvera à se stabiliser d’ici à 2021, notamment par les principaux textes d’application de la LOM et les documents stratégiques que celle-ci prévoit. S’y ajoutent des démarches spécifiques en cours qui associent l’État et les régions, dont la préparation du plan d’action par région résultant de la mission Philizot – j’y reviendrai peut-être un peu plus tard à l’occasion de vos questions –, et les résultats des concertations territoriales engagées dans le cadre du projet 3D en matière de transfert et de délégation de compétences et d’infrastructures. Tous ces éléments seront bien sûr pris en considération dans la future contractualisation relative à la mobilité qui prendra le relais des CPER fin 2022.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sylvia Pinel" id_acteur="PA336175" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723328">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554607" ordre_absolu_seance="16" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002203" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à nouveau à Mme Sylvia Pinel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554608" ordre_absolu_seance="17" id_acteur="PA336175" id_mandat="PM723328" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002204" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sylvia Pinel</nom>
+              <id>336175</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite maintenant vous interroger, monsieur le secrétaire d’État, sur la ligne à grande vitesse, ou LGV, Bordeaux-Toulouse – un projet structurant, essentiel à l’attractivité et au dynamisme de la région Occitanie. Je rappelle que Toulouse est la seule grande métropole française à ne pas bénéficier d’une LGV. Or une telle ligne, qu’il ne faut pas opposer aux trains du quotidien, est indispensable pour faciliter la mobilité de nos concitoyens et desservir notre territoire.<br/>Le tracé prévu, long de 70 kilomètres, traverse trente-trois communes de mon département ; aussi souhaiterais-je obtenir des réponses claires et précises à trois questions.<br/>Pouvez-vous me confirmer le calendrier des études, des travaux et de la mise en service de l’itinéraire Toulouse-Bordeaux ?<br/>S’agissant du financement, l’article 4 de la LOM permet la création de sociétés dédiées au financement d’infrastructures de transport. La région Occitanie est particulièrement active en la matière et a grandement contribué à faire émerger de tels montages financiers. Pouvez-vous m’indiquer si les délais prévus par la LOM seront respectés et quelles seront les modalités ? Il convient de bien informer les collectivités territoriales concernées.<br/>Enfin, je voudrais vous interroger sur la situation des riverains affectés par le tracé. Depuis le début du débat public, en 2005, de nombreuses familles vivent dans l’incertitude quant à leur avenir personnel ou à celui de leur activité économique. Il est important d’apporter des réponses claires à ces personnes. Nous faisons face à des problèmes très concrets de succession, d’aliénation et de travaux, puisque les parcelles font l’objet d’un gel ; il est donc nécessaire de poursuivre les acquisitions foncières anticipées et d’élaborer une nouvelle convention de financement. Un investissement de l’État à parité avec celui des collectivités est attendu pour poursuivre l’action foncière. Quelle est votre position sur ce problème, que le département de Tarn-et-Garonne espère voir rapidement résolu ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554612" ordre_absolu_seance="22" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002208" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554613" ordre_absolu_seance="23" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002209" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison, madame Pinel, de rappeler le caractère structurant du projet de LGV entre Bordeaux et Toulouse, qui – je le précise – n’avait pas été inclus dans les programmations précédentes, notamment celle de la commission Mobilité 21. Dans la LOM, il est prévu que les études soient entièrement réalisées sur la période 2023-2027. Vous avez fait référence à l’article 4 ; en effet, le texte prévoit la création, par voie d’ordonnance, d’établissements publics locaux ou sociétés de projet pour ces grandes infrastructures. Ces ordonnances seront prises dans les vingt-quatre mois à compter de la promulgation de la loi, intervenue en décembre dernier.<br/>Il est évident que la définition d’un plan de financement robuste et partagé est une condition essentielle pour bénéficier d’un tel projet. Ces dispositifs ayant vocation à engendrer des prélèvements obligatoires, le calibrage et l’acceptabilité locale de ces derniers doivent tout aussi évidemment être au rendez-vous.<br/>À court terme, vous l’avez dit, les besoins sont patents et des opérations de désaturation des nœuds de Bordeaux et de Toulouse apparaissent indispensables. C’est pourquoi, dès 2020, l’État sera au rendez-vous et mobilisera plus de 31 millions d’euros d’engagements financiers au travers de l’Agence de financement des infrastructures de transport de France, l’AFITF, pour améliorer le fonctionnement de l’étoile ferroviaire de Toulouse, incluant l’engagement des études de niveau projet sur les aménagements ferroviaires au nord de la ville.<br/>Pour ce qui est de la seconde partie de votre question, qui porte sur les acquisitions foncières, je vous ferai une réponse écrite, qui sera plus complète que ce que je pourrais vous en dire ce soir.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Yannick Favennec Becot" id_acteur="PA267042" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722910">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554617" ordre_absolu_seance="27" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Yannick Favennec Becot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554618" ordre_absolu_seance="28" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002214" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec Becot</nom>
+              <id>267042</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, vous considérez que « le réseau doit être le pivot du système ferroviaire ». Pourtant, trop souvent, ce réseau est déficitaire quand il n’est pas inexistant. Permettez-moi d’avoir une pensée pour la petite ligne qui reliait Laval à Mayenne. En dépit d’une mobilisation continue des Mayennais, elle n’a jamais été rouverte dans ce département rural soucieux d’une mobilité plus durable.<br/>La qualité du réseau laisse, elle aussi, à désirer. En janvier 2019, SNCF Réseau indiquait que seules 29 % des lignes régionales étaient jugées en bon état, tandis que plus de la moitié était touchée par des ralentissements, voire par une suspension de service. Aussi la remise en état du réseau ferré constitue-t-elle un enjeu prioritaire.<br/>Pourtant, nous attendons toujours le rapport Philizot censé répertorier les besoins de chacune des lignes irriguant les régions françaises. Vous avez pu dire que « le temps des rapports était passé et qu’il était nécessaire de mettre en place de véritables plans d’action » ; je crois au contraire que les rapports sont un préalable indispensable pour éclairer la décision publique et pour savoir où investir et comment accompagner la renaissance de certaines petites lignes.<br/>Quant aux plans d’action, ils devraient permettre, après une concertation entre l’État, la SNCF et les régions, de trouver des solutions innovantes afin de sauvegarder les petites lignes ferroviaires, et ce avant le 15 février. Pouvez-vous nous confirmer cette échéance ?<br/>Par ailleurs, vous parlez d’un budget de plusieurs milliards d’euros ; pouvez-vous nous indiquer quels financements sont attendus pour les petites lignes ?<br/>Les TER sont aujourd’hui majoritairement couverts par la subvention des régions, à hauteur de plus de 3 milliards d’euros, et par les voyageurs, à hauteur de 1 milliard d’euros ; quel sera l’équilibre retenu dans ces nouveaux plans ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554624" ordre_absolu_seance="34" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002220" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554625" ordre_absolu_seance="35" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour commencer, je partage votre constat sur la vétusté du réseau et sur le cercle vicieux qui s’est installé depuis de nombreuses années. Je crois que tout le monde convient qu’il faut y mettre un terme pour trouver les voies de la régénération et des solutions innovantes.<br/>Je voudrais faire le point sur la mission Philizot. Je l’avais demandée comme député – je suis donc tout à fait à l’aise à ce sujet – et j’en ai reçu l’avant-projet lors de ma nomination au ministère. J’ai alors demandé au préfet Philizot de repartir au contact des régions pour construire avec elles des plans concertés qui viseraient, en partenariat avec SNCF Réseau et l’État, à définir le bon niveau d’entretien et de régénération ainsi que les clés de financement. Il s’agira de favoriser autant que possible ces actions, en tirant pleinement parti des dispositions de la LOM pour dégager des solutions innovantes.<br/>Ces plans sont aujourd’hui quasiment achevés. Nous sommes à quelques semaines de la date du 15 février que j’avais évoquée, mais je mettrai tout en œuvre pour respecter ce délai avec les régions qui sont les plus prêtes à signer. Pour être tout à fait honnête, nous poursuivons encore les discussions avec certaines d’entre elles, mais je confirme que les travaux seront de grande ampleur et qu’ils seront menés en partenariat avec les régions.<br/>J’avais chiffré les besoins – ce chiffre est public – à 7 milliards d’euros, avant optimisation industrielle et exploitation des dispositions de la LOM. Ce montant tout à fait considérable témoigne de l’effort à consentir de façon concertée pour régénérer l’ensemble des petites lignes. La ligne Laval-Mayenne, interrompue depuis le début des années 1970, fera peut-être l’objet d’un examen dès lors que les collectivités en feront la demande et que l’analyse de sa situation économique sera faite.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Hubert Wulfranc" id_acteur="PA722110" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554629" ordre_absolu_seance="39" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002225" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Hubert Wulfranc.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554630" ordre_absolu_seance="40" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002226" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, à la suite de mon collègue, je voudrais vous poser une question récurrente en matière de réseau ferroviaire. Vous avez annoncé, il y a moins d’un mois, qu’un plan d’action concerté – une forme de pacte –, désormais sur le point d’être signé, allait décider de l’avenir des petites lignes de train. Je passe sur le fait que ce plan découle d’un rapport qui n’a pas donné lieu à un débat dans l’hémicycle ; mes questions se fonderont donc sur les éléments qui sont parus dans la presse.<br/>Le plan annoncé serait doté de plusieurs milliards d’euros et destiné à préserver le maximum de petites lignes. Ces dernières seraient classées en trois catégories : les lignes structurantes pour le territoire, les lignes qu’il est déjà prévu de rénover dans le cadre des actuels CPER, et les autres, dont le sort sera décidé par les régions. Compte tenu des enjeux, pourriez-vous nous préciser ces informations ? Comment ces milliards d’euros seront-ils répartis ? Sur les 9 000 kilomètres de lignes, comment classe-t-on chaque tronçon dans les catégories retenues ? Les autres lignes, dont le sort est laissé à l’appréciation des régions, peuvent-elles être intéressées financièrement au pacte à signer avant le 15 février ? Enfin, les plans d’action régionaux devant être signés de manière imminente, quelles sont les régions matures et volontaires qui vont le faire, et à partir de quelle clé de répartition ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554632" ordre_absolu_seance="42" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002228" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1554633" ordre_absolu_seance="43" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002229" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Wulfranc, j’avais évoqué 7 milliards d’euros à propos du volume avant optimisation industrielle ; en l’état, il resterait à peu près 6,2 milliards d’euros à financer – ce qui, vous en conviendrez, est considérable. J’aurai l’occasion de vous fournir des données plus précises puisque je suis invité à venir m’exprimer, dans les quinze jours, devant la commission du développement durable.<br/>Vous avez rappelé la typologie des lignes : les lignes les plus fréquentées, les lignes faisant l’objet d’un cofinancement dans le cadre d’un CPER et les lignes qui pourraient faire l’objet, demain, à la demande des régions, de solutions innovantes telles que le train léger. Mme Auconie, qui viendra nous rejoindre tout à l’heure, pourrait donner l’exemple de la ligne Tours-Loche, qui s’y prêterait parfaitement.<br/>Lors des discussions avec les collectivités, j’ai noté que s’exprimait bien souvent une demande de solution ferroviaire, que l’on peut satisfaire de différentes manières s’agissant de lignes peu fréquentées.<br/>J’en viens à la clé de répartition des financements. Dans le cadre des actuels CPER, les régions financent 60 % des investissements, le reste étant pris en charge par l’État et SNCF Réseau. Si l’on intègre à la fois l’investissement et l’exploitation, ce qui rend compte de l’action de chacun, le ratio s’inverse : 40 % pour la région et 60 % pour l’État et SNCF Réseau. Cette clé a vocation à perdurer dans le plan d’action concertée que nous aurons l’occasion d’évaluer et d’étudier ensemble.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554689" ordre_absolu_seance="3" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002408" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et l’intéressement des petites lignes ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bertrand Pancher" id_acteur="PA333421" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722920">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554690" ordre_absolu_seance="4" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002409" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez pas de droit de réplique, monsieur Wulfranc. La parole est à M. Bertrand Pancher.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554691" ordre_absolu_seance="5" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002410" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaiterais faire le point sur le budget de l’AFITF.<br/>En la matière, le projet de loi de finances pour 2020 a marqué un infléchissement positif en permettant de renflouer ce budget à hauteur de 500 millions d’euros par an, grâce à l’augmentation des ressources issues de la taxe intérieure de consommation sur les produits énergétiques – TICPE –, à la hausse de la taxe de solidarité sur les billets d’avion, et à la taxe d’aménagement du territoire. Tout cela est très bien.<br/>D’après la trajectoire prévue, pour la période 2018-2022, les crédits alloués à l’AFITF seront de 13,5 milliards d’euros au lieu de 9,5 milliards d’euros initialement fixés. Nous nous réjouissons évidemment du fait que ce budget atteigne à présent 2,7 milliards d’euros par an. Néanmoins, si l’on veut atteindre les objectifs retenus dans le scénario 2 du Conseil d’orientation des infrastructures – COI –, le compte n’y est toujours pas : tous les experts et toutes les collectivités qui suivent le dossier nous disent qu’il y manque encore 500 millions d’euros par an.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554694" ordre_absolu_seance="8" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002413" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec Becot</nom>
+              <id>267042</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554695" ordre_absolu_seance="9" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2002414" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Or, s’il n’est pas la panacée, le scénario 2 doit permettre de réaliser les rénovations et la régénération indispensable du réseau existant et d’engager de nouveaux projets importants pour l’avenir de nos territoires.<br/>Des questions demeurent donc. On me dit que vous seriez en passe de trouver les 500 millions d’euros annuels supplémentaires. Si vous le confirmez, pouvez-vous nous dire quels sont les montages financiers utilisés ? Si ce n’est pas le cas, les quelque 3 milliards d’euros annuels ne sont pas atteints. Quels projets du scénario 2 du COI devrez-vous alors différer ou au moins retarder ?<br/>Quoi qu’il en soit, il manque encore 1,1 milliard d’euros que l’AFITF doit verser pour la réalisation du canal Seine-Nord Europe. Qu’en est-il de ce financement et de l’indispensable montée en régime de la régénération ferroviaire et routière, qui n’est pas prise en compte dans le budget de l’AFITF ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554698" ordre_absolu_seance="12" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554699" ordre_absolu_seance="13" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002418" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons eu l’occasion de débattre de ces questions lors de l’examen de la LOM. Sur le fondement des travaux du COI, auxquels vous avez participé, une trajectoire a été construite qui permet d’aboutir à 13,4 milliards d’euros, ce qui est légèrement inférieur au montant de 14,7 milliards d’euros retenu dans le scénario 2 original.<br/>Quoi qu’il en soit, les infrastructures approuvées dans la LOM – pour un montant de 13,4 milliards d’euros sur la durée du quinquennat – seront financées, comme s’y était engagée la ministre à l’époque. Deux mesures avaient été prises pour trouver les 380 millions d’euros qui manquaient : la réduction de 2 centimes d’euro par litre du remboursement partiel de TICPE au transport routier ; la taxe sur les billets d’avion.<br/>S’agissant du canal Seine-Nord Europe, je vous renvoie à la lettre du Premier ministre, en date du 17 décembre dernier, où il indique que le financement se ferait au moyen de ressources supplémentaires, sans que l’on touche à la trajectoire du budget de l’AFITF.<br/>Nous aurons l’occasion de débattre à nouveau en détail des ressources de l’AFITF lors de l’examen du projet de loi de finances pour 2021, une échéance certes un peu lointaine.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François Ruffin" id_acteur="PA722142" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723484">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554702" ordre_absolu_seance="61" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002421" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François Ruffin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554703" ordre_absolu_seance="62" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002422" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Ruffin</nom>
+              <id>722142</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les tarifs des péages autoroutiers vont augmenter d’environ 1 % cette année. Ce cadeau d’environ 100 millions d’euros à Vinci et compagnie s’ajoute à d’autres cadeaux : déjà, la Cour des comptes avait estimé que le prix de vente des tronçons autoroutiers, en 2005, avait été sous-évalué de 10 milliards d’euros, un vrai bradage qui a permis, depuis des années, de délivrer des dividendes comme une rente. Le terme de rente n’est pas de moi, il figure dans des rapports officiels qui estiment que le montant des dividendes est supérieur de 20 milliards d’euros à celui qui était attendu.<br/>Pourquoi cette augmentation des tarifs des péages ? Monsieur le secrétaire d’État, sur les ondes d’une radio, je vous ai entendu répondre qu’un pacte secret – vous ne l’appelez pas comme ça – a été conclu à l’époque entre Ségolène Royal, Emmanuel Macron et les sociétés d’autoroutes. En échange d’un allongement de la durée des concessions et du droit d’augmenter les tarifs de péage à partir de 2019 – nous y sommes –, les sociétés d’autoroutes s’engageaient à réaliser quelques investissements. Or, selon l’Autorité de régulation des activités ferroviaires et routières – ARAFER –, un tiers des travaux des cinquante-trois opérations du plan d’investissements est inutile et, dans 41 % des cas, le coût des travaux est surévalué de 30 %.<br/>Quand vous étiez député, vous souhaitiez la nationalisation des sociétés d’autoroutes, nous ne l’avons pas oublié. Le constat de l’ARAFER ne vous donne-t-il pas un levier d’action pour, au moins, sanctionner ces sociétés ? Vous pourriez les frapper au portefeuille au lieu de leur octroyer une rente supplémentaire en s’alignant sur des hausses de tarifs chaque année.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554706" ordre_absolu_seance="65" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554707" ordre_absolu_seance="66" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002426" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons déjà eu ce débat à plusieurs reprises, y compris ici même. Je n’ai pas parlé de pacte secret, mais de respect des contrats dans un État de droit. Pour la plupart, ces contrats n’ont d’ailleurs pas été noués en 2015 ; ils sont anciens car les concessions autoroutières sont apparues au milieu des années 1960. Quant au calcul du tarif des péages autoroutiers, il est public : il évolue en fonction de l’inflation annuelle constatée, soit 0,7 % actuellement.<br/>S’agissant de l’avenir des autoroutes, ma position n’a pas changé depuis l’époque où j’étais député : les premières concessions arrivent à échéance en 2031 et il y aura un futur à construire. L’échéance se rapproche et je vous confirme qu’un travail est en cours au ministère à ce sujet. Je reviendrai m’en expliquer devant vous quand vous le souhaiterez.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François Ruffin" id_acteur="PA722142" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723484">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554709" ordre_absolu_seance="68" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002428" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François Ruffin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554710" ordre_absolu_seance="69" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002429" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Ruffin</nom>
+              <id>722142</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez pas répondu à ma question s’agissant du rapport de l’ARAFER, monsieur le secrétaire d’État. Je le répète, selon l’ARAFER, les travaux effectués dans le cadre de ce pacte – confidentiel, à tout le moins – ont été pour beaucoup inutiles ou effectués à des coûts surévalués. Ne disposez-vous pas là d’un levier pour sanctionner les sociétés d’autoroutes au lieu de leur accorder un relèvement de la rente ?<br/>Après ce droit de suite, j’en viens à ma seconde question, inspirée par un papier paru dans le quotidien <italique>Sud Ouest </italique>sur le mouvement de grève lancé par les agents de la direction interdépartementale des routes Atlantique – DIRA. Ils s’opposent notamment à la destruction du service public des routes et à la privatisation des routes nationales.<br/>À l’automne dernier, j’avais demandé à pouvoir consulter le rapport Roche-Rapoport, qui prévoit, semble-t-il, la privatisation d’une partie des routes nationales. Ce rapport ne m’est pas parvenu, pas plus qu’à mes collègues. Des mois se sont écoulés. Je le réclame de nouveau, car j’aimerais bien savoir si, comme je l’ai entendu sur les ondes de Franceinfo, il mentionne que 10 000 kilomètres du réseau routier français seront livrés aux concessionnaires autoroutiers, c’est-à-dire à ces mêmes sociétés auxquelles on a déjà fait un cadeau il y a un paquet d’années.<br/>Que vont devenir les routes nationales ? Va-t-on aussi en faire cadeau à Vinci ! Et n’oubliez pas de me répondre au sujet du rapport de l’ARAFER !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554714" ordre_absolu_seance="73" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002433" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554715" ordre_absolu_seance="74" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002434" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai eu l’occasion d’apporter une réponse politique précise à propos du rapport Roche-Rapoport – support technique d’une décision politique. J’ai dit qu’il n’y aurait pas de transfert systématique du réseau routier national, et donc de privatisation. Certaines collectivités ont formulé des demandes très localisées et portant sur un très faible nombre de kilomètres, qui donneront lieu à un traitement particulier. Mais le Gouvernement n’a pas de projet de transfert systématique, de décentralisation systématique et encore moins de privatisation concernant le réseau routier national.<br/>S’agissant du rapport lui-même, je vais faire rechercher les courriers par mes services. Il n’y a pas de raison qu’il ne vous soit pas fourni ; je m’engage à vous le transmettre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554717" ordre_absolu_seance="76" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002436" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Ruffin</nom>
+              <id>722142</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et le rapport de l’ARAFER ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554717" ordre_absolu_seance="77" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002550" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Poursuivez, monsieur le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554718" ordre_absolu_seance="78" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2002437" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous poursuivrons notre dialogue par ailleurs. Je n’aurai aucun problème à parler du rapport de l’ARAFER. S’agissant du rapport Roche-Rapoport, sur lequel portait votre question, je vous répète qu’il n’y a pas de raison pour que je ne vous le fournisse pas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554719" ordre_absolu_seance="79" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002438" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Ruffin</nom>
+              <id>722142</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez toujours pas répondu à ma première question !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Dufrègne" id_acteur="PA718720" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722436">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554720" ordre_absolu_seance="80" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002439" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Dufrègne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554721" ordre_absolu_seance="81" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002440" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La question des infrastructures de transport est primordiale. Certains dossiers, comme la sécurité de nos routes ou leur financement, reviennent sans cesse sur le devant de la scène, le problème n’étant jamais totalement réglé.<br/>C’est le cas de la route Centre-Europe Atlantique – RCEA – et de la RN7, deux routes nationales essentielles qui se croisent dans mon département ; il s’agit donc d’un sujet local d’intérêt national.<br/>Un tronçon de la RCEA, tristement célèbre et surnommée la route de la mort, passe dans ma circonscription. Pendant des années, les accidents se sont multipliés, arrachant la vie à des dizaines de personnes.<br/>Afin d’accélérer sa mise à deux fois deux voies, les élus, toutes sensibilités confondues, ont accepté le principe d’une mise à deux fois deux voies par concession autoroutière pour la partie située dans l’Allier. Le contrat doit être signé prochainement avec la société attributaire, Eiffage SA, et Autoroutes Paris-Rhin-Rhône – APRR. Les travaux, d’une durée de dix-huit mois, vont être engagés rapidement.<br/>L’une des conditions d’acceptation de la mise à deux fois deux voies par concession autoroutière était que les crédits ainsi économisés par l’État soient concentrés sur l’aménagement à deux fois deux voies de la RN7. Le contournement de Villeneuve-sur-Allier vient d’être mis en service, mais il reste à réaliser le barreau de Trévol pour rejoindre l’échangeur RN7-RCEA, pris en compte dans la concession, ainsi que le contournement de Bessay-sur-Allier. Or, à ce jour, rien n’est programmé.<br/>Où en sont véritablement les études, et quelle programmation est-elle envisagée ? L’État doit tenir ses engagements et accélérer le processus. Tout le monde s’accorde à dire que cela n’a que trop duré.<br/>Monsieur le secrétaire d’État, pouvez-vous préciser vos intentions concernant cet axe important, pour rassurer les élus et les habitants de l’Allier ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554728" ordre_absolu_seance="88" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002447" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554729" ordre_absolu_seance="89" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002448" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, vous avez rappelé la nécessité de mettre à deux fois deux voies la RN7 dans les départements de la Loire et de l’Allier, afin d’assurer la sécurité – enjeu important – des usagers et des riverains sur un axe à fort trafic d’échanges et de transit. Dans la Loire, il s’agit de la section Les Baraques-Les Tuileries et, dans l’Allier, des sections RCEA-Bessay sud, de la section nord de la déviation de Varennes et du barreau de Trévol.<br/>À l’heure actuelle, l’aménagement à deux fois deux voies de la RN7 se poursuit dans l’Allier. Dans l’actuel contrat de plan État-région, 54 millions d’euros sont inscrits pour l’aménagement de l’itinéraire, presque intégralement financé par l’État, pour le seul département de l’Allier.<br/>La programmation budgétaire pour 2020 a notamment retenu une enveloppe de 900 000 euros – la part de l’État étant de 256 000 euros – pour la poursuite des études de la déviation de Bessay-sur-Allier, et 50 000 euros pour le barreau de Trévol. Les études permettront, comme dans le cas de la Loire, de tenir compte de ces projets dans les réflexions sur la prochaine contractualisation. Enfin, une enveloppe de 5,5 millions d’euros, versée à 100 % par l’État, est prévue pour achever les travaux de déviation de Villeneuve-sur-Allier, en vue de sa mise en service complète en 2020.<br/>En ce qui concerne la RCEA, je précise que 45 millions d’euros sont sanctuarisés dans la trajectoire budgétaire de l’AFITF, et que le contrat de concession, que vous avez évoqué, sera bien signé au cours des prochains mois.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Bérangère Abba" id_acteur="PA720242" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722902">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554734" ordre_absolu_seance="93" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002453" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Bérangère Abba.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1554735" ordre_absolu_seance="94" id_acteur="PA720242" id_mandat="PM722902" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002454" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bérangère Abba</nom>
+              <id>720242</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, fin novembre 2019, quelques jours après l’adoption définitive de la LOM, vous étiez dans la Somme avec le Président de la République pour signer une convention de financement actant l’engagement de l’État dans le projet de canal Seine-Nord Europe, aux côtés de l’Union européenne et des collectivités.<br/>Ce canal, qui reliera les bassins de la Seine et de l’Oise au réseau européen à grand gabarit du Nord de l’Europe, coûtera 5 milliards d’euros : 2 milliards apportés par l’Union européenne ; 2 milliards venant des collectivités, en l’occurrence les régions Hauts-de-France et Île-de-France, les départements du Nord, du Pas-de-Calais, de l’Oise et de la Somme ; un peu plus d’1 milliard d’euros fourni par l’État, par l’intermédiaire de l’AFITF.<br/>La LOM prévoit des investissements sans précédent dans les infrastructures de transport : une enveloppe de 13,7 milliards d’euros entre 2019 et 2023, portée à 14,3 milliards pour la période 2023-2027. Cependant, cette programmation ne comprend pas le financement par l’État du canal Seine-Nord Europe, dont la mise en service est prévue en 2028.<br/>Lors du débat budgétaire, nous avons pu dégager de nouvelles ressources pour l’AFITF, en augmentant la taxe de solidarité sur les billets d’avion, dite taxe Chirac, et en réduisant de 2 centimes d’euro le remboursement partiel de TICPE au transport routier, afin de sécuriser le financement de la programmation telle que prévue dans la LOM par le Conseil d’orientation des infrastructures.<br/>Si les ressources de l’AFITF inscrites dans la loi de finances pour 2020 sont ainsi bien conformes à ses besoins tels que les définit la LOM, celles de la période 2022-2026 devront intégrer cette nouvelle dépense, afin de tenir compte de l’engagement qui a été pris.<br/>Quelles sont les pistes de financement envisagées pour doter l’AFITF des ressources nécessaires ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554741" ordre_absolu_seance="3" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002553" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554742" ordre_absolu_seance="4" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002554" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En complément de la réponse que j’ai apportée au député Bertrand Pancher, je vous confirme, madame Abba, que le coût du projet s’élève à 5,1 milliards d’euros, dont 2,1 milliards proviennent de l’Union européenne, 1,1 milliard de l’État, 1,1 milliard des collectivités territoriales et 840 millions d’un emprunt de bouclage garanti par les collectivités.<br/>La contribution de l’AFITF sera bien assurée en complément de la trajectoire définie par la LOM. Le Premier ministre, je l’ai dit, s’y est engagé dans un courrier du 17 décembre dernier. Les ressources budgétaires qui permettront de couvrir ce financement additionnel seront définies en 2020 par les ministères financiers, pour de premières dépenses en 2021 dans le cadre de la mise en œuvre de la loi de finances. Les travaux qui le permettront sont en cours.<br/>Sachez, par ailleurs, que le transfert de la Société du canal Seine-Nord Europe aux collectivités locales, à leur demande, prend place dans cet équilibre général et relève d’une démarche de confiance. Un décret en Conseil d’État pris en application de la LOM et qui est en cours d’élaboration permettra cette transformation au 1<exposant>er</exposant> avril 2020.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nathalie Sarles" id_acteur="PA719972" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722820">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554745" ordre_absolu_seance="7" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002557" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Nathalie Sarles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554746" ordre_absolu_seance="8" id_acteur="PA719972" id_mandat="PM722820" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002558" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Sarles</nom>
+              <id>719972</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ma question s’inscrit dans la continuité de celle de mon collègue Jean-Paul Dufrègne. Un axe structurant nous lie, lui et moi : la RN7 !<br/>Cela a été dit, la RN7 traverse les départements de l’Allier, de la Nièvre et de la Loire. Vous savez, monsieur le secrétaire d’État, qu’un axe routier comme celui-là est un levier indispensable au développement économique, industriel et artisanal des territoires.<br/>Alors que la RN7 est un axe majeur d’aménagement du territoire de notre pays, 70 % seulement de l’itinéraire entre l’A77 et l’A89 est aménagé en deux fois deux voies. Les travaux menés jusqu’à présent ont mis en lumière une nécessité de sincérité et permis d’exhumer des dossiers en attente depuis une trentaine d’années malgré les promesses dont ils avaient fait l’objet.<br/>Permettez-moi, monsieur le secrétaire d’État, de vous poser une question quelque peu technique. Vous avez annoncé, pour les infrastructures, une contractualisation ad hoc à partir de 2023, dissociée du CPER 2020-2025. Comment les études préalables aux travaux seront-elles traitées d’ici à 2023 ? Un report des travaux au prochain CPER nous ferait perdre dix ans de plus. Pouvez-vous nous rassurer sur l’articulation entre les études préalables, au nombre desquelles les études archéologiques, indispensables pour lancer les travaux, et la contractualisation de 2023 ? Quelles instructions ont-elles été données par le ministère aux préfets de région pour les mener à bien ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554751" ordre_absolu_seance="109" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002563" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est dit élégamment, mais on va finir par se mettre en colère !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554752" ordre_absolu_seance="110" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002564" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554753" ordre_absolu_seance="111" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002565" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme vous le savez, madame la députée, les CPER 2015-2020 sont prolongés de deux ans et s’achèveront en 2022. Les études prévues sur la RN7 font partie de l’avenant au contrat relatif aux années 2020-2022. Les travaux interviendront au cours de la prochaine période de contractualisation, à compter de 2023, dont le cadre fait l’objet, dès cette année, d’un premier échange avec les régions, en marge de la négociation des autres volets du CPER.<br/>L’aménagement à deux fois deux voies de l’axe constitué par la RN7 et la RN82 se poursuivra donc dans ce cadre nouveau. L’objectif, à terme, d’un aménagement complet à deux fois deux voies de la RN7 entre les autoroutes A77 et A89 a été réaffirmé par l’État – nous en avons longuement débattu en commission. Il correspond, je le répète, à un impératif de sécurité des usagers et des riverains sur un axe à fort trafic d’échanges et de transit, notamment de nombreux poids lourds.<br/>L’analyse de l’ensemble de l’itinéraire a conduit à identifier quatre sections prioritaires pour la prochaine contractualisation : dans la Loire, la section entre Les Baraques-Les Tuileries ; dans l’Allier, la section entre la RCEA et Bessay-sur-Allier, la section nord de la déviation de Varennes et la section du barreau de Trévol.  <br/>Afin de permettre la réalisation des différents travaux, la programmation budgétaire de 2020 a retenu un financement de 250 000 euros pour les études relatives à la section entre Les Baraques et Les Tuileries, et de 950 000 euros concernant l’Allier. Vous le voyez, l’État assure donc la continuité entre les études et les travaux sur la RN7.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554756" ordre_absolu_seance="115" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002759" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais cela prend beaucoup de temps, monsieur le secrétaire d’État ! Trop de temps !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pascal Lavergne" id_acteur="PA719664" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM760309">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554757" ordre_absolu_seance="116" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002569" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pascal Lavergne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554758" ordre_absolu_seance="117" id_acteur="PA719664" id_mandat="PM760309" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002570" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Lavergne</nom>
+              <id>719664</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les infrastructures de transport irriguent notre territoire. Cette phrase simple comporte des enjeux majeurs, car les infrastructures de transport concernent tout le monde : tout le monde prend le train, la voiture ou même l’avion. Les transports et leur financement sont donc au cœur de nos préoccupations. J’en veux pour preuve qu’un titre entier de la LOM est consacré à la programmation et au financement des investissements dans les transports. L’ambition de la loi est de donner ainsi de la visibilité à la programmation des investissements de l’État au cours des dix prochaines années – vous le savez bien, monsieur le secrétaire d’État, puisque vous siégiez sur les bancs des députés lors de la première lecture du projet de loi.<br/>À la fin de l’année 2019, j’ai rencontré les présidents des entités de la Gironde, de la Dordogne, du Lot-et-Garonne et de Poitou-Charentes de l’Organisation des transporteurs routiers européens. Les revendications de cette profession sont connues, mais mes interlocuteurs ont fait preuve d’un esprit constructif : les échanges ont été courtois, intelligents et intéressants.<br/>Nous avons discuté de la possibilité de mettre à contribution les transporteurs routiers étrangers pour financer les infrastructures et la transition énergétique, mais aussi de la manière dont nous pourrions mieux associer les territoires à la gestion des infrastructures routières. Certains territoires subissent en effet un trafic important de poids lourds en transit, qui dégradent les infrastructures et le cadre de vie des habitants.<br/>La loi relative aux compétences de la collectivité européenne d’Alsace a transféré le réseau routier national non concédé à la nouvelle collectivité et habilité le Gouvernement à prendre, par ordonnance, des mesures mettant à contribution le trafic routier de marchandises.<br/>Monsieur le secrétaire d’État, quelles sont vos intentions à ce sujet ? De telles dispositions pourraient-elles être envisagées dans d’autres territoires ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554763" ordre_absolu_seance="122" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002575" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554764" ordre_absolu_seance="123" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002576" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je rappelle que le non-remboursement de 2 centimes par litre de TICPE a été décidé pour sécuriser la trajectoire budgétaire de l’AFITF, donc le financement de la LOM. J’ai eu l’occasion, à de multiples reprises, de débattre avec les organisations professionnelles du transport routier, notamment, mais pas seulement, avec les organisations patronales. La filière cherche actuellement à stabiliser ses finances, parfois fragiles. Nous avons prévu d’élaborer avec elle un contrat de transition énergétique afin de les aider à opérer cette nécessaire transformation.<br/>En ce qui concerne la collectivité européenne d’Alsace, le Gouvernement a souhaité tenir compte des spécificités locales en proposant des dispositions particulières. L’Alsace subit un report de trafic important depuis l’A5 allemande et pâtit de l’instauration d’une taxe sur les poids lourds en Allemagne, qui déroute les véhicules vers la France.<br/>Dans le cadre de la loi du 2 août 2019 relative aux compétences de la collectivité européenne d’Alsace, le Parlement a transféré à cette collectivité les routes nationales et les autoroutes non concédées situées sur son territoire. La loi habilite le Gouvernement à prendre, par ordonnance, des mesures mettant à contribution le trafic routier de marchandises afin que la collectivité entretienne, en 2021, les infrastructures qui relèvent de sa responsabilité. Des études sont en cours dans les départements alsaciens afin d’élaborer un dispositif adapté aux situations locales.<br/>En parallèle, le Gouvernement reste, bien entendu, à l’écoute des attentes qui pourraient se manifester dans d’autres territoires. La concertation conduite par la ministre Jacqueline Gourault dans le cadre du projet de loi 3D est l’occasion de recenser les demandes sur le terrain. Le Gouvernement examinera ensuite les suites à leur donner.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Frédérique Lardet" id_acteur="PA721434" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723272">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554768" ordre_absolu_seance="127" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002580" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Frédérique Lardet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554769" ordre_absolu_seance="128" id_acteur="PA721434" id_mandat="PM723272" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002581" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Frédérique Lardet</nom>
+              <id>721434</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le trafic routier, qui représente 65 % des déplacements dans les grandes agglomérations françaises, est responsable de nombreuses nuisances : perte de temps due à la congestion, émissions de dioxyde de carbone, pollution de l’air, accidents de la route. Une tarification équitable de l’usage de la voiture dans les centres urbains, dès lors qu’existe une offre alternative de transports collectifs, donnerait de nouveaux leviers d’action aux collectivités pour lutter contre ces nuisances et permettrait de dégager des ressources pour le développement et l’entretien des infrastructures.<br/>À Londres comme à Stockholm, des péages urbains ont été mis en place dans les années 2000 pour réduire la circulation automobile dans les centres-villes engorgés. Les recettes annuelles ainsi dégagées – près de 190 millions d’euros à Londres en 2016 ; 90 millions à Stockholm en 2015 – ont été prioritairement affectées à l’amélioration des transports en commun, afin d’absorber le report de trafic qu’entraîne la mesure.<br/>Toutefois, la ville de Stockholm utilise de plus en plus les recettes de son péage urbain pour financer des infrastructures routières. Les automobilistes peuvent ainsi également bénéficier des retombées positives du système.<br/>Les péages urbains de Londres et de Stockholm font désormais l’objet d’un large consensus, alors qu’ils étaient très contestés à l’origine.<br/>En France, depuis la loi dite loi Grenelle 2, le code général des impôts autorise l’expérimentation des péages urbains. La loi est cependant inapplicable en l’état, car elle limite à trois ans la possibilité d’une telle expérimentation alors qu’il faudrait huit ans pour rentabiliser les équipements nécessaires.<br/>Monsieur le secrétaire d’État, comment, dans le contexte social et politique que nous connaissons, pourrions-nous relancer cette initiative et convaincre les collectivités de l’importance des effets des péages urbains non seulement en matière écologique et financière, mais aussi du point de vue de la mobilité et de la qualité de vie ?<br/>Plus généralement, quelles autres sources de financement pourrions-nous envisager pour les infrastructures de transport ? Quelles solutions et quelles innovations sont-elles envisagées pour remédier aux problèmes de congestion des centres-villes ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554776" ordre_absolu_seance="135" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002588" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bonne question !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554777" ordre_absolu_seance="136" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002589" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554778" ordre_absolu_seance="137" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002590" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez eu raison, madame la députée, de rappeler les exemples que vous avez cités. Lors des assises nationales de la mobilité, nous avons longuement abordé la question des péages urbains, en particulier au sein du sixième groupe d’experts. Elle a fait l’objet d’une concertation approfondie dans les territoires qui avaient exprimé leur intérêt pour le dispositif. Reste qu’aucune métropole, ni aucune agglomération, ni aucune association d’élus n’a franchi le pas, ce dont nous avons pris acte. C’est d’ailleurs la raison pour laquelle la loi Grenelle 2 n’a pas été révisée afin, comme vous le souhaitez, de favoriser l’expérimentation des péages urbains.<br/>Sur ce point également, nous restons néanmoins à l’écoute des attentes qui pourraient se manifester lors de la concertation conduite par Jacqueline Gourault dans la perspective du projet de loi 3D et leur donnerons suite par la loi si nécessaire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Marc Zulesi" id_acteur="PA718962" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722514">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554780" ordre_absolu_seance="139" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002592" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Marc Zulesi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554781" ordre_absolu_seance="140" id_acteur="PA718962" id_mandat="PM722514" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002593" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marc Zulesi</nom>
+              <id>718962</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La LOM a une grande ambition : repenser les déplacements du quotidien à l’échelle des bassins de vie. Pour cela, elle consacre le rôle des autorités organisatrices de mobilité dans l’élaboration des politiques de transport de leur territoire.<br/>Parmi les outils mis au service de cette ambition, l’article 4 de la loi habilite le gouvernement à créer des établissements publics locaux dont la mission est de financer des infrastructures de transport terrestre de grande envergure. La création de ces établissements répond à la demande pressante de certaines collectivités qui souhaitent développer, réhabiliter et améliorer leur réseau de transports afin de faciliter les déplacements des citoyens.<br/>Je pense, en particulier, à ma métropole, celle d’Aix-Marseille-Provence, dont le territoire est confronté à de nombreuses difficultés en matière de mobilité – vous le savez bien, monsieur le secrétaire d’État, puisque vous suivez le dossier de près. Un rapport du Gouvernement sur le sujet est d’ailleurs attendu le 1<exposant>er</exposant> juillet 2020.<br/>Quel est, d’une part, l’échéancier du Gouvernement s’agissant de la création de ces établissements publics locaux ? Quels territoires seront concernés et quels critères seront utilisés ?<br/>D’autre part, quelle synergie prévoyez-vous entre l’action des futurs établissements publics et la mise en œuvre de la programmation pluriannuelle des infrastructures de transport, une programmation ambitieuse, inscrite dans la LOM ? <italique>(M.</italique><italique> </italique><italique>Jean-Charles Colas-Roy applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554786" ordre_absolu_seance="145" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002598" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554787" ordre_absolu_seance="146" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002599" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison, monsieur le député, de rappeler le rôle essentiel désormais dévolu aux autorités organisatrices de la mobilité, comme de souligner que les sociétés de projet créées par l’article 4 de la LOM ont besoin d’un plan de financement robuste et partagé, apte à garantir l’acceptabilité des prélèvements obligatoires dont dépend la mise à contribution des ressources locales.<br/>Pour répondre plus précisément à votre question, je rappelle que le nœud ferroviaire de Marseille fait l’objet d’un cofinancement de l’État, prévu par la LOM. Par ailleurs, je signerai, au cours des prochaines semaines, la décision ministérielle relative aux phases 1 et 2 de la ligne nouvelle Provence-Côte d’Azur, ce qui permettra de faire progresser concrètement le projet. Je vous en préciserai le détail par écrit dans les prochains jours.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Viry" id_acteur="PA721474" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723286">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554789" ordre_absolu_seance="148" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002601" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Viry.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1554790" ordre_absolu_seance="149" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002602" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au XXI<exposant>e</exposant> siècle, les questions de mobilité sont essentielles. Les déplacements rythment notre vie quotidienne et l’activité économique, ce qui justifie que nous nous montrions exigeants vis-à-vis des infrastructures de transport. En outre, notre pacte républicain implique un aménagement du territoire qui assure que les territoires soient égaux entre eux et également desservis.<br/>Aussi ai-je deux questions à vous poser, monsieur le secrétaire d’État.<br/>La première porte sur le réseau routier des routes nationales. Un audit récent, commandé par votre ministère, a démontré que les routes nationales, qui ne représentent que 1 % du réseau de voirie en France, sont néanmoins les plus empruntées, et pour 53 % d’entre elles endommagées, voire dégradées. Cela crée des difficultés de circulation et de sécurité routière pour les usagers. Quelle est la politique de votre gouvernement, plus particulièrement de votre ministère, s’agissant de l’entretien des routes nationales ? Celles qui traversent le département des Vosges, par exemple, sont en mauvais état : l’absence d’entretien des bornes d’appel d’urgence, notamment, est dangereuse pour l’usager.<br/>Ma seconde question porte sur les infrastructures ferroviaires. Les lignes TGV, chacun le sait, ont été budgétairement privilégiées pendant des années, et les lignes ferroviaires régionales sont en souffrance ; parfois, il faut même les fermer. Vous connaissez le dossier de la ligne Épinal-Saint-Dié, sur lequel une solution va peut-être aboutir avec le concours majeur des collectivités territoriales, en particulier de la région. Mais, toujours dans le cadre de cette exigence républicaine de développement, qu’en est-il du développement ferroviaire entre la Lorraine Sud et le sud de la France ? Le tronçon entre Épinal et Belfort est un nœud gordien, et c’est pourtant la solution pour aboutir à une connexion avec le sud de la France. Il est essentiel pour le développement économique. Je voudrais savoir quelles sont vos priorités à cet égard, quel financement vous prévoyez et selon quel calendrier. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554638" ordre_absolu_seance="153" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001937" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554639" ordre_absolu_seance="154" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001938" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bonne question !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554640" ordre_absolu_seance="155" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001939" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554641" ordre_absolu_seance="156" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001940" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, je vais tenter de répondre à vos trois questions de façon précise.<br/>Lors de l’examen de la loi d’orientation des mobilités, nous avons débattu de la régénération du réseau routier, qui est en effet vétuste et pour lequel les besoins sont importants. C’est pourquoi les ressources consacrées à sa régénération sont en augmentation, passant de 800 millions l’année dernière à 850 millions cette année, pour atteindre 930 millions d’euros d’ici à 2022.<br/>S’agissant de la ligne Épinal-Saint-Dié, je vous confirme que 8,5 millions d’euros lui seront consacrés dès 2021 au travers du plan de contrat État-région. L’engagement présidentiel avait été évidemment d’agir très fortement pour cette ligne.<br/>S’agissant de la ligne Épinal-Belfort, les crédits alloués s’élèvent à 5 millions d’euros, les travaux sont en cours,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554645" ordre_absolu_seance="160" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001944" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554646" ordre_absolu_seance="161" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001945" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…ce qui nous donne le temps de travailler dans une perspective plus lointaine.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Marie Sermier" id_acteur="PA267204" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722794">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554647" ordre_absolu_seance="162" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001946" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Marie Sermier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554648" ordre_absolu_seance="163" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001947" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <id>267204</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous le savez, monsieur le secrétaire d’État : aucune civilisation ne s’est bâtie sans axe de communication. On reconnaît même le dynamisme d’une société à ses ambitions dans le domaine des infrastructures de transports. Ainsi, en Israël, le train à grande vitesse relie Tel-Aviv à Jérusalem depuis décembre dernier ; à Londres, trois nouvelles lignes de métro doivent être livrées d’ici à quelques mois ; et la Turquie lance un gigantesque chantier pour creuser un canal parallèle au Bosphore. Vous le voyez : partout, on avance.<br/>Hélas, en France, on est loin d’afficher de telles ambitions. Il y a bien des projets stratégiques, mais ceux-ci s’enlisent, souvent en raison d’incertitudes sur leur financement : ainsi le canal Seine-Nord Europe pour relier Paris au réseau fluvial du Nord, le dernier tronçon de la branche Est du TGV Rhin-Rhône, mais aussi le TGV Bordeaux-Toulouse et le TGV Marseille-Nice, et des infrastructures essentielles pour les territoires, telles que la route Centre-Europe Atlantique – RCEA. Ces projets verront-ils le jour ? On n’en sait rien.<br/>Lorsque nous avons entamé les discussions sur le projet de loi d’orientation sur les mobilités, le groupe Les Républicains vous a alerté sur le manque de financement : l’AFITF aurait besoin chaque année de 2 milliards d’euros supplémentaires pour financer la réalisation des projets déjà annoncés ; l’augmentation de la TICPE, qui représente une cagnotte de 6 milliards d’euros, n’a pas été affectée, comme nous le proposions, au financement des nouvelles infrastructures ; pour le ferroviaire, de nombreuses incertitudes demeurent sur la reprise de la dette de la SNCF ; quant aux sociétés d’autoroute, elles n’ont pas le droit d’affecter leurs bénéfices à des investissements situés en dehors du périmètre de leur délégation de service public. J’attire votre attention sur ce dernier point car, dans ma région Bourgogne-Franche-Comté, par exemple, cela permettrait d’étudier la possibilité de reconnecter l’autoroute A39 à la Suisse.<br/>Tous ces grands investissements dans le domaine du transport sont indispensables pour renforcer l’attractivité économique et accélérer la transition écologique. Comment votre ministère compte-t-il financer les grands chantiers d’infrastructures nécessaires pour l’avenir durable de notre pays ? <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554650" ordre_absolu_seance="167" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001949" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554651" ordre_absolu_seance="168" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001950" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554652" ordre_absolu_seance="169" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001951" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous citiez des grands projets à l’étranger, monsieur le député, mais on peut aussi citer de grands projets en France.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554653" ordre_absolu_seance="170" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001952" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <id>267204</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais qui ne sont pas financés !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554654" ordre_absolu_seance="171" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001953" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le projet de la Société du Grand Paris est financé. Il prévoit 200 kilomètres de lignes nouvelles et soixante-huit nouvelles gares.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554655" ordre_absolu_seance="172" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001954" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <id>267204</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est Sarko !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554656" ordre_absolu_seance="173" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001955" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’étais à Villejuif samedi dernier pour inaugurer la nouvelle gare et le croisement de la ligne 14 et de la ligne 15, laquelle, dotée d’un métro complètement automatique, constituera la rocade extérieure de l’agglomération parisienne. C’est donc un projet tout à fait considérable. Nous avons déjà évoqué le canal Seine-Nord Europe, ouvrage européen dont je souligne à nouveau la grande importance. Quant à la RCEA, je confirme que 45 millions d’euros par an lui sont consacrés.<br/>Je confirme également que la LOM est intégralement financée et que les ressources de l’AFITF sont en augmentation d’un demi-milliard d’euros cette année. Ces crédits considérables sont de nature à satisfaire un scénario d’infrastructures dont nous avons eu à débattre dans cet hémicycle, car ils répondent aux besoins des territoires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554657" ordre_absolu_seance="175" id_acteur="PA267204" id_mandat="PM722794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001956" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Sermier</nom>
+              <id>267204</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas suffisant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554658" ordre_absolu_seance="176" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001957" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant des lignes nouvelles, j’ai déjà indiqué que des décisions ministérielles vont être prises dans les toutes prochaines semaines concernant les différentes phases. J’aurai également l’occasion de revenir devant votre assemblée sur les autres sujets que vous avez évoqués, mais je ne crois pas, monsieur le député, que, ces derniers temps, nous ayons manqué d’ambition en matière de transports quand je nous compare à nos prédécesseurs.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Fabrice Brun" id_acteur="PA718838" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554659" ordre_absolu_seance="177" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001958" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Fabrice Brun.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554660" ordre_absolu_seance="178" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001959" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Loi de finances, loi sur les mobilités… Rien n’y fait : l’état de notre réseau routier national se dégrade. Sur le terrain, les usagers voient peu d’amélioration, alors que les taxes pour pouvoir rouler ne cessent de grimper.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554661" ordre_absolu_seance="179" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001960" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554662" ordre_absolu_seance="180" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001961" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les Ardéchois vous le disent par ma voix, eux qui attendent impatiemment la sécurisation de la route nationale 102 dans la côte de Mayres, au carrefour de Lafayette, au pont de la Teyre et au pont du Buis d’Aps, jusqu’à la côte de ville à Aubenas. Je vous renvoie d’ailleurs, monsieur le secrétaire d’État, à l’étude de la DREAL, la direction régionale de l’environnement, de l’aménagement et du logement, datant de 2013, étude que vous connaissez parfaitement et qui n’a abouti à aucune commande politique depuis. Si cela ne bouge pas dans le seul département de France – 330 000 habitants tout de même ! – qui ne compte ni autoroute ni train de voyageurs, il est permis d’être inquiet pour l’avenir.<br/>Aussi aurai-je trois questions, monsieur le secrétaire d’État.<br/>Allez-vous enfin répondre par l’affirmative à notre proposition de renforcer le budget de l’AFITF, en lui affectant dans un premier temps 500 millions d’euros de TICPE, cette taxe sur les carburants acquittée par tous ceux qui roulent et qui, aujourd’hui, alimente généreusement le budget général de l’État ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554664" ordre_absolu_seance="183" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002267" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554665" ordre_absolu_seance="184" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001964" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Deuxième question : où en est l’idée folle de la technocrature consistant à concéder ou à décentraliser le réseau routier national aux départements et aux collectivités territoriales ? Soyez conscient que ce serait condamner des territoires déjà fragiles en termes de mobilité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554666" ordre_absolu_seance="185" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001965" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554667" ordre_absolu_seance="186" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001966" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, je saisis l’occasion pour vous demander à nouveau d’accélérer les travaux en cours du contournement du Teil, en raison des dégâts collatéraux du séisme du 11 novembre 2019. Je rappelle que ce séisme a été le plus important de ces cinquante dernières années sur le territoire métropolitain, ce qui mérite la mobilisation totale de l’État pour accompagner aussi bien les sinistrés que les communes, et pour faire jouer à plein la solidarité nationale, y compris sur ces enjeux de mobilité essentiels dans nos territoires ruraux, et particulièrement en Ardèche. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554668" ordre_absolu_seance="187" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001967" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554669" ordre_absolu_seance="188" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001968" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant tout d’abord, monsieur le député, de votre question sur l’ambition du plan de financement, je vous rappelle tout de même que le Gouvernement a inscrit, et c’est inédit, 13,4 milliards d’euros intégralement financés. Les ressources à allouer ont fait l’objet de beaucoup de débats entre nous, mais je crois que l’essentiel est que la trajectoire soit sécurisée, financée et les engagements tenus.<br/>Vous avez parlé d’« idée folle » à propos du projet de décentralisation du réseau national ; j’ai eu l’occasion de répondre à ce sujet à M. Ruffin il y a quelques minutes : je confirme qu’il n’y a pas de projet systématique de décentralisation en ce domaine, encore moins de privatisation. Il y a des demandes, au cas par cas, de la part de certaines collectivités pour récupérer ici et là quelques kilomètres de routes. L’État les examinera évidemment avec attention et bienveillance, mais, je le redis, il n’y a pas de volonté systématique de décentraliser.<br/>Quant au contournement nord du Teil en Ardèche – sujet que je connais en effet maintenant par cœur –, je vous rappelle qu’il fait l’objet d’une inscription au CPER Rhône-Alpes 2015-2020…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554671" ordre_absolu_seance="191" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça, on sait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554671" ordre_absolu_seance="192" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2002268" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…dont le volet mobilité est prolongé jusqu’en 2022, pour un montant de 63 millions, dont 35 millions fournis par l’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554672" ordre_absolu_seance="193" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001971" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La région y participe aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554673" ordre_absolu_seance="194" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2001972" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Absolument.<br/>Par ailleurs, je me souviens de vous avoir fait la promesse de venir vous rendre visite : je l’honorerai dans les plus brefs délais de manière à poursuivre mon acculturation régionale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554675" ordre_absolu_seance="196" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001974" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien ! Nous vous accueillerons avec grand plaisir, monsieur le secrétaire d’État !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Maxime Minot" id_acteur="PA720630" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723020">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554676" ordre_absolu_seance="197" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001975" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Maxime Minot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554677" ordre_absolu_seance="198" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001976" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <id>720630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sept kilomètres : c’est la distance du barreau ferroviaire qui relierait la Picardie à Roissy, 7 kilomètres pour améliorer la mobilité de tous les Picards en leur donnant accès à une gare TGV sans devoir repasser par Paris mais aussi de plus de 10 000 d’entre eux qui se rendent chaque jour à l’aéroport international de Roissy-Charles-de-Gaulle pour travailler, 7 kilomètres pour renforcer la connectivité et l’attractivité économique de la Picardie en général et de l’Oise en particulier, 7 kilomètres pour nous faire basculer dans une stratégie globale d’avenir, respectueuse de l’environnement, en encourageant notamment les modes de transports alternatifs à la voiture et à une autoroute A1 déjà saturée, en particulier l’intermodalité du hub que constitue l’aéroport avec le futur canal Seine-Nord Europe. Sept kilomètres, c’est donc peu… et tellement à la fois !<br/>Le financement en a été bouclé, grâce notamment à la mobilisation des élus locaux en sa faveur. Une concertation est actuellement en cours et a été prolongée jusqu’au 18 février. C’est une étape importante à laquelle je suis particulièrement attentif. En effet, si ce projet remporte une large adhésion dans l’Oise, encore faut-il qu’il prenne en compte, lors de son exploitation, les impératifs horaires des travailleurs, mais aussi qu’il limite au maximum son impact sur les terres agricoles.<br/>Enjeu majeur d’aménagement du territoire et déclaré prioritaire par le Président de la République lors de sa visite à Amiens en novembre dernier, ce barreau ferroviaire semble donc sur des rails et j’espère pouvoir compter sur le soutien des élus de la majorité des départements concernés afin qu’il devienne une réalité. Dès lors, pouvez-vous me confirmer le calendrier qui prévoit une mise en œuvre en 2025 de cette infrastructure tant attendue par les Oisiens ? <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554679" ordre_absolu_seance="201" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001978" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554680" ordre_absolu_seance="202" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001979" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez rappelé, monsieur le député, que cette liaison de 7 kilomètres est importante pour votre territoire. Elle a été jugée prioritaire par le conseil d’orientation des infrastructures. J’étais aux côtés du Président de la République le 21 et le 22 novembre dernier, quand il a réitéré à Amiens l’objectif de réaliser ce projet à l’horizon 2025, et l’État y met évidemment tous les moyens.<br/>Les études préalables à l’enquête d’utilité publique ont été relancées, et SNCF Réseau mène actuellement, en concertation avec la région Hauts-de-France, un travail d’optimisation sur sa rentabilité socio-économique, laquelle sera évidemment en particulier dépendante du niveau de desserte.<br/>Une nouvelle étape de concertation, requise par la Commission nationale du débat public en raison de l’ancienneté dudit débat, se tient depuis le 2 décembre dernier, et ce jusqu’au 18 février prochain. L’enquête publique est prévue pour fin 2020, et la déclaration d’utilité publique au deuxième semestre 2021.<br/>Le Gouvernement a par ailleurs demandé à SNCF Réseau d’étudier pour le mois de juin l’incidence d’une accélération du calendrier du projet Roissy-Picardie sur les projets franciliens de cet axe : je pense notamment aux aménagements sur les RER B et D ainsi qu’au chantier du CDG Express. Il s’agira en effet d’optimiser l’articulation de tous ces projets afin que l’État, les collectivités territoriales des Hauts-de-France et de l’Île-de-France partagent ensemble les orientations à prendre et le choix du meilleur séquencement desdits projets.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554682" ordre_absolu_seance="206" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2001981" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vaste programme !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Millienne" id_acteur="PA721976" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723438">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554683" ordre_absolu_seance="207" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2001982" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Millienne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1554684" ordre_absolu_seance="208" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2001983" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La question du financement des infrastructures de transport a été au cœur des échanges de notre assemblée à l’occasion de l’examen du projet de loi d’orientation des mobilités. Force est de constater que ce sujet fait encore l’objet de notre débat de ce soir.<br/>Il est un chantier, complémentaire du projet du Charles-de-Gaulle Express dont la mise en service est programmée pour fin 2025, qui intéresse plus particulièrement le député francilien que je suis : le métro du Grand Paris, aussi appelé « Grand Paris Express », soit 200 kilomètres de ligne de métro automatique et soixante-huit gares ! C’est un projet d’envergure, en particulier pour les déplacements parisiens, mais également et surtout pour les déplacements entre banlieues. C’est dire si ce projet revêt une importance fondamentale et est une préoccupation majeure des Franciliens à l’heure où les transports publics parisiens sont bien souvent saturés et accusent régulièrement retards et avaries diverses.<br/>Mais ce chantier majeur n’est réalisable que s’il est financé. Or ses modalités de financement avaient suscité la grogne des départements d’Île-de-France à l’automne dernier en raison du prélèvement instauré par l’article 217 du projet de loi de finances pour 2020. Celui-ci prévoyait de ponctionner une partie des recettes sur les droits de mutation à titre onéreux perçus par eux et la ville de Paris, au profit de l’établissement public Société du Grand Paris – SGP.<br/>Par une décision en date du 27 décembre 2019, le Conseil constitutionnel a déclaré contraires à la Constitution les dispositions de l’article précité. Partant, la SGP se voit privée d’une partie des recettes devant lui permettre de financer les infrastructures du Grand Paris Express.<br/>Monsieur le secrétaire d’État, pourriez-vous nous préciser comment le manque à gagner résultant de cette invalidation sera compensé pour la SGP en 2020 – année pour laquelle il est estimé, sauf erreur de ma part, à 75 millions d’euros – et au cours des années suivantes – le montant en jeu étant alors de 60 millions d’euros par an ? Pourriez-vous nous préciser en outre si ces financements couvrent les besoins liés à l’aménagement de pôles multimodaux en nombre ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554793" ordre_absolu_seance="3" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002096" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554794" ordre_absolu_seance="4" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002097" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison, monsieur Millienne, de rappeler le caractère presque pharaonique du chantier relevant de la SGP : 200 kilomètres de lignes nouvelles, soixante-huit gares. Cela avait conduit votre collègue Gilles Carrez à faire état d’un besoin de ressources supplémentaires de 200 à 250 millions d’euros par an.<br/>En 2019, vous vous en souvenez, a été prise une première série de mesures, dont le rendement est d’environ 115 millions d’euros par an. En 2020, une modification de la taxe sur les bureaux a permis de dégager, au profit de la SGP, des ressources complémentaires évaluées à 60 millions d’euros. Au total, 175 millions de ressources nouvelles ont été trouvées au profit de la SGP.<br/>Vous l’avez rappelé, le Conseil constitutionnel a censuré – pour des raisons non pas de fond, mais de procédure – le prélèvement d’une fraction des droits de mutation à titre onéreux perçus par les départements franciliens. Vous avez avancé le chiffre de 75 millions d’euros. Je tiens toutefois à préciser qu’il ne s’agit pas d’un manque à gagner pour la SGP. Celle-ci finance actuellement ses projets grâce à des emprunts, notamment des obligations assimilables du Trésor – OAT – vertes. Il n’y a donc pas de risque que les projets concrets de la SGP subissent des retards en raison de la censure du Conseil constitutionnel.<br/>Par ailleurs, je vous confirme que le Gouvernement réfléchit aux suites à donner à cette décision, afin de compléter dans le temps les ressources de la SGP, dans la perspective de la prochaine loi de finances.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Millienne" id_acteur="PA721976" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723438">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554798" ordre_absolu_seance="8" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002101" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Millienne pour une deuxième question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554799" ordre_absolu_seance="9" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002102" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie de votre réponse, monsieur le secrétaire d’État. Toutefois, vous n’avez pas abordé l’importante question des pôles multimodaux. J’appelle votre attention sur le fait qu’il n’y en aura pas autant que prévu.<br/>J’en viens à ma deuxième question. Nous sommes entrés dans un temps où les évolutions technologiques s’accélèrent et nous obligent à nous adapter. Nos mobilités n’échapperont pas à cette réalité. Grâce à la loi d’orientation des mobilités adoptée récemment, nous nous sommes résolument tournés vers cet avenir proche où nos transports seront plus connectés et plus autonomes.<br/>Les expérimentations se multiplient, certains prédisant l’arrivée prochaine des premiers véhicules autonomes dans notre quotidien, d’autres repoussant cette échéance aux décennies à venir. Toujours est-il que l’amélioration de l’état de nos infrastructures routières – nous en avons déjà parlé – demeure un enjeu fondamental : vieillissantes pour les mobilités d’aujourd’hui, ces infrastructures deviendront obsolètes pour les mobilités de demain.<br/>Plus qu’à une simple réfection, il nous faudra procéder à une modernisation significative de nos routes, consistant à les rendre plus sûres, plus connectées et capables d’échanger des informations avec les prochaines générations de véhicules, qui ne pourront se développer qu’à cette condition. Or, à ce jour, la France n’est pas prête.<br/>Pour évoluer sur la route, les véhicules de demain auront besoin non seulement de chaussées de qualité, bien évidemment, mais aussi d’équipements performants – marquage au sol, panneaux de signalisation, feux tricolores, etc. – installés harmonieusement sur l’ensemble du réseau et bénéficiant d’un entretien sérieux et régulier.<br/>Le déploiement de la 5G, technologie indispensable pour les véhicules 100 % autonomes, constituera un autre défi. En la matière, il convient de garantir un maillage de l’ensemble du territoire.<br/>Si nous devons travailler à l’échelle française, nous devons aussi réfléchir, plus largement, à une harmonisation des standards de qualité, de sécurité et de signalisation des infrastructures routières au niveau européen, afin que les véhicules autonomes puissent « lire » la route et communiquer avec elle quel que soit le pays traversé.<br/>Monsieur le secrétaire d’État, la France sera-t-elle au rendez-vous ? Sera-t-elle suffisamment ambitieuse dans le développement des mobilités de demain ?<br/>En outre, à combien évaluez-vous les besoins de financement pour que notre réseau routier soit apte à accueillir des véhicules 100 % autonomes ? Pouvez-vous garantir que les territoires ruraux ne seront pas négligés, sachant que c’est là que se manifestent les attentes les plus grandes à cet égard ?<br/>Enfin, pouvez-vous nous indiquer si un travail d’harmonisation des infrastructures est mené au niveau de l’Union européenne ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554809" ordre_absolu_seance="19" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002112" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554810" ordre_absolu_seance="20" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002113" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant des pôles d’échange multimodaux, je vous précise que les 450 millions d’euros envisagés pour la SGP sont sanctuarisés et qu’ils seront utilisés comme prévu. Il n’y a pas de remise en cause à ce sujet.<br/>J’en viens aux véhicules autonomes. La France a été à l’avant-garde en la matière, notamment grâce aux travaux conduits par Mme Anne-Marie Idrac, qui ont défini les conditions préalables à l’utilisation de tels véhicules, en ce qui concerne la sécurité, l’acceptabilité et la construction d’un nouveau modèle économique.<br/>En avril 2019, le Gouvernement a annoncé le lancement d’un programme national d’expérimentation du véhicule routier autonome, baptisé EVRA et doté de 42 millions d’euros. Dans ce cadre ont été sélectionnés deux consortiums réunissant des acteurs travaillant sur quinze projets régionaux ou locaux. Vous avez raison de relever que ces projets s’inscrivent très bien dans la géographie des zones plus diffuses.<br/>Ce programme permettra de changer d’échelle, l’objectif visé étant de 1 million de kilomètres parcourus en 2022. Il s’agit d’accumuler des connaissances sur les usages et la sécurité, en ce qui concerne tant la mobilité des personnes – individuelle, partagée ou collective – que le fret. Les expérimentations nous permettront de mieux cerner les besoins ainsi que les coûts d’adaptation des infrastructures pour les usages concernés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Florence Lasserre" id_acteur="PA720764" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723070">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554814" ordre_absolu_seance="24" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002117" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Florence Lasserre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554815" ordre_absolu_seance="25" id_acteur="PA720764" id_mandat="PM723070" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002118" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Florence Lasserre</nom>
+              <id>720764</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens tout d’abord à remercier le groupe Libertés et territoires d’avoir choisi un sujet qui nous tient tous à cœur : le financement des infrastructures de transport. Nous avons ainsi la chance de pouvoir échanger avec vous à ce sujet, monsieur le secrétaire d’État.<br/>Plusieurs collègues vous ont interrogé sur les zones d’ombre qui persistent concernant la trajectoire financière de l’AFITF. Je partage leurs préoccupations. Pour ma part, je sollicite votre avis sur l’instauration éventuelle d’une taxe kilométrique sur les véhicules électriques, idée qui fait de plus en plus son chemin.<br/>Bien entendu, je salue l’arrivée du véhicule électrique, car il a des effets positifs sur notre qualité de vie et permet de réduire nos émissions de gaz à effet de serre. Cependant, son succès grandissant soulève des questions budgétaires pour les États. En effet, ces véhicules n’étant pas soumis aux taxes appliquées aux produits pétroliers, certains pays vertueux sur le plan environnemental doivent composer avec des recettes fiscales en diminution. Or ces recettes servent aujourd’hui principalement à financer les mesures en faveur de la transition énergétique et l’entretien du réseau routier.<br/>Si le manque à gagner imputable à la non-participation des propriétaires de véhicules électriques à l’entretien des routes est encore marginal en France, il convient de s’en préoccuper dès aujourd’hui, afin d’anticiper nos besoins et de s’assurer que notre réseau routier sera toujours correctement entretenu.<br/>Monsieur le secrétaire d’État, pourriez-vous nous faire part de la position du Gouvernement quant à la création d’une taxe au kilomètre sur les véhicules électriques, qui permettrait de faire contribuer leurs propriétaires à l’entretien des chaussées qu’ils utilisent et fragilisent autant que les autres automobilistes ?<br/>D’autre part, je profite du temps de parole qui me reste pour vous demander des précisions concernant le quatrième appel à projets relatif aux transports collectifs en site propre – TCSP –, annoncé lors de la discussion du projet de loi d’orientation des mobilités. Vous avez récemment confirmé que cet appel à projets bénéficierait d’une enveloppe de 450 millions d’euros et serait lancé dans le courant de l’année 2020. Pouvez-vous nous en dire un peu plus sur ce que vous attendez des projets qui vous seront soumis par les autorités organisatrices de la mobilité ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554821" ordre_absolu_seance="31" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002124" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554822" ordre_absolu_seance="32" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002125" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie de votre question, madame Lasserre. Je comprends votre préoccupation de long terme quant à la contribution des véhicules électriques à la réparation des dommages environnementaux ou au financement des infrastructures – selon la façon dont on envisage la question. Néanmoins, l’heure est davantage à l’accompagnement de la filière des véhicules électriques, et l’action publique consiste aujourd’hui à soutenir son émergence. Je rappelle que 40 000 véhicules électriques ont été vendus en 2019 et que l’objectif national est de porter ce chiffre à 100 000 en 2022. Il est évident que la question que vous soulevez se posera, mais elle n’est pas à l’ordre du jour et ne le sera pas non plus en 2022.<br/>Par ailleurs, je confirme que le lancement du quatrième appel à projets TCSP est imminent et que son financement s’élèvera bien à 450 millions d’euros. Je ne doute pas que de nombreux territoires y répondront, comme ils ont répondu aux appels à projets précédents, et qu’ils trouveront des solutions idoines, à la fois utiles de leur point de vue et, bien évidemment, respectueuses de l’environnement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554824" ordre_absolu_seance="34" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002127" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Christine Pires Beaune.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554825" ordre_absolu_seance="35" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002128" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Pires Beaune</nom>
+              <id>608172</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le 6 septembre dernier, monsieur le secrétaire d’État, vous êtes venu à Clermont-Ferrand, accompagné de M. Guillaume Pepy, président-directeur général de la SNCF, pour rencontrer les représentants de l’association Objectif Capitales, qui regroupe l’ensemble des élus et des acteurs économiques d’Auvergne. L’objet était de permettre une meilleure connexion de notre territoire à Paris.<br/>En effet, la piètre qualité de la ligne Clermont-Paris entraîne des temps de trajet très longs et de nombreux retards, liés à des incidents techniques à répétition. Je vous éviterai une longue litanie, mais vous savez que ces retards ont atteint des niveaux records, par exemple dix-sept heures le 25 juillet dernier.<br/>Au cours de cette rencontre, jugée constructive par l’ensemble des participants, des engagements ont été pris par l’État et la SNCF. Je les cite : améliorer de 10 points la régularité sur la ligne ; améliorer d’ores et déjà le confort de la ligne actuelle – propreté, wifi, circulation de l’information en cas de retard ; financer un matériel roulant de dernière génération ; veiller au bon respect de la concomitance des travaux de régénération et de la mise en service des rames ; finaliser la recherche de financements afin de réaliser, d’ici à 2025, l’ensemble des investissements nécessaires pour atteindre les objectifs validés dans le cadre du schéma directeur de la ligne. Or, à ce jour, nous ne disposons d’aucune précision, ni budgétaire ni calendaire, concernant l’ensemble de ces engagements.<br/>Par ailleurs, au cours de cette même rencontre, il a été promis qu’un groupe de travail spécifique, complémentaire au comité de suivi des usagers, serait mis en place entre l’État, la SNCF et l’association Objectif Capitales, afin notamment de suivre et de contrôler la mise en œuvre des actions de régénération des voies et de renouvellement des rames, ainsi que du plan d’action lancé pour améliorer et sécuriser les abords de la ligne. Cinq mois plus tard, ce groupe de travail n’a toujours pas vu le jour, malgré les relances régulières de l’association. Pouvez-vous, s’il vous plaît, mobiliser les acteurs concernés afin que cette promesse soit tenue ?<br/>Ce groupe de travail serait la meilleure méthode pour sortir enfin des effets d’annonce que l’Auvergne subit en la matière depuis des décennies et pour assurer les financements nécessaires, selon un calendrier décent.<br/>Vous le savez pour avoir pris le temps d’échanger avec les acteurs locaux, l’attente est particulièrement forte, tant le territoire est oublié, depuis très longtemps. Pour faire face à l’enclavement ferroviaire de l’Auvergne, on ne peut plus se payer de mots.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554831" ordre_absolu_seance="41" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002134" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554832" ordre_absolu_seance="42" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002135" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour avoir échangé avec les habitants du territoire, je suis effectivement conscient des attentes. Le Limousin connaît d’ailleurs une situation assez similaire avec la ligne Paris-Orléans-Limoges-Toulouse.<br/>Je reviens de manière précise sur les actions de l’État que j’avais annoncées le 6 septembre dernier.<br/>Depuis le 1<exposant>er</exposant> février 2019, tous les trains de la ligne Paris-Clermont-Ferrand proposent le wifi aux voyageurs. Il s’agit du premier train d’équilibre du territoire – TET – sur lequel un tel service a été déployé. Le coût s’est élevé à 4 millions d’euros et a été financé par l’État.<br/>À l’horizon 2025, la ligne bénéficiera de plus de 1,1 milliard d’euros, consacrés à un plan d’action complet portant à la fois sur la régularité, sur la fréquence et sur le confort. Ce plan inclut le marché de renouvellement de l’ensemble des rames, qui a été signé à la fin de l’année 2019 par SNCF Mobilités avec le constructeur CAF – Construcciones y Auxiliar de Ferrocarriles –, grâce à un financement de plus de 300 millions d’euros assuré par l’État par l’intermédiaire de l’AFITF. Les premières livraisons sont attendues pour la fin de l’année 2023.<br/>Par ailleurs, SNCF Réseau finance intégralement la remise à niveau de l’infrastructure, le coût de cette régénération s’établissant à 760 millions d’euros. Des opérations ciblées de modernisation et de performance permettant de ramener à trois heures quinze le temps de parcours entre Paris et Clermont-Ferrand sont en cours. Elles doivent faire l’objet d’études en liaison avec les collectivités. Pour financer ces opérations, l’AFITF a été dotée d’une ligne spécifique, sachant que la part apportée par l’État – 66 millions d’euros – devra être complétée par les collectivités.<br/>Enfin, l’offre de service sera améliorée grâce à l’ajout d’un neuvième aller-retour quotidien, à l’instauration d’un cadencement à deux heures, à l’élargissement de l’amplitude horaire et au nouveau positionnement du train direct, qui sera maintenu.<br/>Quant au comité à propos duquel vous m’avez interpellé, madame Pires Beaune, il sera mis en place au cours du premier semestre 2020, conformément à l’annonce que j’avais faite en septembre 2019.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554839" ordre_absolu_seance="49" id_acteur="PA2952" id_mandat="PM722480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002142" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Warsmann</nom>
+              <id>2952</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien ! Excellente nouvelle !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554840" ordre_absolu_seance="50" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002143" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je le confirme !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Joël Aviragnet" id_acteur="PA642764" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM753836">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554841" ordre_absolu_seance="51" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002144" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Joël Aviragnet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554842" ordre_absolu_seance="52" id_acteur="PA642764" id_mandat="PM753836" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002145" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Joël Aviragnet</nom>
+              <id>642764</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les habitantes et les habitants de la Haute-Garonne attendent leur ligne à grande vitesse depuis 1980. Quarante ans ont passé et les travaux de la LGV Toulouse-Bordeaux – ou Bordeaux-Toulouse, comme vous préférez – n’ont toujours pas commencé. Pis, le financement de ces travaux n’est toujours pas garanti.<br/>En 2016, un décret en Conseil d’État a déclaré d’utilité publique la réalisation de cette infrastructure. En juin 2019, à la suite d’un immense engagement des acteurs du territoire, des élus de terrain et de la présidente de la région Occitanie, le Parlement a voté la création de sociétés de projet destinées à permettre le financement de la future LGV.<br/>Dans mon territoire, nous nous battons depuis trop longtemps pour obtenir la LGV que Paris, Lyon, Marseille, Strasbourg, Lille, Tours, Bordeaux, Mulhouse – et j’en passe – ont depuis des décennies.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554845" ordre_absolu_seance="55" id_acteur="PA2952" id_mandat="PM722480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002148" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Warsmann</nom>
+              <id>2952</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Strasbourg, depuis quelques années seulement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1554846" ordre_absolu_seance="56" id_acteur="PA642764" id_mandat="PM753836" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2002149" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Joël Aviragnet</nom>
+              <id>642764</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il n’est plus possible de repousser ce projet. Il n’est plus acceptable de faire subir aux Toulousains, à la Haute-Garonne et aux territoires voisins une telle inégalité de traitement. Nous sommes des citoyens comme les autres, nous méritons les mêmes droits que les autres – tout simplement.<br/>Dans notre région, la LGV représente la clé du désenclavement pour un grand nombre de territoires autour de Toulouse. C’est la condition pour augmenter le cadencement sur les lignes secondaires. Elle est indispensable pour créer un RER toulousain et donc pour réduire l’utilisation de la voiture dans les trajets du quotidien.<br/>Le périphérique toulousain est l’un des plus embouteillés de France, car nous sommes limités par le manque d’infrastructures ferroviaires dans la région. Toulouse accueille près de 20 000 habitants supplémentaires chaque année.<br/>L’État ne peut continuer à délaisser notre territoire en matière ferroviaire. C’est une question d’égalité, mais aussi de développement économique, et surtout d’écologie.<br/>Monsieur le secrétaire d’État, pouvez-vous nous donner un calendrier précis des échéances à venir pour la LGV Toulouse-Bordeaux ? Pouvez-vous garantir que l’État prendra part au financement ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554852" ordre_absolu_seance="271" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002278" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554853" ordre_absolu_seance="272" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002279" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme vous le savez, la LOM prévoit que les études portant sur la réalisation complète de l’itinéraire de la LGV Bordeaux-Toulouse soient lancées au début de la période 2023-2027. Vous avez cité l’article 4, qui autorise l’instauration par voie d’ordonnance de sociétés de projet dédiées à la réalisation de grandes infrastructures. Ces ordonnances seront prises dans les vingt-quatre mois.<br/>Le grand projet ferroviaire du Sud-Ouest – GPFSO –, bien connu de mes services, et plus particulièrement la ligne à grande vitesse Bordeaux-Toulouse, remplit la majorité des critères définis dans l’article.<br/>À court terme, des opérations de désaturation des nœuds de Bordeaux et de Toulouse sont indispensables, en faveur des transports du quotidien : dès 2020, l’État sera au rendez-vous, en mobilisant, via l’AFITF, 31 millions d’euros d’engagement pour le fonctionnement et l’amélioration de l’étoile ferroviaire de Toulouse, première étape du RER métropolitain.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554855" ordre_absolu_seance="275" id_acteur="PA642764" id_mandat="PM753836" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002403" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Joël Aviragnet</nom>
+              <id>642764</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais c’est complètement saturé !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sophie Auconie" id_acteur="PA719806" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722768">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554856" ordre_absolu_seance="10" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Auconie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554857" ordre_absolu_seance="11" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002283" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Alors que nous nous sommes fixé pour objectif de ramener à zéro d’ici à 2050 les émissions nettes européennes de gaz à effet de serre, le secteur des transports représente à lui seul 27 % d’entre elles. Notons qu’il s’agit du seul secteur qui ne parvient pas à réduire ses émissions depuis 1990.<br/>Ursula von der Leyen a annoncé un Green New Deal, d’un montant de 1 000 milliards d’euros pour la décennie 2020, soit 100 milliards par an. Son idée est de transformer la Banque européenne d’investissement en une véritable banque du climat – enfin. Nous avons encore très peu de visibilité concernant la répartition de ces investissements, tant par pays que par secteur.<br/>Monsieur le secrétaire d’État, comment la France compte-t-elle influer autour de la table des négociations ? Quelle place sera réservée aux infrastructures de transports dans ce pacte vert européen ?<br/>Karima Delli, présidente de la commission des transports au Parlement européen, nous a alertés en ces termes en septembre dernier, à l’occasion d’une audition à l’Assemblée : « Il faut absolument que La France propose des projets ambitieux, pour aller dans le sens d’un cofinancement européen. »<br/>La présidente a insisté sur l’importance que la France se positionne plus et plus vite, dans une situation de leadership. Il est désormais primordial de verdir nos transports publics, en proposant de vrais beaux projets, afin de réduire nos émissions de gaz à effet de serre, mais également d’envoyer un bon signal aux citoyens, en étant précurseurs.<br/>Monsieur le secrétaire d’État, vous connaissez ma volonté de soutenir les petites lignes, ainsi que mon engagement européen : les lignes fines de territoire doivent être innovantes et devenir les expérimentations du transport à hydrogène, à l’image, dans ma circonscription, de la ligne Tours-Loche, chère à mon cœur. Je compte sur votre soutien : nous sommes à votre entière disposition dans le cadre de ce lobby européen.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554863" ordre_absolu_seance="17" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002289" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554864" ordre_absolu_seance="18" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002290" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En Europe, la France est au cœur de projets structurants : nous avons cité le canal Seine-Nord Europe, la ligne Lyon-Turin reçoit d’importants financements européens, avec pour objectif d’améliorer la trace environnementale de ses infrastructures et ses flux – 9 milliards d’euros sont mobilisés pour ces deux projets.<br/>Nous discutons actuellement avec les services de la Commission pour l’instauration d’un plan ambitieux dans le domaine du fret ferroviaire ; cela recouvre de nombreuses dimensions, notamment la régénération du réseau, la redynamisation du fret SNCF et la construction ou l’amélioration des « grands corridors fret » : l’axe Atlantique, l’axe Nord-Sud et l’axe vers Turin.<br/>Concernant les petites lignes, je partage votre ambition. Je sais que les discussions avec la région Centre-Val de Loire progressent de manière satisfaisante. Je m’y suis rendu et j’ai constaté la dynamique insufflée par la coalition des élus locaux ; je crois que la ligne Tours-Loches, chère à votre cœur, est tout à fait susceptible de se voir dédier des solutions innovantes, comme des trains plus légers ou à hydrogène – elle s’inscrit dans un écosystème vertueux qui remplit l’ensemble des critères.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Luc Warsmann" id_acteur="PA2952" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722480">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554867" ordre_absolu_seance="21" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Luc Warsmann.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554868" ordre_absolu_seance="22" id_acteur="PA2952" id_mandat="PM722480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Warsmann</nom>
+              <id>2952</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je représente un département qui connaît une situation économique et démographique difficile ; je tiens à remercier le Gouvernement et vous-même, monsieur le secrétaire d’État, pour le plan de redynamisation, intitulé pacte Ardennes, signé le 15 mars 2019.<br/>Dans ce cadre, nous avons des lignes de fret ferroviaire à sauver, notamment dans le sud du département. Je pense en particulier à la ligne qui relie Amagne-Lucquy, près de Rethel, à Attigny et Voncq et aux installations ferroviaires du secteur Rethel-Acy-Romance. Leur disparition signifierait 9 000 camions supplémentaires sur les routes.<br/>Monsieur le secrétaire d’État, je veux que ce soir, dans la solennité de l’hémicycle, vous actiez le plan de financement approuvé par tous et destiné à régénérer les lignes.<br/>De plus, je souhaite que vous garantissiez l’entretien de ces lignes et la qualité du service pour l’avenir, et que nous disposions d’un calendrier de réalisation des travaux, assurant que le trafic ne connaîtra pas d’interruption. Il s’agit d’éviter par exemple que des céréales, qui sont parfaitement adaptées au fret ferroviaire, ne soient transportées par la route.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554872" ordre_absolu_seance="26" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002298" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554873" ordre_absolu_seance="27" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002299" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous évoquez le pacte Ardennes, signé le 15 mars 2019, suite au courrier qui avait été adressé au ministère pour demander le transfert de propriété d’une section de la ligne capillaire fret Amagne-Lucquy-Attigny, auquel le ministère a répondu favorablement le 4 octobre.<br/>Le mode de gestion innovant et les travaux de remise en état de la ligne permettront de maintenir la desserte du silo céréalier du groupe Vivescia à Alland’Huy, pour 45 000 tonnes de céréales par an, ce qui représente environ 35 trains : c’est considérable.<br/>Ils pérenniseront également le train touristique qui circule sur cette ligne, favorisant le développement de l’activité économique du territoire, auquel je vous sais très attaché.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554876" ordre_absolu_seance="30" id_acteur="PA2952" id_mandat="PM722480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Warsmann</nom>
+              <id>2952</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien, merci.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554877" ordre_absolu_seance="31" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2002303" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le transfert de propriété interviendra dès la signature d’une convention, en cours de rédaction, entre SNCF Réseau, les deux communautés de communes concernées et le préfet. Elle précisera la date du transfert effectif, la nature des biens transférés et les conditions financières et techniques du transfert, afin de garantir la pérennité de la section de la ligne transférée.<br/>La communauté de communes des Crêtes préardennaises investira 1,2 million d’euros, financés pour moitié par l’État et pour moitié par le département, la région Grand Est et les deux communautés de communes.<br/>Une étape préalable d’investissement, pour un montant de 400 000 euros, interviendra dès 2020, sous maîtrise d’ouvrage de la SNCF Réseau, et cofinancée par l’État, la région et le département.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sébastien Nadot" id_acteur="PA719464" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722670">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554880" ordre_absolu_seance="34" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002306" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Nadot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554881" ordre_absolu_seance="35" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002307" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <id>719464</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Lors de votre récent déplacement chez Airbus pour le lancement de la feuille de route pour des biocarburants aéronautiques durables dans le transport aérien français, vous avez pu observer le dynamisme de Toulouse, ville de l’espace et de l’aérien – vous connaissez d’ailleurs bien l’École nationale d’aviation civile.<br/>Pour soutenir son développement, la quatrième métropole française a absolument besoin de se doter de transports multimodaux : la ligne à grande vitesse Bordeaux-Toulouse, qui mettrait enfin Paris à trois heures de Toulouse, fait terriblement défaut.<br/>La loi d’orientation des mobilités a défini cette ligne à grande vitesse comme un chantier prioritaire ; elle autorise le Gouvernement à créer des sociétés de financement pour assurer la réalisation de la LGV, en prenant dans les deux ans des ordonnances à cet effet.<br/>La LOM a été promulguée le 24 décembre 2019. Néanmoins, cette étape était attendue à Toulouse depuis trente ans ; on admet que deux ans passent vite, mais il s’agit des seules ordonnances : on s’inquiète en Occitanie.<br/>Monsieur le secrétaire d’État, pourriez-vous publier un rétroplanning comprenant des repères concrets et un point de méthode sur la réalisation de la ligne Bordeaux-Toulouse, vitale au grand Sud-Ouest ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Djebbari" qualite="secrétaire d'État" id_acteur="PA722236" id_nomination_oe="PM766972" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554886" ordre_absolu_seance="40" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2002312" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554887" ordre_absolu_seance="41" id_acteur="PA722236" id_mandat="-1" id_nomination_oe="PM766972" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2002313" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Djebbari</nom>
+              <id>722236</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, je vous ferai peut-être parvenir par courrier le rétroplanning que vous demandez. En attendant, je précise que la LOM prévoit que les études seront réalisées entre 2023 et 2027. Concernant la société de projets, je confirme que des discussions sont en cours, impliquant l’ensemble des acteurs locaux, afin de la créer  dès que les ordonnances seront promulguées – sous réserve que les ressources nécessaires soient disponibles.<br/>Je confirme également que, en l’état, des opérations de désaturation des nœuds de Bordeaux et Toulouse sont nécessaires : dès 2020, l’État mobilisera 31 millions d’euros, via l’AFITF, pour améliorer le fonctionnement de l’étoile ferroviaire de Toulouse. Comme je le disais précédemment à M. Aviragnet, il s’agit de la première étape de la création d’un véritable RER métropolitain.<br/>L’ensemble de ces mesures devrait répondre au besoin de désengorgement de Toulouse. Je m’engage à vous transmettre par écrit l’ensemble de ces éléments.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1554890" ordre_absolu_seance="44" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002316" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance de questions est terminée.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1554892" ordre_absolu_seance="46" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2002318" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1554893" ordre_absolu_seance="47" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2002319" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Questions sur les politiques de réponses aux personnels hospitaliers en grève ;<br/>Débat sur les allégements de la fiscalité au profit du capital et des entreprises : quelles conséquences économiques et sociales ?<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1554894" ordre_absolu_seance="48" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2002320" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures dix.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1554895" ordre_absolu_seance="49" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2002321" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

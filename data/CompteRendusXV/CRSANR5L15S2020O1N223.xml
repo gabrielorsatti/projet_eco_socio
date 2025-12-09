@@ -1,0 +1,1150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N223</uid>
+  <metadonnees>
+    <dateSeance>20200603150000000</dateSeance>
+    <dateSeanceJour>mercredi 03 juin 2020</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>223</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200223</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Thu, 04 Jun 2020 16:54:08 GMT</horaireGmt>
+    <heureGeneration>2020-06-04T18:54:08.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2104017">Présidence de M. Hugues Renson</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2104021">
+          <intitule>Dispositions liées à la crise sanitaire et au retrait du Royaume-Uni de l’Union européenne.</intitule>
+        </titreStruct>
+        <para id_syceron="2104022"/>
+        <sommaire2>
+          <titreStruct id_syceron="2104217">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2104025">M. Guillaume Kasbarian, rapporteur de la commission mixte paritaire</para>
+          <para id_syceron="2104046">M. Marc Fesneau, ministre chargé des relations avec le Parlement</para>
+          <para id_syceron="2104062">Mme Nathalie Elimas, vice-présidente de la commission mixte paritaire</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2104178">
+            <intitule>Motion de rejet préalable</intitule>
+          </titreStruct>
+          <para id_syceron="2104180">M. Jérôme Lambert</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2104203">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2104205">M. Antoine Savignat</para>
+          <para id_syceron="2104123">M. Jean-Noël Barrot</para>
+          <para id_syceron="2104132">M. Jérôme Lambert</para>
+          <para id_syceron="2104140">M. Pascal Brindeau</para>
+          <para id_syceron="2104070">M. Jean-Félix Acquaviva</para>
+          <para id_syceron="2104080">Mme Bénédicte Taurine</para>
+          <para id_syceron="2104089">Mme Émilie Cariou</para>
+          <para id_syceron="2104104">M. Pierre Dharréville</para>
+          <para id_syceron="2103991">Mme Marie Lebec</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2104004">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2104008">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mercredi 03 juin 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1617569" ordre_absolu_seance="1" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2104017" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Hugues Renson<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1617570" ordre_absolu_seance="2" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104018" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1617571" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2104019" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617573" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2104021" valeur=" (n[[o]] 3027)">
+      <orateurs/>
+      <texte>Dispositions liées à la crise sanitaire et au retrait du Royaume-Uni de l’Union européenne.</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617574" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2104022" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Commission mixte paritaire</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617575" ordre_absolu_seance="7" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104023" valeur=" " roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi relatif à diverses dispositions liées à la crise sanitaire, à d’autres mesures urgentes ainsi qu’au retrait du Royaume-Uni de l’Union européenne (n<exposant>o</exposant> 3027).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617575" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2104217" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Guillaume Kasbarian" qualite="rapporteur de la commission mixte paritaire" id_acteur="PA719372" id_nomination_oe="-1" id_nomination_op="PM772114" id_mandat="PM722640">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617576" ordre_absolu_seance="9" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104024" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Guillaume Kasbarian, rapporteur de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617577" ordre_absolu_seance="10" id_acteur="PA719372" id_mandat="PM722640" id_nomination_oe="-1" id_nomination_op="PM772114" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104025" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Kasbarian</nom>
+              <id>719372</id>
+              <qualite>rapporteur de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La commission mixte paritaire qui s’est réunie hier au Sénat est parvenue à élaborer un texte sur les dispositions du projet de loi relatif à diverses dispositions liées à la crise sanitaire, à d’autres mesures urgentes ainsi qu’au retrait du Royaume-Uni de l’Union européenne.<br/>Ce travail a été couronné de succès parce que les députés comme les sénateurs ont été animés par la volonté de fournir dans l’urgence des réponses législatives aux multiples besoins nés de la crise sanitaire. Les Français doivent savoir qu’avec cette loi, le Parlement apportera des réponses concrètes et fortes à des préoccupations pressantes surgies lors de la crise sanitaire et qui, pour la plupart, s’effaceront dans les mois qui viennent.<br/>Dans cet effort commun, je tiens à saluer l’action constructive de Muriel Jourda, rapporteure au nom de la commission des lois du Sénat. Son écoute et sa volonté de rechercher un compromis ont emporté la conviction de ses collègues sénateurs sur de nombreux points sensibles et ont permis d’aboutir à l’accord qui vous est présenté aujourd’hui. Nous devons également ce succès à la volonté des députés comme des sénateurs de conserver au Parlement ses pleines attributions de législateur et donc de limiter au strict minimum les habilitations à légiférer par ordonnance.<br/>Le texte que nous vous proposons d’adopter a été remanié en profondeur depuis sa présentation en conseil des ministres. Il concrétise notre engagement de traduire un maximum de dispositions en clair dans le projet de loi.<br/>J’en viens maintenant aux principales dispositions arrêtées par la commission mixte paritaire.<br/>Dans le champ du droit du travail et de la protection sociale, l’ensemble des rédactions retenues en CMP traduisent un équilibre entre protection de l’emploi et accompagnement de la reprise économique, une attention renforcée étant portée aux plus précaires, par la prolongation du versement des indemnisations chômage ou le soutien au revenu des artisans et des commerçants.<br/>J’ai ainsi proposé, avec mon homologue du Sénat, de mettre en place un nouveau dispositif d’activité partielle, dénommé « activité réduite pour le maintien en emploi ». Partant de ce qui avait été proposé par le Gouvernement en première lecture, nous avons replacé la négociation collective d’entreprise et de branche au cœur du recours à cette nouvelle forme d’activité partielle.<br/>Pour ce qui concerne les dispositions relatives aux procédures pénales, nous sommes parvenus à un compromis plus que satisfaisant. À l’article 1<exposant>er</exposant> octies C, nous nous sommes mis d’accord pour élargir l’expérimentation des cours criminelles, auquel le président Philippe Bas était farouchement opposé, à huit départements. Et, à l’article 1<exposant>er</exposant> octies D, relatif à la réorientation des procédures par les procureurs de la République, nous avons limité la possibilité de classer sans suite aux seules procédures contraventionnelles dans lesquelles il n’y a pas de victime.<br/>S’agissant du report de l’entrée en vigueur des règles relatives à la transparence des relations entre les représentants d’intérêts et les autorités locales, introduit par le Sénat à l’article 1<exposant>er</exposant> octies AA, nous limitons ce report à une année seulement. Nous prenons en compte le fait que la Haute Autorité pour la transparence de la vie publique risque d’être confrontée à des difficultés en termes de moyens humains pour mettre en place cette réforme, mais nous rappelons que ces règles ont été votées en 2016 pour une entrée en vigueur en 2018 et qu’elles ont déjà été, en 2018, reportées à 2021.<br/>S’agissant des dispositions relatives aux forces armées, à la police et à la réserve civique, nous avons retenu les textes votés par le Sénat, mais nous avons prévu deux aménagements.<br/>Ainsi, l’article 1<exposant>er</exposant> quinquies prévoit d’étendre la possibilité de réintégrer dans les cadres les militaires radiés, pour un an au maximum et sur la base du volontariat, aux militaires radiés dans les trois années qui précèdent la déclaration de l’état d’urgence sanitaire et non dans l’année qui la précède, afin de fournir aux armées un vivier suffisant pour faire face au manque d’hommes et de femmes, très important à la suite de la crise.<br/>Quant à l’article 1<exposant>er</exposant> septdecies A, il prévoit de rendre rétroactive au 1<exposant>er</exposant> avril 2020 la facilité d’utiliser la réserve civique par les organismes chargés d’une mission de service public, afin de couvrir des usages ponctuels de réservistes qui ont pu être faits notamment pour gérer les files d’attente devant les bureaux de poste.<br/>À l’article 2, nous avons repris le texte voté par le Sénat, mais en rétablissant l’habilitation à légiférer par ordonnance sur la poursuite de l’expérimentation relative au relèvement du seuil de revente à perte et à l’encadrement des promotions commerciales de produits alimentaires.<br/>L’article 2 bis relatif aux volontaires internationaux en administration a été repris dans la rédaction du Sénat et l’article 2 ter supprimé par le Sénat a été rétabli dans la rédaction de l’Assemblée nationale. Cet article reprend le dispositif voté le 3 mars dernier par le Sénat lors de l’examen du projet de loi d’accélération et de simplification de l’action publique. Il vise à homogénéiser l’évaluation des indemnisations dues aux victimes des essais nucléaires français conformément aux intentions du législateur ayant adopté la loi du 28 février 2017. La sénatrice de Polynésie Lana Tetuanui, qui a présidé la commission d’experts ayant abouti à la définition de la nouvelle méthodologie d’évaluation des demandes, a soutenu cette mesure.<br/>Nous avons ensuite rétabli l’article 3, dans une rédaction aménagée afin d’apaiser les craintes exprimées par les sénateurs mais aussi sur ces bancs. La rédaction qui vous est proposée, après avoir été négociée trois jours durant, réduit de douze à six mois la durée de l’habilitation et cible davantage le champ de la centralisation en excluant notamment les EHPAD et les CARPA, les caisses de règlement pécuniaire des avocats.<br/>Il vous est proposé, à l’article 4 qui traite des conséquences du retrait britannique de l’Union européenne, de fixer la durée des habilitations à douze mois. Le Gouvernement avait initialement demandé trente mois, l’Assemblée nationale avait prévu quinze mois, le Sénat sept mois : nous nous accordons à douze.<br/>L’habilitation à légiférer pour préserver la situation des ressortissants britanniques exerçant une activité en France a été rétablie. Elle était nécessaire pour garantir la poursuite de l’activité sur notre sol de milliers de Britanniques dont la situation n’est pas réglée.<br/>Par ailleurs, nous avons maintenu la transcription en clair votée par le Sénat du dispositif déterminant l’autorité nationale de sécurité de la liaison ferroviaire sous la Manche ainsi que le délai de deux mois au lieu de six pour déposer les projets de loi de ratification des ordonnances.<br/>Enfin, à l’article 6, nous avons rétabli la demande de rapport sur l’indemnisation chômage des intermittents du spectacle, tout en précisant qu’il devrait également concerner l’ensemble des salariés et des travailleurs indépendants dont l’activité est directement dépendante du secteur culturel. Ils ont été nombreux à nous interpeller ces derniers jours et ce rapport du Gouvernement devra leur apporter les réponses utiles et nécessaires.<br/>Le texte que la commission mixte paritaire vous propose d’adopter est à la fois dense et divers. Il permet d’apporter à nos concitoyens des outils juridiques concrets pour affronter la sortie d’une crise sanitaire, économique et sociale inédite par son ampleur. Dans cette épreuve, le Parlement a voulu agir vite tout en préservant notre état de droit et les grands principes de notre démocratie. Le Gouvernement a compris et soutenu notre démarche, je l’en remercie vivement.<br/>Pour conclure, je vous demande de bien vouloir adopter le texte tel qu’issu des travaux de la CMP, tout en gardant à l’esprit qu’il nous reviendra d’en suivre la bonne application, en particulier la préparation des dix ordonnances qu’il prévoit.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Marc Fesneau" qualite="ministre chargé des relations avec le Parlement" id_acteur="PA719938" id_nomination_oe="PM759796" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617597" ordre_absolu_seance="31" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104045" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre chargé des relations avec le Parlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617598" ordre_absolu_seance="32" id_acteur="PA719938" id_mandat="-1" id_nomination_oe="PM759796" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104046" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Fesneau</nom>
+              <id>719938</id>
+              <qualite>ministre chargé des relations avec le Parlement</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi tout d’abord de me réjouir de l’accord qui a été trouvé entre l’Assemblée nationale et le Sénat lors de la réunion de la commission mixte paritaire qui s’est tenue hier. Je salue l’important travail de conciliation mené avec patience par votre rapporteure et sa collègue du Sénat, Muriel Jourda. Sa tâche ne fut pas facile puisque, faute de commission spéciale au Sénat, il a dû trouver un terrain d’entente lors des travaux préparatoires à cette commission mixte paritaire, avec pas moins de trois commissions, dans des délais contraints, le projet de loi ayant été adopté par le Sénat, à une heure avancée, dans la nuit de jeudi à vendredi.<br/>Les points de désaccord étaient nombreux au départ : les cours criminelles, l’encadrement des promotions commerciales, la centralisation des trésoreries, l’habilitation, prévue à l’article 4 dans le cadre du Brexit. Malgré tout, un accord global a été trouvé. Certains, sur ces bancs, regretteront peut-être que le compromis reste en deçà de leurs espérances, mais il me semble que nous pouvons nous réjouir qu’un accord ait été trouvé sur ces sujets.<br/>Ceux-ci n’étaient pas seulement une source de désaccord entre l’Assemblée nationale et le Sénat, ils étaient également loin de faire l’unanimité au sein des différents groupes politiques. Dès lors, il semblait important d’entendre le scepticisme ainsi exprimé, de revoir la position de chacun d’entre nous, Assemblée nationale, Sénat et Gouvernement, et de ne pas poursuivre la navette parlementaire qui aurait pu être vécue comme un passage en force. Un échec de la commission mixte paritaire aurait été d’autant plus regrettable que le Sénat avait contribué, comme votre assemblée, à enrichir ce texte, et qu’un compromis avait été trouvé, dès la séance publique, sur nombre de sujets économiques et sociaux.<br/>D’importants accords ont été obtenus à force de dialogues et d’échanges. Ainsi, l’article 3 relatif à la centralisation de certaines trésoreries précise mieux quels organismes sont exclus du dispositif, comme les CARPA, les caisses de retraite ou certains établissements sociaux et médico-sociaux. Nous en avions longuement débattu ici, à l’Assemblée nationale.<br/>Je voudrais par ailleurs souligner l’important travail mené par les ministères concernés, à l’Assemblée nationale et au Sénat, afin de transformer en clair le plus grand nombre d’habilitations à légiférer par voie d’ordonnances. J’avais pris cet engagement au nom du Gouvernement, devant vous, il y a trois semaines, et je me félicite qu’il ait été tenu. Des quarante habilitations initiales, il n’en restait plus que vingt-quatre à l’issue de la première lecture à l’Assemblée nationale. Le Sénat en avait supprimé quatorze en commission et il n’en reste plus que six dans le projet de loi issu de la commission mixte paritaire. Nous sommes donc allés bien plus loin que nous y invitait le Conseil d’État. Les habilitations restantes sont strictement circonscrites aux sujets entourés d’une trop grande incertitude pour être gravés dans le marbre : l’encadrement des promotions commerciales, le Brexit ou les négociations européennes en cours sur la gestion des fonds européens.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617603" ordre_absolu_seance="37" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104051" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas une grande réussite.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617604" ordre_absolu_seance="38" id_acteur="PA719938" id_mandat="-1" id_nomination_oe="PM759796" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104052" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Fesneau</nom>
+              <id>719938</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le Gouvernement a donc pleinement répondu aux critiques initiales que vous aviez pu formuler. De même, l’obligation de consulter a été rétablie pour les quelques habilitations qui restaient et les délais de dépôt des projets de loi ratifiant ces ordonnances ont tous été ramenés de six à deux mois, sauf pour ce qui concerne la centralisation des trésoreries, où il reste fixé à trois mois.<br/>Sur le fond, je serai bref car, le rapporteur l’a très bien expliqué, ce projet de loi vise à répondre à une crise qui frappe de nombreux domaines.<br/>En premier lieu, il dote notre pays des moyens nécessaires pour accompagner la reprise économique. Ces dispositions ont d’ailleurs été à la base du consensus entre l’Assemblée nationale et le Sénat, ce qui est heureux puisqu’il s’agit de la majorité des dispositions. Il y va de l’adaptation du régime d’activité partielle et de la création d’un dispositif alternatif à celui qui, dans le contexte d’un ralentissement de l’activité économique, pourrait être durable pour certains secteurs comme l’aéronautique ou l’automobile.<br/>D’autres dispositions permettent de poursuivre le recours à des contrats courts ou de faciliter le prêt de main-d’œuvre afin de garantir le maintien de la production, alors que le marché du travail est durablement perturbé.<br/>Rappelons que ces ajustements n’ont pas été accordés sans contrepartie puisque de nouveaux droits sociaux ont été créés : ouverture des droits à la retraite pour les salariés placés en activité partielle, intéressement dans les entreprises de moins de onze salariés, possibilité de verser une aide exceptionnelle aux indépendants, financée sur la base du volontariat par leur régime de retraite.<br/>Par ailleurs, ce projet de loi permet de garantir la continuité du service public grâce à certaines mesures comme celles visant au maintien en service de certains militaires ou encore à augmenter le plafond de jours de mobilisation des réservistes de la police nationale. Nous pourrions encore citer les dispositions tendant à mettre à disposition à titre gratuit des agents dans les EHPAD et les hôpitaux en période de crise sanitaire ou encore à prolonger les titres de séjour afin de garantir la continuité de notre politique migratoire.<br/>Ce texte prévoit de reporter certaines réformes, non pour éviter qu’elles n’entrent en vigueur mais, au contraire, pour qu’elles puissent s’appliquer dans les meilleures conditions possible. Il s’agit ainsi de la réforme de la justice pénale des mineurs ou du versement des pensions alimentaires.<br/>Enfin, ce projet de loi contient des dispositions dont l’urgence ne découle pas directement de la crise liée au covid-19, mais les incertitudes qui pèsent sur le calendrier parlementaire nous ont conduits à privilégier ce vecteur pour vous les présenter. Je me félicite que puisse ainsi trouver enfin une issue législative le sujet de l’indemnisation des victimes des essais nucléaires.<br/>Pour toutes ces raisons, le Gouvernement émet un avis favorable à l’adoption de ce projet de loi dans sa rédaction issue de la commission mixte paritaire. Il prouve que, sur des sujets aussi importants pour la vie de nos concitoyens, de nos agents publics, des salariés, des étudiants, mais aussi de nos entreprises et des indépendants, le Parlement a pu légiférer avec célérité et responsabilité. Il témoigne également de l’esprit de responsabilité qui a gouverné les échanges entre les deux assemblées.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="vice-présidente de la commission mixte paritaire" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="PM772113" id_mandat="PM723114">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617613" ordre_absolu_seance="47" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104061" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Nathalie Elimas, vice-présidente de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617614" ordre_absolu_seance="48" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104062" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il y a un peu moins de trois semaines, j’avais exprimé ici même, à l’occasion de la première lecture, notre aspiration collective à ce que, dans la mesure du possible, le législateur puisse se prononcer sur des dispositions précises et non pas se contenter de déléguer son pouvoir à l’exécutif. J’avais en même temps formulé le vœu que nous parvenions à enrichir ce texte, avec l’aide du Sénat, et que, à l’issue de ce processus, nous soyons très nombreux à ressentir la satisfaction et la fierté d’y avoir participé.<br/>J’ai le plaisir de constater aujourd’hui que ce vœu est exaucé, peut-être même au-delà des espérances que nous pouvions alors concevoir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617616" ordre_absolu_seance="50" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104064" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet, le texte est bien garni !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="51" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104065" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Mesurons en effet l’ampleur du travail accompli en moins d’un mois. Ce texte de quatre articles seulement dans sa version initiale ne comportait que des habilitations à légiférer par ordonnances, qui étaient alors au nombre de trente-sept.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617618" ordre_absolu_seance="52" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104066" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quatre sur trente-sept, c’est un bon rapport !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="53" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104158" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>À l’issue du vote de l’Assemblée nationale, le 15 mai, le projet de loi comprenait trente et un articles, et le nombre des habilitations à légiférer par ordonnance avait été ramené à vingt-quatre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="54" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104159" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Seulement vingt-quatre ? Alors tout va bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="55" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104161" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une entourloupe !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="56" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104160" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Après le vote du texte au Sénat, dans la nuit du 28 mai, le projet de loi atteignait soixante et un articles, mais le nombre d’habilitations était tombé à sept.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="57" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104162" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="58" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104163" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La commission mixte paritaire vous propose d’adopter un texte de cinquante-quatre articles, auxquels s’ajouteront, dans la loi, les sept articles adoptés conformes par le Sénat. Enfin, la CMP ayant rétabli trois habilitations supprimées par le Sénat, ce sont donc dix habilitations à légiférer par ordonnance qui sont accordées au Gouvernement.<br/>Ce résultat, nous le devons aux différents protagonistes : je veux les en remercier, en commençant par notre rapporteur, Guillaume Kasbarian. En première lecture, en commission spéciale puis en séance publique, nous avions déjà pu apprécier ses qualités.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="60" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104165" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous êtes en voie de sanctification, monsieur le rapporteur ! L’auréole vous pousse déjà ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="61" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104166" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Elles ont également trouvé à s’illustrer lorsqu’il lui a fallu concilier fermeté et souplesse pour construire un accord avec nos collègues du Sénat. En CMP, nous avons mesuré la qualité de la relation qu’il a su établir avec son homologue du Sénat, Muriel Jourda, et, de fait, le succès de cette commission mixte paritaire lui doit beaucoup. Je crois que nous pouvons également tous le féliciter pour son agilité à passer de l’un à l’autre des très nombreux sujets qu’aborde ce projet de loi.<br/>Le plus souvent, dans l’hémicycle, il y a plusieurs rapporteurs et un seul ministre, mais, sur ce texte, il y a eu un rapporteur, Guillaume Kasbarian, et de nombreux ministres. Ce clin d’œil admiratif…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="63" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104168" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une déclaration ! Passons à autre chose…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="64" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104169" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…me permet aussi de saluer la très forte implication du Gouvernement dans la discussion. En premier lieu, Marc Fesneau et Amélie de Montchalin, bien sûr, mais aussi les autres membres du Gouvernement qui, en prenant part aux débats, ont démontré leur attachement au dialogue avec les parlementaires et leur volonté de donner davantage de contenu au projet de loi.<br/>Enfin, je n’oublie pas l’ensemble des collègues qui, par leurs amendements ou leurs interventions, ont contribué à faire progresser la discussion et le texte.<br/>Je conclurai en soulignant que le dernier mot n’est pas dit : tout d’abord, le Gouvernement devra déposer des projets de loi de ratification des ordonnances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="67" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104172" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela se fait, dans une démocratie ! Surtout sous la Ve République !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="68" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104173" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ensuite, l’article 6, que nous avons rétabli en CMP après sa suppression par le Sénat, prévoit que le Gouvernement devra remettre très rapidement au Parlement un rapport sur les mesures qu’il compte prendre pour surseoir aux jours de franchise applicables au titre de l’allocation chômage des intermittents du spectacle, et des salariés, travailleurs indépendants et travailleurs à la mission qui y sont associés.<br/>Enfin, l’article 5 instaure un dispositif d’information du Parlement sur les mesures réglementaires d’application prises dans le cadre des ordonnances, et sur leur état de préparation.<br/>Nous pouvons donc adopter sans hésiter un projet de loi que nous avons non seulement substantiellement amélioré, mais qui est assorti de toutes ces solides garanties. <italique>(Applaudissements sur les bancs du groupe MODEM et sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="71" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104176" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="72" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104177" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La majorité semble satisfaite !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="73" code_grammaire="MOTION_RP_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2104178" valeur=" (n[[o]] 3027)">
+      <orateurs/>
+      <texte>Motion de rejet préalable</texte>
+      <interExtraction nom_orateur="M. Jérôme Lambert" id_acteur="PA1809" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722556">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="74" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="MOTION_RP_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104179" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’ai reçu de Mme Valérie Rabault et des membres du groupe Socialistes et apparentés une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.<br/>La parole est à M. Jérôme Lambert, pour une durée qui n’excédera pas dix minutes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="75" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2104180" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne les excéderai pas, monsieur le président.<br/>Alors que nous abordons la lecture définitive du projet de loi, avec l’examen du texte issu des travaux de la commission mixte paritaire qui s’est réunie hier matin, nous pouvons faire deux constats : d’une part, il est manifeste que plusieurs dispositions, ordinaires, ne relèvent toujours pas d’un texte portant sur l’état d’urgence ; d’autre part, certaines dispositions procèdent à une extension indue du champ des ordonnances, ce qui constitue un excès de pouvoir réglementaire mettant en cause des principes fondamentaux. On peut évoquer l’indépendance de la justice, mise à mal par les dispositions relatives à la réorientation des procédures, et la liberté d’association, qui pâtit des dispositions relatives aux fédérations sportives ; on pourrait encore citer les dispositions concernant le Brexit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="77" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104182" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela fait beaucoup !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="78" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104183" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, il est tout à fait critiquable que la validité d’un certain nombre d’ordonnances – et, désormais, d’articles du projet de loi – soit étendue à une durée excessive, parfois très au-delà du terme même de l’état d’urgence.<br/>Le texte est également source de nombreuses préoccupations dans le domaine social, car le recours à plusieurs dispositifs a été assoupli. C’est le cas pour le prêt de main-d’œuvre entre entreprises et le prêt de main-d’œuvre à but non lucratif : en quoi un assouplissement du cadre se justifie-t-il ? Jusqu’à présent, le débat n’a pas permis d’éclaircir les interrogations des parlementaires.<br/>C’est également le cas de la possibilité, désormais offerte malgré les demandes contraires des principaux syndicats, de déroger à l’accord de branche et de passer par l’accord d’entreprise pour le renouvellement des contrats à durée déterminée – CDD.<br/>Enfin, c’est le cas de la possibilité de passer par l’accord d’entreprise pour avoir recours à des salariés temporaires, en dehors des conditions normales et des limitations légales fixées par l’actuel code du travail. Cela signifie qu’il sera possible de recourir à des salariés temporaires pour une tâche ni précise ni temporaire, et au-delà des cas limitativement énumérés dans la loi – absence du salarié principal, passage provisoire à temps partiel, suspension du contrat de travail. Il s’agit donc là d’une autre brèche dans le code du travail. On flexibilise le droit du travail dans un texte fourre-tout, vecteur qui n’est ni adéquat ni opportun pour opérer ce genre de manœuvre.<br/>Et que dire de la disposition, introduite par le Sénat et malheureusement reprise par la CMP malgré l’opposition des parlementaires de gauche, qui exclut des mesures de chômage réservées aux seuls intermittents des milliers de travailleurs œuvrant dans les domaines du spectacle, du tourisme, de l’événementiel, alors qu’ils se trouvent exactement dans la même situation de non-emploi durant cette période, et sans doute pour un moment encore ? Du mal, assurément.<br/>L’introduction au dernier moment, lors de la réunion de la CMP, d’une demande de rapport au Gouvernement sur cette question ne règle pas la situation : ce n’est pas d’un rapport dont ces travailleurs ont besoin, mais de réelles mesures d’accompagnement social.<br/>Enfin, le recours aux ordonnances dans une matière aussi sensible que les négociations de l’Union européenne avec le Royaume-Uni s’agissant du Brexit, ne s’imposait pas – en tout cas certainement pas au-delà de la date initiale de la fin des négociations, prévue pour le 31 décembre 2020.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="85" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104190" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="86" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104191" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="87" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104192" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour évaluer s’il est nécessaire ou non de légiférer rapidement, il aurait été préférable d’attendre le 1<exposant>er</exposant> juillet 2020, date à laquelle une éventuelle prolongation de la période de transition pourrait être décidée. Le Parlement ne doit pas être vu comme un obstacle à légiférer – ce que présuppose le principe même du recours aux ordonnances –, mais comme un allié exigeant et déterminé à obtenir le meilleur accord possible.<br/>En conclusion, je souhaiterais insister sur le fait que, dans certaines matières, il ne saurait être urgent de légiférer pour pallier les nombreux besoins qu’ont fait naître les conséquences de la crise : l’état d’urgence ne doit pas aboutir, comme c’est le cas avec le projet de loi, à assouplir et à flexibiliser le droit du travail, notamment dans les domaines que j’ai précédemment cités. L’urgence ne doit pas préfigurer la banalisation de l’exception, car, si l’on sait quand les mesures exceptionnelles commencent, on ne sait jamais vraiment quand elles finissent. Le projet de loi ne saurait être la préfiguration de ce que pourrait être le droit du travail dans quelques années : un droit à l’image de la démolition actuellement en œuvre. C’est la raison pour laquelle je vous invite à la plus grande vigilance sur les mesures que nous allons examiner.<br/>Quant au groupe Socialistes et apparentés, il votera résolument contre le texte : contre l’extension de l’expérimentation des cours pénales, alors même qu’aucune évaluation ne peut encore être tirée des expérimentations en cours dans une dizaine de ressorts ; contre des mesures qui, du fait de leur complexité, auraient dû faire l’objet d’un examen de fond dans le cadre de projets de loi ordinaires, plutôt que d’être empilées dans un texte fourre-tout, qui laisse la part belle aux futures interprétations gouvernementales. À vouloir aborder des dizaines de sujets différents, le projet de loi est complexe et préfigure des risques pour notre future législation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="90" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104195" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="91" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104196" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une fois de plus dans la législature actuelle, ce n’est pas une bonne façon, pour la majorité, de faire la loi. Nous nous y opposons donc et vous proposons en conséquence, mes chers collègues, de voter en faveur de la motion de rejet préalable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="92" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104197" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous êtes en effet très en deçà des dix minutes, monsieur Lambert. <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="93" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104198" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il tient ses promesses, contrairement au Gouvernement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="94" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ni le Gouvernement ni la commission ne souhaitent s’exprimer sur la motion de rejet préalable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="95" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104200" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel mépris !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="96" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104201" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Par ailleurs, il n’y a aucune explication de vote.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="97" code_grammaire="REJET_MOTION_1_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2104202" valeur="" decision="REJET motion de rejet préalable (main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(La motion de rejet préalable, mise aux voix, n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="98" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2104203" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Antoine Savignat" id_acteur="PA748954" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM748958">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="99" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104204" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Antoine Savignat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="100" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104205" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je partage bien des points de vue exposés dans la défense de la motion de rejet – mais pas tous, j’en suis navré. En effet, je pense qu’en cette période de crise, les mesures de flexibilité en matière de travail sont tout de même une bonne chose. En tout état de cause, au début de la crise, il a été fait référence à une situation de guerre : la France était en guerre, les Français devaient se calfeutrer chez eux, se confiner, ne plus sortir. Tout s’arrêtait.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="101" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104206" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais qui a dit cela ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="102" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104207" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans cette situation, le fonctionnement des institutions était mis entre parenthèses. Pour remporter la victoire, le Gouvernement était habilité à légiférer par ordonnances et à prendre, pour faire la loi, des décisions indispensables dans l’urgence. Mais, en temps de guerre, seul l’ordre clair et précis, qui fixe un cap, rassure et poursuit un but cohérent, est un ordre valable : or, de cela, nous n’avons rien vu. Le tâtonnement a succédé à l’imprécision, personne n’ayant été en mesure de prévoir ce que serait le lendemain. Nous sortons de cette situation petit à petit, laborieusement mais, nous l’espérons, sûrement. Nous devrions donc pouvoir à nouveau fonctionner normalement, les institutions vont retrouver la plénitude de leur rôle et les directives redevenir lisibles et compréhensibles. Mais hélas, nous ne connaîtrons pas cette situation, puisque, en lieu et place de ce retour à la normale, on nous présente un texte fourre-tout, « gloubi-boulga » – les qualificatifs n’ont pas manqué –, sans cohérence, extrêmement dense et particulièrement illisible.<br/>En somme, pour sortir d’une crise, on nous présente un petit bricolage, sans mesures pérennes, sans cap et sans objectif, histoire de dire qu’on a fait quelque chose. On mélange la véritable urgence, celle qui, comme je le disais à l’instant, consiste à sauver les emplois et l’économie, et a donc toute sa place dans le texte, avec la sortie du Brexit – qui, à dire de ministre, a été placé là car on ne savait pas où le mettre – ou l’application de normes européennes.<br/>Bien pire : on tente de camoufler l’explosion de notre système judiciaire et on reporte l’entrée en vigueur de réformes, comme celle relative au divorce, qui nous avaient pourtant été présentées comme de nature à alléger la charge de travail des juridictions. En cette période de surcharge des tribunaux, c’est une solution dont on devrait se féliciter : pourtant, ces réformes sont reportées sans, bien évidemment, que nous en soit donnée la véritable cause – elle réside en fait dans notre incapacité à appliquer l’ensemble de ces réformes, faute de moyens.<br/>Pire encore : les engagements pris lors de l’adoption de la loi de programmation 2018-2022 et de réforme pour la justice s’agissant de l’extension des chambres criminelles au niveau départemental ne sont pas respectés. Et sauf si, à l’issue d’un marchandage, nous parvenons à une solution plus satisfaisante, je maintiendrai qu’une chambre criminelle départementale, c’est déjà une de trop. On ne fait pas d’expérience en matière de justice, car on doit à tous, dans tous les territoires, la même justice ; pas plus que l’on n’interfère dans le travail des procureurs en les invitant à revoir les poursuites qu’ils avaient choisi d’engager, voire, en matière conventionnelle, à procéder à des classements sans suite. C’est un message inacceptable dans un État qui, à l’avenir, à force de tels messages, ne sera plus un État de droit –…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="106" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104211" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Laxisme !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="107" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104212" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>...les événements d’hier soir nous l’ont encore rappelé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="108" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1617617" ordre_absolu_seance="109" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104214" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>De telles dispositions aboutiront à moins de justice là où il y en a pourtant le plus besoin, puisque seuls les tribunaux surchargés feront application de ces dispositions de classement : ce message ne saurait être accepté.<br/>Par ailleurs, le texte multiplie les bricolages, notamment, pour essayer de s’arranger, en piquant un peu de trésorerie à ceux qui en ont parce qu’ils ont bien géré. Ce ne sont pas des mesures pérennes. Si vous avez quelque peu rassuré ceux qui n’étaient pas touchés, beaucoup attendent encore de savoir s’ils seront eux aussi affectés par le dispositif.<br/>Enfin, ce texte traite aussi du Brexit, qu’il fallait bien caser quelque part. Le sujet a lui aussi fait l’objet de discussions, mais elles sont sans aucun lien avec la crise que nous traversons et ne sauraient, selon nous, intervenir à l’occasion de la discussion sur ce texte.<br/>Vous comprendrez donc que, en dehors des mesures visant la préservation de l’emploi et la stabilité des institutions représentatives – les seules qui ciblent véritablement les conséquences de la crise –, ce texte ne peut servir à camoufler des mesures irresponsables dont les effets, parfois irréversibles, perdureront plusieurs mois : par exemple, les modifications apportées au champ d’application des mesures de rétablissement personnel, dans le code de la consommation, subsisteront.<br/>Nous ne saurions accepter l’habilitation à légiférer par ordonnance, d’autant plus que nous sommes présents dans l’hémicycle ! Comment les Français, qui prennent le métro par centaines le matin, pourraient-ils comprendre que nous ne pouvons pas légiférer aujourd’hui ? Dans ces conditions, vous comprendrez que le groupe Les Républicains ne votera pas en faveur de ce texte. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Noël Barrot" id_acteur="PA721836" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723398">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617672" ordre_absolu_seance="4" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104122" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Noël Barrot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617673" ordre_absolu_seance="5" id_acteur="PA721836" id_mandat="PM723398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104123" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom du groupe du Mouvement démocrate et apparentés, je souhaite saluer le travail accompli pour la préparation du projet de loi dont les conclusions sont présentées aujourd’hui. En effet, le texte dont a débattu notre assemblée il y a deux semaines comportait de nombreuses dispositions sans lien évident entre elles. Cela a troublé certains de nos collègues, mais le contexte imposait de telles mesures d’urgence que nous avons donc soutenues. Un grand nombre d’entre elles sécurise des dispositions figurant déjà dans les différents textes d’urgence déjà votés. D’autres répondent à des interrogations très légitimes de nombre de nos concitoyens ; c’est le cas notamment des mesures concernant l’ouverture des droits à la retraite en cas de chômage partiel, de celles à destination des restaurateurs, mais aussi de celles relatives au développement de l’intéressement ou encore à la sécurisation des contrats doctoraux.<br/>Nos débats, tant en commission qu’en séance, ont permis d’enrichir le texte de nouvelles dispositions relatives notamment au travail saisonnier, pour faciliter l’activité des étudiants, ou visant à sécuriser les détenteurs de titres de séjour arrivant à échéance.<br/>Le Parlement a pleinement rempli son rôle et nous sommes satisfaits de constater qu’à l’issue de la commission mixte paritaire le nombre d’habilitations à légiférer par ordonnance a été réduit de trente à dix. Il s’agissait, je crois, d’une volonté commune de nombreux groupes de notre hémicycle et du Sénat, et nous saluons le travail du rapporteur et des ministères qui ont travaillé en ce sens.<br/>Il demeurait, lors de la commission mixte paritaire, plusieurs points de blocage, comme la question des cours criminelles pour laquelle il avait été proposé de porter l’expérimentation à trente départements. Les discussions ont permis d’aboutir à une position commune sur ce sujet, ce dont je me félicite.<br/>L’article 3 fit également l’objet d’une intense discussion après sa suppression par le Sénat. Nous continuons à considérer la mesure qu’il porte comme une décision utile, susceptible de réduire les besoins de financement à court terme de l’État dans une période si particulière. J’ajoute que des garanties ont été apportées, concernant notamment les caisses de retraite.<br/>Enfin, l’article 4, relatif aux discussions en cours au sujet du Brexit, a fait l’objet d’aménagements qui étaient souhaitables. Mon groupe a défendu en séance un amendement de la commission des affaires étrangères qui portait à douze mois la durée de l’habilitation, contre trente initialement proposés – une durée qui nous semblait disproportionnée et qui dessaisissait le Parlement de ses prérogatives pour une période injustifiée. Nous sommes donc heureux de constater que la commission mixte paritaire a pu s’accorder sur une durée de douze mois. Les négociations en cours, dont on sait qu’elles sont difficiles, appellent un travail étroit du ministère avec le Parlement. C’était le sens du message que tous les groupes ont envoyé en première lecture à l’Assemblée.<br/>Nombre des doutes qui avaient été émis en première lecture ont ainsi pu être levés, grâce au travail en bonne intelligence de l’ensemble des parlementaires et à l’ouverture d’esprit manifestée par le Gouvernement. Le texte auquel nous sommes parvenus comporte de nombreuses dispositions utiles et essentielles ; plusieurs garanties ont été apportées au Parlement, notamment par la réduction importante du nombre d’ordonnances.<br/>Je tiens à remercier le Gouvernement, en particulier le ministre des relations avec le Parlement, pour son écoute. Je remercie également le rapporteur général pour son travail, ainsi que la présidente de la commission spéciale, Nathalie Elimas, qui a œuvré de façon remarquable pour que nos débats puissent se tenir dans un temps resserré tout en conservant une grande qualité – le tout en lien avec le Sénat, afin que les travaux sur ce texte puissent aboutir aujourd’hui. Le groupe du Mouvement démocrate et apparentés apportera donc son soutien plein et entier à ce texte. <italique>(Applaudissements sur les bancs du groupe MODEM. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Guillaume Kasbarian, rapporteur, applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jérôme Lambert" id_acteur="PA1809" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722556">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617681" ordre_absolu_seance="13" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104131" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jérôme Lambert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617682" ordre_absolu_seance="14" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104132" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour compléter l’intervention que j’ai faite il y a quelques minutes lors de la présentation de la motion de rejet préalable, je reprends la parole au nom du groupe Socialistes et apparentés, pour vous indiquer que ce projet de loi ne doit pas être le cadre d’expérimentations ou de mesures dont le caractère exceptionnel déroge de façon excessive au droit en vigueur, particulièrement lorsqu’il s’agit de réformes concernant la réorganisation de la justice, la réorientation des procédures et le droit des étrangers. Je souhaiterais revenir brièvement sur chacun de ces points.<br/>S’agissant des cours criminelles départementales, ce projet de loi ne doit pas étendre des formes d’expérimentation dont l’évaluation n’a, par ailleurs, pas encore été menée. Créées par la loi de programmation 2018-2022 et de réforme pour la justice, les cours criminelles sont expérimentées depuis peu. L’objectif poursuivi par la chancellerie consistait à réduire les délais de jugement pour certaines affaires criminelles, en ne faisant siéger que des magistrats professionnels, sans jurés populaires.<br/>Conformément à l’article 63 de la loi de programmation, cette expérimentation a été mise en œuvre dans une dizaine de départements. Or le Gouvernement profite aujourd’hui de l’état d’urgence sanitaire pour demander une habilitation lui permettant d’étendre cette expérimentation à dix-huit nouveaux départements.<br/>Nous sommes attentifs au principe d’oralité des débats et donc extrêmement inquiets de cette extension, alors même qu’aucune évaluation de l’expérimentation n’a été élaborée. La seule justification donnée par l’étude d’impact repose sur l’annulation des sessions d’assises durant la période de crise sanitaire et sur le retard ainsi pris dans les audiencements. Or un tel projet d’extension d’expérimentation ne saurait reposer sur les deux mois de crise épidémique majeure, sans évaluation d’une expérimentation non achevée.<br/>S’agissant de la réorientation des procédures contraventionnelles ou correctionnelles, le projet de loi autorise le président du tribunal judiciaire ou le juge par lui délégué, sur requête du procureur de la République, à décider, par ordonnance prise dans l’intérêt de la bonne administration de la justice au moins un mois avant la date prévue pour l’audience, de renvoyer la procédure au ministère public afin que celui-ci apprécie à nouveau la suite à y donner. Cela ne semble pas être une bonne mesure d’administration judiciaire.<br/>Concernant enfin le droit des étrangers, les titres de séjour ont certes été prorogés mais je souhaiterais revenir sur une autre disposition : la suppression par le Sénat, dans la partie législative du code de l’entrée et du séjour des étrangers et du droit d’asile, de la mention de la délivrance par l’administration de récépissés lors du dépôt d’une demande de titre de séjour ou lors de son renouvellement. Avec la dématérialisation de ces documents provisoires, la fixation des conditions dans lesquelles les étrangers sont autorisés à séjourner en France pendant l’instruction de leur demande serait ainsi renvoyée au pouvoir réglementaire, dont elle relève. Cela ne semble pas être une mesure favorable aux étrangers, même si resterait toutefois maintenue dans la loi la mention explicite que les réfugiés et les titulaires de la protection subsidiaire bénéficient du droit d’exercer la profession de leur choix, eu égard à l’importance de ce droit.<br/>En conclusion, je souhaiterais attirer votre attention sur un autre volet très préoccupant du projet de loi, celui relatif au droit social. L’état d’urgence ne doit pas aboutir, comme c’est le cas avec ce projet de loi, à un assouplissement et à une flexibilité accrue du droit du travail en ce qui concerne la prolongation des CDD, le recours au prêt de main-d’œuvre entre entreprises ou l’intérim. Un ensemble de dispositions contenues dans ce projet de loi dérégule ces différents domaines ; cela ne doit pas être accepté, même si c’est provisoire. L’urgence ne doit pas préfigurer la banalisation de l’exception. Comme je le disais tout à l’heure, on sait quand commencent les mesures exceptionnelles, mais on ne sait jamais vraiment quand elles risquent de prendre fin. Ce projet de loi ne doit pas être la préfiguration de ce que serait le droit du travail dans quelques années. Ce sont les raisons pour lesquelles le groupe Socialistes et apparentés votera contre ce texte. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pascal Brindeau" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM761932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617689" ordre_absolu_seance="21" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104139" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pascal Brindeau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617690" ordre_absolu_seance="22" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104140" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’examen de ce projet de loi constitue un exemple supplémentaire, s’il en était besoin, de l’utilité et même du caractère indispensable du débat parlementaire et du travail réalisé conjointement par les deux chambres. Il est aussi un exemple de l’équilibre qui doit être trouvé entre la nécessité d’habiliter le Gouvernement à prendre des décisions par ordonnance, dans le cadre de l’urgence, et celle de respecter en tout temps des prérogatives des parlementaires. Il est d’ailleurs étonnant de constater que l’on est passé de quarante à dix habilitations et qu’au travers de nombreux amendements, le Gouvernement a lui-même fait inscrire dans le texte du projet de loi des dispositions initialement prévues par ordonnance.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617691" ordre_absolu_seance="23" id_acteur="PA719372" id_mandat="PM722640" id_nomination_oe="-1" id_nomination_op="-2167920" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104141" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Kasbarian</nom>
+              <id>719372</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il faut s’en réjouir !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617692" ordre_absolu_seance="24" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104142" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur le fond, comme nous l’avions souligné en première lecture, nous partageons votre ambition au sujet de ce projet de loi. En effet, il nous faut tenir compte de l’ampleur de la crise, assurer la continuité des services publics et des missions régaliennes, accompagner bien sûr le redémarrage économique et soutenir la vie sociale de nos concitoyens dans toutes ses dimensions. Il était essentiel de prendre en compte spécifiquement les secteurs ayant fait l’objet d’une fermeture administrative et dont l’activité s’est totalement arrêtée – comme l’hôtellerie et la restauration –, de même que les conséquences de cette situation pour leurs fournisseurs et pour l’ensemble de la chaîne de valeur.<br/>Lors de la première lecture, nous avions plusieurs interrogations que la navette parlementaire a contribué à éclaircir. Nous nous félicitons d’abord qu’il ne subsiste plus d’ordonnance concernant les mesures relatives à la justice dans le texte final. J’en viens cependant à deux points essentiels. Concernant l’extension de l’expérimentation des cours criminelles, le véhicule législatif dont nous achevons aujourd’hui la discussion ne pouvait servir de prétexte à une généralisation de ces cours.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617694" ordre_absolu_seance="26" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104144" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617695" ordre_absolu_seance="27" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104145" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous nous réjouissons qu’un compromis acceptable ait été trouvé avec le Sénat ; il permet au Gouvernement d’étendre cette expérimentation à seulement huit départements supplémentaires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617696" ordre_absolu_seance="28" id_acteur="PA1809" id_mandat="PM722556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104146" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Lambert</nom>
+              <id>1809</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Huit de trop !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617697" ordre_absolu_seance="29" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104147" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est de l’opportunisme législatif !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617698" ordre_absolu_seance="30" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104148" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La question de la réorientation des procédures pénales, inédite dans notre droit, continue de soulever de nombreux doutes quant à sa faisabilité. Sur le fond, elle ne doit pas devenir un appel généralisé aux comparutions sur reconnaissance préalable de culpabilité, ce que nous craignons.<br/>À l’article 2, la réintroduction de l’ordonnance visant à prolonger l’expérimentation relative au seuil de revente à perte nous laisse perplexes. Le Sénat a heureusement limité à quatorze mois cette ordonnance ; nous aurions préféré attendre le rapport d’évaluation du Gouvernement à l’automne pour traiter ensuite ce sujet dans un cadre spécifique lié aux questions commerciales et agricoles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617700" ordre_absolu_seance="32" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104150" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617701" ordre_absolu_seance="33" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104151" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au sujet de l’article 3, concernant la centralisation par l’État des trésoreries des organismes relevant de la comptabilité publique et chargés d’une mission de service public, le texte issu de la CMP a utilement encadré la demande d’habilitation en excluant les organismes relevant des collectivités territoriales, les organismes sociaux et les caisses des règlements pécuniaires des avocats.<br/>Concernant l’article 4, relatif au Brexit, nous pouvons certes nous féliciter que le délai initial de trente mois d’habilitation ait été ramené à douze mois, mais regrettons qu’il ne corresponde pas aux prochaines étapes des négociations avec les Britanniques et ne permette pas au Parlement de suivre quasiment en direct leur état d’avancement. Néanmoins, nous saluons l’initiative de nos collègues du Sénat consistant à inscrire directement, dans le code des transports, les modalités futures de gestion du tunnel sous la Manche en cas d’absence d’accord ; c’est la preuve que le Parlement peut tout à fait se saisir de ces sujets sans avoir à habiliter le Gouvernement pour qu’il légifère par ordonnance.<br/>J’ajoute enfin, au nom de mes collègues Philippe Dunoyer et Philippe Gomès, que nous regrettons l’absence, dans ce projet de loi, de sécurisation juridique du dispositif de quarantaine calédonien. L’île, indemne à ce jour de covid-19, doit pouvoir imposer sur son territoire un régime de quarantaine plus contraignant que celui qui a été organisé par la loi du 11 mai 2020 prorogeant l’état d’urgence sanitaire. Alors que le Premier ministre s’était déclaré prêt à discuter au Sénat d’une adaptation de ces dispositions, lors de la séance des questions d’actualité du 19 mai, aucune évolution n’est malheureusement intervenue sur ce point.<br/>Le groupe UDI et indépendants soutiendra majoritairement ce projet de loi, à l’exception de nos collègues polynésiennes Maina Sage et Nicole Sanquer, qui tiennent à préciser que l’insertion d’un sujet aussi important que l’indemnisation des victimes des essais nucléaires n’a rien à faire parmi les urgences découlant de la crise du covid-19…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617705" ordre_absolu_seance="37" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104155" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elles ont raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1617706" ordre_absolu_seance="38" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104156" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…a fortiori lorsqu’il s’agit d’entériner une disposition plus contraignante pour les victimes. Un tel sujet aurait sans doute mérité un débat législatif en bonne et due forme. <italique>(Applaudissements sur les bancs du groupe UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Félix Acquaviva" id_acteur="PA719146" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722576">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617619" ordre_absolu_seance="1" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104069" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Félix Acquaviva.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617620" ordre_absolu_seance="2" id_acteur="PA719146" id_mandat="PM722576" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104070" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Félix Acquaviva</nom>
+              <id>719146</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout au long de l’examen de ce projet de loi, tant en commission qu’en séance publique, nous n’avons eu de cesse d’alerter sur l’incohérence et les dangers d’un texte fourre-tout, prévoyant des habilitations extrêmement nombreuses et larges. Si les députés du groupe Libertés et territoires ont manifesté d’emblée de fortes réticences à l’égard d’un texte qui demandait au Parlement de se dessaisir de ses prérogatives au profit du Gouvernement en lui délivrant un blanc-seing unique en son genre, la navette parlementaire ne nous a pas plus convaincus, ni sur la forme ni sur le fond.<br/>Reconnaissez d’abord que vous avez pris quelques libertés par rapport aux dispositions de la Constitution régissant le recours aux ordonnances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617622" ordre_absolu_seance="4" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104072" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si peu !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617623" ordre_absolu_seance="5" id_acteur="PA719146" id_mandat="PM722576" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104073" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Félix Acquaviva</nom>
+              <id>719146</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet, l’article 38 de la loi fondamentale n’autorise le recours aux ordonnances que lorsqu’il est nécessaire de prendre des dispositions dont l’urgence ou la complexité ne s’accommodent pas aisément des règles de la procédure législative. Or nombre d’habilitations prévues par ce texte ne répondaient pas à ces conditions.<br/>Si le nombre des habilitations et leur champ d’application ont pu être réduits, le texte issu de la CMP n’est pas totalement satisfaisant. En effet, certaines des dispositions maintenues vont entraîner une insécurité juridique. Nous pensons particulièrement à l’article 2 ter relatif à l’indemnisation des victimes des essais nucléaires, dont, comme le Sénat, nous souhaitions la suppression. Nous pensons aussi à l’article 3 relatif à la centralisation des trésoreries, que la CMP a malheureusement rétabli. Certes, elle a exclu certains organismes de son champ d’application, mais elle n’a pas été suffisamment loin dans ce sens. Sans vouloir en dresser une liste à la Prévert, nous nous inquiétons, à l’image de ma collègue, de l’intégration des établissements de santé publics, privés d’intérêt collectif et privés dans le champ de l’habilitation.<br/>Vous avez par ailleurs, comme à votre habitude, demandé au Parlement de vous habiliter à nouveau à légiférer par ordonnances alors que les précédentes n’ont pas encore été ratifiées – une cinquantaine à ce jour. Permettez-nous de vous appeler à un peu plus de sagesse en la matière. Le recours aux ordonnances ne peut pas devenir systématique sans être abusif.<br/>Certes, le covid-19 a bouleversé le quotidien de chacun d’entre nous et nous y adapter suppose de prendre des mesures de court terme. Notre groupe a soutenu les dispositions d’urgence nécessaires, comme la prolongation de six mois de la validité des titres de séjour des étrangers et de trois mois des attestations de demandes d’asile, ainsi que celle de l’allocation pour les demandeurs d’asile. Nous saluons également l’adaptation des dispositions relatives aux CDD et aux contrats de travail temporaire, la prise en compte pour la retraite du dispositif d’activité partielle mis en place du fait de l’épidémie, la prolongation de la durée d’attribution de l’allocation des demandeurs d’emploi ou encore la prolongation de la trêve hivernale des expulsions de logement jusqu’au 10 juillet.<br/>Attention cependant à la précipitation et à l’effet d’aubaine pour l’exécutif qui profiterait de cette situation pour, contournant le Parlement, faire passer des mesures telles que l’extension de l’expérimentation des cours criminelles, actuellement en cours dans neuf départements, et qui devait être étendue à trente départements à l’issue de l’examen par l’Assemblée nationale. Refusée par le Sénat, cette extension a finalement été limitée à dix-huit départements en CMP. Notre groupe, comme les avocats et certainement de nombreux justiciables, est opposé à l’instauration de telles cours criminelles, porte ouverte à la disparition des cours d’assises et, avec elles, des jurys populaires. En dépit du risque réel de dégradation de la qualité des débats du fait de la réduction de la place de l’oralité et alors que les expérimentations en cours ne nous permettent pas encore le recul nécessaire, vous avez décidé de les étendre à d’autres départements. Cette précipitation nous semble préjudiciable à l’efficacité du service public de la justice.<br/>Chers collègues, en dépit des coups de ciseaux des députés et des sénateurs, ce projet de loi ne saurait satisfaire pleinement notre groupe. Il n’est pas à la hauteur des enjeux d’un état d’urgence sanitaire qui se prolonge et d’une deuxième phase du déconfinement qui commence, alors que s’annonce une crise économique et sociale d’ampleur. Ce projet de loi est un énième petit sac de cailloux difformes, qui ne sauraient paver le chemin d’un retour à la confiance. C’est la raison pour laquelle la quasi-totalité de notre groupe s’abstiendra.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Bénédicte Taurine" id_acteur="PA718860" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722482">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617629" ordre_absolu_seance="11" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104079" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Bénédicte Taurine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617630" ordre_absolu_seance="12" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104080" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <id>718860</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe de la France insoumise s’est opposé en première lecture à un texte qui multiplie les demandes d’habilitation à légiférer par ordonnances sur les sujets les plus divers. Au regard des nombreux problèmes qu’il continue de poser, vous me permettrez de douter que ces ordonnances soient susceptibles de répondre réellement à l’urgence et de doter notre pays d’une meilleure organisation sanitaire et économique, et c’est pourquoi nous continuerons de nous y opposer.<br/>Le premier problème est celui de l’outil législatif. Les sénateurs, tout autant que les députés, ont particulièrement critiqué le nombre d’ordonnances prévu par ce texte. Au nombre de quarante dans le projet de loi initial, il en restait vingt-quatre à l’issue de l’examen par l’Assemblée nationale, puis dix après l’examen au Sénat, et celles qui n’ont pas été supprimées ont vu leur champ d’application réduit quand l’urgence ne suffisait pas à les justifier, ou ont été transformées en projets d’article quand le dispositif était suffisamment précis.<br/>Rien ne justifie une telle généralisation des ordonnances. Le rôle du Parlement n’est pas de laisser le Gouvernement écrire la loi à sa place. Plus de cinquante ordonnances ont déjà été présentées en conseil des ministres pour faire face à l’urgence. La majorité s’y habitue peut-être, mais ce n’est pas notre conception du rôle de parlementaire. Non, les ordonnances ne sont pas le seul moyen de voter à temps les projets de loi que vous jugez nécessaires au vu de la situation. Cette généralisation bafoue le travail parlementaire, limite le débat et représente un danger pour la démocratie.<br/>Aucune urgence ne justifie non plus une transformation du droit de travail qui aggrave la précarité des travailleurs, et c’est pourquoi nous nous y opposons fermement. Vous proposez par exemple de multiplier les possibilités de recourir aux CDD hors de toute contrainte, ou encore de déroger au nombre maximal de vacations dans toute une série de missions publiques. La plupart de ces affaiblissements du droit du travail pourront se prolonger six mois après la fin de l’état d’urgence sanitaire. Alors que la crise économique menace, il est inacceptable d’y répondre par une réduction des droits des salariés et l’augmentation de la précarité : le CDI doit rester la norme.<br/>Les textes que vous avez fait adopter depuis le début de l’épidémie de covid-19 multipliaient déjà les mesures antisociales. Je pense notamment, s’agissant du temps de travail, à celle qui permet aux patrons de contraindre les salariés à prendre leurs jours de congé pendant le confinement. En modifiant ainsi le code du travail pour une période qui s’étendra bien après la fin de l’état d’urgence, vous poursuivez cette politique, au détriment de ceux que vous avez applaudis pendant la crise, celles et ceux qui ont fait tourner le pays et qui continuent à le faire. Vous prouvez une nouvelle fois que vous n’êtes pas au service de l’intérêt général ni du bien commun.<br/>Vous allez jusqu’à profiter de ce texte pour légiférer sur des matières relatives au Brexit. Quel rapport avec l’état d’urgence sanitaire ?<br/>Des solutions et des propositions ambitieuses existent pourtant, qui permettraient de pallier la crise. Pourquoi ne pas instaurer des droits nouveaux, une réelle sécurité de l’emploi dans des temps qui vont continuer à être particulièrement difficiles pour des salariés que la crise frappe durement ? Pourquoi ne pas assurer à ceux qui sont sans emploi une protection leur garantissant une vie digne ? Pour nous, l’urgence serait par exemple de garantir à tous le gel des frais d’incident bancaire qui pénalisent des ménages déjà fragilisés par la crise, ou encore la gratuité des masques – il est inadmissible que leur prix ait augmenté cinq à dix fois durant la crise – ; de prolonger le droit à l’IVG pendant quatorze semaines ; d’assurer la gratuité des funérailles des victimes du covid-19 ; de créer une taxe sur les profiteurs de la crise ; d’instaurer un moratoire des loyers ou une aide alimentaire complémentaire au bénéfice des plus fragiles, notre pays ayant connu une augmentation de 30 % des demandes d’aide alimentaire.<br/>Vous n’avez pas tenu compte de nos propositions tant vous êtes coupés des réalités immédiates et de l’urgence sociale. Votre texte n’est malheureusement pas à la hauteur des enjeux.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Émilie Cariou" id_acteur="PA720298" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722922">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617638" ordre_absolu_seance="20" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104088" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Émilie Cariou.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617639" ordre_absolu_seance="21" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104089" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes appelés à exercer nos responsabilités dans le contexte exceptionnel d’une crise sanitaire sans précédent et de ses conséquences sociales et économiques pour notre pays. Pour la surmonter, le Gouvernement a déjà pris des mesures que le groupe EDS soutient, nous tenons à le rappeler. Je pense notamment au premier plan de soutien et à une indemnisation du chômage partiel particulièrement large en comparaison de nos voisins européens. Je partage également la satisfaction exprimée par nos collègues de la majorité quant aux quelques avancées contenues par ce texte.<br/>Au moins notre capacité à réduire significativement le nombre d’ordonnances initialement prévu par le projet de loi prouve que le Parlement veille encore au respect du principe que la loi, c’est lui et que l’habilitation du Gouvernement à prendre des ordonnances doit rester l’exception, utile et limitée, sous le contrôle en amont et en aval de l’Assemblée et du Sénat. Est-ce suffisant, mes chers collègues ? Hélas non. Notre groupe est particulièrement soucieux de faire respecter le mandat dont nous avons la charge et des exigences démocratiques qui animent le travail de député.<br/>Les procédures de vote respectent-elles les garanties minimales ? Nous pensons que non. Je rappelle que le Conseil constitutionnel saisi pour cette raison de la dernière loi prorogeant l’état d’urgence s’est même inquiété que tous les députés ne puissent accéder à l’hémicycle pour pouvoir y voter. Nous déplorons le refus du vote électronique ainsi que celui de transférer le lieu de la délibération en un endroit plus adapté aux règles de distanciation physique ou d’adopter des règles de délégation plus respectueuses du vote de chacun. On doit donner à notre Parlement, législateur et évaluateur, toute latitude pour accomplir ses missions, ce que le Sénat, lui, semble avoir parfaitement réussi.<br/>J’en viens au fond. Trouvons-nous dans ce texte portant diverses dispositions d’urgence, par essence disparate, des éléments de satisfaction ? Je sais que certains de nos collègues ont obtenu des avancées, améliorant notamment à titre temporaire la situation des étrangers pendant cette crise ou le dispositif des contrats d’insertion. Ce n’est pas le cas, hélas, du recours à l’IVG, les nombreux amendements déposés en ce sens ayant tous été rejetés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617643" ordre_absolu_seance="25" id_acteur="PA719372" id_mandat="PM722640" id_nomination_oe="-1" id_nomination_op="-4335840" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104093" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Kasbarian</nom>
+              <id>719372</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Non ! Ils étaient irrecevables au titre de l’article 45 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617644" ordre_absolu_seance="26" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104094" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous relevons certes des progrès en matière de téléconsultation, mais nous appelons à la prise en compte de cette urgence pour les femmes, et je salue à cet égard l’engagement sans faille de ma collègue Albane Gaillot.<br/>De même, l’extension de l’expérimentation des cours criminelles suscite en nous de nombreux doutes, ainsi que les mesures relatives au Brexit, qui ne semblent pas du tout pertinentes au regard du calendrier institutionnel.<br/>Je dois de surcroît dénoncer avec force la possibilité ouverte par l’article 1<exposant>er</exposant> decies de tordre cette année nombre de principes de base du droit du travail, ceux  en particulier qui encadrent le recours aux contrats courts.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617647" ordre_absolu_seance="29" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104097" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617648" ordre_absolu_seance="30" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104098" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les organisations de salariés mais aussi des entrepreneurs nous ont fait part de leur perplexité devant la possibilité d’assouplir, par un simple accord d’entreprise et sans contrepartie, les durées des CDD et les modalités de leur renouvellement. C’est ce que permet ce texte, le Sénat et la CMP ayant en outre dérégulé le recours à l’intérim. De tels assouplissements, adoptés sans aucune concertation avec les partenaires sociaux, nous semblent précariser encore plus la situation des salariés. Or la précarisation de l’emploi restreint, comme vous le savez, l’accès aux droits élémentaires, tel le droit au logement.<br/>Nous sommes opposés à la mise en place, fût-ce à titre transitoire, d’un tel régime d’exception du contrat de travail, que le contexte actuel ne suffit pas à justifier. Je constate d’ailleurs l’absence d’un mécanisme garantissant explicitement la sortie effective de l’état social d’exception prévu par ce projet de loi.<br/>Vous comprendrez, mes chers collègues, que, tout en rappelant son intention de construire avec la majorité et le Gouvernement, notre groupe ne peut pas se prononcer en faveur d’un projet de loi que nous estimons dangereux pour nos concitoyens. <italique>(Applaudissements sur les bancs des groupes EDS et SOC.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617651" ordre_absolu_seance="33" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104101" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Dangereux ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617652" ordre_absolu_seance="34" id_acteur="PA719372" id_mandat="PM722640" id_nomination_oe="-1" id_nomination_op="-2167920" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104102" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Kasbarian</nom>
+              <id>719372</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est honteux de dire autant de bêtises !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617653" ordre_absolu_seance="35" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2104103" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Dharréville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617654" ordre_absolu_seance="36" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2104104" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« Voici venu le temps / Des rires et des chants, / Dans l’île aux enfants, / C’est tous les jours le printemps. » <italique>(Rires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617655" ordre_absolu_seance="37" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104105" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Casimir ! C’est notre génération !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617656" ordre_absolu_seance="38" id_acteur="PA719938" id_mandat="-1" id_nomination_oe="PM759796" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104106" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Fesneau</nom>
+              <id>719938</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous nous rajeunissez ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617657" ordre_absolu_seance="39" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104107" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous revoici donc à parler d’un texte qualifié de « gloubi-boulga » par la très sérieuse <italique>Gazette des communes</italique> ! Un texte qui, lui, parle de tout et de rien, sorte d’omnibus ou de voiture-balai de l’état d’urgence…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617658" ordre_absolu_seance="40" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="PM772113" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104108" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>vice-présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Oh là là !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617659" ordre_absolu_seance="41" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104109" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…chargé du ramassage devant chaque ministère, chacun profitant des soldes parlementaires pour fourguer ses fonds de tiroir, et vous avez considéré que cela faisait une loi.<br/>C’est la saison des accords à droite, entre Les Républicains et les Républicains en marche : accord sur la création d’une commission d’enquête, accords sur les municipales, à Lyon et ailleurs, et à présent sur ce texte. Le Sénat a vaguement refréné quelques-unes de vos ardeurs sans proposer autre chose que des améliorations cosmétiques.<br/>Le Parlement n’a pas pu travailler dans des conditions satisfaisantes : nous ne disposions toujours pas du texte définitif hier soir et nous avons toujours le sentiment désagréable de rester sur le quai de la gare à regarder passer le train.<br/>Je l’ai dit en première lecture, ce texte comprend des mesures nécessaires mais, même si vous en avez réduit le nombre, il prévoit encore trop d’ordonnances, soit autant de blancs-seings et de zones d’ombre, ainsi que des dispositions inacceptables.<br/>Le Gouvernement voulait ainsi étendre à trente départements l’expérimentation de cours criminelles remplaçant les cours d’assises ; le Sénat ayant estimé qu’une telle extension nous ferait sortir d’un cadre strictement expérimental, le texte prévoit finalement l’expérimentation de dix-huit cours criminelles. Or c’est le principe même de ces cours criminelles qui pose problème et la sincérité de votre volonté d’expérimentation qui est en cause : vous ne pouvez en rien vous fonder sur l’état d’urgence pour justifier l’extension de ce dispositif, sans avouer qu’il n’est qu’un palliatif visant à introduire une logique d’abattage en matière pénale.<br/>Le Sénat a de même limité le périmètre et la durée de l’habilitation concernant le dépôt au Trésor des fonds de certains organismes, parfois chargés d’une mission de service public. Si nous nous réjouissons que les caisses des règlements des avocats soient exclues du dispositif, le texte final réintroduit la possibilité pour le Gouvernement de centraliser par ordonnance certains fonds sur le compte du Trésor, laissant un certain nombre de questions pendantes.<br/>À côté de ces maigres avancées, nous enregistrons des reculs. Alors que le Sénat avait supprimé l’article appliquant de nouvelles restrictions au traitement des dossiers des victimes des essais nucléaires en Polynésie, la CMP a réintégré cet article, dénoncé comme un stratagème malhonnête ayant pour but d’annuler les maigres progrès obtenus par les associations de victimes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617666" ordre_absolu_seance="48" id_acteur="PA719448" id_mandat="PM722666" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104116" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Chapelier</nom>
+              <id>719448</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1617667" ordre_absolu_seance="49" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2104117" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’en êtes pas quittes.<br/>Je me félicite par ailleurs que votre tentative d’assouplir l’encadrement des marchés publics ait échoué.<br/>Enfin, sur le terrain des mesures sociales, le texte final enregistre de nouveaux reculs, alors que sa version initiale contribuait déjà à désosser le code du travail, en multipliant les dérogations. Sous couvert d’un objectif de relance économique, vous précarisez un peu plus le monde du travail, tandis que la précarité menace de se développer de façon galopante. Ainsi la durée maximale des contrats à durée déterminée et des contrats d’intérim passera-t-elle de dix-huit mois à trois ans, renouvellements inclus, mesure qui s’appliquera jusqu’à six mois après la fin de l’état d’urgence sanitaire.<br/>Le texte soumis à notre examen s’attaque de surcroît au dialogue social, en raccourcissant les délais de consultation des comités sociaux et économiques dans les entreprises, ou encore s’agissant du prêt de main-d’œuvre à but non lucratif. Vous exonérez les employeurs de nombreuses consultations qui sont obligatoires en temps ordinaire. Le nouveau dispositif d’activité partielle, s’il doit permettre d’accompagner les entreprises touchées par la crise à long terme, afin qu’elles préservent l’emploi, fera subir aux salariés, en contrepartie, des pertes de rémunération. Ce n’est pas acceptable. L’octroi de ce dispositif aurait pu être conditionné à des engagements écologiques forts et à des actions de formation professionnelle, mais tel n’est malheureusement pas le cas.<br/>Pour toutes ces raisons, le groupe de la Gauche démocrate et républicaine maintiendra son vote contre ce texte. <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marie Lebec" id_acteur="PA721852" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723402">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617489" ordre_absolu_seance="56" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2103990" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie Lebec.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617490" ordre_absolu_seance="57" id_acteur="PA721852" id_mandat="PM723402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2103991" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie Lebec</nom>
+              <id>721852</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous arrivons au terme de l’examen de ce nouveau projet de loi d’urgence face à la crise, projet de résilience des dispositifs économiques et administratifs qui démontre une nouvelle fois aux Français, mais aussi à nos partenaires et aux acteurs économiques internationaux, le sérieux de la majorité, ainsi que sa capacité à adapter très rapidement le cadre normatif et à contrer la situation.<br/>Certains ont raillé la diversité des sujets abordés dans le texte et l’ont qualifié de fourre-tout. Or les défis et les inquiétudes auxquels font face les Français sont très divers : contrats de travail, avenir professionnel, organisation des services publics, avenir des finances publiques, autant d’interrogations qui exigent des réponses rassurantes de la part de l’État. C’est bien l’objet du projet de loi, qui comporte de nombreuses dispositions et avancées essentielles pour gérer au mieux les conséquences de la crise.<br/>Tout d’abord, des mesures inédites viennent préserver l’emploi. Notre message est clair : tout sera fait pour accompagner les salariés et les entreprises. Dès le début de la crise, l’État a choisi de protéger massivement les emplois et les compétences, en renforçant le dispositif d’activité partielle : 12 millions de salariés ont profité de ce « bouclier social » le plus protecteur d’Europe, largement salué dans cet hémicycle et par nos partenaires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617493" ordre_absolu_seance="60" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2103994" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez bloqué tout le pays faute de tests et de masques ! La mauvaise stratégie du Gouvernement va nous coûter cher !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617494" ordre_absolu_seance="61" id_acteur="PA721852" id_mandat="PM723402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2103995" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie Lebec</nom>
+              <id>721852</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’État doit continuer de s’adapter et doit répondre à la situation post-déconfinement, afin d’encourager la reprise économique et de contrer les risques de licenciement liés à la baisse d’activité, notamment dans les secteurs qui ont le plus souffert de la crise. Tel est le sens des nouveaux dispositifs que l’Assemblée a adoptés, et au sujet desquels la commission mixte paritaire a trouvé un accord hier. Je pense notamment au nouveau régime d’activité réduite pour le maintien de l’emploi, qui permettra, avec l’accord des organisations syndicales, de diminuer le temps de travail des salariés et de modérer les salaires, à condition de maintenir intégralement l’emploi dans la durée. L’État viendra en appui de ce dispositif, en compensant une partie de la perte de pouvoir d’achat et en soutenant la formation des salariés. Cette nouvelle mesure permettra aux entreprises de réduire leurs capacités de production pour les adapter à la demande, tout en évitant de licencier. Ce dispositif innovant démontre une nouvelle fois notre capacité à répondre aux enjeux de la crise, non en pariant sur de vieilles recettes, mais en élaborant des solutions novatrices avec les partenaires sociaux.<br/>Le projet de loi comporte également de vraies avancées sociales pour les salariés – il faut le souligner et le mettre au crédit de la majorité. Pendant toute la durée de l’état d’urgence, il rend obligatoire le maintien des garanties collectives de protection sociale complémentaire des salariés en activité partielle. Il crée en outre un véritable droit à la retraite de base pour ces mêmes salariés, droit qui n’existait pas jusqu’alors et qui bénéficiera à deux tiers d’entre eux.<br/>Enfin, le texte complète les dispositions de la loi dite PACTE relatives au partage de la valeur dans les entreprises, en simplifiant la procédure d’intéressement des salariés des TPE.<br/>La crise appelle en outre des mesures de résilience de la part de l’État. Elles passeront par une gestion exemplaire des finances publiques, dans un contexte de levée massive de dette publique. L’article 3, dont je sais qu’il a fait l’objet de nombreux débat à l’Assemblée comme au Sénat, vise à renforcer la centralisation des disponibilités financières de divers organismes sur les comptes du Trésor – et nous l’assumons pleinement. Cette mesure permettra à l’État de lever de la dette à un coût plus faible, et sera donc bénéfique pour les finances publiques. Beaucoup, sur ces bancs, se font les champions de la bonne gestion du budget de l’État, mais, lorsqu’il s’agit d’agir, ils sont les premiers à défendre l’immobilisme !<br/>Malgré la crise, la France reste mobilisée face au Brexit, qui affecte nos entreprises et nos ressortissants. L’article 4 permettra à l’État d’anticiper les conséquences de la fin de la période de transition de l’accord de retrait du Royaume-Uni. La CMP s’est accordée à porter à douze mois l’habilitation du Gouvernement à légiférer par ordonnance en la matière. Ce faisant, le Parlement envoie un message clair : aux côtés du Gouvernement et de la Commission européenne, il entend accorder le temps nécessaire aux négociations, au-delà de la fin de l’année 2020, et sera prêt à se mobiliser en cas d’urgence.<br/>Enfin, je tiens à saluer notre rapporteur pour la grande qualité de son travail, comme je tiens à vous remercier pour votre mobilisation, monsieur le ministre, ainsi que l’ensemble de vos collègues qui vous ont secondés. Le groupe La République en marche votera en faveur de ce projet de loi d’urgence. <italique>(Applaudissements sur les bancs du groupe LaREM et sur quelques bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617500" ordre_absolu_seance="67" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104001" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça alors !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617501" ordre_absolu_seance="68" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104002" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Étonnant !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617502" ordre_absolu_seance="69" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104003" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617503" ordre_absolu_seance="70" code_grammaire="VOTE_ENS_PJL_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2104004" valeur=" (n[[o]] 3027)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617504" ordre_absolu_seance="71" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="VOTE_ENS_PJL_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104005" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble du projet de loi, compte tenu du texte de la commission mixte paritaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1617505" ordre_absolu_seance="72" code_grammaire="VOTE_ENS_PJL_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2104006" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1617507" ordre_absolu_seance="74" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2104008" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1617508" ordre_absolu_seance="75" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2104009" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Discussion de la proposition de résolution déclarant la nécessité d’une bifurcation écologique et solidaire pour aller vers les jours heureux ;<br/>Discussion de la proposition de loi visant à plafonner les frais bancaires ;<br/>Discussion de la proposition de résolution déclarant la nécessité du rachat de la dette publique par la Banque centrale européenne et de sa transformation en dette perpétuelle ;<br/>Discussion de la proposition de loi visant à préciser le champ d’application des arrêtés de catastrophe naturelle et leur financement.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1617514" ordre_absolu_seance="81" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2104015" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1617515" ordre_absolu_seance="82" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2104016" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

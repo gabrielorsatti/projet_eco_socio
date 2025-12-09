@@ -1,0 +1,996 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N213</uid>
+  <seanceRef>RUANR5L15S2021IDS23996</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210324211500000</dateSeance>
+    <dateSeanceJour>mercredi 24 mars 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>213</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210213</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-03-30T12:22:56.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2457383">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2457387">
+          <intitule>Effets de la crise sur les associations</intitule>
+        </titreStruct>
+        <para id_syceron="2457391">Mme Christine Pires Beaune (SOC)</para>
+        <para id_syceron="2457406">Mme Lise Magnier (Agir ens)</para>
+        <para id_syceron="2457416">Mme Béatrice Descamps (UDI-I)</para>
+        <para id_syceron="2457459">M. Paul Molac (LT)</para>
+        <para id_syceron="2457464">M. André Chassaigne (GDR)</para>
+        <para id_syceron="2457473">M. Bertrand Sorre (LaREM)</para>
+        <para id_syceron="2457486">M. Xavier Breton (LR)</para>
+        <para id_syceron="2457495">M. Jean-Pierre Cubertafon (Dem)</para>
+        <para id_syceron="2457507">M. Gérard Leseul (SOC)</para>
+        <para id_syceron="2457520">Mme Sarah El Haïry, secrétaire d’État chargée de la jeunesse et de l’engagement</para>
+        <para id_syceron="2457529">Mme Olivia Grégoire, secrétaire d’État chargée de l’économie sociale, solidaire et responsable</para>
+        <para id_syceron="2457439">Mme Isabelle Santiago (SOC)</para>
+        <para id_syceron="2457444">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2457451">M. Pierre-Yves Bournazel (Agir ens)</para>
+        <para id_syceron="2457929">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2457934">Mme Valérie Six (UDI-I)</para>
+        <para id_syceron="2457938">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2457942">M. Paul Molac (LT)</para>
+        <para id_syceron="2457947">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2457952">M. Jean-Hugues Ratenon (FI)</para>
+        <para id_syceron="2457957">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2458010">M. Philippe Chassaing (LaREM)</para>
+        <para id_syceron="2458013">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2458017">Mme Florence Morlighem (LaREM)</para>
+        <para id_syceron="2458020">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2458024">Mme Josiane Corneloup (LR)</para>
+        <para id_syceron="2458028">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2458080">M. Éric Pauget (LR)</para>
+        <para id_syceron="2458084">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2458090">M. Luc Geismar (Dem)</para>
+        <para id_syceron="2458093">Mme Sarah El Haïry, secrétaire d’État</para>
+        <para id_syceron="2458097">Mme Emmanuelle Ménard</para>
+        <para id_syceron="2458101">Mme Sarah El Haïry, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2458128">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 24 mars 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1840579" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2457383" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1840580" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457384" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1840581" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2457385" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures quinze.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840583" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2457387" valeur="">
+      <orateurs/>
+      <texte>Effets de la crise sur les associations</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840584" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457388" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat relatif aux effets de la crise sur les associations de nos territoires, au soutien qui leur est apporté et aux conditions de reprise de leurs activités.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties : dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement ; nous procéderons ensuite à une séquence de questions-réponses.<br/>La parole est à Mme Christine Pires Beaune.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840587" ordre_absolu_seance="9" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457391" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Christine Pires Beaune (SOC)</nom>
+            <acteurRef>PA608172</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La crise sanitaire que traverse notre pays depuis plus d’un an n’a épargné aucun pan de la société et le secteur associatif, dans son ensemble, a été frappé de plein fouet par l’épidémie.<br/>Dans la perspective de ce débat, j’ai interrogé les associations de ma circonscription afin de rendre compte, le plus fidèlement possible, de leur situation respective, de leurs craintes, de leurs espoirs, et surtout des solutions qu’elles appellent de leurs vœux.<br/>Selon qu’elles interviennent dans les domaines du sport, de la culture et des loisirs, de l’action sociale ou encore de la défense des droits, elles ont été affectées de manière différente par la crise.<br/>Alors que les structures sportives et culturelles ont subi un arrêt brutal de leurs activités, les associations caritatives ont, en revanche, été sollicitées davantage. Dans le Puy-de-Dôme, le Secours catholique note ainsi une hausse de 300 à 400 % du nombre de ses bénéficiaires. Dans la seule ville de Riom, qui compte 19 000 habitants, plus de 120 familles se rendent désormais à l’épicerie solidaire pour la distribution de colis alimentaires, quand elles étaient 80 auparavant.<br/>Quelle que soit la réalité du quotidien de ces associations, elles dressent les mêmes constats et leurs craintes se rejoignent. Il y a évidemment l’impact de la crise sur leurs finances : pour nombre d’entre elles, les manifestations, les compétitions, les représentations, tous les événements qu’elles organisent durant l’année constituent leur principale source de recettes. Or, en raison de l’épidémie, tout s’est arrêté et les annulations en chaîne de manifestations ont engendré des difficultés de trésorerie importantes. Les subventions des collectivités territoriales ont globalement été maintenues en 2020, malgré ces annulations, mais qu’en sera-t-il en 2021 ?<br/>La question financière est certes importante. Néanmoins, la principale crainte des responsables associatifs, qui ressort avec force de la totalité des témoignages que j’ai recueillis, est celle de la perte du lien social. Toutes les associations pointent, en effet, l’extrême difficulté à se réunir et à maintenir le lien avec leurs adhérents, leurs licenciés et leurs bénévoles. En réalité, c’est une véritable crise existentielle que traversent actuellement les associations et nous risquons de voir certaines d’entre elles disparaître, purement et simplement, notamment dans les territoires ruraux.<br/>Le mal qui les ronge, c’est la démotivation. Je tiens à souligner avec force l’engagement extraordinaire et la vitalité de l’ensemble des acteurs du tissu associatif qui n’ont eu de cesse, depuis le début de la pandémie, d’évoluer et d’adapter leurs pratiques, pour préserver ce lien à tout prix. Malgré cela, les associations craignent aujourd’hui de ne pas parvenir à retenir leurs bénévoles et à faire revenir leurs adhérents ou leurs licenciés.<br/>Plusieurs facteurs expliquent cette triste perspective : une incompréhension face à la multitude des restrictions sanitaires ; des mesures annoncées trop peu expliquées concrètement – les associations ont souvent dû décoder seules les annonces ; une incompréhension aussi face aux différences de traitements, parfois mal acceptées, entre le sport individuel et le sport collectif, entre le maintien de l’ouverture des écoles et la fermeture des écoles de musique, par exemple ; et, surtout, l’absence totale de visibilité dans laquelle ses structures évoluent depuis des mois. En l’absence d’entraînements, de compétitions, de concerts, d’événements sportifs, comment se projeter et où trouver la motivation ? À quoi bon ?<br/>Cette absence de visibilité entraîne, et entraînera encore, des conséquences dramatiques sur la santé mentale de nos concitoyens. J’aurais pu évoquer aussi l’impact sur la santé tout court, notamment celle des enfants, à la suite de l’arrêt des activités physiques.<br/>Il nous faut trouver une réponse très rapidement à tous ces problèmes. Lorsqu’on interroge les associations sur les solutions à apporter aux difficultés qu’elles rencontrent, une fois encore, la réponse est unanime : elles n’attendent que de pouvoir, enfin, reprendre leurs activités. L’urgence est là. Toutes sont cependant conscientes que l’épidémie n’est pas encore derrière nous et que la reprise devra s’effectuer dans le respect de la santé de tous. Mais il devient urgent de reprendre les entraînements sportifs, notamment en intérieur, et les compétitions amicales, de rouvrir les gymnases et les lieux culturels, d’offrir aux associations une visibilité et des perspectives.<br/>Il est impératif de leur redonner toute leur place et tout leur sens, de reconnaître que le monde associatif permet à des individus différents de se rencontrer, d’échanger, de partager, mais aussi de s’engager, de se sentir utiles et, en fait, de participer concrètement à la vie du pays.<br/>Les réponses apportées jusqu’à présent ont été principalement économiques ; elles ont été bienvenues, même si elles sont insuffisantes. Mes collègues ont eu l’occasion de développer ces points hier soir, je n’y reviendrai donc pas.<br/>L’aspect sur lequel je souhaite insister ce soir, c’est la nécessité d’une gestion territorialisée de la reprise des activités associatives. À l’heure où les mesures de lutte contre l’épidémie s’appliquent aux niveaux communal, intercommunal, départemental, il est impératif de penser cette reprise à la même échelle, les décisions nationales ne reflétant pas forcément la réalité des territoires.<br/>Il faut permettre aux responsables associatifs, aux collectivités territoriales et aux élus locaux de travailler en étroite collaboration afin de définir des conditions de reprise adaptées à chaque territoire, notamment en ce qui concerne les accès aux installations : les jauges, les horaires, les protocoles. Il convient de s’appuyer sur la mise en commun de leurs expertises respectives et sur leur connaissance aiguisée du terrain pour redonner rapidement vie au monde associatif. <italique>(Applaudissements sur les bancs des groupes SOC et GDR.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Lise Magnier (Agir ens)" id_acteur="PA720230" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722898">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840601" ordre_absolu_seance="23" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457405" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Lise Magnier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840602" ordre_absolu_seance="24" id_acteur="PA720230" id_mandat="PM722898" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457406" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Lise Magnier (Agir ens)</nom>
+              <acteurRef>PA720230</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous partageons tous les mêmes constats. D’abord, celui d’avoir la chance immense de vivre dans un pays où l’engagement associatif occupe une telle place. Les territoires, qu’ils soient urbains ou ruraux, de plaines ou de montagnes, du nord ou du sud, sont riches de leurs associations. Elles forment le ciment du troisième pilier de notre devise : la fraternité. Je tiens en cela à remercier toutes les équipes et tous les bénévoles associatifs qui contribuent à poser les fondements de notre nation.<br/>Ensuite, nous partageons un même constat devant les conséquences économiques et sociales de la crise sanitaire que nous traversons depuis maintenant un an sur les associations. Dès le 16 mars 2020, date de l’entrée en vigueur du premier confinement, toutes les associations, qu’elles soient sportives, culturelles ou de loisirs, ont dû suspendre leurs activités et renoncer à l’organisation des événements printaniers et estivaux qui génèrent pourtant l’essentiel de leurs recettes.<br/>À cela s’est ajoutée la baisse des dépenses de mécénat des entreprises partenaires, elles-mêmes fragilisées par la crise. À titre d’exemple, les dépenses de sponsoring sportif devraient baisser de l’ordre de 15 à 30 %, alors même qu’elles constituent une source de financement majeure pour de nombreux clubs sportifs amateurs. Les créations d’associations sont en chute de 40 % et les adhésions ont reculé de 25 à 50 % à la rentrée, ce qui représente autant de cotisations en moins pour un secteur déjà mal en point.<br/>Je ne vais pas dresser la liste des mesures de soutien déployées par le Gouvernement, Mmes les secrétaires d’État le feront bien mieux que moi. Mais je veux dire que nous devons préparer l’avenir car, dans la tourmente, il existe toujours des raisons d’espérer. Les associations ont été au cœur du combat, dès le premier confinement, et se sont révélées être le plus bel exemple de l’élan de solidarité qui a traversé notre pays. Dans ma circonscription de la Marne, j’ai ainsi pu constater la mobilisation de la protection civile pour aider nos aînés à domicile, du Lions Club, des couturières, des amicales de quartiers, pour fabriquer des masques, des blouses et des surblouses pour les soignants. J’ai encore en tête tous ces citoyens qui les ont rejoints pour aider, se rendre utiles, chacun à son niveau et selon ses moyens ; ces jeunes qui, par souci de l’autre, ont poussé les portes des associations solidaires. Qu’ils en soient tous remerciés.<br/>Nos associations, comme nous tous, ont su faire preuve de trésors d’inventivité pour maintenir le lien entre leurs adhérents et poursuivre différemment leurs activités pendant les phases de confinement et de déconfinement. J’ai eu la chance de participer au lancement du Téléthon dans ma circonscription et je mesure tous les efforts fournis pour imaginer la mobilisation en 2020.<br/>Cette formidable capacité d’adaptation démontre, s’il était encore nécessaire de le faire, que le tissu associatif et les bénévoles qui l’animent savent se mobiliser face à l’imprévu. Ils sont portés par un simple projet : le don de soi, de son temps et de ses compétences au profit des autres. D’ailleurs, la générosité des Français n’a pas été démentie par la crise ; j’en veux pour preuve l’augmentation de plus de 20 % des dons aux associations constatée en 2020.<br/>Mais il faut aujourd’hui aller plus loin, au risque de perdre l’extraordinaire vitalité solidaire qui s’est exprimée durant ce moment singulier. Le groupe Agir ensemble se félicite des moyens déployés par le Gouvernement jusqu’à présent pour soutenir le secteur associatif. Ces mesures, de court et moyen termes, appellent toutefois des transformations plus structurelles de la politique associative, pour encourager l’engagement de tous et tout au long de la vie.<br/>Mesdames les secrétaires d’État, deux propositions de loi ont été adoptées à l’Assemblée nationale pour soutenir et valoriser le tissu associatif : l’une prévoit de sensibiliser les élèves de collèges et de lycées à la découverte de la vie associative et l’autre vise à renforcer les capacités de financement des associations, qui en ont bien besoin. Nous comptons donc sur vous pour que le Sénat les examine dans les meilleurs délais, parce que nous mesurons tous le rôle social, éducatif et civique majeur que jouent les associations dans les territoires et parce que le dévouement des bénévoles nous oblige à mieux reconnaître l’utilité sociétale de leur action. Les associations sont le témoin de la solidité de notre nation ; agir pour elles, c’est agir pour nous tous. <italique>(Applaudissements sur les bancs du groupe UDI-I. – M.</italique><italique> </italique><italique>Jean-Louis Bricout applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Béatrice Descamps (UDI-I)" id_acteur="PA720696" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723044">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840611" ordre_absolu_seance="32" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457415" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Béatrice Descamps.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1840612" ordre_absolu_seance="33" id_acteur="PA720696" id_mandat="PM723044" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Béatrice Descamps (UDI-I)</nom>
+              <acteurRef>PA720696</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En ce mois de mars, la crise sanitaire souffle sa première bougie. Le débat de ce soir nous donne l’occasion de dresser un bilan des effets de la crise sur les associations.<br/>Je tiens d’abord à souligner le rôle primordial qu’elles jouent dans les territoires. Actrices de premier plan, elles contribuent plus que jamais à créer du lien social et participent au maillage local. Qu’elles organisent des maraudes ou accueillent des personnes en difficulté, qu’elles agissent dans le domaine sportif ou culturel, il faut reconnaître qu’elles ont occupé peu à peu la place laissée vacante par le démantèlement progressif des services publics.<br/>Un an après le début de la crise, nous pouvons relever ce paradoxe : bien que de nombreuses associations se retrouvent dans une situation très compliquée – problèmes de trésorerie, perte d’adhérents, impossibilité de pratiquer leurs activités en raison du confinement et des règles sanitaires –, le nombre de bénévoles engagés ne cesse de s’accroître tant les occasions sont offertes à nos concitoyens d’agir au service de l’autre.<br/>Ce débat nous permet de se saisir du phénomène, d’encourager et de renforcer le tissu associatif, de lui offrir davantage de souplesse pour qu’il puisse se développer, à l’image de l’engagement de nos concitoyens.<br/>Les problèmes de trésorerie des associations et les crédits du fonds de développement de la vie associative – FDVA – ont été largement évoqués hier soir. Mais au-delà de la situation financière difficile qu’elles traversent, les associations souhaitent une reprise lisible, équitable et ordonnée de leurs activités.<br/>Parmi les nombreux exemples possibles, je pense notamment aux écoles de musique, aux harmonies, aux groupes musicaux, aux chorales de ma circonscription qui, plus qu’un simple loisir culturel, représentent, à tous les âges, une part importante de la vie sociale.<br/>La crise sanitaire avait mis ces activités à l’arrêt, et les reprises partielles qui sont survenues depuis démontrent que les décrets régulant l’accès aux lieux de pratique semblent inéquitables et difficilement lisibles. J’en appelle à votre action, mesdames les secrétaires d’État : il est nécessaire d’autoriser les associations à pratiquer à nouveau leurs activités collectives artistiques, sereinement et, bien sûr, en toute sécurité.<br/>Quant aux associations sportives, ce sont elles qui, en premier lieu, font vivre le sport en France. Dans les communes, les départements et les régions, au service des valeurs républicaines, le mouvement sportif associatif déploie de formidables actions, notamment en matière de santé – cette ambition n’est pas un luxe ! L’enjeu est surtout, désormais, de faire revenir tous les licenciés dans les clubs.<br/>Je veux aussi saluer la capacité d’adaptation qu’ont déployée les associations qui aident les plus précaires, en distribuant des colis alimentaires et du matériel aux personnes en difficulté, dans la rue, aux aînés dans les villages, ou encore aux familles dont la situation économique a été fortement fragilisée par la crise. Le nombre de bénévoles de ce secteur a quasiment doublé, et il me paraît important de prendre conscience, dans cet hémicycle, des capacités d’engagement et de la richesse qu’ils représentent pour les territoires. Par le passé, la réserve parlementaire permettait, il est vrai, de tendre la main à ces associations.<br/>Enfin, nous exprimons une vive inquiétude quant à l’avenir des jeunes. Les difficultés qu’ils rencontrent pour obtenir un stage, un contrat d’alternance ou un travail sont, plus que jamais, préoccupantes. Je connais les engagements du Gouvernement, que je tiens à saluer – je pense notamment au plan « 1 jeune, 1 solution ». Là encore, le travail de certaines associations constitue un véritable tremplin pour les jeunes – citons, par exemple, Chemins d’avenirs, un service dédié aux jeunes en milieu rural.<br/>Les associations de nos territoires ont donc besoin d’être accompagnées ; elles ne doivent pas se retrouver seules face à la crise. Il est important de privilégier leur maillage, par le biais, pourquoi pas, d’un médiateur local. Avec l’ensemble de mon groupe, nous comptons sur votre engagement, que nous savons actif et ambitieux, face à l’ampleur des difficultés que traversent nos associations.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Molac (LT)" id_acteur="PA607619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722936">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1840567" ordre_absolu_seance="44" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457458" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Molac.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1840568" ordre_absolu_seance="45" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457459" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac (LT)</nom>
+              <acteurRef>PA607619</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La vitalité de nos associations, c’est la vitalité de nos territoires – et elle est extraordinaire. La loi de 1901 relative au contrat d’association est précieuse : c’est une loi de liberté à laquelle il faut toucher le moins possible, en dépit de certaines velléités – je pense évidemment au projet de loi confortant le respect des principes républicains. Elle a permis à une foule de gens de se révéler, de se réunir pour défendre, qui une idée, qui une vision du monde, dans tous les cas un élan positif. Nous en voyons constamment des illustrations dans des domaines éminemment variés : le sport – de compétition ou de loisirs –, la culture – je pense, chez nous, aux bagadoù et aux cercles, mais aussi aux troupes de théâtre, fanfares et autres groupes de carnaval –, l’enseignement – on l’oublie parfois, mais les écoles Diwan, Calandreta, Bressola et autres Seaska sont associatives –, sans compter les nombreux OGEC – organismes de gestion de l’enseignement catholique – et les amicales laïques. À cela s’ajoutent les associations caritatives – Restos du cœur, Secours populaire, Secours catholique… –, qui redoublent d’effort face à une crise qui a d’abord touché les plus précaires.<br/>Si les associations n’existaient pas, il faudrait les inventer ; sans elles, notre société ne serait pas la même. J’y suis très attaché. J’avais 16 ans quand je suis entré pour la première fois au conseil d’administration d’une association – mes parents avaient dû me faire une dérogation pour m’y autoriser ! J’ai toujours fait partie du mouvement associatif – hormis depuis que je suis député –, et je me suis toujours réjoui de sa diversité.<br/>Or les associations sont menacées. Elles le sont sur le plan financier, car elles ont dû cesser leurs activités. C’est le cas, par exemple, de celles qui s’occupent de centres de loisirs ou qui accueillent des classes, et qui emploient des salariés. C’est aussi le cas des associations de loisirs ou sportives locales, qui financent leurs activités en organisant une fête annuelle : elles ont dû y renoncer cette année, et n’ont donc plus de financements. De même, les nombreuses manifestations culturelles associatives qui émaillent la période estivale, dans notre région touristique, n’ont pas pu se tenir. Prenons la fête de la langue bretonne : avec un salarié, elle représente 100 000 euros de chiffre d’affaires, 22 000 euros de subventions et quelque 150 000 euros de retombées économiques dans un territoire, le Centre Bretagne, qui, contrairement à la côte bretonne, n’est pas véritablement favorisé par le tourisme. Les associations permettent ainsi de maintenir des activités et de faire vivre le tissu local.<br/>Nous ne pourrons pas vivre un été 2021 comme nous avons vécu l’été 2020 ; cela ne me paraît pas possible, car l’acceptation de la population ne sera pas la même. On constate une lassitude : les gens sont parfois excédés, depuis ceux qui ont peur et se calfeutrent pour se protéger, jusqu’à ceux qui décident de vivre, défiant toute peur. Si, en mars 2020, tout le monde s’était contenté de suivre les consignes, je crois que ce temps est révolu. Le Gouvernement semble en avoir pris conscience : après avoir interdit les quais de Seine à Paris, entre autres exemples, le Premier ministre affirme désormais qu’il est préférable de tenir des manifestations à l’extérieur, de façon encadrée, plutôt que de susciter des manifestations spontanées et débridées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1840571" ordre_absolu_seance="49" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457471" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez conclure.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1840571" ordre_absolu_seance="50" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2457470" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <acteurRef>PA607619</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’enjeu est de desserrer l’étau, de sorte que les Français puissent de nouveau vivre, sans que le virus ne se propage trop. Si nous n’y parvenons pas, je crains que ne se développent des comportements déviants, comme dans les périodes de prohibition, qui seront néfastes pour tout le monde. <italique>(Applaudissements sur quelques bancs des groupes LR et SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. André Chassaigne (GDR)" id_acteur="PA267306" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723054">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1840572" ordre_absolu_seance="51" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457463" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. André Chassaigne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1840573" ordre_absolu_seance="52" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne (GDR)</nom>
+              <acteurRef>PA267306</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le monde associatif est en sursis, et en survie. Nous ignorons encore combien de structures cesseront leur activité, faute de trésorerie ou de bénévoles, mais il suffit de parcourir la presse régionale pour mesurer les inquiétudes des associations et des collectivités territoriales : d’une seule voix, elles alertent sur l’extrême fragilité du tissu associatif.<br/>Lorsque la crise sera derrière nous, lorsque nous sortirons de cette situation si pesante, lorsque, après des mois sans contacts sociaux, isolés les uns des autres, nous voudrons nous retrouver, qui, mieux que les centaines de milliers d’associations de notre pays, pourra recréer des liens humains si distendus ? Qui, mieux que les bénévoles et les salariés associatifs, pourra reconstruire du commun, des projets collectifs et des perspectives nouvelles, après les mois terribles que nous aurons connus ? L’envie de construire ensemble, de nous retrouver par-delà nos différences, sera la clé d’une sortie de crise réussie ; mais si nous nous réveillons trop tard, nous ne trouverons que portes closes, salles vides et numéros qui ne répondent plus.<br/>Associations d’éducation populaire, sportives, culturelles, de loisirs… c’est aujourd’hui que leur avenir se joue. Les petites structures, qui n’ont pas de salariés, doivent bénéficier d’un fonds d’aide plus important, et, surtout, d’un accès facilité à celui-ci. Les 20 millions d’euros débloqués cette année ne suffiront pas, mesdames les secrétaires d’État. Les clubs sportifs, notamment, ont besoin d’une plus grande visibilité sur les aides auxquelles ils sont éligibles, sans devoir passer par de trop nombreux intermédiaires – État, Agence nationale du sport, fédérations…<br/>Le monde associatif sportif a perdu pratiquement 30 % de ses licenciés ; il faut agir vite et fort ! Ce secteur doit aussi continuer à bénéficier des dispositifs de droit commun, jusqu’au retour à la normale. Nombre de collectivités territoriales prennent les choses en mains et débloquent des subventions ; chacune le fait à la hauteur de ses moyens, mais cela ne suffira pas. Les mesures conjoncturelles s’imposent, mais elles ne doivent pas masquer les difficultés que traversait le monde associatif bien avant la covid-19. Des mesures plus profondes s’imposent pour soutenir le monde associatif : nous n’avons eu de cesse de le dire depuis le début du quinquennat – je pense tout particulièrement à Marie-George Buffet, dont je me fais le porte-voix.<br/>Vous l’avez dit vous-mêmes : il faut un choc de sécurisation financière pour le monde associatif. Il faut revenir aux subventions pluriannuelles – seul système donnant de la visibilité –, plutôt que de privilégier et de systématiser les appels à projets, entraînant une concentration des moyens et une course à la subvention qui dévoie le fait associatif. Nous devons repenser la relation même entre l’État et le monde associatif – lequel devient, toujours plus, un palliatif au désengagement du service public. Ce n’est pourtant pas le rôle des associations ! L’État ne doit plus laisser aux seuls soins de ces dernières des missions qui, normalement, lui incombent. Aider les associations, c’est donc aussi renforcer le service public, en les déchargeant de missions qui ne relèvent pas de l’horizon social. Nous l’avons encore vu pendant la crise, avec l’action des associations caritatives, mais aussi des collectifs de solidarité qui se sont constitués, parmi les étudiantes et les étudiants notamment, quand leurs camarades n’avaient plus de quoi se nourrir. L’État n’était pas au rendez-vous pour nourrir ces jeunes ! Alors, encore une fois, c’est le collectif, l’associatif qui est venu, j’ose le dire, les sauver. Dans de nombreux territoires, ruraux ou urbains, où le sentiment d’abandon domine, le tissu associatif paraît le dernier garant de la cohésion sociale. Nous pouvons nous en féliciter et saluer une nation qui s’engage, mais nous entendons aussi la lassitude qui s’installe.<br/>Enfin, il faut mieux valoriser l’engagement des bénévoles, leur dégager du temps dans les entreprises et travailler sur leur statut, car nous ne pourrons répondre à la crise du monde associatif sans résoudre la question du renouvellement des bénévoles. Soyons, collectivement, à la hauteur des millions d’hommes et de femmes qui s’engagent au quotidien. Je sais que cette ambition est largement partagée sur ces bancs, mais que de temps perdu, dans ce quinquennat, pour redonner du souffle au monde associatif ! Il aurait été mieux préparé pour affronter une crise que nous ne pouvions anticiper. Dans une société où tout devient marchand, où le « chacun pour soi » deviendrait la clé de la réussite – la concurrence, plutôt que la coopération –, les députés communistes le réaffirment : face aux conséquences, tous les jours plus désastreuses, de la main invisible du marché, il convient de protéger les liens – bien visibles, eux – tissés par l’action de millions de bénévoles dans notre pays. <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bertrand Sorre (LaREM)" id_acteur="PA720190" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722886">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840618" ordre_absolu_seance="58" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457472" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bertrand Sorre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840619" ordre_absolu_seance="59" id_acteur="PA720190" id_mandat="PM722886" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457473" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Sorre (LaREM)</nom>
+              <acteurRef>PA720190</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La crise sanitaire que nous traversons est d’une ampleur terrible. Aucun secteur n’est épargné par le virus et ses conséquences. Le monde associatif ne fait pas exception : il a dû suspendre ses activités afin de respecter les mesures sanitaires instaurées par le Gouvernement.<br/>Inutile de décrire le fort manque qui résulte de cette mise en sommeil, ni les effets dramatiques et durables qu’elle produit sur la santé physique et psychologique de nos concitoyens. Faute de rencontres et d’échanges, la disparition brutale du lien social, essentiel pour chacun de nous, et plus encore pour les personnes âgées ou isolées, entraîne une perte de sens, accroît l’anxiété et provoque une hausse de la consommation de psychotropes. L’arrêt des activités sportives est source de fragilité physique ou de surpoids, notamment chez les plus jeunes.<br/>On dénombre aujourd’hui plus de 1,5 million d’associations qui peuvent compter sur 22 millions de bénévoles engagés. Elles existent partout dans nos territoires, dans les villes comme en milieu rural. Des projets innovants et fédérateurs en sont le fruit, dans des domaines très larges et variés – loisir, sport, culture, humanitaire et caritatif, social, médico-social, anciens combattants et mémoire. Ce dynamisme associatif constitue une richesse de notre nation.<br/>Les associations ont su répondre et s’organiser face au contexte inédit que représente la crise de la Covid-19. Acteur indispensable de la vie démocratique et du bon fonctionnement de notre société, vecteur de lien social, le tissu associatif a su, au cours des différents confinements, déployer toujours plus d’inventivité et de solidarité afin de soutenir les personnes dans le besoin.<br/>Depuis le début de la législature, donc avant la crise sanitaire, le Gouvernement a élaboré des dispositifs puissants afin de soutenir le secteur associatif. Plusieurs mois de travail et de consultations en 2018 ont donné lieu à vingt et une propositions articulées autour de trois grands thèmes.<br/>Premièrement, le Gouvernement a engagé une politique renouvelée d’appui aux associations pour leur permettre de s’adapter aux mutations qui les touchent. À cet effet, l’État les accompagne pour mutualiser plus facilement les fonctions support, les locaux, les salariés. Par exemple, le dispositif impact emploi, qui permet de confier à l’URSSAF certaines charges administratives, a été étendu aux associations de moins de vingt salariés.<br/>Le Gouvernement encourage également le développement des activités d’utilité sociale proposées par les associations avec la création de 2 000 postes FONJEP – fonds de coopération de la jeunesse et de l’éducation populaire – pour 2021 et 2022 et le renforcement du mécénat financier et de compétences, qui favorise la générosité privée en incitant les TPE et PME à faire des dons aux associations locales afin de financer les projets de proximité.<br/>Enfin, le Gouvernement met l’accent sur la reconnaissance du bénévolat et le développement d’une société de l’engagement. Une certification de compétences a ainsi été créée pour reconnaître et mieux valoriser le bénévolat. De même, le compte engagement citoyen – CEC – a été étendu aux bénévoles encadrants.<br/>Depuis 2017, dans les différents projets de loi de finances et de finances rectificative adoptés chaque année, nous avons voté – bien souvent à l’unanimité – de nombreuses mesures en faveur des associations, comme celles destinées à la montée en charge du service national universel et du service civique, ou au renforcement du fonds de développement de la vie associative, dont les crédits s’élèveront à 53 millions d’euros en 2021.<br/>Par ailleurs, les associations n’ont pas été oubliées depuis le début de la crise sanitaire. En complément des mesures d’activité partielle dont bénéficient les associations employeuses, le plan de relance dote les crédits de la vie associative de plus de 600 millions d’euros, notamment au profit de l’insertion professionnelle. Les associations peuvent également bénéficier des dispositifs d’urgence destinés à l’économie sociale et solidaire ou de ceux déployés par l’Agence nationale du sport.<br/>En raison de la baisse du nombre d’adhérents, de nombreuses associations craignent de disparaître. Pourtant, lorsque la période d’état d’urgence sanitaire aura cessé, nous pouvons être sûrs que les associations et leurs bénévoles engagés seront là, bien présents, motivés comme jamais pour nous offrir ces moments de pratiques, de découvertes, d’échanges indispensables à la vie en société, au bien-être et au bien-vivre de chacun.<br/>Alors, pour réussir la sortie de crise, j’en appelle à poursuivre l’engagement massif de l’État. Il faut des politiques publiques vigilantes mais surtout ambitieuses, destinées à toutes les associations, sans exception, quelle que soit leur taille ou le lieu de leur activité.<br/>Sans même parler de leur poids économique, les associations seront des acteurs essentiels de la relance. Ce sont de formidables lieux de mixité sociale et générationnelle, favorisant l’épanouissement individuel et collectif, des lieux d’humanité où les notions de solidarité, de respect, de liberté, d’égalité et de fraternité trouvent leur plein exercice et leur pleine signification.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Xavier Breton (LR)" id_acteur="PA330008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722416">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840631" ordre_absolu_seance="72" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457485" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Xavier Breton.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840632" ordre_absolu_seance="73" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457486" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton (LR)</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi tout d’abord de remercier nos collègues du groupe Socialistes et apparentés d’avoir inscrit à l’ordre du jour un débat consacré aux effets de la crise sur les associations.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840633" ordre_absolu_seance="74" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457487" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Pires Beaune</nom>
+              <acteurRef>PA608172</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840634" ordre_absolu_seance="75" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2457488" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous connaissons le rôle indispensable que ces dernières jouent dans nos territoires. Un tiers des Français adhèrent à une association, un cinquième y œuvrent en tant que bénévoles et près de 2 millions d’entre eux y travaillent. C’est cet engagement au sein des clubs sportifs, des associations culturelles, des organisations caritatives qui anime au quotidien nos communes. C’est cet engagement pour préserver le patrimoine, pour maintenir la cohésion sociale ou pour sauvegarder la biodiversité qui cimente notre société. Alors que nous déplorons trop souvent les ravages de l’individualisme, alors que de multiples fractures divisent notre pays, les associations sont une richesse inestimable parce qu’elles assurent la mixité sociale et qu’elles mettent en valeur la générosité et l’entraide des intéressés. Nous devons rendre hommage à celles, notamment dans le secteur caritatif, qui se mobilisent depuis le début de la crise sanitaire pour en atténuer les effets. Elles ont su adapter au mieux leurs activités aux contraintes et aux restrictions pour apporter un soutien à ceux qui en ont le plus besoin – accompagnement des seniors, soutien scolaire ou encore appui aux personnes isolées ou aux plus fragiles.<br/>Mais nous savons aussi que cette crise plonge malheureusement le secteur associatif dans une crise très grave, une crise majeure. Combien d’associations sont aujourd’hui fragilisées, en souffrance, parce qu’elles ont dû ralentir très fortement leur activité ? Beaucoup d’entre elles sont menacées financièrement par le confinement parce qu’elles voient le nombre de leurs adhérents chuter ou parce qu’elles doivent annuler des manifestations. L’exemple des associations sportives illustre ces difficultés : du fait de l’application de protocoles sanitaires parfois trop stricts et souvent mal expliqués, qui limitent les possibilités de pratiquer, elles subissent une chute d’au moins 25 % du nombre de licenciés. À cela s’ajoutent la baisse des participations des sponsors et la perte de recettes due à l’annulation des compétitions.<br/>Quant aux associations culturelles, leur activité est également à l’arrêt ou quasiment à l’arrêt depuis plus d’un an. Concerts supprimés, expositions reportées, spectacles et festivals annulés : le monde culturel est sévèrement touché, et avec lui toute notre société. Car les conséquences de la crise du monde associatif se diffusent, et aujourd’hui, c’est tout l’équilibre social, physique, psychologique du pays qui est menacé. Cette menace pèse tout particulièrement sur les jeunes, privés de tant d’activités dont on a besoin à cet âge. Ces années passées sans pratique sportive ou sans rencontres culturelles risquent de provoquer des dommages irréversibles pour toute une génération.<br/>Les associations ont besoin de notre soutien. Certes, elles savent pouvoir compter sur celui des collectivités territoriales, qui, malgré les contraintes budgétaires qui leur sont imposées, restent aux côtés de leur tissu associatif. Mais le soutien de l’État est également nécessaire. Certes, des mesures ont été prises, les dispositifs liés au chômage partiel ou au fonds de solidarité ont été étendus, des délais de paiement leur ont été accordés pour les échéances fiscales ou sociales et des prêts garantis par l’État leur ont été octroyés. Malheureusement, ces mécanismes ne sont pas assez utilisés, faute d’une information suffisante ou en raison de la complexité des dossiers à remplir. Mais surtout, ces dispositifs ne concernent que les associations employeuses, soit une sur dix environ, ce qui laisse l’immense majorité de côté.<br/>Il est donc indispensable d’offrir des perspectives au monde associatif de plus en plus démotivé. Et d’abord, des perspectives financières. Sans vouloir revenir sur la suppression inopportune du mécanisme de la réserve, il serait toutefois indispensable de retrouver de la souplesse dans la gestion, trop technocratique, du FDVA. Pourquoi ne pas faire confiance aux élus ?<br/>Cette confiance, il faut aussi la témoigner aux associations. À ce propos, l’obligation prévue dans le projet de loi confortant le respect des principes de la République de signer un contrat d’engagement républicain est très mal ressentie par le monde associatif qui y voit là une marque de défiance, alors que le contexte devrait nous inciter, au contraire, à réaffirmer notre confiance envers tous ceux qui s’engagent dans la vie associative.<br/>Enfin, le plus important aujourd’hui pour les associations est de pouvoir reprendre leurs activités. Les associations savent maîtriser et respecter les règles sanitaires. Il faut leur permettre très vite de reprendre leur fonctionnement. Tous les acteurs sont suspendus aux annonces du Gouvernement, qui malheureusement sont sans cesse reportées. Les associations ont besoin d’une visibilité qui aujourd’hui leur manque cruellement.<br/>Mesdames les secrétaires d’État, mes chers collègues, le bilan de cette crise ne sera pas que sanitaire, il sera aussi économique bien sûr, mais également social, et le passif subi par les associations risque de peser bien lourd. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Pierre Cubertafon (Dem)" id_acteur="PA719266" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722610">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840640" ordre_absolu_seance="83" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457494" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Pierre Cubertafon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1840641" ordre_absolu_seance="84" id_acteur="PA719266" id_mandat="PM722610" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457495" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Pierre Cubertafon (Dem)</nom>
+              <acteurRef>PA719266</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’année 2020 aura été à l’origine de nombreuses difficultés pour le secteur associatif qui, depuis le premier confinement en mars 2020, subit de plein fouet les conséquences de la situation sanitaire. Beaucoup d’associations rencontrent de grandes difficultés financières et peinent à assurer leur mission ou à mobiliser leurs bénévoles. Alors qu’une partie de notre pays est à nouveau confinée, une période de grande incertitude s’ouvre donc pour les associations dont beaucoup se demandent si elles vont pouvoir subsister.<br/>La crise de la covid a fortement affecté la trésorerie des associations en raison de la suspension de la plupart des événements qui permettaient de récolter des fonds – collectes, porte-à-porte, fêtes de village et de quartier, expositions. Lors du premier confinement, en effet, 56 % de ces structures ont été contraintes d’annuler des événements majeurs qui leur procuraient des revenus, beaucoup de ces rendez-vous n’ayant pu être reprogrammés depuis. À cela, il faut ajouter la baisse des dons et du mécénat, dans la mesure où nos entreprises et nos concitoyens sont également touchés par la crise.<br/>Mais, et c’est peut-être le plus dramatique, l’impact de la crise se fait également sentir sur l’engagement associatif. Depuis vingt ans, 70 000 associations sont créées en moyenne chaque année ; en 2020, ce chiffre a baissé de plus de 40 %. Les adhésions sont également en nette diminution : les secteurs du sport, du loisir ou de la culture font état d’un recul allant de 25 à 40 %. Enfin, en raison d’une plus grande vulnérabilité des seniors face au virus, la crise a privé les associations d’une partie de leur bénévolat, qui comme chacun le sait est très important. La situation est particulièrement inquiétante lorsque la vie sociale repose en grande partie sur le tissu associatif et ses bénévoles. Songeons aux associations d’anciens combattants qui nous permettent d’exercer notre devoir de mémoire, aux associations caritatives qui nous permettent de récolter des fonds – je pense à l’opération octobre rose ou au Téléthon –, aux confréries qui mettent en lumière nos terroirs lors de fêtes gastronomiques locales, aux salons et expositions associatives qui font vivre la culture, aux comités des fêtes, aux clubs des aînés qui assurent le lien social. Je veux d’ailleurs saluer ici tous les bénévoles de France, chevilles ouvrières du lien social dans nos territoires. Leur engagement est à la fois une valeur et un exemple précieux dans notre société.<br/>Toutefois, tout n’a pas été noir durant cette crise. Face à cette situation inédite, nombre de nos concitoyens se sont spontanément mobilisés. Engagé dans des actions inventées en quelques jours qui ont fait progresser les pratiques associatives, notre pays a renvoyé l’image d’une France solidaire face au virus.<br/>Devant les difficultés du monde associatif, les pouvoirs publics eux-mêmes se sont bien évidemment mobilisés. L’État a maintenu le versement des subventions prévues avant la crise et a ouvert l’accès au fonds de solidarité et au chômage partiel pour les associations employeuses.<br/>Beaucoup de collectivités territoriales ont mis en place des dispositifs spécifiques de soutien : aides exceptionnelles aux associations en danger, accompagnement renforcé et direct de certaines associations ou avec l’appui des structures d’accompagnement locales. Malgré tous ces dispositifs, selon le mouvement associatif, 66 % des associations ont été appelées à suspendre leur activité ou à revoir leur mode de fonctionnement. En septembre, près de 30 000 associations risquaient déjà de déposer le bilan.<br/>Il s’agit donc aujourd’hui d’aller plus loin en matière de soutien du monde associatif : je veux parler de toutes ces associations entièrement bénévoles qui produisent 90 % des activités culturelles et sportives du pays. Je pense aussi aux associations du secteur médico-social, plus fortement sollicitées pendant la crise sanitaire. C’est pourquoi nous devons aujourd’hui plus que jamais soutenir notre tissu associatif territorial ; nous devons l’aider à faire face aux vagues épidémiques et nous voulons qu’il soit surtout demain une aide à la reconstruction du lien social dans notre pays.<br/>Si nous y arrivons, il en sortira plus fort car il aura su inventer de nouveaux modes d’action et mobiliser de nombreux Français. Mesdames les secrétaires d’État, nous comptons sur vous. <italique>(Applaudissements sur les bancs du groupe Dem.)</italique>  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gérard Leseul (SOC)" id_acteur="PA774958" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774981">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840649" ordre_absolu_seance="92" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457506" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gérard Leseul.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840650" ordre_absolu_seance="93" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457507" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul (SOC)</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un million et demi d’associations en France, 37 % de Français qui donne du temps bénévolement aux associations : on le voit bien, les associations ont une place majeure dans notre société. Nous fêterons d’ailleurs bientôt les 120 ans de la loi relative au contrat d’association. Qu’elles soient ludiques, sociales, solidaires ou éducatives, elles touchent tous les champs de la société et sont les seuls acteurs du sport, de la culture ou de la solidarité dans une majorité de nos territoires.<br/>Ces associations sont le cœur battant de notre vivre-ensemble. Elles connaissent toutes les joies et les difficultés du collectif, elles sont à la fois PME, TPE avec toutes les interrogations liées à une gestion de crise et à une gestion dans une période de crise. Elles sont parfois petit employeur via le très bel outil qu’est le chèque-emploi associatif, à l’image de l’association Vespadance, une association comme nous en connaissons tous qui salarie une seule personne pour donner des cours de danse ici ou là ou faire du coaching. Même à cette échelle très modeste, se pose la question de savoir comment elle pourra honorer sa responsabilité d’employeur, quel est l’état de ses réserves, quels sont les fonds propres disponibles, comment elle pourra respecter son engagement, son objet social, ses adhérents.<br/>Bien sûr, les associations, comme toutes les structures de l’économie sociale et solidaire, sont théoriquement pleinement éligibles à tous les dispositifs mis en place par le Gouvernement depuis le début de la crise – même s’il a fallu quelques semaines, voire quelques mois de réglage au printemps dernier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840653" ordre_absolu_seance="96" id_acteur="PA605069" id_mandat="PM722424" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457510" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bricout</nom>
+              <acteurRef>PA605069</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça, ce n’est rien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840654" ordre_absolu_seance="97" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2457511" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais l’accès aux aides gouvernementales suit des procédures malheureusement parfois inadaptées à la réalité du terrain. Elles sont parfois redondantes et chronophages et ne sont pas toujours de nature à faciliter le travail. Il faut donc réintroduire de la visibilité grâce à l’engagement pluriannuel. Madame le secrétaire d’État, vous avez vous-même reconnu que nombre d’entre elles ne recouraient pas à ces aides faute de les connaître. L’enjeu – je vous cite –, c’est de leur donner les moyens de les activer, mais pour cela il faut simplifier, communiquer et sans doute développer les aides à la reprise.<br/>L’intervention aux côtés de l’État du fonds UrgencESS permet d’accroître le soutien aux associations. De même, la crise a amené France Active, que je connais bien, à renforcer son accompagnement des entreprises associatives qui jouent un rôle fondamental dans le lien social, le développement des territoires et le maintien de l’emploi. Mais il faut aussi tenir compte de la grande diversité du monde associatif.<br/>Dans ma circonscription comme dans tous les territoires les associations sont les acteurs principaux du sport et de la culture. À Pavilly, Duclair, Mélamare, Notre-Dame-de-Bondeville, elles font vivre notre démocratie. Elles n’ont pas apprécié le débat introduit par le Gouvernement sur le séparatisme, rebaptisé « renforcement des valeurs de la république ». Car si des acteurs sociaux et économiques font vivre quotidiennement ces valeurs sur les terrains de football, dans les ateliers de danse, de musique, de rap, ce sont bien les associations du secteur socioculturel et de l’éducation populaire. Pour elles, le Mouvement associatif a demandé à plusieurs reprises un renforcement très significatif du fonds de développement de la vie associative pour qu’il puisse enfin jouer pleinement son rôle.<br/>En cette période de crise sanitaire, il est aussi nécessaire de parler des associations qui contribuent à préserver la santé physique et affective de nos aînés et plus largement de toutes celles qui œuvrent pour la solidarité. Elles sont parfois le dernier rempart de la dignité de nos concitoyens. Je veux le dire ici, leur action est indispensable pour maintenir notre humanité, grâce à la distribution des aides alimentaires sans lesquelles des milliers de nos concitoyens, de nos voisins, ne pourraient résister.<br/>Au niveau national, notre contrat social républicain implicite nous invite à soutenir partout ces associations que nous connaissons tous, les Restos du cœur, les banques alimentaires, qui sont le service social de proximité le plus indispensable. Soutenir les associations, c’est aussi prévoir une sortie de crise sanitaire et cela passe nécessairement par un dialogue national avec les grandes familles associatives et un accompagnement spécifique de chaque association en fonction de ses besoins. Dès maintenant, nous devons prévoir la reprise progressive de toutes les activités, aussitôt qu’il sera possible de le faire, en définissant un cadre sanitaire strict. Les bénévoles sont en effet des gens responsables.<br/>Je souhaite, mesdames les secrétaires d’État, appeler votre attention sur l’éducation populaire et sur le dispositif Vacances apprenantes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840659" ordre_absolu_seance="103" id_acteur="PA721522" id_mandat="PM723300" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457516" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Batut</nom>
+              <acteurRef>PA721522</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840660" ordre_absolu_seance="104" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2457517" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mis en place après la première période de confinement en mars 2020, il a pour objectif de répondre aux besoins d’expérience collective, de partage et de remobilisation des savoirs des enfants de notre pays. L’opération visait ainsi à lutter contre le décrochage scolaire. Or à cette heure, aucun engagement n’a été pris quant à sa reconduction, alors que nombre de nos enfants n’ont pas pu partir en vacances depuis de nombreux mois.<br/>Mesdames les secrétaires d’État, pouvez-vous nous apporter une réponse claire sur les soutiens au secteur associatif et plus spécifiquement sur l’avenir du dispositif Vacances apprenantes ? Vous savez le rôle important que le mouvement d’éducation populaire joue dans notre pays depuis très longtemps. <italique>(Applaudissements sur les bancs du groupe SOC. – Mme</italique><italique> </italique><italique>Béatrice Descamps et M.</italique><italique> </italique><italique>Jean-Paul Mattei applaudissent également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État chargée de la jeunesse et de l'engagement" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840662" ordre_absolu_seance="106" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457519" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840663" ordre_absolu_seance="107" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457520" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État chargée de la jeunesse et de l’engagement</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Si nous sommes là ce soir, Mme la secrétaire d’État et moi-même, c’est parce que le monde associatif, l’engagement sont essentiels pour notre gouvernement comme ils le sont pour notre nation – preuve en est qu’ils ont été salués sur l’ensemble de ces bancs. Nous sommes deux parce qu’il a besoin de ses deux jambes. La première est économique parce que le monde associatif a besoin de réponses financières : celles-ci seront très largement développées par ma collègue Olivia Grégoire. Pour ma part, je souhaite apporter un début de réponse en ce qui concerne l’engagement des bénévoles, que vous avez salué, à bon droit parce qu’ils font de notre pays ce qu’il est, c’est-à-dire un pays où chacun de nous est considéré et peut apporter sa pierre.<br/>Alors que faisons-nous pour les accompagner ? D’abord, dès le premier confinement, nous avons reconnu le caractère essentiel de leur rôle en leur permettant de déroger au confinement pour poursuivre les missions qui sont les leurs. Au-delà, nous leur avons apporté des réponses et des accompagnements très spécifiques, secteur par secteur, tel le fonds d’urgence pour le sport, certains d’entre vous l’ont rappelé, doté de 15 millions d’euros. De même, l’éducation populaire, dont M. Leseul et le président Chassaigne ont rappelé combien elle était essentielle pour notre pays, pour notre pacte social et d’abord pour nos enfants, bénéficie d’un fonds d’urgence spécifique de 15 millions d’euros, afin de l’accompagner et surtout de lui permettre de ne pas être à genoux quand il faudra repartir.<br/>Monsieur le député Leseul, vous avez posé la question de la relance du dispositif Vacances apprenantes. Je vous confirme que le dispositif sera maintenu cet été parce que nos enfants en ont besoin : nous sommes en train d’y travailler, le ministre de l’éducation nationale et moi-même, avec les fédérations d’éducation populaire. Plus largement, la question de l’élan, de la relance me semble constituer le sujet principal de vos interventions, mesdames, messieurs les députés. Ma collègue Olivia Grégoire évoquera l’accompagnement financier nécessaire à une plus grande visibilité mais il s’agit aussi de savoir comment on accompagne l’engagement dès le plus jeune âge.<br/>Nous sommes mobilisés par des transformations en profondeur, et d’abord pour simplifier la vie d’associations qui sont principalement composées de bénévoles, grâce au déploiement du compte Asso qui leur évite de devoir communiquer à chaque demande leurs procès-verbaux d’assemblées générales, leurs statuts ou l’identité de leurs dirigeants. Cet accompagnement passe aussi par des transformations plus structurelles, Mme Magnier l’a rappelé, visant à leur permettre de se regrouper.<br/>Nous voulons également favoriser une sensibilisation à l’engagement dès le plus jeune âge, en soutenant les juniors associations auxquelles on peut adhérer dès l’âge de 11 ans. Il s’agit de donner aux plus jeunes le goût de l’engagement associatif, parce que nous croyons que chaque génération peut prendre sa part et qu’il n’y a pas d’âge pour s’engager. Entre 15 et 17 ans, c’est la mission d’intérêt général dans le cadre du service national universel ; entre 16 et 25 ans, c’est l’aventure du service civique, très largement renforcé par le plan de relance. Au-delà, c’est l’engagement en entreprise qui sera accompagné, avec une volonté forte du Gouvernement de favoriser le mécénat de compétence, comme M. Sorre l’a rappelé.<br/>Tout cela ne peut fonctionner que si on reconnaît les compétences acquises et si on met en œuvre le statut associatif que chacun d’entre vous appelle de ses vœux. La première pierre en a été posée par la loi de 2017 relative à l’égalité et à la citoyenneté, aujourd’hui concrétisée par le déploiement du compte Engagement citoyen.<br/>Vous l’avez rappelé, monsieur Chassaigne, monsieur Leseul, et vous aussi, monsieur Breton, alors que nous sommes sur le point de fêter les 120 ans de la loi de 1901, de nouveaux enjeux apparaissent, au-delà du renforcement du bénévolat et du parcours d’engagement. Aujourd’hui, le monde associatif est également touché par les troubles qui affectent notre pays. Le contrat d’engagement républicain n’est rien d’autre qu’un outil destiné à permettre aux associations de répondre elles-mêmes à ces questions ; un outil construit avec les associations et pour elles, qui n’a d’autre but que de protéger cette magnifique loi 1901 et le trésor que le monde associatif constitue pour notre pays.<br/>Plus que jamais, je crois que pour continuer à renforcer l’engagement associatif, il faut lui faire confiance, l’accompagner et lui donner les outils nécessaires pour se défendre. Quand malheureusement une partie de notre pays essaye de diviser ou de créer de la fragmentation, la seule manière d’agir est de renforcer ce qui nous unit, ce qui permet de vivre ensemble et d’accompagner les animateurs, les éducateurs, en valorisant le BAFA, le brevet d’aptitude aux fonctions d’animateur, en revalorisant tous les métiers de l’éducation populaire, en renforçant nos fédérations d’éducation populaire dans l’ensemble de nos territoires, mais également en donnant au monde associatif les moyens d’affronter les enjeux qui sont les siens, en matière de gouvernance ou de financement. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État chargée de l'économie sociale, solidaire et responsable" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840671" ordre_absolu_seance="115" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457528" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1840672" ordre_absolu_seance="116" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457529" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État chargée de l’économie sociale, solidaire et responsable</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais d’abord, très simplement, adresser un grand merci au groupe socialiste pour avoir pris l’initiative de proposer ce débat majeur sur les effets de la crise sur les associations, en complément du débat qui s’est tenu hier soir sur la politique que mène le Gouvernement en leur faveur. Il me paraît en effet vital de rappeler – et je vous remercie de m’en donner l’occasion – de rappeler l’importance des associations dans nos vies quotidiennes, bien au-delà de la crise.<br/>Sarah El Haïry l’a dit et je tiens à le souligner à mon tour, la présence de deux secrétaires d’État ce soir, l’une dédiée à l’engagement et l’autre à l’économie, travaillant ensemble, témoigne de l’attachement fort du Gouvernement aux associations qui sont à la fois un levier de solidarité et un levier économique majeur de nos territoires.<br/>J’ai eu l’occasion de le dire lors de mes déplacements – lundi dans le Gers, et auparavant à Marseille, en Bretagne, à Lille ou à Strasbourg – et je le répète devant vous : les aides sont là. Il s’agit d’aides classiques ouvertes à tous les acteurs économiques. Je le constate, un nombre bien trop faible d’entreprises de l’économie sociale et solidaire les ont sollicitées – nous avons eu souvent l’occasion d’en parler, nous devons nous unir pour lutter contre le non-recours. Seulement 1,3 % du fonds de solidarité pour les entreprises, indépendants, entrepreneurs – 19 milliards d’euros ont été décaissés à ce jour – a été attribué à des associations. À peine 10 % des associations éligibles ont déposé une demande.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840675" ordre_absolu_seance="119" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2457424" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un peu dommage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840676" ordre_absolu_seance="120" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2457425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est dommage, en effet, mais je ne suis pas du genre à me résoudre à une telle situation. Ce n’est pas le cas sur tous les sujets, mais je sais qu’ensemble, élus locaux et élus nationaux, sont mobilisés – le débat de ce soir en est la preuve – pour inciter et aider les associations à faire davantage appel aux aides disponibles. De mon côté, j’ai tenté de remédier au non-recours au travers du fonds UrgencESS dont vous avez adopté la création dans le quatrième projet de loi de finances rectificative – j’en profite pour vous remercier. Ce fonds est doté de 30 millions d’euros et près des deux tiers des bénéficiaires n’avaient jusqu’à présent pas eu accès au fonds de solidarité. Pour deux tiers, ce sont des structures comptant moins de trois salariés. Cela confirme le besoin, en complément des aides déjà disponibles, d’un fonds d’urgence spécifique.<br/>Oui, il y a urgence, mais vous le savez comme moi, on ne construit pas un avenir sur l’urgence. J’ai donc veillé à ce que le plan de relance donne toute sa place à l’économie sociale et solidaire dont les associations sont un acteur majeur. Au total, 1,3 milliard d’euros ont été fléchés vers ce secteur. Certains considèrent que c’est peu, j’en prends note, mais je relève aussi que c’est inédit.<br/>Ce montant représente plus de 40 000 parcours emploi compétence supplémentaires – pris en charge à 85 % par l’État dans les zones de revitalisation rurale et les quartiers prioritaires de la politique de la ville – pour le secteur non lucratif. Ce sont aussi 100 millions d’euros pour les associations d’aide alimentaire ainsi que 530 millions d’euros en provenance de la Caisse des dépôts et consignations et de la Banque publique d’investissement pour soutenir le démarrage et l’investissement des entrepreneurs sociaux.<br/>Je ne parle même pas ici des fonds qui bénéficieront indirectement mais largement à l’économie sociale et solidaire – ESS – tels que le fonds économie circulaire de l’ADEME – Agence de la transition écologique –, doté de 500 millions d’euros, ou encore les crédits – 1 milliard d’euros dans le plan de relance – destinés à l’accompagnement et à la rénovation des EHPAD non lucratifs ; vous l’avez rappelé, monsieur Leseul, le secteur médico-social n’est pas en reste.<br/>J’entends bien sûr qu’on peut faire plus ; on peut toujours faire plus et j’aurai à cœur de vous écouter pour savoir ce que nous devons encore faire de plus. Ce matin, j’étais aux côtés de Cédric O, secrétaire d’État chargé de la transition numérique et des communications électroniques, pour présenter l’appel à manifestation d’intérêt qui permettra de flécher vers l’économie sociale et solidaire une partie des 200 millions d’euros prévus par France Relance pour le recrutement de conseillers numériques. L’accompagnement de nos associations en matière numérique est l’une de nos préoccupations. Ainsi, grâce à un engagement de l’État de 11,4 millions d’euros, ce sont 285 conseillers numériques qui ont été placés aussi bien dans des structures de l’économie sociale et solidaire que dans des associations très connues pour mieux accompagner lesdites structures et les autres associations.<br/>Chaque fois que c’est possible, je veillerai à ce que le plan de relance dont l’objectif premier est de décaisser, vous le savez, vienne soutenir les acteurs de l’ESS.<br/>Mais soyons lucides – à commencer par moi –, nous devons aussi nous assurer que tous les crédits destinés aux associations soient connus et utilisés, pardonnez la répétition. Quand j’ai pris mes fonctions en juillet dernier, j’ai pris la mesure du non-recours dans le secteur associatif. Celui-ci a de multiples causes, ce qui le rend encore plus complexe : il s’agit parfois d’un manque d’information ; parfois d’une autocensure qui fait dire : « j’ai une petite association, je n’entrerai pas dans les cases » ; parfois d’une complexité dissuasive : « je n’ai pas les ressources pour répondre aux appels à projets ». Il y a 1 001 raisons qui font que les associations n’ont pas recours aux aides.<br/>Le secrétariat d’État s’est démené pour améliorer l’information. Je sais que cela prête à sourire – mais vous connaissez mon goût pour l’humour – oui, nous avons créé un numéro vert, mais le même que pour les entreprises, ce qui n’est pas anodin : 0 806 000 245. Depuis neuf mois maintenant, lorsque vous appelez et que vous êtes une association, vous avez une réponse ; il n’y a pas que les entreprises qui obtiennent des réponses. Nous avons également effectué un travail de synthèse pour présenter toutes les aides disponibles à tous les niveaux – ce n’est pas aux acteurs associatifs de gérer la complexité –, que ce soit les fonds régionaux, les fonds sectoriels, les fonds nationaux, la Caisse des dépôts, ou la Banque publique d’investissement : tout est rassemblé dans un seul document accessible sur le site internet de Bercy. Nous le mettons à jour constamment pour y intégrer le fonds d’urgence mais aussi le plan de relance ainsi que l’ensemble des appels à projets destinés aux acteurs associatifs – pas moins de seize appels à projets dans le plan de France Relance s’adressent aux acteurs de l’ESS.<br/>Les structures de l’économie sociale et solidaire, parmi lesquelles les associations, n’utilisent pas assez les aides qui sont à leur disposition – je ne reviens pas sur les raisons. Il se peut qu’elles soient parfois mal calibrées. Vous avez aussi souligné à juste titre que les associations ne sont pas suffisamment outillées pour les solliciter. C’est la raison pour laquelle nous avons demandé, dans le dernier projet de loi de finances, une hausse substantielle, de l’ordre de 28 %, des moyens alloués au dispositif local d’accompagnement qui permet, comme vous le savez, de soutenir le recours des associations à des prestataires externes pour se développer, enrichir leurs ressources et mieux répondre aussi aux appels à projets.<br/>Je me félicite du prochain examen au Sénat de la proposition de loi visant à améliorer la trésorerie des associations de Sarah El Haïry, dont vous aurez noté la détermination puisqu’elle l’avait déposée et défendue lorsqu’elle était députée. Nous avons plein de mauvaises nouvelles, des associations disparaissent, mais d’autres se battent et nous les aidons, et nous avons une bonne nouvelle, j’en suis sûre, pour les associations : le 12 mai au Sénat, la proposition de loi attendue aboutira enfin.<br/>Ce texte important viendra compléter les actions menées en faveur de la relance structurelle des associations. Au-delà de l’urgence – je sais que le débat porte sur ce thème –, sachez que je ne perds pas de vue les sujets structurels. Nous travaillons en ce moment même pour renforcer les fonds propres des associations, une condition essentielle d’une relance solidaire et durable. Sarah El Haïry et moi-même proposerons dans les prochaines semaines des mesures pour simplifier l’accès à des dispositifs tels que les titres participatifs.<br/>Vous l’avez bien compris, les structures associatives lient l’intérêt général et le modèle économique. C’est cet équilibre qui en fait des piliers de la solidarité de proximité.<br/>Je vous quitterai avec cette phrase de Victor Hugo que nous pouvons tous approuver : « Ces hommes-là, qui font ces choses, ces pères des chefs-d’œuvre, ces producteurs de civilisation, ces hauts et purs esprits, quel moi ont-ils ? Ils ont un moi incorruptible, parce qu’il est impersonnel. Leur moi, désintéressé d’eux-mêmes, indicateur perpétuel de sacrifice et de dévouement, les déborde et se répand autour d’eux. Le moi des grandes âmes tend toujours à se faire collectif. » Les associations en sont l’exemple parfait et elles peuvent, et pourront, compter sur le Gouvernement à leurs côtés, aux côtés de ce collectif, dont nous savons l’engagement au service des autres.<italique> (Applaudissements sur les bancs des groupes LaREM et Dem.</italique><italique> </italique><italique>– M. Paul Molac applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Santiago (SOC)" id_acteur="PA774960" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774985">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840689" ordre_absolu_seance="133" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457438" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions. Je rappelle que leur durée, ainsi que celle des réponses, est limitée à deux minutes sans droit de réplique.<br/>La parole est à Mme Isabelle Santiago.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840690" ordre_absolu_seance="134" id_acteur="PA774960" id_mandat="PM774985" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457439" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Santiago (SOC)</nom>
+              <acteurRef>PA774960</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’année qui vient de s’écouler a été marquée par un formidable élan de solidarité des Français qui se sont massivement investis dans le tissu associatif. S’il est devenu essentiel de retrouver des relations humaines, la crise économique et sociale rend indispensable toutes les actions de solidarité menées par les associations.<br/>On les a vues à l’œuvre pendant le confinement, et elles sont encore aujourd’hui très mobilisées : les associations créent du lien social dans nos villes, dans nos quartiers. Au-delà des grands acteurs bien connus que sont les Restos du cœur, la Croix-Rouge, Emmaüs, dans nos territoires, dans nos villes et nos campagnes, dans nos quartiers, tout un tissu associatif agit souvent dans l’ombre, grâce à l’engagement constant de milliers de bénévoles. Ces associations sont, pour nombre d’entre elles, soutenues très fortement par les collectivités locales, mais à l’heure de voter les budgets communaux, de nombreux élus nous alertent sur les difficultés à faire face à l’afflux des demandes de subventions de la part d’associations submergées par l’aggravation de la précarité et la détresse de nos concitoyens.<br/>D’autres orateurs l’ont dit, les associations sont grandement affectées par la crise que nous traversons. Elles n’ont pas pu participer à différentes manifestations qui leur permettaient d’augmenter leurs ressources. Le système associatif a prouvé son efficacité depuis longtemps, mais il est aujourd’hui en danger car les finances des collectivités locales souffrent de la crise actuelle. Il sera difficile d’augmenter les budgets des petites associations qui contribuent à la vie de quartier.<br/>Est-il prévu un plan de relance pour le monde associatif ? Si tel n’est pas le cas, il faut en définir un. C’est le maillage associatif et bénévole dans nos territoires qui empêche notre pays de sombrer dans le chaos. Le week-end et toute la semaine, ce sont les bénévoles qui sont auprès des plus démunis ; ce sont eux qui continuent à s’engager au profit de tous.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840694" ordre_absolu_seance="138" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457443" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840695" ordre_absolu_seance="139" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457444" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Votre question porte d’abord sur l’engagement bénévole et les moyens de l’accompagner. La crise sanitaire a produit un effet ciseau. En effet, dans cette période, il a été demandé aux personnes âgées qui faisaient vivre les associations dans les territoires de rester chez elles pour se protéger du virus. Dès le premier confinement, les personnes de plus de 65 ans ont été encouragées à demeurer à la maison.<br/>Pour soutenir l’élan associatif, le Gouvernement avait créé la plateforme numérique « je veux aider » afin de constituer une réserve civique. Plus de 350 000 Français se sont inscrits, et – c’est un motif de fierté pour notre pays – près de la moitié d’entre eux sont des jeunes de moins de 30 ans.<br/>Parallèlement, il était nécessaire d’adapter les règles de gouvernance, notamment pour autoriser la tenue des assemblées générales en distanciel ; évidemment, cela ne remplacera jamais les réunions qui font vivre le projet associatif.<br/>Ensuite, vous m’interrogez sur les subventions et les petites associations. L’engagement du Gouvernement dans ce domaine a été exemplaire : toutes les subventions promises ont été versées, que l’activité ait pu être maintenue ou pas, ce qui a donné aux associations la stabilité nécessaire pour envisager l’avenir.<br/>Enfin, le sujet a également été abordé par d’autres orateurs, le Gouvernement a pris l’engagement de conclure en plus grand nombre des contrats pluriannuels pour permettre aux associations de se projeter dans le temps. C’est aussi une manière de répondre au manque d’ingénierie dans les petites structures associatives que ma collègue Olivia Grégoire a souligné.<br/>Afin d’aider celles-ci à se projeter dans le temps, l’action du Gouvernement repose sur trois piliers : leur simplifier la vie grâce au compte asso, accompagner l’arrivée de nouveaux bénévoles et garantir les subventions sur trois ans, ce qui les dispense de recommencer les démarches tous les ans.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre-Yves Bournazel (Agir ens)" id_acteur="PA722030" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723454">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840701" ordre_absolu_seance="145" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre-Yves Bournazel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1840702" ordre_absolu_seance="146" id_acteur="PA722030" id_mandat="PM723454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Yves Bournazel (Agir ens)</nom>
+              <acteurRef>PA722030</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La crise sanitaire a profondément affecté le tissu associatif de notre pays. Les mesures de confinement et de distanciation physique, décidées afin de freiner la propagation de l’épidémie, ont eu des conséquences fortes sur l’activité des 1,5 million d’associations qui maillent notre territoire et contribuent grandement à sa vitalité.<br/>La pandémie a également mis en lumière, comme je le disais hier dans un débat, toute l’importance de l’action associative, notamment dans le domaine social et caritatif. Je tiens ici à saluer l’action des centaines de milliers de bénévoles qui se sont mobilisés avec beaucoup de dévouement et qui sont toujours mobilisés afin d’accompagner les personnes fragiles et d’apporter un précieux soutien au personnel soignant, en première ligne dans la lutte contre le virus.<br/>Pour encourager cet élan de solidarité et répondre à l’ampleur de la crise sociale, le Gouvernement a, dès le mois de mars 2020, pris des mesures économiques d’urgence afin de sécuriser les associations. Une partie du plan de relance leur est aussi consacrée : 100 millions d’euros sur deux ans ont ainsi été fléchés vers la création d’un fonds d’aide aux associations de lutte contre la pauvreté.<br/>Reconnaître la valeur de l’engagement associatif, c’est aussi reconnaître de nouveaux droits à celles et ceux qui donnent de leur temps au service des autres. La feuille de route « Vie associative » présentée par le Gouvernement à la fin de l’année 2018 prévoyait ainsi une meilleure reconnaissance de l’engagement associatif tout au long de la vie, notamment par la certification des compétences acquises dans le cadre de cet engagement. Elle prévoyait également l’élargissement aux bénévoles encadrants du compte engagement citoyen, qui permet aux bénévoles d’acquérir des droits à la formation au même titre que les salariés par l’intermédiaire du compte personnel de formation. Ces dispositifs sont excellents. Ils permettent de reconnaître l’utilité sociale du secteur associatif et d’encourager le développement du bénévolat.<br/>Mesdames les secrétaires d’État, merci de l’engagement exemplaire dont vous faites preuve depuis longtemps déjà, et en particulier depuis le début de la crise que nous traversons. Pouvez-vous nous en dire davantage sur le déploiement de ces dispositifs ? Pouvez-vous également nous indiquer si le Gouvernement envisage d’aller plus loin que les dispositifs actuels, notamment pour la prise en considération des activités bénévoles dans le calcul des droits à la retraite ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry" qualite="secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840755" ordre_absolu_seance="151" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457928" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840756" ordre_absolu_seance="152" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457929" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, vous avez posé la question de la reconnaissance et de la valorisation de l’engagement bénévole, en nous suggérant d’aller plus loin. Aujourd’hui, deux grands piliers permettent de construire cette reconnaissance, ou du moins d’agir en ce sens.<br/>Le premier est le déploiement du CEC, qui permet à chaque engagé, à chaque bénévole encadrant, d’acquérir de nouveaux droits – 240 euros par activité, avec un plafond annuel de 740 euros. Les activités reconnues sont diverses : il peut s’agir de la direction d’une association ou de l’encadrement de jeunes, d’un engagement de sapeur-pompier ou dans la réserve. C’est la reconnaissance de l’action et de l’utilité de l’engagement bénévoles.<br/>Il faut également citer la certification, qui reconnaît les compétences acquises. En effet, en s’engageant dans une association, on a de nouvelles activités et on acquiert de nouvelles expériences, au-delà même de l’intérêt qu’on y trouve et de l’utilité sociale qui y est associée.<br/>Nous avons en outre lancé, conformément à la volonté du Président de la République, un grand mouvement visant à mieux accompagner l’engagement de jeunes actifs par le déploiement d’une initiative de tutorat et de mentorat. Un montant de 30 millions d’euros sera ainsi consacré à des structures associatives dans nos territoires, afin de créer un écosystème vertueux, favorable à l’engagement à tout moment de la vie, qu’on soit retraité, actif ou jeune, lorsqu’on en a besoin. Il s’agit de stimuler cette relation avec un tuteur, un mentor, à la faveur de laquelle l’engagement bénévole est reconnu dans le regard de la personne accompagnée.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Valérie Six (UDI-I)" id_acteur="PA720488" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM772842">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840760" ordre_absolu_seance="156" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457933" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Valérie Six.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840761" ordre_absolu_seance="157" id_acteur="PA720488" id_mandat="PM772842" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457934" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Six (UDI-I)</nom>
+              <acteurRef>PA720488</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec 16 millions de personnes concernées, le bénévolat au sein d’associations représente la première forme d’engagement des Français. Dès le premier jour de la crise sanitaire, les associations se sont mobilisées et chacun sur son territoire a pu être témoin de la formidable solidarité qui s’est exprimée. On sait également, et cela a été dit sur tous les bancs de notre assemblée, que les seniors jouent un rôle très important dans ce secteur. En effet, 36 % des plus de 65 ans sont bénévoles dans une association, alors que l’engagement représente 24,6 % en population générale. Ils font ainsi bénéficier les autres de l’expérience qu’ils ont accumulée et d’une grande disponibilité. Se sentir utile et faire quelque chose pour autrui est un moteur pour ces personnes, qui s’impliquent souvent aussi dans d’autres secteurs que celui de la cohésion sociale. Toutefois, face à la pandémie actuelle, les seniors se sont mis en retrait de leurs activités associatives par sécurité, par souci de leur santé ; depuis, les bras manquent, car la demande augmente avec la crise économique. Je rappelle donc ici qu’il est nécessaire d’accélérer la vaccination.<br/>Par ailleurs, le rapport de notre collègue Audrey Dufeu intitulé « Réussir la transition démographique et lutter contre l’âgisme » formulait des propositions très intéressantes pour reconnaître la place des aînés dans la société. Y étaient notamment proposées la création d’un certificat républicain de reconnaissance de l’engagement, la constitution d’une réserve de compétences seniors auprès des communes et une attestation de compétences retraçant le parcours professionnel qui serait remise par l’employeur à son salarié futur retraité pour accompagner sa transition de la vie active à la retraite.<br/>Pouvez-vous donc nous indiquer de quelle manière le Gouvernement entend concrétiser ces propositions et soutenir l’engagement tout au long de la vie ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry" qualite="secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840764" ordre_absolu_seance="160" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457937" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840765" ordre_absolu_seance="161" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457938" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai évidemment pris connaissance des travaux de Mme la députée Audrey Dufeu, sur les moyens de créer du lien et, surtout, de renforcer le lien intergénérationnel, avec l’objectif de lutter contre l’âgisme. L’une des premières pierres que nous avons posées a été le déploiement, avec ma collègue Brigitte Bourguignon, d’une mission « Service civique solidarité seniors », qui fait vivre ce lien intergénérationnel et lutte, de fait, contre l’âgisme. Ces 10 000 missions de service civique suscitent un vrai engouement au sein de notre jeunesse, et c’est là une étape nécessaire.<br/>À cela s’ajoute le déploiement du certificat de compétences, qui reconnaît le bénévolat. Nous travaillons en outre avec certaines entreprises pour l’engagement des cadres, comme je viens de le dire à propos du tutorat et du mentorat.<br/>En outre, cet élan, cet écosystème vertueux est nécessaire, car chacun a sa pierre à apporter. La reconnaissance de l’engagement doit être accompagnée à chaque âge, des plus jeunes aux jeunes retraités, dont la crise a montré l’importance dans nos structures associatives. Il ne faut pas que des barrières se créent et, dès le plus jeune âge, on doit mobiliser cette énergie qui soutient le développement des structures associatives. C’est la raison pour laquelle, dans le cadre du service national universel, des jeunes âgés de 15 à 17 ans entrent dans des structures associatives d’abord pour un engagement de quinze jours, soit quatre-vingt-quatre heures, où ils goûtent à l’engagement, ce qui permet de créer cet élan nécessaire à la nation engagée que nous appelons de nos vœux.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Molac (LT)" id_acteur="PA607619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722936">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840768" ordre_absolu_seance="164" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457941" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Molac.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840769" ordre_absolu_seance="165" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457942" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac (LT)</nom>
+              <acteurRef>PA607619</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État chargée de la jeunesse et de l’engagement, je souhaite vous interroger sur le nécessaire soutien du Gouvernement à un pan majeur de la vie associative en Bretagne : l’activité des cercles celtiques et bagadoù – j’évoque ainsi, bien sûr, tous les groupes de danse, fanfares et autres batucadas. Je me réjouis que la ministre des sports autorise la pratique encadrée du sport au sein de clubs, qui concerne de nombreux adhérents, car dans les temps troublés que nous traversons, l’exercice d’activités sportives, ludiques et culturelles répond à un besoin immense pour le bien-être de nos concitoyens.<br/>Nous avons été alertés lors de l’assemblée générale de Kenleur, qui regroupe tous les cercles celtiques de Bretagne, c’est-à-dire environ 20 000 danseurs. Vingt-quatre parlementaires, donc Yannick Kerlogot, moi-même, et, me semble-t-il, Mme Graziella Melchior ici présente, ont écrit à Roselyne Bachelot, ministre de la culture, pour appeler son attention sur les difficultés que rencontrent nos bagadoù et nos cercles.<br/>La principale difficulté à laquelle ils sont confrontés est qu’il leur est tout simplement impossible de répéter. À cela s’ajoute l’impossibilité d’établir un calendrier prévisionnel des activités, pourtant réalisées en plein air, pour les semaines et les mois qui viennent. Il faut aussi savoir que les cours de musique ou de danse, ainsi que les costumes, sont payés par des activités qui peuvent être pratiquées essentiellement l’été : les fonds qui permettent aux associations de vivre ne proviennent donc pas de subventions, mais de leurs activités.<br/>Madame la secrétaire d’État, pourriez-vous nous rassurer quant à la reprise des activités des sonneurs et des danseurs, selon un protocole adapté ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry, quali  secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840773" ordre_absolu_seance="169" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457946" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840774" ordre_absolu_seance="170" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457947" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, il se trouve que nos territoires sont voisins, et je connais l’importance des festivals dans l’Ouest, comme celle de la musique bretonne et des cercles celtiques.<br/>Je m’appuierai d’abord sur les travaux de la ministre de la culture, chargée de ces questions et qui, avec la ministre chargée de la cohésion des territoires, dispose d’un budget de 1,5 million d’euros. Il se compose de plusieurs parties, ce qui permet d’en éclairer la lecture. Ce sont d’abord 500 000 euros pour les fédérations, qui accompagnent des projets amateurs et permettent notamment de financer les tenues, que vous avez évoquées. C’est ensuite 1 million d’euros sur deux ans au titre des pratiques ; c’est plutôt cette ligne budgétaire qui concerne les cercles celtiques. La ministre de la cohésion des territoires, quant à elle, finance 500 000 euros sur deux ans, qui s’ajoutent aux crédits d’accompagnement de la pratique amateur et sont délégués aux DRAC, les directions régionales de l’action culturelle, qui attacheront une attention toute particulière aux subventions nécessaires à ces festivals qui irriguent l’Ouest, et en particulier votre territoire.<br/>Les axes de financement sont aujourd’hui identifiés : d’abord un soutien à l’investissement pour acquérir et renouveler les instruments, ainsi que pour accompagner les pratiquants ; ensuite, un soutien au fonctionnement et une aide pour assumer les charges.<br/>Au-delà de ces chiffres, ce qui est en jeu, c’est évidemment la vitalité qu’apportent ces financements, et les travaux en cours visent à définir des protocoles permettant de reprendre une activité et d’assurer la visibilité de ces événements qui se déroulent à l’extérieur. Sans doute avez-vous pris connaissance des dernières interventions de la ministre de la culture, qui évoquait la préparation des protocoles d’été pour les festivals, avec des règles sanitaires nous permettant de nous projeter dans l’avenir en fonction de l’état de l’épidémie au moment où nous parlons.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Hugues Ratenon (FI)" id_acteur="PA721062" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723158">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840778" ordre_absolu_seance="174" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457951" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Hugues Ratenon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840779" ordre_absolu_seance="175" id_acteur="PA721062" id_mandat="PM723158" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457952" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Hugues Ratenon (FI)</nom>
+              <acteurRef>PA721062</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Malgré la crise sanitaire, les associations ont tenu bon. Elles étaient en première ligne, notamment dans l’accompagnement des plus fragiles et des plus démunis. Cependant, celles qui relèvent de l’économie sociale et solidaire n’ont pas accès aux dispositifs de soutien économique, contrairement à la définition qu’en donne la Commission européenne, qui les intègre. Comptez-vous y remédier et, si oui, comment ?<br/>Sur le plan culturel, des artistes occupent depuis une dizaine de jours la Fabrik, le centre dramatique national de l’océan Indien à La Réunion, réclamant la réouverture des salles de spectacles. Que répondez-vous à cette demande ?<br/>Autre question très sensible : au début de la semaine dernière, par la voix de Florence, Cécile, Gabrielle, Océane, Anaïs et Myriam, des élèves des classes préparatoires de Saint-Pierre pour la sélection menant aux études et aux métiers d’auxiliaire de puériculture et d’aide-soignante, m’ont soumis un projet relatif aux soins liés au don d’organes. En effet, dans ce département, deux greffes seulement sont possibles : celles de la cornée et des reins. Pour les autres, il faut se rendre dans l’hexagone, avec les contraintes et les coûts importants que cela engendre. La maladie ne prévient pas et, quand elle est là, il faut agir – et, souvent, il faut agir vite et bien. Si beaucoup est fait par les institutions, des difficultés demeurent non résolues, notamment pour ce qui concerne l’accompagnement des familles et des malades, les démarches administratives et le suivi lorsqu’on arrive en métropole, l’hébergement, les déplacements et la restauration. Vous avez très bien compris que les difficultés étaient amplifiées par la crise.<br/>Madame la secrétaire d’État chargée de l’économie sociale, solidaire et responsable, le Gouvernement est-il prêt à agir dans ce domaine et êtes-vous disposée à accompagner plus en profondeur le monde associatif, notamment l’association Ptit Cœur, qui œuvre dans ce domaine ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire" qualite="secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840783" ordre_absolu_seance="179" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2457956" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1840784" ordre_absolu_seance="180" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2457957" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, peut-être ai-je mal compris votre question, mais je suis certaine de ma réponse : depuis que j’ai été nommée, fin juillet 2020, je me suis attachée à ce que toutes les structures de l’économie sociale et solidaire soient éligibles aux aides mises en place pour les entreprises. Il manquait à ce dispositif les coopératives d’activités et d’emploi et les SIC, les sociétés d’intérêt collectif : nous avons remédié à cette erreur dès le mois de septembre dernier. Je pèse mes mots : l’intégralité des structures de l’ESS sont éligibles aux aides, qu’il s’agisse du fonds de solidarité, du PGE, ou prêt garanti par l’État, de l’exonération de charges fiscales et sociales ou du chômage partiel – jusqu’au <italique>click</italique><italique/><italique>and</italique><italique/><italique>collect</italique>, comme j’ai pu m’en rendre compte sur le terrain. Si ce n’était pas le cas, je suis entièrement à votre disposition pour examiner la situation. Quant à l’association Ptit Cœur, j’ai bien noté son nom – ce n’est pas le genre de nom que je peux oublier.<br/>Deuxièmement, je resterai dans la droite ligne de ce qu’a dit Sarah El Haïry : la ministre de la culture – j’espère qu’elle ne nous regarde pas et prend un repos bien mérité –, dont nous connaissons tous l’engagement, travaille ardemment avec ses collaborateurs, ses services, mais aussi avec le cabinet de Jacqueline Gourault, ministre de la cohésion des territoires, afin d’élaborer et surtout d’appliquer des protocoles qui permettraient aux associations, notamment culturelles, de reprendre leurs activités dès la fin du printemps. Sachez que nous sommes entièrement mobilisés en ce sens.<br/>Concernant le dernier point, sans connaître aussi bien que vous ce sujet grave, je mesure la portée de ce que vous en dites. J’imagine que vous en avez déjà parlé avec le ministre des solidarités et de la santé ; je suggère que nous en fassions autant aux abords de l’hémicycle, ou que vous preniez contact demain avec mon cabinet. Pour être précise, la nouvelle que j’avais créé un fonds UrgencESS de 30 millions d’euros a traversé les océans, puisque plus de 200 candidatures nous sont parvenues des territoires ultramarins, dont 86 de La Réunion, qui n’est donc pas en reste – c’est bien normal. Nous allons regarder cela de très près, et nous reparlerons de Ptit Cœur quand vous le souhaiterez, avec plaisir.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Chassaing (LaREM)" id_acteur="PA719250" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722606">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840730" ordre_absolu_seance="183" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458009" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Chassaing.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840731" ordre_absolu_seance="184" id_acteur="PA719250" id_mandat="PM722606" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458010" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Chassaing (LaREM)</nom>
+              <acteurRef>PA719250</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais avant tout saluer l’effort des associations, durant cette crise, pour aller au-devant des populations les plus fragilisées, les plus vulnérables : elles ont montré toute leur agilité. Toutefois, c’est sur l’accompagnement dont elles font l’objet que porteront mes questions.<br/>Fort de 2,4 millions de personnes, le secteur de l’ESS a su répondre aux attentes suscitées par la crise. Cela ne l’a pas empêché d’être durement éprouvé : 58 000 contrats courts y ont été rompus, et le nombre de ses associations diminue fortement. L’État n’a cependant pas manqué de leur venir en aide : elles peuvent contracter un PGE, elles sont éligibles au fonds de solidarité, mais leur taux de non-recours à ces dispositifs reste relativement élevé – vous le rappeliez tout à l’heure, madame la secrétaire d’État. Sans doute est-ce la raison pour laquelle vous avez créé à leur intention le fonds UrgencESS. Tout d’abord, quel bilan peut-on établir concernant son utilisation ? Ensuite, bénéficiera-t-il de nouveaux crédits au cas où les demandes seraient trop nombreuses ? Enfin, où en est votre réflexion, indispensable à toute crise, sur la manière de faire rebondir l’ESS ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840733" ordre_absolu_seance="186" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458012" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840734" ordre_absolu_seance="187" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458013" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci de ces questions, monsieur Chassaing. Le fonds UrgencESS n’ayant été lancé que le 22 janvier, il est trop tôt pour parler de bilan. Au moment où je vous parle, nous avons enregistré 7 750 demandes ; actuellement, il y en a en moyenne plus de 200 par jour, en provenance de l’ensemble du territoire. Dans votre région, la Nouvelle-Aquitaine, on en dénombrait très exactement 948 à la date du 8 mars.<br/>Ce qui est intéressant – j’y ai fait allusion tout à l’heure à la tribune –, c’est que, semble-t-il, ce fonds atteint sa cible : 64 % de ces demandes émanent d’associations ayant entre un et trois salariés, c’est-à-dire de toutes petites structures, et 62 % d’associations qui n’ont pas bénéficié du fonds de solidarité. La première tranche de 10 millions d’euros permettra d’accompagner 1 620 structures associatives, la prime, je le répète, pouvant atteindre 8 000 euros pour celles qui comptent entre quatre et dix salariés. En tout, ces 30 millions sortiront de l’ornière environ 5 000 associations aujourd’hui menacées, et seront très probablement – j’oserai vous dire que je l’espère – consommés à la fin du mois d’avril.<br/>Avant toute chose, il importe de faire connaître le site urgence-ess.fr. Je sais pouvoir compter sur vous, sur l’ensemble des élus : je le vois au quotidien. Ce n’est pas le cas pour tous les sujets dont s’occupe le Gouvernement, mais qu’est-ce que cela fait du bien ! Lorsqu’il s’agit de soutenir le secteur associatif de l’ESS, régions, départements, communes, État, tous les acteurs se mobilisent. Décaissons ensemble, allons vite ! Si ces crédits sont épuisés avant la fin avril, j’irai en demander d’autres : vous savez que je ne manque pas d’énergie. Je tiens néanmoins à préciser que ni le Premier ministre, ni Bruno Le Maire, ni même Olivier Dussopt ne m’ont obligée à solliciter deux fois cette aide de 30 millions ; leur accord a été quasi immédiat. J’ai donc bon espoir, en cas de besoin, d’obtenir davantage ; du moins, comptez sur moi pour m’y efforcer.          </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Florence Morlighem (LaREM)" id_acteur="PA720516" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM769311">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840737" ordre_absolu_seance="190" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458016" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Florence Morlighem.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840738" ordre_absolu_seance="191" id_acteur="PA720516" id_mandat="PM769311" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458017" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Florence Morlighem (LaREM)</nom>
+              <acteurRef>PA720516</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La France est riche de son tissu associatif. L’importance des actions menées par les associations se mesure en particulier dans les circonstances exceptionnelles, comme celles que nous connaissons actuellement. Les implications économiques et sociales de cette crise sanitaire sans précédent sont considérables ; les petites associations, notamment, réalisent un travail de proximité indispensable afin de venir en aide à ceux de nos concitoyens qui risquent de se sentir perdus, délaissés. Je le constate dans ma circonscription, la onzième du département du Nord, où les épiceries solidaires, les cafés coopératifs, les associations culturelles jouent un rôle primordial pour favoriser le vivre-ensemble en cette période délicate.<br/>Cependant, cette même crise fragilise les petites structures de l’ESS, en dépit de la création par le Gouvernement d’un fonds de solidarité bienvenu : beaucoup n’en ont pas connaissance, ou encore, vivant de subventions, ne peuvent déclarer la perte d’au moins 50 % de leur chiffre d’affaires, puisqu’elles n’en ont pas – ce qui leur interdit d’être indemnisées par ce fonds. Le Gouvernement et sa majorité ont pris conscience du problème, donc de la nécessité d’un mécanisme spécifique pour les associations ayant dix salariés ou moins ; d’où l’adoption en novembre dernier, dans le cadre de l’examen du quatrième projet de loi de finances rectificative pour 2020, des dispositions visant à créer un nouveau fonds de 30 millions d’euros, UrgencESS, pleinement opérationnel depuis janvier. Cette mesure démontre une nouvelle fois l’entière mobilisation du Gouvernement et de la majorité auprès des acteurs de l’ESS. Madame la secrétaire d’État, pourriez-vous nous en présenter les grandes lignes, afin que les intéressés s’emparent de cet outil essentiel ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840740" ordre_absolu_seance="193" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458019" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840741" ordre_absolu_seance="194" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458020" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Heureuse de vous retrouver, madame Morlighem : la dernière fois que nous nous sommes vues, c’était à Marlenheim, ce qui me permet de vous recommander à tous les pâtes alsaciennes. Au demeurant, ce déplacement passionnant nous a fait découvrir les structures associatives de l’Est qui bénéficient du fonds UrgencESS.<br/>Celui-ci fonctionne de manière très simple ; c’était d’ailleurs son objectif. Il suffit de se connecter au site urgence-ess.fr – vous m’excuserez de le répéter – et de remplir un petit questionnaire : ce que fait concrètement l’association, quels types d’aides elle a déjà obtenues, quels types de problèmes elle rencontre, notamment s’il s’agit de problèmes financiers ou de trésorerie. À partir de là, elle reçoit une réponse sous quinze jours, voire sous dix jours dans 80 % des cas. Pour avoir été dans une autre vie à la place de ces acteurs associatifs, je peux vous dire qu’il n’y a rien de pire que d’attendre longtemps une réponse si elle doit être négative : c’est pourquoi nous donnons la nôtre, quelle qu’elle soit, dans les quinze jours.<br/>Les associations ayant entre un et trois salariés peuvent obtenir jusqu’à 5 000 euros ; entre quatre et dix salariés, jusqu’à 8 000 euros. Soyons clairs : il ne s’agit pas d’un prêt à taux zéro, mais d’une aide directe. L’intérêt réside aussi dans le fait qu’à partir du moment où le questionnaire a été rempli, même les associations qui ne sont pas véritablement dans le besoin – mettons qu’elles aient eu accès au PGE ou au fonds de solidarité – entrent dans le circuit. Elles peuvent ainsi bénéficier du plan France relance par l’intermédiaire d’autres aides, notamment grâce aux dispositifs locaux d’accompagnement – DLA – de France active. C’est un guichet, un point de contact unique, qui fonctionne plutôt bien ; les CRESS, les chambres régionales de l’ESS, nous aident à le faire connaître, et je profite de cette occasion pour les remercier. Enfin, lorsque notre réponse est positive, ce qui se produit assez fréquemment, les fonds sont décaissés dans les quarante-huit à soixante-douze heures : il ne faut donc pas plus de dix-huit jours, montre en main, à une association pour obtenir un versement sur son compte. Si davantage d’argent est nécessaire, encore une fois, j’irai le chercher : je sais que vous me soutiendrez.          </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Josiane Corneloup (LR)" id_acteur="PA722390" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723560">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840744" ordre_absolu_seance="197" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458023" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Josiane Corneloup.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840745" ordre_absolu_seance="198" id_acteur="PA722390" id_mandat="PM723560" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458024" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Josiane Corneloup (LR)</nom>
+              <acteurRef>PA722390</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’impact de la crise sanitaire sur l’activité du monde associatif est particulièrement préoccupant : mise en sommeil momentanée de la grande majorité des associations, réduction significative de leurs activités, report ou annulation de plusieurs événements d’une importance capitale pour beaucoup d’entre elles. Néanmoins, elles se sont fortement engagées dans les chaînes de solidarité créées dès le premier confinement, notamment à destination du personnel soignant. Je profite de cette intervention pour remercier les bénévoles, qui ont montré là leur immense solidarité et la nécessité de leur contribution au maintien du tissu social français.<br/>Notre pays compte 1,5 million d’associations, aujourd’hui en souffrance, alors que ce secteur habituellement très dynamique – durant ces dix dernières années, il a connu une croissance annuelle de près de 2 % – pesait en 2017 113 milliards d’euros. Perte du lien social, perte de recettes, avec notamment le remboursement des cotisations, perte de motivation des bénévoles : leurs dirigeants et les membres des associations ne manquent pas de sujets d’inquiétude. Les associations d’une certaine taille ont pu bénéficier du fonds de solidarité, du PGE, du dispositif de chômage partiel, ou encore d’exonérations ou de reports de charges ; les plus petites ont été oubliées.<br/>Mesdames les secrétaires d’État, un plan de sauvetage de ces très petites associations doit être sérieusement envisagé. Nous ne pouvons laisser dans une telle détresse les milliers de personnes qui composent le paysage associatif et social de notre pays. La mobilisation, en septembre dernier, de 20 millions d’euros supplémentaires, destinés aux associations de proximité par l’intermédiaire du fonds d’urgence « quartiers solidaires », a constitué une bonne mesure, mais largement insuffisante. Le FDVA, assez facile d’accès, bénéficie déjà à un certain nombre de petites associations : ne pensez-vous pas qu’il serait judicieux d’en augmenter très largement la dotation ?<br/>Par ailleurs, comment le Gouvernement entend-il soutenir l’engagement tout au long de la vie ? <italique>(M.</italique><italique> </italique><italique>Xavier Breton applaudit.)   </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840748" ordre_absolu_seance="202" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458027" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1840749" ordre_absolu_seance="203" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458028" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci de votre question, madame Corneloup. Peut-être devrais-je me contenter d’une minute pour vous répondre, et laisser l’autre à Sarah El Haïry, puisque le secteur associatif recourt à la fois au salariat et au bénévolat. Nous vous épargnerons ces questions de périmètre, mais elles doivent vous montrer à quel point nous avançons main dans la main.<br/>La vulnérabilité des associations est une réalité d’ordre structurel : elle ne résulte pas de la conjoncture. Le monde associatif suit la même courbe en K que l’ensemble de notre économie : certains acteurs, notamment dans l’ESS, ont pu maintenir leur activité, qui n’est pas mise à mal ; ailleurs, des pans entiers, comme le sport, la culture, en particulier les acteurs d’événements tels que les festivals, se trouvent dans une situation extrêmement difficile. C’est pourquoi, au-delà des 20 millions que vous avez mentionnés, nous avons doté de 30 millions le fonds UrgencESS, qui, comme son nom l’indique, est entièrement consacré à l’urgence et non à la relance.          <br/>Voici quelques chiffres qui témoignent de la situation : 52 000 emplois ont été perdus en 2020 dans l’économie sociale et solidaire ; c’est le secteur associatif qui est le plus durement touché. Le fonds de solidarité, comme je vous l’ai indiqué, a été utilisé par moins de 1,5 % des associations et il me semble très utile de leur rappeler à toutes qu’elles y sont encore éligibles. Il y a 190 millions d’euros, pour 20 600 associations ; nous pourrions nous donner pour mission de leur faire connaître le fonds de solidarité et le fonds UrgencESS, qui leur est aujourd’hui destiné.<br/>Par ailleurs, le renforcement des parcours emploi compétences au sein du plan de relance, pour plus de 200 millions d’euros, doit permettre d’embarquer 40 000 personnes, notamment des jeunes. Ce sont autant de ressources dont nos associations ont besoin – elles nous le disent –, en plus des financements.<br/>Je salue enfin l’action lancée dès la rentrée dernière par Sarah El Haïry pour appuyer de 85 millions complémentaires le plan de relance sous forme d’avances de trésorerie ou de renforcement des fonds propres associatifs ; ce travail est confié à la Caisse des dépôts ; 40 millions d’euros sont déjà mobilisés par l’intermédiaire de la Banque des territoires pour assurer des financements de long terme en renforçant les fonds propres des associations. Nous n’ignorons rien des difficultés. C’est pourquoi nous abondons, réabondons et continuerons à le faire si le besoin s’en fait toujours sentir.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Pauget (LR)" id_acteur="PA718784" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722456">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840705" ordre_absolu_seance="208" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458079" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Pauget.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840706" ordre_absolu_seance="209" id_acteur="PA718784" id_mandat="PM722456" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458080" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Pauget (LR)</nom>
+              <acteurRef>PA718784</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis le début de la crise sanitaire, les associations, piliers de notre société et de nos territoires, vacillent. Selon le mouvement associatif, plusieurs milliers d’entre elles sont menacées de disparition, et l’engagement bénévole, poumon essentiel à la solidarité, est en baisse.<br/>Pour avoir été pendant près de vingt ans adjoint à la vie associative, à la jeunesse et aux sports de ma commune d’Antibes, j’évoquerai plus particulièrement trois secteurs affectés. Le premier est celui des associations caritatives, dont les moyens sont menacés. Connaissant toutes et tous, sur ces bancs, le tissu associatif de nos circonscriptions, nous savons qu’avec la crise sanitaire, les populations les plus fragiles économiquement sont brutalement passées de la précarité à la pauvreté. Elles survivent grâce à l’action des associations et de leurs bénévoles. Dans mon département des Alpes-Maritimes, elles sont débordées par le nombre de demandes et ont vu le recours à leurs dispositifs d’aide augmenter considérablement. Parce que les mesures prévues dans le plan de relance ne suffisent pas, je vous propose, afin de maintenir les élans de solidarité de notre société, d’affecter le produit des amendes dressées pour non-respect des règles de confinement à ces associations caritatives.<br/>Le constat est le même dans le secteur du sport : les adhésions aux associations chutent de 25 à 40 %. Une véritable stratégie de mécénat, assurée par le privé et encore plus incitative que la loi du 1<exposant>er</exposant> août 2003, dite loi Aillagon, serait la bienvenue pour financer le sport amateur.<br/>Enfin, le domaine culturel enregistre 1,5 milliard d’euros de pertes au total. Une structure associative sur deux est en danger et près de 100 000 emplois permanents risquent de disparaître. Emplois associatifs, bénévolat menacé, reprise d’activité incertaine, insécurité financière : il est impératif que le Gouvernement réalise la réalité vécue par les associations sur le terrain et pense les conditions de leur reprise. Il est tout aussi impératif qu’il reconnaisse l’exceptionnel engagement des bénévoles et que leur soient reconnus de nouveaux droits en termes de formation et de retraite – je sais que vous y travaillez, madame la secrétaire d’État chargée de la jeunesse et de l’engagement. Aussi ma question est-elle simple : êtes-vous prête à organiser un véritable Grenelle du monde associatif ? Il en va en effet à mes yeux de l’existence de notre modèle français.<italique> (Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry" qualite="secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840709" ordre_absolu_seance="213" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458083" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840710" ordre_absolu_seance="214" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458084" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je suis d’accord avec vous, monsieur le député : chacun des secteurs a été bousculé d’une manière différente, ce qui appelle des réponses spécifiques, aux côtés d’autres, beaucoup plus larges, pour accompagner la relance et l’élan du monde associatif.<br/>Vous savez que je siégeais à la commission des finances il y a encore quelques mois : malheureusement, les vases ne sont pas communicants et je ne peux pas répondre positivement à votre proposition. Vous avez raison cependant de souligner que le monde caritatif a été l’un des premiers remparts et que la crise sanitaire a accéléré des crises, accentué l’inégalité dans nos territoires et a touché plus fortement les plus fragiles. C’est la raison pour laquelle le Gouvernement a alloué 100 millions d’euros supplémentaires aux associations de lutte contre la très grande pauvreté en particulier, principalement aux réseaux d’aide alimentaire. C’était une première étape qui était nécessaire ; de nouveaux fonds seraient dégagés si le besoin se faisait sentir.<br/>Vous avez aussi évoqué la question du sport, et la façon de l’accompagner. On constate que dans les associations sportives, en particulier dans le secteur amateur comme vous l’avez souligné, des licenciés ou des bénévoles ne reviennent plus ; les temps de convivialité, qui créent du lien, ont disparu. Pour ces associations, ma collègue Roxana Maracineanu débloquera 100 millions d’euros dès la rentrée avec un dispositif, le pass’sport, destiné à prendre en charge le coût de la licence de jeunes âgés de 6 à 16 ans. Il s’agit, au-delà de la réouverture et de la reprise, de les stimuler de nouveau. Lorsqu’une activité a été arrêtée, il faut redonner de l’énergie aux structures associatives pour permettre aux licenciés de revenir. Ce budget s’ajoute bien sûr à celui dédié à l’accompagnement des fédérations, qui s’élève à 15 millions d’euros. Nous savons qu’il existe un maillage dont chaque échelon doit être accompagné et aidé, de l’adhérent, du bénévole ou du licencié jusqu’à la fédération qui accompagne les clubs.<br/>Vous avez enfin évoqué le mécénat. Je crois fondamentalement à cette activité, à cet écosystème dans lequel chacun – les entreprises, les collectivités, l’État ou encore les parlementaires au moment du vote de la loi de finances – peut apporter sa pierre. La loi Aillagon est, pour moi, l’un des vrais trésors et une particularité de la philanthropie à la française. Elle a été stimulée par la précédente loi de finances, avec la création d’une franchise pour les TPE et PME qui permet de faciliter l’accompagnement des entreprises les plus proches des associations sportives en particulier. Nous devons faire mieux connaître ce dispositif, destiné à faciliter leur engagement.<br/>Enfin, je crois aux grands moments de réunion, peu importe qu’ils soient appelés Grenelle ou états généraux. Nous fêterons prochainement le cent-vingtième anniversaire de la loi de 1901 et je crois qu’il est temps de redéfinir ensemble l’élan nécessaire à notre vie associative.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Luc Geismar (Dem)" id_acteur="PA720006" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774487">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840715" ordre_absolu_seance="219" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458089" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Luc Geismar.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840716" ordre_absolu_seance="220" id_acteur="PA720006" id_mandat="PM774487" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458090" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Geismar (Dem)</nom>
+              <acteurRef>PA720006</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite vous interroger, madame la secrétaire d’État chargée de la jeunesse et de l’engagement, sur la situation des associations culturelles, en particulier de celles qui s’impliquent dans nos territoires pour la sauvegarde et la mémoire du patrimoine. Les associations culturelles connaissent des difficultés qui ne sont pas seulement conjoncturelles, même si l’épidémie de covid-19 a eu des effets très négatifs et rendu la situation particulièrement critique pour certaines d’entre elles. Dans une publication de mars 2021, la coordination des fédérations et associations de culture et de communication a lancé l’alerte au sujet des acteurs associatifs. La fermeture des lieux culturels, rendue nécessaire par la situation sanitaire, a ainsi grandement contraint les finances de plusieurs associations et mis en péril de nombreux projets.<br/>Or les associations culturelles sont nécessaires à la valorisation mais aussi parfois à l’entretien de notre patrimoine. Ces associations, avec leurs bénévoles, font aujourd’hui vivre le patrimoine de proximité : les petits domaines, les musées… bref, le patrimoine matériel et immatériel qui constitue la mémoire de la France. Je souhaite aujourd’hui appeler votre attention sur ces associations dont le travail et les projets sont essentiels pour l’identité et l’attractivité de nos territoires. Madame la secrétaire d’État, quelles sont les mesures qui pourraient être adoptées par l’État pour venir en aide aux associations s’impliquant sur nos territoires pour la sauvegarde et la mémoire du patrimoine ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry" qualite="secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840718" ordre_absolu_seance="222" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458092" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840719" ordre_absolu_seance="223" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458093" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je sais, monsieur le député, à quel point vous êtes engagé auprès des associations culturelles, en particulier patrimoniales, dans notre pays. Il se trouve que ces associations ont été touchées par la crise sanitaire ; celle-ci a mis en évidence des failles sans doute préexistantes mais qui ont été aggravées. Il est nécessaire à cet égard de rappeler que le ministère de la culture dispose aujourd’hui, à lui seul, de plus de dix fonds spécifiques qui permettent d’accompagner la culture, le patrimoine, la culture vivante ou encore le festival ou l’harmonie. En outre, le budget transversal de la culture s’élève à 2,9 milliards d’euros, une somme dédiée à l’accompagnement et à la transformation et confiée aux directions régionales des affaires culturelles, les DRAC, avec qui les associations culturelles ont une relation spécifique, territoire par territoire.<br/>Au-delà de ces éléments, il me semble nécessaire de porter aujourd’hui un regard plus spécifique sur les associations qui accompagnent la rénovation ou la mise en valeur du patrimoine territorial. Dans ce but, je travaille actuellement avec des associations qui engagent des jeunes dans des chantiers de volontariat, contribuant ainsi à transmettre la mémoire. Les associations, celles d’anciens combattants en particulier, expliquent en effet que la deuxième mort serait l’oubli. Pour ne pas laisser le patrimoine se perdre et tomber dans l’oubli, je travaille avec des associations qui créent cette petite flamme chez les plus jeunes et qui les invitent à s’orienter vers les engagements spécifiques que sont les chantiers de volontariat ou les chantiers de rénovation, notamment dans le cadre du service civique.<br/>Nous travaillons aussi, avec Stéphane Bern, à une démarche générale de sensibilisation de la nation à notre patrimoine. Je ne peux conclure cette réponse sans évoquer le loto du patrimoine, une très belle aventure dont l’accompagnement a été confirmé en loi de finances par la représentation nationale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840721" ordre_absolu_seance="226" id_acteur="PA342196" id_mandat="PM770372" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2458095" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Claudia Rouaux</nom>
+              <acteurRef>PA342196</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une belle réussite !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840722" ordre_absolu_seance="227" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458096" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>.La parole est à Mme Emmanuelle Ménard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840723" ordre_absolu_seance="228" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458097" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Ménard</nom>
+              <acteurRef>PA719608</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sport, culture, patrimoine, tourisme, santé ou soutien aux personnes en difficulté : avec ses quelque 1 833 associations, le Biterrois est résolument associatif, et cela fait notre richesse. Pourtant, avec la crise sanitaire, le moins que l’on puisse dire c’est que les difficultés sont légion ; j’en citerai trois exemples.<br/>L’ASB – association sportive de Béziers – gym est ainsi passée de 620 adhérents à 500 environ en septembre dernier, une baisse inquiétante non seulement pour des raisons budgétaires mais aussi parce que l’association est dans l’incapacité de rembourser les cotisations des adhérents qui ne peuvent plus pratiquer leur sport à cause des mesures sanitaires. Le football n’est pas épargné non plus : alors que les joueurs de l’ASB – Avenir sportif Béziers – évoluent en National 2, ils sont tout simplement privés de championnat. C’est une mesure incompréhensible, les matchs pouvant être joués à huis clos comme en Ligue 1, mais elle a un coût.<br/>Je pense enfin à une association en charge de l’insertion et du retour à l’emploi des personnes en difficulté, pour laquelle le télétravail est particulièrement handicapant puisqu’elle s’adresse à des personnes qui sont déjà en situation de précarité et de rupture.<br/>Consciente de ces enjeux, la ville de Béziers s’est mobilisée. Nous avons ainsi doublé le montant des subventions pour les associations de première nécessité, comme les Restos du cœur, et nous avons maintenu ou augmenté, d’un montant pouvant aller jusqu’à 30 %, les subventions des associations sportives. Mais le monde associatif souffre quand même de la crise ; il nous faut donc agir vite et prendre des mesures fortes.<br/>À cet égard, je vous alerte au sujet du FDVA, qui a remplacé la réserve parlementaire. Dans l’Hérault, en 2020, ce sont 300 000 euros de moins qui ont été distribués, une baisse de 45 % par rapport à 2019. Parmi les 118 bénéficiaires dans le département, cinq seulement étaient domiciliés dans ma circonscription ; chacun pourra donc apprécier le maillage territorial du dispositif. Je pense que certaines choses sont à revoir. Madame la secrétaire d’État chargée de la jeunesse et de l’engagement, les crédits du FDVA doivent être rapidement augmentés.<br/>J’insiste de nouveau, et je ne suis pas la seule à le dire dans l’hémicycle : les décisions d’attribution devraient être prises en concertation avec les élus locaux et les parlementaires. Avez-vous envisagé, madame la secrétaire d’État, des actions en ce sens ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry" qualite="secrétaire d'État" id_acteur="PA720002" id_nomination_oe="PM774099" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840726" ordre_absolu_seance="234" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2458100" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de la jeunesse et de l’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1840727" ordre_absolu_seance="235" id_acteur="PA720002" id_mandat="-1" id_nomination_oe="PM774099" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2458101" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <acteurRef>PA720002</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il se trouve que, PLF après PLF, nous avons ce débat dans l’hémicycle. Si le Sénat adopte la proposition de loi visant à améliorer la trésorerie des associations qui sera examinée à partir du 12 mai, les parlementaires deviendront membres de la commission d’attribution du fonds de développement de la vie associative. C’est une proposition de loi que j’ai défendue en tant que députée et qui a été votée à l’unanimité, signe qu’elle a trouvé un écho sur l’ensemble de nos bancs. Elle permettra d’apporter l’éclairage nécessaire des parlementaires et leur regard spécifique sur le déploiement des fonds.<br/>L’augmentation budgétaire est en cours, madame la députée, avec 20 millions d’euros supplémentaires cette année. Avant même le vote de la proposition de loi, il me semble nécessaire que l’ensemble des parlementaires soient informés des subventions attribuées aux structures associatives. C’est ce que je défends, avant l’arrivée que j’espère très rapide des parlementaires en commission d’attribution.<br/>Vous avez également posé la question des moyens de stimuler la reprise des activités de nos associations. Dès que les protocoles sanitaires le permettront, cette reprise doit être soutenue, je l’ai dit, par les collectivités locales mais également par l’État ; nous avons dégagé presque 200 millions de subventions, en direction des associations culturelles avec le pass culture porté par Roselyne Bachelot, et de l’autre côté le pass’sport porté par Roxana Maracineanu, ce qui stimulera de manière volontariste le retour des adhérents vers les structures associatives, culturelles et sportives en particulier.<br/>Vous parlez également des activités sportives des amateurs. Le plus urgent – c’était l’engagement du ministre de l’éducation nationale – a été de permettre l’activité sportive des plus jeunes. Je ne doute pas que, dès que la situation sanitaire nous le permettra, nous retrouverons une vie sociale, une vie associative et une vie d’engagement, qui tisse à nouveau des liens sur l’ensemble de nos territoires.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1840490" ordre_absolu_seance="239" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2458126" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Madame la secrétaire d’État, il me reste à vous remercier. Vous transmettrez mes remerciements également à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable. Le fait que deux membres du gouvernement aient participé à ce débat est un signe de respect pour la représentation nationale, et je vous en remercie.<br/>Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="1840492" ordre_absolu_seance="241" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2458128" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1840493" ordre_absolu_seance="242" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2458129" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Proposition de loi tendant à protéger les mineurs des usages dangereux du protoxyde d’azote ;<br/> Proposition de résolution relative à l’ajout du nom de l’ancien Président de la République Valéry Giscard d’Estaing à celui de l’établissement public des musées d’Orsay et de l’Orangerie ;<br/> Proposition de loi visant à l’accompagnement des enfants atteints de pathologie chronique ou de cancer ;<br/> Proposition de loi visant à mieux lutter contre la fraude à l’identité dans le cadre des mineurs non accompagnés ;<br/> Proposition de loi visant à lutter contre les individus violents lors de manifestations.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1840494" ordre_absolu_seance="243" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2458130" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La</italique>
+            <italique/>
+            <italique>séance</italique>
+            <italique/>
+            <italique>est</italique>
+            <italique/>
+            <italique>levée</italique>
+            <italique/>
+            <italique>à</italique>
+            <italique/>
+            <italique>vingt-trois</italique>
+            <italique/>
+            <italique>heures</italique>
+            <italique/>
+            <italique>quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1840495" ordre_absolu_seance="244" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2458131" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le</italique>
+            <italique/>
+            <italique>directeur</italique>
+            <italique/>
+            <italique>des</italique>
+            <italique/>
+            <italique>comptes</italique>
+            <italique/>
+            <italique>rendus</italique>
+            <br/>
+            <italique>Serge</italique>
+            <italique/>
+            <italique>Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

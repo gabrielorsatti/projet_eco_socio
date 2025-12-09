@@ -1,0 +1,1039 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2022O1N018</uid>
+  <seanceRef>RUANR5L15S2021IDS23250</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20211018160000000</dateSeance>
+    <dateSeanceJour>lundi 18 octobre 2021</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>18</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20210018</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-10-25T17:51:53.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2631601">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 type_debat="PLF" valeur_pts_odj="1">
+        <titreStruct type_debat="PLF" id_syceron="2631605">
+          <intitule>Projet de loi de finances pour 2022</intitule>
+        </titreStruct>
+        <sommaire2 type_debat="PLF">
+          <titreStruct type_debat="PLF" id_syceron="2631606">
+            <intitule>
+              <italique>Première partie (suite)</italique>
+            </intitule>
+          </titreStruct>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2631608">
+              <intitule>Article 18 et débat sur le prélèvement européen</intitule>
+            </titreStruct>
+            <para id_syceron="2631610">M. Clément Beaune, secrétaire d’État chargé des affaires européennes</para>
+            <para id_syceron="2631626">M. Laurent Saint-Martin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+            <para id_syceron="2631639">M. Xavier Paluszkiewicz, rapporteur spécial de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+            <para id_syceron="2631672">Mme Marie-Christine Dalloz, suppléant M. Éric Woerth, président de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+            <para id_syceron="2631667">M. M’jid El Guerrab, rapporteur pour avis de la commission des affaires étrangères</para>
+            <para id_syceron="2631689">M. Jean-Louis Bourlanges, président de la commission des affaires étrangères</para>
+            <para id_syceron="2631699">M. Alexandre Holroyd</para>
+            <para id_syceron="2631709">Mme Sabine Thillaye, présidente de la commission des affaires européennes</para>
+            <para id_syceron="2631719">M. Yannick Favennec-Bécot</para>
+            <para id_syceron="2631746">M. Fabien Roussel</para>
+            <para id_syceron="2631748">Mme Liliana Tanguy</para>
+            <para id_syceron="2631756">Mme Constance Le Grip</para>
+            <para id_syceron="2631768">M. Christophe Jerretie</para>
+            <para id_syceron="2631569">M. Éric Coquerel</para>
+            <para id_syceron="2631583">Mme Lise Magnier</para>
+            <para id_syceron="2631595">M. Michel Castellani</para>
+            <para id_syceron="2631778">Mme Lamia El Aaraje</para>
+            <para id_syceron="2631811">M. Clément Beaune, secrétaire d’État</para>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2631830"> 1056</lienAdt></para>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2631839">
+              <intitule>Après l’article 18</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2631840"> 2136 </lienAdt></para>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2631849">
+              <intitule>Article 19 et état A</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2631850"> 2137</lienAdt></para>
+            <para id_syceron="2631851">M. Olivier Dussopt, ministre délégué chargé des comptes publics</para>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 type_debat="PLF" valeur_pts_odj="2">
+        <titreStruct type_debat="PLF" id_syceron="2631895">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du lundi 18 octobre 2021</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1954283" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2631601" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1954284" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631602" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1954285" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631603" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à seize heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954287" ordre_absolu_seance="5" code_grammaire="APPEL_PLF_1_20" code_style="Titre" code_parole="" sommaire="1" id_syceron="2631605" type_debat="PLF" valeur=" (n[[o]] 4482)">
+      <orateurs/>
+      <texte>Projet de loi de finances pour 2022</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954288" ordre_absolu_seance="6" code_grammaire="APPEL_PLF_1_30" code_style="Titre en ital" code_parole="" sommaire="1" id_syceron="2631606" type_debat="PLF" valeur=" Première partie">
+      <orateurs/>
+      <texte>
+        <italique>Première partie (suite)</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954289" ordre_absolu_seance="7" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="APPEL_PLF_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631607" type_debat="PLF" valeur=" (n[[os]] 4482, 4524)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2022 (n<exposant>os</exposant> 4482, 4524).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954290" ordre_absolu_seance="8" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2631608" type_debat="PLF" valeur=" 18" bibard="" art=" 18" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 18 et débat sur le prélèvement européen</texte>
+      <interExtraction nom_orateur="M. Clément Beaune, quali  secrétaire d'État chargé des affaires européennes" id_acteur="PA774109" id_nomination_oe="PM774111" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954291" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631609" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons, dans les conditions arrêtées par la Conférence des présidents, à l’article 18 relatif à l’évaluation du prélèvement opéré sur les recettes de l’État au titre de la participation de la France au budget de l’Union européenne (n° 4524, tome III, annexe 44 ; n<exposant>o</exposant> 4526, tome IX).<br/>La parole est à M. le secrétaire d’État chargé des affaires européennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954292" ordre_absolu_seance="10" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631610" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Clément Beaune</nom>
+              <acteurRef>PA774109</acteurRef>
+              <qualite>secrétaire d’État chargé des affaires européennes</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je suis très heureux de me trouver, cette année encore, devant l’Assemblée pour lui demander, au nom du Gouvernement, d’autoriser le prélèvement sur les recettes de l’État au profit de l’Union européenne (PSR-UE), qui s’élèverait en 2022 à 26,4 milliards d’euros, soit une contribution légèrement inférieure – de 800 millions d’euros – au montant inscrit en loi de finances initiale (LFI) pour 2021.<br/>Depuis un an, le choix d’une réponse budgétaire commune et ambitieuse en Europe, défendu par la France, a été validé et mis en œuvre. Depuis que j’ai eu l’honneur de présenter devant vous la contribution française au titre de l’année 2021, la solidarité budgétaire en Europe a en effet donné lieu à des avancées majeures : elle est désormais en acte, comme en témoigne le déploiement du plan de relance européen dont nous avions débattu l’an dernier. Depuis un an, ce plan a enfin été adopté par les vingt-sept États membres, selon leurs procédures démocratiques et parlementaires respectives. Ce processus fut long – trop, au goût de certains, et je partage cette impatience –, mais ce fut un temps de débat démocratique et politique : ce ne sont donc pas des lourdeurs bureaucratiques qui ont retardé l’exécution de ce plan de relance si nécessaire.<br/>Les plans de relance de dix-neuf États membres ont déjà été approuvés – les plans de vingt-cinq États ont été soumis à leurs partenaires européens et à la Commission européenne. Des financements à hauteur de plus de 50 milliards d’euros ont déjà été distribués aux États concernés, dont, vous le savez, 5,1 milliards d’euros à la France. La Commission européenne a émis, dans ce cadre, plus de 70 milliards d’euros de dette commune et a réalisé ces derniers jours une première émission verte pour un montant de 12 milliards d’euros. Je tiens à le souligner, car les opérations de ce type, qui répondent à nos différentes ambitions européennes – budgétaire, économique, climatique –, feront progressivement de l’Union européenne le premier émetteur de titres d’endettement vert au monde.<br/>Au-delà du plan de relance, le budget européen bénéficie de moyens préservés, voire renforcés, pour déployer des politiques jugées essentielles et prioritaires par la France, comme la politique agricole commune (PAC), la cohésion, la santé, la recherche, le climat, ou encore le programme Erasmus d’échange d’étudiants ou d’apprentis, qui célébrera ses 35 ans l’an prochain. Ces moyens accrus monteront en puissance au cours de l’année 2022, deuxième année de la programmation budgétaire 2021-2027.<br/>Cette solidarité a permis aux pays européens de résister ensemble à la crise, en retrouvant, pour la plupart d’entre eux, leur niveau d’activité d’avant-crise dès la fin de l’année 2021 – ce qui n’était pas l’horizon espéré l’an dernier. Elle leur permet par ailleurs de se projeter dans une reprise économique solide, juste et écologique. Ces moyens européens, dont je vous demande d’approuver la part française, sont en effet au service d’une ambition politique importante et, je crois pouvoir le dire, française.<br/>Depuis un an, l’Union européenne a poursuivi sa mue et progressé sur les chantiers majeurs défendus par notre pays et d’autres, en affirmant davantage sa souveraineté. Dans tous les domaines, l’Europe a mis fin à une certaine naïveté, même s’il reste à l’évidence un long chemin à parcourir, et a renforcé les actions permettant de rénover ses politiques pour affirmer sa puissance internationale. Elle l’a d’abord fait dans le domaine du numérique, en proposant par exemple de réguler certaines pratiques de marché et d’inciter les grandes plateformes numériques à assumer la responsabilité qu’elles portent au titre des produits qu’elles vendent et des contenus qu’elles diffusent, mettant ainsi fin au mythe de la neutralité des intermédiaires dont profitent actuellement ces acteurs.<br/>En matière environnementale, comme je le mentionnais, l’Europe a agi en proposant le 14 juillet dernier un ensemble de mesures qui lui permettront d’exposer clairement la façon dont elle atteindra ses objectifs climatiques – les plus ambitieux au monde, mais aussi les plus concrets, puisque treize textes législatifs importants traduisent désormais nos ambitions de réduction des émissions de gaz à effet de serre d’ici à 2030 et notre objectif d’atteinte de la neutralité carbone d’ici à 2050.<br/>Mais l’Europe s’est aussi affirmée en matière de commerce international, en proposant enfin un encadrement des subventions versées par les pays tiers aux entreprises qui opèrent sur son marché, ou encore en travaillant à l’instauration d’un devoir de vigilance des entreprises ou à l’interdiction des produits issus du travail forcé. En matière sociale, l’Europe avance sur la question des salaires minimums en son sein pour faire face au dumping social et travaille au renforcement des droits des travailleurs des grandes plateformes numériques.<br/>C’est à cette Europe, imparfaite mais en voie de réforme et capable d’agir dans le monde pour défendre ses intérêts et ses valeurs comme pour mieux protéger ses citoyens et ses entreprises, que je vous demande d’apporter la contribution de la France, qui s’inscrit dans ce contexte politique de réforme.<br/>Ces efforts, nous les poursuivrons au premier semestre 2022 sous la présidence française du Conseil de l’Union européenne. Cette présidence sera une occasion rare, comme il n’en arrive désormais que tous les quatorze ans, de faire progresser l’agenda français – mais partagé, me semble-t-il – en Europe, notamment sur les questions numériques, environnementales et sociales. Plus que jamais, la France devra alors défendre sa vision d’une Europe répondant à un triptyque relance, puissance et appartenance, pour renforcer les actions de l’Europe en faveur de l’investissement dans les transitions numérique et verte et pour promouvoir une Europe capable de projeter son modèle et ses valeurs dans le monde, une Europe rendue non seulement plus proche des citoyens par des réformes concrètes, mais aussi plus proche des territoires, auxquels elle doit apporter des solutions et un soutien tangibles – car la relance passe également par un soutien massif à l’investissement local.<br/>Je crois pouvoir dire, sans arrogance française mal placée que, sous l’action résolue et constante de la France, dans une logique de partenariats renforcés et par-delà les sensibilités politiques, l’Europe change depuis quatre ans. L’année 2022 et le budget auquel je demande à l’Assemblée de bien vouloir autoriser la contribution française seront l’occasion d’approfondir cette vaste transformation. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Saint-Martin" qualite="rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954307" ordre_absolu_seance="21" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631625" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Laurent Saint-Martin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1954308" ordre_absolu_seance="22" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631626" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <acteurRef>PA720878</acteurRef>
+              <qualite>rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Confrontée à une crise sanitaire sans précédent, l’Union européenne a su réagir vite et bien, en partie parce qu’elle a su apprendre des crises précédentes, notamment de la crise de 2008. Elle a ainsi permis à la France et à ses voisins européens de bénéficier d’outils, d’aides d’urgence, ainsi que d’un plan de relance – j’y reviendrai. Il faut néanmoins, désormais, préparer la sortie des mesures d’urgence, comme nous le faisons au plan national en mettant fin au « quoi qu’il en coûte », anticiper les problématiques liées au plan de relance et consolider l’avenir. Aussi, en tant que rapporteur général du budget, consacrerai-je ces quelques minutes de prise de parole à deux enjeux qu’il me paraît essentiel d’aborder : les futures règles d’encadrement des finances publiques au lendemain de la crise et les modalités de remboursement de l’endettement commun.<br/>Concernant, d’abord, l’évolution des règles d’encadrement des finances publiques et des politiques macroéconomiques nationales, rappelons que la clause dérogatoire générale du pacte de stabilité et de croissance (PSC), qui a pour conséquence de suspendre cet encadrement, a été mise en œuvre pour la première fois en 2020 – c’était heureux et nécessaire – et qu’il est prévu d’y mettre un terme à la fin de l’année 2022, c’est-à-dire dans à peine plus d’un an. Il nous faut donc, dès à présent, progresser sur cette question de l’évolution des règles d’encadrement, car le pacte de stabilité et de croissance, qui prévalait jusqu’alors, a montré ses limites avant la crise sanitaire, en conduisant au déploiement de politiques procycliques sans permettre une véritable maîtrise de l’endettement.<br/>Pour ma part, j’estime non seulement que les nouvelles règles européennes devront mieux prendre en considération les conséquences de la crise sur les déficits et les niveaux d’endettement, mais aussi et surtout qu’il faudra encourager l’investissement, en particulier l’investissement productif ayant vocation à décarboner l’économie, pour favoriser une reprise forte et massive de la production en Europe et dans les économies nationales.<br/>S’agissant du second point, à savoir la nécessité de progresser sur les modalités de remboursement de la dette commune émise par la Commission européenne pour financer le plan de relance <italique>Next Génération EU</italique>, rappelons le caractère inédit de ce plan : voilà un peu plus d’un an, nous nous félicitions ici de cette avancée majeure à l’échelle communautaire. Qui aurait cru, il y a dix-huit mois, que l’Europe serait capable de définir aussi rapidement un programme d’endettement commun de 750 milliards d’euros ? La France en sera bénéficiaire, à hauteur de 45 milliards d’euros courants, dont 40 milliards qui seront directement consacrés au financement de son plan de relance, lequel s’articule autour des trois priorités que chacun ici connaît désormais : la transition écologique, la compétitivité et la cohésion nationale.<br/>Selon les termes de la décision relative au système des ressources propres de l’Union européenne du 14 décembre 2020, les fonds empruntés dans le cadre du plan de relance devront être remboursés à partir de 2028, ou de manière anticipée si de nouvelles ressources propres sont introduites d’ici là. J’insisterai sur ce dernier point.<br/>Je voudrais que chacun ait à l’esprit le fait qu’en l’absence de nouvelles ressources propres, le PSR-UE que nous votons chaque année serait évidemment amené à augmenter, puisque nous devrions contribuer, à due concurrence de notre revenu national brut (RNB), au remboursement de l’endettement communautaire. Cette hausse, qui représenterait environ 2,5 milliards d’euros sur trente ans, ne serait pas une mince affaire sur le plan budgétaire. Il est donc aussi dans notre intérêt d’inviter l’Europe à progresser sur la question des ressources propres. Dans cette perspective, la Commission européenne a été invitée à faire, au premier semestre 2021, des propositions relatives à l’introduction d’un mécanisme d’ajustement carbone aux frontières, d’une taxe sur le secteur du numérique et d’une ressource propre fondée sur le système d’échange de quotas d’émission de l’Union européenne (SEQE-UE), qui auraient vocation à s’appliquer en 2023.<br/>Il a également été demandé à la Commission européenne de faire, d’ici à 2024, des propositions relatives à l’instauration d’une taxe sur les transactions financières (TTF). Ainsi, lorsque nous répondons, dans le cadre des longs débats qui se tiennent régulièrement sur ces bancs sur la création de la TTF, que l’enjeu est désormais européen, nous renvoyons précisément à la nécessité de dégager de nouvelles ressources propres européennes afin de rembourser l’endettement commun.<br/>Compte tenu des enjeux budgétaires qui y sont liés, la question du remboursement du plan européen devient majeure. Monsieur le secrétaire d’État, nous souhaiterions bien sûr savoir non seulement quel sera le nouvel agenda de la Commission européenne, mais aussi dans quelle mesure la présidence française du Conseil de l’Union européenne, pendant le premier semestre de l’année 2022, sera au rendez-vous de ces deux grandes questions que sont l’encadrement des finances publiques et le remboursement de la dette.<br/>Je propose à l’Assemblée nationale d’approuver l’article 18 du projet de loi de finances pour 2022, qui fixe à 26,4 milliards d’euros le montant de notre contribution en 2022 au fonctionnement et aux actions de l’Union européenne, soit sensiblement le même montant qu’en 2021. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Xavier Paluszkiewicz, quali  rapporteur spécial de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA720402" id_nomination_oe="-1" id_nomination_op="-722952" id_mandat="PM722952">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954357" ordre_absolu_seance="31" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631638" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Xavier Paluszkiewicz, rapporteur spécial de la commission des finances, de l’économie générale et du contrôle budgétaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954358" ordre_absolu_seance="32" id_acteur="PA720402" id_mandat="PM722952" id_nomination_oe="-1" id_nomination_op="-722952" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631639" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Paluszkiewicz</nom>
+              <acteurRef>PA720402</acteurRef>
+              <qualite>rapporteur spécial de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes réunis pour débattre de l’article 18 du projet de loi de finances pour 2022, cinquième mission budgétaire de l’État, relatif au prélèvement sur recettes au profit de l’Union européenne. Au vu du projet de budget européen en cours de discussion, la contribution française, inscrite au projet de loi de finances, est estimée à 26,4 milliards d’euros en 2022. Cette ligne budgétaire est stable par rapport au montant qui avait été prévu, ce dont nous pouvons nous satisfaire. C’est le premier point que je souhaitais aborder avec vous puisque cette grande stabilité du montant est une excellente nouvelle. Nous brisons là en effet une spirale haussière, le prélèvement sur recettes s’étant apprécié de 10 milliards d’euros sur les cinq dernières années.<br/>Je souhaite également évoquer le caractère historique de l’actualité budgétaire européenne. Aux dépenses inscrites au budget de l’Union s’ajoutent en effet les premiers versements aux États membres au titre du plan de relance <italique>Next Generation EU</italique> lancé en 2021 et qui se déploiera pleinement en 2022. Nous pouvons nous en féliciter, dans la mesure où la France est le troisième pays bénéficiaire de ce plan de derrière l’Espagne et l’Italie. Nous percevrons prochainement 40 milliards d’euros au titre du règlement de la facilité pour la reprise et la résilience (FRR), instrument clé de ce plan tant attendu et si nécessaire. Notre pays a reçu le 19 août dernier un premier versement anticipé de 5,1 milliards d’euros. Pour débloquer les prochaines échéances, il est prévu que la France présente à Bruxelles les premières réalisations de ses engagements inscrits dans ce même plan de relance.<br/>Notons que ces 40 milliards d’euros représenteront 40 % du montant des mesures du plan France relance, au bénéfice de la transition écologique, de la compétitivité et de la cohésion sociale et territoriale. J’estime nécessaire que l’Europe puisse parler toujours davantage aux Européens, <italique>a fortiori</italique> à l’ensemble des Français. C’est pourquoi nous pouvons nous réjouir de cette véritable valeur ajoutée européenne, considérant que les attentes des citoyens à l’égard de l’Europe, de surcroît en lien avec les questions écologiques, ont considérablement évolué.<br/>Enfin, l’instauration de nouvelles ressources propres, qui conditionnent assurément l’avenir de l’Union, est une question majeure à laquelle les États membres devront répondre très rapidement. L’année 2021 a marqué une étape avec le prélèvement d’une nouvelle contribution au titre des déchets d’emballages en plastique non recyclés, laquelle ne suffira évidemment pas à répondre aux immenses enjeux de demain. Les États membres – en particulier la France – ont, dès le départ, identifié la nécessité de s’entendre sur de nouvelles ressources propres pour permettre le remboursement des crédits du plan de relance à partir de 2028, faute de quoi les contributions annuelles nationales augmenteraient de 2,5 milliards d’euros par an.<br/>Monsieur le secrétaire d’État, en m’adressant à vous, je souhaite répondre aux déclinistes de l’Europe, à ceux qui repeignent le passé, noircissent le présent et diabolisent l’avenir. À partir de janvier 2022, dans quelques semaines, la France assurera la présidence tournante du Conseil de l’Union européenne – fait rare et ô combien important puisque la prochaine présidence aura lieu en 2035. Ce sera l’occasion pour notre pays de contribuer à faire avancer ces sujets. Le discours de la Sorbonne résonnant encore dans nos têtes, je ne doute pas que, fort de l’influence du Président de la République au niveau européen, et de la vôtre, vous saurez saisir cette occasion formidable pour pousser un agenda volontariste. Je caresse l’espoir que cette présidence du Conseil de l’Union dépassera nos exigences de Gaulois réfractaires au sein de la vie communautaire.<br/>Je sais, et suis même convaincu, que le Président de la République, lequel ne peut décider de tout, saura être à la hauteur des défis qui nous attendent, lui qui a fait preuve d’un activisme sans pareil pour créer le plan de relance en mettant toutes les idées nouvelles sur la table et en poussant les dossiers les plus difficiles, en matière de défense, de sécurité ou encore de politique migratoire, pour ne citer que ces exemples.<br/>Je saisis également l’occasion qui m’est donnée pour évoquer la décision de la Cour constitutionnelle polonaise de remettre en question la primauté du droit de l’Union européenne, décision qui apparaît sans conteste comme une atteinte grave à la construction européenne et un risque majeur de déstabilisation. Soyons vigilants à tous points de vue même si les images des dizaines de milliers de manifestants polonais soutenant l’appartenance de leur pays à l’Union européenne sont des raisons d’espérer. Rappelons-nous que si le droit dérange parfois, il protège le plus souvent. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954369" ordre_absolu_seance="39" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="-723332" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631650" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marie-Christine Dalloz" qualite="suppléant M. Éric Woerth, président de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA332523" id_nomination_oe="-1" id_nomination_op="PM772448" id_mandat="PM722792">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954369" ordre_absolu_seance="40" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631671" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie-Christine Dalloz, suppléant M. Éric Woerth, président de la commission des finances, de l’économie générale et du contrôle budgétaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954369" ordre_absolu_seance="41" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="PM772448" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631672" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Dalloz</nom>
+              <acteurRef>PA332523</acteurRef>
+              <qualite>suppléant M. Éric Woerth, président de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour l’année 2022, l’article 18 du projet de loi de finances fixe le montant du prélèvement sur recettes en faveur de l’Union européenne à 26,4 milliards d’euros, un montant en léger retrait par rapport à celui arrêté pour 2021, qui devrait être, d’après la correction apportée cet été dans la première loi de finances rectificative pour 2021, de 26,5 milliards. Cette légère baisse ne saurait cependant faire oublier la très forte progression qu’a connue ce prélèvement sur recettes depuis 2019. Il s’élevait alors à 21 milliards d’euros, ce qui représente une augmentation de 25 % en quatre ans. Et si l’on regarde un peu en arrière, je rappelle que son montant en 2008 était de 16,6 milliards : c’est donc une hausse de 10 milliards que nous aurons connue en quatorze ans. Ce prélèvement représente désormais près de 7 % des dépenses nettes du budget de l’État français, soit un montant supérieur au budget de la mission <italique>Sécurités</italique>, et seules quelques missions budgétaires très importantes le dépassent : <italique>Solidarité, insertion et égalité des chances</italique>, <italique>Recherche et enseignement supérieur</italique>, <italique>Défense</italique> et <italique>Enseignement scolaire</italique>.<br/>Plusieurs facteurs ont contribué à cette forte croissance du prélèvement français ces dernières années, en particulier l’augmentation des rabais consentis à certains pays à l’occasion du nouveau cadre financier pluriannuel 2021-2027. Ce phénomène a mécaniquement conduit à accroître la part de la France dans la contribution au budget de l’Union européenne. Nous sommes en effet le principal contributeur à ces corrections mais ne bénéficions d’aucun rabais. La France figure également parmi les tout premiers contributeurs nets au budget de l’Union européenne. Alors qu’elle abonde les ressources communautaires à hauteur de 18 %, les dépenses de l’Union européenne bénéficiant à la France sont de l’ordre de 11 %.<br/>Si notre contribution à la maison commune est donc importante, elle n’en permet pas moins de mener une action qui, dans le contexte de la crise, s’est révélée particulièrement utile pour accompagner les États aussi bien dans la réponse sanitaire, dès 2020, que dans la construction des plans nationaux de relance, en 2021. Les premiers versements aux États membres, dont les plans nationaux de relance et de résilience ont été validés cet été, ont représenté 51,4 milliards d’euros et ont concerné seize États membres. La France, qui a déjà reçu, à ce titre, 5,1 milliards d’euros, devrait au total recevoir 39,4 milliards de subventions. Ces montants sont certes élevés mais, une fois encore, il faut les remettre en perspective : l’Espagne, avec 69,5 milliards d’euros, et l’Italie, avec 68,9 milliards, recevront une part bien plus importante de l’effort européen, la clé de répartition retenue ayant été conçue en fonction d’une mesure de l’impact de la crise sur chaque pays.<br/>Une question fondamentale, et non résolue à ce jour, est celle des ressources propres à privilégier pour financer l’engagement de l’Union européenne dans le financement de la relance de l’économie de chacun de nos pays. Comme en avait décidé le Conseil européen, c’est le produit des nouvelles ressources propres créées après 2021 qui doit être utilisé pour assurer le remboursement des emprunts contractés par l’Union européenne pour financer la relance. Nous avons tout intérêt à développer des ressources propres en carbone, dont les recettes pourraient s’avérer très importantes. La Commission européenne a d’ailleurs proposé le 14 juillet 2021 l’instauration d’un mécanisme d’ajustement carbone aux frontières et d’un système d’échange de quotas d’émission carbone aux frontières. Ces ressources propres favorables à l’environnement prolongeraient la démarche et l’esprit qui ont présidé à la mise en place de la taxe sur les déchets non recyclés.<br/>Il ne faudrait pas toutefois que la création de ces taxes conduise à alourdir la pression fiscale pesant sur les consommateurs européens. L’instauration d’une taxe sur les services numériques comme autre ressource propre n’est pas souhaitable dans le contexte de l’instauration, au niveau de l’Organisation de coopération et de développement économiques (OCDE), d’une imposition mondiale minimale des grandes entreprises multinationales. Il est vrai – et cela mérite d’être rappelé – que les entreprises numériques connaissent un taux d’imposition effectif plus de deux fois inférieur à celui des entreprises traditionnelles. Cependant l’approche retenue par l’OCDE et le G20 est de ne pas se contenter de cibler l’économie numérique mais au contraire de trouver une solution globale. L’Union européenne a tout intérêt à voir aboutir la réforme engagée à l’échelle de l’OCDE ; le fait de ne pas créer de ressource propre numérique devrait y contribuer.<br/>Nous nous trouvons face au double enjeu de réussir, dans le cadre de l’OCDE, la réforme de l’imposition mondiale minimale des entreprises et, dans le cadre de l’Union européenne, la création de nouvelles ressources propres. Si jamais la réforme des ressources propres achoppe, ce sont les États membres qui devront directement accroître leurs contributions respectives au budget communautaire et assurer ainsi le remboursement des emprunts contractés par la Commission européenne. Compte tenu de la part de la France dans cet effort collectif, ce serait un échec pour notre pays. À la veille de la présidence française de l’Union européenne, nous devons avoir conscience de ces enjeux et contribuer à les relever avec succès. <italique>(Applaudissements sur les bancs du groupe LR et sur quelques bancs du groupe Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. M'jid El Guerrab" qualite="rapporteur pour avis de la commission des affaires étrangères" id_acteur="PA720996" id_nomination_oe="-1" id_nomination_op="-2892536" id_mandat="PM723134">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954384" ordre_absolu_seance="47" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631665" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. M’jid El Guerrab, rapporteur pour avis de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1954386" ordre_absolu_seance="48" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-2892536" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631667" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <acteurRef>PA720996</acteurRef>
+              <qualite>rapporteur pour avis de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>« L’Europe est trop grande pour être unie, mais elle est trop petite pour être divisée. Son double destin est là », disait le célèbre géographe Daniel Faucher. Ce prélèvement se veut ainsi le symbole de la solidarité de la France envers l’unité de l’Union européenne. Il s’élève, pour cette deuxième année du cadre financier pluriannuel 2021-2027, à 26,4 milliards d’euros, un montant stable par rapport à celui qui a été voté l’an dernier.<br/>Il traduit le tournant historique effectué par l’Union à la suite du Conseil européen de juillet 2020, qui a levé trois verrous budgétaires : la limitation du budget européen à 1 % du produit intérieur brut européen, l’équilibre entre les dépenses et les recettes et le gel de toute nouvelle ressource propre. Avec son plan de relance <italique>Next generation EU</italique> financé par un emprunt commun, l’Union a posé les bases d’une véritable capacité budgétaire européenne – même si elle est, à ce stade, encore temporaire.<br/>L’Union européenne est désormais confrontée à trois enjeux majeurs : les travaux pratiques, avec la concrétisation sur le terrain du plan de relance ; la création de nouvelles ressources propres, qui devront permettre de rembourser l’emprunt et de mettre un terme à la logique à courte vue du juste retour financier ; l’après plan de relance, avec la réflexion nécessaire sur la pérennisation de l’instrument d’endettement en commun et la réforme du pacte de stabilité et de croissance.<br/>Premièrement, à court terme, l’enjeu est le déploiement rapide du plan de relance européen sur le terrain. En France, il s’agit d’une contribution essentielle au plan de relance français : sur les 100 milliards d’euros prévus du plan France relance, 40 milliards proviendront de <italique>Next generation EU</italique>.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954413" ordre_absolu_seance="52" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631683" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. M’jid El Guerrab</nom>
+            <acteurRef>PA720996</acteurRef>
+            <qualite>rapporteur pour avis</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Ces subventions permettront de financer la transition énergétique et numérique. La quasi-totalité du dispositif MaPrimRénov’ sera par exemple financée par les fonds du plan de relance européen. Je rappelle toute l’importance de décarboner notre économie en investissant fortement dans les énergies renouvelables. Nous ne pouvons pas y arriver tout seuls : il est nécessaire de mutualiser nos plans de recherches sur ce thème. C’est d’ailleurs le sens de ma proposition de résolution, adoptée l’année dernière, pour la création d’une Communauté méditerranéenne des énergies renouvelables, autour de la France, de l’Espagne, de l’Italie, de la Tunisie, de l’Algérie et du Maroc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954414" ordre_absolu_seance="53" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-2169402" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631684" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. M’jid El Guerrab</nom>
+            <acteurRef>PA720996</acteurRef>
+            <qualite>rapporteur pour avis</qualite>
+          </orateur>
+        </orateurs>
+        <texte>L’avancée budgétaire que constitue <italique>Next Génération EU</italique> s’est, en outre, accompagnée du renforcement de la défense des valeurs de l’Union, à un moment où elles sont de plus en plus contestées, notamment en Pologne et en Hongrie. L’Union s’est dotée d’un mécanisme inédit de conditionnalité des fonds européens au respect de l’État de droit, dont l’applicabilité doit être précisée par un arrêt imminent de la Cour de justice de l’Union européenne (CJUE). Potentiellement, il s’agit d’un instrument puissant au service de l’État de droit : il doit être mis en œuvre au plus vite. La Commission a indiqué que les premières procédures seraient engagées dès cet automne, après la décision de la CJUE. Dans la même logique, l’approbation des plans de relance polonais et hongrois semblerait particulièrement inopportune à un moment où l’Union européenne est contestée dans son essence même.<br/>Deuxièmement, après la révolution budgétaire inédite de 2020, l’Union européenne doit transformer l’essai en pérennisant la capacité d’investissement dont elle a posé les bases. Cela passe, à mon sens, par la pérennisation de l’instrument d’emprunt en commun ou par l’assouplissement du pacte de stabilité et de croissance. Formons le vœu que la prochaine coalition gouvernementale allemande prête une oreille attentive à ces propositions !<br/>Enfin, mes prédécesseurs à cette tribune l’ont dit, cette transformation de l’essai passe aussi par la création nécessaire de nouvelles ressources propres, qui seront l’une des priorités de la France lorsqu’elle présidera le Conseil de l’Union européenne, comme l’a rappelé M. le secrétaire d’État. Si le chemin est semé d’embûches, les avancées majeures et récentes relatives à la fiscalité des multinationales nous montrent que les positions ne sont pas figées et que nous pouvons obtenir des résultats importants.<br/>Le président Jean-Louis Bourlanges a rappelé en commission des affaires étrangères que les difficultés des négociations en matière budgétaire et fiscale montrent les limites de la primauté de l’intergouveremental et de la règle de l’unanimité. Dans ces domaines, les institutions européennes doivent être plus démocratiques et plus efficaces. À l’heure de la Conférence sur l’avenir de l’Union européenne et à la veille de la présidence française du Conseil de l’Union européenne, ayons l’audace de mettre le sujet sur la table. <italique>(Applaudissements sur les bancs du groupe LaREM. – M. le président de la commission des affaires étrangères, Mme la présidente de la commission des affaires européennes, M. le rapporteur général et M. le rapporteur spécial applaudissent également.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Louis Bourlanges, quali  président de la commission des affaires étrangères" id_acteur="PA721608" id_nomination_oe="-1" id_nomination_op="PM780013" id_mandat="PM723332">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954418" ordre_absolu_seance="57" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631688" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le président de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954419" ordre_absolu_seance="58" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631689" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le vote que nous allons émettre est à la fois important et frustrant. En réalité, monsieur le secrétaire d’État, vous êtes ici le porte-parole brillant d’un excellent dossier et, en même temps, vous le savez, le représentant d’un système qui est très imparfait, système dont vous n’êtes pas responsable, mais dans lequel vous êtes, comme nous, amené à vous mouvoir.<br/>Le dossier a été parfaitement analysé par les orateurs précédents. Le rapporteur pour avis de la commission des affaires étrangères vient d’évoquer le fait que le prélèvement qui nous est proposé – en réalité, le budget qu’il nous est proposé d’approuver – faisait sauter trois verrous : c’est vrai ! Le premier est celui du 1 %. Pourquoi ce chiffre fétiche, sur lequel chacun s’était battu jusqu’à la dernière cartouche – non, heureusement, jusqu’à l’avant-dernière cartouche –, chiffre qui a sauté d’un coup pour le bien général ? Comment voulez-vous construire une Europe avec 1 % de prélèvement obligatoire ?<br/>Le deuxième verrou est celui de l’endettement. Le mot « dette » n’est pas un gros mot, sauf lorsque la dette ignore le cycle. Le gros mot, c’est de faire de l’endettement quand tout va bien, ou de faire du suréquilibre budgétaire quand tout va mal. En l’espèce, nous avons estimé, les uns et les autres, en Europe, qu’un fort investissement dans des domaines dont nous reconnaissons la priorité – l’adaptation du système économique et l’adaptation écologique de notre économie – était nécessaire. Ce sont des choix dont nous sommes collectivement porteurs en Europe.<br/>Le troisième verrou est celui de l’État de droit. Il s’agissait à l’origine d’une vaste blague : on avait inventé l’article 7 du traité sur l’Union européenne, mais nous le regardions comme une poule regarde un couteau, sans savoir qu’en faire. Ce qui a été mis au point dans des conditions très laborieuses et très difficiles, mais intelligentes, dans l’adaptation du plan de relance, est un mécanisme qui nous permet de sanctionner cette partie des infractions à l’État de droit qui relèveraient de la mauvaise gestion financière, et ce n’est pas rien.<br/>Il n’y a pas de hasard si, dans un État dont nous apprécions par ailleurs le partenariat et l’amitié, des juges aux ordres mettent en cause aujourd’hui la suprématie du droit communautaire, suprématie pourtant indiscutable, car si elle n’existe pas, il n’y a pas de droit communautaire. Si le droit du contrat est inférieur aux droits des parties, comment imaginer qu’il reste un droit du contrat ? Derrière cela, il y a simplement la mise en cause des principes fondamentaux du respect de l’État de droit. Si ça couine ici et là, c’est bien parce que nous mettons au point un instrument qui nous permettra de beaucoup mieux contrôler qu’hier ceux qui manqueraient au respect des règles et des procédures.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954425" ordre_absolu_seance="63" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631695" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <acteurRef>PA720692</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et la souveraineté des nations ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954426" ordre_absolu_seance="64" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631696" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Tout cela est très bien, mais le système est imparfait, nous le savons. Nous discutons d’un dispositif tout à fait insatisfaisant. Qu’est que c’est que ce prélèvement obligatoire ? Il s’agit d’un système dans lequel il n’y a pas véritablement d’annualité budgétaire car, en réalité, tout est déterminé par le cadre financier pluriannuel (CFP), pas plus qu’il n’y a d’universalité, car les dépenses ne sont pas spécialisées. Certes, le budget annuel procède de spécialisations, mais il est encadré dans un cadre financier pluriannuel qui le détermine et qui établit, rubrique par rubrique, ce que doivent être les dépenses. Ce système méconnaît le Parlement, non seulement le nôtre, mais aussi le Parlement européen qui est amené à adopter le CFP par adhésion, sans réels pouvoirs de contrôle.<br/>Monsieur le secrétaire d’État, il faut que cela cesse. Nous savons bien que la présidence française du Conseil de l’Union européenne ne pourra pas tout faire ; nous savons bien que vous arrivez les bras chargés des « enfants des autres », comme dirait André Tardieu, et que nos enfants seront remis aux autres, mais, malgré tout, il faut en finir avec ce verrou démocratique. L’Union européenne est beaucoup plus démocratique qu’on le dit, sauf dans le domaine fiscal et budgétaire. Faites sauter ce verrou ; faites sauter cette verrue ! <italique>(Applaudissements sur les bancs des groupes LaREM et Dem. – Mme la présidente de la commission des affaires européennes et M. le rapporteur général applaudissent également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alexandre Holroyd quali " id_acteur="PA721150" id_nomination_oe="-1" id_nomination_op="-9401444" id_mandat="PM723188">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954428" ordre_absolu_seance="66" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631698" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alexandre Holroyd, rapporteur d’information de la commission des affaires européennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954429" ordre_absolu_seance="67" id_acteur="PA721150" id_mandat="PM723188" id_nomination_oe="-1" id_nomination_op="-9401444" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631699" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alexandre Holroyd</nom>
+              <acteurRef>PA721150</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aux premières heures de cette législature, avec notre collègue Michèle Tabarot, j’avais présenté une proposition de résolution relative à la gouvernance de la zone euro. Plus de trois ans après, pour faire écho à Joe Dassin, un siècle et une éternité semblent s’être écoulés. En 2018, nous appelions la Commission européenne à engager une réflexion sur la nature et l’efficacité des règles économiques et budgétaires, et à renforcer les mécanismes de solidarité économique. À l’heure où nous entamons l’examen de la contribution française pour 2022 au budget européen, plusieurs pas de géants – fruits du volontarisme de la France et de la crise que nous traversons – ont profondément bouleversé la donne.<br/>D’abord, l’Union européenne a, pour la première fois de son histoire, entériné une notion essentielle que jusqu’alors elle refusait d’admettre : une politique budgétaire commune, ou du moins une coordination, est la condition <italique>sine qua non</italique> de la survie de l’union monétaire. C’est l’essence même du plan de relance européen de 750 milliards d’euros, obtenu par le Président de la République après d’âpres négociations.<br/>Ensuite, l’existence d’une véritable solidarité économique européenne est indissociable d’une telle coordination budgétaire. Dit autrement, l’avenir de notre union monétaire est corrélé à notre capacité à corriger ses effets sur les économies nationales. C’est la logique même des 390 milliards d’euros de subventions qui composent, entre autres, le plan de relance européen, C’est aussi la justification de l’action déterminante de la Banque centrale européenne (BCE) qui, pour la première fois, a adopté une approche différenciée pour soutenir les économies nationales grâce à ses plans de rachats.<br/>C’est donc à l’aune d’une nouvelle ère que nous sommes amenés à examiner une contribution française qui, paradoxalement, varie peu pour des raisons qui ont déjà été évoquées à cette tribune. Dans ce contexte, il me paraît important de regarder la lune plutôt que le doigt. Si cette contribution française n’évolue pas de façon plus significative et si elle n’est pas proportionnée aux avancées monumentales qui ont eu lieu dans les derniers dix-huit mois, c’est en raison d’un décalage technique. Ces avancées ont bien des incidences pour nos finances publiques, des incidences majeures même. Qu’elles soient décalées justifie d’autant plus que nous les anticipions et que nous en débattions dès aujourd’hui.<br/>En 2027, comme le rapporteur général l’a noté, à défaut de changement structurel du financement du budget de l’Union, la contribution française augmentera de façon très substantielle. Cette augmentation se fera selon les modalités existantes, après un calcul fondé sur le revenu national brut tellement savant que peu y retrouvent leur latin à défaut de le perdre.<br/>Les progrès accomplis dans les dix-huit derniers mois au niveau européen, grâce à la mobilisation de la France, ont été, pour ainsi dire, inespérés. Mais ils ont un coût : ils nous condamnent à redoubler d’ambitions pour les années qui suivent, celles qui s’ouvrent sur une présidence française. Nous avons entériné l’idée d’une politique budgétaire européenne et celle de solidarité économique : nous devons maintenant réussir à pourvoir notre Union des moyens de nos ambitions en lui allouant des ressources propres. Il est impératif de progresser s’agissant de deux ressources propres d’ampleur : celles issues de la réforme du système d’échange de quotas d’émissions et de la création d’un mécanisme d’ajustement carbone aux frontières. Le système d’échange et le mécanisme d’ajustement sont essentiels pour remplir nos objectifs de transition écologique en s’assurant que cela ne se fasse pas aux dépens de nos économies et de nos industries. Tous deux doivent être amenés à contribuer au prochain budget pluriannuel européen.<br/>Au-delà de ces deux pistes de nouvelles ressources propres, il nous faut continuer à rechercher des ressources pérennes, notamment en matière d’impôt sur les sociétés, domaine dans lequel peu de progrès ont été enregistrés ces dernières années. L’accord obtenu à l’OCDE sur la réforme de la fiscalité internationale des entreprises doit être l’occasion de progresser rapidement sur ce sujet.<br/>Les immenses avancées de ces dix-huit mois nous imposent deux fois plus d’ambition pour les années à venir. Monsieur le secrétaire d’État, vous avez été un acteur incontournable de ces avancées : la majorité sera à vos côtés pour ce qui concerne celles de demain. <italique>(Applaudissements sur les bancs du groupe LaREM. – M. le président de la commission des affaires étrangères, M. le rapporteur spécial et M. le rapporteur pour avis de la commission des affaires étrangères applaudissent également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954437" ordre_absolu_seance="75" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631707" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <acteurRef>PA720878</acteurRef>
+              <qualite>rapporteur général</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Excellent, comme d’habitude !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sabine Thillaye, quali  présidente de la commission des affaires européennes" id_acteur="PA719822" id_nomination_oe="-1" id_nomination_op="PM732408" id_mandat="PM722772">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954438" ordre_absolu_seance="76" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631708" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sabine Thillaye, présidente de la commission des affaires européennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1954439" ordre_absolu_seance="77" id_acteur="PA719822" id_mandat="PM722772" id_nomination_oe="-1" id_nomination_op="PM732408" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631709" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sabine Thillaye</nom>
+              <acteurRef>PA719822</acteurRef>
+              <qualite>présidente de la commission des affaires européennes</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Voilà l’heure du traditionnel débat annuel sur le prélèvement sur recettes au profit de l’Union européenne. Malheureusement, il s’agit du seul débat sur les questions européennes véritablement institutionnalisé dans notre assemblée. Après le président de la commission des affaires étrangères, j’ai envie de dire que l’exercice est important mais, ô combien, frustrant : nous devrions débattre de sujets européens bien plus souvent devant un hémicycle bien plus rempli.<br/>Comme toujours, concernant l’Union européenne, derrière les chiffres se cachent les grandes décisions politiques. Je rappelle seulement deux chiffres, pour éviter les répétitions : 30 % des dépenses consacrées à la lutte contre le changement climatique, un fléchage nécessaire, mais aussi et surtout aussi 143,5 milliards qui s’ajoutent au budget ordinaire 2022 grâce au plan de relance européen. Souvenez-vous que certains disaient que les État frugaux ne dépasseraient jamais leur <italique>a priori</italique> et que la solidarité européenne avait vraiment ses limites : en voici le démenti concret, même si l’accouchement a été difficile.<br/>Je rappelle aussi que 13 %, c’est le pourcentage de préfinancement que nous avons déjà perçu de la part de l’Union européenne après la validation de notre plan de relance nationale. Dès lors, si nous débattons du montant de l’argent prélevé au profit de l’Union européenne, ayons aussi la justesse politique de rappeler les aides dont nous bénéficions. À l’approche d’une période délicate, on entend toujours une petite musique sur le juste retour des sommes versées et autour des questions budgétaires se cristallisent des enjeux politiques qui restent forts. Nous devons être très attentifs à cet égard et ne pas nous focaliser seulement sur la Hongrie et sur la Pologne, même s’il est bien normal d’y prêter attention, mais aussi porter notre regard un peu partout parce que la mise en cause de la primauté du droit de l’Union n’est pas seulement le fait de ces deux États.<br/>Soyons vraiment très vigilants : nous avons la chance de vivre dans un espace où on essaye de mettre en place les mêmes règles qui doivent servir à la confiance mutuelle, non seulement entre États membres et entre citoyens, mais aussi nécessairement dans le monde des entreprises parce qu’elles en ont besoin pour investir. Cette confiance mutuelle doit jouer également dans le cadre du remboursement du plan de relance : la France a jusqu’à 2028 pour définir les modalités de ce remboursement, mais déjà la feuille de route concernant les ressources propres a pris du retard. Nous l’avons promis et la France contribuera à rembourser les 750 milliards d’euros, mais comment tenir cet engagement sans accord des États membres sur la garantie de nouvelles ressources ? Le mécanisme d’ajustement carbone aux frontières est au cœur du sujet, et la réforme du système européen d’échange de quotas d’émissions doit être traitée au niveau européen. Mais l’annonce d’un accord à l’OCDE sur la réforme de la fiscalité internationale garantissant un taux minimal d’imposition sur les sociétés prouve qu’il est possible de se mettre d’accord sur des sujets difficiles politiquement.<br/>Je conclurai en revenant sur le cadre général de ce débat comme au début de mon intervention : devons-nous, chaque année, attendre la niche européenne du projet de loi de finances pour discuter d’Europe dans cet hémicycle ? Chers collègues, je vous assure que bien des sujets européens mériteraient une plus grande attention de notre part, beaucoup d’entre eux ont d’ailleurs déjà été évoqués depuis le début de ce débat et j’espère que la présidence française du Conseil de l’Union européenne en sera encore l’occasion. <italique>(Applaudissements sur les bancs du groupe LaREM. – M. le rapporteur général, M. le rapporteur spécial et M. le rapporteur pour avis applaudissent également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954472" ordre_absolu_seance="82" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631717" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Bravo ! C’est parler en Européenne !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Yannick Favennec-Bécot" id_acteur="PA267042" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722910">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954473" ordre_absolu_seance="83" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631718" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons à l’expression des groupes.<br/>La parole est à M. Yannick Favennec-Bécot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954474" ordre_absolu_seance="84" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631719" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec-Bécot</nom>
+              <acteurRef>PA267042</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« Le monde se sentirait mieux s’il pouvait compter sur l’Europe, une Europe s’exprimant d’une seule voix […] pour faire entendre, chaque fois que c’est nécessaire, un message de tolérance et de modération, d’ouverture sur les différences, et de respect des droits de l’homme. » Cette phrase, prononcée par Valéry Giscard d’Estaing lors de la Convention sur l’avenir de l’Europe, en 2002, trouve aujourd’hui un écho particulier alors que, moins d’un an après sa disparition, la France a été à l’initiative d’une conférence sur l’avenir de l’Europe dont les résultats seront présentés lors de la présidence du Conseil de notre pays au semestre prochain. Le groupe UDI et indépendants a d’ailleurs demandé l’organisation d’un débat au sein de cet hémicycle sur ce sujet ô combien important et nous espérons, monsieur le secrétaire d’État, qu’une telle initiative pourra aboutir.<br/>À la veille de cet événement majeur que constitue la présidence française, les sujets d’actualité pour l’Europe ne manquent pas, à commencer par la flambée des prix de l’énergie qui touche durement nos concitoyens depuis plusieurs semaines. Si les apports du marché européen de l’énergie sont indéniables, il s’agit aussi pour la France de porter une voix raisonnable, alors qu’aujourd’hui tous les citoyens paient le prix d’un marché européen mal préparé. Oui, cette crise doit nous pousser à la sobriété, à la rénovation de nos logements et à la construction rapide d’énergies décarbonées, mais aussi à réfléchir à une révision du marché, en commençant par s’interroger sur cette logique du prix marginal qui conduit les consommateurs à payer le prix du mode de production le plus cher, à savoir le gaz, alors que celui-ci ne représente que 20 % de la production européenne. Notre pays doit également pousser à la création d’une centrale européenne d’achat du gaz pour éviter la dispersion des contrats dans un marché totalement connecté. Sans ces changements, nous prenons tous le risque de voir certains de nos concitoyens remettre en cause une politique ambitieuse de l’Europe en matière environnementale, laquelle doit pourtant être mise en œuvre au plus vite.<br/>Un des volets de la politique européenne environnementale concerne plus particulièrement notre agriculture. De nombreuses voix s’élèvent contre la stratégie dite « De la ferme à la fourchette », qui sera prochainement examinée au Parlement européen. Les objectifs de réduction des pesticides et des intrants, de même que la croissance du bio, sont plus que louables, mais nous devons rester très vigilants à ce que ces mesures ne pénalisent pas nos agriculteurs et surtout à ce que les gains environnementaux de cette stratégie ne soient pas contrebalancés par une augmentation d’importations dont on ne contrôlerait pas l’origine. L’indépendance alimentaire de l’Europe a été durement acquise dans la période d’après-guerre, la remettre en cause serait prendre le risque d’exposer l’Europe à une hausse de prix comme dans le secteur de l’énergie voire, pire encore, à des pénuries. Il est temps d’arrêter de faire de grandes promesses au public sans donner les moyens aux agriculteurs de trouver des pratiques de substitution. On peut à cet égard, pour en venir plus précisément à la question budgétaire, regretter que les fonds de la PAC aient de moins en moins d’importance dans le cadre financier européen, alors que les efforts que l’on demande aux agriculteurs n’ont jamais été aussi importants – je le mesure chaque semaine dans mon département de la Mayenne.<br/>Concernant la contribution française pour cette année 2022, si l’on peut se réjouir de sa stabilité en comparaison avec l’année précédente, je souhaite vous interpeller sur un point, monsieur le secrétaire d’État : nous avons été alertés de la baisse des budgets Erasmus, et des universités notamment vont perdre plusieurs centaines de milliers d’euros qui permettent à des jeunes de voyager dans ce cadre. Alors que 2022 a été décrétée l’Année européenne de la jeunesse par Ursula Von der Leyen, comment une telle baisse est-elle rendue possible ? Que faire pour s’assurer que les étudiants qui souhaitent partir ne soient pas moins nombreux qu’avant la pandémie ?<br/>Je souhaite enfin évoquer la situation en Pologne. Alors que la remise en cause des jurisprudences de la Cour de justice européenne gagne du terrain dans le débat public, l’acte périlleux de la Cour constitutionnelle polonaise nous amène à nous interroger sur le rapport de force que Bruxelles peut maintenant mettre en place avec Varsovie, s’agissant notamment de la question du plan de relance, et ce sans que la population polonaise soit la plus grande perdante des agissements de son gouvernement. La France se doit d’être force de propositions au risque de voir sa présidence du Conseil bloquée par une crise politique majeure.<br/>« Oui nous pouvons rêver et faire rêver d’Europe », disait le président Valéry Giscard d’Estaing. Pour perpétuer cette volonté, le groupe UDI et indépendants votera bien évidemment en faveur de cette contribution française. <italique>(Applaudissements sur les bancs du groupe LaREM. – M. le président de la commission des affaires étrangères, Mme la présidente de la commission des affaires européennes, M. le rapporteur spécial et M. le rapporteur pour avis applaudissent également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954480" ordre_absolu_seance="90" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631725" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <acteurRef>PA720878</acteurRef>
+              <qualite>rapporteur général</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Un bon vote, monsieur Favennec-Bécot !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954481" ordre_absolu_seance="91" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631726" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <acteurRef>PA720692</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aucune surprise !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Fabien Roussel" id_acteur="PA720692" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723042">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954482" ordre_absolu_seance="92" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631745" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Fabien Roussel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954482" ordre_absolu_seance="93" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631746" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <acteurRef>PA720692</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie le public dans les tribunes d’être venu nombreux assister à ce débat important.<br/>À quoi vont servir le budget de l’Union européenne et la présidence française du Conseil de l’Union européenne ? Grande question ! À défendre la souveraineté des nations et des peuples, ou encore et toujours un fédéralisme et un libéralisme qui épuisent autant la planète, les ressources naturelles, que les êtres humains ? Oui, la présidence de la France sera scrutée à travers l’Europe. Je rappelle que l’Union européenne, ce sont 450 millions de citoyens, dont 92 millions en situation de pauvreté en 2020. Les peuples européens ne méritent-ils pas mieux que les dividendes pour quelques-uns et l’austérité pour l’immense majorité ?<br/>Laissez-moi donc proposer une autre devise à cette présidence française, une devise bien connue et pourtant trop peu mise en œuvre de nos jours : <italique>Liberté, égalité, fraternité</italique>. Voilà la trajectoire à suivre pour amorcer une rupture radicale avec le dogme du marché et de la concurrence libre et non faussée inscrit dans le marbre des traités européens.<br/>Liberté, tout d’abord, dans notre politique internationale pour promouvoir la voix de la paix en s’émancipant de la tutelle des États-Unis et de l’OTAN. Notre pays peut proposer un pacte de sécurité commune et un traité paneuropéen pour la paix et le désarmement multilatéral. L’affaire récente des sous-marins australiens montre la fiabilité de nos soi-disant alliés et à quel point nous avons besoin de retrouver une autonomie stratégique et une souveraineté en matière de politique étrangère.<br/>Égalité, ensuite, sachant qu’un Européen sur cinq vit dans la précarité et que les prix de l’énergie explosent dans toute l’Europe à cause des privatisations. Quant au scandale des <italique>Pandora papers</italique> et des 11 300 milliards d’euros cachés dans les paradis fiscaux, il montre encore une fois l’aberration que constitue l’évasion fiscale : 43 % de cette somme permettraient d’endiguer le réchauffement climatique ! La France doit se servir de sa présidence du Conseil de l’Union européenne pour dresser une véritable liste des paradis fiscaux en Europe et exiger la tenue d’une conférence fiscale ambitieuse sur le sujet. Il faut en finir avec ce fléau ! L’égalité, c’est aussi mettre fin aux privatisations et investir massivement dans des services publics pour permettre l’accès à toutes et à tous aux droits fondamentaux, à la possibilité de se soigner, de se chauffer, de se déplacer et de se loger ! Faisons que ces droits fondamentaux ne soient plus sacrifiés sur l’autel du profit.<br/>Fraternité, enfin, fraternité et solidarité, car on a vu ces derniers mois les files s’allonger devant les banques alimentaires : aujourd’hui, 7 % des Européens sont sous-alimentés ! Les agriculteurs, de leur côté, ont de plus en plus de mal à vivre de leur métier alors que le gaspillage alimentaire est immense ! Le droit à une alimentation saine, dans le cadre d’une transition vers une agriculture locale offrant une juste rémunération aux paysans, devrait être une priorité absolue. Au lieu de quoi, cette Europe libérale ne remet en cause ni les accords de libre-échange ni le modèle productiviste mortifère pour les peuples et pour la planète. Oui, la fraternité, la solidarité permettraient de stopper la concurrence entre les travailleurs, d’éradiquer le chômage et la précarité, d’autoriser à tous l’accès au savoir et à la santé et de refonder nos échanges commerciaux tout en promouvant la paix. Il faudrait alors que la France ait le courage de dire que ces traités économiques sont morts car dépassés, et qu’il est temps d’ouvrir une nouvelle ère, fondée sur de nouveaux traités au service des peuples et des nations, au service de la planète et de la dignité humaine, au service de l’égalité et de la fraternité de toutes et de tous<br/>Le prélèvement sur recettes et, plus largement, le budget de l’Union européenne ne conviennent en rien à ces idées. C’est pourquoi les députés communistes ne voteront pas cet article du projet de loi de finances. « Le bonheur est une idée neuve en Europe », disait Saint-Just. Il serait temps que notre pays soit à la hauteur de cette ambition.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954491" ordre_absolu_seance="100" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631736" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’était bien, sauf la fin ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954492" ordre_absolu_seance="101" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631737" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <acteurRef>PA720878</acteurRef>
+              <qualite>rapporteur général</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est pourquoi on ne peut pas applaudir ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Liliana Tanguy" id_acteur="PA719550" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722694">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954493" ordre_absolu_seance="102" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631747" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Liliana Tanguy.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1954493" ordre_absolu_seance="103" id_acteur="PA719550" id_mandat="PM722694" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631748" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Liliana Tanguy</nom>
+              <acteurRef>PA719550</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’année dernière, à cette tribune, nous avons souligné l’implication de l’Europe pour organiser la réponse commune à la crise sanitaire et à ses conséquences, l’Union européenne ayant su gérer l’urgence et préparer la relance : 2022 marque la mise en œuvre de la phase de relance dont je souhaite ici rappeler l’importance. En effet, pour soutenir la relance économique du continent et bâtir son avenir, l’Union s’appuie sur deux instruments budgétaires : le cadre financier pluriannuel 2021-2027 et le plan de relance européen <italique>Next Generation EU</italique>.<br/>Notre contribution au budget européen, évaluée à 26,4 milliards d’euros pour 2022, marque la fin d’un budget en constante augmentation ces cinq dernières années. La stabilité observée s’explique par le fait que les dépenses supplémentaires liées à la montée en charge des politiques de recherche et d’action extérieure de l’Union européenne sont compensées par de nouvelles recettes liées à la contribution britannique pour 2022 et aux effets de la reprise économique. Notons que la France apporte le deuxième plus grand soutien au budget européen. Ainsi, notre pays conserve son rôle de leader politique et économique au sein de l’Union.<br/>Le budget européen répond donc résolument à l’exercice de la souveraineté européenne pour les six années à venir. Il participe au maintien de son indépendance alimentaire, industrielle, scientifique, sanitaire et militaire. La France est restée constante dans la défense de ses plus grandes priorités. Puisqu’il nous tient à cœur de protéger et d’accompagner tous nos agriculteurs, nous avons obtenu une augmentation du budget de la PAC. La France en reste ainsi, de très loin, la première bénéficiaire.<br/>La défense est également une de nos priorités. Les fonds alloués à la sécurité et à la défense sont en augmentation de 265 % par rapport au cadre financier pluriannuel précédent. Cette hausse exceptionnelle vise à renforcer les capacités militaires de l’Union, son autonomie stratégique et sa souveraineté. Lors des négociations, la France a soutenu la préservation de budgets suffisamment ambitieux pour la recherche et l’innovation et pour la santé. La crise nous a montré à quel point nous avions besoin d’investir dans ces domaines. Le programme Horizon Europe pour la recherche et l’innovation est en hausse de 28 % et l’Union a créé un programme dédié à la santé.<br/>Enfin, la contribution de la France permet de réaffirmer son attachement à la construction européenne, encore plus essentielle aujourd’hui. Au cours de la crise sanitaire, les États membres ont su démontrer leur solidarité et leur confiance mutuelle. En plus de s’être accordée sur un cadre financier pluriannuel de grande ampleur, l’Union a édifié un plan de relance historique de 750 milliards d’euros. Ce pas de géant dans la construction européenne est une affirmation de la protection qu’offre l’Europe à tous ses citoyens. Comme je l’ai souligné dans mon rapport d’information sur la loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets, rédigé au nom de la commission des affaires européennes, ces deux instruments budgétaires innovent en ce sens qu’ils conditionnent une partie de leur financement à la transition climatique et refusent de financer les projets qui nuisent à l’environnement.<br/>Ainsi, ce sont 40 milliards d’euros de la relance française qui proviennent du plan de relance européen. Rappelons que les citoyens et les entreprises n’auront pas à rembourser cet emprunt : il sera financé par de nouveaux revenus dont l’Union européenne étudie actuellement les modalités. Ces nouvelles ressources propres permettant de financer les prochaines dépenses de l’Union, feront contribuer principalement ceux qui, aujourd’hui, profitent gratuitement du marché européen. Elles devraient notamment être constituées d’une taxation carbone aux frontières qui s’accompagnera d’une révision du marché carbone européen et d’une taxe sur les services financiers. Quant à la taxation des grandes entreprises, il est normal de ne pas proposer de ressource propre nouvelle avant de connaître l’issue des discussions internationales en cours. Notons tout de même qu’en juillet dernier, les Vingt-Sept et les trois institutions européennes se sont engagés à créer des ressources propres. Comme pour la négociation du plan de relance européen, le Président de la République et le secrétaire d’État aux affaires européennes s’attacheront à faire avancer toutes ces discussions dans le cadre de la présidence française du Conseil de l’Union européenne.<br/>Je souhaite enfin rappeler l’importance de notre contribution nationale au budget européen, qui bénéficie à tous ceux qui ont porté notre pays pendant la crise. Je pense à nos éleveurs et à nos agriculteurs et, en tant que députée bretonne, à nos pêcheurs, de même qu’à l’ensemble de nos entreprises. Ce budget bénéficie aussi à notre jeunesse, aux étudiants, aux chercheurs et aux personnes vulnérables. Enfin, le budget européen, c’est également le budget de notre avenir : celui de la relance économique, celui de la transition écologique et numérique, celui de la justice sociale et celui de la protection de l’environnement. Notre discussion s’inscrit donc dans une période charnière pour les valeurs de coopération et de solidarité européennes défendues depuis plus de soixante-dix ans. Pour toutes ces raisons, le groupe La République en marche votera pour le PSR au profit de l’Union européenne pour 2022. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Constance Le Grip" id_acteur="PA345722" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723428">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1954396" ordre_absolu_seance="110" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631755" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Constance Le Grip.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1954397" ordre_absolu_seance="111" id_acteur="PA345722" id_mandat="PM723428" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631756" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Constance Le Grip</nom>
+              <acteurRef>PA345722</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, il me revient de m’exprimer au nom du groupe Les Républicains – et les Républicaines –, dans ce débat du calendrier budgétaire, traditionnellement inscrit à la mi-octobre, qui porte sur l’article 18 du PLF pour 2022, lequel fixe le montant de la contribution française au budget de l’Union européenne.<br/>Ce montant s’élève, pour 2022, à 26,4 milliards d’euros. Les rapporteurs l’ont indiqué : on observe une stabilisation du PSR au profit de l’Union européenne au sein du budget de la nation et c’est heureux. Cela étant, il faut dire et redire qu’une relative incertitude règne encore sur l’estimation exacte du PSR, car nous ne sommes pas encore au bout des négociations budgétaires qui ont lieu entre le Parlement européen d’un côté, et le Conseil de l’autre. Cette incertitude revient bien sûr chaque année, nos calendriers budgétaires étant décalés.<br/>De même, revient également le constat que l’estimation du PSR peut varier en cours d’année en fonction, par exemple, de l’évolution de la part de chaque État membre dans la richesse de l’Union européenne. Mais cette année voit s’ajouter un facteur supplémentaire d’incertitude, voire de risque : celui de l’acquittement, par le Royaume-Uni, des obligations financières qu’il a contractées vis-à-vis de l’Union européenne. Le montant global des obligations post-Brexit dues par les Britanniques – 47,5 milliards d’euros tel qu’estimé par la Commission européenne – a été contesté par Londres. Certes, le gouvernement britannique a bien effectué le premier versement qu’il devait au titre de l’année 2021, mais par les temps qui courent et compte tenu du non-respect par les Britanniques de la parole donnée – on le voit très douloureusement s’agissant des quotas de pêche –, nous avons quelques raisons d’être préoccupés.<br/>La France étant devenue deuxième contributeur net au budget de l’Union européenne, tout ce qui, à moyen et à long terme, a trait aux conséquences de la sortie du Royaume-Uni de l’Union européenne nous concerne au premier chef. Je fais miennes certaines des remarques émises dans son rapport par le rapporteur général de la commission des finances concernant les difficultés rencontrées par les parlements nationaux afin de disposer à temps des bonnes informations pour bien apprécier et bien évaluer les contributions nationales en fonction de l’environnement macro-économique global. De même, je suis d’accord avec la nécessité d’améliorer la prévisibilité de la contribution française au budget de l’Union.<br/>Dans le peu de temps qui m’est imparti, il ne m’est guère loisible de faire de grandes envolées lyriques sur le projet européen. Je crois d’ailleurs que nos compatriotes sont assez las des grands et beaux discours sur l’Europe qui sonnent parfois un peu creux. Je n’aurai pas non plus le loisir de passer en revue toutes les critiques, les inquiétudes, les préconisations, les recommandations et les espoirs que porte notre famille politique de la droite républicaine pour l’Europe d’aujourd’hui et de demain.<br/>Je voudrais simplement réaffirmer que nous prendrons toute notre part dans le grand débat démocratique qui s’ouvrira à l’occasion de la campagne présidentielle française et que nous serons force de proposition et vigie attentive et lucide sur les sujets européens tout au long de la future présidence française du Conseil de l’Union européenne que nous souhaitons utile à l’Europe, à la France et aux Français. Notre famille politique de la droite républicaine de gouvernement et tous ses membres, y compris les plus éminents, n’ont aucune leçon à recevoir de personne en matière d’engagement européen, et aucun gage à donner à qui que ce soit – cela devait aussi être dit.<br/>Je terminerai non pas en parlant de l’avenir de la PAC et de la stratégie « De la ferme à la fourchette », au sujet de laquelle nous avons quelques inquiétudes, ni en évoquant la politique migratoire européenne – ou plutôt son absence –, ni même en abordant la politique environnementale et énergétique de l’Union, sur laquelle nous avons eu l’occasion d’exprimer quelques inquiétudes – nos députés européens auront beaucoup à dire sur tous ces sujets dans les jours et les semaines à venir, tant à Strasbourg qu’à Bruxelles. En quelques mots, je voudrais revenir sur l’attitude de l’Union européenne vis-à-vis de la Turquie.<br/>Avec une certaine obstination, année après année, Les Républicains relaient l’incompréhension, voire la colère, exprimée par beaucoup de nos compatriotes au sujet du maintien des crédits de préadhésion versés à la Turquie, alors même que, tout le monde en convient, la perspective de son adhésion à l’Union européenne s’éloigne, pour toutes les raisons que nous connaissons. Les griefs et les reproches que nous avons à formuler à l’encontre de la Turquie sont énormes. Monsieur le secrétaire d’État, vous avez vous-même qualifié cette perspective d’adhésion de fictive : alors pourquoi maintenir ce double jeu et cette hypocrisie et continuer à verser des crédits de préadhésion à la Turquie alors que, dans le même temps, nous allons lui donner 3 milliards sur la période 2021-2023 pour l’accueil des réfugiés sur son sol ?<br/>Ces réserves ayant été émises, c’est sans illusion mais dans un esprit de responsabilité, c’est avec sérieux et crédibilité que les députés Les Républicains voteront en faveur de l’article 18,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1954406" ordre_absolu_seance="120" id_acteur="PA718902" id_mandat="PM722496" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631765" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric Roussel</nom>
+              <acteurRef>PA718902</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça ne nous étonne pas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1954407" ordre_absolu_seance="121" id_acteur="PA345722" id_mandat="PM723428" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631766" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Constance Le Grip</nom>
+              <acteurRef>PA345722</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…sans donner le moindre blanc-seing au Gouvernement en matière de politique européenne. Au moment même où nous exprimons notre vive opposition au budget de la France présenté par le Gouvernement, nous tenons, sur ce sujet, je le répète, à faire preuve de sérieux et de responsabilité. <italique>(M. le président de la commission des affaires étrangères et Mme Marie-Christine Dalloz applaudissent.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christophe Jerretie" id_acteur="PA719060" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722546">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1954408" ordre_absolu_seance="122" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631767" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Jerretie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1954409" ordre_absolu_seance="123" id_acteur="PA719060" id_mandat="PM722546" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631768" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Jerretie</nom>
+              <acteurRef>PA719060</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, 2 254 foyers ont profité en Corrèze de MaPrimeRénov’ pour la rénovation thermique de leur logement. Vous pouvez peut-être vous étonner de me voir commencer en évoquant les travaux de rénovation énergétique des logements, sujet qui apparaît, au premier abord, très éloigné de la contribution française au budget européen. Rassurez-vous : je ne suis pas fou, il y a bien un lien consubstantiel entre les finances européennes et la pose du double vitrage à Ussel ou à Égletons, en Corrèze. En effet, beaucoup ignorent – notamment ses 400 000 bénéficiaires – que le dispositif MaPrimeRénov’, l’un des mieux réussis de France relance, est quasi entièrement financé par la part française des subventions européennes accordées au titre de la facilité pour la reprise et la résilience.<br/>Aussi, loin de porter sur le financement d’institutions lointaines pour des usages dont on ne sait que peu de choses – et que d’aucuns supposent toujours, presque naturellement, mauvais –, ce débat touche-t-il directement la vie de nos concitoyens. En clair, le PSR et les financements de l’Union européenne arrivent directement dans nos territoires et même, il faut le dire, sur le pas-de-porte de nos concitoyens.<br/>En 2020-2021, l’Union européenne a, en réaction à la crise du covid-19, fait un pas décisif vers une union toujours plus intégrée, plus solide et plus juste. Nous avons effectivement appris des erreurs de la crise de 2008 et de 2014. Nous parviendrons à empêcher qu’une trop forte divergence dans la reprise économique n’apparaisse entre le cœur de la zone euro et les zones excentrées comme le sud et l’est. En effet, le soutien budgétaire direct ou indirect et l’ensemble des programmes et mécanismes financiers européens, en cours et futurs, que nous avons déjà étudiés dans le cadre financier pluriannuel et dans le plan <italique>Next Generation EU</italique>, permettent le développement intrinsèque de notre Union.<br/>Nous considérons également que, dans la guerre économique des continents, le PSR au profit de l’Union participe à la stabilité socio-économique de la vieille Europe et, donc, à celle de la France. L’action de la France et celle du Président de la République en la matière ont été tout à fait déterminantes, je tenais à le souligner. Mais n’oublions pas que le PSR au profit de l’Union européenne – estimé à 26,4 milliards d’euros – représente l’équivalent de près de 10 % des recettes fiscales nettes de l’État dans le budget 2022 : ce n’est pas rien. Il ne faut pas l’oublier : le PSR a fortement augmenté ces dix dernières années. Cette augmentation est à la fois tendancielle, sectorielle et conjoncturelle. Plus encore, beaucoup de mes collègues l’ont souligné : le budget consacré à l’Union européenne pourrait se renforcer à partir de 2028 afin de rembourser le plan de relance. Si de nouvelles modalités de financement ne sont pas adoptées d’ici là, cela pourrait entraîner, dans le budget de la France, une augmentation du PSR de 2,5 milliards d’euros.<br/>Dans l’état actuel des choses, ce PSR-UE est un geste financier extrêmement fort, dans un PLF à 250 milliards d’euros de recettes fiscales ; c’est un engagement politique de la France vis-à-vis de l’Union européenne.<br/>Au-delà – nous l’évoquons souvent depuis deux ans –, le mécanisme d’endettement et de relance budgétaire commun doit s’accompagner d’un ensemble de nouvelles ressources propres qui viendraient compléter, remplacer ou améliorer des instruments comme les traditionnels droits de douane, qui baissent de manière tendancielle, l’anecdotique cotisation sur le sucre, ou encore ce que nous votons aujourd’hui, la contribution au titre du revenu national brut, principal financement de l’Union européenne.<br/>Il est plus que temps, il est nécessaire pour la survie de l’Union européenne qu’elle se dote de vraies ressources propres, adaptées à notre époque : taxe sur les activités numériques – quelques avancées –, mécanisme d’ajustement carbone aux frontières ou encore fraction d’une assiette commune d’impôt sur les sociétés (IS) plus large, plus structurante et plus généraliste. J’ai toujours défendu cet élément : je pense que l’Union européenne doit pour son avenir s’appuyer sur l’IS. Voilà ce vers quoi nous nous dirigeons.<br/>Monsieur le ministre, n’attendons pas 2254 ! J’ai l’espoir que la présidence française de l’Union européenne, qui débute le 1<exposant>er</exposant> janvier prochain, sera l’occasion d’avancer sur ces sujets. Vous êtes assuré du soutien sans faille des députés du groupe Mouvement démocrate et démocrates apparentés.<br/>C’est parce que nous sommes des Européens enthousiastes et exigeants que nous voterons ce PSR-UE et cet article 18, formant le vœu d’une continuité mais également d’une modernisation du financement des politiques européennes, qui les rendent moins dépendantes des États membres. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954321" ordre_absolu_seance="132" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631568" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954322" ordre_absolu_seance="133" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631569" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <acteurRef>PA721202</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La contribution de la France au budget de l’Union européenne est, cette année, de 26,4 milliards d’euros. Ce n’est certes pas une surprise, puisqu’elle est du même ordre que l’année dernière et qu’elle se déroule dans le cadre financier pluriannuel commencé en 2021. Ces 26,4 milliards ne sont donc pas une surprise, mais ils sont en revanche une mascarade.<br/>Je parle de mascarade parce que je n’oublie pas l’autosatisfaction du Président Macron au moment de ces négociations, qui nous ont pourtant été largement défavorables.<br/>Je parle de mascarade parce que j’ai bien vu comment certains pays, parmi les moins touchés par la crise, ont, pour leur part, négocié fermement leur signature, au point d’obtenir des rabais indécents sur leurs contributions.<br/>Je parle de mascarade parce que je me souviens comment Emmanuel Macron avait déclaré l’année dernière que ces rabais n’avaient pas vocation à subsister après le Brexit – ce même Emmanuel Macron qui acceptera quelques mois plus tard leur augmentation, laissant ces rabais passer à 7,6 milliards d’euros par an.<br/>Je parle de mascarade parce qu’en quelques années, depuis 2017, notre contribution à nous a augmenté de 30 %, c’est-à-dire qu’elle nous coûte 8 milliards d’euros de plus.<br/>Je parle de mascarade parce que ce super plan de relance européen dont le Gouvernement s’est gargarisé va, au total, nous coûter 66 milliards d’euros, contre seulement 40 milliards d’euros reçus. Ce plan nous revient donc à un coût total de 26 milliards. On peut parler d’une affaire !<br/>À ce stade, j’espère que vous admettrez avec moi que cette contribution est une mascarade. Et si je la regrette, c’est aussi parce que je pense à tout ce que nous aurions pu, nous aussi, négocier contre notre signature. Non pas négocier en faveur de plus d’austérité, comme l’ont fait ces pays dits frugaux, qui sont en réalité des pays radins, mais négocier pour l’intérêt général, pour nous libérer des règles austéritaires, augmenter notre capacité à investir dans la bifurcation écologique et sociale, à laquelle les sommes consacrées sont encore bien loin de ce qu’il faudrait.<br/>Nous aurions pu, par exemple, nous battre contre la mise en concurrence des travailleurs européens, en imposant une harmonisation sociale par le haut et en mettant fin à la directive sur le travail détaché.<br/>Au temps des <italique>Pandora papers</italique>, vous admettrez aussi, je pense, qu’il aurait été bien utile de mettre fin dès 2020 à l’impunité des paradis fiscaux européens qui se cachent dans l’Union, alors qu’ils menacent nos recettes fiscales à coups de milliards d’euros.<br/>Mais, comme d’habitude, rien. Rien n’a été fait pour le mieux-disant social et écologique, mais tout pour l’austérité et le libre-échange. Lorsqu’on nous parle ensuite des nouvelles ressources propres de l’Union européenne comme d’une victoire et d’une solution pour son financement, je dois vous avouer que j’en reste coi.<br/>Si tout un tas de pistes ont été évoquées, pour le moment un seul accord a été trouvé et mis en place, celui de la taxe plastique. C’est une taxe sur le poids des déchets d’emballages plastiques non recyclés, taxant les États à un taux de 0,80 euro le kilo. Bien sûr, je vois d’un bon œil les incitations au recyclage ; vous savez comme moi que notre groupe ne cesse de rappeler dans cette assemblée l’urgence écologique et l’urgence à agir. Je reste en revanche un peu sceptique sur le fait de cibler une taxe de ce type sur les États et, de fait, sur les peuples, plutôt que sur les entreprises qui font le choix de les produire et en retirent des bénéfices, tout en étant épargnées par la taxation.<br/>Surtout, le but d’une telle taxe étant, <italique>a priori</italique>, de pousser les États à recycler plus, si elle porte ses fruits – ce que je pense et ce que je souhaite –, alors les 7 milliards de recettes que la taxe est censée apporter aux ressources de l’UE devraient rapidement diminuer et non pas rester stables comme c’est prévu. Si je m’en réjouis d’avance, je ne peux donc pas simultanément admettre que cette taxe est une solution de financement à long terme pour l’Union européenne, qui doit absolument et nécessairement s’appuyer sur d’autres ressources.<br/>Certes, je n’oublie pas la fameuse taxe GAFAM sur le numérique, mais son ambition me paraît d’une tristesse effroyable. Que devient-elle ? Je sais bien que sa mise en place a été actée pour 2024 mais qu’en est-il de ses modalités précises ? Qu’en est-il du fait qu’elle ne permettrait apparemment que de lever 1,3 milliard d’euros, c’est-à-dire des miettes au regard de tous les profits que les GAFAM font sur le dos des peuples européens ?<br/>Qu’en est-il également des autres idées de ressources mises sur la table ? Pourquoi la France ne se bat-elle pas, par exemple, pour la proposition de création d’un ISF européen, qui permettrait de récolter 160 milliards d’euros par an et de restaurer un peu de justice fiscale ? Vous me direz que, comme nous avons supprimé notre ISF national, nous ne sommes pas les mieux placés pour parler de cela…<br/>Si je ne suis pas surpris par cette nouvelle contribution ni par son contexte, je vous appelle en revanche, chers collègues, à vous interroger sérieusement sur cette mascarade, ces échecs que l’on accepte les bras ballants, à quelques mois seulement de la présidence française de l’Union européenne, et sur le fait que l’on ne négocie pas, et que l’on n’impose pas des choix favorables à notre pays et à l’intérêt général.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Lise Magnier" id_acteur="PA720230" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722898">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954335" ordre_absolu_seance="148" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631582" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Lise Magnier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954336" ordre_absolu_seance="149" id_acteur="PA720230" id_mandat="PM722898" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631583" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Lise Magnier</nom>
+              <acteurRef>PA720230</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le vote de l’article 18 du projet de loi de finances est l’occasion pour la représentation nationale en général et pour le groupe Agir ensemble, résolument proeuropéen, en particulier d’exprimer leur attachement à notre Europe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954337" ordre_absolu_seance="150" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="PM780013" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631584" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <acteurRef>PA721608</acteurRef>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954338" ordre_absolu_seance="151" id_acteur="PA720230" id_mandat="PM722898" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631585" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Lise Magnier</nom>
+              <acteurRef>PA720230</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Toute crise constitue une opportunité, et chaque épreuve doit nous obliger à en tirer les bonnes leçons. La crise sanitaire du covid-19, sans précédent, a ainsi été l’occasion de démontrer aux eurosceptiques combien notre Union européenne était nécessaire.<br/>En se dotant d’une capacité budgétaire propre, à travers le plan de relance européen, l’Union européenne démontre tout son rôle. Doté d’une enveloppe de 750 milliards d’euros, il permet à l’Union de s’endetter sur les marchés financiers à des taux bien plus avantageux que chaque État membre et constitue le plus vaste train de mesures de relance des économies nationales jamais financé.<br/>Par ailleurs, ce nouveau budget à long terme renforcera les mécanismes de flexibilité pour être adapté non seulement aux réalités d’aujourd’hui mais aussi aux incertitudes de demain, tout en préparant l’Europe du futur, une Europe plus verte, plus numérique et plus résiliente. Ce plan constitue ainsi une avancée importante dans la construction européenne et montre aux citoyens européens que les institutions que nous avons bâties ensemble les protègent en protégeant leurs emplois et leurs économies nationales.<br/>Face à cette épreuve collective et dans l’actuel contexte géopolitique, intérieur ou extérieur, force est de constater que l’Union européenne est un acteur indispensable au maintien et à l’exercice de notre souveraineté. Seule l’unité peut nous permettre de maintenir notre indépendance alimentaire, industrielle, scientifique, sanitaire et militaire.<br/>Ces enjeux primordiaux, le budget de l’Union européenne y répond pour les six années à venir. Le cadre financier pluriannuel 2021-2027 propose ainsi un bon équilibre entre les politiques dites traditionnelles et les nouveaux enjeux communs.<br/>Plusieurs priorités françaises ont été satisfaites. La préservation du budget de la politique agricole commune est un signal fort pour notre agriculture.<br/>La création d’un fonds européen de défense à hauteur de 8 milliards d’euros ou encore l’augmentation d’un tiers du budget spatial sont également une véritable réponse à nos enjeux communs.<br/>L’augmentation de la politique de cohésion, notamment dans les outre-mer, et le quasi-doublement du programme Erasmus+, à hauteur de 26 milliards d’euros, sont des outils nécessaires pour tous les Européens. En outre, 95 milliards d’euros seront dédiés au programme de recherche Horizon Europe, ce qui représente une hausse de 50 % des moyens alloués à la recherche, au développement et à l’innovation, accompagnement majeur pour l’économie de demain.<br/>Enfin, 5 milliards d’euros seront consacrés à un nouveau programme dédié à l’Europe de la santé, afin de renforcer les instruments européens de lutte contre les pandémies. Surtout, pour la première fois, 30 % des dépenses sont consacrées à la transition climatique, et aucun euro ne pourra être utilisé pour des investissements néfastes au climat ; c’est une réelle avancée.<br/>Alors que Budapest et Varsovie ont contesté ces jours derniers devant la Cour de justice de l’Union européenne le nouveau mécanisme de conditionnalité qui lie le versement des fonds européens au respect de l’État de droit, ce combat en faveur des valeurs profondes de l’Europe devra être au cœur de la présidence française de l’Union européenne, prévue au premier semestre 2022.<br/>Cette présidence sera un moment charnière pour relancer ou achever certains chantiers, réaffirmer notre attachement à la construction d’un projet et d’un avenir européens, et déployer de nouveaux outils communs, je pense par exemple à une assiette commune pour l’impôt sur les sociétés ou encore à une taxe numérique.<br/>En tenant sa place de deuxième contributeur au budget européen, la France conserve son rôle de leader politique et économique de l’Union. C’est ce qu’elle fera en maintenant sa contribution financière à hauteur de 26,4 milliards d’euros pour l’année 2022.<br/>Évidemment, le groupe Agir ensemble votera en faveur de ce prélèvement sur recettes au profit de l’Union européenne. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954347" ordre_absolu_seance="164" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631594" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1954348" ordre_absolu_seance="165" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631595" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <acteurRef>PA719138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme chaque année, nous disposons d’un moment, sans doute trop court, pour débattre de notre participation financière au fonctionnement de l’Union européenne. Au-delà du montant du prélèvement – 26,4 milliards d’euros –, ce débat nous permet aussi et surtout d’aborder l’état de l’Union. En cette année, il prend une dimension particulière, à la veille de la présidence française du Conseil.<br/>Nous abordons ce semestre avec un fossé entre les ambitions légitimes portées par la France pour faire avancer la construction européenne et les réticences exprimées par certains pays membres. Nous avons tous en tête le récent arrêt de la Cour constitutionnelle polonaise, inquiétant sinon plus. Face à la montée de l’euroscepticisme se posent les questions de la transition écologique, de l’autonomie stratégique, de la régulation des géants du numérique, de la prise en compte de la diversité des territoires.<br/>L’année 2021 a été incertaine et exceptionnelle pour l’Europe, et le budget 2022 s’inscrit dans la même lignée. Ces incertitudes ne doivent pas nous conduire à un excès de prudence qui nuirait à la relance. En ce sens, le Parlement européen entend porter le budget de l’Union pour 2022 à près de 170 milliards. Je ne peux que saluer la volonté de nos collègues européens qui proposent de renforcer le projet de la Commission de 2,7 milliards, afin d’investir davantage dans Erasmus+, la recherche, l’action climatique et la santé. Je tiens en particulier à souligner l’effort déployé en faveur de la lutte contre le changement climatique : 30 % des fonds de l’Union y sont consacrés, soit le niveau le plus élevé jamais enregistré. Le plan de relance européen de 750 milliards doit contribuer pleinement à ces objectifs, même si son déploiement est trop lent.<br/>En dépit de ces promesses, notre groupe alerte sur la lenteur des décaissements : un peu plus de 5 milliards d’euros pour la France en 2021 sur les 40 milliards promis, c’est trop peu, trop lent. Le Gouvernement a négocié avec la Commission pour accélérer ces versements. En toute hypothèse, il ne faudrait pas que la lenteur des procédures européennes nuise à la reprise française.<br/>Par ailleurs, ce plan aurait pu nous conduire à repenser plus en profondeur le financement de l’Union, aujourd’hui peu satisfaisant. La contribution des États est devenue prépondérante, les trois quarts contre seulement un quart pour les ressources propres, et nous sommes dans une impasse.<br/>Le groupe Liberté et territoires appelle donc à une réforme du mode de financement de l’Union. En 2021, la mise en place d’une nouvelle contribution sur les plastiques non recyclés a été un premier petit pas. <italique>Quid</italique> d’une taxation sur le numérique ? La France reste encore bien solitaire avec sa taxe GAFA.<br/>Nous espérons que le Gouvernement saisira l’occasion de la présidence tournante pour accélérer les négociations sur ce sujet, même si nous ne minimisons pas les réticences qui existent en la matière. Nous sommes convaincus que jamais l’Union européenne ne trouvera un fonctionnement économique juste ni une vie sociale protégée de l’escalade actuelle tant que perdureront en son sein de véritables paradis fiscaux.<br/>Par ailleurs, le groupe Libertés et territoires regrette de voir qu’en 2022, la France continue de contribuer pleinement au financement des différents rabais dont bénéficient certains États ; comme la majorité des groupes parlementaires, nous ne pouvons que rappeler notre opposition à ce système injuste. Le Brexit et la fin du « chèque britannique » auraient dû nous conduire à sortir définitivement d’un tel mécanisme ; sa persistance va à l’encontre de l’essence européenne.<br/>Les négociations budgétaires ont permis de parvenir à des compromis, notamment concernant la PAC, même si nous attendons le contenu des plans stratégiques nationaux. Mais elles ont également été marquées par des échecs, en particulier s’agissant des crédits dédiés à la politique de défense. En 2022, évoquer l’ambition d’une défense européenne paraît difficilement crédible, et ce n’est pas la récente affaire de la vente de sous-marins à l’Australie qui démontrera le contraire.<br/>Certes, le cadre européen 2021-2027 a marqué une progression inédite du budget consacré à la défense, mais les montants restent minuscules – 7,9 milliards d’euros seulement. Il nous faut renforcer cette dimension européenne pour que l’Union ne se retrouve pas dépassée, dans un monde dangereux et instable.<br/>Au-delà des seules considérations budgétaires, notre groupe rappelle son attachement à la construction européenne. Le budget européen que nous voulons pour demain doit traduire notre engagement dans la construction d’une Europe forte, une Europe unie, une Europe des territoires, une Europe des citoyens, où chacun partage un socle commun de valeurs. Je dirai pour conclure que le chantier de l’indispensable adhésion citoyenne reste ouvert.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Lamia El Aaraje" id_acteur="PA783468" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM783490">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1954500" ordre_absolu_seance="176" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631777" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Lamia El Aaraje.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1954501" ordre_absolu_seance="177" id_acteur="PA783468" id_mandat="PM783490" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631778" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Lamia El Aaraje</nom>
+              <acteurRef>PA783468</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat sur le PSR-UE a été marqué en 2020 par trois décisions importantes, qui ont eu des conséquences majeures sur le budget de l’Union et ont entraîné la hausse de la contribution française à ce même budget : l’accord sur le cadre financier pluriannuel pour la période 2021-2027, qui s’élève à 1 074 milliards d’euros ; l’accord sur le plan de relance européen, d’un montant de 750 milliards d’euros ; et la décision relative aux ressources propres (DRP).<br/>Le PSR-UE prévu dans le projet de loi de finances pour 2022 est stable par rapport au précédent – 26,4 milliards d’euros –, mais il demeure à un niveau historiquement élevé depuis l’importante hausse de près de 5 milliards d’euros qu’il a connue entre 2020 et 2021 et qui représentait une augmentation de près de 25 %.<br/>Revenons tout d’abord sur l’accord relatif au cadre financier pluriannuel 2021-2027, conclu par le Conseil européen de juillet 2020. Il prévoit un plafond de 1 074 milliards d’euros en crédits d’engagement et de 1 210 milliards d’euros en crédits de paiement. En y ajoutant le plan de relance européen de 750 milliards d’euros – 390 milliards d’euros de subventions et 360 milliards d’euros de prêts –, la totalité des sommes agrégées équivaut à un effort financier de plus de 2 018 milliards d’euros, soit 1,8 % du revenu national brut des vingt-sept États membres de l’UE.<br/>Cet effort est considérable et devrait permettre de relancer l’investissement d’ici la fin de l’année 2023. Même si les montants sont élevés et constituent une augmentation sans précédent des financements communautaires, l’accord sur le CFP présente un certain nombre d’écueils. Il pérennise tout d’abord – alors qu’il aurait dû y mettre fin – les rabais octroyés à certains États membres dont les « quatre frugaux » – Pays-Bas, Suède, Autriche, Danemark – et l’Allemagne, pour un montant de 7,5 milliards d’euros sur sept ans.<br/>Ensuite, le compromis relatif à l’accord sur la conditionnalité liée à l’État de droit est en net retrait par rapport aux propositions antérieures. Il fait peser un sérieux doute sur l’efficacité du recours à un tel mécanisme, en exigeant désormais que les sanctions soient adoptées à la majorité qualifiée – dans la version antérieure, c’était aux États membres visés par cette procédure de trouver eux-mêmes une majorité qualifiée pour empêcher les sanctions d’entrer en vigueur.<br/>Enfin – c’est le dernier écueil –, les fonds concernant plusieurs programmes importants ont été réduits par rapport aux propositions antérieures de la Commission et du Parlement européen.<br/>S’agissant du plan de relance européen, la France a été dotée de 40 milliards d’euros de subventions, dont 70 % auront été engagées en 2021 et 2022 et 30 % d’ici la fin de 2023. Le plan de relance européen et le cadre financier pluriannuel ont en effet eu des conséquences structurelles profondes, à la fois sur le niveau de dépense des budgets pluriannuels et sur le niveau des contributions nationales au budget européen.<br/>Par ce prélèvement sur recettes, la contribution nationale de la France, qui a déjà augmenté de 5 milliards d’euros par rapport au PLF pour 2020 – elle est stable par rapport à 2021 –, reste historiquement élevée dans le PLF pour 2022. Le PSR-UE représente 10,5 % des recettes fiscales françaises. L’importante hausse constatée par rapport à 2020 s’explique en grande partie par les augmentations générales des dépenses et par l’introduction d’une nouvelle méthode pour calculer la contribution nationale de chaque État membre.<br/>Cependant, il convient de noter que le calcul final de la contribution française pour 2022 reste soumis à de nombreux aléas budgétaires et peut encore faire l’objet de modifications. Je pense notamment aux incertitudes qui demeurent quant au fait que le Royaume-Uni s’acquitte finalement de l’ensemble de ses obligations financières, tout de même évaluées à 47,5 milliards d’euros mais qui ont été récemment contestées par le gouvernement britannique.<br/>Face à l’augmentation inexorable des contributions nationales au budget de l’UE et aux besoins de financement qui seront dans le futur de plus en plus importants pour investir dans les transitions énergétique et numérique, il conviendrait de générer un financement pérenne et autonome de l’UE en adoptant de véritables ressources propres qui soient substantielles. La Commission européenne prépare la publication d’un paquet « Ressources propres » prévoyant l’introduction d’un panier de nouvelles ressources, à même de garantir un niveau adéquat de financement des dépenses de l’Union dans le CFP. D’après le Parlement européen, ces ressources doivent être « fondées sur l’assiette commune consolidée pour l’impôt sur les sociétés, les recettes nationales provenant du système d’échange de quotas d’émission de l’Union européenne ».<br/>Une telle réforme est urgente : le financement du plan de relance européen implique de dégager pour environ 15 milliards d’euros de nouvelles ressources par an à l’horizon 2028 et jusqu’en 2058. À défaut, c’est la contribution des États membres qui devrait être encore augmentée.<br/>S’agissant des enjeux à plus long terme, il n’est pas sans utilité de rappeler que du succès du plan de relance européen dépendra aussi l’élaboration et la constitution plus formelle, au niveau de l’UE, d’une véritable union budgétaire. Il faut désormais se tourner vers ce qui viendra après le plan de relance européen et, de ce point de vue, deux options complémentaires s’offrent dans le futur à l’UE : elle devra pérenniser ce puissant outil d’investissement en l’institutionnalisant, alors qu’il n’est actuellement que temporaire, tout en assouplissant durablement les règles budgétaires qui la régissent. Nous appelons de nos vœux une telle réforme. Aussi, monsieur le secrétaire d’État, souhaitons-nous connaître votre point de vue sur ce sujet et savoir comment vous envisagez les futures étapes de l’intégration européenne en matière budgétaire.<br/>Le groupe Socialistes et apparentés apportera son soutien au prélèvement sur recettes au profit de l’UE, qu’il considère comme une contribution nécessaire et indispensable à la solidarité européenne, dont nous avons tous tant besoin.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1954512" ordre_absolu_seance="190" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631789" type_debat="PLF" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>La parole est à M. le secrétaire d’État.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1954513" ordre_absolu_seance="192" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2631811" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Clément Beaune</nom>
+            <acteurRef>PA774109</acteurRef>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je voudrais réagir aux interventions qui viennent d’avoir lieu en leur apportant – le plus rapidement possible – quelques éléments de réponse.<br/>Certains, d’abord, ont trait à la question des ressources propres, abordée à juste titre par plusieurs députés cet après-midi. Vous le savez, c’est – si je puis m’exprimer ainsi – le nouveau combat à mener. Nous avons acté le principe de nouvelles ressources propres dans l’accord obtenu à l’unanimité des chefs d’État et de gouvernement, puis soutenu par le Parlement européen à une très large majorité, entre juillet et décembre 2020.<br/>Cet accord de principe ne fait donc aucun doute : une feuille de route a été définie à la fin de l’année 2020, qui prévoit plusieurs propositions législatives dont la Commission européenne est chargée. Certaines ont commencé à se matérialiser, en particulier concernant les ressources environnementales ; je pense notamment au mécanisme européen d’ajustement carbone aux frontières, défendu par la France de longue date – je m’excuse pour ce nom peu romantique, mais il pourrait être une ressource environnementale importante pour le budget européen, permettant de contribuer au remboursement du plan de relance.<br/>D’autres propositions seront faites par la Commission européenne pour introduire de nouvelles ressources propres ; nous les attendons d’ici la fin de l’année et elles commenceront à être discutées sous la présidence française de l’Union européenne. Je pense ici à la transposition en droit européen des éléments de l’accord fiscal international conclu dans le cadre de l’OCDE, qui ne porte plus seulement sur les grandes entreprises numériques mais aussi sur d’autres multinationales. Potentiellement, nous avons là une ressource importante pour l’Europe, qui est susceptible de nourrir le budget et de contribuer elle aussi au remboursement du plan de relance.<br/>Le calendrier agréé par le Parlement européen prévoit plusieurs autres étapes concernant la taxe sur les transactions financières et d’autres ressources environnementales – le fameux <italique>Emissions Trading System </italique>(ETS), comme on l’appelle parfois, qui vise le prix du carbone dans les années qui viennent –, et le débat commencera dès le début de l’année 2022. Nous ferons du mécanisme d’ajustement carbone aux frontières une priorité de la présidence française de l’Union européenne.<br/>La question des ressources propres est en réalité liée à celle des rabais. En effet, il est clair que la meilleure façon de rouvrir le débat sur les rabais et de les supprimer – cela reste notre objectif – est de trouver des ressources supplémentaires pour alimenter le budget européen, afin de retirer une partie de la pression qui pèse sur les contributions nationales.<br/>Cela vous surprendra peut-être mais je partage votre opinion sur ce point, monsieur Coquerel : les rabais sont une anomalie et même une aberration. Je l’assume et notre position n’a pas changé à ce sujet : nous nous y opposons. Nous avons mené un combat que nous avons gagné quant à la dette commune – je crois que ce n’est pas rien –, mais aussi, il y a un peu plus d’un an, concernant l’idée d’un plan de relance européen s’élevant à 750 milliards d’euros – ce n’est pas rien non plus –, que vous avez largement soutenu, au moins dans son principe. <italique>(M. Éric Coquerel fait un signe de dénégation.) </italique>Mais nous n’avons pas obtenu, c’est vrai, la suppression des rabais.<br/>Je crois que nous avons néanmoins protégé nos intérêts financiers, et je suis surpris que vous dénonciez l’austérité, en appelant à une plus grande générosité internationale de la France, tout en nous reprochant, par un raisonnement comptable – dont vous n’êtes pas coutumier –, notre contribution au budget européen que vous comparez aux sommes obtenues dans le cadre du plan de relance. Nous comptons précisément rembourser le plan de relance au moyen de ressources propres nouvelles, et non par des contributions françaises – ou nationales, de manière générale – supplémentaires. C’est bien le combat que nous devons collectivement mener.<br/>Ceux qui disent que le remboursement du plan de relance nous coûtera davantage que ce qu’il nous rapportera n’en sont pas conscients, mais nous sommes en train de mener ce combat pour les ressources propres et j’ai bon – et grand – espoir que nous le gagnions, si nous nous donnons un peu de mal politique pour livrer en commun cette bataille essentielle. Pardon, je n’insisterai pas pour polémiquer sur ce sujet, mais je crois qu’il n’est pas sérieux de dire que nous sommes encore aujourd’hui dans une Europe de l’austérité.<br/>Nous, Européens, sommes ceux qui dépensent le plus pour soutenir nos économies, nos indépendants, nos salariés et nos entreprises – je ne parle pas ici seulement du plan commun européen ; nous sommes ceux qui, dans le monde, donnent la plus forte réponse à l’urgence de la crise et nous avons été les premiers à adopter un plan de relance important. On peut trouver que ce n’est pas assez – et vous me verrez d’ailleurs à vos côtés pour demander que cette ambition augmente encore –, mais je crois qu’il n’est pas vrai de dire que nous sommes dans une Europe de l’austérité.<br/>Puisqu’il a dû quitter l’hémicycle, je ne reviens pas sur les propos tenus par M. Roussel à propos des accords de libre-échange. Nous sommes justement en train de nous opposer à certains d’entre eux, parce que nous pensons, nous aussi, que la logique qui y préside est dépassée ; c’est exactement la raison pour laquelle nous défendons aussi la prise en compte des exigences environnementales au moyen du mécanisme d’ajustement carbone aux frontières.<br/>Nous ne serons pas d’accord sur tout, mais, je le répète, on ne peut pas dire que nous sommes dans une Europe de l’austérité. Nous devons la regarder au prisme des changements qui ont été réalisés depuis au moins quatre ans, s’agissant notamment du travail détaché. Si nous supprimions la directive sur les travailleurs détachés au lieu de la réformer, comme nous l’avons fait, nous n’aurions plus à notre disposition aucune règle pour lutter contre le dumping social.<br/>Monsieur le président Bourlanges et madame la présidente Thillaye, je partage vos frustrations, vos frustrations enthousiastes,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1954526" ordre_absolu_seance="205" id_acteur="PA721608" id_mandat="PM723332" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631803" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Bourlanges</nom>
+            <acteurRef>PA721608</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Dynamiques !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1954527" ordre_absolu_seance="206" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631804" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Clément Beaune</nom>
+            <acteurRef>PA774109</acteurRef>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>…dynamiques, en effet, et toujours constructives, au sujet du peu de temps que nous consacrons aux débats européens et s’agissant de la procédure. Je ne rentrerai pas dans un long débat qui ferait nos délices mais nous emmènerait sans doute trop loin – Olivier Dussopt m’en voudrait –, dans la soirée et dans la nuit, alors que l’article d’équilibre vous attend, mais il n’y a pas de procédure parfaite. La vérité, c’est que si nous avons un tel débat, c’est parce que nous sommes dans une logique un peu particulière de pluriannualité budgétaire au niveau européen ; le cadre est ainsi fixé pour sept ans, selon les procédures en partie européennes auxquelles la France participe.<br/>Cependant, je pense que ce débat parlementaire, même s’il est contraint par le cadre pluriannuel – je le reconnais –, reste utile. Pour tout vous dire, je ne vois pas d’autre procédure qui serait parfaitement satisfaisante, puisque c’est auprès du Parlement et du Conseil européen que nous agréons pour sept ans les grands équilibres budgétaires. Une fois qu’ils sont agréés, il est vrai qu’il est difficile de les remettre en cause, mais quand ils comportent de bonnes nouvelles comme le plan de relance, vous conviendrez qu’il serait dommage d’agir en ce sens.<br/>J’ajouterai un point sur la question du Brexit et des contributions britanniques, que Mme Le Grip, notamment, a soulevée. Les paiements britanniques ont connu quelques retards, mais – il faut parfois souligner les bonnes nouvelles s’agissant du Brexit – ils sont en train d’être rattrapés. Si la contribution française au budget de l’Union européenne baisse légèrement cette année par rapport à l’année précédente – même s’il y a des mouvements dans les deux sens –, c’est notamment parce que les paiements britanniques sont pour le moment honorés et même accrus par rapport à l’année dernière. Nous avons suffisamment de motifs de récrimination à l’égard de nos partenaires britanniques pour ne pas en ajouter un qui, en l’occurrence, ne serait pas fondé.<br/>En ce qui concerne la Pologne et le plan de relance européen, j’approuve entièrement ce qui a été dit, notamment par M. Jerretie : un pays ne peut pas bénéficier des aides communautaires s’il ne respecte pas les exigences minimales de l’État de droit. Il ne s’agit évidemment pas d’affecter un prix aux violations de l’État de droit, mais, parce que la solidarité budgétaire européenne est coûteuse – ce débat montre que notre pays y prend toute sa part –, elle exige le respect d’un pacte politique minimal. Or celui-ci n’est pas toujours honoré. Comme beaucoup d’entre vous, je soutiens donc la Commission européenne dans ses exigences vis-à-vis de la Pologne et de la Hongrie.<br/>Je partage en partie votre position sur la Turquie, madame Le Grip, mais je veux nuancer quelque peu vos propos. Il est vrai que l’appellation donnée au programme européen avec le partenaire turc – puisque la Turquie reste, à certains égards, un partenaire –, en l’occurrence « instrument d’aide de préadhésion », n’est pas adaptée. Nous l’avons conservée car, formellement, vous l’avez rappelé, la Turquie est encore un pays candidat à l’adhésion à l’Union européenne.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954532" ordre_absolu_seance="211" id_acteur="PA345722" id_mandat="PM723428" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631817" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Constance Le Grip</nom>
+            <acteurRef>PA345722</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est regrettable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954533" ordre_absolu_seance="212" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631818" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Clément Beaune</nom>
+            <acteurRef>PA774109</acteurRef>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je suis d’accord. Je rappelle simplement la logique de labellisation qui a présidé à cette appellation, certes inopportune. L’essentiel est que les fonds engagés dans le programme avec la Turquie soient maîtrisés et réduits en partie, voire gelés quand la situation l’exige. Il nous est arrivé à plusieurs reprises, par le passé, de bloquer des prêts et des financements budgétaires destinés à ce pays. L’important est aussi que ces fonds ciblent l’assistance à la Turquie pour la gestion des flux migratoires et que nous passions davantage par les organisations non gouvernementales que par les autorités turques – l’objectif serait de ne plus passer du tout par ces dernières.<br/>Pour conclure sur ce point, je partage votre opinion selon laquelle l’appellation du dispositif est mal trouvée, mais les crédits accordés à la Turquie sont réduits, ciblés et n’ont plus vocation à passer par les autorités turques. Je tenais à le préciser.<br/>Quant au programme Erasmus et aux règles budgétaires, le premier est très directement lié aux montants que nous discutons ce soir. Vous l’avez souligné, monsieur Favennec-Bécot, ce programme connaît cette année une baisse transitoire de son budget, ce qui est paradoxal puisque son enveloppe a augmenté de 90 % entre la programmation budgétaire précédente et celle commencée le 1<exposant>er</exposant> janvier dernier. Cette diminution est liée à un effet retard de l’épidémie de covid-19, qui a eu comme conséquence évidente de réduire les mobilités européennes jusqu’à cette année. Celles-ci reprennent progressivement, mais les financements octroyés pour soutenir le programme sont en légère diminution par rapport à 2020, année la plus haute de la précédente programmation puisque c’était la dernière.<br/>La France se bat pour que les échanges et les financements Erasmus reprennent activement dès cette année universitaire 2021-2022. En tout état de cause, les financements sont disponibles et permettront de soutenir la reprise des mobilités. Nous prévoyons une hausse très forte, de plus de 25 %, de l’enveloppe budgétaire du programme dès la rentrée 2022, comme en témoigne le projet de budget présenté par la Commission européenne. Il y a donc bien une croissance forte des crédits affectés à Erasmus, le creux observé au cours de la dernière période étant lié à la pandémie et à la réduction des mobilités.<br/>La question des règles budgétaires a été abordée à deux reprises au cours de la discussion générale. M. le ministre de l’économie, des finances et de la relance l’a dit : nous devrons, à l’avenir, ouvrir le débat sur les règles budgétaires, en gardant à l’esprit des boussoles importantes. Nous avons besoin de règles budgétaires européennes – Olivier Dussopt, ministre délégué chargé des comptes publics, ici présent, ne me démentira pas sur ce point. C’est une question de sérieux et de crédibilité. Nous aurons besoin de règles quand nous reviendrons à un régime de fonctionnement budgétaire et économique plus normal, après 2022, mais il nous faudra adapter ces règles à notre situation nouvelle, sans y plaquer les anciennes. Tout l’enjeu sera de favoriser l’investissement dans la transition écologique et énergétique.<br/>Aurons-nous une capacité d’investissement pérenne, avez-vous demandé, monsieur El Guerrab ? La France le souhaite de longue date. Nous en discuterons, au début de l’année prochaine, avec nos partenaires allemands et, dans le courant de l’année 2022, avec l’ensemble de nos partenaires européens.<br/>Je crois n’avoir oublié aucune question importante. J’ai essayé d’être le plus synthétique possible, madame la présidente ! <italique>(Applaudissements sur les bancs des groupes LaREM, Dem, UDI-I et LT.)</italique></texte>
+      </paragraphe>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954545" ordre_absolu_seance="219" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2631830" valeur=" 1056" bibard="" art=" 18" adt=" 1056" ssadt="">
+        <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954545" ordre_absolu_seance="219" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2631830" type_debat="PLF" valeur=" 1056" bibard="" art=" 18" adt=" 1056" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Nous en venons à l’examen des amendements.<br/>La parole est à M. Michel Castellani, pour soutenir l’amendement n<exposant>o</exposant> 1056.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954546" ordre_absolu_seance="220" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631831" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Michel Castellani</nom>
+                <acteurRef>PA719138</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement, déposé à l’initiative de notre collègue Charles de Courson, propose de réduire de 7,4 milliards d’euros le montant du prélèvement effectué sur les recettes de l’État au titre de la participation de la France au budget de l’Union européenne. Il s’agit de faire pression sur l’Union européenne afin qu’elle respecte ses engagements vis-à-vis de notre pays.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954546" ordre_absolu_seance="221" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2631865" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954546" ordre_absolu_seance="222" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2631866" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <acteurRef>PA720878</acteurRef>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>M. le secrétaire d’État chargé des affaires européennes a répondu dans le détail aux interrogations exprimées pendant le débat sur le prélèvement sur recettes au profit de l’Union européenne. Je serai donc bref sur cet amendement, qui n’en est finalement que le prolongement.<br/>Ce n’est certainement pas en réduisant le montant du PSR-UE que l’on accélérera les versements européens à la France. M. le président de la commission des affaires étrangères, Jean-Louis Bourlanges, a parfaitement présenté la situation, que le Gouvernement a bien évidemment en tête dans la perspective de la prochaine présidence française du Conseil de l’Union européenne. Une baisse du PSR-UE ne saurait constituer une bonne idée à ce stade. Avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Clément Beaune, quali  secrétaire d'État" id_acteur="PA774109" id_nomination_oe="PM774111" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954549" ordre_absolu_seance="224" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2631867" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954549" ordre_absolu_seance="225" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2631868" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Clément Beaune</nom>
+                <acteurRef>PA774109</acteurRef>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Avis défavorable également. Cet amendement – en réalité, un amendement d’appel – vise à interpeller nos partenaires européens et à accélérer le versement des fonds du plan de relance européen. Rappelons qu’une deuxième tranche de 7 milliards d’euros, sur les 40 milliards au total auxquels la France a droit, sera versée au début de l’année 2022. Nous transmettrons votre impatience à qui de droit, monsieur le député, mais il est préférable que nous respections nos engagements pour que l’Union européenne honore les siens.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954552" ordre_absolu_seance="226" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631837" type_debat="PLF" valeur=" 1056" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 1056 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954553" ordre_absolu_seance="227" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631838" type_debat="PLF" valeur=" 18" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article 18 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954554" ordre_absolu_seance="228" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2631839" type_debat="PLF" valeur="Après_ 18" bibard="" art="Après_ 18" adt="" ssadt="">
+      <orateurs/>
+      <texte>Après l’article 18</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954555" ordre_absolu_seance="229" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2631840" valeur=" 2136 " bibard="" art="Après_ 18" adt=" 2136 " ssadt="">
+        <interExtraction nom_orateur="M. Clément Beaune, quali  secrétaire d'État" id_acteur="PA774109" id_nomination_oe="PM774111" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954555" ordre_absolu_seance="229" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2631840" type_debat="PLF" valeur=" 2136 " bibard="" art="Après_ 18" adt=" 2136 " ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le secrétaire d’État, pour soutenir l’amendement n<exposant>o</exposant> 2136 du Gouvernement, portant article additionnel après l’article 18.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954556" ordre_absolu_seance="230" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631841" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Clément Beaune</nom>
+                <acteurRef>PA774109</acteurRef>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement technique, mais important, qui vise à réaffecter au budget général les reliquats de crédits européens des précédentes programmations des fonds européens, devenus sans objet. Nous avons besoin de cette réaffectation formelle pour pouvoir utiliser ces crédits, qui représentent au total 380 millions d’euros et sont destinés, conformément aux annonces du Premier ministre le 11 septembre dernier, à financer des investissements locaux, en complément des fonds européens de la nouvelle programmation. Cette réaffectation serait évidemment très utile !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954557" ordre_absolu_seance="231" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2631842" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954558" ordre_absolu_seance="232" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2631843" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <acteurRef>PA720878</acteurRef>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Indépendamment de l’utilité technique de cet amendement, la commission ne saurait émettre un avis défavorable sur une disposition qui tend à affecter 380 millions supplémentaires au budget de l’État. C’est suffisamment rare pour que je le mentionne ! Avis très favorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Marie-Christine Dalloz" qualite="suppléant M. Éric Woerth, président de la commission des finances" id_acteur="PA332523" id_nomination_oe="-1" id_nomination_op="PM772448" id_mandat="PM722792">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954558" ordre_absolu_seance="233" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631869" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Marie-Christine Dalloz, suppléant M. Éric Woerth, président de la commission des finances.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954558" ordre_absolu_seance="234" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="PM772448" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631870" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marie-Christine Dalloz</nom>
+                <acteurRef>PA332523</acteurRef>
+                <qualite>suppléant M. Éric Woerth, président de la commission des finances</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Le montant de 380 millions qui vient de nous être précisé ne figure pas dans l’exposé sommaire de cet amendement du Gouvernement. Généralement, les dispositions que l’exécutif nous propose par voie d’amendement sont chiffrées. Ne serait-il pas opportun de faire apparaître le montant de cette disposition dans l’amendement ? Comme vient de le souligner M. le rapporteur général, le chiffre est loin d’être anodin.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Clément Beaune, quali  secrétaire d'État" id_acteur="PA774109" id_nomination_oe="PM774111" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954561" ordre_absolu_seance="235" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631846" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le secrétaire d’État.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954562" ordre_absolu_seance="236" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631847" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Clément Beaune</nom>
+                <acteurRef>PA774109</acteurRef>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je parle sous le contrôle de M. le ministre délégué chargé des comptes publics, mais l’amendement n<exposant>o</exposant> 2136 ne précise pas de montant car il énonce simplement le principe juridique de la réaffectation. L’estimation budgétaire de la mesure figurera dans l’article d’équilibre que nous allons examiner dans un instant. De quoi susciter l’impatience sur ce prochain article ! <italique>(Sourires.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954563" ordre_absolu_seance="237" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631848" type_debat="PLF" valeur=" 2136" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2136 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954564" ordre_absolu_seance="238" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2631849" type_debat="PLF" valeur=" 19 et état A" bibard="" art=" 19 et état A" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 19 et état A</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954565" ordre_absolu_seance="239" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2631850" valeur=" 2137" bibard="" art=" 19 et état A" adt=" 2137" ssadt="">
+        <interExtraction nom_orateur="M. Olivier Dussopt, quali  ministre délégué chargé des comptes publics" id_acteur="PA330357" id_nomination_oe="PM773447" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954565" ordre_absolu_seance="239" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2631850" type_debat="PLF" valeur=" 2137" bibard="" art=" 19 et état A" adt=" 2137" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Nous en venons à l’article d’équilibre.<br/>La parole est à M. le ministre délégué chargé des comptes publics, pour soutenir l’amendement n<exposant>o</exposant> 2137 du Gouvernement.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1954566" ordre_absolu_seance="240" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM773447" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2631851" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Olivier Dussopt</nom>
+                <acteurRef>PA330357</acteurRef>
+                <qualite>ministre délégué chargé des comptes publics</qualite>
+              </orateur>
+            </orateurs>
+            <texte>L’Assemblée nationale a examiné l’intégralité des dispositions de la première partie du projet de loi de finances pour 2022 jusqu’à vendredi midi et vient de débattre du prélèvement sur recettes au profit de l’Union européenne. Avec cet amendement du Gouvernement, nous nous livrons à présent à un exercice particulier, visant à modifier l’article d’équilibre.<br/>Au terme de l’examen de la première partie du projet de loi de finances pour 2022, il est évidemment nécessaire de tirer les conséquences, dans l’article d’équilibre, des amendements adoptés par l’Assemblée nationale. Les amendements qui ont été adoptés ont pour effet de dégrader le solde de l’État de 5 milliards d’euros par rapport au projet de loi de finances initialement déposé, avec, pour résultat, un solde négatif de 148,4 milliards d’euros.<br/>Cette dégradation du solde de 5 milliards d’euros est financée dans le tableau de financement de l’État par une mobilisation supplémentaire des disponibilités du Trésor à la Banque de France et des placements de trésorerie de l’État. La dégradation est principalement liée à la baisse des recettes fiscales nettes de 5,3 milliards, compte tenu des amendements adoptés en première partie.<br/>D’une part, les recettes brutes de taxe intérieure sur la consommation finale d’électricité (TICFE) sont minorées de 5,1 milliards d’euros, afin d’installer le volet fiscal du bouclier tarifaire annoncé par le chef du Gouvernement. C’est évidemment le principal amendement à l’origine de la dégradation du solde.<br/>D’autre part, les recettes brutes de TVA sont diminuées de 186 millions d’euros, notamment au titre de la modification de compensation de la recentralisation du RSA en Seine-Saint-Denis pour 171 millions.<br/>J’appelle l’attention de l’Assemblée sur le fait que, par symétrie, la dotation globale de fonctionnement (DGF) de ce département sera réduite pour assurer la neutralité de la recentralisation du RSA. Le montant exact de cette minoration n’est toutefois pas encore connu. C’est la raison pour laquelle le Gouvernement ne vous propose pas de revoir la prévision de DGF à ce titre. Celle-ci sera revue une fois connu le montant exact de la minoration. Ce sera donc l’affaire d’un projet de loi de finances rectificative pour 2022.<br/>Les autres recettes fiscales sont minorées de 16 millions d’euros, principalement au titre de la suppression de la contribution de solidarité territoriale (CST), à compter du 1<exposant>er</exposant> janvier 2022.<br/>Il faut noter, par ailleurs, que les recettes non fiscales sont majorées de 380 millions d’euros au titre de l’amendement que vous venez d’adopter et qui prévoit l’affectation au budget général des reliquats de crédits européens des précédentes programmations des fonds européens de développement régional 1994-1999, 2000-2006 et 2007-2013, devenus sans objet.<br/>Enfin, les prélèvements sur recettes au profit des collectivités territoriales sont majorés de 16 millions d’euros, ce qui conduit à dégrader le solde de l’État du même montant. Cette hausse est liée à l’amendement qui rectifie la surcompensation dont a bénéficié l’État dans le cadre de la correction entre les droits à compensation provisoires et les droits définitifs lors de la recentralisation du RSA pour le département de La Réunion.<br/>Le solde présenté dans cet article d’équilibre n’est évidemment que transitoire. Il ne prend en compte que les amendements que vous avez adoptés lors de l’examen de la première parti, et non ceux qui pourraient être adoptés en seconde partie – je pense au plan d’investissement, mais pas seulement ; il pourrait s’agir de tout amendement que votre assemblée déciderait d’adopter.<br/>Le solde de l’article d’équilibre ne tient pas compte non plus de l’éventuelle évolution du scénario macroéconomique. Nous avons annoncé, avec Bruno Le Maire, notre volonté de réviser la trajectoire macroéconomique et de relever la prévision de croissance de 6 % à 6,25 %. J’ai eu l’occasion de dire devant vous qu’en application de l’article 16 de la loi organique du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques, nous procéderons à la révision de la trajectoire macroéconomique uniquement après avoir saisi le Haut Conseil des finances publiques, dans le cadre de la préparation du projet de loi de finances rectificative.<br/>Je serai donc amené à rappeler devant vous l’article liminaire à la fin de la seconde partie de ce projet de loi de finances pour 2022 – et non aujourd’hui – pour prendre en compte à la fois les amendements adoptés en seconde partie et les conséquences de la révision du scénario macroéconomique, une fois connu l’avis du Haut Conseil des finances publiques.<br/>En effet, si nous intégrions dès aujourd’hui une révision de l’article liminaire, la prévision de déficit, qui s’élevait à 4,8 % dans le projet de loi de finances initiale, serait automatiquement revue à 5 % de manière transitoire puisqu’elle ne tiendrait compte ni d’éventuels amendements adoptés, ni de la révision du scénario macroéconomique, laquelle se traduira plutôt par un relèvement des recettes.<br/>Je vous invite donc, mesdames et messieurs les députés, à adopter cet amendement d’actualisation de l’équilibre, qui tient uniquement compte des amendements adoptés par votre assemblée en première partie. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Laurent Saint-Martin, quali  rapporteur général" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954441" ordre_absolu_seance="254" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2631871" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954442" ordre_absolu_seance="255" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2631872" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Laurent Saint-Martin</nom>
+                <acteurRef>PA720878</acteurRef>
+                <qualite>rapporteur général</qualite>
+              </orateur>
+            </orateurs>
+            <texte>J’émets un avis favorable sur cet amendement. Tout d’abord, son contenu correspond avec précision et exactitude aux dispositions que nous avons adoptées au cours de la semaine dernière. Il n’y a donc aucune surprise, à la hausse ou à la baisse, si ce n’est les 380 millions d’euros en recettes non fiscales supplémentaires, dus à l’adoption de l’amendement précédent.<br/>Les chiffres sont conformes à la volonté du Parlement ; ils reflètent la dégradation, logique et attendue, de 5 milliards d’euros. L’article d’équilibre, ainsi révisé pour tenir compte des amendements adoptés au fil des séances, respecte les propos tenus au tout début de nos débats sur le respect du Parlement.<br/>Ces amendements, notamment sur le bouclier tarifaire, étaient attendus. Je valide les chiffres précis correspondant à tous les nouveaux amendements que le ministre délégué a mentionnés.<br/>Notons qu’à ce stade, compte tenu du nouveau niveau de déficit, il n’y a pas besoin de modifier le programme d’émissions de dette, celui de 2020 se révélant suffisant. C’est un sujet important : il y aurait pu avoir des conséquences budgétaires tierces.<br/>Nous avons actuellement une bonne visibilité des mesures adoptées. Nous nous reverrons à la fin de l’examen de la deuxième partie de ce budget, afin d’effectuer une mise à jour en fonction des mesures de dépenses adoptées.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Marie-Christine Dalloz" qualite="suppléant M. Éric Woerth, président de la commission des finances" id_acteur="PA332523" id_nomination_oe="-1" id_nomination_op="PM772448" id_mandat="PM722792">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954446" ordre_absolu_seance="260" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631899" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Marie-Christine Dalloz, suppléant M. Éric Woerth, président de la commission des finances.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954446" ordre_absolu_seance="261" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="PM772448" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631900" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marie-Christine Dalloz</nom>
+                <acteurRef>PA332523</acteurRef>
+                <qualite>suppléant M. Éric Woerth, président de la commission des finances</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Dans votre exposé des motifs, monsieur le ministre délégué, vous faites état des 5,136 milliards d’euros liés à la TICFE. L’amendement adopté intervient alors que nous avions eu un très long débat sur le sujet la semaine dernière, au cours duquel vous n’aviez pas pu nous apporter les précisions chiffrées que nous vous demandions. Me voilà satisfaite : le week-end a été productif, puisque vous avez pu nous fournir cette estimation de 5,136 milliards d’euros.<br/>Qu’en est-il des autres taxes, hors électricité ? Est-ce à dire qu’elles sont très faibles ou qu’elles n’ont pas été évaluées ? Pourriez-vous nous donner une explication car je m’étonne de n’en avoir que sur une partie des 5,3 milliards d’euros.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Olivier Dussopt, quali  ministre délégué" id_acteur="PA330357" id_nomination_oe="PM773447" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954450" ordre_absolu_seance="263" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2631880" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le ministre délégué.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954451" ordre_absolu_seance="264" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM773447" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2631881" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Olivier Dussopt</nom>
+                <acteurRef>PA330357</acteurRef>
+                <qualite>ministre délégué</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Tout d’abord, je vous confirme que les services de l’État ont travaillé de manière très intense pour produire cette estimation de 5,136 milliards d’euros correspondant à la baisse en année pleine de la TICFE, que votre assemblée a bien voulu adopter. D’où cet amendement. Puisque la baisse de la TICFE s’applique de manière automatique, nous pouvons en calculer le montant annuel que nous vous proposons d’inscrire dans le budget de l’État.<br/>En ce qui concerne le gaz, le Gouvernement pourra actionner le dispositif de plafonnement au mois le mois, dès lors que les cours observés dépasseront ceux du mois d’octobre.<br/>À ce stade, rien ne nous garantit que les cours dépasseront ceux du mois d’octobre – même si nous le craignons – durant un ou plusieurs mois de l’année 2022. Rien ne nous garantit donc que nous serons amenés – j’allais dire acculés – à utiliser ce dispositif de plafonnement : nous ne le ferons que lorsque les autres mécanismes, notamment celui de compensation, auront atteint leur limite. Il existe ainsi au moins trois incertitudes sur la manière dont le dispositif de plafonnement de la fiscalité sur le gaz sera mis en œuvre.<br/>Au cours des débats, certains ont pu émettre des doutes sur notre volonté d’utiliser ce dispositif. Je répète que nous l’utiliserons pour protéger les ménages français de l’augmentation du prix du gaz. Cependant, au moins du fait des trois incertitudes précitées, nous ne pouvons pas faire une estimation suffisamment fiable pour vous proposer de l’inscrire.<br/>Je vous apporte cette précision utile : quand les autres mécanismes de compensation auront atteint leurs limites, ce mécanisme sera appliqué, ce qui entraînera des conséquences sur les recettes de l’État et nécessitera un traitement dans une loi de finances rectificative pour 2022. Cependant, en l’état de nos connaissances et prévisions, il serait trop hypothétique d’inscrire un montant.<br/>Si vous le permettez, madame la présidente, je voudrais insister sur un point qui, je crois, devrait contribuer à la sincérité des débats entre le Gouvernement et l’Assemblée nationale à l’occasion de cette première lecture.<br/>Nous avons débattu en interne de la nécessité – évidente – de rappeler l’article d’équilibre, mais aussi l’article liminaire. Nous avons fait le choix de n’appeler que l’article d’équilibre, et donc de ne pas modifier la prévision de déficit de manière formelle dans le texte. J’indique toutefois, comme le montre le tableau d’équilibre que vous avez sous les yeux, que nous passons de 4,8 milliards à 5 milliards d’euros de manière transitoire.<br/>Si nous avons fait ce choix, c’est parce que nous sommes attachés à ce que cette révision de l’article liminaire n’intervienne qu’après l’avis du Haut Conseil des finances publiques, que j’ai mentionné. Or le calendrier nous permet de procéder à cette révision de l’article liminaire à la fin de la seconde partie, et donc en première lecture par l’Assemblée nationale, pour ne méconnaître aucun des principes de priorité.<br/>J’insiste un peu sur ce point parce que nous rappelons le tableau d’équilibre sans rappeler l’article liminaire. J’espère que nos échanges et ces précisions permettent à chacun d’y voir clair, de savoir exactement dans quel cadre ce projet de loi de finances est adopté. <italique>(Mme Michèle Peyron applaudit.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954461" ordre_absolu_seance="273" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631891" type_debat="PLF" valeur=" 2137" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2137 est adopté. En conséquence, l’amendement n<exposant>o</exposant> 1736 et les amendements identiques n<exposant>o</exposant><exposant>s</exposant> 1456 et 1734 tombent.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954462" ordre_absolu_seance="274" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631892" type_debat="PLF" valeur=" 19 et L’Etat A" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article 19 et l’état A, amendés, sont adoptés.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1954463" ordre_absolu_seance="275" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_1_0" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631893" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons achevé la discussion des articles de la première partie du projet de loi de finances pour 2022. Je rappelle que la conférence des présidents a décidé que le vote solennel sur cette première partie aura lieu demain, après les questions au Gouvernement.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="1954465" ordre_absolu_seance="277" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2631895" type_debat="PLF" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1954466" ordre_absolu_seance="278" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2631896" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à quinze heures :<br/>Questions au Gouvernement ;<br/> Vote solennel sur la première partie du projet de loi de finances pour 2022 ;<br/> Examen du projet de loi portant diverses dispositions de vigilance sanitaire.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1954467" ordre_absolu_seance="279" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2631897" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix-huit heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1954468" ordre_absolu_seance="280" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2631898" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

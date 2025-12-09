@@ -1,0 +1,2189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N134</uid>
+  <metadonnees>
+    <dateSeance>20210120210000000</dateSeance>
+    <dateSeanceJour>mercredi 20 janvier 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>134</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210134</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-01-22T14:44:22.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2375087">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2375151">
+          <intitule>Prorogation de l’état d’urgence sanitaire</intitule>
+        </titreStruct>
+        <para id_syceron="2375152"/>
+        <sommaire2>
+          <titreStruct id_syceron="2375094">
+            <intitule>Discussion des articles <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="2375096">
+              <intitule>Article 4 <italique>(suite)</italique></intitule>
+            </titreStruct>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="2375097"> 58</lienAdt>, <lienAdt id_syceron="2375099"> 14</lienAdt>, <lienAdt id_syceron="2375100"> 18</lienAdt>, <lienAdt id_syceron="2375102"> 63</lienAdt>, <lienAdt id_syceron="2375103"> 5</lienAdt></para>
+            <para id_syceron="2375107">M. Jean-Pierre Pont, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</para>
+            <para id_syceron="2375110">Mme Brigitte Bourguignon, ministre déléguée chargée de l’autonomie</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2375113">
+              <intitule>Article 5</intitule>
+            </titreStruct>
+            <para id_syceron="2375115">M. Nicolas Dupont-Aignan</para>
+            <para id_syceron="2375121">M. Vincent Rolland</para>
+            <para id_syceron="2375125">Mme Martine Wonner</para>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="2375131"> 24</lienAdt>, <lienAdt id_syceron="2375134"> 30</lienAdt>, <lienAdt id_syceron="2375135"> 90</lienAdt>, <lienAdt id_syceron="2375164"> 23</lienAdt>, <lienAdt id_syceron="2375166"> 59</lienAdt>, <lienAdt id_syceron="2375167"> 6</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2375175">
+              <intitule>Titre</intitule>
+            </titreStruct>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="2375176"> 85</lienAdt>, <lienAdt id_syceron="2375221"> 86</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375185">
+            <intitule>Explications de vote</intitule>
+          </titreStruct>
+          <para id_syceron="2375187">M. Sébastien Jumel</para>
+          <para id_syceron="2375199">M. Guillaume Gouffier-Cha</para>
+          <para id_syceron="2374944">M. Philippe Gosselin</para>
+          <para id_syceron="2374953">M. Philippe Latombe</para>
+          <para id_syceron="2374967">M. Alain David</para>
+          <para id_syceron="2374971">M. Olivier Becht</para>
+          <para id_syceron="2375004">M. Pascal Brindeau</para>
+          <para id_syceron="2375016">Mme Mathilde Panot</para>
+          <para id_syceron="2375033">M. Paul Molac</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375058">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2375064">
+          <intitule>Approbation de conventions et d’accords internationaux</intitule>
+        </titreStruct>
+        <para id_syceron="2375065"/>
+        <sommaire2>
+          <titreStruct id_syceron="2375067">
+            <intitule>Convention entre le Gouvernement de la République française, la région flamande et la région wallonne<br/> relative à l’aménagement de la Lys mitoyenne entre Deûlémont en France et Meunin en Belgique</intitule>
+          </titreStruct>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375069">
+            <intitule>Conventions d’entraide judiciaire en matière pénale et d’extradition<br/>entre la France et le Niger</intitule>
+          </titreStruct>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375071">
+            <intitule>Conventions d’entraide judiciaire en matière pénale et d’extradition<br/>entre la France et le Burkina Faso</intitule>
+          </titreStruct>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375073">
+            <intitule>Convention d’extradition<br/>entre le Gouvernement de la République française<br/> et le Gouvernement de la République algérienne démocratique et populaire</intitule>
+          </titreStruct>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375075">
+            <intitule>Accord entre le Gouvernement de la République française<br/> et le Gouvernement du Burkina Faso<br/> relatif à l’emploi salarié des membres des familles des agents<br/> des missions officielles de chaque État dans l’autre<br/> et<br/> Accord entre le Gouvernement de la République française<br/> et le Gouvernement de la République du Paraguay<br/> relatif à l’emploi rémunéré des membres des familles des<br/> agents des missions officielles de chaque État dans l’autre</intitule>
+          </titreStruct>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2375077">
+            <intitule>Avenant à la convention du 20 mars 2018 entre le<br/>Gouvernement de la République française et le<br/>Gouvernement du Grand-Duché de Luxembourg en vue<br/>d’éviter les doubles impositions et de prévenir l’évasion et la fraude fiscales en matière d’impôts sur le revenu et la fortune</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2375080">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 20 janvier 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1784667" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2375087" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1784668" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375088" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1784669" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375089" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784669" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2375151" valeur=" (n[[o]] 3739)">
+      <orateurs/>
+      <texte>Prorogation de l’état d’urgence sanitaire</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784669" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2375152" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’un projet de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784669" ordre_absolu_seance="7" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375153" valeur=" (n[[os]] 3733, 3739)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion du projet de loi autorisant la prorogation de l’état d’urgence sanitaire et reportant la date de caducité des régimes institués pour faire face à la crise sanitaire (n<exposant>os</exposant> 3733, 3739).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784674" ordre_absolu_seance="8" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375094" valeur=" 3739" bibard=" 3739" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles <italique>(suite)</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784675" ordre_absolu_seance="9" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375095" valeur="" bibard=" 3739" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Cet après-midi, l’Assemblée a commencé la discussion des articles du projet de loi, s’arrêtant à l’amendement n<exposant>o</exposant> 58 à l’article 4.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784676" ordre_absolu_seance="10" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2375096" valeur=" 4" bibard=" 3739" art=" 4" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 4 <italique>(suite)</italique></texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784677" ordre_absolu_seance="11" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2375097" valeur=" 58" bibard=" 3739" art=" 4" adt=" 58" ssadt="">
+        <interExtraction nom_orateur="M. Paul Molac" id_acteur="PA607619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722936">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784677" ordre_absolu_seance="11" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375097" valeur=" 58" bibard=" 3739" art=" 4" adt=" 58" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de plusieurs amendements, n<exposant>os</exposant> 58, 14, 18, 63 et 5, pouvant être soumis à une discussion commune.<br/>La parole est à M. Paul Molac, pour soutenir l’amendement n<exposant>o</exposant> 58.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784678" ordre_absolu_seance="12" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375098" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Paul Molac</nom>
+                <id>607619</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement de cohérence avec l’amendement que j’ai déposé à l’article 2 sur la date de fin de l’état d’urgence sanitaire. Simple souci de parallélisme des formes.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784679" ordre_absolu_seance="13" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2375099" valeur=" 14" bibard=" 3739" art=" 4" adt=" 58" ssadt="">
+        <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784679" ordre_absolu_seance="13" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375099" valeur=" 14" bibard=" 3739" art=" 4" adt=" 58" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 14 de M. Philippe Gosselin est défendu.<br/>La parole est à Mme Emmanuelle Ménard, pour soutenir l’amendement n<exposant>o</exposant> 18.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784681" ordre_absolu_seance="15" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375101" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Ménard</nom>
+                <id>719608</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit, comme celui de M. Molac, d’un amendement de cohérence avec un amendement déposé à l’article 2.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784682" ordre_absolu_seance="16" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2375102" valeur=" 63" bibard=" 3739" art=" 4" adt=" 58" ssadt="">
+        <interExtraction nom_orateur="M. Alain David" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784682" ordre_absolu_seance="16" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375102" valeur=" 63" bibard=" 3739" art=" 4" adt=" 58" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 63 de M. Guillaume Larrivé est défendu.<br/>La parole est à M. Alain David, pour soutenir l’amendement n<exposant>o</exposant> 5.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784684" ordre_absolu_seance="18" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375104" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Alain David</nom>
+                <id>1008</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement vise, par coordination avec nos amendements aux articles 2 et 3, à limiter la prorogation de l’utilisation du système d’information de lutte contre le covid-19 à une durée de trois mois, soit jusqu’au 31 juillet 2021. Les risques d’atteinte au droit au respect de la vie privée induits par ce dispositif sont tels qu’il convient d’en limiter l’exploitation au strict nécessaire.<br/>Si d’aventure une autre prorogation s’avérait nécessaire, il appartiendrait au Gouvernement de la demander, dans le cadre d’un nouveau projet de loi.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Jean-Pierre Pont, quali  rapporteur de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République" id_acteur="PA2449" id_nomination_oe="-1" id_nomination_op="-4338216" id_mandat="PM723036">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784686" ordre_absolu_seance="20" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375106" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Jean-Pierre Pont, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784687" ordre_absolu_seance="21" id_acteur="PA2449" id_mandat="PM723036" id_nomination_oe="-1" id_nomination_op="-4338216" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375107" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Pierre Pont</nom>
+                <id>2449</id>
+                <qualite>rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Ces amendements comme les suivants ont pour objet de raccourcir la prorogation des systèmes d’information de santé Contact Covid et SIDEP – système d’information de dépistage populationnel – par coordination avec les amendements déposés sur les articles précédents.<br/>En cohérence avec les positions que j’ai déjà exprimées, je ne peux qu’y être défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Brigitte Bourguignon, quali  ministre déléguée chargée de l'autonomie" id_acteur="PA608083" id_nomination_oe="PM773475" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784689" ordre_absolu_seance="23" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2375109" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme la ministre déléguée chargée de l’autonomie, pour donner l’avis du Gouvernement.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784690" ordre_absolu_seance="24" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="1" id_syceron="2375110" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Brigitte Bourguignon</nom>
+                <id>608083</id>
+                <qualite>ministre déléguée chargée de l’autonomie</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis, monsieur le président.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784689" ordre_absolu_seance="25" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375155" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Paul Lecoq</nom>
+                <id>335612</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Et Olivier Véran, il n’a pas fait tout un sketch sur sa disponibilité pour le Parlement, tout à l’heure ?</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784691" ordre_absolu_seance="26" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375111" valeur=" 58, 14, 18, 63 et 5" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>58, 14, 18, 63 et 5, successivement mis aux voix, ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784692" ordre_absolu_seance="27" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375112" valeur=" 4" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique> </italique>
+            <italique>4 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784693" ordre_absolu_seance="28" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2375113" valeur=" 5" bibard=" 3739" art=" 5" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 5</texte>
+      <interExtraction nom_orateur="M. Nicolas Dupont-Aignan" id_acteur="PA1206" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723354">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784694" ordre_absolu_seance="29" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375114" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Nicolas Dupont-Aignan.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784695" ordre_absolu_seance="30" id_acteur="PA1206" id_mandat="PM723354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375115" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Dupont-Aignan</nom>
+              <id>1206</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite prendre une dernière fois la parole, sur cet article 5 et plus généralement sur l’ensemble du projet de loi, pour insister auprès de mes collègues sur la gravité de l’instant que nous vivons. Au nom de l’urgence sanitaire, l’Assemblée nationale s’apprête à s’asseoir sur la séparation des pouvoirs – car c’est bien de cela qu’il s’agit. Chose incroyable, les députés de la majorité, qui pourraient contrôler l’action de leur gouvernement et faire des propositions, vont accepter cette espèce de suicide collectif de notre assemblée.<br/>Je pèse mes mots : l’ordre institutionnel ne vaut plus, la Constitution n’existe plus, la séparation de pouvoirs n’existe plus. Il n’y a plus aucun moyen de contrôler les actes d’un exécutif qui prive nos concitoyens de leurs libertés : liberté de se réunir, liberté de circuler après une certaine heure, dans tous nos territoires. Comment les députés de la nation, comment les représentants du peuple peuvent-ils consentir à cela au nom d’une urgence sanitaire qui n’a plus rien d’une urgence puisque cela fait près d’un an que nous subissons ce terrible drame ?<br/>En aucun cas, il ne s’agit de sous-estimer la gravité de l’épidémie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784698" ordre_absolu_seance="33" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375118" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un peu, quand même !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784699" ordre_absolu_seance="34" id_acteur="PA1206" id_mandat="PM723354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375119" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Dupont-Aignan</nom>
+              <id>1206</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il s’agit seulement de garder vivante notre démocratie. Comment peut-on accepter de tuer notre démocratie, en supprimant le droit des représentants du peuple à s’exprimer sur ces sujets alors que jamais nous n’avons eu autant besoin de confiance entre les Français et leur gouvernement dans cette lutte contre la covid-19 ? Comment accepter, après avoir commis tant d’erreurs, après avoir montré tant d’arrogance et tant de mépris à l’égard des Français, de mettre fin aux pouvoirs du Parlement ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Vincent Rolland" id_acteur="PA266808" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723264">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784700" ordre_absolu_seance="35" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375120" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Vincent Rolland.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784701" ordre_absolu_seance="36" id_acteur="PA266808" id_mandat="PM723264" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375121" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Rolland</nom>
+              <id>266808</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais rebondir sur les propos de mon collègue. Nous avons appris il y a quelques heures que les stations de sports d’hiver ne rouvriraient pas en France. Cette décision n’a été précédée d’aucun débat dans l’hémicycle alors que la France est le leader mondial pour cette activité touristique qui génère 10 milliards d’euros de recettes par an. À l’échelle de la saison d’hiver, cela correspond à un plan social extrêmement douloureux. Ce sont des dizaines de milliers de socio-professionnels que l’on place dans une situation d’incertitude absolument insupportable. Et de cela, nous n’avons pas pu débattre dans cet hémicycle, je le répète, alors qu’il revient aux représentants du peuple de faire entendre à nos gouvernants les difficultés des territoires.<br/>Cette décision est extrêmement malvenue ; pire, elle est injuste, et lorsqu’une décision est injuste, elle est mal comprise et soulève la colère des socio-professionnels et des territoires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784703" ordre_absolu_seance="38" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375123" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Martine Wonner" id_acteur="PA722268" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723522">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784704" ordre_absolu_seance="39" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375124" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Martine Wonner.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784705" ordre_absolu_seance="40" id_acteur="PA722268" id_mandat="PM723522" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375125" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Martine Wonner</nom>
+              <id>722268</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie mon collègue d’avoir évoqué les stations de ski alors que notre assemblée s’apprête à adopter cette prorogation de l’état d’urgence sanitaire – je ne doute pas en effet que les députés de la majorité valideront cette dynamique qui s’est mise en marche, c’est le cas de le dire, en février 2020 et qui a donné lieu au premier confinement, le 17 mars.<br/>J’ai moi aussi été alertée. Depuis de très nombreuses années, il n’y avait jamais eu autant de neige dans le massif des Vosges, qui accueille principalement des personnes venues skier à la journée, le plus souvent en famille, et non pas, comme semblent le craindre les députés de la majorité, des débauches de jeunes prenant des pots, partageant de longs moments d’échanges après avoir fait du sport. Pourquoi sacrifier cette filière économique ? Pourquoi sacrifier nos territoires ? Au nom de quoi ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784707" ordre_absolu_seance="42" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375127" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Bourguignon</nom>
+              <id>608083</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour le plaisir, sûrement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784708" ordre_absolu_seance="43" id_acteur="PA722268" id_mandat="PM723522" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375128" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Martine Wonner</nom>
+              <id>722268</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom d’un virus qu’on refuse de soigner, alors qu’il existe des possibilités thérapeutiques. <italique>(M. Nicolas Dupont-Aignan applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784709" ordre_absolu_seance="44" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375129" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard et M. Pacôme Rupin</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah oui ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784710" ordre_absolu_seance="45" id_acteur="PA722268" id_mandat="PM723522" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375130" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Martine Wonner</nom>
+              <id>722268</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À la fin de la séance de cet après-midi, je n’ai pas pu aller au bout de mes interrogations et j’aimerais y revenir, si vous me le permettez, mes chers collègues. Pourquoi remplace-t-on la relation médecin-patient par un logiciel ? C’est bien ce qu’il se passe aujourd’hui. <italique>(Protestations sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784710" ordre_absolu_seance="46" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375157" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784710" ordre_absolu_seance="47" id_acteur="PA722268" id_mandat="PM723522" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375156" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Martine Wonner</nom>
+              <id>722268</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sans jamais voir un médecin, on peut en effet, à travers une interface, se déclarer en tant que malade, accéder à un test PCR ou obtenir un arrêt de travail. <italique>(M. Nicolas Dupont-Aignan applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784711" ordre_absolu_seance="48" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2375131" valeur=" 24" bibard=" 3739" art=" 5" adt=" 24" ssadt="">
+        <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784711" ordre_absolu_seance="48" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375131" valeur=" 24" bibard=" 3739" art=" 5" adt=" 24" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de trois amendements de suppression, n<exposant>os</exposant> 24, 30 et 90.<br/>La parole est à Mme Emmanuelle Ménard, pour soutenir l’amendement n<exposant>o</exposant> 24.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784712" ordre_absolu_seance="49" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375132" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Ménard</nom>
+                <id>719608</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Proroger les possibilités d’instaurer l’état d’urgence sanitaire jusqu’au 31 décembre 2021 n’est pas souhaitable. Cela ne respecte ni les libertés des Français ni le Parlement – rappelons que pour amender ce texte, les députés ont disposé de moins de vingt-quatre heures. Si le projet de loi est adopté, la France aura été soumise à un régime d’urgence sanitaire pendant près de deux ans : quel respect pour notre démocratie ?<br/>Cela pose de multiples questions. Je le répète, nous sommes passés de l’état d’urgence sanitaire à l’état d’urgence démocratique. Il nous faut malheureusement apprendre à vivre avec le virus, le Président de la République l’a dit lui-même. Cela implique de sortir de l’état d’urgence pour revenir au cours normal des choses, y compris du point de vue des règles juridiques.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784714" ordre_absolu_seance="51" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2375134" valeur=" 30" bibard=" 3739" art=" 5" adt=" 24" ssadt="">
+        <interExtraction nom_orateur="M. Gabriel Serville" id_acteur="PA610667" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723146">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784714" ordre_absolu_seance="51" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375134" valeur=" 30" bibard=" 3739" art=" 5" adt=" 24" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 30 de Mme Martine Wonner est défendu.<br/>La parole est à M. Gabriel Serville, pour soutenir l’amendement n<exposant>o</exposant> 90.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784716" ordre_absolu_seance="53" id_acteur="PA610667" id_mandat="PM723146" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375136" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Gabriel Serville</nom>
+                <id>610667</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Tout cela nous ramène au débat que nous avons eu précédemment sur le fait que les décisions concernant l’outre-mer sont alignées sur celles prises au niveau de la France hexagonale. Si les situations étaient analogues, nous pourrions le comprendre mais elles diffèrent profondément. Il aurait donc fallu différencier les calendriers. J’invite donc la représentation nationale à s’interroger sur ces difficultés et à s’efforcer de trouver une solution adaptée à nos territoires.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784717" ordre_absolu_seance="54" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375137" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Paul Dufrègne</nom>
+                <id>718720</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Excellent !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784718" ordre_absolu_seance="55" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375138" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. André Chassaigne</nom>
+                <id>267306</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Intervention très pertinente !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Jean-Pierre Pont, quali  rapporteur" id_acteur="PA2449" id_nomination_oe="-1" id_nomination_op="-4338216" id_mandat="PM723036">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784719" ordre_absolu_seance="56" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2375139" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784720" ordre_absolu_seance="57" id_acteur="PA2449" id_mandat="PM723036" id_nomination_oe="-1" id_nomination_op="-4338216" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2375140" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Pierre Pont</nom>
+                <id>2449</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Avis défavorable. L’état d’urgence sanitaire est particulièrement utile dans les territoires d’outre-mer qui, je vous le rappelle, sont spécialement vulnérables face à l’épidémie. Sa prorogation en Guyane et à Mayotte a été efficace : elle a permis de faire reculer la circulation du virus. En outre, le régime de l’état d’urgence sanitaire rend possible une différenciation selon les territoires.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Brigitte Bourguignon, quali  ministre déléguée" id_acteur="PA608083" id_nomination_oe="PM773475" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784722" ordre_absolu_seance="58" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2375142" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784723" ordre_absolu_seance="59" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2375143" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Brigitte Bourguignon</nom>
+                <id>608083</id>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Julien Aubert" id_acteur="PA609726" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723426">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784724" ordre_absolu_seance="60" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375144" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Julien Aubert.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784725" ordre_absolu_seance="61" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375145" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Julien Aubert</nom>
+                <id>609726</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Si nous avons un débat sur l’état d’urgence, c’est pour déterminer ce que peuvent être ses limites et ce qui justifie le choix de son calendrier ; or à aucun moment on ne nous a expliqué pourquoi la date du 31 décembre 2021 avait été retenue. Pourquoi décembre plutôt que septembre ?<br/>Nous avons cherché à expliquer que, face aux évolutions de la situation sanitaire, il fallait instaurer des rendez-vous de confiance avec le Gouvernement, mais nous nous sommes heurtés à une forme de monolithisme de la part de la majorité. Cela prête d’ailleurs à sourire de voir comme les députés élus sous votre étiquette font l’objet, une fois sortis du troupeau,…</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784727" ordre_absolu_seance="63" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375147" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Brigitte Bourguignon</nom>
+                <id>608083</id>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Ne parlez pas de troupeau !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1784728" ordre_absolu_seance="64" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375148" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Julien Aubert</nom>
+                <id>609726</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>…de remarques agressives voire de ricanements parce qu’ils osent vous renvoyer à votre propre obéissance.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784874" ordre_absolu_seance="65" id_acteur="PA722398" id_mandat="PM723562" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375159" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Rémy Rebeyrotte</nom>
+                <id>722398</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Un beau signe de moralité !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784875" ordre_absolu_seance="66" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375160" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Julien Aubert</nom>
+                <id>609726</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Ah, mais on peut choisir d’être un parlementaire aux ordres de l’Élysée ! Récemment, dans <italique>Le Monde</italique>, Emmanuel Macron se glorifiait de rendre lui-même les arbitrages sur les temps de parole dans le cadre de l’examen du projet de loi sur le séparatisme… C’est une conception de la V<exposant>e</exposant> République, même si ce n’est pas la mienne !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784875" ordre_absolu_seance="67" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375217" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Mathilde Panot</nom>
+                <id>720892</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Ah, un partisan de la VI<exposant>e</exposant> République ! Vive la Constituante !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784875" ordre_absolu_seance="68" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375216" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Julien Aubert</nom>
+                <id>609726</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Néanmoins, vous pourriez profiter du temps de parole dont nous disposons – puisque nous en avons encore un peu – pour discuter du fond et nous expliquer pourquoi vous cherchez absolument à battre le record de l’état d’urgence en Algérie, c’est-à-dire enfiler plusieurs années de suite, en se demandant quand et dans quelles conditions on pourra y mettre fin.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784876" ordre_absolu_seance="69" id_acteur="PA1206" id_mandat="PM723354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375161" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Nicolas Dupont-Aignan</nom>
+                <id>1206</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Eh oui !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784877" ordre_absolu_seance="70" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375162" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je vous rappelle, cher collègue, que c’est la conférence des présidents qui fixe les temps de parole, et personne d’autre.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784878" ordre_absolu_seance="71" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375163" valeur=" 24, 30 et 90" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements</italique>
+            <italique/>
+            <italique>identiques n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>24, 30 et 9</italique>
+            <italique>0 </italique>
+            <italique>ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784879" ordre_absolu_seance="72" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2375164" valeur=" 23" bibard=" 3739" art=" 5" adt=" 23" ssadt="">
+        <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784879" ordre_absolu_seance="72" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375164" valeur=" 23" bibard=" 3739" art=" 5" adt=" 23" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de trois amendements, n<exposant>os</exposant> 23, 59 et 6, pouvant être soumis à une discussion commune.<br/>La parole est à Mme Emmanuelle Ménard, pour soutenir l’amendement n<exposant>o</exposant> 23.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784880" ordre_absolu_seance="73" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375165" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Ménard</nom>
+                <id>719608</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement de repli par rapport à l’amendement précédent. Je propose de ramener la date de caducité du régime juridique de l’état d’urgence sanitaire au 21 juin 2021, au lieu du 31 décembre 2021. Le plan de vaccination présenté par le Gouvernement est censé s’achever à la fin du printemps ; le 21 juin correspondant au début de l’été…</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784880" ordre_absolu_seance="74" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375219" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Sylvain Maillard</nom>
+                <id>717379</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Exact !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784880" ordre_absolu_seance="75" id_acteur="PA720754" id_mandat="PM723066" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375220" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Bruno Studer</nom>
+                <id>720754</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>C’est la fête de la musique, aussi !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784880" ordre_absolu_seance="76" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375218" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Ménard</nom>
+                <id>719608</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>…cela semble être une bonne date pour mettre fin à la possibilité de recourir à l’état d’urgence sanitaire.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784881" ordre_absolu_seance="77" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2375166" valeur=" 59" bibard=" 3739" art=" 5" adt=" 23" ssadt="">
+        <interExtraction nom_orateur="M. Alain David" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784881" ordre_absolu_seance="77" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375166" valeur=" 59" bibard=" 3739" art=" 5" adt=" 23" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 59 de M. Paul Molac est défendu.<br/>La parole est à M. Alain David, pour soutenir l’amendement n<exposant>o</exposant> 6 de Mme Karamanli.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784883" ordre_absolu_seance="79" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375168" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Alain David</nom>
+                <id>1008</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement de cohérence avec les amendements que nous avons défendus précédemment : il tire les conséquences de ceux-ci pour l’outre-mer.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Jean-Pierre Pont, quali  rapporteur" id_acteur="PA2449" id_nomination_oe="-1" id_nomination_op="-4338216" id_mandat="PM723036">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784884" ordre_absolu_seance="80" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2375169" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Sur ces trois amendements, quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784885" ordre_absolu_seance="81" id_acteur="PA2449" id_mandat="PM723036" id_nomination_oe="-1" id_nomination_op="-4338216" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2375170" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Pierre Pont</nom>
+                <id>2449</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Brigitte Bourguignon, quali  ministre déléguée" id_acteur="PA608083" id_nomination_oe="PM773475" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784886" ordre_absolu_seance="82" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375171" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784887" ordre_absolu_seance="83" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375172" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Brigitte Bourguignon</nom>
+                <id>608083</id>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784888" ordre_absolu_seance="84" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375173" valeur=" 23, 59 et 6" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>23, 59 et 6, successivement mis aux voix, ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784889" ordre_absolu_seance="85" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375174" valeur=" 5" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique> </italique>
+            <italique>5 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784890" ordre_absolu_seance="86" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2375175" valeur="" bibard=" 3739" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Titre</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784891" ordre_absolu_seance="87" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2375176" valeur=" 85" bibard=" 3739" art="" adt=" 85" ssadt="">
+        <interExtraction nom_orateur="Mme Nathalie Porte" id_acteur="PA719020" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774184">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784891" ordre_absolu_seance="87" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375176" valeur=" 85" bibard=" 3739" art="" adt=" 85" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de deux amendements, n<exposant>os</exposant> 85 et 86, pouvant être soumis à une discussion commune.<br/>La parole est à Mme Nathalie Porte, pour soutenir l’amendement n<exposant>o</exposant> 85.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784892" ordre_absolu_seance="88" id_acteur="PA719020" id_mandat="PM774184" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375177" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Nathalie Porte</nom>
+                <id>719020</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cette nouvelle rédaction du titre vise à expliciter ce que l’exécutif tente de cacher, à savoir que l’état d’urgence sanitaire constitue une restriction majeure des libertés fondamentales, à valeur constitutionnelle, de nos concitoyens.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784892" ordre_absolu_seance="89" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2375221" valeur=" 86" bibard=" 3739" art="" adt=" 86" ssadt="">
+        <interExtraction nom_orateur="M. Jean-Pierre Pont, quali  rapporteur" id_acteur="PA2449" id_nomination_oe="-1" id_nomination_op="-4338216" id_mandat="PM723036">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784892" ordre_absolu_seance="89" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2375221" valeur=" 86" bibard=" 3739" art="" adt=" 86" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le rapporteur, pour soutenir l’amendement n<exposant>o</exposant> 86.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784892" ordre_absolu_seance="90" id_acteur="PA2449" id_mandat="PM723036" id_nomination_oe="-1" id_nomination_op="-4338216" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375222" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Pierre Pont</nom>
+                <id>2449</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il est de clarification. Et, pour la première fois de la soirée, je suis favorable à un amendement !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Jean-Pierre Pont, quali  rapporteur" id_acteur="PA2449" id_nomination_oe="-1" id_nomination_op="-4338216" id_mandat="PM723036">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784892" ordre_absolu_seance="91" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2375227" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>J’imagine, sans vouloir interpréter votre pensée, que vous êtes défavorable à l’amendement n<exposant>o</exposant> 85 ? </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784894" ordre_absolu_seance="92" id_acteur="PA2449" id_mandat="PM723036" id_nomination_oe="-1" id_nomination_op="-4338216" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375179" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Pierre Pont</nom>
+                <id>2449</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>En effet.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Brigitte Bourguignon, quali  ministre déléguée" id_acteur="PA608083" id_nomination_oe="PM773475" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784895" ordre_absolu_seance="93" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375180" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Mme la ministre déléguée, quel est votre avis ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784896" ordre_absolu_seance="94" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375181" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Brigitte Bourguignon</nom>
+                <id>608083</id>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis que M. le rapporteur. Défavorable à l’amendement n<exposant>o</exposant> 85 et favorable à l’amendement n<exposant>o</exposant> 86.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784897" ordre_absolu_seance="95" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375182" valeur=" 85" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>85 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784898" ordre_absolu_seance="96" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375183" valeur=" 86" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>86 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784899" ordre_absolu_seance="97" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375184" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur l’ensemble du projet de loi, je suis saisi par le groupe La France insoumise d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784900" ordre_absolu_seance="98" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375185" valeur="">
+      <orateurs/>
+      <texte>Explications de vote</texte>
+      <interExtraction nom_orateur="M. Sébastien Jumel" id_acteur="PA722202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784901" ordre_absolu_seance="99" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375186" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Jumel. <italique>(Brouhaha.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784902" ordre_absolu_seance="100" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375187" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’attends que cela se calme… nous ne sommes pas pressés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784903" ordre_absolu_seance="101" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375188" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je propose que nous écoutions l’intervention de M. Jumel, dans un silence attentif.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784904" ordre_absolu_seance="102" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375189" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le président Chassaigne, qui est toujours de bon conseil pour l’ensemble des membres de son groupe, me rappelait qu’en 1852, la transformation du bois de Boulogne a mené à la création d’un jardin d’acclimatation, à l’initiative d’une société savante. Il s’agissait à l’époque de faire en sorte que les animaux exotiques s’habituent à vivre cloîtrés, au fur et à mesure.<br/>J’utilise cette métaphore parce que nous avons le sentiment qu’en gravant la privation des libertés dans le marbre des règles de la démocratie parlementaire, en mettant sous cloche…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784905" ordre_absolu_seance="104" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375190" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pacôme Rupin</nom>
+              <id>722142</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quelle honte de dire cela !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784906" ordre_absolu_seance="105" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375191" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…de manière pérenne la capacité des parlementaires, des organisations syndicales et même des citoyens à discuter des décisions que vous prenez solitairement, dans la confidence du conseil de défense, vous courez le risque d’abîmer durablement nos libertés fondamentales et la démocratie. Vous prenez surtout le risque de créer les conditions d’une non-adhésion, pourtant nécessaire dans la relation de confiance dont nous avons besoin si nous voulons lutter efficacement contre la crise sanitaire à laquelle nous sommes confrontés. Voilà le premier motif expliquant notre rejet de votre volonté de perpétuer l’état d’urgence.<br/>La deuxième raison de notre opposition, c’est que nous avons formulé depuis le début de cette crise des propositions concrètes, constructives, s’appuyant sur l’expertise des acteurs de terrain et sur l’intelligence des élus locaux, pour faire en sorte d’être plus efficaces dans la lutte contre le virus. Mais, à chaque étape, vous vous êtes enfermés, là encore, dans la turpitude sinon de vos mensonges, ce qui serait sévère, en tout cas de la contre-vérité. Ce fut le cas s’agissant des tests ou des masques.<br/>Aujourd’hui, alors que les acteurs de terrain sont prêts à soutenir une campagne de vaccination, pour prendre en charge les plus fragiles, pour être aux côtés de nos aînés, vous masquez l’insuffisance des doses, vous refusez les propositions que nous formulons pour nous réapproprier l’appareil productif. Je pense notamment à celles concernant Sanofi, afin de doter la France d’une souveraineté en matière de production vaccinale – comme si, à vos yeux, la seule manière de lutter contre ce satané virus, c’était la privation des libertés, le couvercle qu’il convient de mettre sur la tête des Français !<br/>En outre, avec vos arrière-pensées, vous avez l’intention, non pas pour les jours heureux mais pour les lendemains qui pleurent, de faire payer le coût de la crise toujours aux mêmes, à ceux qui ont été les premiers de corvée, les premiers de cordée. Je pense ainsi à vos velléités de revenir sur l’assurance chômage, sur le mauvais projet de réforme des retraites, et j’en passe…<br/>Tout cela nous conduit à penser que l’efficacité ne sera pas au rendez-vous et à continuer de formuler des propositions pour un État qui prend soin, un État qui protège, un État qui décide de réarmer son hôpital public. Aujourd’hui encore, nous avons reçu des témoignages d’hôpitaux qui subissent la crise, où les agents sont touchés eux-mêmes par le covid-19, où les soutiens en ressources humaines, en moyens matériels, où tout ce qui permettrait aux services de santé d’être armés pour faire face au virus, manquent. Vous ne répondez pas à toutes ces attentes, persuadés qu’on décide seul, qu’on peut avoir raison seul. Le Président de la République est enfermé dans cette certitude. Je suis très inquiet de voir la colère monter dans les territoires, à l’égard de votre manière verticale, technocratique, abusivement désincarnée, de gérer la crise.<br/>J’ajoute une phrase à l’intention de mes collègues d’outre-mer. Vous allez, dans quelque temps, proposer un texte sur la différenciation, pour éparpiller la République façon puzzle et mettre en place des compétences à géométrie variable pour les collectivités territoriales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784911" ordre_absolu_seance="111" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375196" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe LaREM</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un excellent texte !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784912" ordre_absolu_seance="112" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375197" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourtant, dans le même temps, vous refusez de prendre en considération les spécificités territoriales, celles de l’outre-mer défendues à l’instant par Gabriel Serville, ou en appliquant le couvre-feu de manière identique dans une commune de quelques dizaines d’habitants – comme celle des Ifs, dans ma circonscription –, qu’en plein cœur de la métropole de Lyon où le métro est ouvert, où les trains et les bus sont bondés. Les gens ne comprennent pas cette conception technocratique, désincarnée, déshumanisée – je sais que le mot ne vous fait pas plaisir – de la gestion de la crise. C’est pourquoi le groupe de la Gauche démocrate et républicaine votera contre la prolongation de l’état d’urgence. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Guillaume Gouffier-Cha" id_acteur="PA721296" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723228">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784913" ordre_absolu_seance="113" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375198" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Guillaume Gouffier-Cha.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784914" ordre_absolu_seance="114" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous arrivons au terme de nos débats sur un texte que le groupe La République en marche votera en connaissance de cause, en responsabilité…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784915" ordre_absolu_seance="115" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375200" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784916" ordre_absolu_seance="116" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375201" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…tout en sachant que les décisions que nous prenons aujourd’hui et depuis le début de cette crise sont lourdes, difficiles ; elles ne sont pas anodines, et elles engendrent des conséquences sur la vie de tous les jours de nos concitoyennes et de nos concitoyens. Mais ces décisions, nous devons les prendre, aujourd’hui encore, eu égard à la crise que nous traversons, eu égard à la réalité de cette pandémie qui continue de toucher durement les Françaises et les Français, eu égard à une crise qui comporte encore beaucoup d’inconnues et qui suscite des inquiétudes pour les semaines à venir.<br/>Cette crise nous amène à prendre la décision de proroger le régime de l’état d’urgence et de proroger l’état d’urgence jusqu’au 1<exposant>er</exposant> juin, afin de disposer des outils, du cadre juridique respectueux de nos institutions et de notre Constitution, nous permettant d’agir, de prendre des décisions afin de protéger la vie de nos concitoyennes et de nos concitoyens, des décisions qui permettent à nos hôpitaux…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784917" ordre_absolu_seance="118" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375202" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parlons-en !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784918" ordre_absolu_seance="119" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375203" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…de continuer à fonctionner et de ne pas se trouver en état de surcharge. Nous les prenons en connaissance de cause et en responsabilité, je le répète. Ces décisions, nous les prenons aussi après un débat…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784919" ordre_absolu_seance="120" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375204" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est le Gouvernement qui les prend, ce n’est pas nous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784920" ordre_absolu_seance="121" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375205" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…qui nous a conduits à exprimer des exigences vis-à-vis du Gouvernement : nous avons supprimé l’article 3 et écarté la période transitoire qui nous était proposée jusqu’au 30 septembre prochain dans le projet de loi initial, car cette date nous paraissait trop lointaine. Cela nous amène, de facto, à mettre en place une clause de revoyure au 1<exposant>er</exposant> juin prochain ; nous discuterons donc de nouveau, avec le Gouvernement, des décisions que nous devrons prendre à la fin du printemps en fonction de la situation de ce moment-là.<br/>Avant de conclure, je voudrais revenir sur certains points entendus à plusieurs reprises tout au long de nos débats. Premièrement, le Parlement ne serait pas saisi, ni associé à aucun moment.<br/>Mais bien sûr qu’il est associé ! C’est la sixième fois que nous nous retrouvons pour débattre de ce sujet. Certes, il y a une majorité et une opposition. Désolé si cela vous fâche. Mais nous sommes suffisamment responsables pour prendre ces décisions que vous ne voulez pas prendre et que vous ne voulez plus assumer. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.) </italique>Ces décisions, nous les prenons et nous en parlons quasiment au quotidien, dans cette enceinte, ne vous en déplaise.<br/>Deuxièmement, nous ne ferions pas confiance aux collectivités territoriales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784925" ordre_absolu_seance="125" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375210" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est bien ça !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784926" ordre_absolu_seance="126" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375211" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais nous faisons confiance, bien évidemment, aux collectivités territoriales, avec lesquelles nous travaillons main dans la main. <italique>(Interruptions.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784926" ordre_absolu_seance="127" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375226" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous ne connaissez pas les territoires !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784927" ordre_absolu_seance="128" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375212" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’il vous plaît, chers collègues !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784928" ordre_absolu_seance="129" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Hier encore, j’étais à Nogent-sur-Marne avec la ministre déléguée Brigitte Bourguignon <italique>(Protestations sur les bancs du groupe LR)</italique>, qui est avec nous ce soir, aux côtés du maire de cette commune, Jacques J.P. Martin, du député de la circonscription Gilles Carrez et de la maire du Perreux-sur-Marne, Christel Royer. Nous y avons visité le centre de vaccination : il fonctionne, avec un maire travaillant main dans la main avec l’agence régionale de santé, et avec le préfet. Ce n’est pas le cas, il faut bien le dire, partout. Il y a des élus locaux qui, tournés vers les élections départementales ou régionales, instrumentalisent, en permanence, à longueur de journée, cette campagne de vaccination. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM. - Vives protestations sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784929" ordre_absolu_seance="130" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375214" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui, c’est honteux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1784930" ordre_absolu_seance="131" id_acteur="PA721296" id_mandat="PM723228" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375215" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Gouffier-Cha</nom>
+              <id>721296</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela est scandaleux. Ils font ainsi passer l’intérêt communal avant l’intérêt général. Là est la réalité, il faut le dire et le dénoncer afin que la campagne de vaccination se passe dans les meilleures conditions possibles. C’est la réalité, ne vous en déplaise. <italique>(Vives protestations continuées sur les bancs du groupe LR.)</italique><br/>Certains maires se plaignent ou formulent des critiques et, dans le même temps, appliquent mal les recommandations qui sont délivrées, contrairement à ceux qui, sur le terrain au quotidien, font tout pour que cette campagne de vaccination soit un succès.<br/>On nous dit que les Français seraient contre toutes ces mesures. Ce n’est pas vrai. Nous le savons, la période est difficile, contraignante, douloureuse, mais ils appliquent les règles au quotidien. Grâce à leur sens de la responsabilité, ils permettront de passer cette crise et de revenir à une vie normale, nous l’espérons, le plus rapidement possible. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784932" ordre_absolu_seance="134" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2374943" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784933" ordre_absolu_seance="135" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2374944" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une fois encore, nous nous retrouvons au cœur d’un débat qui paraît quelque peu déconnecté de la réalité. Je ne sais pas si vous vous rendez compte du ras-le-bol que de plus en plus de nos concitoyens expriment. Évidemment, la situation sanitaire est grave : personne ne le conteste.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784933" ordre_absolu_seance="136" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374986" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si, un peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784933" ordre_absolu_seance="137" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374985" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr, le Gouvernement doit avoir les moyens de sa politique sanitaire. Toutefois, vous piétinez – il n’y a pas d’autre mot – des droits, des libertés fondamentales. Nous banalisons, semaine après semaine, le recours à l’état d’urgence sanitaire. Or, à l’image de l’état d’urgence sécuritaire, le recours à l’état d’urgence sanitaire, c’est la suspension d’un certain nombre de droits et de libertés fondamentales,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784934" ordre_absolu_seance="138" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374945" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784935" ordre_absolu_seance="139" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374946" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…c’est la suspension d’un certain nombre d’articles du code du travail ou de la sécurité sociale. Ce n’est pas un état normal. <italique>(Mme</italique><italique> </italique><italique>Mathilde Panot applaudit.)</italique><br/>Qu’il soit nécessaire de recourir, en tant que de besoin, à cet état de façon pondérée et modérée, pourquoi pas ? Mais là, je vous le dis franchement, vous tombez dans la facilité. Ce n’est plus un parapluie d’un mètre carré, mais un parasol de marché de dix mètres carrés que vous avez au-dessus de la tête pour présenter des mesures qui sont appliquées de façon uniforme sur l’ensemble du territoire. C’est une vision technocratique très jacobine, que nous dénonçons bien évidemment.<br/>L’unité, oui, puisque la France est un pays unitaire, mais n’oubliez pas que c’est aussi un pays décentralisé. Appuyez-vous sur les territoires pour appliquer, par exemple, le couvre-feu. Pourquoi avoir fixé le couvre-feu à dix-huit heures partout en France, alors que les taux d’incidence et de réanimation sont différents, alors que les situations dans les territoires sont bien différentes ?<br/>Vous nous parlez depuis des mois, voire des années, de la 3D – déconcentration, décentralisation, différenciation –, voire de la 4D – déconcentration, décentralisation, différenciation et décomplexification –, du respect des territoires. En réalité, vous le faites du bout des lèvres. Vous avez du mal à faire confiance et à considérer que la France est diverse. C’est vrai pour les outre-mer comme sur le territoire continental.<br/>Enfin, vous niez clairement les contre-pouvoirs, ceux du Parlement comme ceux qui ont été établis et reconnus au fil du temps. Je pense à la Commission nationale de l’informatique et des libertés – CNIL –, qui n’a pas tout à fait les mêmes capacités aujourd’hui qu’hier et, peut-être, que demain – du moins je l’espère. Le rôle du défenseur des droits doit être renforcé dans une période comme celle-ci, de même que celui de la contrôleuse générale des lieux de privation de liberté. Dans les prisons ou les hôpitaux psychiatriques, la situation est bien délicate.<br/>N’enfermez pas notre démocratie, permettez-lui de respirer grâce à des clauses de revoyure régulières avec le Parlement, qui est le cœur battant de la démocratie. Oui à un conseil scientifique, pourquoi pas, dans certaines conditions. Oui à des conseils de défense, pourquoi pas, dans certaines conditions. Mais lorsque le Conseil scientifique, le Conseil de défense, le Haut Conseil à la vaccination et les jurés citoyens s’accumulent pour écarter le Parlement, nous disons non, car le cœur battant de l’État de droit est ici. En réalité, vous subissez les débats parce qu’il a fallu, faute de mieux, revenir devant le Parlement. Nous ne voulons pas de longs tunnels qui nous éloignent des clauses de revoyure.<br/>Enfin, vous récusez systématiquement toutes les avancées que nous vous soumettons. Sacha Houlié et moi-même avons proposé, comme d’autres parlementaires, la possibilité d’avoir dès maintenant un temps de respiration, qui permettrait de nous écouter et de tendre la main, à un moment où nous avons besoin d’unir nos forces, de lutter collectivement pour une année 2021 décovidée, plutôt que de nous isoler et de nous enfermer. En fait, c’est une forme de lazaret que vous construisez aujourd’hui. Regardons plutôt ensemble dans la même direction, permettez aux parlementaires de s’exprimer, aux forces démocratiques d’avoir des points de vue et d’exercer des contrôles. Alors, nous parviendrons peut-être ensemble à faire autrement et à vaincre. En tout cas, actuellement, les conditions ne sont absolument pas réunies. Voilà pourquoi le groupe Les Républicains votera contre la prorogation, sous cette forme, de l’état d’urgence sanitaire. <italique>(Applaudissements sur les bancs des groupes LR et GDR. – Mme Marie-Noëlle Battistel applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Latombe" id_acteur="PA721984" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723440">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784941" ordre_absolu_seance="146" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2374952" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Latombe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784942" ordre_absolu_seance="147" id_acteur="PA721984" id_mandat="PM723440" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2374953" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme je l’ai indiqué lors de la discussion générale, le groupe Mouvement démocrate (MoDem) et démocrates apparentés votera ce texte pour deux raisons.<br/>Tout d’abord, comme notre groupe souhaite qu’un bilan soit dressé avant d’inscrire certaines mesures dans le droit commun, il pense qu’il faut proroger l’état d’urgence sanitaire, le Gouvernement devant disposer d’un cadre juridique pour agir. C’est ce que nous faisons ce soir. Les dates fixées sont les bonnes. La suppression de l’article 3 en commission permet une clause de revoyure pour cet été, ce qui implique que nous revenions ici fin avril, début mai, pour discuter de ce sujet.<br/>Ensuite, nous voyons bien que la situation sanitaire évolue, tant chez nos voisins que chez nous, et qu’il faut laisser au Gouvernement la capacité de prendre des mesures rapidement sans, pour autant, rogner les pouvoirs du Parlement.<br/>En la matière, nous pensons qu’il n’y a pas de dichotomie. Nous voterons la prorogation de l’état d’urgence sanitaire. Nous aurons à nous exprimer sur plusieurs sujets puisque d’autres mesures pourraient être prises, notamment dans le cadre de la clause de revoyure. Nous pensons donc que le Parlement est respecté, mais il ne peut l’être totalement qu’à plusieurs conditions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784947" ordre_absolu_seance="151" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374958" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est donc un « oui mais » !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784948" ordre_absolu_seance="152" id_acteur="PA721984" id_mandat="PM723440" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374959" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Premièrement, il convient que l’ensemble des prérogatives du Parlement en matière de contrôle soient effectivement respectées, ce qui nécessite une transparence absolue : c’est ce que les Français nous demandent. Ils veulent comprendre et, à cette fin, être traités en adultes en recevant les informations nécessaires. Lors de la discussion générale, j’ai dit que nous apprécions que le ministre donne, en <italique>open data</italique>, toutes les informations sur la livraison des vaccins. Dans le contexte actuel, c’est absolument nécessaire car, sans ces informations, nos concitoyens, faute de les comprendre, n’accepteront plus les mesures prises. Nous sentons sur le terrain, de la part de nos concitoyens, une forme non seulement d’exaspération mais aussi d’incompréhension, qui risque d’exploser, ce que nous ne souhaitons pas. Nous voulons au contraire leur adhésion,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784949" ordre_absolu_seance="153" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374960" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784950" ordre_absolu_seance="154" id_acteur="PA721984" id_mandat="PM723440" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374961" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…ce qui suppose, je le répète, de traiter les Français en adultes et donc de disposer des informations en toute transparence.<br/>Deuxièmement, nous vous avons accordé le droit de légiférer par ordonnances. En tant que parlementaires, nous souhaitons que ces ordonnances soient déposées sur le bureau de l’Assemblée nationale le plus rapidement possible et qu’elles soient mises à l’ordre du jour pour que nous puissions en débattre. Les parlementaires souhaitent exercer leur pouvoir de contrôle et valider ou non les décisions qui ont été prises par le Gouvernement dans cette matière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784952" ordre_absolu_seance="156" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374963" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784953" ordre_absolu_seance="157" id_acteur="PA721984" id_mandat="PM723440" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374964" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, il faut que nous entendions tous ce que disent les oppositions, quand elles remontent des territoires une forme d’exaspération, qu’il s’agisse des élus locaux, de la population ou des professionnels. Certaines décisions qui peuvent être prises, comme la fermeture des stations de ski, doivent être expliquées aux Français afin qu’ils puissent les comprendre et se faire un avis en toute transparence. En sens inverse, il convient que nous puissions avoir les informations suffisantes pour leur expliquer les décisions. C’est à ces conditions que nous voterons ce texte, c’est à ces conditions que nous exercerons légitimement tout notre contrôle sur l’action du Gouvernement. <italique>(Applaudissements sur les bancs du groupe Dem.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784954" ordre_absolu_seance="158" id_acteur="PA719024" id_mandat="PM722536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374965" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Blanchet</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain David" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784955" ordre_absolu_seance="159" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2374966" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784956" ordre_absolu_seance="160" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2374967" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David</nom>
+              <id>1008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez refusé toutes nos propositions, vous avez refusé tous nos amendements. Vous refusez le contrôle parlementaire, vous refusez les propositions de la mission flash, malgré vos promesses d’ouverture.<br/>Après votre échec sur les masques, aujourd’hui c’est l’échec sur les vaccins. Par exemple, vous avez dit qu’au Perreux-sur-Marne, les élus travaillent main dans la main avec le Gouvernement. Or, à l’heure où je vous parle – vous pourrez le vérifier –, dans la circonscription de ma collègue Pires Beaune qui compte 120 000 habitants, il n’y a pas un seul centre de vaccination.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784957" ordre_absolu_seance="162" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374989" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas par circonscription.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784957" ordre_absolu_seance="163" id_acteur="PA608083" id_mandat="-1" id_nomination_oe="PM773475" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374990" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Bourguignon</nom>
+              <id>608083</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est au niveau du département.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784957" ordre_absolu_seance="164" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374988" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David</nom>
+              <id>1008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourtant, les élus aimeraient bien travailler main dans la main avec vous. Les représentants de l’État ont fait le choix de ne pas ouvrir de centres. Vous pouvez toujours prétendre que l’opposition ne veut pas collaborer avec vous…<br/>Ce soir, un ministre a annoncé que vous comptiez relancer la discussion sur la réforme des retraites. Avez-vous l’intention de faire payer la crise par les retraités ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784958" ordre_absolu_seance="166" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374992" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh, oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784958" ordre_absolu_seance="167" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374993" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils n’ont peur de rien.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784958" ordre_absolu_seance="168" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374991" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David</nom>
+              <id>1008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est ce que je pense. Ils n’ont peur de rien, ils osent tout, et c’est d’ailleurs à cela qu’on les reconnaît. <italique>(Rires sur les bancs des groupes SOC, FI et GDR.)</italique> Voilà pourquoi nous, les députés du groupe Socialistes et apparentés, refusons de voter la prorogation de l’état d’urgence sanitaire. <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Becht" id_acteur="PA642935" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723238">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784959" ordre_absolu_seance="169" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2374970" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Olivier Becht.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784960" ordre_absolu_seance="170" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2374971" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Agir ensemble votera à une large majorité la prorogation de l’état d’urgence sanitaire. Il serait irresponsable de ne pas le faire au moment où le nombre de personnes atteintes du covid-19 augmente, où celui des personnes en réanimation augmente. Il faut bien prendre ses responsabilités à un moment ou un autre.<br/>Néanmoins, un certain nombre de membres de notre groupe s’abstiendront ou ne prendront pas part au vote,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784961" ordre_absolu_seance="172" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374972" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Y auraient-ils des irresponsables dans votre groupe ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784961" ordre_absolu_seance="173" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375049" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le leur avez-vous dit ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784962" ordre_absolu_seance="174" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374973" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…parce qu’ils estiment que nous atteignons, au fur et à mesure que la crise s’éternise, le seuil d’acceptabilité des mesures que nous prenons.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784963" ordre_absolu_seance="175" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374974" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils ont peut-être raison ! Écoutez-les !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784964" ordre_absolu_seance="176" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374975" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous ne pourrons pas, madame la ministre déléguée, traverser l’année 2021 en confinant, déconfinant, reconfinant ou en déclarant des couvre-feux. Ce n’est pas possible pour les Françaises et les Français, ni psychologiquement, ni économiquement, ni financièrement. Il est donc nécessaire d’imaginer d’autres solutions. C’est ce que le groupe Agir ensemble souhaite proposer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784964" ordre_absolu_seance="177" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375050" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Laissons le pouvoir au Parlement ! Ne votez pas ce texte !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784965" ordre_absolu_seance="178" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374976" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous rejoignons nos amis du Mouvement démocrate (MoDem) et démocrates apparentés qui considèrent qu’il faut, à un moment ou un autre, avoir ce débat, ici, entre nous,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784966" ordre_absolu_seance="179" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374977" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Raison de plus, vous êtes incohérents !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784967" ordre_absolu_seance="180" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374978" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Assumez !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784968" ordre_absolu_seance="181" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374979" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…pour savoir comment accompagner cette stratégie sanitaire. On ne peut pas tout faire reposer sur l’espoir du vaccin. Si le vaccin est un espoir, nous savons pertinemment qu’il faudra une grande partie de l’année 2021, en admettant que tout aille bien, pour parvenir à l’immunité collective. Très loin des polémiques stériles de groupes politiques sur la question du vaccin,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784969" ordre_absolu_seance="182" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374980" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ayez du courage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784970" ordre_absolu_seance="183" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374981" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cher collègue, je ne vous ai pas interrompu ! La moindre des politesses, c’est d’écouter !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784971" ordre_absolu_seance="184" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374982" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Chers collègues, un peu de calme !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1784972" ordre_absolu_seance="185" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374983" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous savons que, si le vaccin est efficace, il faudra traverser cette année 2021 avec des mesures qui ne seront pas celles de l’immunité collective. Nous savons également que des variants circulent, dont certains seront peut-être, hélas ! résistants au vaccin.<br/>C’est la raison pour laquelle les députés du groupe Agir ensemble ont appelé à une politique agressive de lutte contre le virus, afin de l’éradiquer et de retrouver une vie normale. Cela nécessite…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784820" ordre_absolu_seance="187" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374996" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un peu de courage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784821" ordre_absolu_seance="188" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2374997" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous êtes vraiment lassants, je suis désolé de vous le dire, mais c’est insupportable d’entendre les élus Les Républicains gueuler en permanence dans notre dos ! <italique>(Applaudissements sur les bancs des groupes Agir ens, LaREM et Dem.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784822" ordre_absolu_seance="189" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2374998" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Savignat, je vous demande expressément d’arrêter de hurler : on ne peut pas travailler dans de telles conditions. Monsieur Becht, vous avez la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784824" ordre_absolu_seance="190" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375000" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, monsieur le président.<br/>Cela exige de mener une véritable guérilla : c’est le seul moyen d’éradiquer ce virus. Elle nécessite de contrôler nos frontières, d’imposer un test PCR et une période de quarantaine à l’entrée du territoire pour éviter l’importation des variants, de combattre le virus région par région, commune par commune, rue par rue <italique>(Applaudissements sur plusieurs bancs du groupe UDI-I.–</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Christophe Blanchet applaudit également), </italique>d’analyser les eaux usées pour mesurer la circulation du virus, de systématiser les tests, d’isoler strictement, tout en les accompagnant, les personnes positives jusqu’à ce qu’elles ne soient plus contagieuses, le tout afin de casser les chaînes de contamination.<br/>Nous souhaitons que ces propositions soient intégrées dans la stratégie sanitaire et qu’elles soient débattues dans cet hémicycle, parce que c’est le lieu du débat démocratique. <italique>(Applaudissements sur les bancs des groupes UDI-I et Agir ens. – Exclamations sur les bancs des groupes LR et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pascal Brindeau" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM761932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784827" ordre_absolu_seance="193" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375003" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est maintenant, dans la sérénité, le respect et l’écoute, à M. Pascal Brindeau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784828" ordre_absolu_seance="194" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375004" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci monsieur le président.<br/>Nous débattons et légiférons sur l’état d’urgence sanitaire, comme d’ailleurs sur beaucoup d’autres sujets, dans les pires conditions et je crains que, jamais sous la V<exposant>e</exposant> République, l’Assemblée nationale n’ait été autant un théâtre d’ombres. Finalement, à quoi servent nos débats de ce soir ? À rien, puisque le seul argument que le ministre nous oppose est le suivant : « Si vous ne nous donnez pas, en prorogeant l’état d’urgence, les moyens d’assurer la sécurité sanitaire de nos concitoyens, comment voulez-vous lutter contre la propagation du virus dans une situation sanitaire qui se dégrade ? »<br/>Depuis mars dernier, avons-nous ici débattu du confinement et l’avons-nous voté ? Non. Avons-nous ici débattu de la fermeture des restaurants et des lieux de culture et l’avons-nous votée ?<italique> («</italique><italique> </italique><italique>Non</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» sur les bancs des groupes </italique><italique>UDI-I, </italique><italique>LR, GDR</italique><italique> et FI</italique><italique>.) </italique>Non. Avons-nous ici débattu de la stratégie de déconfinement et l’avons-nous votée ? <italique>(Mêmes mouvements.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784831" ordre_absolu_seance="197" id_acteur="PA721616" id_mandat="PM723334" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375007" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pacôme Rupin</nom>
+              <id>721616</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais si ! Il y a eu un vote !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784832" ordre_absolu_seance="198" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375008" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non. Avons-nous voté en octobre dernier la stratégie de reconfinement, fût-il partiel ?<italique> (Mêmes mouvements.) </italique>Pas plus, ni aucune des mesures qui ont été prises ensuite par l’exécutif, puisque nous nous étions, à sa demande, totalement dessaisis de nos prérogatives en matière législative. <italique>(Applaudissements sur les bancs du groupe UDI-I et sur plusieurs bancs du groupe LR.)</italique><br/>C’est ce que vous nous demandez à nouveau de faire. Finalement, tout ce dont nous pouvions débattre ce soir, c’était de la durée de cette prorogation : jusqu’en juin ou jusqu’en septembre, le texte initial prévoyant même un régime dérogatoire de sortie de l’état d’urgence ? Ou pour peu de temps, afin de vous obliger à revenir devant la représentation nationale solliciter à nouveau la prolongation de ce régime ? Celui-ci, en effet, n’est pas anodin puisqu’il donne la possibilité, encore une fois, a priori sans contrôle ni débat, de restreindre des libertés individuelles et collectives fondamentales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784834" ordre_absolu_seance="200" id_acteur="PA605131" id_mandat="PM774339" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375010" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Castaner</nom>
+              <id>605131</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous protégeons les Français !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784835" ordre_absolu_seance="201" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375011" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pas plus que nous, monsieur Castaner ! <italique>(Applaudissements sur les bancs des groupes UDI-I et LR, ainsi que sur ceux du groupe GDR.) </italique>Vous ne protégez pas plus les Français que nous. Vous l’avez démontré depuis le début de cette crise : le Gouvernement et sa majorité sont en retard sur tous les sujets, qu’il s’agisse de l’évolution du virus, des masques, des tests et, aujourd’hui, de la vaccination, et vous nous demandez, en plus, de nous agenouiller pour vous laisser faire ce que vous voulez ? Jamais !<br/>Je suis un défenseur des droits du Parlement et tant que je serai ici je défendrai son droit de débattre et de légiférer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784836" ordre_absolu_seance="203" id_acteur="PA605131" id_mandat="PM774339" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375051" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Castaner</nom>
+              <id>605131</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et que proposez-vous ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784836" ordre_absolu_seance="204" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375052" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, il faut rappeler M. Castaner à l’ordre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784837" ordre_absolu_seance="205" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375013" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Lagarde, seul M. Brindeau a la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784838" ordre_absolu_seance="206" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375014" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après en avoir débattu au sein du groupe UDI et indépendants, nous avons décidé que notre liberté de vote serait totale. Ceux d’entre nous qui ont l’impression d’être pieds et poings liés et de n’avoir pas d’autre choix que d’accorder la prorogation de l’état d’urgence sanitaire au Gouvernement voteront en faveur de ce texte, mais d’autres s’abstiendront ou encore voteront contre parce que, encore une fois, vous n’avez pas su créer la confiance au sein de cette assemblée, ni les conditions d’un dialogue minimal avec vos oppositions, ni celles de l’écoute indispensable des élus locaux. Vous refusiez toutes leurs solutions, comme la création de centres de vaccination, que vous avez cependant fini par mettre en œuvre grâce à ces mêmes collectivités territoriales. Voilà pourquoi certains d’entre nous voteront contre votre texte. <italique>(Applaudissements sur les bancs du groupe UDI-I et sur plusieurs bancs des groupes LR et LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mathilde Panot" id_acteur="PA720892" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723106">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784839" ordre_absolu_seance="207" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375015" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mathilde Panot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784840" ordre_absolu_seance="208" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375016" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous nous demandez encore une fois de consentir à prolonger l’état d’urgence sanitaire. Finalement, pour les macronistes, la démocratie c’est comme la culture : c’est non essentiel !<br/>Au cours du débat, vous nous avez resservi les vieilles ficelles de la décrédibilisation des oppositions, nous expliquant que, finalement, il n’y a aucune autre solution que les solutions merveilleuses que vous proposez et que l’opposition n’a, d’ailleurs, formulé aucune proposition.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784842" ordre_absolu_seance="210" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375018" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784843" ordre_absolu_seance="211" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375019" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh bien ! madame la ministre déléguée, chers collègues, monsieur Maillard, vous me permettrez de vous donner lecture d’une liste non exhaustive de nos propositions, afin de montrer quels grands démocrates vous êtes.<br/>La création d’un pôle public du médicament ? Refusée. L’ouverture du RSA aux jeunes de moins de 25 ans, qui sont dans une précarité terrifiante ?<italique/><italique>(«</italique><italique> </italique><italique>Refusée</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» sur les bancs des groupes FI et GDR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784845" ordre_absolu_seance="213" id_acteur="PA721616" id_mandat="PM723334" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375021" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pacôme Rupin</nom>
+              <id>721616</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela n’a rien à voir !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784846" ordre_absolu_seance="214" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375022" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Refusée ! Nos propositions de mesures d’urgence pour répondre à l’explosion de la pauvreté ? <italique>(«</italique><italique> </italique><italique>Refusées</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» sur les bancs des groupes FI et GDR.) </italique>Refusées !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784847" ordre_absolu_seance="215" id_acteur="PA722398" id_mandat="PM723562" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375023" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Rémy Rebeyrotte</nom>
+              <id>722398</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les perquisitions : refusées !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784848" ordre_absolu_seance="216" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375024" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La gratuité des masques ?<italique> (Mêmes mouvements.)</italique> Refusée ! La reconnaissance du covid-19 comme maladie professionnelle ? <italique>(Mêmes mouvements.) </italique>Refusée !  L’encadrement des prix des produits alimentaires ?<italique> (Mêmes mouvements.) </italique>Refusé ! Une aide pour lutter contre la précarité énergétique ? <italique>(Mêmes mouvements.)</italique> Refusée ! La nationalisation de Famar et de Luxfer ? <italique>(Mêmes mouvements.) </italique>Refusée ! L’annulation d’une partie de la dette publique ? Refusée ! Notre plan de déconfinement ? <italique>(Mêmes mouvements.) </italique>Refusé, à la poubelle ! La taxation des profiteurs de crise et le rétablissement de l’impôt de solidarité sur la fortune ? <italique>(Mêmes mouvements.) </italique>Refusés !<br/>Le guide pour les jeunes et les étudiants ? Refusé ! Celui contre les violences faites aux femmes et aux enfants ? Ah ! là, on nous propose un numéro vert ! Le plan d’alternatives au confinement pour que cesse enfin la désorganisation actuelle de la société sur fond de dégâts psychologiques, sociaux et financiers ? <italique>(Mêmes mouvements.) </italique>Refusé ! Les nombreuses recommandations de la commission d’enquête dans le cadre de laquelle nous avons mené plus de 100 auditions ? Refusées !<br/>En revanche, il y a des choses pour lesquels vous êtes très bons, nous devons quand même le reconnaître. Vous êtes très bons pour restreindre toujours plus nos libertés, pour pondre une loi sur la sécurité globale en pleine pandémie, pour diviser le peuple, pour nous faire vivre en état d’urgence permanent. Là, vous êtes parfaits, collègues macronistes. Pour vous tresser des lauriers à vous-même, madame la ministre déléguée, pour vos fiascos sur les masques, les tests et, maintenant, les vaccins, vous êtes là aussi très douée. Pour profiter de cette pandémie pour augmenter le temps de travail hebdomadaire, détruire l’assurance chômage,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784851" ordre_absolu_seance="219" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375027" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Détruire l’assurance chômage ! N’importe quoi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784852" ordre_absolu_seance="220" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375028" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…demander de nouveau à l’hôpital public, en pleine pandémie, de faire 800 millions d’euros d’économies en 2021 ou encore à treize hôpitaux de continuer de fermer des lits alors que nous en manquons cruellement : là aussi, pourquoi vous gêner ?<br/>Ce que vous êtes en train de faire, c’est de confisquer l’essentiel d’un régime démocratique, puisque l’essentiel d’un régime démocratique, c’est la délibération commune sur les moyens et les fins. Cette délibération démocratique, elle doit avoir lieu non seulement au Parlement, mais aussi partout dans le pays, parce que ce sont les premiers de corvée, ces femmes et ces hommes qui ont permis au pays de se tenir debout, qui savent comment on peut se protéger, comment on peut réorienter la production vers les biens essentiels pour notre souveraineté sanitaire.<br/>La vérité est que vous nous demandez d’approuver que vous gouverniez seuls, seuls contre le peuple, seuls cachés dans votre conseil de défense. Vous décidez seuls de fermer les lieux de culture, de ne pas indemniser les extras, de laisser toute une jeunesse en souffrance, de gaver les corona-profiteurs qui en profitent pour licencier à tout va. Vous décidez seuls d’abandonner à la ruine les petits commerçants. Pire, vous infantilisez les citoyens, alors que c’est votre politique qui nous a menés dans l’impasse.<br/>Finalement, vous préférez apporter des réponses autoritaires quand nous, nous demandons des mesures et une démocratie sanitaires. Alors votre état d’urgence permanent, pour le groupe La France insoumise, c’est non ! <italique>(Applaudissements sur les bancs des groupes FI et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Molac" id_acteur="PA607619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722936">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784856" ordre_absolu_seance="224" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2375032" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Molac.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784857" ordre_absolu_seance="225" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2375033" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voilà donc un état d’urgence sanitaire qui dure depuis déjà longtemps et qui va continuer. Pourtant, les restrictions de nos libertés de nous réunir, de manifester, même de travailler, sont considérables, voire exorbitantes, et les quelques aménagements que nous vous avons proposés s’agissant des mesures les plus restrictives, telles que le confinement ou le couvre-feu – nous vous avons demandé de revenir devant le Parlement pour obtenir son accord –, vous les avez refusés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784858" ordre_absolu_seance="226" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375034" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <id>748954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils savent tout !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784859" ordre_absolu_seance="227" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375035" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les quelques modifications qui ont été proposées par nos collègues Sacha Houlié et Philippe Gosselin, vous les avez refusées. Vous dites que c’est vous qui décidez : non ! Vous vous contentez d’avaliser ce que propose le pouvoir exécutif, ce n’est pas tout à fait la même chose, <italique>(Applaudissements sur plusieurs bancs des groupes LT et UDI-I.–</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Nicolas Dupont-Aignan applaudit également)</italique> faute d’avoir su établir avec le Gouvernement le rapport de force nécessaire à toute majorité pour ne pas être réduite à avaler des couleuvres.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784859" ordre_absolu_seance="228" id_acteur="PA721210" id_mandat="PM723204" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375053" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alexis Corbière</nom>
+              <id>721210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce sont des boas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784860" ordre_absolu_seance="229" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375036" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec les élus locaux, c’est la même chose : vous n’avez commencé à les associer à la vaccination qu’à partir du moment où vous avez vu la polémique enfler dans les journaux et à la télévision. Heureusement que les élus locaux, eux, avaient, dès le mois de novembre, largement fait savoir par le truchement de leurs associations qu’ils étaient prêts à collaborer, sans d’ailleurs recevoir aucune réponse. Seul le Conseil scientifique a été consulté, sans qu’on sache trop, par-dessus le marché, en l’absence de compte rendu, quels sont ses avis.<br/>Vous avez raison, une partie de la population accepte ces mesures parce qu’elle a peur, mais une autre partie est en train de s’élever contre elles : qu’il s’agisse des masques ou du confinement, on voit bien que le mécontentement s’amplifie et que de nombreuses personnes commencent à dire que ça suffit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784862" ordre_absolu_seance="231" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375038" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est normal !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784863" ordre_absolu_seance="232" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375039" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La façon dont vous défendez les Français les ruine et les prive de leur liberté.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784864" ordre_absolu_seance="233" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375040" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie, cher collègue…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784865" ordre_absolu_seance="234" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375041" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Libertés et territoires votera donc contre cette prorogation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784866" ordre_absolu_seance="235" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375042" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’avais compris, je vous remercie.<br/>Je vais mettre aux voix l’ensemble du projet de loi. Je vous rappelle qu’il s’agit d’un scrutin public.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784868" ordre_absolu_seance="237" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375044" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourquoi l’avez-vous interrompu ? Il n’a pas eu ses cinq minutes ! Le compteur n’avait pas été remis à zéro.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784868" ordre_absolu_seance="238" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375054" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est de la censure !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784868" ordre_absolu_seance="239" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375055" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’il vous plaît !<br/>Vous n’aviez pas fini votre intervention, monsieur Molac ? J’ai eu un petit problème de chronomètre : je vous accorde donc la possibilité de finir votre intervention.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784869" ordre_absolu_seance="241" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375086" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, monsieur le président.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784870" ordre_absolu_seance="242" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375046" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous prétendez que les Français vous soutiennent mais, selon tous les sondages, seul un tiers d’entre eux le font : les autres ne vous font pas confiance pour gérer la pandémie, il n’est qu’à lire les courriers que nous recevons sur nos boîtes de l’Assemblée nationale pour le constater.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784871" ordre_absolu_seance="243" id_acteur="PA720754" id_mandat="PM723066" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375047" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Studer</nom>
+              <id>720754</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous légiférez à partir de vos mails !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784872" ordre_absolu_seance="244" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2375048" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <id>607619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quand ils vont tous dans le même sens, il est peut-être temps de changer de méthode. <italique>(Applaudissements sur les bancs du groupe LT.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1784872" ordre_absolu_seance="245" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375084" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je peux donc rassurer mes collègues : ce n’était pas de la censure ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1784372" ordre_absolu_seance="246" code_grammaire="VOTE_ENS_PJL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375058" valeur=" (n[[o]] 3739)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1784373" ordre_absolu_seance="247" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PJL_S_2_20" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375059" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1784374" ordre_absolu_seance="248" code_grammaire="VOTE_ENS_PJL_S_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375060" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1784375" ordre_absolu_seance="249" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PJL_S_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375061" valeur="0" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        160<br/>        Nombre de suffrages exprimés                156<br/>        Majorité absolue                        79<br/>                Pour l’adoption                113<br/>                Contre                43</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1784376" ordre_absolu_seance="250" code_grammaire="VOTE_ENS_PJL_S_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375062" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784378" ordre_absolu_seance="252" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2375064" valeur="">
+      <orateurs/>
+      <texte>Approbation de conventions et d’accords internationaux</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784379" ordre_absolu_seance="253" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2375065" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Procédure d’examen simplifiée</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784380" ordre_absolu_seance="254" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375066" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, selon la procédure d’examen simplifiée, en application de l’article 103 du règlement, de six projets de loi autorisant l’approbation de conventions et accords internationaux (n<exposant>os</exposant> 3244, 3741 ; 2545, 3708 ; 2631, 3708 ; 2487, 3782 ; 2551, 3740 ; 3246, 3706).<br/>Ces textes n’ayant fait l’objet d’aucun amendement, je vais mettre aux voix chacun d’entre eux, en application de l’article 106 du règlement.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784381" ordre_absolu_seance="256" code_grammaire="ACCORD_CONV_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375067" valeur="(n[[o]] 3741)">
+      <orateurs/>
+      <texte>Convention entre le Gouvernement de la République française, la région flamande et la région wallonne<br/> relative à l’aménagement de la Lys mitoyenne entre Deûlémont en France et Meunin en Belgique</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784382" ordre_absolu_seance="257" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375068" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784383" ordre_absolu_seance="258" code_grammaire="ACCORD_CONV_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375069" valeur="(n[[o]] 3708)">
+      <orateurs/>
+      <texte>Conventions d’entraide judiciaire en matière pénale et d’extradition<br/>entre la France et le Niger</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784384" ordre_absolu_seance="259" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375070" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784385" ordre_absolu_seance="260" code_grammaire="ACCORD_CONV_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375071" valeur="(n[[o]] 3708)">
+      <orateurs/>
+      <texte>Conventions d’entraide judiciaire en matière pénale et d’extradition<br/>entre la France et le Burkina Faso</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784386" ordre_absolu_seance="261" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375072" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784387" ordre_absolu_seance="262" code_grammaire="ACCORD_CONV_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375073" valeur="(n[[o]] 3782)">
+      <orateurs/>
+      <texte>Convention d’extradition<br/>entre le Gouvernement de la République française<br/> et le Gouvernement de la République algérienne démocratique et populaire</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784388" ordre_absolu_seance="263" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375074" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784389" ordre_absolu_seance="264" code_grammaire="ACCORD_CONV_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375075" valeur="(n[[o]] 3740)">
+      <orateurs/>
+      <texte>Accord entre le Gouvernement de la République française<br/> et le Gouvernement du Burkina Faso<br/> relatif à l’emploi salarié des membres des familles des agents<br/> des missions officielles de chaque État dans l’autre<br/> et<br/> Accord entre le Gouvernement de la République française<br/> et le Gouvernement de la République du Paraguay<br/> relatif à l’emploi rémunéré des membres des familles des<br/> agents des missions officielles de chaque État dans l’autre</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784390" ordre_absolu_seance="265" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375076" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784391" ordre_absolu_seance="266" code_grammaire="ACCORD_CONV_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2375077" valeur="(n[[o]] 3706)">
+      <orateurs/>
+      <texte>Avenant à la convention du 20 mars 2018 entre le<br/>Gouvernement de la République française et le<br/>Gouvernement du Grand-Duché de Luxembourg en vue<br/>d’éviter les doubles impositions et de prévenir l’évasion et la fraude fiscales en matière d’impôts sur le revenu et la fortune</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1784392" ordre_absolu_seance="267" code_grammaire="ACCORD_CONV_2_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375078" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="5" id_preparation="1784394" ordre_absolu_seance="269" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2375080" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1784395" ordre_absolu_seance="270" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2375081" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mardi 26 janvier, à neuf heures :<br/>Questions orales sans débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1784396" ordre_absolu_seance="271" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2375082" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1784397" ordre_absolu_seance="272" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2375083" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

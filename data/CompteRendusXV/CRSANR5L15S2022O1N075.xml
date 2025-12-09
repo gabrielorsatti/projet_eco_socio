@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2022O1N075</uid>
+  <seanceRef>RUANR5L15S2022IDS25328</seanceRef>
+  <sessionRef>SCR5A2022O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20211126213000000</dateSeance>
+    <dateSeanceJour>vendredi 26 novembre 2021</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>75</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20220075</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2022-01-26T18:00:41.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2699083">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2699087">
+          <intitule>Emploi des travailleurs expérimentés</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="2699088"/>
+        <sommaire2>
+          <titreStruct id_syceron="2699090">
+            <intitule>Discussion des articles <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="2699092">
+              <intitule>Articles 5 <italique>bis</italique> et 5 <italique>ter</italique></intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2699094">
+              <intitule>Article 6</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="2699095"> 23</lienAdt></para>
+            <para id_syceron="2699096">M. Clément Beaune, secrétaire d’État chargé des affaires européennes</para>
+            <para id_syceron="2699098">Mme Valérie Six, rapporteure de la commission des affaires sociales</para>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2699103">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2699107">
+          <intitule>Reconnaissance du génocide des Kurdes en Irak</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="2699108"/>
+        <sommaire2>
+          <titreStruct id_syceron="2699110">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2699112">M. Jean-Christophe Lagarde</para>
+          <para id_syceron="2699129">M. Hubert Wulfranc</para>
+          <para id_syceron="2699145">M. Jean François Mbaye</para>
+          <para id_syceron="2699156">Mme Josy Poueyto</para>
+          <para id_syceron="2699165">Mme Valérie Rabault</para>
+          <para id_syceron="2699261">M. Clément Beaune, secrétaire d’État chargé des affaires européennes</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2699483">
+            <intitule>Explication de vote</intitule>
+          </titreStruct>
+          <para id_syceron="2699485">M. Jean-Christophe Lagarde (UDI-I)</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2699498">
+            <intitule>Vote sur la proposition de résolution</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2699504">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du vendredi 26 novembre 2021</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1998484" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2699083" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1998485" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699084" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="179.61">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1998486" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699085" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998488" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2699087" valeur=" (n[[o]] 4691)">
+      <orateurs/>
+      <texte>Emploi des travailleurs expérimentés</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998489" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2699088" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’une proposition de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998490" ordre_absolu_seance="7" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699089" valeur=" (nos 4537, 4691)." roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="186.59">L’ordre du jour appelle la suite de la discussion de la proposition de loi de Mme Valérie Six et plusieurs de ses collègues pour l’emploi des travailleurs expérimentés jusqu’à la retraite (n<exposant>os</exposant> 4537, 4691).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998491" ordre_absolu_seance="8" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2699090" valeur=" " bibard=" " art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles <italique>(suite)</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998492" ordre_absolu_seance="9" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699091" valeur="" bibard=" " art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="191.88">Cet après-midi, l’Assemblée a commencé l’examen des articles de la proposition de loi, s’arrêtant à l’article 5 <italique>bis</italique>.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998493" ordre_absolu_seance="10" code_grammaire="ART_SORT_DIRECT_1_30" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2699092" valeur=" 5 bis et 5 ter">
+      <orateurs/>
+      <texte>Articles 5 <italique>bis</italique> et 5 <italique>ter</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998494" ordre_absolu_seance="11" code_grammaire="ART_SORT_DIRECT_2_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699093" valeur=" ">
+        <orateurs/>
+        <texte><italique>(Les articles 5 </italique>bis<italique> et 5 </italique>ter<italique> sont successivement adoptés.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998495" ordre_absolu_seance="12" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2699094" valeur=" 6" bibard=" " art=" 6" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 6</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998496" ordre_absolu_seance="13" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2699095" valeur=" 23" bibard=" " art=" 6" adt=" 23" ssadt="">
+        <interExtraction nom_orateur="M. Clément Beaune, quali  secrétaire d'État chargé des affaires européennes" id_acteur="PA774109" id_nomination_oe="PM774111" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998496" ordre_absolu_seance="13" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2699095" valeur=" 23" bibard=" " art=" 6" adt=" 23" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="198.14">La parole est à M. le secrétaire d’État chargé des affaires européennes, pour soutenir l’amendement n<exposant>o</exposant> 23.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998497" ordre_absolu_seance="14" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2699096" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Clément Beaune</nom>
+                <id>774109</id>
+                <qualite>secrétaire d’État chargé des affaires européennes</qualite>
+              </orateur>
+            </orateurs>
+            <texte stime="205.95">Par cet amendement, le Gouvernement lève le gage.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Valérie Six, quali  rapporteure de la commission des affaires sociales" id_acteur="PA720488" id_nomination_oe="-1" id_nomination_op="-772842" id_mandat="PM772842">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998498" ordre_absolu_seance="15" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2699097" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="212.98">La parole est à Mme Valérie Six, rapporteure de la commission des affaires sociales, pour donner l’avis de la commission.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998499" ordre_absolu_seance="16" id_acteur="PA720488" id_mandat="PM772842" id_nomination_oe="-1" id_nomination_op="-772842" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="1" id_syceron="2699098" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Valérie Six</nom>
+                <id>720488</id>
+                <qualite>rapporteure de la commission des affaires sociales</qualite>
+              </orateur>
+            </orateurs>
+            <texte stime="232.59">Favorable, bien entendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998500" ordre_absolu_seance="17" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699099" valeur=" 23" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 23 est adopté ; en conséquence, l’article 6 est supprimé.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998504" ordre_absolu_seance="18" code_grammaire="VOTE_ENS_PPL_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2699103" valeur=" (n[[o]] 4691)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998505" ordre_absolu_seance="19" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPL_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699104" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="249.23">Je mets aux voix l’ensemble de la proposition de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998506" ordre_absolu_seance="20" code_grammaire="VOTE_ENS_PPL_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699105" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(La proposition de loi est adoptée.)</italique>
+        </texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Valérie Six, quali  rapporteure" id_acteur="PA720488" id_nomination_oe="-1" id_nomination_op="-2318526" id_mandat="PM772842">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998506" ordre_absolu_seance="21" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2699131" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="265.51">La parole est à Mme la rapporteure.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1998506" ordre_absolu_seance="22" id_acteur="PA720488" id_mandat="PM772842" id_nomination_oe="-1" id_nomination_op="-2318526" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699132" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Six</nom>
+              <id>720488</id>
+              <qualite>rapporteure</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="274.43">Je remercie les élus de mon groupe, qui ont soutenu ma proposition de loi avec enthousiasme, et je sais que l’ensemble des élus ici présents ici ont appréhendé dans toutes ses dimensions la problématique de l’employabilité des seniors. Le vote à l’unanimité du rapport de la mission d’information sur l’emploi des travailleurs expérimentés avait bien montré que l’ensemble des députés prenaient en compte cette problématique.<br/>Je regrette juste que le Gouvernement n’ait pas acté l’évolution du conseil en évolution professionnelle prévue dans la rédaction initiale de l’article 3, ce qui ne permettra pas d’aller au plus près de ce que le Gouvernement lui-même attendait. La proposition de loi devrait de toute façon partir au Sénat, où j’espère qu’elle pourra être retravaillée, en fonction évidemment des avis de chacun.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998508" ordre_absolu_seance="25" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2699107" valeur=" (n[[o]] 4622)">
+      <orateurs/>
+      <texte>Reconnaissance du génocide des Kurdes en Irak</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998509" ordre_absolu_seance="26" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2699108" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion d’une proposition de résolution</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998510" ordre_absolu_seance="27" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699109" valeur=" (n[[os]] 4622)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="344.00">L’ordre du jour appelle la discussion, en application de l’article 34-1 de la Constitution, de la proposition de résolution visant à reconnaître le génocide des Kurdes en Irak (n<exposant>o</exposant> 4622).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998511" ordre_absolu_seance="28" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2699110" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Jean-Christophe Lagarde" id_acteur="PA268019" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723092">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998512" ordre_absolu_seance="29" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2699111" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="350.93">La parole est à M. Jean-Christophe Lagarde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998513" ordre_absolu_seance="30" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699112" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="378.94">Tout d’abord, je remercie l’Assemblée d’avoir adopté la proposition de loi de Valérie Six.<br/>Notre groupe a tenu à présenter une proposition de résolution au sujet du génocide kurde, qui nous semble devoir être reconnu. Nombreux sont nos compatriotes qui ont pris connaissance de l’existence des Kurdes grâce aux combats qu’ils ont menés à nos côtés, courageusement – et souvent à notre place – contre les combattants de l’État islamique en Irak et en Syrie. Il est vrai que l’histoire des Kurdes, à la fois riche et complexe, et leur répartition à travers la Turquie, la Syrie, l’Irak et l’Iran, ne facilitent pas la compréhension de ce peuple. Les Kurdes ont cette particularité, comme le disait très justement Pierre Vidal-Naquet, d’être les grands oubliés de l’histoire, celle d’hier comme celle d’aujourd’hui, et de constamment venir au second rang dans la conscience des nations.<br/>J’en veux pour preuve les promesses non tenues du traité de Sèvres de 1920, qui devait permettre la constitution d’un État kurde indépendant.<br/>J’en veux pour preuve le soutien apporté à Saddam Hussein par une bonne partie de l’Occident dans sa guerre contre l’Iran alors que son régime avait déjà commencé des actions génocidaires à l’encontre des Kurdes.<br/>J’en veux enfin pour preuve le sort de nos alliés kurdes de Syrie, lâchement abandonnés par les États-Unis, dans le silence général, et les représailles et les massacres commis par la Turquie, soi-disant notre alliée, et par ses supplétifs – souvent issus de Daech.<br/>Par cette proposition de résolution, le groupe UDI et indépendants entend modestement ramener les Kurdes dans la lumière en faisant connaître et reconnaître les horreurs et le génocide qu’ils ont subis en Irak, notamment entre mars 1987 et avril 1989.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998519" ordre_absolu_seance="36" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699118" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <id>720568</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="426.66">Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998520" ordre_absolu_seance="37" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699119" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="496.15">Car, chers collègues, le terme de génocide est, dans le cas des Kurdes d’Irak, parfaitement approprié ; à l’inverse de ce que je peux entendre ou lire ici et là, ils n’ont pas seulement été victimes d’une politique contre-insurrectionnelle menée par le gouvernement irakien de Saddam Hussein. Oui, ce régime qu’une partie de l’Occident soutenait dans sa guerre contre l’Iran a détruit de manière parfaitement délibérée, par des massacres de masse, une partie de la minorité kurde d’Irak, non pas en raison de ce qu’elle avait fait, mais uniquement parce qu’elle avait commis le crime d’exister !<br/>Et ce n’est pas le groupe UDI et indépendants qui réécrit ou qui interprète l’histoire, mais bien 14 tonnes de documents, soit 847 cartons et plus de 4 millions de pages émanant de la bureaucratie irakienne et tombés entre les mains des Kurdes après la chute de son régime qui le prouvent. Cette politique de destruction était parfaitement délibérée, préparée, organisée, exécutée, et elle fut même consignée dans les archives.<br/>Ainsi, le cousin de Saddam Hussein, communément appelé « Ali le chimique » ou « le boucher du Kurdistan », était nommé en 1987 pour ramener la région kurde sous le contrôle du gouvernement central. Il devait régler le problème kurde une bonne fois pour toutes et, pour remplir cet objectif, l’ensemble des ressources de l’État irakien a été coordonné. C’est avec le plus grand zèle et la plus grande monstruosité qu’il s’est affairé à cette tâche, comme en témoignent ses enregistrements et ses directives ordonnant de tuer le plus grand nombre de personnes présentes dans les zones interdites, où tous les habitants étaient considérés comme des insurgés.<br/>Peu de choix s’offraient alors aux Kurdes : rentrer dans le rang ou abandonner leur maison, leurs activités et accepter le déplacement forcé dans un camp placé sous surveillance, ou encore perdre leur citoyenneté, être considérés comme déserteurs et mourir… Et les huit opérations militaires, baptisées « Anfal », qui se sont déroulées du 23 février 1988 au 6 septembre de la même année ont constitué l’apogée de cette folie génocidaire : elles débuteront à Sergalou et à Bergalou, puis continueront à Qara Dagh, à Germian, dans la vallée du Zab puis dans celles de Shaqlawa et Rawanduz, et enfin à Badinan, et ce même après le cessez-le-feu avec l’Iran.<br/>Dans ces régions, toutes les opérations militaires irakiennes se sont déroulées sur un mode similaire : utilisation massive d’armes chimiques, massacre de civils de tous les âges et de tous les sexes, disparition complète de plusieurs dizaines de milliers de non-combattants, établissement de camps de concentration, destruction quasi totale des biens et des infrastructures, pour finir par l’abandon total de milliers de personnes dans des conditions extrêmement dures.<br/>Lors de son déplacement au Kurdistan irakien le 29 août dernier, Emmanuel Macron a annoncé la mise en place de projets de coopération, notamment avec l’hôpital de Halabja, lui aussi victime d’un terrible massacre. Si le nom de cette ville devait évoquer chez certains quelques souvenirs, je tiens, pour les autres, à rappeler qu’en mars 1988, près de 5 000 Kurdes y périrent en quelques heures au cours d’attaques chimiques perpétrées par l’armée irakienne. Sur ce point, les témoignages des rescapés recueillis dans le rapport de Human Rights Watch sont à la fois limpides et insoutenables ; tous font état des odeurs des gaz rappelant la pomme douce mélangée à l’ail, tous gardent en mémoire ces scènes cauchemardesques et abominables de femmes, d’enfants et de vieillards blottis inertes, de corps jonchés sur le sol, la bouche ouverte, ou de personnes mortes derrière le volant de leur voiture.<br/>Si l’événement provoqua un court instant une forte indignation internationale, l’action de la France, pourtant dépositaire de la convention de Genève de 1925, se limita à un communiqué condamnant l’« usage d’armes chimiques où que ce soit ». Comme si on ne savait pas… Il faudra attendre septembre 1988 et l’afflux de réfugiés en Turquie, fuyant une nouvelle offensive à l’arme chimique, pour que François Mitterrand exprime son « inquiétude devant les informations concernant les moyens de répression employés à l’encontre des populations kurdes en Irak, notamment l’emploi de moyens chimiques ». On ne pouvait pas faire moins.<br/>Loin de condamner et de tout faire pour que cesse cette politique, Washington refusera les sanctions et accordera même une nouvelle ligne de crédits à Bagdad, d’un montant de 1 milliard de dollars. Il faudra attendre août 1990 et l’occupation du Koweït pour que le président de l’Irak soit enfin qualifié par les Américains de « nouvel Hitler ». Pour autant, la communauté internationale et les États-Unis n’empêcheront pas au printemps 1991, alors même que l’Occident avait gagné la guerre, la garde présidentielle de Saddam Hussein d’écraser dans le sang la révolte des Kurdes que le président américain avait pourtant appelés à se soulever.<br/>Ce n’est que le 5 avril 1991 que la communauté internationale se réveillera sous l’impulsion de la France, monsieur le secrétaire d’État, et que le Conseil de sécurité des Nations unies adoptera la résolution 688. Par la suite, l’opération Provide Comfort permettra d’apporter de l’aide d’urgence aux réfugiés kurdes tout en établissant des zones de sécurité.<br/>Mais le bilan de cette folie génocidaire se révèle particulièrement lourd, comme le détaille Kendal Nezan, président de l’Institut kurde de Paris : 90 % des villages kurdes, et de nombreuses villes, ont été rayés de la carte ; 15 millions de mines ont été posées dans les campagnes afin de les rendre impropres à l’élevage et l’agriculture ; 1,5 million de paysans kurdes ont été internés dans des camps. Mais il y eut aussi des cécités, des fausses couches et des malformations congénitales pour les victimes des armes chimiques. Au final, cette guerre de l’État irakien contre les Kurdes se sera soldée depuis 1974 par plus de 400 000 morts ou disparus, soit environ 10 % de la population kurde de l’Irak.<br/>Le groupe UDI et indépendants est convaincu que la France, qui sait mieux que d’autres pays du globe ce que veut dire le mot « génocide », devrait reconnaître que les Kurdes ont été victimes d’un génocide en Irak, sous le régime de Saddam Hussein. Je le répète : il ne s’agissait pas de dommages collatéraux ni d’actes d’égarement isolés d’officiers irakiens, c’est bien sur ordre du gouvernement de Saddam Hussein que les Kurdes ont été victimes d’une mise à mort à la fois programmée, systématique et massive. La grande majorité des morts n’étaient pas des combattants ou des forces de soutien, mais bel et bien des civils tués parce qu’ils habitaient ces territoires et qu’ils avaient le tort d’être kurdes. Comme le souligne le rapport de Human Rights Watch, les Kurdes ont été tués « des jours, voire des semaines, après avoir été rassemblés dans des villages destinés à être détruits, ou alors qu’ils fuyaient les assauts de l’armée contre les zones dites interdites ».<br/>Si les Kurdes sont bien les grands oubliés de l’histoire, chers collègues, mettons cette soirée à profit pour inverser la tendance, exprimer la vérité telle qu’elle fut et reconnaître le génocide dont ils ont été victimes. Nous pensons que les Kurdes ont des droits sur nous, d’abord au nom de l’histoire, parce qu’il est sain de reconnaître un génocide quand il a été perpétré – c’est même la meilleure façon de prévenir sa répétition –, mais aussi parce que les Kurdes sont ceux qui, par le choix et par le sang, ont combattu nos ennemis de Daech, ceux qui nous ont attaqués sur notre territoire et dont le procès se déroule en ce moment.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998527" ordre_absolu_seance="49" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699126" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <id>720568</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="585.34">C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998528" ordre_absolu_seance="50" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699127" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="954.56">Ce peuple qui a été abandonné par les Américains, la France continue à essayer de le défendre avec les moyens dont elle dispose, mais un des moyens plus puissants qu’elle possède, c’est le fait de n’être pas un pays comme les autres aux yeux du monde et de pouvoir à ce titre dénoncer les crimes contre l’humanité lorsqu’ils se produisent, pour éviter leur répétition. Au groupe UDI et indépendants, nous pensons que notre pays le doit aux Kurdes et nous espérons que l’Assemblée nationale saura consacrer cette reconnaissance du génocide kurde afin que l’histoire ne se répète pas. <italique>(Applaudissements sur les bancs du groupe UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Hubert Wulfranc" id_acteur="PA722110" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723474">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998529" ordre_absolu_seance="51" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2699128" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="988.85">La parole est à M. Hubert Wulfranc.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1998530" ordre_absolu_seance="52" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699129" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1022.93">Le sort des Kurdes en Irak des années 1970 aux années 1990 est si éminemment sérieux que plusieurs dizaines d’années plus tard, nous souhaitions pour notre part que l’Assemblée nationale en traite autrement qu’il nous l’est proposé aujourd’hui. La forme et le fond se mêlent dans mon propos.<br/>Nous considérons qu’il aurait convenu de demander dans cette proposition de résolution au gouvernement français de déposer une résolution au Conseil de sécurité des Nations unies, visant à juger les personnes responsables d’actes de génocide et d’autres violations graves du droit international humanitaire dans le cadre des massacres commis au Kurdistan irakien.<br/>Ce n’est pas tout à fait, monsieur le président Lagarde, le sens de votre proposition. L’exposé des motifs entretient malheureusement un malentendu en indiquant que ces massacres sont déjà qualifiés de génocide par deux actes juridiques qui, certes, sont légaux, mais qui ne relèvent pour aucun d’entre eux d’un tribunal international – je pense aux fameux tribunaux <italique>ad hoc </italique>créés par le Conseil de sécurité qui ont abouti à la reconnaissance du génocide des Tutsis au Rwanda et des Bosniaques en ex-Yougoslavie. C’est, selon nous, à ce seul niveau que pourrait être reconnu ou non un génocide s’agissant d’une politique étatique d’une extrême violence à l’égard des Kurdes d’Irak – une politique largement documentée, notamment pour ce qui est des massacres opérés au moyen de bombardements à l’arme chimique.<br/>La qualification de génocide ne peut être prise à la légère, vu les drames vécus par les Kurdes d’Irak, mais aussi par d’autres peuples dont le destin mérite considération, en Syrie, en Libye, au Yémen ou au Cameroun. Il est donc nécessaire d’interroger cette qualification et de s’astreindre à une procédure incontestée et incontestable. C’est, à nos yeux, la seule manière d’aider concrètement le peuple kurde d’Irak.<br/>Nous aurions également souhaité que la proposition de résolution demande de favoriser la création d’un système de justice de transition en Irak, avec une commission de vérité et de réconciliation, et la réparation des victimes kurdes, mais également yézidies et assyro-chaldéennes – minorités dénombrant plusieurs milliers de morts.<br/>En conclusion, en nous fondant sur les consultations auxquelles nous avons procédé – je remercie pour cela mon collègue Jean-Paul Lecoq –, nous considérons que cette résolution, qui touche à un domaine sensible, n’est pas mûre. L’abstention du groupe GDR – car nous nous abstiendrons – doit être comprise comme une invitation à reconstruire une résolution d’une haute ambition, de portée internationale.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean François Mbaye" id_acteur="PA720870" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723100">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998376" ordre_absolu_seance="58" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2699144" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1319.25">La parole est à M. Jean François Mbaye.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998377" ordre_absolu_seance="59" id_acteur="PA720870" id_mandat="PM723100" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699145" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean François Mbaye</nom>
+              <id>720870</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1347.41">La proposition de résolution que nous examinons porte sur des faits d’une terrible gravité, les années n’ayant rien retiré de leur caractère abominable. Comment ne pas y songer avec angoisse et recueillement à la vue de ces femmes et de ces hommes qui, chaque année, se réunissent le 16 mars dans les rues de Halabja ? Elles et ils incarnent le souvenir de l’horreur qui a frappé leurs familles et leurs proches en 1988, lorsque les forces armées irakiennes employèrent leur arsenal chimique dans l’unique but de provoquer la mort des habitants de cette ville kurde située au nord de l’Irak.<br/>Aujourd’hui encore, les stigmates physiques et psychologiques de ces atrocités persistent dans les esprits et les chairs d’une population traumatisée et souffrant souvent de graves problèmes de santé. Halabja n’est malheureusement qu’un exemple parmi d’autres des exactions commises par le régime de Saddam Hussein dans son combat contre les Kurdes, conduisant au massacre de milliers de personnes.<br/>Si elles n’étaient pas le seul instrument de mort des forces irakiennes, les armes chimiques ont joué un rôle tout particulier dans cette tragédie. Au-delà de l’émotion provoquée par le recours à ce type d’arsenal, la France était consciente de l’affront manifeste qu’il constituait et constitue encore aujourd’hui à l’endroit des principes les plus fondamentaux du droit des conflits armés ; elle n’avait donc pas manqué, à l’époque, de réitérer ses initiatives en faveur de l’interdiction de l’utilisation des armes chimiques. Cet engagement s’est traduit, en 1997, par la création de l’Organisation pour l’interdiction des armes chimiques (OIAC), qui compte aujourd’hui quelque 193 membres engagés avec constance en faveur de la lutte contre l’utilisation de ces arsenaux.<br/>Lors de son déplacement à Erbil, le 17 juillet 2020, le ministre de l’Europe et des affaires étrangères a évoqué la nécessité pour la France de continuer à apporter son soutien aux victimes des attaques chimiques perpétrées au Kurdistan. J’associe pleinement notre groupe parlementaire à ces déclarations, de même qu’à la ferme condamnation réitérée par le Quai d’Orsay à l’occasion du trente-troisième anniversaire du massacre de Halabja, en mars dernier.<br/>Néanmoins, malgré la solidarité avec les victimes de ces actes, que nous partageons tous, le groupe La République en marche n’apportera pas son soutien à cette proposition de résolution, pour plusieurs raisons.<br/>La première tient à la formulation des engagements de l’Assemblée nationale et des invitations adressées au Gouvernement. En effet, en employant les expressions « crime contre l’humanité » et « génocide », la proposition de résolution du président Lagarde ne se contente pas de dénoncer le caractère innommable des actes commis à l’encontre de la population kurde. Parce que nous sommes dans l’enceinte du Parlement, il convient de nous souvenir que ces termes n’ont pas seulement une valeur sémantique, mais également une portée juridique, dont il n’appartient ni au Parlement français ni au Gouvernement d’être le juge, cette faculté appartenant aux organisations judiciaires, au premier rang desquelles la Cour pénale internationale, en concertation avec les universitaires et les historiens.<br/>Par ailleurs, à l’heure où les accusations d’ingérence résonnent d’une manière toute particulière sur la scène internationale, nous considérons qu’il n’appartient pas à un État étranger, fût-il un ami de l’Irak comme l’est la France, d’exiger, ainsi que le propose cette résolution, des réparations de la part de Bagdad envers les populations kurdes. Bien plus, les implications d’une telle exigence peuvent être sérieuses et contre-productives pour le travail d’entente entrepris depuis 2003 entre le gouvernement central irakien et le gouvernement régional du Kurdistan, ravivant les tensions entre ces derniers.<br/>Enfin, l’adoption de cette proposition de résolution sonnerait nécessairement comme un abandon, voire comme un déni, pour l’ensemble des victimes non kurdes du régime de Saddam Hussein. Je pense notamment aux populations chiites, elles aussi massacrées de manière méthodique par les forces armées irakiennes parce qu’opposées au tyran.<br/>Compte tenu de ces observations, je le répète, le groupe La République en marche votera contre l’adoption de cette proposition de résolution. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998385" ordre_absolu_seance="68" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699153" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <id>720568</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1611.37">Dommage !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998386" ordre_absolu_seance="69" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699154" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1615.68">Sur la proposition de résolution, je suis saisi par le groupe UDI et indépendants d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Josy Poueyto.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998388" ordre_absolu_seance="71" id_acteur="PA720720" id_mandat="PM723056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699156" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Josy Poueyto</nom>
+            <id>720720</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1644.67">Nous sommes réunis aujourd’hui pour examiner une proposition de résolution, déposée par le groupe UDI et indépendants, qui vise à reconnaître le génocide des Kurdes en Irak, opéré sous le régime de Saddam Hussein. Ce sujet est particulièrement important alors que les crimes commis par ce régime ont conduit à décimer une grande partie de la population kurde sur ce territoire. Entre les années 1970 et 1990, ce sont ainsi près de 90 % des villages kurdes qui sont détruits, pas moins de 1,5 million de paysans qui sont internés et 400 000 Kurdes qui sont tués.<br/>Face à ce bilan dramatique, le groupe Mouvement démocrate (MODEM) et démocrates apparentés ne peut que témoigner de sa solidarité vis-à-vis de la population kurde et condamner l’inhumanité des actions perpétrées par les autorités irakiennes de l’époque à son encontre. Nous sommes évidemment sensibles à la proposition du groupe UDI et indépendants, tout en rappelant qu’une telle prise de position ne peut se faire qu’à une échelle internationale et qu’initier un tel processus nécessite du temps et toute la rigueur des historiens.<br/>Il nous importe aussi de regarder la place accordée au peuple kurde dans l’Irak d’aujourd’hui. Rappelons que, depuis 2005, l’adoption par référendum d’une nouvelle constitution irakienne a marqué un tournant majeur en permettant la création d’une région kurde autonome et fédérée, le Kurdistan irakien. La mise en place d’un régime parlementaire en Irak s’est depuis traduite par une représentation équitable de toutes les composantes du peuple irakien, permettant ainsi une intégration croissante des Kurdes au processus de décision politique. Le dialogue est donc aujourd’hui constant entre les autorités irakiennes et kurdes, et leur relation tend de plus en plus à s’équilibrer.<br/>La France a soutenu, et soutient aujourd’hui encore, l’autonomisation des Kurdes. En 2014, nous avons ainsi contribué à maintenir les capacités opérationnelles kurdes dans le cadre de la lutte contre l’État islamique. Notre relation avec la population kurde en Irak est également forte en matière culturelle, notamment à travers les actions de l’Institut français présent au Kurdistan irakien.<br/>Enfin, lors de son récent déplacement en Irak, le Président de la République Emmanuel Macron a profité de sa visite pour appeler au respect des communautés, allant jusqu’à se rendre au Kurdistan irakien, où il s’est entretenu avec le président de la région autonome.<br/>Le texte qui nous est présenté aujourd’hui invite le Gouvernement français à travailler avec l’Irak en vue de réparations pour les préjudices subis par les Kurdes. Si nous sommes bien conscients de la gravité des actes commis sous le régime de Saddam Hussein, notre groupe n’est toutefois pas favorable à cette proposition, au nom du respect des règles de non-ingérence.<br/>En effet, selon nous, cette proposition unilatérale pourrait mettre à mal à la fois les relations que nous entretenons avec Bagdad et avec Erbil, mais aussi l’équilibre politique qui se construit progressivement, depuis 2003, entre le gouvernement régional du Kurdistan et l’Irak fédéral. Alors que le Président de la République a réaffirmé, lors de la conférence de Bagdad du 28 août dernier, l’importance de la souveraineté de l’Irak pour l’ensemble des Irakiens, y compris pour les Kurdes, il ne semble pas opportun que la France demande seule des réparations. Si la reconnaissance du génocide devait avoir lieu, cela nécessiterait de réunir des conditions propices pour qu’elle ne s’opère pas au préjudice de la stabilité en Irak.<br/>Pour l’ensemble de ces raisons, notre groupe ne votera pas en faveur de l’adoption de la présente proposition de résolution. <italique>(Applaudissements sur les bancs des groupes Dem et LaREM.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Valérie Rabault" id_acteur="PA609590" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723326">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998396" ordre_absolu_seance="79" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2699164" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1887.26">La parole est à Mme Valérie Rabault.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1998397" ordre_absolu_seance="80" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699165" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1910.40">Le sujet que nous abordons s’inscrit dans une lutte douloureuse d’un peuple qui a été soumis à de nombreuses exactions et souffrances, depuis plus d’un siècle et jusqu’à aujourd’hui. C’est un sujet sensible, car il s’agit de la qualification d’un crime de génocide.<br/>Le terme « génocide » a été utilisé pour la première fois en 1944 par l’avocat polonais Raphael Lemkin, dans son livre intitulé <italique>Axis Rule in Occupied Europe</italique>. En 1946, le génocide a été pour la première fois reconnu comme un crime de droit international par l’Assemblée générale des Nations unies. Dans la Convention pour la prévention et la répression du crime de génocide, le génocide consiste dans l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux : meurtre de membres du groupe ; atteintes graves à l’intégrité physique ou mentale de membres du groupe ; soumission intentionnelle du groupe à des conditions d’existence devant entraîner sa destruction physique. Il y a donc deux éléments à rassembler pour qualifier un crime de génocide : l’élément psychologique, l’intention, et l’élément matériel, les faits.<br/>Ce que l’on peut qualifier de génocide des Kurdes d’Irak, aussi connu sous le nom d’Anfal, a eu lieu de février à septembre 1988. Selon le tribunal spécial irakien et d’après les estimations fournies par les leaders kurdes, il a causé la mort de 50 000 à 180 000 civils kurdes. Il s’est déroulé en plusieurs étapes. Des zones interdites comprenant plus de 1 000 villages kurdes furent tout d’abord délimitées, toute personne qui s’y trouvait devant être tuée.<br/>Jusqu’à 200 000 soldats irakiens, regroupés en seize divisions et un bataillon d’armes chimiques et soutenus par l’aviation, furent mobilisés pour perpétrer ces massacres. Pour la première fois en 2005, le tribunal de La Haye qualifie ces massacres de génocide. Il est bientôt suivi par le tribunal spécial irakien qui reconnaît, le 23 juin 2007, les auteurs des massacres coupables du crime de génocide.<br/>Par conséquent, la question qui se pose à nous aujourd’hui est celle de la reconnaissance de ces crimes au niveau international, laquelle n’a pas été très claire, c’est le moins que l’on puisse dire. Au-delà des circonstances historiques et de la difficulté de cette reconnaissance au niveau international, il convient de s’interroger. Plusieurs parlements et plusieurs États ont reconnu le génocide des Kurdes en Irak. Cette question ne s’est pas encore posée pour la France ; je remercie le groupe UDI et indépendants d’avoir eu le courage de nous la soumettre. Le groupe Socialistes et apparentés votera la proposition de résolution qu’il a inscrite à l’ordre du jour.<br/>Au-delà, je voudrais revenir sur une situation plus récente sur laquelle j’ai eu l’occasion d’interroger le Gouvernement. Le peuple kurde d’Irak ou de Syrie est un allié de la France. Au-delà des frontières, ce peuple subit abandon et souffrances. Dans le cadre des opérations militaires turques à la frontière syrienne, j’ai posé une question au Gouvernement le 9 octobre 2019 en signifiant que le silence du Quai d’Orsay vis-à-vis des Kurdes était intolérable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998352" ordre_absolu_seance="86" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699254" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2064.37">Parfaitement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998353" ordre_absolu_seance="87" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699255" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2107.56">Ce silence va à l’encontre de ce qu’a toujours été la diplomatie de la France à l’échelle internationale : une voix forte, respectée, capable de se mettre au service de la protection des populations et, surtout, de tenir parole. Comme d’autres, j’appelle à protéger les Kurdes. Ils ont été nos alliés, il ne faut pas l’oublier. Dans une autre question, posée le 14 mars 2018, j’avais appelé le Gouvernement à reconnaître l’aide décisive apportée par les Kurdes à la coalition internationale dans la lutte contre Daech. Nous avons le devoir de les protéger.<br/>Monsieur le secrétaire d’État, ce n’était pas vous qui m’aviez répondu à l’époque, c’était M. Le Drian. Je dois dire que je préférais la première version de Le Drian : quand il était ministre de la défense, il s’appuyait sur les Kurdes et il s’était engagé à ce qu’ils soient protégés. La seconde version de Le Drian, ministre des affaires étrangères, n’a pas tenu sa parole,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998355" ordre_absolu_seance="89" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699257" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2151.83">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998356" ordre_absolu_seance="90" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699258" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2166.11">…il n’a pas tenu la parole de la France ; c’est très grave. Cette protection n’a pas été assurée, alors même que des engagements avaient été pris. Aujourd’hui, grâce au groupe UDI-I, se pose une question historique ; je pense que le Parlement français aurait intérêt à reconnaître le génocide des Kurdes. <italique>(Applaudissements sur les bancs du groupe UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998357" ordre_absolu_seance="91" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699259" valeur="" bibard=" " roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2189.60">La discussion générale est close.<br/>La parole est à M. le secrétaire d’État chargé des affaires européennes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998359" ordre_absolu_seance="93" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699261" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Clément Beaune</nom>
+            <id>774109</id>
+            <qualite>secrétaire d’État chargé des affaires européennes</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2222.04">Les faits qui sont évoqués ce soir à l’initiative du président Jean-Christophe Lagarde et du groupe UDI-I revêtent, à l’évidence, une extrême et douloureuse gravité. Aussi, c’est avec une attention et une émotion toutes particulières que je souhaite répondre à la proposition de résolution qui est soumise à l’Assemblée nationale.<br/>Dans cette proposition de résolution, vous mentionnez particulièrement, et à juste titre, la campagne militaire dite Anfal et le massacre des habitants de Halabja. Le Gouvernement, au nom duquel je m’exprime, mesure toute l’horreur que ces actes ont inspirée à leurs contemporains, et qu’ils inspirent encore aujourd’hui, plus de trente ans après que l’Irak de Saddam Hussein les a commis. Lancée à l’hiver 1988, la campagne Anfal est le nom d’une douzaine d’attaques qui se sont déroulées sur le territoire de ce qui est aujourd’hui la région autonome du Kurdistan irakien. En mars 1988, ces opérations ont enlevé la vie de 5 000 personnes, emportées dans ce qui reste la plus grave attaque chimique contre des civils jamais commise. À l’occasion de ce débat, je renouvelle toutes nos condoléances aux familles et aux proches des victimes, directes et indirectes, de cette attaque, en leur exprimant notre émotion et notre soutien. Je veux aussi redire toute notre solidarité et notre soutien sans faille à l’égard de l’ensemble des Kurdes d’Irak.<br/>Cet engagement et cette indignation, la France les a exprimés immédiatement au plus haut niveau, et n’a cessé de faire vivre le souvenir de Halabja. Cela a été rappelé : dès l’année 1988, le Président de la République François Mitterrand a exprimé, à la tribune des Nations Unies à New York, sa solidarité avec le peuple kurde,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998361" ordre_absolu_seance="96" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699423" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Christophe Lagarde</nom>
+            <id>268019</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2315.11">Bien timidement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998361" ordre_absolu_seance="97" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699422" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Clément Beaune</nom>
+            <id>774109</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2328.70">…dont il affirmait qu’il était une « minorité doublement frappée », par un pouvoir qui s’en prenait à elle et faisait d’elle la victime de ses expériences chimiques abominables. À l’époque, sa voix était bien seule.<br/>En 1999, le Président Jacques Chirac affirmait à Oradour-sur-Glane que Halabja s’inscrivait dans la mémoire collective et il soulignait combien, à Halabja comme à Srebrenica, les bourreaux n’avaient fait aucune distinction entre les enfants, les femmes et les hommes. Tout récemment, le 29 août dernier, lors de son déplacement en Irak et dans la région autonome du Kurdistan, le Président de la République Emmanuel Macron est venu porter au peuple kurde et à ses représentants l’expression de notre amitié et de notre fidélité. Plus tôt dans l’année, le 16 mars 2021, la France avait commémoré solennellement le terrible anniversaire du massacre de Halabja, dans cette ville où un an plus tôt, nous avions annoncé le déploiement d’une aide particulière pour l’hôpital ouvert en 2018. Cette aide française, annoncée par Jean-Yves Le Drian aux côtés du président de la région autonome du Kurdistan, Netchirvan Barzani, donne des capacités accrues aux équipes médicales pour intervenir dans le domaine chirurgical, mais également psychosocial.<br/>Si la France a été la première à exprimer son indignation en soutien au peuple kurde victime des attaques abominables du régime baasiste de Saddam Hussein, la France agit aussi concrètement depuis le premier jour. Nous avons tous à l’esprit l’engagement personnel qui était celui de Danielle Mitterrand, qui s’était rendue avec courage dans les camps où se trouvaient les survivants et avait fait connaître au monde l’horreur des massacres commis par le régime de Saddam Hussein <italique>(Mme Valérie Rabault applaudit)</italique>, et dont les deux écoles françaises du Kurdistan portent aujourd’hui le nom – c’est tout un symbole. <italique>(Applaudissements sur quelques bancs du groupe Dem. – Mme Valérie Rabault applaudit aussi.)</italique><br/>J’ai indiqué que la France agissait avec constance et dans un esprit de continuité et de justesse historique. Trente ans avant ce soutien à l’hôpital de Halabja et cette lutte contre les causes durables des attaques chimiques, nous avions saisi les moyens à notre disposition sur la scène internationale. La France, fidèle à ses principes comme à ses responsabilités, en tant que membre permanent du Conseil de sécurité, a relancé dès janvier 1989 la conférence sur le désarmement. Cette conférence internationale, qui s’est conclue à Paris, a vu 149 États, soit presque la totalité des États du monde alors, réaffirmer leur rejet de l’arme chimique. Grâce à cette initiative, la convention sur l’interdiction des armes chimiques a vu le jour en 1993. Aujourd’hui encore, la France demeure intransigeante sur l’application de ce traité multilatéral qui interdit la mise au point, la fabrication, le stockage et l’emploi des armes chimiques. L’actualité internationale nous rappelle malheureusement combien la question de l’emploi de ces armes reste prégnante. C’est avec la même intransigeance que nous avons répondu à l’emploi d’armes chimiques en Syrie, par des moyens diplomatiques à l’Organisation pour l’interdiction des armes chimiques et dans le cadre de notre initiative nationale de lutte contre l’impunité, mais aussi par la force face à un régime syrien qui, comme celui de Saddam Hussein en son temps en Irak, avait choisi d’employer ces armes contre sa propre population.<br/>Cette action déterminée et concrète et notre engagement constant auprès des Kurdes nourrissent l’amitié que se portent nos peuples – je crois que nous partageons tous cette volonté et cette fierté. Consciente de son statut, la France a su agir, parfois seule, avec efficacité et détermination sur la scène internationale pour protéger les Kurdes d’Irak lorsque les circonstances internationales l’exigeaient. En avril 1991, pendant la guerre du Golfe, durant laquelle l’Irak de Saddam Hussein réprimait de nouveau les populations civiles, particulièrement au Kurdistan, la France a saisi les Nations Unies d’un projet de résolution exigeant que l’Irak mette fin sans délai à la répression des populations civiles irakiennes, y compris dans les zones de peuplement kurde. Cette résolution n<exposant>o</exposant> 688, adoptée le 5 avril 1991 par le Conseil de sécurité, qui est mentionnée à juste titre dans l’exposé des motifs de la proposition de résolution, a permis de mettre fin à la progression de l’armée irakienne, aux bombardements et à la répression qui menaçaient de conduire à nouveau, notamment dans les zones kurdes, à des massacres de grande ampleur.<br/>Enfin, c’est grâce à nos relations exceptionnelles avec les Kurdes d’Irak que la France, près de vingt ans plus tard, a pu vaincre l’État islamique en Irak, au sein de la coalition internationale contre Daech. La France n’oublie rien de ce qu’elle doit aux peshmergas, à ces combattants kurdes qui se sont montrés décisifs par leur courage pour libérer l’Irak de la menace territoriale de Daech. Aujourd’hui encore, la France poursuit la lutte contre le terrorisme dans la région et elle sait ce qu’elle doit aux autorités kurdes et à leur soutien : le Président de la République l’a affirmé avec force, encore récemment, lors de sa visite.<br/>Mesdames et Messieurs les députés, les événements que vous avez relatés et sur lesquels je viens de revenir ont marqué durablement notre mémoire collective. Ils ont aussi marqué les consciences, en Irak et bien au-delà. Ainsi, les composantes de la société irakienne ont engagé une démarche, à la chute de Saddam Hussein, en revenant avec gravité sur ces événements. Le tribunal spécial irakien, comme c’est fort justement indiqué dans la proposition de résolution, a condamné en 2007 les responsables de ce massacre, dont Ali Hassan Al-Majid. En complément d’une démarche judiciaire, l’Irak, dans toutes les composantes de sa société, a également entamé une démarche mémorielle. L’Irak, enfin, s’est engagé dans une démarche visant à offrir une place à toutes les communautés qui composent sa société, qu’elles soient minoritaires ou majoritaires. Cette démarche demeure fragile, et les blessures restent vives. Halabja restera notre aiguillon, puisque nous continuons à lutter contre la prolifération et contre l’impunité et que nous apportons tout notre soutien à l’Irak et à sa gouvernance renouvelée et ouverte à ses différentes composantes. Le Président de la République l’a redit à Erbil, le 29 août 2021 : « la France est solidaire du peuple kurde face aux blessures de l’histoire ». L’amitié qui lie Français et Kurdes est profondément liée à ce rapport à l’histoire.<br/>S’agissant de la position du Gouvernement à l’égard de la proposition de résolution que nous examinons, et en ayant à l’esprit les faits dramatiques que je viens de rappeler, il me semble essentiel d’appeler l’attention de l’Assemblée nationale sur les interrogations que soulève une telle résolution. Ce ne sont ni les faits, ni notre émotion partagée, ni notre engagement commun qui sont en cause. Néanmoins, la reconnaissance d’un génocide, à laquelle invite cette proposition de résolution, doit être préparée et accompagnée – MM. Wulfranc et Mbaye l’ont rappelé – par un long travail, celui des historiens, mais également celui des juristes. Cette tâche dépasse notre travail commun et le seul exécutif. À ce titre, je renvoie vers deux décisions du Conseil constitutionnel des 28 février 2012 et 26 janvier 2017, qui ont censuré des lois visant à réprimer la contestation de l’existence de génocides reconnus par le législateur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998368" ordre_absolu_seance="105" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699479" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Valérie Rabault</nom>
+            <id>609590</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2710.89">Là, il ne s’agit pas d’une loi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1998368" ordre_absolu_seance="106" id_acteur="PA774109" id_mandat="-1" id_nomination_oe="PM774111" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699478" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Clément Beaune</nom>
+            <id>774109</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2757.47">Le Conseil constitutionnel a notamment considéré que l’un des préalables indispensables était, outre l’adoption de dispositions de portée normative, une reconnaissance des faits de génocide par des juridictions internes ou internationales. Il existe donc une procédure très exigeante. Une telle reconnaissance est indissociable d’un processus juridique et historique, qui ne peut être mené qu’au long cours. Cela n’enlève rien aux drames relatés et aux faits rappelés.<br/>Je me dois également d’appeler l’attention de la représentation nationale sur l’enjeu de souveraineté que soulève la proposition qui est défendue. Non pas parce qu’il faudrait fermer les yeux, mais parce que dans l’Irak de 2021, qui n’a plus rien à voir avec l’Irak de Saddam Hussein, la souveraineté du pays est un enjeu essentiel. La France prend une part active aux efforts visant à conforter cette souveraineté. C’est tout l’enjeu de la conférence de Bagdad qui s’est tenue le 28 août 2021 avec notre soutien, et à laquelle le Président de la République était le seul participant occidental. Cette conférence visait à réaffirmer l’importance de la souveraineté du pays, au bénéfice de l’ensemble des Irakiens, qu’ils soient arabes, kurdes ou turkmènes, musulmans chiites comme sunnites, chrétiens ou yézidis. Il est essentiel qu’un sujet d’une telle importance dans la mémoire nationale irakienne soit traité d’abord par les Irakiens eux-mêmes. C’est donc d’abord au nouveau parlement irakien, élu il y a quelques semaines seulement, qui n’a pas encore eu le temps de siéger et qui est fortement renouvelé, qu’il revient de se prononcer sur cette question, comme sur celle d’éventuelles réparations, soulevée par la proposition de résolution.<br/>Je veux plus particulièrement souligner l’actualité et la complexité de ce dernier aspect. Depuis plusieurs années, le gouvernement fédéral et le gouvernement régional du Kurdistan ont engagé des négociations sur un certain nombre de sujets, qui incluent notamment un volet financier. Ces questions sont éminemment politiques, alimentées par les fractures récentes et les blessures de l’histoire, et elles ont trait – j’insiste – à la souveraineté même de l’Irak, à sa propre mémoire et à son organisation institutionnelle.<br/>Enfin, l’Irak est un pays complexe où hiérarchiser les mémoires, c’est prendre le risque, aujourd’hui encore, dans un contexte fragile, de les diviser, voire de les monter les unes contre les autres. Les chiites ont, eux aussi, subi la répression massive et extrêmement violente du régime de Saddam Hussein : nous avons toujours pris cela en compte. Je souhaite mentionner également les Yézidis, qui ont terriblement souffert des actions de Daech, ainsi que les chrétiens, qui n’ont pas été épargnés par ces décennies de sang.<br/>Il revient aux Irakiens eux-mêmes, avant tout, de faire le travail de mémoire, de vérité, de justice et de réparation sur leur passé. Nous devons les accompagner et les soutenir. Notre débat ce soir y aide sans doute, mais c’est une responsabilité préalable qui, je crois, leur appartient.<br/>Pour l’ensemble de ces raisons, je suis convaincu qu’à ce stade, l’adoption par un pays tiers d’une telle déclaration ou résolution pourrait nuire aux objectifs qu’elle veut servir. Aussi, vous comprendrez que si nous condamnons sans aucune hésitation, et de longue date, les actions menées par le régime de Saddam Hussein contre les Kurdes, notamment les massacres chimiques que vous avez relatés, d’une gravité indicible, celui de Halabja en particulier, dont nous n’avons cessé de tirer les conséquences dans notre action internationale, nous ne pouvons soutenir votre proposition de résolution. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et Dem.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998324" ordre_absolu_seance="112" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2699483" valeur="">
+      <orateurs/>
+      <texte>Explication de vote</texte>
+      <interExtraction nom_orateur="M. Jean-Christophe Lagarde (UDI-I)" id_acteur="PA268019" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723092">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998325" ordre_absolu_seance="113" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2699484" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2979.37">La parole est à M. Jean-Christophe Lagarde, qui l’a demandée pour une explication de vote.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998326" ordre_absolu_seance="114" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2699485" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde (UDI-I)</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2988.16">Permettez-moi d’exprimer la tristesse de notre groupe après avoir entendu certaines interventions, dont celle du Gouvernement. Le soutien des groupes de l’Assemblée, à l’exception du groupe Socialistes et apparentés, ne va pas jusqu’à la reconnaissance du génocide. On peut être reconnaissant, dites-vous, mais pas jusque-là : ce serait trop.<br/>M. Mbaye a avancé que la valeur sémantique ne serait pas la même que la valeur juridique. C’est vrai mais, pardon de vous le dire, nous avons eu exactement le même débat sur le génocide arménien. La valeur sémantique est donc aussi une valeur juridique. En outre, nous ne présentons pas une proposition de loi, mais une proposition de résolution, qui a d’abord et avant tout une valeur symbolique – y compris à l’adresse du Gouvernement, pour qu’il travaille.<br/>Vous avez évoqué le déni des populations non kurdes que représenterait une reconnaissance du génocide des Kurdes. Cela signifie-t-il que quand a été reconnu le génocide des Juifs pendant la Seconde Guerre mondiale, on n’a pas reconnu celui des Tsiganes et on aurait dénié ces derniers ? Ce que vous dites là est absolument inconcevable ! Vous cherchez des raisons pour refuser ce texte : peut-être en existe-t-il de bonnes, mais en tout cas, celle-là ne me paraît pas recevable.<br/>Le représentant du groupe communiste refuse, sous couvert de différents artifices, de reconnaître un génocide. Cela m’a grandement surpris, car entre 5 et 10 % de la population kurde a été sciemment éliminée, de façon organisée, comme l’a reconnu la présidente Valérie Rabault, que je remercie. Vous savez que cela s’est produit, mais vous estimez que non, ce n’est pas un génocide. Or, j’y reviendrai, il existe une grande différence entre génocide et crime de guerre, et c’est une des raisons pour lesquelles nous avons déposé cette proposition de résolution.<br/>Plus de tristesse encore d’avoir entendu le groupe du Mouvement démocrate, notamment, dire que le génocide devait être reconnu au niveau international. Pardon, mais la Chambre des communes britannique l’a reconnu ! Mme Rabault a également évoqué le tribunal de La Haye, de même que le tribunal irakien lui-même. Mais nous, non.<br/>Vous nous avez également dit que parce qu’il existait un nouveau pouvoir, et heureusement, il ne faudrait pas s’occuper du génocide perpétré par le pouvoir précédent. Je ne comprends pas la logique. La reconnaissance ou la dénonciation du génocide gênerait, avez-vous dit, nos relations avec l’État irakien – mais je n’imagine pas que l’actuel régime irakien se sente responsable du génocide perpétré par Saddam Hussein !<br/>On voit bien que les arguments tournent et retournent autour du pot, pour dire avec beaucoup d’émotion combien nous sommes reconnaissants aux Kurdes, mais que nous n’irons pas jusqu’à reconnaître le génocide dont ils ont été victimes. Je ne le comprends pas. Vous pouvez mesurer l’horreur, mais vous refusez de la qualifier, de la nommer, comme nous l’avons pourtant fait pour le Rwanda, ainsi que pour les Arméniens – alors qu’à l’époque, le ministère des affaires étrangères, de la même façon, sous différents présidents, ne voulait surtout pas gêner nos relations avec la Turquie. Vous nous avez dit, monsieur le secrétaire d’État, que c’était à l’Irak de faire le travail de mémoire : demandez-vous la même chose à la Turquie pour les Arméniens ? Avons-nous attendu que la Turquie décide de faire son travail de mémoire pour reconnaître, nous, le génocide arménien ? Je ne crois pas que ce soit ainsi que la France et la diplomatie française doivent se comporter.<br/>Vous parlez d’amitié et de fidélité, mais non de reconnaissance de ce génocide. Or toutes les qualifications de génocide – l’organisation, la volonté, la systématisation – sont présentes, et c’est une grande différence avec le crime de guerre. Gazer 5 000 personnes peut être un crime de guerre, car le crime de guerre n’est pas – c’est juridique – l’entreprise de destruction systématique de tout ou partie d’une population. Or c’est bien ce qui a été entrepris au Kurdistan irakien.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998334" ordre_absolu_seance="122" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699493" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <id>720568</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3022.39">Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998335" ordre_absolu_seance="123" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2699494" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3244.91">Alors même que nous les avons sollicités pour nous aider dans la guerre contre Daech, voilà que nous leur refusons cette reconnaissance qui préparerait la possibilité d’éviter le renouvellement de ce genre de crimes.<br/>Vous refusez parce que Daech – c’est la fin de votre intervention – a commis, c’est vrai, des crimes dont nous n’avons pas toujours su protéger – et encore aujourd’hui avec les complices de M. Erdogan – les populations kurdes. Nous les avons soutenues, mais à la fin de la guerre, nous les avons aussi largement abandonnées – en tout cas les Américains, car pour nous, compte tenu du secret, nous ne savons pas vraiment. Parce que Daech aurait commis des crimes ou un génocide, il ne faudrait pas reconnaître celui qui a été perpétré avant ? Je ne comprends pas.<br/>J’aurais souhaité que la France s’honore en reconnaissant ce génocide et n’attende pas, comme je l’ai entendu, que tous les autres le reconnaissent. Nous avons peut-être, monsieur le secrétaire d’État, été les premiers à nous indigner ; il ne faudrait pas être les derniers à reconnaître le génocide kurde. <italique>(Applaudissements sur plusieurs bancs du groupe UDI-I.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998338" ordre_absolu_seance="126" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699497" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <id>720568</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3295.48">Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998339" ordre_absolu_seance="127" code_grammaire="VOTE_ENS_PPR_S_1_20" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2699498" valeur=" (n[[o]] 4622)">
+      <orateurs/>
+      <texte>Vote sur la proposition de résolution</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998340" ordre_absolu_seance="128" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPR_S_2_70" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699499" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3304.58">Je mets aux voix l’article unique de la proposition de résolution.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998341" ordre_absolu_seance="129" code_grammaire="VOTE_ENS_PPR_S_2_80" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699500" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998342" ordre_absolu_seance="130" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPR_S_2_90" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699501" valeur="4195" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3336.10">Voici le résultat du scrutin :<br/>        Nombre de votants                        27<br/>        Nombre de suffrages exprimés                26<br/>        Majorité absolue                        14<br/>                Pour l’adoption                9<br/>                Contre                17</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1998343" ordre_absolu_seance="131" code_grammaire="VOTE_ENS_PPR_S_2_100" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699502" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(La proposition de résolution n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="4" id_preparation="1998345" ordre_absolu_seance="133" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2699504" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="4" id_preparation="1998346" ordre_absolu_seance="134" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2699505" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3339.37">Prochaine séance, lundi 29 novembre, à seize heures :<br/>Lecture définitive du projet de loi de financement de la sécurité sociale pour 2022 ;<br/> Proposition de résolution sur l’association de Taïwan aux travaux des organisations internationales ;<br/> Proposition de résolution relative à la lutte contre la pollution plastique ;<br/> Deuxième lecture de la proposition de loi visant à renforcer le droit à l’avortement.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="4" id_preparation="1998347" ordre_absolu_seance="135" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2699506" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures vingt.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="4" id_preparation="1998348" ordre_absolu_seance="136" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2699507" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

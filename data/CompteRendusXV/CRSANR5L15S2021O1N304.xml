@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N304</uid>
+  <seanceRef>RUANR5L15S2021IDS24391</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210614213000000</dateSeance>
+    <dateSeanceJour>lundi 14 juin 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>304</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210304</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-06-22T12:26:56.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2552676">Présidence de Mme Laetitia Saint-Paul</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2552680">
+          <intitule>Convocation du Parlement en session extraordinaire</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2552683">
+          <intitule>Impact des mesures prises dans le cadre de la crise sanitaire<br/>sur la santé et l’espérance de vie des Français</intitule>
+        </titreStruct>
+        <para id_syceron="2552686">Mme Valérie Petit (Agir ens)</para>
+        <para id_syceron="2552704">Mme Agnès Thill (UDI-I)</para>
+        <para id_syceron="2552750">M. Michel Castellani (LT)</para>
+        <para id_syceron="2552762">Mme Danièle Obono (FI)</para>
+        <para id_syceron="2552776">M. André Chassaigne (GDR)</para>
+        <para id_syceron="2552847">Mme Mireille Robert (LaREM)</para>
+        <para id_syceron="2552858">M. Patrick Hetzel (LR)</para>
+        <para id_syceron="2552869">M. David Corceiro (Dem)</para>
+        <para id_syceron="2553305">M. Alain David (SOC)</para>
+        <para id_syceron="2553314">M. Olivier Véran, ministre des solidarités et de la santé</para>
+        <para id_syceron="2552582">M. M’jid El Guerrab (Agir ens)</para>
+        <para id_syceron="2552586">M. Olivier Véran, ministre</para>
+        <para id_syceron="2552592">Mme Agnès Thill (UDI-I)</para>
+        <para id_syceron="2552597">M. Olivier Véran, ministre</para>
+        <para id_syceron="2552644">M. Bertrand Pancher (LT)</para>
+        <para id_syceron="2552649">M. Olivier Véran, ministre</para>
+        <para id_syceron="2552655">Mme Danièle Obono (FI)</para>
+        <para id_syceron="2552659">M. Olivier Véran, ministre</para>
+        <para id_syceron="2552664">M. Stéphane Peu (GDR)</para>
+        <para id_syceron="2552668">M. Olivier Véran, ministre</para>
+        <para id_syceron="2552671">Mme Sereine Mauborgne (LaREM)</para>
+        <para id_syceron="2553264">M. Olivier Véran, ministre</para>
+        <para id_syceron="2553268">Mme Annie Vidal (LaREM)</para>
+        <para id_syceron="2553276">M. Olivier Véran, ministre</para>
+        <para id_syceron="2553282">M. Maxime Minot (LR)</para>
+        <para id_syceron="2553285">M. Olivier Véran, ministre</para>
+        <para id_syceron="2553291">M. David Corceiro (Dem)</para>
+        <para id_syceron="2553294">M. Olivier Véran, ministre</para>
+        <para id_syceron="2553296">M. Alain David (SOC)</para>
+        <para id_syceron="2553377">M. Olivier Véran, ministre</para>
+        <para id_syceron="2553381">M. Sébastien Chenu</para>
+        <para id_syceron="2553387">M. Olivier Véran, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2553392">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du lundi 14 juin 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1905413" ordre_absolu_seance="1" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2552676" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Laetitia Saint-Paul<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1905414" ordre_absolu_seance="2" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552677" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA720138</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1905415" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2552678" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1905417" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2552680" valeur="">
+      <orateurs/>
+      <texte>Convocation du Parlement en session extraordinaire</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1905418" ordre_absolu_seance="6" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2552681" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA720138</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le président de l’Assemblée nationale a reçu du Premier ministre communication du décret du Président de la République en date du 14 juin 2021, portant convocation du Parlement en session extraordinaire à compter du 1<exposant>er</exposant> juillet 2021.<br/>L’ordre du jour de cette session extraordinaire sera publié au <italique>Journal officiel</italique> du 15 juin 2021.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905420" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2552683" valeur="">
+      <orateurs/>
+      <texte>Impact des mesures prises dans le cadre de la crise sanitaire<br/>sur la santé et l’espérance de vie des Français</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905421" ordre_absolu_seance="9" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552684" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA720138</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur l’évaluation de l’impact des mesures prises dans le cadre de la crise sanitaire sur la santé et l’espérance de vie des Français.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties : dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement ; nous procéderons ensuite à une séquence de questions-réponses.<br/>La parole est à Mme Valérie Petit.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905423" ordre_absolu_seance="11" id_acteur="PA720500" id_mandat="PM722982" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552686" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Valérie Petit (Agir ens)</nom>
+            <acteurRef>PA720500</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le 12 mars 2020, tandis que notre pays traversait l’une des plus graves crises sanitaires de son histoire, le Président de la République déclarait aux Français : « La santé n’a pas de prix. Le Gouvernement mobilisera tous les moyens financiers nécessaires pour porter assistance, pour prendre en charge les malades, pour sauver des vies quoi qu’il en coûte. » Aujourd’hui, nul ne peut nier que cette promesse du « quoi qu’il en coûte » ait été tenue.<br/>La France, l’un des pays les plus généreux en matière de soutien sanitaire, économique et social, n’a jamais compté lorsqu’il s’est agi de sauver des vies et de prendre en charge les 5,7 millions de Français touchés par la covid. Ainsi, le ministère de l’économie, des finances et de la relance estime à près de 424 milliards d’euros le coût de la crise, soit un niveau de dépenses qui correspond à une fois et demie le budget annuel de la France.<br/>Si 110 000 Français sont décédés de ce terrible virus, nul ne peut nier que de nombreuses vies ont été sauvées grâce aux mesures sanitaires et aux deux confinements. Dans une étude parue en mai dernier et intitulée « Années de vie gagnées, années de vie perdues », le <italique>think tank</italique> GenerationLibre avance le chiffre de 100 000 vies sauvées. Cette estimation se situe dans la fourchette, évoquée par des études scientifiques, comprise entre 20 000 et 220 000 vies sauvées. Alors oui, nous avons sauvé des vies et nous n’avons pas compté pour ce faire, c’est un fait.<br/>Mais qu’entendons-nous exactement par « vies sauvées » ? Dans l’étude précitée, les auteurs proposent une estimation des effets des mesures sanitaires, non pas sur le nombre de décès dus à l’épidémie de covid-19, mais sur l’espérance de vie des Français. Dit autrement, ils procèdent à une analyse coûts-bénéfices des mesures sanitaires fondée non plus sur les décès évités, mais sur les années d’espérance de vie gagnées ou perdues. Leurs résultats révèlent une vision très différente des effets de la crise. D’un côté, en sauvant près de 100 000 vies, les mesures sanitaires ont permis aux Français de gagner environ 500 000 années d’espérance de vie ; de l’autre, en accroissant la pauvreté, la crise économique et sociale induite par la pandémie leur aurait coûté 1,2 million d’années d’espérance de vie en moins.<br/>Ainsi, vous le constatez, la balance est négative, ce que confirment les derniers chiffres de l’INSEE sur l’espérance de vie à la naissance en 2020. En effet, celle-ci a fortement baissé par rapport à 2019, les hommes ayant perdu en moyenne une demi-année, car la pauvreté progresse dans notre pays.<br/>L’INSEE constate que la situation financière des ménages les plus modestes s’est davantage dégradée que celle des plus aisés. Un tiers d’entre eux estiment ainsi que leur revenu mensuel a baissé entre mars 2020 et mars 2021, tandis que le nombre d’allocataires du RSA, lui, a augmenté de 7,5 % en 2020. De son côté, le Secours catholique estime à 1 million le nombre de Français ayant basculé dans la pauvreté. Or, vous le savez, monsieur le ministre des solidarités et de la santé, il existe une corrélation entre pauvreté et espérance de vie : une femme pauvre voit diminuer son espérance de vie de huit ans, un homme pauvre, de douze ans.<br/>Alors, ce soir, il ne s’agit pas de juger, y compris d’un point de vue moral, l’action du Gouvernement et sa détermination à prendre les meilleures mesures pour le bien des Français– dont personne ne doute ici. Ce qui est en jeu, c’est l’évaluation rigoureuse, scientifique de la décision et de l’action publiques dans le contexte inédit de l’état d’urgence sanitaire car, nous le savons, il y aura d’autres crises et nous devons nous y préparer le mieux possible. Je ne connais pas d’autre moyen que d’évaluer pour mieux agir ; c’est ce que je défendais déjà en 2018 dans un rapport parlementaire dont seul le tiroir de mon bureau se souvient.<br/>Il est temps pour le Parlement de se ressaisir de ses prérogatives d’évaluation des politiques publiques prévues à l’article 24 de notre Constitution. Évaluer pour mieux agir, c’est le sens de ce débat inscrit à l’ordre du jour de l’Assemblée nationale à la demande du groupe Agir ensemble. Nous avons voulu à la fois jouer notre rôle d’évaluateur mais aussi travailler conjointement avec le Gouvernement à un modèle global et pertinent d’évaluation de l’impact des mesures prises dans le cadre de l’état d’urgence sanitaire. Pour ce faire, monsieur le ministre, et au nom du groupe Agir ensemble, je souhaite qu’il permette de répondre à trois questions.<br/>La première porte sur les intentions du Gouvernement en matière d’évaluation de l’effet des mesures prises sous le régime de l’état d’urgence sanitaire. Qu’est-il prévu afin de rendre compte avec rigueur au Parlement et aux Français des impacts de la crise sanitaire sur la vie des Français ? Avez-vous des éléments, s’agissant des mesures et du calendrier envisagés, à nous présenter ?<br/>Ma deuxième question a trait au modèle d’évaluation qui sera retenu pour analyser l’ensemble des conséquences de la crise. Il doit être suffisamment exhaustif afin de saisir toutes les dimensions de la vie des Français affectés par la crise sanitaire. Cependant, force est de constater que les indicateurs dont nous disposons sont insuffisants. Voici un exemple. Nous savons mesurer les effets de la crise sur la santé de nos concitoyens : ainsi, 110 299 Français sont décédés des suites de la covid-19 et 5,76 millions de cas positifs ont été détectés. En revanche, nous ne savons pas mesurer le nombre de Français atteints de la covid-19 et qui continuent d’avoir des symptômes, au moins douze semaines après leur infection ; ils sont atteints de ce que l’on appelle le covid long. <italique>(Mme Patricia Mirallès applaudit.)</italique> On estime leur nombre à au moins 1,5 million et l’évaluation demeure insuffisante.<br/>Aujourd’hui, la compréhension et le traitement des séquelles de la covid-19 restent encore trop peu évalués, et, par conséquent, trop peu pris en compte. Les équipes de recherche sur le covid long manquent de moyens humains et financiers pour comprendre la maladie ; le monde professionnel et la médecine du travail sont encore insuffisamment sensibilisés et formés ; les malades peinent à être détectés et pris en charge à travers des parcours de soins dédiés. L’exemple du covid long est pertinent pour montrer qu’il est urgent de mieux connaître et évaluer afin de mieux agir.<br/>Il nous faut aussi mieux évaluer pour mieux corriger les effets des confinements en matière de renoncement aux soins, de déprogrammation des soins, de recul des dépistages, de l’aggravation de certaines pathologies ou encore de changements d’attitude à l’égard de la vaccination.<br/>Enfin, il nous faut aussi prendre en considération la santé mentale des Français. Là encore, il s’agit d’un effet difficile à appréhender et ayant des conséquences à long terme, sur lequel nous devons conduire une évaluation plus rigoureuse. Nous savons notamment que 19 % des Français souffrent d’un état dépressif, soit neuf points de plus par rapport au niveau observé avant l’épidémie. Là aussi, nous avons besoin de plus d’éléments pour apporter des réponses quant à la prise en charge des patients et à la formation des médecins. En outre, plus d’un tiers des Français ont nettement augmenté leur consommation de tabac, de cannabis ou de médicaments psychotropes. Les troubles de l’addiction constituent une autre urgence de santé qu’il nous faut évaluer et prendre en charge, et pas seulement en condamnant à des amendes forfaitaires.<br/>Au-delà de la santé à court terme de nos concitoyens – c’était le sens de mon introduction –, il est urgent de chiffrer les conséquences sociales de la crise de la covid-19 car, nous le savons, la pauvreté abîme et abrège la vie. Ces vies que la crise détériore, c’est pour elles qu’il nous faut à présent nous mobiliser et nous battre. Mener une évaluation rigoureuse du coût social de la crise sur l’espérance de vie est un moyen de ne pas sous-estimer le combat qui est devant nous et qui doit être une priorité de nos politiques publiques. Monsieur le ministre, pouvez-vous nous rassurer sur la volonté du Gouvernement, et notamment de votre ministère, qui est aussi celui des solidarités, de mesurer également l’impact sanitaire de la fragilisation sociale et de la pauvreté dont sont victimes nos concitoyens les plus fragiles ?<br/>Enfin, ma dernière question porte sur les moyens dévolus pour évaluer l’effet des mesures prises dans le cadre de l’état d’urgence sanitaire. Lors de la préparation de cette intervention, j’ai eu le plaisir de travailler avec nos statisticiens, en particulier ceux de l’INSEE, de la direction de la recherche, des études, de l’évaluation et des statistiques – DRESS – et de la direction de l’animation, de la recherche, des études et des statistiques – DARES. Leur expertise et leur travail précieux sont essentiels à la conduite d’une évaluation rigoureuse des effets sanitaires et sociaux de la crise et je souhaitais tout particulièrement les saluer – j’espère que les bouchers de Tourcoing me le pardonneront.<br/>Vous le savez, il reste beaucoup à faire pour faciliter le partage des données et la collaboration des administrations en matière de statistiques. C’est un chantier essentiel pour l’évaluation des impacts de la crise sanitaire. Pourriez-vous nous indiquer s’il est bien inscrit dans l’agenda, notamment du ministère de la transformation et de la fonction publiques ?<br/>Monsieur le ministre, cher Olivier, je vous remercie d’avance pour vos réponses précises et je souhaite à notre hémicycle un débat riche, éclairé et productif, sous vos applaudissements enthousiastes. <italique>(Applaudissements sur les bancs des groupes Agir ens et Dem, ainsi que sur quelques bancs du groupe LaREM.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Agnès Thill (UDI-I)" id_acteur="PA720568" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723002">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905440" ordre_absolu_seance="28" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552703" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Agnès Thill.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905441" ordre_absolu_seance="29" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552704" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill (UDI-I)</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Selon les chiffres de l’INSEE, la pandémie de covid-19 a réduit l’espérance de vie des Français, la portant à 85,2 ans pour les femmes, soit une diminution de quasiment cinq mois, et à 79,2 ans pour les hommes, soit une diminution de six mois. Mais ce chiffre constitue une estimation moyenne ; il est indispensable de l’analyser plus en profondeur. Tous les Français n’ont pas perdu cinq à six mois d’espérance de vie. En revanche, la crise de la covid-19 a entraîné une surmortalité des personnes âgées qui a mécaniquement fait baisser l’espérance de vie.<br/>La question des personnes âgées est évidemment le point clef de notre débat sur l’évaluation de l’impact des mesures sanitaires sur la santé et l’espérance de vie des Français. À cet égard, plusieurs dysfonctionnements sont à relever, notamment de nombreuses confusions sur les véritables causes des décès. Certains ont en effet été comptabilisés à tort comme des disparitions liées au coronavirus. Cela s’explique entre autres par le dysfonctionnement du système d’information et de dépistage de Santé publique France.<br/>En outre, la gestion de la crise sanitaire dans les EHPAD a été fortement critiquée, y compris au sein de notre hémicycle, à de nombreuses reprises et par beaucoup de collègues. Un grand nombre de résidents n’ont pas été condamnés par le confinement ; il n’est pas exagéré de dire que certains en sont véritablement morts. Je me permets d’insister sur ce point par respect et par justice pour ceux qui ont vécu ces situations parfois véritablement inhumaines.<br/>Protégées du coronavirus mais livrées à la solitude, beaucoup de personnes âgées ont été véritablement en dépression, certaines refusant même de s’alimenter, coupées des leurs, sans pouvoir leur dire adieu. Monsieur le ministre, elles ne sont pas mortes de la covid-19, mais de solitude, de désespoir et de tristesse. Pour nous couvrir juridiquement, on les a empêchées de mourir. Ce faisant, on les a empêchées de vivre. Or empêcher de vivre, c’est tuer.<br/>Comment pouvez-vous expliquer que des centaines de personnes n’aient pas pu voir leurs proches même une dernière fois ? Pourquoi n’ont-elles pas pu se tenir une dernière fois la main, enveloppées dans des housses ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905446" ordre_absolu_seance="34" id_acteur="PA719668" id_mandat="PM722726" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552709" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Mirallès</nom>
+              <acteurRef>PA719668</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est la faute du ministre ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905447" ordre_absolu_seance="35" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552710" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comment pourrez-vous justifier auprès des familles qu’elles n’aient pas pu vivre ce dernier au revoir ? C’est indigne d’une civilisation. Ce ne sont peut-être pas vos recommandations, mais c’est ainsi que les choses ont été appliquées, et ces situations résultent directement des directives gouvernementales,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905449" ordre_absolu_seance="36" id_acteur="PA719668" id_mandat="PM722726" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552712" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Mirallès</nom>
+              <acteurRef>PA719668</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905450" ordre_absolu_seance="37" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552713" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est honteux, madame Thill !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1905451" ordre_absolu_seance="38" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552714" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…davantage établies pour éviter d’engager la responsabilité pénale des ministres que pour protéger les plus âgés. Quel sens y a-t-il à empêcher un homme de 97 ans de mourir en EHPAD ? Il peut mourir n’importe quand, de n’importe quoi.<br/>Les laisser mourir, c’est les laisser vivre, et les laisser vivre, c’est les laisser mourir. Ils ont été enfermés durant de longs mois. Qu’avaient-ils fait alors qu’ils étaient revenus de la guerre ? En voulant les prévenir de la mort brutale due au coronavirus, ils ont été conduits vers une mort sociale, lente et pénible dans l’abandon et la solitude. En voulant les empêcher de mourir, on les a empêchés de vivre et beaucoup en sont morts.<br/>Considérez la mission du collectif Tenir ta main. Je reverrai toujours cette vieille dame de 88 ans, pleurant derrière le portail de l’hôpital parce que son mari était mort et que, surtout, on lui avait interdit d’aller le voir après soixante-dix ans de vie et de nuit communes. Combien sont-ils à ne pas avoir pu voir leurs proches ?<br/>Enfin, la vaccination est venue offrir une porte de sortie tardive mais bienvenue. Au 12 juin, selon le site covidtracker.fr, plus de 83 % des personnes âgées de plus de 65 ans ont reçu au moins une dose de vaccin contre la covid-19. Pourtant, savez-vous que, dans ma circonscription, il faut toujours prendre un rendez-vous pour rendre visite à son aîné en EHPAD ?<br/>Entre le 10 avril et le 10 mai, le taux de vaccination des 75-79 ans est passé de 69 à 82 %, soit une augmentation de treize points, alors qu’entre le 10 mai et le 10 juin, il n’a augmenté que de six points, pour atteindre 88 %. Nous risquons donc d’atteindre une forme de plafond de verre. C’est l’une des questions que nous aurons à nous poser ce soir : comment convaincre les dernières personnes à vacciner ?<br/>Je terminerai en évoquant la question des opérations déprogrammées et des détections tardives de maladies. Une fois de plus, le coronavirus est venu bouleverser un système de santé déjà fragile. Des opérations et des dépistages n’ont pu avoir lieu ou ont été repoussés.<br/>Voilà certains des sujets que nous pourrons aborder ce soir. Je remercie nos collègues du groupe Agir ensemble de nous en avoir donné l’occasion et j’encourage le Gouvernement à apporter aux Français des réponses claires et précises.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905378" ordre_absolu_seance="45" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552748" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vraiment honteux !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani (LT)" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905379" ordre_absolu_seance="46" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552749" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905380" ordre_absolu_seance="47" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552750" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani (LT)</nom>
+              <acteurRef>PA719138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’épidémie de covid-19 a provoqué un paradoxe inattendu : alors même que nous cherchions à préserver notre santé et à sauver la vie des plus vulnérables, les mesures prises pour freiner l’épidémie et les comportements recommandés ont eu et continuent d’avoir un certain nombre d’effets négatifs sur la santé et l’espérance de vie des Français. Les confinements successifs – le premier tout particulièrement – ont eu des conséquences directes et indirectes sur notre bien-être physique et mental.<br/>Il faut veiller à évaluer et à réduire au maximum les conséquences sanitaires liées aux reports et aux renoncements aux soins. Celles-ci ne seront visibles que dans quelques années, mais c’est dès aujourd’hui qu’il faut les éviter. Lors du premier confinement, près de 60 % des personnes ont indiqué ne pas avoir réalisé au moins un soin ou un acte dont elles avaient pourtant besoin. Très rapidement, la baisse de l’activité médicale s’est constatée sur tous les territoires, due à la peur d’être contaminé, de contaminer les autres ou de surcharger les médecins. Une sous-consommation de médicaments pour les pathologies chroniques a été aussi notée. À chaque reprise épidémique, les établissements de santé ont dû procéder à une déprogrammation massive des interventions médicales et chirurgicales non urgentes. Cela a entraîné et continue d’entraîner des pertes de chances parfois irréversibles.<br/>La crainte a été particulièrement vive pour les femmes confrontées à une grossesse non désirée. Les alertes du terrain ont été nombreuses. Le planning familial a ainsi fait état d’un triplement des appels relatifs à des difficultés d’accès à l’IVG – interruption volontaire de grossesse – ou de dépassement des délais pour en solliciter une.<br/>Par ailleurs, les personnes qui renoncent aux soins sont celles qui ont connu une baisse de revenu : comme souvent les fragilités sociales et sanitaires se cumulent.<br/>Au-delà de l’accès aux soins, des effets à long terme sont à chercher du côté du manque de prévention et des retards dans les dépistages. La crise sanitaire a légitimement monopolisé notre attention, au risque de placer au second plan la prévention d’autres maladies. Nous avons ainsi enregistré une baisse de 10 % des mammographies et de 20 % des coloscopies. Certaines études aboutissent à la perspective d’une surmortalité par cancer de l’ordre de 6 % en moyenne au cours des cinq prochaines années. Cette surmortalité atteindrait même 20 % pour les cancers de l’utérus.<br/>La vaccination a elle aussi été ralentie, alors même que nous venions de rendre obligatoire l’injection de huit vaccins supplémentaires pour les enfants. À cet égard, le retard pris lors du premier confinement n’a pas encore été totalement rattrapé, ce qui risque de retarder l’éradication de certaines maladies infectieuses.<br/>La prévention, c’est aussi l’activité physique et le sport, qui ont connu un très net ralentissement lors des confinements, à cause – nous le savons – de la fermeture des clubs et des salles de sport. Nous ne devons absolument pas négliger cet aspect, d’autant plus que les pratiques addictives ont augmenté en parallèle. Alors qu’il baissait ces dernières années, nous avons constaté un regain du tabagisme en 2020, notamment chez les plus précaires.<br/>Ces pratiques addictives sont aussi des indicateurs de détérioration de la santé mentale des Français, surtout les plus modestes. Stress, crainte pour soi et ses proches, absence de contact humain : les états anxieux ou dépressifs se sont accrus de manière impressionnante. La préoccupation est très forte s’agissant des plus jeunes : les services de pédopsychiatrie sont très largement débordés.<br/>Cela étant, les questions de santé mentale semblent moins taboues. Cette prise de conscience doit se poursuivre et se matérialiser par des actions politiques visant à soutenir le financement ainsi que l’organisation territoriale de la psychiatrie. Les mesures ponctuelles prises à destination des étudiants et des enfants doivent être pérennisées.<br/>Enfin, comment ne pas évoquer nos aînés et plus particulièrement les résidents de nos EHPAD ? Ils ont payé un lourd tribut dans cette crise. Premières victimes de l’épidémie, ils ont aussi très mal vécu les mesures d’isolement, qui ont précipité des phénomènes de glissement.<br/>Monsieur le ministre, l’épidémie de covid-19 doit être l’occasion de repenser notre système de santé et nos politiques de soutien à l’autonomie. Il est encore temps d’éviter que de nouveaux drames s’ajoutent à cette crise sanitaire. Il faut aussi s’inspirer des initiatives positives qui ont émergé, comme les coopérations sanitaires sur le terrain, la télémédecine ou encore le soutien à la santé mentale. Nous devons collectivement faire de cette crise une leçon. <italique>(Applaudissements sur les bancs des groupes Dem et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Danièle Obono (FI)" id_acteur="PA721960" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723434">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905391" ordre_absolu_seance="58" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552761" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Danièle Obono.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905392" ordre_absolu_seance="59" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552762" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono (FI)</nom>
+              <acteurRef>PA721960</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voici que dit Antoine, 43 ans, atteint d’un cancer du foie : « La nuit, je cauchemarde sur mes tumeurs qui augmentent et se développent. Elles auraient dû être traitées dès avril 2020 et ne l’ont été qu’en juin. Résultat : des métastases deux mois plus tard. On devient fou, à penser à tout ce temps perdu sur la maladie. La France se vante d’avoir échappé à une situation à l’italienne, avec des patients soignés dans des couloirs, faute de place. Mais qu’est-ce qu’elle fait de nous, à part nous laisser malades chez nous ? La France a échoué à l’instant où elle a cessé de prendre soin de tout le monde. »<br/>En novembre dernier, la Ligue contre le cancer évaluait à 30 000 le nombre de cancers non détectés ou détectés tardivement. Elle estime aujourd’hui que ce sont près de 93 000 cancers qui n’ont pas été détectés en 2020, ce qui pourrait entraîner la mort de 1 000 à 6 000 personnes dans les prochaines années.<br/>Dans son dernier rapport, l’assurance maladie a quant à elle constaté un recul sans précédent du recours aux soins de ville au cours du premier confinement. Ce recul atteint 80 à 90 % pour l’ophtalmologie et les soins dentaires, 60 % pour les spécialistes et de 30 % pour les généralistes. De plus, 80 % des opérations ont dû être reprogrammées pour libérer des lits. Résultat : 47 % de la population a vu ses soins annulés ou reportés. En outre, 24 % des personnes déplorent une aggravation de leurs symptômes et une dégradation de leur état de santé. Cette situation a entraîné une perte de confiance dans le système de santé chez 29 % des personnes concernées par les déprogrammations, tandis que pour 11 % des personnes interrogées, elle a créé de l’angoisse.<br/>La santé mentale est particulièrement concernée par cette dégradation. L’infographie réalisée par OpinionWay sur l’état psychologique des salariés français après un an de covid-19 révèle ainsi combien la détresse psychologique de la population s’est accentuée. Ainsi, 45 % des personnes interrogées ressentent de la détresse au travail, dont 20 % à un niveau élevé. Le taux de dépressions nécessitant un accompagnement a explosé, passant de 21 à 36 % en un an. Quant au nombre de burn-out, il a presque doublé en un an, avec près de 2 millions de personnes en situation de burn-out<italique/>sévère.<br/>Or notre système de soins n’est aujourd’hui pas en mesure de faire face à l’arrivée d’une telle vague de pathologies et de troubles, qu’ils soient physiques ou mentaux. Les cures d’austérité infligées par les gouvernements successifs, dont le gouvernement actuel, l’ont gravement, dangereusement affaibli. La gravité de la situation a éclaté au grand jour avec la crise du covid-19, mais l’épiphanie jupitérienne du 12 mars 2020 – « La santé n’a pas de prix », s’est exclamé le Président de la République – n’aura duré le temps que du premier confinement. Censé permettre aux soignants et soignantes de remplir leur mission dans de bonnes conditions, le Ségur de la santé est largement insuffisant.<br/>Cette année, le Gouvernement a infligé 4 milliards d’économies supplémentaires aux dépenses de santé. En pleine pandémie, les fermetures de services et de lits d’hôpital se poursuivent à bas bruit :…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905398" ordre_absolu_seance="65" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552768" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est totalement faux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905399" ordre_absolu_seance="66" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552769" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <acteurRef>PA721960</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…970 à Paris, 350 à Tours, 200 à Tarbes, 230 à Marseille, 200 à Nice, 200 à Caen. Il faut en finir avec cette logique délétère ! C’est ce que diront les nombreux soignants et soignantes qui participeront demain à la journée de mobilisation de la fonction publique, et j’espère que vous saurez les entendre, monsieur le ministre.<br/>Nous soutenons ces mobilisations de soignants. Il ne s’agit plus simplement de les applaudir, mais également de répondre à ce qu’ils défendent pour améliorer la santé des Français et des Françaises. Nous proposons de changer de paradigme et de replacer l’intérêt général humain au cœur de l’organisation de notre système de santé.<br/>Pour que les soignants et soignantes puissent travailler dans de bonnes conditions, il faut notamment, et en urgence, procéder à des recrutements massifs. Dans notre contre-projet de budget pour 2021, à l’automne dernier, nous avons évalué les besoins à 62 500 soignants et 210 000 personnels dans les EHPAD. Il faut également augmenter leur rémunération : nous soutenons la revendication des collectifs d’obtenir une vraie augmentation de 300 euros par mois.<br/>Selon l’Organisation mondiale de la santé (OMS), « la santé est un état complet de bien-être physique, mental et social et ne consiste pas simplement à une absence de maladie ou d’invalidité ». De plus, « la possession du meilleur état de santé qu’il est capable d’atteindre constitue l’un des droits fondamentaux de tout être humain, quelles que soient sa race, sa religion, ses opinions politiques ou sa condition économique et sociale ».<br/>Les gouvernements ont la responsabilité de la santé de leur peuple. Ils ne peuvent y faire face qu’en prenant les mesures sanitaires et sociales appropriées. Or, depuis quatre ans, et plus encore avec la crise du covid-19, le Gouvernement a failli à ses missions. Quand nous serons en responsabilité, nous y répondrons avec les moyens humains, financiers et matériels adéquats en matière sanitaire, mais aussi sociale et environnementale.<br/>Au cours de ce débat, nous interpellerons le Gouvernement sur un certain nombre de mesures, liées notamment à la question de la santé mentale. Mais c’est plus largement qu’il faut, de notre point de vue, remettre la politique de santé à l’endroit et enfin la faire servir la santé et le bien-être des Français et des Françaises. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. André Chassaigne (GDR)" id_acteur="PA267306" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723054">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905405" ordre_absolu_seance="72" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552775" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. André Chassaigne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1905406" ordre_absolu_seance="73" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552776" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne (GDR)</nom>
+              <acteurRef>PA267306</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat qui nous occupe ce soir est l’occasion de faire le bilan de la gestion de la crise sanitaire. L’évaluation des mesures prises successivement par le Gouvernement depuis mars 2020 pour freiner l’épidémie a fait l’objet de deux commissions d’enquête distinctes à l’Assemblée nationale et au Sénat, auxquelles il faut ajouter le rapport de ma collègue Marie-George Buffet pour mesurer et prévenir les effets de la crise du covid-19 sur les enfants et la jeunesse.<br/>Ces travaux ont bien montré les défaillances de l’exécutif dans la gestion de la crise, qu’il s’agisse du déploiement des masques, de l’accès aux tests ou de son pilotage trop centralisé. Ils dénoncent la paupérisation de notre système de santé qui s’est trouvé insuffisamment armé en lits et en personnels, en raison des politiques successives de compression des dépenses publiques.<br/>Plus de quinze mois après le début de cette épreuve, le bilan humain est lourd : 110 000 personnes sont décédées du covid-19 et plus de la moitié des personnes hospitalisées continuent de souffrir de symptômes divers, regroupés sous le terme de « covid long ». S’y ajoutent les impacts délétères des confinements sur notre vie quotidienne, nos interactions sociales et la santé mentale.<br/>Si l’épidémie a mis à rude épreuve la société tout entière, j’insisterai principalement sur l’impact de la crise sanitaire pour deux catégories de la population particulièrement exposées : les personnes âgées en perte d’autonomie et les jeunes. Les premiers ont été touchés par une surmortalité excessive, tandis que les seconds subissent une dégradation de leurs conditions d’existence préjudiciable pour leur santé mentale.<br/>La situation critique des EHPAD était connue de longue date et la crise n’a fait qu’aggraver les difficultés quotidiennes : manque de moyens publics, sous-effectifs, conditions de travail dégradées, absence de médicalisation. C’est sur ce terrain abîmé que la crise sanitaire a prospéré. Les EHPAD ont payé un lourd tribut. Lors de la seule première vague, 29 933 personnes sont décédées des suites de la covid-19, dont près de la moitié étaient des résidents en EHPAD.<br/>Ce drame sanitaire s’est doublé d’une détresse sociale et psychologique au sein des établissements, avec des conditions de vie dégradées pour les personnes âgées. Les mesures de confinement ont renforcé leur sentiment d’isolement et limité leurs contacts sociaux. Les interdictions des visites des familles, si importantes pour ces personnes, ont constitué une épreuve supplémentaire.<br/>Tous ces constats doivent nous interpeller, monsieur le ministre. Ils traduisent l’impuissance et l’isolement dans lesquels ont été placées les personnels et les gestionnaires de ces structures. Des moyens nouveaux sont nécessaires pour embaucher massivement, dans l’optique d’atteindre un taux d’encadrement de six soignants pour dix résidents et de revaloriser les conditions de travail. Il est temps de reconnaître l’utilité sociale des métiers du soin et de l’aide à domicile, en révisant les grilles salariales bloquées depuis des années autour du SMIC : c’est un préalable indispensable à leur attractivité.<br/>Il est nécessaire d’avancer sur la médicalisation des EHPAD en renforçant la présence de médecins coordonnateurs.<br/>Plus largement, nous ne pouvons plus éluder la nécessité de changements profonds dans la prise en charge de la perte d’autonomie, aujourd’hui à bout de souffle. Il est indispensable de faire évoluer le modèle des EHPAD,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905457" ordre_absolu_seance="82" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552840" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il est temps !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905458" ordre_absolu_seance="83" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552841" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <acteurRef>PA267306</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…avec comme priorité le « prendre soin ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905459" ordre_absolu_seance="84" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552842" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <acteurRef>PA608416</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905460" ordre_absolu_seance="85" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552843" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <acteurRef>PA267306</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant de la jeunesse, les constats sont aussi sévères. Privés d’interactions sociales, empêchés de poursuivre leur scolarité dans des conditions normales, confrontés à la précarité économique et même alimentaire, les jeunes ont subi une forte dégradation de leur santé mentale.<br/>Malgré plusieurs annonces gouvernementales destinées à l’accompagnement des jeunes, le compte n’y est pas. Les jeunes restent exposés au risque de pauvreté faute de bénéficier d’une protection sociale minimale. Je pense bien sûr à la nécessité d’ouvrir le RSA aux jeunes dès 18 ans. L’accès aux soins, notamment aux consultations psychologiques, n’est pas suffisamment garanti en raison d’une pénurie de médecins dans les écoles et les universités. Le « chèque psy » apparaît comme un pansement sur une jambe de bois. Nous appelons au contraire à la reconstruction de la médecine scolaire et universitaire, seule manière de déployer une politique de prévention efficace.<br/>Cette intervention est accompagnée de plusieurs propositions et ne se contente pas de dresser le bilan des mois que nous venons de vivre. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mireille Robert (LaREM)" id_acteur="PA718810" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722464">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905463" ordre_absolu_seance="88" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552846" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mireille Robert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905464" ordre_absolu_seance="89" id_acteur="PA718810" id_mandat="PM722464" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552847" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Robert (LaREM)</nom>
+              <acteurRef>PA718810</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La pandémie s’est propagée dans le monde dès la fin de 2019, montrant la fragilité de l’humanité face aux virus qui l’attaquent régulièrement : je ne vais pas revenir sur l’histoire des pandémies, l’actualité mondiale nous rappelle à ses souvenirs et aux moyens contraignants mais nécessaires à notre protection. Le risque de propagation des zoonoses est bien réel, comme l’atteste la grippe aviaire. Nous surveillons les mutations virales pour éviter les propagations de l’animal à l’homme, mais la pandémie virale est un risque bien réel pour l’humanité.<br/>Je veux avoir une pensée pour les 110 000 morts français du covid-19 : il ne s’agit pas d’un chiffre mais de personnes qui avaient une famille et des amis ; ce sont autant de deuils, parfois très difficiles, que nous devons garder en mémoire. Je veux aussi redire, au nom de mon groupe mais certainement de toute l’Assemblée, notre reconnaissance aux personnels médicaux et paramédicaux, hospitaliers ou de ville. Leur exemplaire abnégation mérite le respect, ce qui veut aussi dire que nous devrons mieux prendre en compte à l’avenir les difficultés auxquelles ils sont confrontés.<br/>Sur ce point, le premier bilan que nous devrons tirer porte sur la question de l’adéquation de l’offre de soins à l’évolution de la santé des Français. Un an de pandémie a modifié nos comportements et contribué à l’émergence de pathologies psychiatriques que nous devons comprendre et guérir. Dans les écoles, nous connaissons tous les exercices contre les incendies : les enfants et les équipes de la vie scolaire sont désormais confrontés à des exercices contre le terrorisme et ont appris depuis un an le port constant du masque et les gestes barrières. Nous savons que de telles expériences laisseront des traces durables. Depuis mars 2020, Santé publique France mène une étude sur 2 000 personnes destinée à évaluer les conséquences psychologiques, notamment sur les troubles du sommeil et les symptômes dépressifs qui touchent un tiers des personnes interrogées dans l’enquête « CoviPrev 21 ».<br/>Nous mettons en place un dispositif de prise en charge intégrale pour les enfants âgés de 3 à 17 ans et le chèque Santé psy étudiant est disponible depuis le 1<exposant>er</exposant> février : voilà du concret ! Il nous faut cependant former davantage de psychiatres et de psychologues pour l’avenir.<br/>Je veux insister sur le besoin de moyens auprès du ministre de l’éducation nationale et de la ministre de l’enseignement supérieur pour les jeunes et les équipes qui les accompagnent quotidiennement. Nous devons renforcer la médecine psychiatrique préventive dans les établissements : il faut le faire en lien étroit avec les régions, les départements et les communes pour répondre aux besoins dans les territoires.<br/>L’autre défi auquel nous sommes confrontés est celui du retour aux soins et à la prévention des maladies. Durant cette période, nous avons enregistré un recul massif du recours aux soins pour différentes raisons, tenant des difficultés d’accès à la peur de la propagation du virus. Nous savons que le renoncement aux soins est une réalité quotidienne : notre système de couverture sociale n’empêche pas 25 % des Français de renoncer aux soins en temps normal ; avec la pandémie, 39 % des personnes interrogées par l’assurance maladie ne sont pas allées chez le généraliste.<br/>Le Gouvernement a incité au maintien des soins d’urgence et du suivi des grossesses, des maladies chroniques et des enfants. Il a encouragé le nécessaire développement de la téléconsultation, qui peut et doit prendre encore plus d’ampleur. La télémédecine n’a pas été suffisante, particulièrement pour les populations précaires que nous devons continuer d’accompagner, quelles que soient leurs origines : il y va de la santé publique. Sur ce point, l’accès aux instruments du numérique est essentiel, mais il faudra aussi améliorer les connexions, notamment dans le monde rural.<br/>Les soins dentaires et ophtalmiques ont même reculé de 90 % lors de la première vague : cette situation a conduit au non-recours aux soins d’urgence vitale. La Fédération hospitalière de France (FHF) a mis l’accent sur la surmortalité pour cause de crise cardiaque non prise en charge à temps. La prévention du cancer a été également touchée de plein fouet : l’Institut national du cancer (INCa) montre qu’entre mars et juillet 2020, 32 000 opérations programmées n’ont pas été réalisées. Avec le recul des visites chez le généraliste, c’est toute la politique de prévention et de soin qui a été touchée, et nous devons malheureusement nous attendre à une surmortalité de l’ordre de 5 à 7 % dans les cinq prochaines années, avant que le système ne retrouve sa pleine capacité de fonctionnement.<br/>Le redémarrage que nous connaissons ne doit pas nous faire oublier ce qui s’est passé et se passe encore chaque jour à cause de la covid-19. L’apparition du covid long va nous obliger à traiter une multitude de patients pour des états de fatigue et de fragilité supplémentaires. Nous n’avons d’ailleurs pas attendu la fin de la crise : lors de la dernière loi de financement de la sécurité sociale, nous avons tiré les leçons de cette épreuve en investissant massivement dans le système de santé ; nous poursuivrons nos efforts dans le prochain PLFSS en nous appuyant sur les premiers bilans de l’impact de la crise sur la santé et l’espérance de vie des Français. <italique>(Applaudissements sur les bancs des groupes LaREM et Agir ens)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Patrick Hetzel (LR)" id_acteur="PA608416" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723540">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905473" ordre_absolu_seance="98" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Patrick Hetzel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905475" ordre_absolu_seance="99" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552858" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel (LR)</nom>
+              <acteurRef>PA608416</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous abordons ce soir la question de l’impact des mesures prises dans le cadre de la crise sanitaire sur la santé et l’espérance de vie des Françaises et des Français.<br/>Plusieurs aspects importants ont déjà été mentionnés, qu’ils concernent les jeunes comme nos aînés. L’un des sujets essentiels concerne les nombreux retards de prise en charge d’autres maladies dus à la covid-19 :…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905477" ordre_absolu_seance="101" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552860" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est clair !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905478" ordre_absolu_seance="102" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552861" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <acteurRef>PA608416</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…tous les médecins nous ont fait remonter l’information selon laquelle la prise en charge des maladies chroniques a été fortement retardée par la pandémie. Ainsi, lors des périodes de pic pandémique et de confinement, avec la saturation des hôpitaux, les absences de personnel dues à la maladie et la réorientation des moyens humains et financiers vers le traitement des patients atteints de la covid-19, les professionnels de santé ont observé une diminution ou un ralentissement de l’activité de nombreux services hospitaliers et ambulatoires dédiés à d’autres maladies.<br/>On a ainsi assisté en France à une quasi-interruption des opérations chirurgicales considérées comme non essentielles, par exemple des chirurgies électives du genou, et des consultations externes ; à une baisse très significative de tous les examens de diagnostic comme les échocardiogrammes, les échocardiographies transœsophagiennes, les angiographies coronariennes et les tests d’efforts ; à une diminution des traitements des maladies cardiovasculaires. Il semble que même la médecine nucléaire, pourtant importante dans le traitement de certains cancers, a connu des baisses significatives d’activité. De même, les procédures de diagnostic auraient également très significativement diminué, notamment les scanners, les scintigraphies pulmonaires et osseuses, les études myocardiques ou thyroïdiennes. Toute la politique de prévention et de soin a été touchée par la pandémie.<br/>Mes questions, monsieur le ministre, sont très simples. Premièrement, pouvez-vous nous indiquer, dans le prolongement de ce diagnostic que j’espère partagé, quel est selon vous l’impact de ces très nombreuses déprogrammations et procrastinations d’actes médicaux sur la santé actuelle et future des Françaises et des Français ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905481" ordre_absolu_seance="105" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552864" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bonne question !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905482" ordre_absolu_seance="106" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552865" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <acteurRef>PA608416</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Deuxièmement, avez-vous déjà une idée des conséquences inévitables sur leur espérance de vie ? Des premiers chiffres commencent à être évoqués : quels sont les vôtres et quelle est l’analyse du Gouvernement sur cette question ? Enfin, connaissez-vous précisément le nombre de personnes qui ont perdu de grandes chances de guérison à cause d’un diagnostic trop tardif ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905483" ordre_absolu_seance="107" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552866" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Toute la transparence !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905484" ordre_absolu_seance="108" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552867" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <acteurRef>PA608416</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous l’aurez compris, monsieur le ministre, la pandémie a évidemment créé de nouveaux problèmes ; des collègues ont soulevé le paradoxe de l’action conduite : on a cherché à sauver des vies mais il serait regrettable que ces efforts aient rendu plus difficile voire impossible la protection d’autres vies. Monsieur le ministre, nous attendons vos réponses à ces interrogations fondamentales. <italique>(Mme Agnès Thill applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. David Corceiro (Dem)" id_acteur="PA720928" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774485">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905485" ordre_absolu_seance="109" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552868" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. David Corceiro.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1905486" ordre_absolu_seance="110" id_acteur="PA720928" id_mandat="PM774485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552869" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Corceiro (Dem)</nom>
+              <acteurRef>PA720928</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La crise sanitaire à laquelle le monde a été confronté est sans précédent. Elle a touché tous les pans de notre société et de notre économie, et elle a mis en évidence les liens intimes entre la santé des êtres humains, celle des animaux et notre planète. Chaque pays, chaque gouvernement, chaque citoyen a dû faire face à une situation inédite et éprouvante. Aujourd’hui, nous entamons ensemble une réflexion nécessaire pour évaluer les arbitrages du Gouvernement dans le cadre de la crise sanitaire et anticiper leurs effets sur la santé et l’espérance de vie des Français. Cette démarche d’évaluation et de contrôle est importante pour notre démocratie : il s’agit d’appréhender <italique>a posteriori</italique> les conséquences des décisions afin d’améliorer le fonctionnement des services de l’État pour tous les Français.<br/>La ligne de conduite du Gouvernement et de la France entière a été dictée par l’intérêt général et l’impératif de sauvegarde de chaque vie. Chaque Français a compté, chaque perte a été déplorée. Immense peine pour notre pays, nous avons perdu plus de 100 000 Français.<br/>Les décisions prises ont permis de sauver des centaines de milliers de vies. L’administration centrale n’a cessé de prendre des décisions, la priorité ayant été de protéger la vie de chaque citoyen. Le Gouvernement a fait preuve de réactivité et de lucidité tout au long de la crise. Nous avons cependant rencontré des difficultés car l’intérêt général et la protection des vies ont dû s’imposer face à la pleine liberté.<br/>De multiples facteurs ont entamé la santé psychologique de nos concitoyens : l’isolement, notamment des étudiants et des résidents d’EHPAD, la précarité financière, la peur du virus au quotidien, la perte de proches, les confinements successifs, la privation de libertés individuelles, la fermeture des établissements de vie et de divertissement et les violences intrafamiliales. L’inventaire est long ! Il importe de rappeler la diversité des situations et des difficultés éprouvées par chacun.<br/>À tous, je veux montrer ma profonde reconnaissance pour leur patience et leur résilience face aux restrictions qui ont certainement sauvé des millions de vies. Les difficultés sont souvent apparues insurmontables, mais nous avons tenu tous ensemble.<br/>La crise sanitaire doit aussi nous permettre de prendre conscience d’éléments importants ayant trait à notre système de santé. À ce titre, il est important de souligner que les hésitations du début de la crise ont suscité une vive remise en question et un redressement rapide : en effet, si le début de la crise a été marqué par un manque de masques et de matériel essentiel aux soignants, une véritable prise de conscience a eu lieu sur l’hôpital. Cette institution a été un pilier essentiel pour résister au virus ; elle a tenu. Avec elle, des millions de professionnels de santé ont soutenu la France et ont soigné leurs concitoyens dans des conditions parfois difficiles.<br/>Dès l’été 2020, le ministre des solidarités et de la santé a lancé le Ségur de la santé afin d’œuvrer, en concertation avec le secteur, à une revalorisation franche. Cette dernière a été illustrée par des mesures fortes : revalorisation du salaire de 1,5 million de professionnels de santé ; hausse de la rémunération des stagiaires, étudiants en médecine et internes ainsi que de celle des médecins hospitaliers en début et en fin de carrière. En somme, 9 millions d’euros supplémentaires ont été investis pour gratifier ces héros de la crise et mettre en valeur leur dévouement.<br/>En mars dernier, le plan d’investissement pour l’hôpital public a été présenté : il prévoit de lui consacrer 19 milliards d’euros dans la décennie à venir. Ce montant représente le double des investissements totaux des vingt dernières années ; il s’accompagne d’un programme ambitieux de soutien à des projets de santé de grande ampleur et de la reprise de la dette des établissements de santé en difficulté financière et souhaite engendrer la politique d’autonomie des territoires.<br/>La crise a été un obstacle immense, mais elle nous a permis d’améliorer notre système de soins et de mettre en valeur des professionnels essentiels ; l’hôpital a été revalorisé, ce qui a permis d’anticiper davantage l’organisation et la résistance aux menaces sanitaires. Elle a aussi ouvert la voie à une meilleure prise en considération de la santé psychologique et mentale des Français, celle des étudiants et de la jeunesse étant jusqu’alors minimisée.<br/>Chers collègues, il convient à présent d’identifier l’impact des mesures prises dans le cadre de la crise sanitaire sur la santé et sur l’espérance de vie de nos concitoyens. Ce débat permettra d’évaluer les conséquences de la crise afin d’y remédier et, surtout, de les prévenir. <italique>(Mme Valérie Petit applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain David (SOC)" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905610" ordre_absolu_seance="120" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553304" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905611" ordre_absolu_seance="121" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553305" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David (SOC)</nom>
+              <acteurRef>PA1008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Selon les chiffres de Santé publique France, depuis le début de la crise sanitaire, 5,7 millions de nos concitoyens ont été infectés par la maladie et 110 420 sont décédés du covid-19. Ce bilan ne tient évidemment pas compte des pertes de chances pour les autres malades qui n’ont pu être soignés d’une autre pathologie, ni de l’augmentation des troubles liés à la santé mentale – alcoolisme, suicide – après plusieurs confinements. Pour autant, selon l’OMS, même si, comme partout ailleurs, le bilan chiffré de l’épidémie est sous-estimé – il s’approcherait plutôt de 140 000 morts –, nous pouvons nous enorgueillir de posséder l’un des meilleurs systèmes de surveillance sanitaire, le fardeau réel de la maladie évalué par l’Organisation mondiale de la santé étant très proche du bilan officiel.<br/>L’ampleur du bilan ne parlera cependant pas de toutes les pertes indirectes, de toutes les victimes invisibles, ni de toutes les séquelles chez les victimes de covid long, insuffisamment prises en charge ; surtout, ce chiffre ne rendra pas justice aux efforts colossaux consentis par tout un pays, à commencer par ses soignants, pour la contenir, ni ne rendra compte de toutes ces contraintes qui ont pesé et pèsent encore sur les Françaises et les Français.<br/>Quoi qu’il en soit, selon les données de l’université John Hopkins, rapportée à la population, la mortalité cumulée de la covid-19 dans notre pays est 8 % supérieure à celle de la Suède, par exemple ; les Australiens sont proportionnellement quarante fois moins nombreux à être décédés de la covid que les Français et les Néo-Zélandais, 270 fois moins. Je ne reviendrai pas sur le spectaculaire exemple de Taïwan, que j’ai déjà présenté dans une question au Gouvernement.<br/>« Prévenir plutôt que guérir. » Chacun connaît la sagesse du propos. Hélas, nous l’avons signalé à chaque étape de la pandémie : nous n’avons pas été à la hauteur sur les masques ; nous avons payé les fermetures de lits hospitaliers qui se poursuivent scandaleusement pendant la marée épidémique ; nous n’avons pas non plus réussi la fameuse stratégie « tester, tracer, isoler », ni le contrôle des voyageurs. De même, le Gouvernement a manifestement trop souvent ignoré l’avis des épidémiologistes quand ils énonçaient une réalité toute bête : on combat plus efficacement un phénomène exponentiel à ses débuts, quand la courbe est plate, ou presque.<br/>Constater que 110 000 de nos concitoyens sont décédés, c’est aussi ouvrir les yeux sur une réalité cruelle : nous n’avons pas été égaux face à la covid. Il a tué davantage dans les quartiers défavorisés, dans les habitats petits et surchargés, parmi les travailleurs de première et seconde ligne, là où les comorbidités sont présentes, là où la médecine peinait déjà à atteindre et à protéger les plus fragiles. Nous l’avions signalé avec tristesse lors du débat du 4 mai dernier : l’action de l’État à l’égard des plus précaires lors de la crise sanitaire n’a pas été à la hauteur.<br/>Plus préoccupant encore, ce sont ces mêmes précaires, ces mêmes travailleurs de première ligne, ces mêmes quartiers défavorisés qui vont se retrouver les plus menacés par la crise économique et sociale qui risque de suivre la crise sanitaire. Les jeunes ont tant sacrifié par l’effet des mesures prises pour la sauvegarde générale ! Le gel de nombre de secteurs d’activité a ajouté une crise de plus à toutes celles qui frappent les territoires de relégation où ont été entassés tous les problèmes du pays.<br/>Aux États-Unis, le président Biden a pris la mesure de ce danger d’effondrement social en accordant notamment, dans le cadre d’un gigantesque plan d’urgence, une aide sans condition aux plus exposés. Cette protection sans équivalent depuis des décennies découle logiquement du choix qui a été majoritairement partagé autour de la planète : placer la solidarité au-dessus de toute autre considération.<br/>En France, comme aux États-Unis et comme ailleurs, cette décision implique une nouvelle responsabilité : ne pas se contenter de réparer les dégâts immédiats de la catastrophe, mais, bien au-delà, colmater les fissures béantes que les 110 000 morts ont dévoilées au sein de notre société. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre des solidarités et de la santé" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905619" ordre_absolu_seance="129" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553313" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905620" ordre_absolu_seance="130" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553314" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite d’abord remercier le groupe Agir ensemble pour l’organisation de ce débat sur un sujet fondamental, la représentation nationale, j’en suis convaincu, ayant toute sa place pour s’y associer.<br/>L’espace de discussion que nous ouvrons aujourd’hui est nécessaire ; il doit nous permettre d’évaluer sereinement, loin de tout registre émotionnel, les conséquences des mesures de protection mises en œuvre depuis un peu plus d’un an et demi dans notre pays, mais aussi, au-delà de la focale nationale, dans le monde. Mais, si nous devons nous tenir à distance du registre émotionnel, nous ne devons pas non plus tomber dans une analyse froide qui superpose le court et le long terme en comparant les « vies prolongées » et les « vies gâchées », pour reprendre les mots d’une tribune qui a fait florès.<br/>Je ne reprendrai pas ici la chronologie de la gestion de la crise. Beaucoup de choses ont été dites dans les différentes interventions, auxquelles je voudrais répondre dans ce propos liminaire.<br/>S’agissant de l’évaluation de l’impact des mesures prises par notre pays, je crois pouvoir dire, sans risque de me tromper, madame Petit, que nous sommes à ce stade le seul pays au monde à avoir fait réaliser une enquête internationale indépendante qui englobe la totalité des éléments de la crise, c’est-à-dire les décisions sanitaires, logistiques et d’organisation, mais également les décisions économiques et celles prises en termes d’éducation. C’est le rapport de la mission Pittet : une mission très polyvalente composée d’experts connus, certains français, d’autres étrangers, qui ont pu travailler pendant des mois en toute liberté et qui ont eu accès à toutes les données de la gestion de la crise française. Ils ont rendu un rapport totalement indépendant, qui est critique par endroits – c’est tout à fait normal –, et qui l’est un peu moins en d’autres.<br/>Je rappelle également, pour y avoir participé, que deux commissions parlementaires se sont constituées assez tôt, pour évaluer, alors même que nous gérions la crise, comment nous faisions notre travail.<br/>Vous citez le rapport d’un <italique>think tank </italique>libéral dont l’analyse est intéressante, mais dont je ne retiens pas les principes. Finalement, la question que sous-tend ce type de rapport, c’est : peut-on quantifier le coût d’une année de vie humaine ? Une année de vie humaine sauvée d’un côté vaut-elle plus ou moins qu’une année de vie humaine sauvée de l’autre ? Un pays s’est risqué à répondre à une telle question, il y a des années de cela : c’est l’Angleterre, qui a défini le <italique>quality-adjusted life year</italique>, le QALY, qui donne une valeur monétaire à une année de vie en bonne santé ; le protocole y est toujours en cours, et ils se servent de cet indicateur pour déterminer le prix des médicaments qu’ils sont prêts à rembourser. Nous en sommes très loin. Pour tout vous dire, je suis très anti-QALY : on ne doit pas se poser la question du prix d’une vie humaine, et il est très difficile de comparer des vies qui ont été sauvées dans l’urgence et l’espérance de vie qui peut être perdue sur le long terme.<br/>Je veux également répondre à Mme Agnès Thill sur un sujet important, même s’il sort un peu du contexte de ce débat. La période est assez troublée pour ceux qui exercent des fonctions publiques, cela ne vous aura pas échappé ; vous twittez d’ailleurs régulièrement pour condamner le fait que des élus puissent être victimes de violences. Je suis convaincu que la violence parfois dirigée contre les élus ou dans la société – et à laquelle sont d’ailleurs exposés les Français quasiment où qu’ils aillent dans leur quotidien – est exacerbée, aussi, par certaines prises de parole publiques. Quand vous dites, face à moi, dans l’hémicycle, que la raison pour laquelle nous avons pris des mesures d’isolement des personnes âgées en EHPAD pendant la crise, c’était pour nous couvrir pénalement contre un risque juridique, vous êtes couverte par l’immunité parlementaire, vous êtes fondée à dire tout ce que vous voulez, mais je voudrais vous dire que je trouve ça proprement indigne. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique><br/>Madame la députée, je ne sais pas ce que vous faisiez il y a vingt ans, mais figurez-vous que, pour ma part, j’étais aide-soignant en EHPAD, de nuit, pendant plusieurs années. J’ai consacré la première partie de ma vie professionnelle à prendre soin des personnes âgées en perte d’autonomie en EHPAD. Ensuite, j’ai choisi une discipline médicale particulière, la neurologie. Savez-vous ce qu’on fait en neurologie ? On s’occupe des personnes âgées en perte d’autonomie qui sont très malades. Alors, vous avez le droit de penser ce que vous voulez, mais je trouve extrêmement grave, surtout dans le contexte actuel, de proférer des propos pareils,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905628" ordre_absolu_seance="138" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553322" valeur="719668 722102. ">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Mirallès et Mme Annie Vidal</nom>
+              <acteurRef>PA719668</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905629" ordre_absolu_seance="139" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553323" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…car ils sèment la détestation contre la classe politique, dont j’ai le regret de vous dire que vous faites partie.<br/>Si la décision d’isoler des personnes âgées en EHPAD a été prise lors de la première vague, j’ai déjà eu l’occasion de dire, ici même, que cela a été la décision la plus difficile à prendre. Ce n’était pas pour couvrir un risque juridique. C’est parce que j’ai pris la peine d’appeler les directions d’établissements de type EHPAD à l’étranger,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905631" ordre_absolu_seance="141" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On va en reparler, des EHPAD !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905632" ordre_absolu_seance="142" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553326" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…là où la vague frappait encore plus dur qu’en France, notamment en Espagne, qui a connu une vague de décès en EHPAD bien plus importante que la nôtre ; j’ai parlé à des directeurs de groupement, dans le secteur public ou privé, extrêmement émus par ce qu’ils avaient vécu, qui nous ont conjurés de prendre des mesures d’isolement et de protection. Car, quand le virus est entré dans certains établissements – nous sommes alors au printemps 2020 –, il ne va pas tuer deux personnes, ni cinq personnes ; il peut en tuer trente ou quarante dans la semaine.<br/>Je connais votre engagement farouche en faveur de la vie, quoi qu’il en coûte – je ne crois pas que vous soyez une partisane de l’euthanasie. Mais envisager de prendre le risque de laisser le virus circuler dans un EHPAD une fois qu’il y est entré, le laisser contaminer les personnes âgées, et advienne que pourra, c’est pire que tout. C’était une décision difficile ; je ne dis nullement qu’elle a été appliquée partout comme il le fallait, mais c’était une décision destinée à protéger et à sauver des vies, et je la revendique ici. Si nous ne l’avions pas prise, il y aurait eu beaucoup plus de morts.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905634" ordre_absolu_seance="144" id_acteur="PA722102" id_mandat="PM723472" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553328" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Vidal</nom>
+              <acteurRef>PA722102</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905635" ordre_absolu_seance="145" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553329" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Castellani, vous avez posé plusieurs questions, dont une au sujet de la difficulté du recours à l’avortement pendant la période de crise. Très rapidement, j’ai pris des arrêtés importants en matière d’accès à l’IVG pour tenir compte de cette situation, notamment un arrêté qui a prolongé le délai d’IVG par pilule abortive pour les jeunes femmes et qui l’a rendue possible par télémédecine du début à la fin, c’est-à-dire que la première consultation, la consultation de suivi et l’administration de l’ordonnance ont eu lieu par télémédecine de manière à éviter à des jeunes femmes parfois mineures d’être obligées de dire à leurs parents pourquoi elles allaient sortir en plein confinement. Nous avons pris une succession de décisions afin que personne ne soit gêné dans son parcours.<br/>Je voulais répondre à Mme Obono, mais elle a quitté l’hémicycle ; vous me pardonnerez de ne pas lui répondre. Quand on pose une question, on essaie de rester pour la réponse. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et Agir ens.)</italique><br/>Monsieur le président Chassaigne, vous avez abordé plusieurs sujets, dont deux fondamentaux, auxquels, j’en suis d’accord, il faut accorder une attention particulière : la santé mentale et le covid long.<br/>Sur la santé mentale, toutes les enquêtes, en France, en Europe et dans le monde indiquent que la peur de l’épidémie, la perte d’êtres chers, l’inconnue que la situation représentait, les mesures de confinement et la peur de perdre son emploi ou son activité…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905639" ordre_absolu_seance="149" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553333" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est au ministre de répondre comme ça ? Quelle condescendance !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1905640" ordre_absolu_seance="150" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553334" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…– sans même parler de l’école et de l’université, que j’aurais dû mentionner en premier – ont évidemment eu un retentissement psychologique important sur les populations concernées.<br/>Nous avons mis en place de nombreux dispositifs pour essayer de venir en aide aux personnes en difficulté et pour maintenir une offre de soins de santé mentale. Nous avons ainsi lancé un numéro vert et créé des postes de psychologues dans le secteur public – je suis sûr que vous y êtes sensible.<br/>Néanmoins, personne n’a dit que ce serait suffisant, et nous allons continuer à travailler sur l’accès aux soins de santé mentale. Il existe des « chèques psy » pour les enfants et pour les étudiants. Plus globalement, les Assises nationales de la santé mentale et de la psychiatrie souhaitées par le Président de la République, qui se tiendront dans les prochaines semaines ou dans les prochains mois, permettront de proposer une réforme ambitieuse pour la santé publique et la psychiatrie, notamment dans le secteur public.<br/>J’en viens à la question des covid longs. Mme la députée Patricia Mirallès est très impliquée auprès des associations concernées, que j’ai eu l’occasion de recevoir également. Nous ne savons pas tout sur le covid long. Nous ne savons pas tout sur ce qui provoque des symptômes persistants au-delà de plusieurs semaines. Des projets de recherche clinique, fondamentale et appliquée, sont menés, particulièrement dans les hôpitaux français. J’ai eu l’occasion de m’y rendre à plusieurs reprises tout comme le Président de la République. On soupçonne la présence de troubles dits dysautonomiques chez des gens jeunes, en bonne santé, qui affichent pourtant un rythme cardiaque de cent quinze pulsations par minute au repos.<br/>Certaines personnes conservent des séquelles comme l’anosmie ou l’agueusie – pertes du goût ou de l’odorat – que la rééducation permet d’atténuer. D’autres ont gardé des séquelles psychologiques. D’autres encore étaient tout simplement très fatiguées, voire épuisées, souffrant même de troubles de la concentration, et se rétablissent progressivement.<br/>Nous structurons des filières et des réseaux de soins. Toutes les autorités sanitaires – la Haute autorité de santé (HAS) mais aussi tous les collèges médicaux possibles et imaginables – ont publié des recommandations pour venir en aide à ces personnes et leur proposer une rééducation appropriée, notamment s’agissant de la réadaptation à l’effort. Cela nécessite des actes de kinésithérapie assez spécifiques et précis, ainsi qu’un accompagnement psychologique, car ces personnes sont souvent à bout après plusieurs semaines ou plusieurs mois de maladie.<br/>Nous commençons à observer des taux de récupération intéressants. Nous n’avons pas encore assez de recul pour vous donner toutes les statistiques. Sachez néanmoins que l’Organisation mondiale de la santé (OMS) a consacré une journée entière à cette question il y a environ deux mois, et que la France disposait, de très loin, du plus grand registre de suivi des patients atteints de covid long. Ce suivi concerne en effet près de 40 000 personnes en France contre quelques centaines chez certains de nos voisins du sud de l’Europe. Nous continuons de structurer les réseaux et d’apprendre des covid longs ; nous ne lâcherons personne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905529" ordre_absolu_seance="157" id_acteur="PA719668" id_mandat="PM722726" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552573" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Mirallès</nom>
+              <acteurRef>PA719668</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905530" ordre_absolu_seance="158" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552574" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Mme Mireille Robert a soulevé également la question de l’impact de la crise sur la santé mentale. Je le répète : les Assises nationales de la santé mentale et de la psychiatrie seront l’occasion d’y revenir. J’ai une pensée et, plus encore, une attention particulière de tous les instants pour les publics les plus jeunes, les étudiants, qui ont vécu une année absolument hors norme, très difficile.<br/>Plusieurs députés ont mentionné également le problème du non-recours aux soins. Pendant le premier confinement, nous avons enregistré une baisse très sensible des hospitalisations pour accident vasculaire cérébral (AVC) ou infarctus. Or si l’on peut comprendre que l’on soit moins enclin à aller aux urgences en période de pandémie quand on souffre d’un problème susceptible d’être résolu autrement, lorsqu’on est paralysé par un AVC, il faut aller aux urgences ou appeler le SAMU. Les scientifiques n’ont pas encore trouvé d’explication à ce phénomène. Nous aurions pourtant pu imaginer <italique>a contrario</italique> une hausse du nombre de ces accidents dans une telle période de stress collectif.<br/>Nous avons, très rapidement et sans délai, déployé tout ce que nous pouvions pour permettre aux Français qui ne pouvaient plus se déplacer de bénéficier d’une consultation, notamment la télémédecine. Un chiffre, pour s’en convaincre : nous sommes passés, en trois jours, de 10 000 téléconsultations par semaine à un million. J’ai autorisé des téléconsultations infirmières, et de la rééducation par kinésithérapie par écrans interposés– par le biais de Skype, WhatsApp, et de toutes les applications possibles et imaginables. Je ne dis pas que cela a suffi, mais cela a permis de pallier une partie de la baisse de la demande.<br/>Je voulais répondre également au député Patrick Hetzel, mais il est parti. J’aurais peut-être l’occasion de le faire s’il revient. J’ai aussi apporté une réponse, au moins partielle, au député David Corceiro.<br/>Enfin, monsieur David, toutes les expertises internationales le disent : comparer la mortalité par habitant de pays qui sont aux quatre coins du monde, comparer des pays d’Asie, d’Amérique du Nord ou d’Amérique du Sud avec des pays européens revient à nier le fonctionnement par vagues de la pandémie. Un premier foyer infectieux mondial, très important, est survenu en Europe occidentale, à l’ouest de l’Allemagne : l’Italie, l’Espagne, la France, et d’autres pays encore comme la Suisse, la Belgique ou les Pays-Bas ont été très touchés. La deuxième vague a affecté quant à elle beaucoup plus l’Europe de l’Est. L’Allemagne a alors payé un lourd tribut. D’autres pays comme la Roumanie ou la Serbie, qui avaient presque été épargnés par la première vague, ont subi une vague bien plus forte que celle que nous avons connue en France. Par la suite, durant la période estivale, la pandémie a frappé très fort dans l’hémisphère sud du fait de l’hiver austral – en Afrique du Sud, au Brésil, ou encore en Australie où on a observé une résurgence de cas.<br/>Le virus circulait de telle façon sur la planète qu’il touchait au même moment des grappes de pays parfois très distinctes – ainsi, la France a pu être frappée en même temps que les États-Unis. Vous ne pouvez pas comparer la mortalité par habitant d’un pays à l’autre, tous les pays n’ayant pas été affectés de la même façon par les vagues épidémiques. En revanche, il est pertinent de comparer les mortalités de tous les pays d’un même segment géographique. Vous verrez que, sur ce point, la France n’a pas à rougir, même si nous avons enregistré de très nombreux décès.<br/>À l’heure à laquelle nous parlons, le covid-19 a provoqué plusieurs millions de morts sur la planète. Il y a encore des gens qui en meurent tous les jours. Il faut nous garder de tout commentaire trop péremptoire, et éviter de comparer les uns aux autres. En septembre, on me parlait ainsi avec beaucoup d’enthousiasme de la très bonne gestion de la crise sanitaire par l’Italie, qui évitait la deuxième vague. Or trois semaines plus tard, l’Italie s’est trouvée ensevelie sous le virus et obligée de placer des malades sous oxygène dans leur voiture en attendant un lit d’hôpital. Il faut donc toujours rester prudent. La dernière comparaison entre la France et un autre pays s’est faite avec l’Angleterre. C’était il y a trois semaines, dans cet hémicycle. Or l’Angleterre recense désormais presque deux fois plus de malades par jour que nous. Je lui souhaite évidemment que la situation s’améliore. Vous le voyez, le virus ne fait pas de politique. <italique>(Applaudissements sur les bancs des groupes LaREM et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. M'jid El Guerrab (Agir ens)" id_acteur="PA720996" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723134">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905537" ordre_absolu_seance="165" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552581" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. M’jid El Guerrab.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905538" ordre_absolu_seance="166" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552582" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab (Agir ens)</nom>
+              <acteurRef>PA720996</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie M. le ministre pour ses réponses. Le débat, initié par ma collègue Valérie Petit au nom du groupe Agir ensemble, est bienvenu. Il dépasse les regards partisans. Chacune et chacun s’interroge sur l’évaluation de l’impact des mesures que nous avons prises. Le fait, pour une fillette de six ans comme la mienne, de porter un masque toute la journée a forcément des conséquences psychologiques.<br/>Monsieur le ministre, vous le savez, le groupe Agir ensemble a toujours soutenu les mesures courageuses que le Gouvernement et vous-mêmes avez prises. Nous sommes ici pour poser une question : quels sont les impacts psychologiques de la crise sur la santé et l’espérance de vie des Français ? Ils sont encore méconnus, il nous faut les évaluer. Nous devons nous interroger, par exemple, sur les conséquences de la hausse constatée des conduites addictives sur notre vie en commun et sur le vivre-ensemble.<br/>Ma question porte sur la confiance future dans les vaccins. Nous avons confiné, déconfiné, il y a eu parfois des atermoiements sur tel ou tel vaccin. Les Françaises et les Français de l’étranger, qui représentent 3,5 millions de personnes, se sont entendu dire qu’ils devaient trouver des solutions locales pour se faire vacciner. Ils se sont donc fait vacciner dans leur État de résidence – je remercie tous les États qui l’ont accepté. Or le vaccin Sinopharm n’étant pas reconnu par l’Agence européenne du médicament (European Medicines Agency, EMA), ils ne sont aujourd’hui pas considérés comme étant vaccinés pour rentrer en France. Cela suscite beaucoup d’incompréhension et de colère. Monsieur le ministre, j’attends avec beaucoup d’intérêt votre réponse à ce sujet car, contrairement à nous, l’Espagne et la Grèce reconnaissent le Sinopharm comme un vaccin agréé par l’OMS. <italique>(Applaudissements sur les bancs du groupe Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905541" ordre_absolu_seance="169" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552585" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905542" ordre_absolu_seance="170" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552586" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Puisque vous évoquez de la vaccination, je pourrais, si j’étais taquin, noter que la campagne se passe manifestement bien puisqu’elle n’a fait l’objet d’aucun commentaire. En général, lorsqu’on ne parle pas d’un sujet dans l’hémicycle, cela signifie que les choses se passent bien. De fait, nous comptons plus de 30 millions de Français primo-vaccinés. C’était l’objectif audacieux, ambitieux, que nous avions fixé en décembre.<br/>La confiance des Français dans la vaccination ne cesse de grandir, semaine après semaine. La France était en queue de peloton dans ce domaine. Dans les enquêtes d’opinion, les intentions de vaccination étaient presque descendues à 40 %. Or nous sommes désormais parmi les pays en pointe en la matière, avec un taux d’intentions vaccinales à plus de 80 %. Les Français sont un peuple qui réfléchit. Il doute parfois, il critique, mais il est capable de changer d’avis, et de dire aussi quand les choses vont bien.<br/>En ce qui concerne le Sinopharm, il est reconnu par l’OMS, mais ne l’est pas par l’EMA. Il n’y a pas de raison mystérieuse à cela. Les fabricants de tous les vaccins reconnus par l’EMA ont déposé une demande d’homologation, sur présentation de leurs données scientifiques et biologiques, en toute transparence. Des experts indépendants issus de plusieurs pays européens ont alors pu statuer sur la sécurité et l’efficacité du produit. Certains groupes pharmaceutiques ont déposé des demandes, d’autres non. Certaines demandes déposées tardivement sont encore à l’étude.<br/>Il me semble très compliqué de reconnaître la validité d’un vaccin qui n’a pas reçu d’autorisation de la part de l’EMA. D’ailleurs, les pays européens n’utilisent pas ce vaccin – ni les Allemands, ni les Italiens, ni les Espagnols. Ils ne vaccinent pas leur population avec, mais ils observent que des personnes venues de l’extérieur peuvent avoir eu recours à ce produit. Les pays d’Europe amenés à reconnaître des vaccins ne disposant pas de l’homologation de l’EMA sont plutôt des pays du Sud, qui s’attendent à recevoir beaucoup de monde pendant la période estivale.<br/>Nous cherchons sur ce point une coordination européenne. J’ai participé au G7 des ministres de la santé la semaine dernière. Pour l’instant, la position de la Commission européenne n’a pas évolué : les vaccins ne sont reconnus que s’ils ont été évalués, en toute transparence, par les autorités compétentes. Si la situation évolue, vous obtiendrez peut-être une réponse plus favorable. Je suis désolé de ne pouvoir vous donner satisfaction.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Thill (UDI-I)" id_acteur="PA720568" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723002">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905547" ordre_absolu_seance="175" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552591" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Agnès Thill.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905548" ordre_absolu_seance="176" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552592" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill (UDI-I)</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme je l’ai indiqué dans mon intervention qui, visiblement, ne vous a pas plu ou vexé, de nombreuses questions se posent sur les personnes âgées. Leur situation a été indigne pendant un an.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905549" ordre_absolu_seance="177" id_acteur="PA722102" id_mandat="PM723472" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552593" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Vidal</nom>
+              <acteurRef>PA722102</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905550" ordre_absolu_seance="178" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552594" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Connaissez-vous le nombre de ceux qui se sont laissés glisser dans la mort à la suite de vos directives ? Le taux de personnes vaccinées parmi les plus de 65 ans semble se stabiliser autour de 88 %. Comment dépasser le plafond de verre de 90 % qui semble se dessiner ? Comment convaincre les 10 % restants de se faire vacciner ?<br/>Les déprogrammations d’opérations et les détections tardives de maladies ont évidemment aussi causé des morts, imputables indirectement au coronavirus. De même, elles ont pu entraîner des complications ou retarder des prises en charge – autant de phénomènes dont la réalité nous échappe encore un peu puisque nous manquons de données précises pour les appréhender. À cet égard, quels sont les chiffres du ministère de la santé sur le nombre d’opérations déprogrammées ou repoussées à cause du coronavirus, le nombre de complications liées à ces déprogrammations ou à des détections tardives, mais aussi le nombre des aînés en EHPAD qui se sont laissés glisser à cause de vos directives ? Quel est l’impact de tout cela sur l’espérance de vie des Français ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905552" ordre_absolu_seance="180" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552596" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905553" ordre_absolu_seance="181" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552597" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée, je le redis mordicus : mes directives ont sauvé des vies ! Vous avez le droit de penser le contraire, de l’écrire et de le dire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905554" ordre_absolu_seance="182" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552598" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905555" ordre_absolu_seance="183" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552599" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est votre droit. Vous avez le droit de dire tout ce qu’il vous passe par la tête ; nous pouvons tous le faire. Les directives de protection dans les EHPAD ont sauvé des vies. Regardez-moi bien : elles ont sauvé des vies !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905556" ordre_absolu_seance="184" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552600" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elles en ont tué aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905557" ordre_absolu_seance="185" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552601" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le virus est parfois entré dans des EHPAD. Si vous le souhaitez, madame la députée, nous pourrons examiner, dans votre circonscription, le nombre de foyers épidémiques recensés dans les EHPAD et le nombre de morts qui s’en est suivi, en quelques jours. À vous entendre, nous aurions tout à coup, décidé, sans raison, d’empêcher des personnes âgées de sortir et de voir leur famille. Non, madame la députée : lorsqu’un virus tue les personnes âgées et présente un taux de mortalité élevé notamment chez les personnes âgées les plus fragiles, soit l’on se dit – et j’ai peur de comprendre que tel soit votre souhait : « Tant pis, advienne que pourra ! », soit l’on cherche à les protéger. Oui, nous avons cherché à les protéger, et les décisions très difficiles qui ont été prises ont permis de sauver des vies.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905558" ordre_absolu_seance="186" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552602" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez pas eu un proche en EHPAD !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905559" ordre_absolu_seance="187" id_acteur="PA722102" id_mandat="PM723472" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552603" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Vidal</nom>
+              <acteurRef>PA722102</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On a tous un proche en EHPAD !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905560" ordre_absolu_seance="188" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552604" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez pas tort de souligner une externalité négative intense. Certaines personnes se sont laissées mourir, d’autres ont perdu le goût à la vie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905561" ordre_absolu_seance="189" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2552605" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1905562" ordre_absolu_seance="190" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2552606" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Sans doute, madame la députée ! Il est inutile de le nier. Vous êtes parlementaire et briguerez peut-être un jour d’autres fonctions. Gouverner, c’est choisir. Vous prenez des décisions lorsque vous considérez qu’elles vont dans le bon sens. Vous ne les prenez pas pour vous couvrir ou pour embêter les gens ! Si certaines personnes ont souffert de l’isolement, nous avons évidemment la plus grande empathie pour elles. Des situations dramatiques ont été vécues au quotidien dans un grand nombre d’EHPAD. Toutefois, la situation n’était pas moins dramatique dans certains EHPAD que j’ai visités, qui comptabilisaient cinquante personnes malades, quinze en réanimation et quatorze déjà décédées. Ces décisions ont donc été prises en France, comme dans beaucoup de pays étrangers, et ont donné lieu à une concertation. Elles ont notamment préalablement fait l’objet – et je sais que vous y êtes sensible – d’un avis du Comité consultatif national d’éthique (CCNE) qui s’est avéré conforme.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bertrand Pancher (LT)" id_acteur="PA333421" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722920">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905491" ordre_absolu_seance="191" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552643" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bertrand Pancher.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905492" ordre_absolu_seance="192" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552644" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher (LT)</nom>
+              <acteurRef>PA333421</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon collègue Michel Castellani a rappelé les nombreuses conséquences sur la santé des mesures de restrictions prises dans le cadre de la lutte contre le covid-19. Je voudrais pour ma part insister sur les pertes de chance provoquées par le non-recours aux soins pendant la crise sanitaire et surtout sur notre capacité à les mesurer et à prévenir leurs conséquences.<br/>Pour évaluer le renoncement aux soins des Français lors du premier confinement, l’assurance maladie a mené une enquête : 60 % des personnes interrogées ont indiqué ne pas avoir effectué au moins un soin ou un acte dont elles avaient pourtant besoin. L’étude a également montré une chute spectaculaire des dépenses dites de soins de ville – baisse de 30 % des consultations pour les généralistes et de 60 % pour les spécialistes –, ainsi qu’une sous-consommation des médicaments et vaccins.<br/>La question des dépistages se pose de manière moins immédiate, mais est tout aussi inquiétante. Combien n’ont pu être pratiqués ? Combien de maladies n’ont pu être détectées à temps ? Des études indiquent une surmortalité par cancer de l’ordre de 6 % à 20 % selon le type de cancer.<br/>Nous formulons ces questions depuis le début de la crise. Pourtant, aujourd’hui encore nous peinons à évaluer l’ampleur de la vague qui est devant nous. Pour mesurer les pertes de chance causées par le non-recours aux soins, nous avons besoin de disposer d’indicateurs précis de suivi, mais aussi de connaître les conséquences des déprogrammations d’opérations et de traitements imposées par les plans blancs.<br/>Il nous faut enfin établir les profils de ceux qui sont les plus touchés, afin d’orienter les politiques publiques. Les études pointent notamment les femmes et les personnes les plus défavorisées socialement. Comment mesurer la baisse d’espérance de vie ? Comment renforcer l’offre de soins pour éviter que de tels drames se reproduisent ? Des mesures complémentaires en la matière sont-elles envisagées ? <italique>(Mme Valérie Petit applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905496" ordre_absolu_seance="197" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552648" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905497" ordre_absolu_seance="198" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552649" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pendant la première vague, face à l’inconnu et la montée du covid-19 partout sur le territoire, une déprogrammation massive nationale, dans tous les secteurs, a été décidé afin de libérer suffisamment de lits de réanimation pour accueillir tous les malades. Cela a permis d’éviter la saturation des hôpitaux ; nous n’avons ainsi pas vu des malades sous oxygène dans les voitures, comme dans certains pays.<br/>Pendant la deuxième et la troisième vague, la déprogrammation a été progressive, territoire par territoire. À chaque fois qu’il y avait besoin de lits de réanimation, des blocs opératoires étaient transformés en unités de réanimation pour pouvoir accueillir tous les malades. La déprogrammation a été bien moindre. À ceux qui m’interpellaient : « Vous avez dit que 12 000 lits de réanimation seraient disponibles, mais vous n’en êtes qu’à 8 000 ! », je n’ai cessé d’expliquer que pour atteindre le chiffre de 12 000 lits, il aurait fallu une déprogrammation totale des soins alors que le nombre de lits nécessaires pour soigner les malades ne l’imposait pas. Vous me suivez ?<br/>Vous faites une confusion, monsieur le député : les chiffres que vous citez n’indiquent pas une surmortalité par cancer, mais les déprogrammations, les pourcentages d’opérations de chirurgie qui ont pu être repoussées ; ce n’est pas du tout la même chose. Nous disposerons d’indicateurs établis à partir des données transparentes de l’INSEE un an plus tard ; ils compareront la surmortalité grâce à des études par pathologie.<br/>Plus de 40 000 actes de chirurgie ont été déprogrammés ou repoussés, notamment pendant la première vague : en mars, 10 % d’interventions de chirurgie de cancérologie en moins par rapport au mois de mars précédent ; en avril, qui correspond au pic, 30 % en moins. Nous avons ensuite observé une stabilisation progressive : en août, nous étions à l’équilibre – si je puis dire. Les activités de chirurgie de cancérologie ont augmenté de 3 % en septembre, de 5 % en novembre et de 5 % en décembre. On constate donc un effet de rattrapage d’une partie des actes de chirurgie.<br/>Bien évidemment, certaines chirurgies n’ont pas été pratiquées. Certains patients ont reçu d’autres types de traitements ou des traitements conservateurs pour attendre. Nous ferons toute la lumière sur le sujet. Pour cela, il nous faudra disposer de toutes les données et d’un peu de temps. Nous effectuons un suivi et surtout, nous mettons le paquet en matière de dépistage des cancers et des IST – infections sexuellement transmissibles ; on a observé un recul du dépistage du VIH pendant le premier confinement a reculé. Tout cela implique de nombreux efforts de la part des professionnels de santé pour rattraper ce qui doit l’être.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Danièle Obono (FI)" id_acteur="PA721960" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723434">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905502" ordre_absolu_seance="203" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552654" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Danièle Obono.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905503" ordre_absolu_seance="204" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552655" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono (FI)</nom>
+              <acteurRef>PA721960</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Selon le pédopsychiatre Bruno Falissard, le nombre de consultations des pédopsychiatres a augmenté de 50 % depuis le début de la crise pandémique, alors que le nombre de pédopsychiatres a été divisé par deux en dix ans. Des chercheurs de l’INSERM – Institut national de la santé et de la recherche médicale – et de l’INED – Institut national d’études démographiques – ont également révélé que 13 % des enfants de 8 à 9 ans ont connu des troubles socio-émotionnels pendant le confinement ; 2 % d’entre eux ont éprouvé des troubles du sommeil. De plus, 24 % des enfants issus d’un échantillon de 432 ménages présentaient des symptômes d’hyperactivité et d’inattention pendant le premier confinement. Or en 2018, 12 % des enfants et adolescents étaient déjà en souffrance psychique d’après le réseau européen des défenseurs des enfants. La situation ne date donc pas d’hier ou de la période de crise ; il en est de même de l’état dégradé de la pédopsychiatrie.<br/>Il y a trois ans, le 17 avril 2019, des membres du personnel du centre médico-psychologique du 19<exposant>e</exposant> arrondissement de Paris, dont je suis la députée, organisaient une journée de grève et de mobilisation festive pour sensibiliser les familles, les enfants et les associations au devenir de leur secteur. Dans cet arrondissement, où la population a augmenté de 20 % en vingt ans, la demande a explosé. Or de nombreuses familles sont confrontées à des difficultés socio-économiques qui les amènent à retarder les consultations.<br/>La pédopsychiatrie est au bout du rouleau : manque de moyens et de postes ; une administration qui peine à admettre qu’en la matière, ce qui compte, c’est le temps et le lien. L’équipe du 19<exposant>e</exposant> arrondissement, comme beaucoup d’autres à travers le pays, croule sous le travail. Dans les trois centres médico-psychologiques du secteur, le temps d’attente pour un premier rendez-vous varie entre trois mois et un an pour les adolescents ; dans celui de l’avenue de Flandre, 140 enfants sont sur une liste d’attente.<br/>Lors de leur mobilisation, les personnels demandaient des moyens humains et matériels à la hauteur des besoins de la population : le doublement des effectifs médicaux et non médicaux, des locaux adaptés, une hausse des budgets des activités thérapeutiques et des séjours, des moyens de formation, etc. Ces demandes et ces revendications restent éminemment d’actualité. Monsieur le ministre, quelles réponses comptez-vous apporter aux professionnels et surtout aux enfants et aux familles qui auront encore plus besoin de soins ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905506" ordre_absolu_seance="208" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552658" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905507" ordre_absolu_seance="209" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552659" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La crise et le confinement ont évidemment un impact sanitaire mais aussi économique, social et éducatif sur la santé mentale des Français, y compris des mineurs. Il est nécessaire, peut-être pas de refonder, mais de structurer beaucoup plus fortement le secteur de la santé mentale et de la psychiatrie, notamment sa partie publique.<br/>J’ai évoqué tout à l’heure les assises nationales de la santé mentale et de la psychiatrie qui se tiendront prochainement sous l’égide du Président de la République. Elles doivent permettre de rassembler tous les acteurs, notamment ceux de la filière pédopsychiatrie, mais pas uniquement, pour que celle-ci soit bien plus forte et solide qu’aujourd’hui – non pas que les pédopsychiatres ne seraient pas de qualité, ils le sont, mais ils ne sont pas assez nombreux et surtout pas assez nombreux à exercer dans le secteur public.<br/>On ne forme pas un pédopsychiatre en trois ou six mois. En revanche, il faut trouver des solutions qui ne peuvent pas attendre. Nous en avons apporté : un « chèque psy » pour les enfants, le recrutement de plus de 250 psychologues dans le cadre du Ségur de la santé, dont un grand nombre en CMPIJ – centre médico-psychologique infanto-juvénile –, la formation aux premiers secours en santé mentale, un soutien des pouvoirs publics à de nombreuses structures associatives pour venir en aide aux jeunes qui sont en difficulté ou aux parents de jeunes en difficulté. Nous suivons ce sujet avec la plus grande attention.<br/>Pour la première fois dans l’enquête EpiCov – épidémiologie et conditions de vie liées au covid-19 – menée par Santé publique France, on constate au mois de mai 2021 une baisse significative des états dépressifs : de 22 %, nous sommes passés à 19 %. Le taux est encore supérieur à celui que l’on observait les mois et les années précédentes, mais il montre un arrêt de l’aggravation, sans doute lié à l’amélioration de la situation sanitaire et à la fin de l’état d’urgence. Le Gouvernement fait évidemment tout pour que cela dure dans le temps et que le virus ne revienne pas, mais nous devrons ensuite faire preuve d’une forte résilience collective pour panser nos plaies.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Peu (GDR)" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905511" ordre_absolu_seance="213" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552663" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905512" ordre_absolu_seance="214" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552664" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu (GDR)</nom>
+              <acteurRef>PA721270</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous ne sommes pas tous égaux devant la covid-19, puisque selon le territoire où vous résidez et selon votre profession, vous aurez plus ou moins de chances de croiser sa route. Je pense bien sûr à mon département de la Seine-Saint-Denis, qui a été l’un des plus touchés et qui reste aujourd’hui l’un des moins vaccinés, en dépit – je le reconnais aisément – des efforts des services de l’État et des collectivités.<br/>Nous ne sommes pas tous égaux non plus face au risque de subir durablement les effets de la covid-19. On estime qu’une personne sur dix touchées par le virus développe ce qui est désormais qualifié de covid long. Devant ce qu’ils vivent douloureusement, de nombreux patients se heurtent au scepticisme, parfois des membres de la communauté médicale, mais plus fréquemment de leurs employeurs. J’ai quelques exemples dans ma circonscription de gens qui se retrouvent avec un demi-traitement sans que soit reconnue cette pathologie qu’est le covid long. La résolution de notre collègue Patricia Mirallès, votée à l’unanimité en février dernier, a constitué un premier pas – que nous saluons – vers la reconnaissance de cette pathologie.<br/>Mais il faut aller plus loin : d’abord, il faut recenser précisément le nombre des patients concernés ; ensuite, il faut mieux les accompagner, ce qui passe par la reconnaissance du covid long pour ce qu’il est, à savoir une affection longue durée (ALD) ouvrant droit à une prise en charge des soins à 100 % par l’assurance maladie. Envisagez-vous de prendre un décret en ce sens après l’avis de la Haute autorité de santé ? Cela passe également par la reconnaissance de la covid-19 comme une maladie professionnelle lorsque le patient a été contaminé en raison de la nature de son travail, qui l’expose particulièrement au virus. Je pense notamment aux salariés de la première et de la deuxième ligne, que nous avons applaudis et qu’il ne faut pas oublier. Cela passe enfin – vous l’avez évoqué dans votre intervention – par l’encouragement à la recherche sur les causes et les traitements possibles des covid longs. Sur ces sujets, quelles sont les intentions du Gouvernement ? <italique>(Mme Patricia Mirallès applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905515" ordre_absolu_seance="217" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552667" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905516" ordre_absolu_seance="218" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552668" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>D’après les chiffres dont je dispose, on estimait en mai 2021 qu’environ 750 000 personnes étaient sujettes à des symptômes persistants. Certains de ces symptômes sont liés à des lésions pulmonaires graves ; il s’agit moins du covid long en tant que tel que de lésions associées au syndrome de détresse respiratoire. Des patients souffrent de complications consécutives à la réanimation, alors que d’autres conservent des symptômes tels que la perte du goût et de l’odorat. Pour remédier à cette dernière, la rééducation en oto-rhino-laryngologie, au moyen de tests permettant de réapprendre à sentir, donne des résultats étonnamment très positifs – tant mieux !<br/>Parmi les autres symptômes persistants, on trouve des douleurs articulaires, de la fatigue, des troubles de la concentration et du sommeil, des difficultés à l’effort, etc. Pour certains patients, les explorations fonctionnelles – scanner pulmonaire, électrocardiogramme, bilan cardiaque complet – ne montrent pas de lésions ; il n’y a pas d’explication anatomique à leurs symptômes. D’autres patients ont besoin d’une rééducation adaptée et spécialisée : je pense à une infirmière de l’hôpital Foch à Suresnes, marathonienne, qui dépasse les 100 pulsations par minute au repos, et ce, depuis des mois. Il faut trouver et former très rapidement toutes les personnes qui sont ou seront capables d’accompagner tous ces patients ; c’est une obligation.<br/>S’agissant de la prise en charge en ALD, certains patients peuvent en bénéficier lorsqu’ils ont des lésions dont on sait qu’ils garderont de très longues séquelles, pendant des années. D’après les spécialistes que j’ai consultés, plus de 50 % des gens qui sont atteints de syndromes de dysautonomie, avec de l’essoufflement et une très forte fatigue, retrouvent un état basal normal après réadaptation ; l’ALD ne s’impose donc pas.<br/>Les soins doivent être adaptés, pris en charge par la sécurité sociale et pluriprofessionnels. Pour les patients qui conserveront des séquelles dans la durée, notamment la très longue durée – surtout des gens ayant des séquelles respiratoires avec parfois des lésions de fibrose – le droit commun prévoit la prise en charge en ALD.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sereine Mauborgne (LaREM)" id_acteur="PA721726" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723366">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905518" ordre_absolu_seance="222" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2552670" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sereine Mauborgne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1905519" ordre_absolu_seance="223" id_acteur="PA721726" id_mandat="PM723366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2552671" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sereine Mauborgne (LaREM)</nom>
+              <acteurRef>PA721726</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le système de santé a tenu face aux vagues successives. Sur le plan économique et social, nos concitoyens ont majoritairement accepté les efforts demandés avec respect, courage et résilience. Le débat nous invite, à l’initiative du groupe Agir ensemble que je remercie, à évaluer – avec trop peu de recul encore –, les conséquences sanitaires de la pandémie sur l’espérance de vie.<br/>L’augmentation du nombre des décès s’est traduite par un recul de cinq à six mois de l’espérance de vie des Français. La crise sanitaire produit un effet majeur et durable sur la consommation de soins, sur la santé physique et mentale de la population, en particulier des populations les plus vulnérables, du fait de la priorité donnée à certaines pathologies ainsi que d’un non-recours aux soins par crainte d’une contamination, ou volonté de ne pas surcharger le système de santé.<br/>Après ces remarques introductives, je souhaite évoquer la prise en charge des traitements des cancers. Vous l’avez dit, monsieur le ministre, le nombre de chimiothérapies a diminué de 3,2 % au cours des cinq premiers mois de l’année 2020 ; on estime que l’activité a baissé de 20 % par rapport à 2019.<br/>En 2020, lors de l’opération Octobre rose, le professeur Axel Kahn – dont je me permets de saluer l’engagement remarquable dans une période très difficile de sa vie – alertait sur les retards de diagnostic du cancer du sein. Considérant que des retards de deux à trois mois ne portent normalement pas à conséquence, il s’inquiétait de délais de cinq à six mois qui entraînent des pertes de chance, qui peuvent aussi, hélas, être des vies perdues.<br/>Certains centres de dépistage ont été fermés. Le retard a-t-il été rattrapé ? Les chiffres sont inquiétants : ils révèlent une diminution de 10 % des mammographies et de 20 % des coloscopies. En 2021, le généticien émérite nous alertait à nouveau sur les conséquences de la déprogrammation d’opérations à cause du covid-19 : « des milliers et des milliers de personnes […] périront de leurs cancers », dans les cinq à six ans. Nous ne disposons pas non plus de chiffres concernant le douloureux sujet du dépistage et du suivi des cancers pédiatriques pendant la pandémie. Notons que les maisons des parents ont été réouvertes à votre demande, monsieur le ministre.<br/>Pour conclure sur une note plus joyeuse,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905565" ordre_absolu_seance="229" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553259" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Heureusement qu’elle est là !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905566" ordre_absolu_seance="230" id_acteur="PA721726" id_mandat="PM723366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553260" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sereine Mauborgne</nom>
+              <acteurRef>PA721726</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…je ne me lasse pas de souligner combien je suis fière de l’effort sans précédent déployé par le Gouvernement, admirative du courage et de la force des professionnels de santé, notamment des infirmiers. En ville, à l’hôpital, dans le privé, ils sont mobilisés pour limiter les effets de la crise sanitaire ;…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905567" ordre_absolu_seance="231" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553261" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est deux minutes, pas quatre, il y a des règles !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905568" ordre_absolu_seance="232" id_acteur="PA721726" id_mandat="PM723366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553262" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sereine Mauborgne</nom>
+              <acteurRef>PA721726</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…ils ont su instaurer avec agilité des dispositifs inédits, pour maintenir coûte que coûte le maximum d’activités de soins. Aujourd’hui encore, sans compter leurs heures, ils sont à pied d’œuvre pour vacciner et pour rattraper les soins déprogrammés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905569" ordre_absolu_seance="233" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553263" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905570" ordre_absolu_seance="234" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553264" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez cité le professeur Axel Kahn. De nombreuses activités de dépistage de cancers ont dû être suspendues ; elles l’ont été moins de trois mois. La reprise a été assez rapide. En outre, comme le Premier ministre, lors de conférences de presse, j’ai appelé les Français à maintenir leur rendez-vous de dépistage par mammographie ou par coloscopie notamment, ou à pratiquer le dépistage des infections sexuellement transmissibles – puisque j’évoquais tout à l’heure le VIH.<br/>Vous avez raison, le dépistage a reculé ; certaines structures ont été fermées, pour des périodes plus ou moins longues, et la peur et le confinement n’incitaient pas à sortir de chez soi. Toutefois, nous disposons d’un indicateur que je trouve intéressant, sinon rassurant. Il est fondé sur les dossiers pharmaceutiques. J’ai autorisé par arrêté les pharmaciens à renouveler les ordonnances échues pour les patients atteints de maladies chroniques. Les pharmaciens n’ont pas constaté de chute de prescriptions : concernant les pathologies comme le diabète et l’hypertension, par exemple, les patients ont moins consulté leur médecin, mais ils ont manifestement continué leur traitement.<br/>Dans le domaine chirurgical, nous avons vraiment fait de la cancérologie une priorité, en indiquant aux hôpitaux que s’ils devaient conserver une activité de chirurgie, ce devait être celle-là. C’est encore plus vrai en pédiatrie : il s’agit d’un domaine très spécifique, et je crois sincèrement que les reports, s’il y en a eu, étaient de quelques jours ou semaines et que le retard a ensuite été rattrapé. Pour le reste, nous établirons le bilan lorsque nous aurons davantage de recul.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Annie Vidal (LaREM)" id_acteur="PA722102" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723472">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905573" ordre_absolu_seance="237" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553267" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Annie Vidal.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905574" ordre_absolu_seance="238" id_acteur="PA722102" id_mandat="PM723472" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553268" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Vidal (LaREM)</nom>
+              <acteurRef>PA722102</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La crise sanitaire que nous traversons depuis plus d’un an nous a conduits à appliquer des mesures de restriction parfois difficiles. Je vous remercie, monsieur le ministre, d’avoir su les prendre au moment opportun. Une très grande majorité des Français les a respectées,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905575" ordre_absolu_seance="239" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah bon ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905576" ordre_absolu_seance="240" id_acteur="PA722102" id_mandat="PM723472" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553270" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Vidal</nom>
+              <acteurRef>PA722102</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…avec courage et résilience.<br/>Dès mars 2020, les mesures de restriction ont eu un effet rapide sur le virus, le nombre de cas graves et de décès liés à la covid-19 a diminué. Nous avons évité la saturation des hôpitaux et soulagé les équipes soignantes. En avril 2020, l’École des hautes études en santé publique estimait que le premier mois de confinement avait permis d’éviter 60 000 morts de la covid-19 en France, soit environ 220 000 décès évités pour l’ensemble de l’année épidémique.<br/>Pourtant, les auteurs du rapport déjà cité, intitulé « Années de vie gagnées, années de vie perdues », estiment que le confinement a détruit plus d’années de vie qu’il n’en a sauvées et soulignent une asymétrie générationnelle en faveur de la jeunesse. Cette approche sous-estime l’importance que les Français attachent à la protection de la santé de tous et au principe de solidarité, qui reste au cœur de notre approche.<br/>Il est vrai que le confinement a provoqué des reports de soin, qu’il a affecté la santé mentale et la qualité de vie ; plus largement, il a eu des conséquences sur l’emploi et la jeunesse. Nous sommes conscients des effets produits sur l’ensemble de la population ; le Gouvernement a pris des mesures concrètes pour y remédier.<br/>Dans le cadre de l’évaluation, à laquelle je vous sais attaché, comment prendre en considération la nécessité de protéger les publics les plus vulnérables, tels que les personnes âgées et les personnes en situation de handicap ? Comment évaluer les répercussions sanitaires, pour certaines encore invisibles à ce jour, pour les jeunes ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905581" ordre_absolu_seance="245" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553275" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905582" ordre_absolu_seance="246" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez mentionné le rapport « Années de vie gagnées, années de vie perdues ». Le <italique>think tank</italique> qui en est à l’origine omet un grand nombre de paramètres. Il s’agit d’un organisme libéral ; si le libéralisme sans entraves avait sauvé beaucoup de vies pendant l’épidémie, on s’en serait aperçu. Un interventionnisme très fort de l’État et des structures publiques a été nécessaire, en France et à l’étranger.<br/>Imaginez qu’on passe de 50 à 100 000 cas par jour, puis de 100 à 200 000 ; qu’on passe de 1 000 à 2 000 patients admis chaque jour en réanimation, puis à 3 000, puis à 4 000. Imaginez que les hôpitaux soient complètement débordés, trient les gens, que les malades de plus de 60 ans ne soient plus admis en réanimation, ne soient plus intubés, meurent à l’extérieur des hôpitaux. Certains pays se sont approchés de cette situation. Ils avaient affirmé qu’ils ne confineraient pas – tous ont fini par le faire. Un rapport doit évaluer avec intelligence et impartialité, chercher le contre-modèle montrant qu’on aurait fait mieux en agissant autrement. Durant une partie de l’année 2020, deux tiers des habitants de la planète étaient confinés.<br/>Il faut donc prendre en considération tous les paramètres. Je conteste très fortement certains éléments du rapport, en particulier concernant l’évolution de la pauvreté. Les auteurs assurent qu’il y aurait 1 million de pauvres supplémentaires. Une multitude d’amortisseurs sociaux ont été installés ; la protection sociale française, la sécurité sociale, qui n’ont pas été créées par le Gouvernement mais datent du lendemain de la seconde guerre mondiale, ont évité à beaucoup de gens de perdre leur travail ; personne n’a été obligé de payer ses soins ; personne n’a dû renoncer à se faire tester ou vacciner parce que cela coûtait trop cher. Certes, cette protection sociale entraîne des dépenses, mais elle a sauvé énormément d’années de vie, pour des gens qui seraient tombés malades et peut-être seraient décédés, pour ceux qui auraient perdu leur boulot. Je ne parle même pas de la politique du « quoi qu’il en coûte », notamment le chômage partiel.<br/>À l’analyse du <italique>think tank</italique> Génération libre, je préfère celle de la mission Pittet. Elle n’est pas tendre concernant certains aspects, qu’elle a dénoncés à bon droit, mais elle compare avec justesse la situation en France et celle à l’étranger.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Maxime Minot (LR)" id_acteur="PA720630" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723020">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905587" ordre_absolu_seance="250" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Maxime Minot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905588" ordre_absolu_seance="251" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot (LR)</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour ce débat sur l’évaluation de l’impact des mesures prises dans le cadre de la crise sanitaire sur la santé et l’espérance de vie des Français, j’effectue un retour en arrière de quelques années, en recoiffant ma casquette d’aide médico-psychologique en EHPAD. Nous avons malheureusement constaté durant cette crise de nombreuses atteintes aux droits fondamentaux des résidents. Quelles souffrances ces derniers ont-ils endurées, privés de leurs liens familiaux ? Qu’en est-il du respect de la dignité ? Empêcher nos aînés de s’aérer et de rencontrer leurs proches ne relève-t-il pas de la maltraitance ?<br/>Je ne blâme pas les EHPAD, qui ont fait le maximum dans cette période de crise, et ont seulement appliqué vos décisions. De surcroît, aucun effort et aucun renfort de personnel médico-social n’ont été associés à ces décisions drastiques. J’en profite pour saluer tous les soignants qui se sont mobilisés et ont tenté d’accompagner au mieux nos aînés. La crise n’a-t-elle pas révélé certaines limites, certaines failles de notre système ? À l’heure où le projet de reconstruction de l’EHPAD de Clermont-de-l’Oise, dans ma circonscription, voit le jour, ma question concerne l’avenir, plutôt que le bilan de cette crise : comment faire entrer nos structures d’accueil dans une ère plus humaine et plus digne d’un pays comme la France, qui se doit de respecter ses aînés ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905590" ordre_absolu_seance="253" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553284" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905591" ordre_absolu_seance="254" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553285" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous pourrions avoir un débat philosophique long et intéressant, monsieur Minot, sur la question de savoir si c’est respecter les gens que leur sauver la vie, selon les moyens auxquels on a recours, en se demandant jusqu’où on peut aller pour y parvenir.<br/>Votre question concerne l’évolution des EHPAD, notamment l’accompagnement médico-social. Pendant la crise, les liens entre le domaine médico-social et le domaine sanitaire ont été très différents et de qualité variable, selon le niveau de gouvernance. Par exemple, nous avons décidé de créer des filières de prise en charge et d’hospitalisation directe des personnes issues des EHPAD, dans des centres hospitaliers dotés d’unités dédiées. Heureusement, ces consignes ont le plus souvent été appliquées. Pendant la troisième vague, on a même transformé des services de soins de suite et de réadaptation du secteur privé, afin d’y admettre des patients covid+ issus des EHPAD, avec une prise en charge médicalisée plus adaptée, parce que les médecins qui exercent dans ces structures ont plus souvent affaire à des patients en perte d’autonomie.<br/>Comment faire évoluer ce secteur ? Un projet de loi sera peut-être présenté, qui comporte de nombreuses propositions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905594" ordre_absolu_seance="257" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <acteurRef>PA720630</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On attend depuis longtemps !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905595" ordre_absolu_seance="258" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2553289" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le Ségur de la santé octroie une revalorisation aux soignants dans les EHPAD ; il prévoit l’affectation de 2 milliards d’euros au secteur numérique de la santé, dont une bonne part est dédiée au secteur médico-social et aux EHPAD, parce que la crise a aussi montré que les outils numériques étaient essentiels pour casser les distances et accompagner les soins. La réforme de la gouvernance est en cours, ainsi que la contractualisation entre l’État et les départements et le soutien aux aides à domicile. Nous avons pris le virage que notre pays attend depuis très longtemps, vers des prises en charge plus adaptées, afin de garder les personnes à domicile plus longtemps et que l’EHPAD constitue une solution plus tardive, pour celles et ceux qui n’auraient vraiment plus le choix. Les débats ont commencé, un financement est même prévu. Nous allons maintenant prendre le temps d’examiner le texte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. David Corceiro (Dem)" id_acteur="PA720928" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774485">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905596" ordre_absolu_seance="259" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553290" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. David Corceiro.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905597" ordre_absolu_seance="260" id_acteur="PA720928" id_mandat="PM774485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553291" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Corceiro (Dem)</nom>
+              <acteurRef>PA720928</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La pandémie à laquelle notre pays est confronté depuis plus d’un an a sérieusement ébranlé son système de santé. Si ce dernier a surmonté la crise grâce à une mobilisation remarquable de l’ensemble de ceux qui le constituent, il a fallu le préserver en appliquant des mesures draconiennes – confinements successifs, couvre-feu, limitation des contacts sociaux et fermeture des lieux accueillant du public. À l’heure où ces restrictions sont levées petit à petit, et où nos compatriotes vont pouvoir reprendre le cours de leur vie, il est nécessaire de s’interroger quant aux conséquences d’une telle crise sur la santé mentale des Français, à court, à moyen et à long termes.<br/>L’anxiété des personnes dépressives s’est aggravée de manière considérable durant l’année écoulée, de nombreuses études en attestent. Santé publique France a-t-elle mené une évaluation globale et précise de cet état de fait ? Le 8 juin, un rapport de l’OCDE – Organisation de coopération et de développement économiques – indiquait que ses États membres devaient augmenter d’urgence les investissements dans la qualité des soins de santé mentale. Dans notre pays, les services psychiatriques ont longtemps été négligés et sous-financés. Quels moyens comptez-vous engager afin de renforcer ce secteur essentiel à notre système de santé, au moment où il semble en avoir le plus besoin ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran, quali  ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905599" ordre_absolu_seance="262" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905600" ordre_absolu_seance="263" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai répondu plusieurs fois déjà ce soir à des questions relatives à la santé mentale – hélas, la vôtre arrive après. Nous disposons d’indicateurs de mesure mensuels, selon lesquels la satisfaction de la vie a baissé, tandis que les états dépressifs, le stress et la tension ont augmenté, pour des raisons qui se conjuguent. Nous avons pris des mesures d’urgence, organisé des campagnes de communication, créé des numéros d’appel, soutenu des associations. Les collectivités ont joué leur rôle. Nous avons recruté des psychologues dans les centres médico-psychologiques, développé des cellules d’urgence médico-psychologiques (CUMP), lesquelles ont aussi aidé les soignants, soumis à un stress intense pendant toute la période. Nous avons créé le « chèque psy » pour les adolescents et les étudiants. Nous renforcerons encore notre action dans un avenir proche, à la suite des assises de la santé mentale et de la psychiatrie, qui se tiendront bientôt.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain David (SOC)" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905601" ordre_absolu_seance="264" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553295" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1905602" ordre_absolu_seance="265" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553296" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David (SOC)</nom>
+              <acteurRef>PA1008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après la crise sanitaire, la crise sociale touchera les plus précaires, les travailleurs des première et seconde lignes, les habitants des quartiers défavorisés et les jeunes. Encore une fois, la situation tendra à la société française un miroir grossissant des inégalités. Outre que notre société subira durablement les effets sanitaires et économiques de la pandémie, celle-ci a agi comme un révélateur des mécanismes d’exclusion et de pauvreté qui la fracturent.<br/>Dans cette crise si violente, un triple mécanisme est à l’œuvre. En paralysant l’économie et les dynamiques d’insertion, la pandémie a d’abord empêché les personnes en situation de précarité d’en sortir, en déstabilisant toutes les relations sociales et les structures collectives qui les soutiennent. Elle a ensuite précipité dans la pauvreté des milliers de salariés et d’indépendants au statut déjà précaire. Enfin, et c’est un choc, elle a lourdement pesé sur les collégiens, lycéens, étudiants, jeunes sans emploi ni formation, sans statut – tous nos jeunes –, à un moment charnière de leur vie, avec peut-être des conséquences néfastes à long terme.<br/>Face à cette situation, certains présidents de conseil départemental, dont celui de la Gironde, et la maire de Paris ont récemment affirmé leur volonté d’ouvrir le bénéfice du RSA aux jeunes de 18 à 25 ans et d’expérimenter un revenu de base. Je partage leur analyse. La France a toujours su avoir l’audace de l’innovation sociale. Aujourd’hui, ils demandent au Gouvernement d’être fidèle à notre histoire sociale et de les laisser expérimenter dans leur territoire des solutions nouvelles pour accompagner nos concitoyens. Le Gouvernement est-il prêt à faire confiance à l’action locale de ces départements qui, parce qu’ils mènent une action sociale et territoriale, peuvent être les mieux placés pour lutter contre la crise ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905355" ordre_absolu_seance="268" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553376" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905356" ordre_absolu_seance="269" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553377" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Au sortir de la crise sanitaire, je ne crois vraiment pas qu’accorder un RSA sec à des jeunes de dix-huit à vingt-cinq ans soit pour eux une réponse satisfaisante ; en effet, la jeunesse aspire à autre chose. Si le RSA avait été un modèle de succès en matière d’insertion, nous le saurions. Vous parlez des départements, monsieur le député ; nous travaillons avec la déléguée interministérielle à la prévention et à la lutte contre la pauvreté à la contractualisation entre l’État et les départements en matière de suivi, de retour à l’emploi et de l’accompagnement dans la formation des bénéficiaires du RSA. Leurs situations témoignent d’une très grande hétérogénéité !<br/>En revanche, il faut proposer des solutions aux jeunes. Je pense au plan « 1 jeune, 1 solution » qui, vous le savez, est doté de 7 milliards d’euros pour permettre l’intégration des jeunes dans le marché de l’emploi et faciliter leur embauche, mais nous travaillons aussi, à la demande du Président de la République et du Premier ministre, avec Élisabeth Borne et d’autres ministres concernés, à des solutions qui permettraient à des jeunes en difficulté de disposer non seulement de revenus propres mais surtout d’un accompagnement personnalisé. C’est essentiel car il ne s’agit pas juste de leur distribuer un minimum social : il faut leur permettre de s’intégrer dans le marché de l’emploi ou de bénéficier d’une formation, par exemple dans le cadre de l’école de la deuxième chance ou d’un apprentissage.<br/>Vous hochez la tête, monsieur le député, mais quand on a dix-huit, dix-neuf ou vingt ans, on ne rêve pas du RSA. Il faut arrêter de se mentir : on rêve d’une formation, d’un métier, d’un emploi ! <italique>(Mme Sereine Mauborgne applaudit.)</italique> Se contenter de donner un minimum social pour solde de tout compte, c’est – pardonnez-moi – presque cynique. Il est nécessaire que nous travaillions à la question du revenu, mais la première cause de pauvreté dans notre pays, c’est le chômage, et la première des solidarités, l’emploi !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sébastien Chenu" id_acteur="PA720468" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722972">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905359" ordre_absolu_seance="272" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553380" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Chenu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905360" ordre_absolu_seance="273" id_acteur="PA720468" id_mandat="PM722972" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553381" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Chenu</nom>
+              <acteurRef>PA720468</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après seize mois de crise, nous nous attachons à évaluer la pertinence des politiques publiques qui ont été menées au sujet du covid-19. Ce faisant, nous évaluons aussi, évidemment, les actes manqués par le Gouvernement ; leur liste est longue et elle a été dressée ce soir par nombre de nos collègues.<br/>Ces actes manqués ont sacrifié tantôt notre économie, tantôt notre liberté, bien souvent votre crédibilité. Faut-il invoquer une énième fois la piètre image d’une France qui ne disposait pas d’assez de masques, ou même le fiasco par lequel la France, pays de Pasteur, s’est voilée la face sans avoir l’audace de se lancer dans la course internationale au vaccin ? Faut-il rappeler que le Gouvernement a tenté de supprimer les primes des soignants du Nord et que, sans l’intervention de plusieurs personnalités, maire de Lille ou députés du Rassemblement national, ils les attendraient peut-être encore ?<br/>Il n’y a finalement pas de meilleure illustration de l’inclairvoyance générale que la difficulté à obtenir des séances avec un psychiatre ou un psychologue, pourtant promises par le « chèque psy ». Désormais, les Français veulent savoir : que faisons-nous pour prévenir un éventuel prochain enfer ? Un plan national de prévention des pandémies, comprenant cette fois un stock suffisant de matériel pour prévenir des erreurs telles que celles commises en mars 2020, est-il prévu ?<br/>Par ailleurs, nous ne pouvons plus nous en tenir à des approches traditionnelles en matière d’évaluation des politiques publiques. Il faudrait prendre en considération une définition globale de la santé qui recouvre tout ce qui a trait au bien-être des Français. Les différentes mesures prises pour enrayer la propagation du covid-19 ont eu des conséquences dramatiques, notamment la détresse psychologique de nos jeunes mais aussi les violences sexuelles, les escroqueries ou les coups et blessures volontaires, que les trois confinements ont malheureusement fait exploser. Ces éléments doivent être pris en compte.<br/>Enfin, la crise du covid-19 a fait basculer plus d’un million de nos compatriotes dans la pauvreté. Comment comptez-vous approfondir les suivis psychologique, socio-économique et d’encadrement à la suite de l’émergence de ces formes d’insécurité physique, sociale et psychologique ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre" id_acteur="PA642788" id_nomination_oe="PM773495" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905365" ordre_absolu_seance="278" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2553386" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905366" ordre_absolu_seance="279" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM773495" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2553387" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <acteurRef>PA642788</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, j’entends des critiques, quelques interrogations – pour une fois ! – mais pas de propositions ni de solutions. En même temps, je vais être – pardonnez-moi – d’une franchise un peu brutale, mais je ne fais pas confiance à ceux qui vivent des problèmes des Français pour identifier des solutions.<br/>Vous formulez de nombreuses critiques sur notre gestion de crise ; vous le faites depuis le début et c’est votre droit. Je note que les députés de votre sensibilité n’ont voté aucune des mesures prises pour protéger les Français, qu’elles soient sanitaires – le couvre-feu, l’état d’urgence ou le confinement –, économiques – le chômage partiel ou le « quoi qu’il en coûte » –, éducatives ou sociales. Vous n’avez rien voté et quand vous étiez présent, vous avez voté contre. <italique>(M. Sébastien Chenu proteste.) </italique>Je vous propose donc de rédiger une petite note sur ce que vous auriez fait à notre place ; si vous le souhaitez, nous l’étudierons ensuite ensemble.<br/>Quant à savoir comment tenir compte de l’impact social, économique et éducatif de la crise, c’était le sujet, monsieur le député, du débat qui nous a réunis près de deux heures ce soir ; je pense avoir répondu à nombre de ces questions. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1905369" ordre_absolu_seance="282" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2553390" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA720138</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="8" id_preparation="1905371" ordre_absolu_seance="284" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2553392" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1905372" ordre_absolu_seance="285" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2553393" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA720138</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Questions orales sans débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1905373" ordre_absolu_seance="286" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2553394" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures vingt.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1905374" ordre_absolu_seance="287" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2553395" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

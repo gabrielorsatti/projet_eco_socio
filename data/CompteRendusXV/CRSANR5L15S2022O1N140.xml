@@ -1,0 +1,1321 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2022O1N140</uid>
+  <seanceRef>RUANR5L15S2022IDS25738</seanceRef>
+  <sessionRef>SCR5A2022O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20220131213000000</dateSeance>
+    <dateSeanceJour>lundi 31 janvier 2022</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>140</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20220140</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2022-02-07T23:25:19.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2773096">Présidence de Mme Laetitia Saint-Paul</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2773100">
+          <intitule>Évaluation du plan gouvernemental L’État plus fort en Seine-Saint-Denis</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="2773102">M. Amine Ghenim, avocat, bâtonnier de Seine-Saint-Denis</para>
+        <para id_syceron="2778577">Mme Albertine Munoz, juge près du tribunal judiciaire de Bobigny</para>
+        <para id_syceron="2773134">M. Grégory Thuizat, secrétaire départemental du syndicat SNES-FSU 93</para>
+        <para id_syceron="2773368">M. Erwan Guermeur, secrétaire départemental du syndicat Unité SGP Police 93</para>
+        <para id_syceron="2773383">M. Stéphane Peu (GDR)</para>
+        <para id_syceron="2773392">M. François Cornut-Gentille, rapporteur du comité d’évaluation et de contrôle des politiques publiques</para>
+        <para id_syceron="2773397">M. Erwan Guermeur </para>
+        <para id_syceron="2773402">M. Grégory Thuizat </para>
+        <para id_syceron="2773409">Mme Albertine Munoz </para>
+        <para id_syceron="2773414">M. Amine Ghenim </para>
+        <para id_syceron="2773417">M. Rodrigue Kokouendo, rapporteur du comité d’évaluation et de contrôle des politiques publiques</para>
+        <para id_syceron="2773422">M. Jean-Christophe Lagarde (UDI-I)</para>
+        <para id_syceron="2773154">M. Stéphane Testé (LaREM)</para>
+        <para id_syceron="2773156">M. Hubert Wulfranc (GDR)</para>
+        <para id_syceron="2773161">M. Amine Ghenim</para>
+        <para id_syceron="2773165">M. Erwan Guermeur</para>
+        <para id_syceron="2773169">Mme Albertine Munoz</para>
+        <para id_syceron="2773172">M. Grégory Thuizat</para>
+        <para id_syceron="2773182">Mme Nadia Hai, ministre déléguée chargée de la ville</para>
+        <para id_syceron="2773201">M. Stéphane Peu (GDR)</para>
+        <para id_syceron="2773208">Mme Nadia Hai, ministre déléguée</para>
+        <para id_syceron="2773221">M. Rodrigue Kokouendo, rapporteur</para>
+        <para id_syceron="2773230">Mme Nadia Hai, ministre déléguée</para>
+        <para id_syceron="2773237">M. François Cornut-Gentille, rapporteur</para>
+        <para id_syceron="2773243">Mme Nadia Hai, ministre déléguée</para>
+        <para id_syceron="2773252">M. Jean-Christophe Lagarde (UDI-I)</para>
+        <para id_syceron="2773265">Mme Nadia Hai, ministre déléguée</para>
+        <para id_syceron="2773276">M. Alain Ramadier (LR)</para>
+        <para id_syceron="2773285">Mme Nadia Hai, ministre déléguée</para>
+        <para id_syceron="2773302">M. Hubert Wulfranc (GDR)</para>
+        <para id_syceron="2773306">Mme Nadia Hai, ministre déléguée</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2773314">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du lundi 31 janvier 2022</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2045736" ordre_absolu_seance="1" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2773096" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Laetitia Saint-Paul<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2045737" ordre_absolu_seance="2" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773097" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1776.61">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2045738" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2773098" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045740" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2773100" valeur="">
+      <orateurs/>
+      <texte>Évaluation du plan gouvernemental L’État plus fort en Seine-Saint-Denis</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045741" ordre_absolu_seance="6" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773101" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1779.76">L’ordre du jour appelle le débat sur le thème : « Évaluation du plan gouvernemental L’État plus fort en Seine-Saint-Denis ».<br/>Ce débat a été demandé par le groupe de la Gauche démocrate et républicaine. À la demande de ce dernier, il se tient en salle Lamartine afin que des personnalités extérieures puissent être interrogées.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Nous commencerons par une table ronde en présence de personnalités invitées, d’une durée d’une heure, puis nous procéderons, après avoir entendu une intervention liminaire du Gouvernement, à une nouvelle séquence de questions-réponses, d’une durée d’une heure également. La durée des questions et des réponses sera limitée à deux minutes, sans droit de réplique.<br/>Pour la première phase du débat, je souhaite la bienvenue à M<exposant>e</exposant> Amine Ghenim, avocat, bâtonnier de Seine-Saint-Denis, à Mme Albertine Munoz, juge près le tribunal judiciaire de Bobigny, à M. Grégory Thuizat, secrétaire départemental du Syndicat national des enseignements de second degré - Fédération syndicale unitaire (SNES-FSU 93), et M. Erwan Guermeur, secrétaire départemental de l’unité SGP Police 93.<br/>Je vais à présent donner la parole à chacun de nos invités pour une intervention d’environ cinq minutes.<br/> La parole est au M<exposant>e</exposant> Amine Ghenim.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045742" ordre_absolu_seance="8" id_acteur="PA-121619" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773102" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Amine Ghenim</nom>
+            <id>-121619</id>
+            <qualite>avocat, bâtonnier de Seine-Saint-Denis</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1870.87">Je remercie les députés qui nous ont invités à ce débat ; c’est bien volontiers que j’y participe, en tant que représentant du barreau. Il y a à peine quelques semaines, un grand quotidien publiait une tribune signée par des milliers de magistrats et de personnels de greffe, intitulée « Nous ne voulons plus d’une justice qui n’écoute pas et qui chronomètre tout », qui a trouvé un grand écho. Ce texte mettait en avant les grandes difficultés auxquelles est confronté le service public de la justice, la dégradation des conditions de travail, la précipitation avec laquelle la justice est rendue, sa déshumanisation. Ce constat n’est pas nouveau. L’ensemble des professionnels du droit, notamment les avocats, usant de leur liberté de ton, n’a pas manqué d’appeler l’attention des pouvoirs publics sur la gravité de la situation.<br/>Dans un département comme la Seine-Saint-Denis, ces difficultés sont aggravées. Vous connaissez les particularités de ce département, notamment sa sociologie, caractérisée par une grande pauvreté et la concentration de populations en difficulté ; le besoin de droit s’y exprime davantage qu’ailleurs. Malgré quelques progrès – au cours des cinq dernières années, par exemple – et des renforts en magistrats et autres personnels, nous sommes bien loin de répondre aux besoins pressants qui se font sentir dans de nombreux domaines, notamment ceux de la justice du quotidien, des affaires familiales et du surendettement – en fait, le problème concerne quasiment tous les domaines de l’activité judiciaire des tribunaux.<br/>Le tribunal pour enfants de Bobigny est le plus important de France, c’est bien connu. Or, encore aujourd’hui, en Seine-Saint-Denis, les mesures éducatives ne sont exécutées qu’au bout de plusieurs mois. C’est un constat, une réalité. Les juges des enfants y éprouvent de grandes difficultés au quotidien pour placer de jeunes enfants. Tous les soirs, les magistrats et les éducateurs de la juridiction doivent fournir des efforts considérables en ce sens.<br/>Nous sommes encore très loin de disposer des moyens nécessaires dans un tel département, y compris en matière d’accueil des justiciables. Un tribunal comme celui de Bobigny ne peut pas être traité comme les autres juridictions. Les besoins locaux sont particuliers, y compris à cause du manque de connaissance de la langue. C’est bien connu, une importante population étrangère, ne parlant pas le français, se concentre dans ce département.<br/>On ne peut donc étudier une telle juridiction à travers le prisme de chiffres, de schémas ou d’organigrammes préétablis. Par exemple, si nous nous félicitons du projet de construction d’un nouveau tribunal, en sus de l’existant, celui-ci a donné lieu à un débat, qui se poursuit, avec l’agence immobilière du ministère de la justice. Nous avons insisté pour que les particularités d’un tel territoire soient prises en compte, y compris dans les espaces réservés aux avocats. Ce n’est pas pour notre profession que je plaide, mais pour les victimes que nous assistons, les populations dans le besoin, parfois en détresse, que nous conseillons.<br/>Nous avons donc indiqué à cette agence qu’elle devait raisonner, pour un tel département, non pas à partir de normes techniques préétablies, mais en intégrant les réalités et les besoins locaux dans la conception architecturale des lieux de justice.<br/>Malgré les efforts accomplis, nous sommes très loin de disposer des moyens humains nécessaires pour permettre un fonctionnement à peu près harmonieux des juridictions. Les réformes menées depuis plusieurs années, notamment en matière procédurale, n’ont absolument pas amélioré les délais de traitement des dossiers ; au contraire, elles ont rendu plus difficile l’accès à la justice et au droit et constituent de véritables freins. Par exemple, le dépôt d’une requête auprès du conseil de prud’hommes est devenu si complexe que cela décourage des justiciables. C’est une réalité. Alors que la procédure était originellement destinée à encourager l’accès au droit, à sécuriser le parcours de droit, avec les réformes successives, elle constitue désormais un obstacle.<br/>Quelles perspectives dessinent les états généraux de la justice ? Ils suivent globalement deux orientations qui, disons-le avec fermeté et force, ne sont pas de nature à régler les problèmes du service public de la justice, surtout dans un département comme le nôtre.<br/>La première orientation consiste à renforcer la dématérialisation. Bien évidemment, nous n’avons rien contre l’ouverture à la modernité, mais celle-ci ne doit pas signifier l’exclusion de certaines populations. C’est une réalité, il faut la comprendre : dans un département comme la Seine-Saint-Denis, certains ne savent toujours pas utiliser un ordinateur, ou n’y ont pas accès. Contraindre ces justiciables à passer par l’outil informatique pour saisir une juridiction revient à créer un facteur de discrimination. Il faut donc accompagner la modernisation, en leur permettant d’accéder au service public de la justice. Comprenez-le bien, la dématérialisation ne règle pas tous les problèmes ; nous devons entendre une population aux difficultés croissantes et satisfaire ses besoins.<br/>Deuxième orientation : la médiation et les autres procédures amiables de résolution des conflits. Nous ne nous opposons pas à leur développement par principe, au contraire. Toutefois, on constate qu’elles sont aujourd’hui complètement détournées de leur objet, car, pour pallier le nombre insuffisant de magistrats et de greffiers, on cherche à tout prix à orienter les justiciables vers elles.<br/>D’ailleurs, les médiations ne sont pas toujours gratuites. En droit du travail, quand certains salariés veulent saisir le conseil des prud’hommes, on leur impose ces prestations, alors qu’elles ont un coût et que les justiciables n’ont pas toujours les moyens de l’assumer.<br/>Par ailleurs, le bureau d’aide juridictionnelle, dans un tel département, a besoin d’être renforcé. Malgré tous les efforts fournis depuis quelque temps par les chefs de juridiction successifs, nous sommes encore très loin de répondre à l’ensemble des besoins.<br/>D’autres réalités encore…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045755" ordre_absolu_seance="21" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773115" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2380.31">Maître, je vous invite à davantage de concision, sinon tout le monde n’aura pas le temps de s’exprimer.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme la présidente" id_acteur="PA720138" id_nomination_oe="-1" id_nomination_op="PM767300" id_mandat="PM722872">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045756" ordre_absolu_seance="22" id_acteur="PA-121619" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773116" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Amine Ghenim</nom>
+              <id>-121619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2390.20">Concernant le nombre de magistrats, je citerai des chiffres éloquents, édifiants, issus du discours prononcé il y a quarante-huit heures par le procureur de la République de Bobigny lui-même, devant le tribunal de commerce de Bobigny. Alors que le parquet local ne compte que 50 magistrats, il en faudrait, dans ses propres termes, au moins 188. Cela révèle les besoins immenses de moyens pour la justice dans notre département.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045757" ordre_absolu_seance="23" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2778576" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2418.68">La parole est à Mme Albertine Munoz, juge près du tribunal judiciaire de Bobigny.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2045757" ordre_absolu_seance="24" id_acteur="PA-121629" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2778577" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Albertine Munoz</nom>
+            <id>-121629</id>
+            <qualite>juge près du tribunal judiciaire de Bobigny</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2425.13">Je vous remercie à mon tour pour cette invitation, très importante puisque nous représentons les services publics en Seine-Saint-Denis et qu’une approche globale de la situation est nécessaire. Celle-ci est, je pèse mes mots, catastrophique.<br/>Je remercie également le bâtonnier d’avoir évoqué la tribune signée par la grande majorité des magistrats de France. J’en suis l’une des rédactrices et, pour tout vous dire, j’ai moi-même vécu, en tant que magistrate en Seine-Saint-Denis, les situations qui y sont décrites. Je ne sais pas si vous avez lu ce texte, dont les exemples me semblent éloquents ; j’y reviendrai si j’en ai le temps.<br/>Si la situation locale est catastrophique, c’est à cause du manque structurel d’effectifs du tribunal de Bobigny. C’est vrai, les efforts qui avaient été annoncés ont permis une augmentation du nombre de magistrats, mais uniquement du siège. Surtout, celle-ci n’est absolument pas suffisante, car nous partions de très loin. À Bobigny, nous sommes actuellement 140 magistrats du siège ; nous devrions être 292 pour nous trouver dans la moyenne européenne, qui fait référence.<br/>La situation est encore plus catastrophique pour le parquet, comme vient de le préciser M. le bâtonnier. Les parquetiers ne sont que 53 alors qu’ils devraient être 188.<br/>Concrètement, l’écart entre ces deux chiffres implique une dégradation de la réponse pénale apportée par les procureurs de la République, malgré les résultats obtenus par les policiers sur le terrain. Pour donner un exemple très concret – car il importe de dire où en sont les juridictions –, les personnes ayant commis une infraction à la législation sur les stupéfiants peuvent recevoir, à l’issue de leur garde à vue, une convocation à une audience ultérieure par l’officier de police judiciaire, ou une proposition de stage de sensibilisation aux effets des stupéfiants. Or les parquetiers ne peuvent plus proposer de plages horaires pour de tels dossiers, car tout est complet jusqu’en décembre 2022 !<br/>La seule solution alternative qui s’offre aux magistrats est donc de demander la comparution immédiate de ces prévenus. Pourtant, celle-ci est supposée constituer une exception et ne valoir que pour des infractions spécifiques, notamment afin que l’incarcération ait lieu à l’issue de l’audience.<br/>On le voit : nous disposons d’outils assez complets pour répondre à la délinquance, mais le parquet n’a pas les moyens de les utiliser. Il est même contraint, finalement, de modifier le sens de ce que devrait être la comparution immédiate, notamment en matière de stupéfiants. Cela implique une perte de sens ; nous la vivons, en tant que magistrats du siège ou magistrats du parquet. Nous nous demandons à quoi sert tout le travail que nous faisons, sachant que nous travaillons énormément – y compris pendant le week-end et les vacances – pour essayer de réduire les stocks. Même comme ça, nous apportons constamment des réponses dégradées, que ce soit en matière pénale ou en matière civile.<br/>Parlons des fonctionnaires de greffe, puisqu’ils souffrent aussi de cette situation. L’idée du rapport était de les prendre en compte, notamment pour les inciter à rester dans le département ou à y venir. Deux ans après la rédaction du rapport, nous constatons un manque chronique d’effectifs encore plus important que chez les magistrats, alors qu’on sait très bien que la justice ne peut pas fonctionner sans les fonctionnaires de greffe. Pour en revenir aux chiffres, ils sont actuellement 565 au tribunal judiciaire de Bobigny. Pour être juste dans la moyenne européenne – sans même essayer d’être dans les pays les mieux classés –, il en faudrait 1 240.<br/>Ce manque chronique d’effectifs implique des heures supplémentaires qui ne sont pas payées. J’ai vu des greffières badger à l’heure où elles auraient dû partir, puis remonter dans leur bureau, travaillant donc gratuitement pour l’État, parce qu’elles ont une conscience professionnelle : on ne fait pas n’importe quel métier. Par ailleurs, elles assistent à des audiences qui peuvent se terminer à deux heures du matin, alors qu’elles devront être au bureau le lendemain à neuf heures, malgré le salaire qu’elles touchent. Parce qu’elle est bien là, la différence avec les magistrats : le salaire des fonctionnaires de greffe n’est absolument pas gratifiant, n’ayant pas été revalorisé, ce qui explique aussi le manque de vocations dans cette profession. Nous nous sommes posé la question de l’impact de la prime de fidélisation, puisqu’elle leur a été ouverte. D’après les organisations syndicales des fonctionnaires de greffe, la prime ne semble pas avoir eu d’effet, puisque les demandes de mutations sont toujours plus nombreuses.<br/>Le deuxième point que je voulais aborder, c’est, au-delà de notre tribunal, le fait que la justice subit les manques des services publics partenaires. Pour cette raison, je trouve particulièrement justifié que vous nous ayez invités tous les quatre en même temps : on ne peut pas concevoir chaque service public comme une entité autonome, qui n’aurait pas de lien avec les autres. En tant que magistrats, nous constatons que nous subissons une perte de sens, puisque les mesures que nous prononçons ne sont pas appliquées ou exécutées : cela ne vient pas d’une mauvaise volonté de la part de nos partenaires, mais du fait qu’ils n’ont pas les moyens de le faire. Je pense notamment aux services éducatifs ou encore au secteur de la santé.<br/>Je vais vous donner un exemple très concret : les juges des enfants du tribunal de Bobigny prononcent des mesures d’assistance éducative. Ce ne sont pas des placements, c’est-à-dire que ce ne sont pas les mesures les plus graves, mais il y a un élément de danger. Quand un juge des enfants intervient, c’est parce qu’on estime qu’un enfant est en danger. Pourtant, ces mesures mettent parfois un an à être appliquées.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2045520" ordre_absolu_seance="35" id_acteur="PA923" id_mandat="PM722904" id_nomination_oe="-1" id_nomination_op="-7229040" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773129" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Cornut-Gentille</nom>
+            <id>923</id>
+            <qualite>rapporteur du comité d’évaluation et de contrôle des politiques publiques</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2446.98">C’est vrai !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2045521" ordre_absolu_seance="36" id_acteur="PA-121629" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773130" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Albertine Munoz</nom>
+            <id>-121629</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2813.16">Le juge des enfants a le temps de revoir la famille, un an plus tard – puisque les mesures sont prononcées pour un an –, et de constater qu’elle n’a pas vu l’éducateur nommé un an plus tôt, parce que les services éducatifs n’ont pas la possibilité d’absorber le nombre de mesures prononcées.<br/>Prenons un autre exemple, que je tire de ma propre expérience de juge d’application des peines. Bien souvent, des obligations de soins sont prononcées, notamment en matière de violences conjugales. Ce sont des dossiers extrêmement sensibles, pour lesquels tous les partenaires se mobilisent – et ils ont bien raison. Dans la commune d’Épinay-sur-Seine, pour les personnes condamnées qui sont soumises à une obligation de soins et qui souhaiteraient être suivies par le centre médico-psychologique (CMP), puisqu’elles n’ont pas les moyens d’être suivies par des psychologues ou des psychiatres libéraux, il y a un délai d’attente d’un an. Autant vous dire que pour moi et pour ces personnes, la mesure qui a été prononcée n’a plus de sens.<br/>Un denier point que je trouve encore plus grave : le fait de pallier le manque des services publics. Je prendrai encore un exemple personnel : j’ai été juge d’instance à Bobigny, plus précisément juge des tutelles. Une fois, j’ai dû prononcer une mesure de protection pour une dame qui avait toute sa tête ; j’ai dû prononcer une mesure qui portait atteinte à ses libertés. Pourquoi ? Parce qu’elle est arrivée en pleurs devant moi en m’expliquant que si je lui retirais la mesure de curatelle qui avait été prononcée jusqu’alors, elle se retrouverait sans personne pour l’aider, puisqu’il n’y a plus d’assistantes sociales à Bobigny. Je trouve la situation extrêmement préoccupante : c’est clairement l’État de droit qui est menacé, puisque tous les services publics de Seine-Saint-Denis sont en souffrance et sont sous-dimensionnés.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Grégory Thuizat" qualite="secrétaire départemental du syndicat SNES-FSU 93" id_acteur="PA-121659" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2045524" ordre_absolu_seance="39" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773133" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2912.66">La parole est à M. Grégory Thuizat, secrétaire départemental du syndicat SNES-FSU 93.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2045525" ordre_absolu_seance="40" id_acteur="PA-121659" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773134" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Thuizat</nom>
+              <id>-121659</id>
+              <qualite>secrétaire départemental du syndicat SNES-FSU 93</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2918.62">Je tiens à mon tour à remercier Mmes et MM. les députés pour cette invitation qui permet aux personnels d’enseignement, d’éducation et d’orientation d’être représentés par ma voix au titre du SNES-FSU 93, et qui permet également de donner une matière tangible à la réalité du service public de l’éducation dans le département de Seine-Saint-Denis.<br/>Le rapport de la mission d’information de 2018 sur l’évaluation de l’action de l’État dans l’exercice de ses missions régaliennes en Seine-Saint-Denis a eu le mérite de réaffirmer une forme de rupture d’égalité dans un département qui cumule pourtant des dispositifs dérogatoires. En matière d’éducation, le constat est sans appel : en Seine-Saint-Denis, 60 % des écoliers et des écolières et 62 % des collégiens et des collégiennes sont scolarisés dans un réseau d’éducation prioritaire (REP). Une phrase, extraite du rapport, avait retenu toute l’attention des personnels d’enseignement, d’éducation et d’orientation : « […] le moins bien doté des établissements parisiens est mieux doté que le plus doté des établissements de la Seine-Saint-Denis. » Ce constat n’était pas nouveau, puisqu’en 1998 déjà, à la suite d’une mobilisation sans précédent des personnels, le gouvernement, qui avait constaté à la fois la spécificité du département et le retard en matière de moyens humains et financiers qui lui étaient alloués, avait annoncé le recrutement de 3 000 postes supplémentaires. Depuis, c’est à une lente dégradation et à une lente saignée horaire que nous avons assisté dans le département, qu’il s’agisse des moyens horaires ou des moyens en matière de personnels dévolus au service public d’éducation.<br/>Il est vrai que le déploiement de la mesure de dédoublement des classes de CP-CE1 et de grande section de maternelle en REP et en REP+ (réseau d’éducation prioritaire renforcé), depuis 2018, a engendré la création de postes. Néanmoins, il ne s’agit pas d’une mesure spécifique à la Seine-Saint-Denis. Outre le fait que ces dédoublements posent en eux-mêmes des difficultés dans le département, les moyens alloués aux classes non concernées par cette mesure aux directions d’école, aux dispositifs comme les réseaux d’aides spécialisées aux élèves en difficulté (RASED), aux établissements du second degré, à la vie et à l’inclusion scolaire ou encore aux pôles sociaux et santé, ces moyens ont été, par décompensation, largement insuffisants en Seine-Saint-Denis.<br/>Depuis 2019 et les annonces du plan L’État plus fort en Seine-Saint-Denis, notamment son volet relatif à l’éducation nationale, sur lequel on pourra revenir dans le détail – en particulier quatre mesures annoncées le 31 octobre 2019 par le Premier ministre Édouard Philippe –, le personnel de l’éducation nationale s’est maintes fois mobilisé pour alerter sur ce déficit de moyens qui touche tous les métiers de l’éducation nationale, sans même parler des difficultés supplémentaires liées à la crise sanitaire, dont l’issue reste très incertaine. C’est la raison pour laquelle, très fréquemment, l’intersyndicale de l’éducation en Seine-Saint-Denis demande ce qu’elle appelle un plan d’urgence pour l’éducation en Seine-Saint-Denis.<br/>Dans le rapport parlementaire, deux faits particulièrement saillants avaient retenu l’attention des personnels. Le premier est l’existence, de fait, d’une modalité subie d’exclusion scolaire, qui prenait la forme de l’absence d’enseignants et d’enseignantes devant les élèves. Le second est l’échec de la politique d’éducation prioritaire à réduire les écarts de réussite entre les établissements qui en bénéficient et les autres – dans le département de Seine-Saint-Denis en tout cas.<br/>Nous avons bien évidemment réfléchi à ces deux problèmes – les organisations syndicales de Seine-Saint-Denis tout particulièrement. Il est vrai que la continuité de l’enseignement n’est toujours pas assurée en Seine-Saint-Denis, pour des raisons mécaniques : la direction départementale des services de l’éducation nationale, au niveau du rectorat de Créteil, nous répond très souvent que les remplacements de moins de quinze jours, « on ne sait pas faire ». Il y a donc une problématique quasiment logistique. Au-delà de ça, il est extrêmement difficile – j’insiste bien là-dessus – d’obtenir des chiffres et des données tangibles sur l’état du non-remplacement dans l’académie de Créteil et particulièrement en Seine-Saint-Denis. Lors du dernier comité technique académique (CTA), la FSU a demandé au recteur de l’académie de Créteil des chiffres sur les postes non remplacés ; il lui a été opposé une fin de non-recevoir.<br/>Connaître le pourcentage de remplacement des enseignants en Seine-Saint-Denis n’est pas une fin en soi ; ce qui importe, c’est le temps scolaire des élèves, qu’ils ne peuvent pas rattraper. Cette perte avait été chiffrée dans le rapport : pour les enfants du département, elle correspondait à la perte d’une année sur l’ensemble de la scolarité.<br/>La réalité de la Seine-Saint-Denis, encore aujourd’hui et particulièrement dans une période de crise sanitaire, ce sont des postes vacants ; mais cette réalité préexistait à la crise pandémique. Ce sont aussi des personnels non remplacés ; nous avons reçu de multiples alertes dans les établissements du département, certaines équipes étaient exsangues. Et pour cause ! Mmes et MM. les députés seront certainement intéressés par cette information : à la fin de l’année civile 2021, le rectorat de Créteil n’était plus en mesure budgétairement d’assurer les remplacements, faute de crédits. Il avait atteint son plafond d’emplois, ce qui signifie que des dizaines, des centaines d’heures ont été perdues par les élèves dans de nombreux établissements du département, dans lesquels les enseignants n’étaient pas remplacés. Cela n’avait rien de conjoncturel. Or une décision du Conseil d’État du 27 janvier 1988 impose au ministère de l’éducation nationale « […] l’obligation légale d’assurer l’enseignement de toutes les matières obligatoires inscrites aux programmes d’enseignement […] ». Cela signifie que l’État, ne remplissant pas cette obligation, déroge, et que cette dérogation est constitutive d’une faute.<br/>Je pourrais donner des exemples précis ; ainsi, une demande d’audience adressée par le collège Jean-Lolive à Pantin le 17 novembre 2021, dans laquelle les enseignants pointaient avec les parents d’élèves qu’au 21 octobre, 832 heures d’enseignement avaient déjà été perdues et non remplacées – il s’agissait de remplacements longs, pas de remplacements de quinze jours : 158 heures en français, 83 en histoire-géographie, 141 en anglais, 83 en allemand. Cinq enseignants, absents de manière prévisible – pour congé parental ou congé maternité –, n’avaient pas été remplacés ; deux classes de troisième n’avaient pas eu de cours depuis la rentrée ; des classes de sixième n’avaient ni professeur de français, ni professeur d’histoire-géographie, ni professeur d’anglais.<br/>Plus récemment, un autre exemple donne aussi à réfléchir. Dans la cité scolaire Henri-Wallon, qui rassemble un collège et un lycée à Aubervilliers, les personnels ont écrit le 18 janvier 2022 à M. le recteur de l’académie de Créteil pour signifier que, depuis le 8 novembre – soit neuf semaines –, une enseignante en anglais et une enseignante en histoire-géographie n’avaient pas été remplacées. Des classes étaient donc sans cours d’anglais et sans cours d’histoire-géographie ; une professeure documentaliste était également non remplacée depuis cinq semaines ; quatre collégiens ne bénéficiaient d’aucun accompagnement d’AESH (accompagnant d’élèves en situation de handicap), malgré une notification de la maison départementale des personnes handicapées (MDPH). À cela s’ajoutent évidemment des sous-effectifs chroniques en vie scolaire, que les collègues dénonçaient également. En une décennie – le rapport l’avait bien montré en 2018 –, une très forte hausse démographique est donc loin d’avoir été compensée par les moyens alloués, à la fois horaires et humains.<br/>Le retard sur la question du bâti, sensible pour les collèges, est particulièrement critique pour les lycées. Quelques chiffres assez éloquents : entre 2011 et aujourd’hui – on a calculé sur une décennie –, on compte dans le département 11 309 collégiens supplémentaires, soit l’équivalent d’une vingtaine de collèges environ, et 8 780 élèves de lycée supplémentaires, hors post-bac. En même temps, depuis la rentrée scolaire 2018, sur l’ensemble du territoire cette fois-ci – mais on en verra la traduction dans la réalité de la Seine-Saint-Denis –, quasiment 8 000 postes ont été supprimés dans le second degré, soit l’équivalent de 175 collèges rayés de la carte.<br/>Cette baisse de moyens, qui est un choix gouvernemental, s’est poursuivie, en particulier dans les collèges du département : moins vingt-deux équivalents temps plein (ETP), donc moins vingt-deux postes à la rentrée 2021 ; moins douze ETP programmés pour la rentrée 2022. Plus rien ne distingue aujourd’hui, en matière de dotations horaires – au bénéfice direct des élèves, s’entend –, un collège de l’éducation prioritaire d’un autre établissement. C’est un point extrêmement sensible. Il en va de même dans les équipes pluriprofessionnelles : on pourrait parler aussi de la médecine scolaire, des personnels de santé et sociaux, des établissements découverts en matière de postes d’infirmières ou d’assistantes sociales. La rupture d’égalité, qui a été signalée et signifiée par le rapport parlementaire, est plus que jamais une réalité.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Erwan Guermeur" qualite="secrétaire départemental du syndicat Unité SGP Police 93" id_acteur="PA-121649" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045489" ordre_absolu_seance="52" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773367" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3470.10">La parole est à M. Erwan Guermeur, secrétaire départemental du syndicat Unité SGP Police 93.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045490" ordre_absolu_seance="53" id_acteur="PA-121649" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773368" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Erwan Guermeur</nom>
+              <id>-121649</id>
+              <qualite>secrétaire départemental du syndicat Unité SGP Police 93</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3476.66">Je me concentrerai, pour ma part, sur la mise en œuvre du plan L’État fort en Seine-Saint-Denis dans la police nationale, après l’annonce de trois principales mesures : l’octroi d’une prime de fidélisation de 10 000 euros aux agents publics exerçant en Seine-Saint-Denis, la création de deux quartiers de reconquête républicaine (QRR) et la rénovation des bâtiments.<br/>L’annonce de l’octroi de la prime de 10 000 euros a entraîné, dans un premier temps, la hausse des candidatures de fonctionnaires venus de départements limitrophes à la Seine-Saint-Denis, c’est-à-dire le Val-d’Oise, les Hauts-de-Seine et Paris. Nous en avons déduit que cette mesure avait atteint son objectif. Malheureusement, son effet n’a pas perduré et nous n’avons pas observé, dans les mouvements de personnel suivants, le même attrait pour le département. Peut-être cette baisse s’explique-t-elle par un manque de communication de l’administration. La prime aurait pu créer un véritable attrait pour la Seine-Saint-Denis, mais les agents étaient trop peu informés de ses modalités d’application et n’ont donc pas présenté leurs candidatures.<br/>J’ajoute, s’agissant de la région administrative parisienne, que les mouvements y sont compliqués car il est difficile de faire venir des agents en Seine-Saint-Denis. Il s’agit essentiellement d’un problème de gestion interne entre les différentes directions. Des solutions relativement simples existent pourtant au-delà même du département. Le blocage des agents au sein d’une région administrative est d’ordre statutaire et lié à l’avancement. Or, chacun le sait, l’encadrement des fonctionnaires de police constitue une problématique majeure en Seine-Saint-Denis. Nos jeunes encadrants sont parfois mal formés et les blocages statutaires ne permettent pas d’attirer des fonctionnaires expérimentés. Reste que nous sommes régulièrement interrogés sur les modalités d’application de la prime de fidélisation territoriale. L’information ne circule toujours pas et les candidats désireux de travailler dans le département sont rares à se présenter.<br/>Quelques chiffres maintenant. Malgré la mise en œuvre du plan L’État fort en Seine-Saint-Denis, les agents du corps d’encadrement et d’application (CEA) – les policiers que vous voyez au quotidien sur la voie publique – sont passés de 3 664 en 2015 à 3 637 en janvier 2022, soit trente de moins, alors que le département a connu une forte croissance démographique pendant la période, avec toutes les difficultés que cela représente. On estime que 300 agents supplémentaires seraient nécessaires pour répondre aux besoins de la Seine-Saint-Denis en matière de police, qu’il s’agisse du maintien de l’ordre dans les quartiers ou tout simplement de la mission première de la police, le secours aux personnes qui ont composé le 17, avec la voiture de patrouille. Ces chiffres, qui ont peu évolué, donnent le sentiment qu’il existe un plafond d’emplois indépassable en Seine-Saint-Denis. Les enjeux sécuritaires du département sont-ils réellement pris en compte ? Compte tenu de l’augmentation de la population, je le répète, 300 agents supplémentaires seraient aujourd’hui nécessaires en Seine-Saint-Denis !<br/>La population recensée en 2013 était de 1 552 482 habitants ; elle est passée à 1 632 677 habitants en 2021. Il faut y ajouter tous les habitants de la Seine-Saint-Denis qui ne sont pas recensés et qui circulent dans le département dès qu’un conflit éclate au niveau international. Leur présence est alors observée dans des zones précises, telles que le quartier des Quatre-Chemins à Pantin ou celui des Six-Routes à La Courneuve, et se traduit par des trafics en tous genres – faux papiers, contrebande. Ces phénomènes mériteraient d’être mieux pris en considération, ce qui n’est pas possible avec les effectifs dont nous disposons.<br/>Deux QRR ont été créés à Saint-Ouen et à La Courneuve. Au sein de chacun d’eux, la police se concentre sur un secteur donné, bien souvent au détriment d’autres secteurs. Le dimensionnement des unités chargées de traiter l’afflux d’interpellations dans ces secteurs donnés n’est pas toujours bien calibré, ce qui pose des problèmes sur le plan judiciaire, dans la gestion des gardes à vue et parfois dans le fonctionnement de tout le service. En effet, quand une unité spécifique est créée pour traiter une thématique, toutes les autres unités du commissariat sont en réalité laissées de côté. Les agents chargés d’assurer la gestion des procédures quotidiennes, notamment les gardes à vue, ne sont plus en nombre suffisant et doivent faire face à une surcharge de travail très importante. Or un agent qui travaille en permanence sous tension n’a qu’une idée en tête : demander son transfert dans un service où il travaillera plus tranquillement et où il aura les moyens d’assumer ses missions. Le surcroît de travail imposé aux unités a comme conséquence d’entraîner le départ des fonctionnaires de certains commissariats.<br/>Dans un QRR, la création d’une unité spécifique pour mieux traiter une problématique n’atteint pas toujours son objectif. En revanche, elle entraîne un transfert de charge au détriment des autres unités. Ces unités spécifiques, appelées les brigades territoriales de contact (BTC), regroupent vingt-cinq fonctionnaires, mais ne travaillent pas dans l’ensemble du département. Compte tenu du plafond d’emplois que j’ai cité tout à l’heure, la création de QRR à Saint-Ouen, à La Courneuve et à Aulnay-sous-Bois a privé les petites circonscriptions du département de renforts en effectifs. Quand vingt-cinq fonctionnaires sont envoyés à Saint-Ouen ou à La Courneuve, ce sont vingt-cinq fonctionnaires de moins pour une autre circonscription. Du fait de la création des BTC, nous avons vu apparaître, dans des petites communes du département, une délinquance auparavant inexistante.<br/>Les créations d’unités n’ont pas été anticipées et les commissariats qui ont dû les accueillir n’en avaient pas toujours la capacité. Cette situation a créé des tensions dans les services. Je pense en particulier aux conditions de travail des agents, qui se sont dégradées. La question du bien-être au travail devrait pourtant être prédominante dans la police nationale. Les politiques sécuritaires qui se superposent – hier, les unités territoriales de quartier (UTEC) et les zones de sécurité prioritaire (ZSP) ; aujourd’hui, les QRR – et qui sont appliquées à marche forcée, sans anticiper, mettent sur le devant de la scène des unités dédiées à la mise en œuvre de la politique sécuritaire sans se soucier des conséquences que ces nouvelles structures auront sur la vie des services et des agents qui les composent.<br/>J’oppose donc la mise en œuvre des politiques sécuritaires à la volonté de fidéliser les agents dans un département où, pour reprendre les mots de l’ancien Premier ministre Édouard Philippe lors d’un discours à la préfecture de la Seine-Saint-Denis, « tout est hors norme ». Les conditions de travail, l’accès à la formation, l’état des locaux et les cycles de travail permettant de concilier la vie professionnelle et la vie personnelle devraient constituer la priorité absolue. Un agent bien au travail est un agent épanoui et donc fidèle au poste qu’il occupe.<br/>En ce qui concerne les annonces bâtimentaires, la construction de deux nouveaux commissariats, à Épinay-sur-Seine et à Aulnay-sous-Bois, d’ici à 2023, n’a pas encore démarré bien qu’elle ait été annoncée depuis longtemps, avant même le plan L’État fort en Seine-Saint-Denis. Des efforts ont bien été réalisés au cours des dernières années pour la rénovation de certains locaux, mais de nombreux bâtiments restent à la limite de l’insalubrité. La priorité a été donnée à la rénovation des locaux de rétention, qui accueillent les gardes à vue, ce qui est compréhensible. Néanmoins, quand les locaux dédiés à la vie des agents ne sont pas rénovés, les fonctionnaires en déduisent que l’administration ne prend pas en considération leurs conditions de travail et sont tentés de demander leur mutation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045500" ordre_absolu_seance="63" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773378" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3945.60">Je vous prie de bien vouloir conclure, monsieur Guermeur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045501" ordre_absolu_seance="64" id_acteur="PA-121649" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773379" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Erwan Guermeur</nom>
+              <id>-121649</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3964.30">Le bien-être au travail repose également sur un management bienveillant. Or il ne l’est plus depuis l’instauration de la politique du chiffre, qui perdure. Nous le voyons aujourd’hui avec la mise en place des amendes forfaitaires : elles auraient dû rester un outil supplémentaire pour lutter contre le trafic de stupéfiants ; au lieu de cela, les agents ont désormais l’obligation d’en distribuer un certain nombre. L’objectif de cet outil était bon à l’origine puisqu’il s’agissait de lutter contre le trafic de stupéfiants en multipliant les actions tous azimuts. Le dispositif est aujourd’hui dévoyé. La politique du chiffre est une catastrophe dès lors qu’elle conduit à dévoyer des instruments utiles.<br/>Le bien-être au travail passe, enfin, par le bien-être dans la vie privée. Ne pas avoir à se soucier de trouver une place en crèche à des horaires atypiques et avoir accès à un logement digne de son nom, dans un secteur qui ne pose pas de difficulté si sa qualité de fonctionnaire de police est dévoilée, voilà, parmi d’autres, deux attentes pressantes des policiers de Seine-Saint-Denis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045503" ordre_absolu_seance="66" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773381" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4080.70">Nous en venons aux questions.<br/>La parole est à M. Stéphane Peu, du groupe de la Gauche démocrate et républicaine, à l’initiative de ce débat.<br/> Je donnerai ensuite la parole à François Cornut-Gentille, dont le rapport a plusieurs fois été évoqué.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045505" ordre_absolu_seance="68" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773383" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Peu (GDR)</nom>
+            <id>721270</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4085.22">Notre groupe a, en effet, été à l’initiative de ce débat sur l’évaluation du plan gouvernemental L’État plus fort en Seine-Saint-Denis et je veux en rappeler la raison, qui est simple. Nous sommes un certain nombre ici à être députés de ce département et à avoir travaillé étroitement aux côtés de François Cornut-Gentille à la préparation de son rapport d’information sur l’évaluation de l’action de l’État dans l’exercice de ses missions régaliennes en Seine-Saint-Denis.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045506" ordre_absolu_seance="69" id_acteur="PA721644" id_mandat="PM723342" id_nomination_oe="-1" id_nomination_op="-1446684" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773384" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Rodrigue Kokouendo</nom>
+            <id>721644</id>
+            <qualite>rapporteur du comité d’évaluation et de contrôle des politiques publiques</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4133.41">Vous citez tout le temps M. Cornut-Gentille, mais j’ai tout de même cosigné ce rapport avec lui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045507" ordre_absolu_seance="70" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773385" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Peu</nom>
+            <id>721270</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4138.83">Oui, tout à fait, je vous prie de m’excuser : le rapport de François Cornut-Gentille et Rodrigue Kokouendo !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045508" ordre_absolu_seance="71" id_acteur="PA721644" id_mandat="PM723342" id_nomination_oe="-1" id_nomination_op="-1446684" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773386" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Rodrigue Kokouendo</nom>
+            <id>721644</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4147.56">Merci.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045509" ordre_absolu_seance="72" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773387" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Peu</nom>
+            <id>721270</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4147.83">Ce rapport n’a pas été un énième rapport destiné à caler une armoire et nous sommes satisfaits d’avoir été partiellement entendus par le Gouvernement. Non seulement sa publication a été suivie par le discours du Premier ministre Édouard Philippe que vous avez rappelé, mais elle a conduit au plan L’État plus fort en Seine-Saint-Denis. Les députés de ce département sont cependant bien placés pour savoir qu’on ne peut pas se contenter d’annonces de mesures ponctuelles et que leur mise en œuvre effective doit faire l’objet d’un suivi attentif dans le temps.<br/>Les différentes interventions que nous venons d’entendre l’ont souligné et le rapport Kokouendo-Cornut-Gentille le disait déjà : tout ne se résume pas à la question des moyens, mais cette question constitue un préalable. Les nombreux observateurs cités dans le rapport ont reconnu l’importance des fonds déversés sur le département dans le cadre des politiques dérogatoires – celles de l’Agence nationale pour la rénovation urbaine (ANRU) notamment –, mais constaté également que les politiques de droit commun étaient si discriminatoires en Seine-Saint-Denis qu’aucune politique dérogatoire ne pouvait compenser la rupture d’égalité républicaine subie par le département en matière d’effectifs et de moyens.<br/>Tout ne se résume pas aux moyens, mais les moyens sont un préalable. Je ne reprendrai pas les exemples qui viennent de nous être donnés, notamment sur la police, mais ils sont éloquents. Alors que la population du département ne cesse de croître, il y a aujourd’hui moins de policiers par habitant qu’il n’y en avait il y a sept ans et même qu’il y a quinze ans. En matière de justice et d’éducation, la Seine-Saint-Denis est également le département de France le moins bien loti. C’est tout particulièrement révoltant quand on sait que les habitants de ce département populaire croient en la République, symbolisée par l’école, en qui ils placent tout leur espoir, par la justice, car les conflits y sont nombreux, et par la police, qui assure la sécurité et une vie digne et paisible à nos concitoyens. Quand les trois piliers de l’État de droit et de la République sont si fragilisés et maltraités – on peut, je crois, utiliser ce mot –, alors la République court le risque d’être mal-aimée dans un territoire où elle est pourtant la plus attendue et la plus espérée.<br/>En inscrivant ce sujet à l’ordre du jour de notre assemblée, en cette fin de législature et à l’aube d’une nouvelle, nous voulons dire au Gouvernement que nous reconnaissons ses efforts et son écoute après la publication du rapport Kokouendo-Cornut-Gentille, mais que nous veillerons, quelle que soit la prochaine majorité, à ce que les annonces qui ont suivi le rapport se traduisent pas des mesures sonnantes et trébuchantes.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. François Cornut-Gentille" qualite="rapporteur du comité d'évaluation et de contrôle des politiques publiques" id_acteur="PA923" id_nomination_oe="-1" id_nomination_op="-7229040" id_mandat="PM722904">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045513" ordre_absolu_seance="76" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773391" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4333.19">La parole est à M. François Cornut-Gentille, rapporteur du comité d’évaluation et de contrôle des politiques publiques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2045514" ordre_absolu_seance="77" id_acteur="PA923" id_mandat="PM722904" id_nomination_oe="-1" id_nomination_op="-7229040" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773392" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Cornut-Gentille</nom>
+              <id>923</id>
+              <qualite>rapporteur du comité d’évaluation et de contrôle des politiques publiques</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="4365.94">Je veux remercier le groupe de la Gauche démocrate et républicaine d’avoir inscrit ce débat important à notre ordre du jour. Ce débat est important pour la Seine-Saint-Denis, un département en grande souffrance et en grande difficulté, mais aussi pour la République.<br/>Je crois que ces dysfonctionnements menacent non seulement l’État de droit, mais aussi la République elle-même et le vivre-ensemble. Il est donc essentiel de parvenir à se mobiliser et, comme l’a dit Stéphane Peu, de le faire dans la continuité. Venant à la suite d’autres rapports sur la question, le nôtre a provoqué une sorte de déclic salutaire, mais si l’on en juge par les interventions de ce soir, la tâche est tellement lourde ! Je ne fais de procès d’intention à personne, ni aux gouvernements qui ont précédé, ni à l’actuel, ni à ceux qui suivront, mais je vois bien que nous faisons face à un phénomène d’une extrême complexité, qui résume toutes les difficultés françaises. Il y a partout des bonnes volontés, mais aussi des inerties absolument colossales. J’irai donc tout à fait dans le sens de Stéphane Peu : l’objectif doit être, par-delà les clivages politiques et les postures des uns et des autres, de poursuivre dans la durée le travail qui a été entamé. Il y va de l’avenir de la Seine-Saint-Denis, mais les enjeux vont bien au-delà de ce territoire.<br/>Je voudrais tout de même poser quelques questions aux intervenants. De votre point de vue – policier, magistrat, enseignant –, quel type de mobilisation serait de nature à faire bouger les choses ? Bien sûr, l’action des syndicats est indispensable, mais le problème est tellement vaste qu’il faut agir à tous les niveaux, car on voit bien que les mobilisations traditionnelles ne fonctionnent pas : il faut une mobilisation du Parlement, mais aussi des élus locaux et des fonctionnaires qui ont le sens du service public.<br/>Ensuite – c’est ma deuxième question –, quelle est selon vous, dans vos domaines respectifs, la priorité des priorités ? Enfin, comment considérez-vous la question centrale du turnover, évoquée davantage par le représentant de la police que par les autres intervenants ? Je sais bien que s’il y avait une solution magique, elle aurait été trouvée il y a un moment, mais quelle approche adopteriez-vous sur ce sujet vraiment crucial pour l’avenir du service public en Seine-Saint-Denis ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Erwan Guermeur " id_acteur="PA-121649" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045540" ordre_absolu_seance="81" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773396" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4495.89">La parole est à M. Erwan Guermeur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045541" ordre_absolu_seance="82" id_acteur="PA-121649" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773397" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Erwan Guermeur</nom>
+              <id>-121649</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4541.34">Je vous parlais tout à l’heure du millefeuille de politiques sécuritaires auquel chaque gouvernement ajoute une nouvelle couche – hier les ZSP, aujourd’hui les QRR. Chaque nouveau dispositif devient prioritaire et les policiers ne savent plus ce qui doit être traité en priorité. Une certaine perte de sens du métier en découle : on ne fait plus confiance aux agents qui occupent le terrain, qui connaissent très bien leur circonscription et qui savent pertinemment quelles thématiques doivent être traitées.<br/>Nous n’avons besoin de personne pour savoir qu’il y a un trafic de stupéfiants à tel ou tel endroit, et nous savons très bien comment ce type de problème se règle : ce n’est pas en interpellant dix fois par jour le même dealer qu’on éteint complètement un point de vente. Il faut faire confiance aux policiers, taper tous azimuts et occuper le terrain ; et pour cela, il n’y a pas de secret : il faut disposer d’effectifs en nombre suffisant. Or en Seine-Saint-Denis – je l’ai dit tout à l’heure –, il y a en 2022 trente policiers de moins qu’en 2015 : c’est très parlant !<br/>Je ne suis pas là pour opposer les forces entre elles, mais je vais prendre un exemple. La présence d’une unité d’appui – un véhicule de police chargé d’occuper un secteur donné – est indispensable pour agir efficacement : les gens ont besoin que la police soit présente dans les quartiers, car elle doit montrer qu’elle est à l’œuvre pour lutter contre le trafic de stupéfiants ou pour intervenir lorsque des séries de violences surviennent dans un secteur. Or ce type d’unité ne peut se consacrer entièrement à cette tâche : elle doit répondre aux appels de Police secours et aux diverses doléances qui doivent être traitées en permanence.<br/>Je pourrais aussi évoquer les BAC – brigades anticriminalité –, mais je ne vais pas mentionner toutes les unités. Nous ne disposons pas de la ressource nécessaire pour traiter simultanément toutes les missions qui se présentent à nous. Vous demandez quelle est la priorité : s’il y en a une, c’est le recrutement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Grégory Thuizat " id_acteur="PA-121659" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045545" ordre_absolu_seance="86" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773401" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4624.66">La parole est à M. Grégory Thuizat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045546" ordre_absolu_seance="87" id_acteur="PA-121659" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773402" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Thuizat</nom>
+              <id>-121659</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4666.83">Je vais essayer de fournir brièvement quelques réponses. D’abord, dans l’éducation nationale, la capacité de l’administration à mettre en marche l’ensemble des dispositions qui permettraient à la Seine-Saint-Denis de mieux mener à bien le service public d’éducation passe selon moi par une transparence qui n’existe pas, à l’heure actuelle, s’agissant des chiffres. Tout à l’heure, lors de mon intervention liminaire, j’en ai cité un exemple qui a trait à la question du remplacement : il me semble que n’importe quel citoyen, n’importe quelle citoyenne a le droit de connaître les chiffres du remplacement et du non-remplacement, et d’exiger de la part de l’éducation nationale la transparence la plus absolue en la matière. Il est ici question de la Seine-Saint-Denis, où le problème est particulièrement sensible, mais c’est d’ailleurs le cas dans tout département, quel qu’il soit. La transparence est donc l’un des fondements de la réponse que pourrait apporter l’administration dans l’éducation nationale.<br/>Vous demandez ensuite quelle est la priorité. Dans l’éducation nationale et en particulier en Seine-Saint-Denis, la priorité la plus absolue concerne sans doute l’accueil et la santé du public scolaire. En effet, le département ne compte qu’un médecin pour 12 000 ou 13 000 élèves, comme l’avait pointé le rapport d’information, et connaît une pénurie de personnels sociaux et de santé : cinquante postes d’infirmier ou d’infirmière n’étaient pas pourvus ou étaient découverts en octobre 2021, d’après un comptage réalisé au niveau de l’intersyndicale, et vingt-deux établissements du second degré n’avaient pas d’assistante sociale, sans compter les dizaines de postes qui devraient évidemment être créés pour répondre aux besoins du département.<br/>D’une manière générale, le suivi des élèves à besoins éducatifs particuliers (BEP), quels qu’ils soient, est essentiel. En matière d’inclusion scolaire, le département de la Seine-Saint-Denis compte par exemple un très grand nombre de notifications de la part de la MDPH, et il faudrait au minimum un doublement des postes d’enseignants référents pour assurer un meilleur suivi de la scolarité de ces élèves. Il faudrait aussi augmenter le nombre de places disponibles dans les établissements spécialisés, ITEP – instituts thérapeutiques, éducatifs et pédagogiques – et EREA – établissements régionaux d’enseignement adapté –, car il en manque. Il y a donc tout un pan de l’éducation nationale, celui qui lie l’école et la protection de l’enfance, qui reste sinon impensé, du moins sous-dimensionné en Seine-Saint-Denis.<br/>Enfin, s’agissant du turnover, la prime d’attractivité, dite de fidélisation, a été un geste pensé comme fort par le département pour les personnels qui y étaient éligibles. Néanmoins, la question de l’accès au logement en région parisienne reste cruciale pour les agents de la Seine-Saint-Denis,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045550" ordre_absolu_seance="91" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773406" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4790.15">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045551" ordre_absolu_seance="92" id_acteur="PA-121659" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773407" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Thuizat</nom>
+              <id>-121659</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4821.07">…et la FSU demande par exemple le doublement de l’indemnité de résidence pour les fonctionnaires d’État. Par ailleurs, il y a des agents et des agentes qui, bien que directement au contact du public dans le cadre de l’éducation nationale, ne sont pas éligibles à la prime ; je pense par exemple aux personnels administratifs qui suivent les élèves à la DSDEN – direction des services départementaux de l’éducation nationale –, et à d’autres encore.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Albertine Munoz " id_acteur="PA-121629" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045552" ordre_absolu_seance="93" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773408" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4843.60">La parole est à Mme Albertine Munoz.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045553" ordre_absolu_seance="94" id_acteur="PA-121629" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773409" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Albertine Munoz</nom>
+              <id>-121629</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4847.46">Pour rebondir à mon tour sur la question des priorités, je fais exactement le même constat que M. Guermeur : dans la justice, aujourd’hui, tout devient prioritaire. Il est beaucoup question du droit pénal et de la répression, mais je veux également parler de la justice civile ; en effet, comme l’a très bien souligné M. le bâtonnier, la Seine-Saint-Denis est un département qui compte de nombreux habitants fragilisés et qui est en demande de justice : la population a besoin d’être soutenue et l’équilibre doit être rétabli. C’est le cas notamment en matière locative et aussi en ce qui concerne le surendettement ; mais actuellement, un habitant du 93 qui se trouve en situation de surendettement attend deux ans avant de passer devant le juge des contentieux de la protection, ce qui est complètement inacceptable. Par conséquent, je ne peux pas répondre à votre question et vous dire quelle est la priorité en matière de justice, parce que tout devient prioritaire.<br/>Quant à savoir quel type de mobilisation pourrait être efficace, c’est là aussi une question qui nous préoccupe. C’est bien pour cela que nous avons publié une tribune dans un journal très médiatique : nous avons le sentiment que notre hiérarchie n’a pas la capacité de répondre à nos demandes. On peut aussi pointer le fait que le Conseil supérieur de la magistrature (CSM), notamment, ne dispose d’aucune autonomie budgétaire, alors que c’est l’organe qui nous représente, nous les magistrats ; en France, les crédits alloués à la justice sont votés par les députés.<br/>J’ai donc envie de me tourner vers vous et de vous dire : « Nous avons besoin de vous ! ». La justice a besoin que vous votiez des augmentations de budget pour disposer d’effectifs supplémentaires, que ce soit des magistrats ou des fonctionnaires de greffe. Sinon, on ne va pas s’en sortir ! Dieu sait à quel point nous retournons le problème dans tous les sens – les organisations sont sans cesse pensées et repensées – mais encore une fois, notre situation me fait exactement penser à ce que M. Guermeur décrivait dans la police : lorsqu’on renforce un service qui est en grande souffrance, on le fait en privant un autre service de ses effectifs, ce qui crée un cercle vicieux. Nous avons donc absolument besoin de moyens supplémentaires.<br/>Tout cela pose aussi la question de savoir quel type de service public nous voulons en France : ce que nous sommes tous en train de dire, c’est que les services publics sont en train d’être vidés de leur sens.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Amine Ghenim " id_acteur="PA-121619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045557" ordre_absolu_seance="98" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773413" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4956.20">La parole est à M. Amine Ghenim.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045558" ordre_absolu_seance="99" id_acteur="PA-121619" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773414" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Amine Ghenim</nom>
+              <id>-121619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4983.53">Je voudrais répondre à la question de M. le député Cornut-Gentille, qui demande ce que nous pouvons faire et quel type de mobilisation pourrait porter ses fruits. Je crois que l’échange que nous venons d’avoir, pendant une demi-heure, est vraiment révélateur de ce que nous pourrions faire. À mes yeux, la solution passe d’abord par une rupture avec le mode de gouvernance actuel : il faut définitivement que l’on prenne en compte l’avis et les propositions formulés par les acteurs de terrain, car on ne peut plus continuer à appliquer des décrets publiés le jour même pour le lendemain, comme c’est le cas dans le domaine de la justice.<br/>Par exemple, s’agissant de l’aide juridictionnelle, trois décrets ont été pris ces deux dernières années et il a fallu les appliquer dès le lendemain de leur publication, malgré tout ce qu’ils impliquaient en matière de formation et d’information des fonctionnaires, des avocats et de tous les acteurs concernés – nous avons à notre disposition un vivier d’associations et des syndicats. Un État moderne et démocratique est un État attentif au quotidien aux préoccupations des citoyens et des justiciables, et c’est vers cela que nous devons tendre. Tant que nous continuerons à travailler selon des approches technocratiques et complètement détachées des réalités que nous vivons quotidiennement, nous ne progresserons pas.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Rodrigue Kokouendo, quali  rapporteur du comité d'évaluation et de contrôle des politiques publiques" id_acteur="PA721644" id_nomination_oe="-1" id_nomination_op="-1446684" id_mandat="PM723342">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045560" ordre_absolu_seance="101" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5032.49">La parole est à M. Rodrigue Kokouendo, rapporteur du comité d’évaluation et de contrôle des politiques publiques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045561" ordre_absolu_seance="102" id_acteur="PA721644" id_mandat="PM723342" id_nomination_oe="-1" id_nomination_op="-1446684" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Rodrigue Kokouendo</nom>
+              <id>721644</id>
+              <qualite>rapporteur du comité d’évaluation et de contrôle des politiques publiques</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5080.08">Je remercie à mon tour, comme l’ont fait mes collègues, le groupe GDR pour avoir été à l’initiative de cette discussion. Je suis très heureux que le rapport que nous avons rédigé, mon collègue François Cornut-Gentille et moi-même, ait fait autant de bruit et suscité autant d’intérêt – intérêt ressenti par tous parce qu’il s’agit du premier rapport de ce type. Il a aussi créé beaucoup d’attentes et beaucoup d’espoirs ; ceux-ci sont à la mesure de l’impatience qu’éprouvent nos concitoyens s’agissant des mesures qui doivent être prises, dont ils espèrent qu’elles seront d’emblée applicables et immédiatement suivies d’effets.<br/>Je pense cependant qu’il faut donner du temps au temps et je tenais aussi à vous dire combien vos différentes interventions, à la fois éclairantes et engagées, m’ont intéressé. Je vous remercie donc pour ces mots et j’espère qu’ils nous permettront de poursuivre notre travail sur ces sujets.<br/>Nous vous avons demandé comment il serait possible de faire advenir plus rapidement une solution globale et harmonieuse, qui puisse vous satisfaire et satisfaire en même temps nos concitoyens dans les territoires. Notre rapport constitue un apport politique sur la question, mais on constate que vous éprouvez vous-mêmes des difficultés à nous proposer des solutions précises. C’est donc ensemble que nous devons construire les solutions adéquates.<br/>Madame Munoz, vous avez dit tout à l’heure que les services de l’État et les autres services chargés de la réponse politique, à savoir les collectivités – communes, départements et régions –, ne travaillent peut-être pas assez tous ensemble, et que c’est peut-être aussi cela qui explique les retards existants s’agissant du traitement de certains problèmes. Ma question est simple : vous qui venez du terrain, pouvez-vous nous dire comment ce travail pourrait être amélioré, que ce soit en matière de justice, de santé, d’éducation ou de police, pour que nous puissions avancer sur ces sujets qui vous tiennent à cœur et leur apporter des réponses concrètes ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Christophe Lagarde (UDI-I)" id_acteur="PA268019" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723092">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045565" ordre_absolu_seance="106" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773421" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5185.75">La parole est à M. Jean-Christophe Lagarde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2045566" ordre_absolu_seance="107" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773422" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde (UDI-I)</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5242.67">Je voudrais d’abord remercier à mon tour le groupe GDR, ainsi que nos collègues Kokouendo et Cornut-Gentille pour leur rapport. Cela fait vingt ans que j’ai l’honneur de siéger dans l’hémicycle et que tous les députés de Seine-Saint-Denis qui s’y sont succédé, quelle que soit leur couleur politique, crient que dans notre département, il n’y a pas d’égalité républicaine. Ce phénomène ne date pas de la présente législature : il n’y a pas d’égalité républicaine en Seine-Saint-Denis, c’est un vain mot et il est inutile de se plaindre des dérives qui s’y développent, qu’elles soient liées à la délinquance, à l’intégrisme ou à d’autres phénomènes. En effet, c’est l’absence d’égalité républicaine qui conduit à ce que nous entendons ce soir : des fonctionnaires à la fois héroïques et désespérés, parce qu’ils ne sont jamais entendus, et des parlementaires qui sont parfois un peu lassés de répéter les mêmes choses.<br/>Cette fois, deux députés non élus en Seine-Saint-Denis expliquent enfin que notre département est mal traité, mal aimé par la République, ce dont je les remercie. Il est d’ailleurs invraisemblable que ce type de débat ne puisse pas avoir lieu plus souvent et plus longtemps. Je fais confiance à ces collègues parce que nous, élus de Seine-Saint-Denis, ne sommes jamais entendus, au point d’avoir l’impression de passer pour des pleureuses. Nous ne sommes pas des pleureuses, nous constatons une réalité désespérante pour tous ceux qui vivent dans ce département, y travaillent et se défoncent pour lui.<br/>Cher collègue Kokouendo, le problème n’est vraiment pas l’absence de travail entre les collectivités locales, ou entre ces dernières et l’État. Dès ma première élection en Seine-Saint-Denis, à l’âge de 33 ans, j’ai appris une chose : on est tellement dans la mouise, pour le dire poliment, que les différences politiques ne comptent plus. On a beau être des adversaires politiques, on traite les sujets parce qu’on a les mêmes problèmes et qu’on n’a pas le choix.<br/>Pour en venir aux priorités, je pense que la première est de fidéliser les fonctionnaires et donc de répondre à leur besoin de logement – je m’appuie sur ma longue expérience de maire pour faire ce constat. Comment demander à un enseignant arrivant de La Réunion de se loger en trois jours dans le département, sans être capable de l’accueillir ? Alors que les prix sont invraisemblables, on doit favoriser…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045571" ordre_absolu_seance="111" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773150" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5365.84">Veuillez conclure, cher collègue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045572" ordre_absolu_seance="112" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773151" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5369.19">Je termine d’une phrase, madame la présidente. Le même problème se pose pour les avocats, et je ne parle même pas des policiers. Quant aux greffiers, madame Munoz, j’en connais aussi quelques-uns qui se trouvent dans des situations invraisemblables car ils vivent dans les pires cités de la Seine-Saint-Denis et sont reconnus au tribunal.<br/>Voilà la priorité. Tout le reste n’est qu’une question de moyens et de volonté. Il y a trois ans, nous disions vouloir au moins la même chose que les autres départements. Ce n’est toujours pas le cas, dans tous les domaines, comme vous venez d’en témoigner.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Testé (LaREM)" id_acteur="PA720854" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723096">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045574" ordre_absolu_seance="114" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773153" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5383.78">La parole est à M. Stéphane Testé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045575" ordre_absolu_seance="115" id_acteur="PA720854" id_mandat="PM723096" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773154" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Testé (LaREM)</nom>
+              <id>720854</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5393.50">En tant que député et membre de l’équipe municipale de Clichy-sous-Bois, j’avais une question très brève à poser à nos intervenants. Avec le maire de Clichy-sous-Bois, je plaide pour un rapprochement dans les mêmes locaux de la police et de la justice, afin d’améliorer les délais de traitement des dossiers. Nous préconisons, à titre expérimental, la présence de magistrats dans les commissariats. Qu’en pensez-vous ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Hubert Wulfranc (GDR)" id_acteur="PA722110" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045576" ordre_absolu_seance="116" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773155" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5419.48">La parole est à M. Hubert Wulfranc.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045577" ordre_absolu_seance="117" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773156" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc (GDR)</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5425.04">Sans être un élu de la Seine-Saint-Denis, je ne nie pas l’intensité préoccupante des difficultés que rencontrent certains services publics de ce département. Dans d’autres territoires, il existe aussi des poches de pauvreté où les services publics sont absents, même si c’est à une échelle plus réduite que celle d’un département.<br/>À cet égard, j’ai écouté avec intérêt votre témoignage sur l’importance de la transparence entre, d’une part, les administrés, et, d’autre part, les agents des services publics et les représentants de l’État. À mon avis, cette demande de transparence traduit un besoin de confiance dans l’exercice des fonctions régaliennes dicté par l’autorité : ces fonctions doivent pouvoir être appliquées intelligemment sur le terrain par les fonctionnaires quels qu’ils soient, loin de la vision technocratique que vous dénoncez.<br/>Mon interprétation est-elle juste ? Pour vous, la transparence signifie-t-elle confiance dans le dialogue social et dans les solutions déployées par les différents professionnels, en accord avec leurs interlocuteurs de l’État ?<br/>Quant aux moyens à allouer aux services publics, c’est une question abrupte qui ne fait pas débat. Cependant, il ne faudrait pas qu’une politique légitime menée dans un département floute tous les efforts à faire dans les autres territoires.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Amine Ghenim quali " id_acteur="PA-121619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045581" ordre_absolu_seance="121" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773160" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5509.25">La parole est à M. Amine Ghenim.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045582" ordre_absolu_seance="122" id_acteur="PA-121619" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773161" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Amine Ghenim</nom>
+              <id>-121619</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5564.34">Pour ma part, je ne vois pas d’inconvénient à la présence de magistrats au sein des commissariats. Cependant, comme Mme Munoz pourra vous le dire mieux que moi, les magistrats n’arrivent même plus à faire leur travail quotidien tant ils sont sollicités outre mesure. On peut donc envisager des rencontres entre policiers, magistrats et avocats, mais le problème est que les magistrats et les greffiers sont écrasés par le nombre des dossiers à traiter. Comment, dans ces conditions, dégager du temps pour de telles initiatives ? Si des mesures urgentes ne sont pas prises pour doter le service public de la justice des moyens adéquats, les difficultés persisteront.<br/>Nous avons d’ailleurs été très surpris d’entendre le garde des sceaux expliquer que la justice avait été réparée grâce au recrutement de quelques centaines ou de quelques milliers de contractuels. Ce n’est pas sérieux. Nous avons le sentiment de vivre dans un autre monde.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Erwan Guermeur quali " id_acteur="PA-121649" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045585" ordre_absolu_seance="124" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773164" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5643.93">La parole est à M. Erwan Guermeur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045586" ordre_absolu_seance="125" id_acteur="PA-121649" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773165" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Erwan Guermeur</nom>
+              <id>-121649</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5650.74">Il y aurait beaucoup à dire, mais je veux revenir sur le sens du métier de policier. Qu’un policier s’interroge sur l’action qu’il mène, cela signifie que cette mission régalienne pose un gros problème. En raison de l’instrumentalisation de l’institution policière par le politique, à des fins parfois électorales, le policier a davantage l’impression de répondre à une commande que de faire son travail en toute confiance.<br/>Le mot « régalien » est revenu à plusieurs reprises. Or nombre de communes de Seine-Saint-Denis créent leur police municipale. Les élus répondent à une demande de sécurité importante de la part de la population. En fait, l’État se désengage de sa mission régalienne d’assurer la sécurité de tous les citoyens.<br/>J’ai bien compris qu’il ne fallait pas trop parler des conditions de travail, mais c’est pourtant une thématique primordiale pour les fonctionnaires que je représente. À cet égard, j’ai une pensée pour les douze collègues qui ont mis fin à leurs jours depuis le début de l’année, même s’ils n’exerçaient pas en Seine-Saint-Denis : douze en un mois, cela signifie qu’il y a un problème difficile à régler dans l’institution policière.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Albertine Munoz quali " id_acteur="PA-121629" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045589" ordre_absolu_seance="128" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773168" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5687.71">La parole est à Mme Albertine Munoz.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045590" ordre_absolu_seance="129" id_acteur="PA-121629" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773169" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Albertine Munoz</nom>
+              <id>-121629</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5768.51">Nous vous parlons beaucoup de souffrance au travail, de notre manque de moyens. Soyons clairs : la plupart des personnes qui travaillent dans le service public, particulièrement en Seine-Saint-Denis, le font par vocation. Il ne s’agit pas de pleurer sur notre sort. Nous pleurons parce que nous voulions servir l’État pour finalement nous rendre compte que nous avons honte. Pour ma part, j’aimerais vraiment parler de ce sentiment. Nous avons honte d’être magistrats en Seine-Saint-Denis, de rendre la justice comme nous la rendons.<br/>J’aimerais beaucoup aller dans les commissariats – et je pense que mes collègues du parquet en seraient également ravis. En fait, nous n’avons même pas le temps de participer aux réunions partenariales qui sont pourtant fondamentales car elles permettraient de recréer du lien et surtout de la confiance. Nos partenaires et la population n’ont plus confiance. Nous avons d’ailleurs dit que nous comprenions que les Français n’aient plus confiance dans la justice. C’est quand même très grave que des magistrats fassent un tel constat.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Grégory Thuizat" id_acteur="PA-121659" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045592" ordre_absolu_seance="131" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773171" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5827.94">La parole est à M. Grégory Thuizat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045593" ordre_absolu_seance="132" id_acteur="PA-121659" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773172" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Thuizat</nom>
+              <id>-121659</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5837.29">Le problème vient non pas d’un manque de synergies entre les collectivités locales, territoriales et l’État, même s’il arrive que les calendriers ne soient pas toujours très bien alignés en raison de certains usages, mais d’un sous-dimensionnement. Prenons l’une des quatre mesures dédiées au volet éducation du plan L’État plus fort en Seine-Saint-Denis : l’affectation de 20 millions d’euros supplémentaires de soutien à l’investissement public, à raison de 2 millions d’euros par an pendant dix ans. L’État met sur la table une somme importante mais, finalement, peu élevée en comparaison de ce que mettent des collectivités territoriales dont c’est la compétence. Le conseil départemental de Seine-Saint-Denis va ainsi investir 1 milliard d’euros entre 2021 et 2030 dans un plan « éco-collège » pour construire huit collèges et en rénover quarante-trois. Le sous-dimensionnement des moyens accordés par l’État est patent.<br/>Venons-en à la transparence. Il s’agirait de faire un État plus fort en Seine-Saint-Denis ou, pour reprendre une expression qui revient souvent, d’y faire du « plus d’État » et du « mieux d’État ». Dans ce cas, peut-être faudrait-il commencer par ne pas l’affaiblir en prenant des mesures qui sont dans le dossier de presse présenté le 31 octobre 2019. En les découvrant, je suis tombé de ma chaise. Parmi les quatre mesures du volet éducation du plan L’État plus fort en Seine-Saint-Denis, figurait notamment l’extension à tout le département du dispositif de l’association Le Choix de l’école. Or celle-ci est un faux nez de l’Institut Montaigne, dont on sait qu’il n’a pas pour politique de faire de l’abondance en matière de services publics. Notons que cette association n’a publié aucun rapport annuel sur ses activités et ses financements depuis 2015. Sur son site, elle affirme que 50 % des collèges de Seine-Saint-Denis ont accueilli un enseignant contractuel du programme.<br/>Ce n’est pas en pavant le chemin d’officines aux intérêts privés que l’on renforcera l’État en Seine-Saint-Denis, même si les autorités académiques de Créteil se défendent, en indiquant qu’il s’agit d’une trentaine de personnels contractuels. Là encore, la transparence est assez faible. Quoi qu’il en soit, le « plus d’État » ne passe pas par le recours à des officines aux intérêts privés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045600" ordre_absolu_seance="135" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773179" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5973.93">Madame, messieurs, je tiens à vous remercier de votre participation à nos travaux. Avant la prochaine séquence, je suspends brièvement la séance.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045601" ordre_absolu_seance="136" code_grammaire="SUSP_BREVE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2773180" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue quelques instants, est immédiatement reprise.)</italique>
+        </texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Nadia Hai, quali  ministre déléguée chargée de la ville" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045602" ordre_absolu_seance="137" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773181" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6149.14">La parole est à Mme la ministre déléguée chargée de la ville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2045603" ordre_absolu_seance="138" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773182" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée chargée de la ville</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6159.17">Je suis très heureuse d’être parmi vous ce soir pour aborder un sujet aussi important que l’avenir de ce beau département qu’est la Seine-Saint-Denis. C’est un département dynamique, jeune et plein de ressources trop longtemps inexploitées – j’allais même dire qu’elles ont été inexploitées depuis plusieurs décennies. Aux grands discours, nous préférons une ambition nouvelle. Depuis près de cinq ans, nous avons traduit cette ambition du Président de la République en mesures concrètes, à la hauteur des enjeux et des attentes légitimes de ce territoire.<br/>Les travaux parlementaires issus du rapport des députés Rodrigue Kokouendo et François Cornut-Gentille ont permis d’adapter la réponse gouvernementale. Le travail interministériel relatif au plan d’action de dix ans mené par l’État en Seine-Saint-Denis s’inscrit dans la poursuite des engagements pris par le Président de la République le 22 mai 2018 concernant les quartiers prioritaires de la politique de la ville (QPV). Cette continuité témoigne de notre engagement politique en faveur de ces quartiers, de ce département et de ses habitants, puisque ce sont autant d’actions qui ont été menées et renforcées pour remettre ces territoires au cœur du pacte républicain. À travers le comité interministériel des villes (CIV) qui s’est tenu le 29 janvier dernier durant la crise sanitaire, nous avons tenu à aller plus loin pour garantir l’attractivité des quartiers et l’émancipation de chaque habitant qui y vit.<br/>Pour rendre la Seine-Saint-Denis attractive, nous devons améliorer le cadre de vie de ses habitants, ce qui passe évidemment par des services publics en nombre suffisant et des fonctionnaires expérimentés. Le Président de la République a annoncé, le 25 avril 2019, le déploiement d’un réseau de services publics polyvalents, les maisons France Services. La Seine-Saint-Denis comptabilise à ce jour quinze de ces espaces – dont trois itinérants –, situés notamment à Noisy-le-Grand, à Sevran, à Saint-Denis, à Bagnolet ou encore à Saint-Ouen. En outre, afin de fidéliser les agents des services déconcentrés de l’État, une prime spécifique de 10 000 euros versés après cinq ans de service révolus a été instaurée pour faire de ce territoire une étape attractive de leurs parcours professionnels.<br/>Un État plus fort doit répondre aux enjeux sanitaires d’accès aux soins. C’est pourquoi le plan prévoit de soutenir l’investissement dans l’aménagement des hôpitaux et l’installation d’équipements lourds, comme le projet hospitalo-universitaire Grand Paris Nord, la modernisation des urgences hospitalières afin d’améliorer l’accueil des patients d’ici à 2024 et le projet de groupement hospitalier de territoire (GHT) Grand Paris Nord-Est. Pour renforcer l’attractivité du département, notamment à travers son maillage médical, nous avons instauré une aide à l’installation des structures d’exercice collectif, dont douze maisons de santé pluriprofessionnelles ont pu bénéficier. Une mission d’appui aux centres de santé municipaux a également été lancée pour les rendre plus accessibles et plus efficients.<br/>À cet enjeu d’attractivité s’ajoute celui de la réduction des inégalités sociales et territoriales de santé, qui a fait l’objet de nombreuses mesures en 2020 et 2021, à commencer par l’engagement de 10 millions d’euros dédiés au déploiement des permanences d’accès aux soins de santé (PASS) – dont chacun sait qu’elles bénéficient aux publics les plus précaires – au sein des établissements hospitaliers.<br/>S’engager à améliorer l’attractivité de la Seine-Saint-Denis, c’est aussi garantir la sécurité et la tranquillité de ses habitants. Le ministère de l’intérieur s’est engagé à augmenter significativement, durant le quinquennat, le nombre de policiers présents dans l’ensemble du département, comme d’ailleurs dans l’ensemble du pays – je rappelle que l’objectif national consiste à créer 10 000 postes de police et de gendarmerie supplémentaires. Dans ce cadre, la Seine-Saint-Denis a bénéficié du renfort de 337 policiers du corps d’encadrement et d’application. Depuis l’arrivée de Gérald Darmanin au ministère de l’intérieur, deux quartiers de reconquête républicaine ont vu le jour dans le département, à Saint-Ouen et à La Courneuve, pour renforcer les équipes en place : soixante et onze postes de fonctionnaires ont ainsi été créés. Alors que le plan prévoyait également l’affectation de 100 officiers de police judiciaire (OPJ) supplémentaires en 2020 et 2021, ce sont finalement 133 OPJ qui renforceront les effectifs grâce à l’action du ministre : l’objectif a donc été largement dépassé.<br/>En même temps, parce qu’il faut assécher ce qui peut constituer un vivier de recrutement des trafiquants en tous genres et des séparatistes, nous menons une action déterminée en faveur de la prévention spécialisée – compétence qui, je le rappelle, relève des départements et non de l’État, même si ce dernier les a soutenus. La Seine-Saint-Denis ne fut d’ailleurs pas en reste, puisque, sur les 600 éducateurs et médiateurs formés à la prévention spécialisée, 72 le furent dans ce département. Les bataillons de la prévention ainsi constitués ont commencé à être déployés dans cinq communes.<br/>Parce que le pendant d’une sécurité assurée est une justice renforcée, nous agissons également pour une justice plus présente et efficace, en y consacrant les moyens financiers nécessaires. Le projet d’extension du tribunal judiciaire de Bobigny avance : il sera prêt pour 2025, comme s’y est engagé le Premier ministre. L’objectif consistant à créer trente-cinq postes de greffiers – ce qui représente une augmentation de 15 % des effectifs – et à pérenniser douze postes de magistrats supplémentaires dans les juridictions du département a également été tenu.<br/>Enfin, pour conclure sur la question de l’attractivité – s’agissant du moins du plan L’État plus fort en Seine-Saint-Denis, car la liste est loin d’être exhaustive –, nous avons considérablement augmenté les moyens dédiés à la rénovation urbaine. Sur les 12 milliards du nouveau programme national de renouvellement urbain (NPNRU), 2 milliards d’euros ont ainsi été alloués à la Seine-Saint-Denis. Nous avons aussi renforcé la lutte contre l’habitat indigne, en recrutant cinq inspecteurs de salubrité supplémentaires et en nommant, en 2020, une sous-préfète spécifiquement chargée de cette question. Nous avons évidemment l’humilité de reconnaître que la question de l’habitat indigne dans le département n’est pas réglée pour autant, mais nous avons au moins commencé à engager des moyens assez significatifs pour inverser la dynamique et redonner de la dignité à ses habitants.<br/>Le deuxième point que je souhaite évoquer concerne l’émancipation. Chacun ici, je le crois, s’accordera à dire qu’elle passe par deux leviers : l’éducation et l’emploi.<br/>Nous sommes d’abord convaincus que la réussite éducative des enfants et des jeunes constitue un pilier très fort de la politique d’émancipation. Là encore, nous agissons pour que la promesse républicaine soit tenue, grâce à une offre éducative de qualité – absolument nécessaire dans les territoires en difficulté – tenant compte des spécificités territoriales. C’est pourquoi, en Seine-Saint-Denis, toutes les classes de CP et de CE1 en REP ou REP+, ainsi que toutes les classes de grande section de maternelle situées en REP+, ont été dédoublées. Cette mesure concerne plus de 30 000 enfants du département. Parmi les professeurs que nous avons interrogés sur cette mesure, 82 % ont relevé une meilleure dynamique dans la classe et souligné l’amélioration des conditions d’apprentissage. Chacun d’entre vous, je le crois, a eu l’occasion de le constater dans sa circonscription, comme j’ai pu le faire au cours des visites ministérielles que j’ai effectuées.<br/>L’ambition éducative s’incarne aussi dans les Cités éducatives – Sylvie Charrière connaît très bien ce projet, qu’elle a contribué à mettre en œuvre. Ce dispositif, mené conjointement par les ministères chargés de la ville et de l’éducation nationale, consiste à accompagner chaque enfant dans son parcours éducatif, depuis la petite enfance jusqu’à l’insertion professionnelle, selon une méthode de travail associant l’ensemble des acteurs d’un territoire – l’éducation nationale, les associations, l’État – pour réfléchir à un vrai projet éducatif de territoire, identifier les besoins et proposer des solutions. Il est très largement plébiscité par les acteurs concernés, notamment par les élus locaux, puisque neuf Cités éducatives sont déjà labellisées en Seine-Saint-Denis, ce qui représente un budget de 4 millions d’euros par an pour le ministère de la ville. S’y ajoutent, depuis samedi dernier, celles de Bobigny, Romainville et Saint-Ouen, labellisées dans le cadre de la troisième vague d’extension du dispositif, qui compte désormais 200 Cités éducatives dans toute la France.<br/>L’autre fer de lance de notre action concerne l’emploi, dont nous avons fait une priorité de la relance. Parce qu’il est inconcevable que le lieu de résidence empêche une personne de trouver un emploi, nous avons renforcé, dans le cadre du plan « 1 jeune, 1 solution », le dispositif des emplois francs, afin d’apporter une réponse à la crise et de permettre aux jeunes des quartiers de bénéficier de la reprise. En 2021, 35 000 jeunes ont été accompagnés dans le cadre de ce plan et 133 millions d’euros ont été engagés. La seule garantie jeunes, gérée par les quatorze missions locales du département, a quant à elle bénéficié à un peu moins de 3 600 jeunes. Durant cette même année, 1 653 emplois francs ont enfin été créés – autant de jeunes embauchés à travers les dispositifs que nous avons créés.<br/>Nous avons par ailleurs quasiment doublé le nombre de contrats d’apprentissage durant les deux années écoulées et labellisé quatre établissements publics territoriaux de Seine-Saint-Denis comme Cités de l’emploi. Ces dernières bénéficieront chacune de l’enveloppe de 100 000 euros destinée à créer une alliance entre tous les acteurs de terrain – collectivités, opérateurs de l’État, missions locales, associations, acteurs économiques – pour identifier les publics les plus éloignés de l’emploi et leur proposer des solutions. Cette labellisation a été créée en 2021 : sa mise en œuvre est en cours et elle entrera en phase opérationnelle dès 2022.<br/>Il importe évidemment d’être à l’écoute des territoires – en tant que ministre déléguée chargée de la ville, j’en suis convaincue, comme vous l’êtes vous-mêmes. C’est ce que nous avons fait en recentralisant le financement du RSA. Nous sommes plusieurs à avoir assisté à la signature de la convention qui liera le Gouvernement et la Seine-Saint-Denis pendant la durée de l’expérimentation. Dès 2022, le département pourra dégager par an 40 millions d’euros de marge de manœuvre financière pour œuvrer en faveur de l’emploi et aider notamment les publics en insertion ou en réinsertion professionnelle. Encore une fois, l’État est engagé très fortement, aux côtés des collectivités, pour encourager cette dynamique de l’emploi.<br/>Je tiens donc à réaffirmer l’engagement du Gouvernement en faveur de la Seine-Saint-Denis. Ce département compte trente-trois QPV sur trente-six quartiers : c’est dire combien il est concerné par la politique de la ville ! Plus globalement, le plan L’État plus fort en Seine-Saint-Denis est à la fois une vision, ou un cap – permettre à chaque citoyen de prendre sa place dans la République – et une méthode, consistant à coproduire avec les acteurs locaux grâce à une mobilisation interministérielle. Il doit également déboucher sur des résultats, puisqu’il a vocation à avoir une incidence réelle et positive sur le quotidien des habitants des quartiers. Ce plan, qui date de 2019, a connu deux pleines années d’application. Si certains résultats sont concluants, nous devons continuer à travailler dans certains domaines : nous avons l’humilité de reconnaître que la tâche est grande, voire immense. Toutefois, la détermination est là : tous les ministères concernés sont mobilisés, aux côtés des élus locaux, pour répondre aux attentes très fortes des habitants de Seine-Saint-Denis. Nous le leur devons.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Peu (GDR)" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2045620" ordre_absolu_seance="154" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773200" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6993.55">Nous en venons aux questions. Je rappelle que la durée des questions et des réponses est limitée à deux minutes chacune, sans droit de réplique.<br/>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2045621" ordre_absolu_seance="155" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773201" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu (GDR)</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7010.82">Je me concentrerai sur un thème. Le grand mérite du rapport de Rodrigue Kokouendo et François Cornut-Gentille consiste à pointer, de manière objective que, dans trois domaines régaliens – l’éducation, la police et la justice –, la Seine-Saint-Denis subit une rupture d’égalité républicaine et que, du fait des politiques appliquées par les gouvernements successifs, les habitants de ce département reçoivent moins que tous les autres du territoire national. Les différentes politiques de la ville et les moyens octroyés à travers les mesures dérogatoires que vous avez énumérées n’ont jamais permis de compenser la faiblesse des politiques de droit commun, notamment dans le champ des missions régaliennes de l’État.<br/>Ma question est simple : les intervenants que nous avons auditionnés ont confirmé, chacun dans son domaine – police, justice ou éducation –, qu’aucun dispositif permettant de corriger la discrimination dans les moyens accordés n’a été appliqué de manière effective ces dernières années, ni même depuis le lancement du plan L’État plus fort en Seine-Saint-Denis.<br/>En 2007 – une année souvent citée parce que c’est celle de la RGPP, la révision générale des politiques publiques –, la Seine-Saint-Denis comptait 700 policiers de plus qu’aujourd’hui, en dépit de l’accroissement de la population. En janvier 2016, on dénombrait cinquante-trois magistrats au parquet ; en janvier 2022, le chiffre est le même. Il n’y en a donc pas un de plus, en dépit de la forte augmentation du nombre d’affaires. Il en va de même à l’éducation nationale.<br/>Certes, le rapport de François Cornut-Gentille et Rodrigue Kokouendo et le plan L’État plus fort en Seine-Saint-Denis ne résument pas tout à une question de moyens. Mais les moyens constituent un préalable, madame la ministre déléguée. Quand ce gouvernement se décidera-t-il enfin à remettre la Seine-Saint-Denis à niveau, s’agissant des effectifs de la police, de la justice et de l’éducation nationale, pour que la population de ce département soit progressivement traitée à égalité avec le restant du territoire national ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nadia Hai" qualite="ministre déléguée" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045685" ordre_absolu_seance="159" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773207" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7110.99">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045686" ordre_absolu_seance="160" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773208" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7158.22">Nous partageons le constat que vous avez dressé à propos de la situation antérieure, marquée par une faiblesse des missions régaliennes et par une politique de droit commun qui n’était pas à la hauteur des enjeux et des besoins de la Seine-Saint-Denis. Depuis cinq ans, nous essayons de rattraper le retard qui s’est accumulé pendant plusieurs décennies – car il ne date pas de 2017.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045688" ordre_absolu_seance="161" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773210" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7184.46">Il y a moins de policiers aujourd’hui qu’en 2007 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045689" ordre_absolu_seance="162" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773211" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7187.82">Puisque vous avez parlé de la justice, je vous donne les chiffres concernant les magistrats : 102 de moins sous la présidence de Nicolas Sarkozy, seulement 27 de plus sous celle de François Hollande et 698 magistrats supplémentaires sous celle d’Emmanuel Macron. De même, dans l’éducation nationale, 113 emplois d’enseignants ont été attribués pour le premier degré.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045691" ordre_absolu_seance="163" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7219.39">Pas en Seine-Saint-Denis !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045692" ordre_absolu_seance="164" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773214" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7220.54">Si, je vous parle de la Seine-Saint-Denis !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045693" ordre_absolu_seance="165" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773215" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7221.95">Il n’y a pas 698 magistrats supplémentaires en Seine-Saint-Denis !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045694" ordre_absolu_seance="166" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773216" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7224.52">Concernant la justice, c’est vrai, j’évoquais les chiffres nationaux, au temps pour moi. Mais ces nouveaux emplois font ensuite l’objet d’une répartition. Par exemple, quatorze postes de magistrats ont été créés à Bobigny entre 2016 et 2021. Ce chiffre concerne bien la Seine-Saint-Denis.<br/>J’admets que l’on dresse un état des lieux des besoins de la Seine-Saint-Denis. Je ne suis pas là pour vous dire que nous avons réglé tous les problèmes grâce aux mesures que nous avons prises. Cependant nous ne sommes pas d’accord sur les chiffres cités dans la première partie du débat. Selon nous, les forces de police sont en augmentation. Deux QRR ont été créés, ce qui correspond bien à un renforcement des forces de police sur le terrain. Nous pourrions nous livrer à une bataille de chiffres, nous n’arriverions pas à tomber d’accord.<br/>S’agissant du problème de l’égalité républicaine, que vous avez soulevé, je peux vous garantir que nous faisons le même constat que vous. Mais nous mettons en place des moyens pour inverser la dynamique, comme je l’ai souligné dans mon intervention liminaire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Rodrigue Kokouendo" qualite="rapporteur" id_acteur="PA721644" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723342">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045698" ordre_absolu_seance="169" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773220" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7299.40">La parole est à M. le rapporteur Rodrigue Kokouendo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045699" ordre_absolu_seance="170" id_acteur="PA721644" id_mandat="PM723342" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Rodrigue Kokouendo</nom>
+              <id>721644</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7312.59">Tout d’abord, je remercie à nouveau Stéphane Peu et le groupe GDR qui sont à l’initiative du débat de ce soir.<br/>Je rappelle ensuite – comme vous l’avez fait vous-même, madame la ministre déléguée –, qu’à la suite des préconisations du rapport d’évaluation que j’ai cosigné avec François Cornut-Gentille et du rapport remis par la préfecture, le Premier ministre Édouard Philippe a présenté le 31 octobre 2019 le plan L’État plus fort en Seine-Saint-Denis. Deux ans plus tard, la quasi-totalité des mesures prévues ont été engagées et certaines commencent à produire leurs effets.<br/>S’agissant des moyens consacrés à la sécurité et à la justice, ce plan a financé le recrutement d’officiers de police, de greffiers et de magistrats, ainsi que la création de nouveaux quartiers de reconquête républicaine – vous l’avez rappelé – et la rénovation, voire la construction programmée de structures judiciaires et de police.<br/>Concernant le volet éducatif du plan, 62 % des écoles de Seine-Saint-Denis sont aujourd’hui en zone d’éducation prioritaire et bénéficient pleinement des nouvelles mesures prises par le ministère de l’éducation nationale, de la jeunesse et des sports : scolarisation obligatoire dès 3 ans, dédoublement des classes, plan Mercredi, petit-déjeuner à l’école ou encore programme Devoirs faits. En outre, des mesures incitatives ont été mises en place en matière de recrutement de personnel éducatif et des investissements ont été consentis avec l’ambition affirmée de continuer à œuvrer pour la justice sociale.<br/>Quel premier bilan peut-on tirer de l’application de ces mesures en Seine-Saint-Denis ? Alors que nous avions souligné la difficulté de l’État à concevoir des outils adaptés pour résoudre les problèmes qui se posent dans ce territoire, malgré le financement et la mise en place d’une politique publique ciblée, comment notre rapport d’évaluation et le plan L’État plus fort en Seine-Saint-Denis ont-ils permis de surpasser, dans des conditions satisfaisantes, les difficultés que nous avons repérées ? Pensez-vous qu’ils puissent servir de référence pour d’autres départements ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045705" ordre_absolu_seance="175" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773227" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7444.36">Monsieur le député, je vous remercie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045706" ordre_absolu_seance="176" id_acteur="PA721644" id_mandat="PM723342" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773228" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Rodrigue Kokouendo</nom>
+              <id>721644</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7449.90">J’ajoute une toute dernière question : la coopération entre acteurs de l’éducation scolaire et périscolaire au sein des Cités éducatives a-t-elle permis de renforcer la prise en charge éducative en lien avec les familles ? <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nadia Hai, quali  ministre déléguée" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045707" ordre_absolu_seance="177" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773229" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7463.58">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045708" ordre_absolu_seance="178" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773230" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7467.97">Je tiens tout d’abord, monsieur le député, à saluer tout le travail que vous avez mené, aux côtés de François Cornut-Gentille, dans le cadre du rapport, et plus largement votre engagement au quotidien en faveur des quartiers.<br/>Depuis 2017, les moyens mis en œuvre pour l’accompagnement des élèves les plus défavorisés font l’objet d’une attention interministérielle constante. Si cette question est bien sûr au cœur des préoccupations du ministère de l’éducation nationale, de la jeunesse et des sports, elle concerne en réalité tous les ministères. S’agissant des quartiers prioritaires, mon ministère est bien sûr tout autant investi dans cette mission.<br/>Preuve de notre engagement en faveur des élèves et des familles de Seine-Saint-Denis, 113 postes d’enseignants ont été créés pour la rentrée scolaire 2021. Ces effectifs supplémentaires permettent de finaliser le dédoublement des classes de CP et de CE1 et de poursuivre celui des grandes sections. Aujourd’hui, plus de 2 000 classes sont dédoublées, ce qui correspond, comme je le disais tout à l’heure, à 30 000 enfants. Le taux d’encadrement des élèves s’en trouve également grandement amélioré : on compte en moyenne vingt-deux élèves dans les classes qui ne sont pas dédoublées, le taux d’encadrement étant généralement bien inférieur dans les écoles situées en zone d’éducation prioritaire.<br/>Depuis 2017, plus de 1 460 emplois en moyens d’enseignement ont été attribués au département – si vous le souhaitez, je pourrai vous communiquer les chiffres des cinq dernières années. Ces dotations ont permis des améliorations concernant la capacité de remplacement, le renforcement de l’accueil des enfants de 2 ans et la création d’emplois dédiés à la prise en charge d’enfants ayant des besoins particuliers.<br/>J’ajoute que le département a également reçu à la rentrée 2021 une dotation de 103 emplois supplémentaires visant à améliorer les conditions d’enseignement et l’offre éducative, confirmant ainsi la priorité donnée aux établissements du premier degré de Seine-Saint-Denis.<br/>Vous avez également fait allusion au travail avec les familles. En la matière, des mesures sont déployées dans le cadre des Cités éducatives, le travail qui y est mené incluant pleinement les parents d’élèves dans l’éducation scolaire de leurs enfants.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François Cornut-Gentille" qualite="rapporteur" id_acteur="PA923" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722904">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045714" ordre_absolu_seance="184" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773236" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7617.46">La parole est à M. le rapporteur François Cornut-Gentille.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045715" ordre_absolu_seance="185" id_acteur="PA923" id_mandat="PM722904" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773237" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Cornut-Gentille</nom>
+              <id>923</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7624.34">En écoutant les orateurs précédents, vous avez dû percevoir un hiatus, une rupture voire un gouffre entre leurs interventions et la vôtre. Ils ont en effet décrit une forme d’effondrement du service public. Policiers comme magistrats ont posé des questions très graves, s’interrogeant sur le sens même de leur mission. Ils ont l’impression qu’ils se sont engagés au nom d’une vocation mais que les conditions dans lesquelles ils remplissent leur mission de service public ne sont pas conformes à l’idée qu’ils se font de celle-ci. Les phrases qu’ils ont prononcées tout à l’heure me semblent très graves.<br/>Vous développez des éléments de langage en parlant d’émancipation ou d’attractivité. Certes, le Gouvernement a fait des choses, comme tous les gouvernements précédents. Que celui auquel vous appartenez ait agi mieux ou moins bien que les autres n’est pas le problème. Nous sommes confrontés à une situation de rupture d’égalité républicaine qui appelle une mobilisation très forte, au-delà des clivages politiques.<br/>Le rapport que j’ai cosigné avec Rodrigue Kokouendo a provoqué un électrochoc. Nous n’avions pas cherché alors à désigner des coupables. D’ailleurs, aujourd’hui, je ne vous pointe pas du doigt, je souhaite simplement que nous soyons tous conscients de la réalité. Notre rapport avait suscité une forte mobilisation au moment de sa publication, lorsqu’Édouard Philippe était Premier ministre. J’ai l’impression que c’est moins le cas aujourd’hui. J’aimerais donc qu’en tant que ministre déléguée chargée de la ville, vous remobilisiez vos collègues et le Premier ministre. Un tel travail serait utile.<br/>Ma seconde question porte sur le bilan et les chiffres. J’aimerais que nous puissions disposer d’un bilan très précis des vingt-trois mesures pour savoir lesquelles ont été mises en œuvre, lesquelles l’ont été partiellement ou ne l’ont pas été du tout, et pour quelles raisons. S’agissant des chiffres, il faut être complet. Lorsqu’on indique les arrivées, on doit aussi déduire du total les départs ; sinon on ne sait pas de quoi on parle. J’aimerais donc avoir un bilan chiffré très précis concernant la police et la magistrature, incluant non seulement les arrivées mais aussi les départs.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nadia Hai, quali  ministre déléguée" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045720" ordre_absolu_seance="189" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773242" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7678.44">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045721" ordre_absolu_seance="190" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773243" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7761.12">Monsieur le député, vous pourrez bien sûr obtenir les chiffres que vous demandez. Nous vous les ferons parvenir, poste par poste.<br/>J’aimerais revenir sur le début de votre intervention. Vous nous faites un procès lorsque vous évoquez l’effondrement des services publics, une situation dont vous semblez attribuer la responsabilité à cette majorité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045723" ordre_absolu_seance="192" id_acteur="PA923" id_mandat="PM722904" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773245" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Cornut-Gentille,</nom>
+              <id>923</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7776.63">Non, je ne crois pas avoir dit cela.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045724" ordre_absolu_seance="193" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773246" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7782.46">C’est en tout cas ce que j’ai entendu dans votre intervention.<br/>Je tiens à vous rappeler que, lorsque des postes de policiers et de gendarmes ont été détruits, cinq ans ne suffisent pas. Et ce n’est pas un remplacement poste pour poste qui résoudra le problème. Quand on supprime 12 500 postes de policiers et de gendarmes, comme l’a fait votre majorité lorsqu’elle était aux responsabilités, il en faut davantage, peut-être le double, pour restructurer et réorganiser les services, notamment de sécurité intérieure.<br/>Vous dites que Jean Castex, Premier ministre nommé il y a moins de deux ans, ne s’est pas mobilisé sur cette question. Or c’est lui qui a augmenté le nombre de QRR et c’est lui qui était en fonction lorsque nous avons décidé non seulement d’augmenter de 1 milliard d’euros le budget de la police et de la gendarmerie, mais aussi d’augmenter celui de la justice. Je rappelle que, depuis l’arrivée d’Éric Dupond-Moretti en 2020, le budget de la justice a augmenté de 16 %. La priorité donnée à l’autorité et à la justice de proximité a ainsi été réaffirmée.<br/>Le ministère délégué chargé de la ville a vu son budget progresser de plus de 20 % durant les deux dernières années. Vous pouvez faire le constat d’un désengagement de l’État et d’un effondrement des services publics mais il faut aussi rappeler l’action menée par le Gouvernement pour remédier à la déstructuration des services et à l’inertie de ceux qui l’ont précédé.<br/>Je l’ai dit tout à l’heure, nous nous attelons à notre tâche avec beaucoup d’humilité et, surtout, de détermination pour reconstruire tout ce qui a été déconstruit.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Christophe Lagarde (UDI-I)" id_acteur="PA268019" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723092">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045729" ordre_absolu_seance="198" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773251" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7893.91">La parole est à M. Jean-Christophe Lagarde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2045730" ordre_absolu_seance="199" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773252" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde (UDI-I)</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7900.61">Pardonnez-moi pour mes propos lapidaires mais je ne souhaite pas entrer dans un débat politicien tel que celui que je viens d’entendre. Je me fiche de ce qui s’est passé avant, j’ai grandi en Seine-Saint-Denis, j’y vis et je continue de m’y battre. Très franchement, je n’ai pas le sentiment que, sous ce quinquennat – pas plus que sous les précédents –, la situation se soit améliorée.<br/>La Seine-Saint-Denis, c’est, par rapport au reste du pays, deux fois et demie plus de personnes qui vivent dans un QPV, trois fois plus d’enfants en ZEP – zone d’éducation prioritaire –, 30 % de médecins en moins et deux fois plus de pauvreté. C’est aussi le département de France où la délinquance est la plus élevée.<br/>Face à cette situation, François Cornut-Gentille l’a rappelé, l’État est défaillant. Il a rompu avec l’égalité républicaine, non pas depuis cinq ans mais depuis vingt-cinq ou trente ans. Quand j’étais môme, c’était déjà ainsi. Tous les élus de Seine-Saint-Denis, quelle que soit leur couleur politique, poussent le même cri : donnez-nous la même chose qu’ailleurs ! Je fais un rêve : que, lorsqu’on parle de la Seine-Saint-Denis, on ne soit pas face au ministre chargé de la ville. Cela signifierait que les politiques menées dans ce département sont les mêmes qu’ailleurs. Or ce n’est pas le cas aujourd’hui – mais ce n’est pas de votre faute, à titre personnel, madame la ministre déléguée, ni de celle de votre majorité.<br/>Notre département compte moins de magistrats aujourd’hui qu’hier. Vous avez mentionné le recrutement de quatorze magistrats. Or ils avaient été nommés, en tant que remplaçants, par M. Urvoas lorsque celui-ci était garde des sceaux. Leur emploi a finalement été pérennisé mais ils étaient déjà là il y a plus de cinq ans. On avait besoin d’eux pour rattraper le retard car, par exemple, il fallait plus de deux ans pour obtenir une première audition avec un juge des divorces. Voilà la réalité.<br/>Nous ne sommes pas à la hauteur des enjeux, pas à la bonne échelle. Je ne dis pas que vous pouvez créer des magistrats en trente secondes. Cependant il manque aujourd’hui 60 à 80 magistrats et 150 à 200 greffiers – les intervenants l’ont dit tout à l’heure.<br/>Vous affirmez avoir fait un effort de rattrapage : c’est vrai. On a donné 20 millions aux collectivités pour la construction des écoles ; vu qu’il y a quarante communes, cela fait 500 000 euros par commune, soit une classe par ville. Pendant ce temps, l’État s’est accordé 100 millions pour ses propres bâtiments.<br/>S’agissant des BAC, je posais déjà la question en 2018. Pour les renforcer, on n’a pas ajouté des effectifs supplémentaires – vous avez parlé de 337 policiers en plus, mais je ne sais pas où ils sont, je n’en ai pas vu un seul au commissariat de Drancy : on a déshabillé d’autres unités.<br/>En matière de santé, s’agissant notamment des hôpitaux, la situation est catastrophique. On a découvert, à l’occasion de la crise sanitaire, que les lits de réanimation sont moins nombreux en Seine-Saint-Denis que dans les Hauts-de-Seine ou à Paris, alors même que la population y est plus pauvre et porteuse de polypathologies. Des quartiers entiers sont restés sans un seul médecin généraliste, sans parler des spécialistes. L’État agit dans ce domaine, mais les effets de cette action mettront du temps à se faire sentir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045626" ordre_absolu_seance="207" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773262" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7949.91">Veuillez conclure, cher collègue !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045627" ordre_absolu_seance="208" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773263" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8047.57">Madame la ministre déléguée, il est scandaleux de ne plus avoir accès à la préfecture pour demander un titre de séjour alors qu’on n’a pas d’ordinateur ou qu’on n’est pas capable de lire ni d’écrire le français. Il est scandaleux que le département ne compte aucun centre APEC – Association pour l’emploi des cadres –, alors qu’il y en a partout ailleurs, comme s’il n’y avait pas de cadres en Seine-Saint-Denis et qu’on était condamné à l’absence de mixité sociale. Le territoire a un besoin urgent de moyens pour lutter contre la subdivision pavillonnaire, parce qu’après les ghettos des immeubles, on en voit apparaître dans les quartiers pavillonnaires, investis par les marchands de sommeil. Les permis de louer ne résolvent pas tout, les problèmes sont nombreux. Il faut arriver à contrôler la population, ce qui n’est pas fait aujourd’hui. François Cornut-Gentille et Rodrigue Kokouendo reconnaissent, dans le rapport, ne pas savoir combien la Seine-Saint-Denis compte d’habitants, et la situation est en train de s’aggraver…</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nadia Hai, quali  ministre déléguée" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045628" ordre_absolu_seance="209" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773264" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8087.04">Je vous remercie ! La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045629" ordre_absolu_seance="210" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773265" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8091.59">M. Lagarde n’a pas posé de question…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045630" ordre_absolu_seance="211" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773266" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8096.70">Non, j’ai juste fait un constat !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045631" ordre_absolu_seance="212" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773267" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8101.01">Mais cela fait des décennies qu’on fait des constats. Lorsque je suis arrivée à l’Assemblée, en 2017, pour y siéger à vos côtés, on faisait des constats ; mais vous, vous en êtes resté au mode du constat alors que nous, nous sommes passés à l’action. C’est peut-être cela qui nous différencie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045632" ordre_absolu_seance="213" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773268" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8117.33">L’action, c’est ce que je propose aujourd’hui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045633" ordre_absolu_seance="214" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8118.81">Nous sommes aux responsabilités et nous agissons. Vous savez comme moi que, lorsqu’on décide de créer une maison de santé, cela ne se fait pas en un claquement de doigts : il faut recruter du personnel et attirer des médecins dans un territoire, par exemple au quartier La Noue à Bagnolet, où j’étais tout à l’heure, ou à Bobigny que j’ai visité récemment. Il faut rendre ces endroits attractifs pour persuader les professionnels, dont nous avons tant besoin, de s’y installer. C’est ce que nous faisons lorsque nous réinvestissons dans l’hôpital et que nous mettons en place l’accès aux soins à travers les PASS que j’ai évoquées tout à l’heure – un investissement de 10 millions d’euros. C’est ce que nous faisons en matière de services publics quand nous réinstallons, dans ces territoires désertés par la République, des maisons France Services qui assurent l’accès aux droits pour les habitants de ces quartiers et évitent la rupture d’égalité devant la loi. C’est ce que nous faisons quand nous rendons ces maisons itinérantes, comme à Noisy-le-Grand où elles se rendent en bas des tours à bord de bus. C’est à ce niveau-là que se situe notre action.<br/>Je parlais tout à l’heure de promesse républicaine ; je peux aussi vous parler de la façon dont nous faisons vivre la République dans nos quartiers. Nous le faisons au quotidien avec les acteurs de terrain, avec les élus et les associations. Fort heureusement, ils ne partagent pas le constat accablant que vous faites, ni ne prennent la posture consistant à victimiser en permanence les habitants de ces quartiers. Cette posture est insupportable pour la ministre déléguée que je suis,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045635" ordre_absolu_seance="216" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773271" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8215.50">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045636" ordre_absolu_seance="217" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773272" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8221.59">…mais elle l’est encore plus pour ces acteurs associatifs et pour les habitants de ces quartiers, qui souhaitent qu’on les voie comme des personnes normales qui aspirent à vivre normalement. Et c’est ce que nous leur permettons aujourd’hui. <italique>(MM. François Cornut-Gentille et Stéphane Peu protestent.)</italique> Ne vous énervez pas, monsieur Peu !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045637" ordre_absolu_seance="218" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773273" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8234.40">Je ne m’énerve pas, je rigole ! Je rigole jaune, mais je rigole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045638" ordre_absolu_seance="219" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773274" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8236.33">C’est ce que nous permettons lorsque nous réinvestissons ces territoires, lorsque nous intervenons avec l’ANRU, à coups de millions d’euros, pour leur donner un cadre de vie digne, que nous leur devons. <italique>(M. Stéphane Peu continue de protester.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain Ramadier (LR)" id_acteur="PA721286" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723224">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045639" ordre_absolu_seance="220" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773275" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8259.27">Monsieur Peu, je vous en prie ! La parole est à M. Alain Ramadier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045640" ordre_absolu_seance="221" id_acteur="PA721286" id_mandat="PM723224" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Ramadier (LR)</nom>
+              <id>721286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8267.13">Deux ans après les annonces du Premier ministre de l’époque, nous, parlementaires de Seine-Saint-Denis de tous les bords politiques – ce point est à souligner –, attendons les effets des mesures chocs qui avaient été annoncées. Car il est plus que difficile de constater aujourd’hui, sur le terrain, des améliorations significatives et les propos des orateurs de la table ronde précédente le confirment.<br/>J’aimerais vous questionner sur deux points particuliers. Le premier concerne les absences de professeurs non remplacées. La perte des cours sur l’ensemble de la scolarité des enfants de Seine-Saint-Denis était estimée, dans le rapport de nos collègues, à une année. Je crains malheureusement, vu le nombre d’interventions que j’ai dû faire à ce sujet depuis le début de la législature, qu’il n’y a pas eu d’amélioration significative dans ce domaine. Qu’en est-il ? Quelle action concrète le Gouvernement compte-t-il mener pour résoudre ce problème ?<br/>Je ne parle même pas des AESH !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045644" ordre_absolu_seance="224" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773280" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8290.04">Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045645" ordre_absolu_seance="225" id_acteur="PA721286" id_mandat="PM723224" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Ramadier</nom>
+              <id>721286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8324.99">J’ai récemment posé une question au Gouvernement sur ce point. La secrétaire d’État chargée des personnes handicapées m’a répondu qu’elle allait venir dans ma circonscription le lendemain ; quelques jours plus tard, le 26 octobre, je lui ai adressé un courrier, resté sans réponse. Dans ma ville, il y avait trente enfants sans AESH. Le directeur académique des services de l’éducation nationale (DASEN) est venu : nous avons essayé de trouver des solutions, mais le déficit est patent. Arrêtons de dire que l’école est inclusive, arrêtons de dire qu’on fait tout ce qui est possible pour les enfants handicapés ! Ce n’est pas la réalité.<br/>Le second point renvoie aux effectifs de police. En 2021, le commissariat de Bondy, dans ma circonscription, qui couvre également la ville des Pavillons-sous-Bois, a perdu dix-huit agents de police. Qu’en est-il aujourd’hui ? Comment se fait-il que nos commissariats subissent des pertes d’effectifs ? Y soustrait-on des agents pour les affecter ailleurs ? Donnez-nous des explications !<br/>Madame la ministre déléguée, je reconnais que le retard cumulé est important ; il est le fait de toutes les majorités qui vous ont précédés. Tous les collègues vous l’accorderont. Mais vous êtes aux affaires ! Lors d’un déjeuner à Matignon avec l’ensemble des parlementaires, de droite comme de gauche, le Premier ministre avait pris des engagements forts. Maintenant, à vous de répondre !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nadia Hai, quali  ministre déléguée" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045648" ordre_absolu_seance="228" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773284" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8382.36">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045649" ordre_absolu_seance="229" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773285" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8414.96">Vous avez raison : à nous de répondre d’une situation qui, elle non plus, n’est pas nouvelle. Nous en héritons et certains d’entre vous, qui ont été élus à l’occasion de cette dernière législature, en héritent tout autant.<br/>S’agissant des AESH, je n’ai pas connaissance de la situation que vous décrivez ce soir ; mais je peux vous dire qu’à l’échelle du territoire national, 19,5 % d’élèves sont entrés dans le dispositif d’école inclusive, qui accueille désormais 400 000 élèves en situation de handicap. Le statut des AESH s’est également amélioré. Bien sûr, on peut toujours faire plus, plus rapidement ; mais pour 125 000 AESH, la situation s’est améliorée. C’est important de le rappeler. De même, 1 300 classes ULIS – unités localisées pour l’inclusion scolaire – ont été créées sous ce quinquennat, et 250 structures dédiées à l’autisme. Oui, on peut toujours dire qu’on peut faire plus, plus vite. Nous essayons de rattraper ce retard mais, en cinq ans, on ne peut pas faire de miracles ! On le voit dans vos interventions respectives : le feu est partout, les urgences sont à tous les niveaux. Alors nous essayons d’y parer au mieux. Le Gouvernement a montré qu’il était à la manœuvre.<br/>Pour ce qui est des forces de police, nous ne sommes pas d’accord. Au 31 décembre 2021, 4 244 policiers étaient déployés sur le terrain, alors qu’en 2017…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045652" ordre_absolu_seance="232" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8464.47">C’est moins qu’en 2007 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045653" ordre_absolu_seance="233" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773289" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8497.92">Je vous parle de 2017 : il y en avait 3 990…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045654" ordre_absolu_seance="234" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773290" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8532.01">Et moi, je vous parle de 2007 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045655" ordre_absolu_seance="235" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773291" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8535.39">Monsieur Peu, voulez-vous parler sur un autre ton ? Du reste, vous n’avez pas la parole !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045656" ordre_absolu_seance="236" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773292" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8540.96">Je ne vous parle pas de 2017 mais de 2007. Aujourd’hui, il a 700 policiers de moins qu’en 2007 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045657" ordre_absolu_seance="237" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8553.43">Mais nous sommes d’accord avec vous ! La suppression de postes dans la police et la gendarmerie, sur tout le territoire national, a eu lieu avant ce quinquennat ! Reconnaissons aussi le rattrapage que nous avons réalisé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045658" ordre_absolu_seance="238" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8572.56">Ça a continué à baisser avec vous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045659" ordre_absolu_seance="239" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773295" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8577.30">Non, j’ai les chiffres : 4 244 par rapport à 3 990, on ne peut pas dire que ça a baissé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045660" ordre_absolu_seance="240" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773296" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8584.07">On ne va pas entrer dans un débat. Veuillez conclure, madame la ministre déléguée !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045661" ordre_absolu_seance="241" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773297" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8586.04">Si vous voulez, on peut entrer dans une bataille de chiffres, il n’en reste pas moins que les quartiers de reconquête républicaine, c’est nous ; l’amélioration des équipements et des conditions de travail des forces de police, c’est nous ; c’est ce gouvernement, monsieur Lagarde, qui travaille au rattrapage des véhicules – un élément très important dans les conditions de travail des forces de l’ordre. Le paiement du stock des heures supplémentaires, c’est aussi ce gouvernement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045662" ordre_absolu_seance="242" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773298" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8610.87">Tout va bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045663" ordre_absolu_seance="243" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2773299" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8611.48">Bien sûr, on peut toujours prétendre que nous n’en faisons pas assez, mais l’action est là et elle est déterminée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045664" ordre_absolu_seance="244" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773300" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8615.79">Madame la ministre déléguée, entendez au moins que sur les AESH, ce qu’on nous annonce est inexact !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Hubert Wulfranc (GDR)" id_acteur="PA722110" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045665" ordre_absolu_seance="245" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773301" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8620.30">La parole est à M. Hubert Wulfranc qui, seul, a la parole !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045666" ordre_absolu_seance="246" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc (GDR)</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8636.12">Une parole extérieure à la Seine-Saint-Denis, qui va peut-être rétablir un peu de sérénité.<br/>Trente ans de politiques de la ville, trente ans de contractualisation dans tous les domaines – entre l’État et les communes, désormais entre l’État et les intercommunalités ; trente ans où, en matière de compétences de l’État, le déport de responsabilités est de plus en plus fréquent, les moyens étant transférés aux collectivités locales. Celles-ci, bien sûr, prennent : elles prennent les projets de contrats en matière de santé, de sécurité publique ou d’éducation. Les besoins sociaux sont là et les populations sont sensibles aux améliorations dans ces domaines. Mais rien n’est gratuit dans les contrats : pour bénéficier de ces améliorations, il faut aligner de plus en plus de sous, il faut installer toujours plus de vidéoprotection, il faut sortir une maison de justice avec l’appoint de la logistique municipale ou une Cité éducative que vous préconisez, mais avec une majoration des soutiens pédagogiques de la commune. Il en va de même pour le contrat de santé. Au bout du compte, la contractualisation, totalement pervertie, fait cracher les collectivités de plus en plus. <italique>(Mme la ministre déléguée proteste.) </italique>Oui, elle fait cracher les collectivités, même avec un soutien de l’État.<br/>Ne pensez-vous pas qu’il convient de réviser totalement cette contractualisation et d’assumer pleinement la responsabilité de la nation en matière de compétences régaliennes ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nadia Hai, quali  ministre déléguée" id_acteur="PA722054" id_nomination_oe="PM773505" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045669" ordre_absolu_seance="249" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2773305" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8693.33">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045670" ordre_absolu_seance="250" id_acteur="PA722054" id_mandat="-1" id_nomination_oe="PM773505" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2773306" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Hai</nom>
+              <id>722054</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8771.29">Nous pouvons toujours améliorer les choses, gagner en efficacité et en agilité en corrigeant la contractualisation. Je me réjouis d’ailleurs du projet de loi relatif à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l’action publique locale, dit 3DS, qui a bénéficié d’une commission mixte paritaire (CMP) conclusive grâce au travail des deux assemblées, et qui amènera de la différenciation, de la décentralisation et de la différenciation dans nos territoires. C’est ce que demandent les collectivités territoriales et, grâce à ce texte, qui vient d’être adopté en CMP, ces progrès se feront d’autant plus facilement.<br/>Faut-il renforcer le partenariat entre l’État et les collectivités ? Ce sont les collectivités qui appellent de leurs vœux cette nouvelle méthode de contractualisation, qui demandent qu’on fasse confiance aux territoires. En effet, ce qui se passe à Rouen est différent de ce qui se passe à Aubervilliers, au Raincy ou à Trappes. Ces territoires étant différents, les collectivités nous demandent plus de souplesse et d’agilité.<br/>Donc, oui, nous allons aller vers beaucoup plus de décentralisation, conformément au souhait des collectivités. Nous allons renforcer la déconcentration des politiques et des moyens vers les services locaux de l’État. Nous allons créer de la différenciation dans les territoires. Nous assumons de donner suite au vœu – pour l’heure resté pieux – des collectivités et de leur permettre d’agir à leur guise au plan local.<br/>Vous avez mentionné le déport sur les collectivités territoriales, mais je ne pense pas que la recentralisation du RSA en soit un. C’est, au contraire, une mesure de solidarité en faveur du département de la Seine-Saint-Denis. Quand nous déployons des éducateurs et des médiateurs spécialisés sur le terrain, action qui relève de la compétence des départements, nous ne prétendons pas nous substituer à ceux-ci. Mais nous avons l’honnêteté de dire que, face à l’ampleur de la tâche en matière de délinquance juvénile qui frappe nos quartiers et nos territoires, nous allons renforcer la réponse et être aux côtés des collectivités pour mener la prévention spécialisée et redonner du sens à la vie de nos jeunes concitoyens.<br/>Enfin, pour ce qui est des investissements des collectivités territoriales, je ne peux pas vous laisser dire que nous asséchons les finances locales quand, pratiquement, toutes les dotations sont en augmentation. La DSU – dotation de solidarité urbaine et de cohésion sociale – est en hausse, tout comme la DSIL, la dotation de soutien à l’investissement local. La DGF – dotation globale de fonctionnement des communes – et la DPV – dotation politique de la ville – ont, certes, stagné pendant cinq ans, mais nous avons mis fin à des années de baisse de ces dotations aux collectivités territoriales.<br/>Le plan de relance, enfin, bénéficie aux territoires, dans une démarche de co-investissement : qui, en effet, mieux que l’élu local, sait ce qu’il faut exactement pour sa commune ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2045676" ordre_absolu_seance="256" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2773312" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8946.04">Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="2045678" ordre_absolu_seance="258" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2773314" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2045679" ordre_absolu_seance="259" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2773315" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8947.49">Prochaine séance, demain, à neuf heures :<br/>Questions orales sans débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2045680" ordre_absolu_seance="260" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2773316" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2045681" ordre_absolu_seance="261" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2773317" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

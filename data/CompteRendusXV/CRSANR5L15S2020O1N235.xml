@@ -1,0 +1,1826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N235</uid>
+  <metadonnees>
+    <dateSeance>20200611214500000</dateSeance>
+    <dateSeanceJour>jeudi 11 juin 2020</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>235</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200235</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Fri, 12 Jun 2020 21:05:43 GMT</horaireGmt>
+    <heureGeneration>2020-06-12T23:05:43.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2117197">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2117201">
+          <intitule>Exonération de TVA sur les masques, gels hydroalcooliques et solutions désinfectantes</intitule>
+        </titreStruct>
+        <para id_syceron="2117202"/>
+        <sommaire2>
+          <titreStruct id_syceron="2117204">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2117206">M. Éric Straumann, rapporteur de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+          <para id_syceron="2117227">Mme Agnès Pannier-Runacher, secrétaire d’État auprès du ministre de l’économie et des finances</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2117297">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2117299">M. Marc Le Fur</para>
+          <para id_syceron="2117336">M. Bruno Duvergé</para>
+          <para id_syceron="2117449">M. David Habib</para>
+          <para id_syceron="2117468">M. Michel Zumkeller</para>
+          <para id_syceron="2117475">Mme Jeanine Dubié</para>
+          <para id_syceron="2117249">Mme Émilie Cariou</para>
+          <para id_syceron="2117260">Mme Aina Kuric</para>
+          <para id_syceron="2117269">M. Fabien Roussel</para>
+          <para id_syceron="2117283">M. Daniel Labaronne</para>
+          <para id_syceron="2117807">M. Nicolas Meizonnet</para>
+          <para id_syceron="2117824">M. Éric Straumann, rapporteur</para>
+          <para id_syceron="2117842">Mme Agnès Pannier-Runacher, secrétaire d’État</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2117116">
+            <intitule>Discussion des articles</intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="2117118">
+              <intitule>Article 1<exposant>er</exposant></intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2117120">
+              <intitule>Article 2</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2117121"> 4</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2117127">
+              <intitule>Article 3</intitule>
+            </titreStruct>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2117131">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du jeudi 11 juin 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1625839" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2117197" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1625840" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117198" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1625841" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2117199" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures quarante-cinq.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625843" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2117201" valeur=" (n[[o]] 3006)">
+      <orateurs/>
+      <texte>Exonération de TVA sur les masques, gels hydroalcooliques et solutions désinfectantes</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625844" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2117202" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion d’une proposition de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625845" ordre_absolu_seance="7" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117203" valeur=" (n[[os]] 3006, 3050)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion de la proposition de loi de M. Éric Straumann et plusieurs de ses collègues visant à exonérer de taxe sur la valeur ajoutée les masques de protection, ainsi que les gels hydroalcooliques et toute solution désinfectante en lien avec la lutte contre l’épidémie de covid-19 (n<exposant>os</exposant> 3006, 3050).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625846" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2117204" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Éric Straumann" qualite="rapporteur de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA334654" id_nomination_oe="-1" id_nomination_op="-2894264" id_mandat="PM723566">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625847" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117205" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Straumann, rapporteur de la commission des finances, de l’économie générale et du contrôle budgétaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625848" ordre_absolu_seance="10" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117206" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Dans son allocution aux Français du 12 mars 2020, la première consacrée au coronavirus, le Président de la République déclarait : « Je compte sur vous pour respecter les consignes qui sont et seront données par les autorités, et en particulier ces fameux gestes barrières contre le virus. Elles sont, aujourd’hui encore, trop peu appliquées. Cela veut dire se laver les mains suffisamment longtemps avec du savon ou avec des gels hydroalcooliques. Cela veut dire saluer sans embrasser ou serrer la main pour ne pas se transmettre le virus. Cela veut dire se tenir à distance d’un mètre. Ces gestes peuvent vous paraître anodins. Ils sauvent des vies. C’est pourquoi, mes chers compatriotes, je vous appelle solennellement à les adopter. »<br/>Ces gestes sont, depuis, entrés dans notre quotidien mais pour limiter la propagation d’une épidémie, il faut que toute la population les adopte – et donc qu’elle soit en mesure de les adopter.  <br/>Cette proposition de loi vise à y contribuer. Le virus, identifié en janvier 2020 en Chine, dans la province du Hubei, est un nouveau coronavirus qui provoque une maladie nommée la Covid-19 par l’Organisation mondiale de la santé – OMS. Depuis le 11 mars 2020, l’OMS qualifie l’épidémie, désormais mondiale, de pandémie.<br/>Ce virus n’a pas encore révélé tous ses secrets. Face à l’absence de vaccin, et même de traitement, il convient de l’éviter. En cela, les mesures d’hygiène et de distanciation sociale sont vitales, au sens le plus littéral du terme.<br/>Mais alors, comment expliquer aux consommateurs captifs que les éléments indispensables pour assurer cette hygiène soient taxés ? Comment la partie la plus fragile de la population sera-t-elle à même d’assumer ce coût supplémentaire ? Il nous paraît plus que légitime de supprimer temporairement la taxe sur la valeur ajoutée – TVA – sur les masques et les solutions hydroalcooliques et désinfectantes.<br/>En commission des finances, j’avais proposé d’appliquer l’exemption de TVA jusqu’au 1<exposant>er</exposant> mars 2022, date qui reste inscrite dans la proposition de loi. Toutefois, compte tenu des remarques que j’ai entendues sur cette durée et des derniers développements de l’épidémie, je proposerai, par l’amendement n<exposant>o</exposant> 4, de ramener la date de fin du dispositif au 31 décembre 2020.    <br/>Grâce à la seconde loi de finances rectificative, adoptée en avril, la TVA sur ces produits est passée de 20 % à 5,5 %. C’est un bon début, mais notre groupe avait déposé un grand nombre d’amendements visant à supprimer la TVA. Il est insupportable que nos concitoyens soient assujettis à un impôt sur des biens, les masques et les gels, que la liberté de circulation retrouvée rend encore plus indispensables. L’État ne doit pas monétiser la santé des citoyens.<br/>La commission spécialisée « maladies transmissibles » du Haut Conseil de la santé publique indiquait dès 2011 que, « dans le contexte d’un risque élevé », celui du SRAS, « la revue systématique d’études observationnelles suggère une efficacité préventive élevée des masques anti-projection et des appareils de protection respiratoire. » Ce sont en effet les masques respiratoires ou chirurgicaux qui nous protègent et protègent les autres contre les protections de gouttelettes, quoi qu’ait pu dire le Gouvernement au début de l’épidémie.<br/>Or le prix des masques a explosé depuis le début de la crise sanitaire. Je rappelle que le prix des masques chirurgicaux a été bloqué – et non celui de l’ensemble des masques de protection – à 95 centimes, soit un niveau dix fois supérieur à celui constaté avant la crise. Les gels, quant à eux, tuent les bactéries et les virus sur nos mains, autres vecteurs principaux de la maladie. Cette proposition de loi est donc une proposition de pouvoir d’achat et de santé publique.<br/>Je sais que certains vont m’opposer le droit européen, qui encadre strictement le barème de la TVA dans les États membres de l’Union européenne. Pour autant, il est des situations où heureusement la politique retrouve son empire sur le juridisme.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625861" ordre_absolu_seance="20" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117219" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <id>720630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625862" ordre_absolu_seance="21" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117220" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous informe ainsi que certains de nos voisins ont déjà choisi de supprimer temporairement la TVA sur des équipements de protection : ainsi du Royaume-Uni, de l’Autriche et des Pays-Bas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625863" ordre_absolu_seance="22" id_acteur="PA720630" id_mandat="PM723020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Minot</nom>
+              <id>720630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et ils ont raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625864" ordre_absolu_seance="23" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117222" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>On comprend en effet que la Commission européenne aurait du mal, politiquement, à s’opposer à une telle entorse au droit européen, temporaire et justifiée par la santé des citoyens de l’Union.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625865" ordre_absolu_seance="24" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117223" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625866" ordre_absolu_seance="25" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117224" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Cette analyse m’a été confirmée par le représentant permanent de la France auprès de l’Union européenne, M. Philippe Léglise-Costa, que j’ai entendu la semaine passée. En outre, l’amendement visant à limiter l’exemption de TVA au 31 décembre 2020 permettra de sécuriser encore un peu plus le texte.  <br/>Rien n’empêche ainsi, juridiquement, l’adoption de cette proposition de loi. Les Français ne comprendraient pas que vous y soyez opposés. Je vous invite donc, chers collègues, à voter en sa faveur et je vous en remercie d’avance. <italique>(«</italique><italique> </italique><italique>Bravo</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» et applaudissements sur les bancs du groupe LR.)</italique><italique> </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État auprès du ministre de l'économie et des finances" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625868" ordre_absolu_seance="27" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117226" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès du ministre de l’économie et des finances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625869" ordre_absolu_seance="28" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117227" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État auprès du ministre de l’économie et des finances</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons eu ces dernières semaines l’occasion de débattre à plusieurs reprises de ce sujet, et plus largement de la question des masques.<br/>Cela vous tient à cœur, monsieur Straumann, puisque vous m’avez interrogée sur ce point lors des questions au Gouvernement, mais aussi lors d’un débat sur les masques. Je vous remercie de me donner cette occasion de rappeler le travail accompli par le Gouvernement pour fournir aux Français des masques en nombre, de qualité et au prix accessible.<br/>Je rappelle que 120 millions de masques sont mis en circulation gratuitement chaque semaine, pour servir notamment les plus précaires, mais également notre système de santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625872" ordre_absolu_seance="31" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117230" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça a pris du temps !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625873" ordre_absolu_seance="32" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117231" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Sur ces 120 millions de masques, il n’est pas question d’appliquer de la TVA : voilà une action concrète, et mesurable.<br/>Des comparaisons avec les pratiques européennes, il ressort que le prix des masques en France est plutôt favorable par rapport aux pays comparables souvent cités, tels que l’Autriche ou l’Allemagne, où le prix est en moyenne supérieur.<br/>La diffusion d’un nouveau type de masques, les masques textiles à filtration garantie, permet de parvenir à un prix à l’usage du masque quasiment identique au prix du masque chirurgical à usage unique avant la crise, soit 10 centimes. Voilà des actions concrètes de protection des Français que nous devons poursuivre, car, comme vous l’avez très bien dit, les gestes barrières ou l’utilisation des masques lorsque la distanciation sociale ne peut être respectée sont indispensables si nous voulons poursuivre au mieux le déconfinement et éviter que le virus ne circule à nouveau, puisqu’il n’a pas disparu.<br/>Je voudrais revenir plus précisément sur les enjeux en cause. Afin de garantir l’accessibilité des masques et des gels hydroalcooliques, nous avons déjà pris des mesures fortes en matière de TVA, et tout d’abord au niveau européen. En effet, la TVA y est fortement encadrée, ce qui en fait un niveau d’action essentiel – mais vous connaissez ces questions mieux que moi.<br/>Dès mars, afin de lutter contre les effets de la pandémie du covid-19, la France et plusieurs États membres ont demandé à la Commission européenne de pouvoir bénéficier d’une franchise des droits de douane à l’importation, y compris de la TVA, sur les marchandises importées pour lutter contre le coronavirus. Grâce à l’action conjointe que nous avons menée avec nos partenaires européens, la Commission a accepté cette demande dans une décision du 3 avril 2020, applicable jusqu’à fin juillet, en vertu de laquelle les marchandises importées, c’est-à-dire achetées dans les pays tiers à l’Union européenne, sont affranchies de droits et taxes pour certains bénéficiaires. Évidemment, cette franchise s’applique également aux dons.<br/>Ce premier volet facilite ainsi un approvisionnement en franchise de la TVA des établissements de santé, mais bénéficie aussi aux commandes et livraisons au profit de l’État et des collectivités locales. Cela permet in fine de réduire le coût des masques importés.<br/>Au niveau national, dans un premier temps, nous avons décidé d’encadrer les prix. J’insiste sur le fait qu’il s’agit du meilleur moyen de protéger le consommateur final, car sans cela, il n’y a aucune garantie qu’une baisse de TVA soit répercutée immédiatement sur le consommateur final. Une telle baisse peut se traduire par un simple accroissement des marges des entreprises et des producteurs étrangers, loin de l’objectif affiché. C’est pourquoi, dès le 5 mars, nous avons encadré les prix de vente des gels et solutions hydroalcooliques, pour éviter toute spéculation.<br/>Nous avons fait de même pour les masques chirurgicaux, début mai, à la suite du vote du taux réduit. En effet, à l’initiative de l’Assemblée nationale et du Sénat, lors de la discussion du deuxième projet de loi de finances rectificative – PLFR –, vous avez décidé de ramener la TVA pesant sur les masques mais également sur les gels et les tenues de protection à 5,5 % au lieu de 20 %. Le Gouvernement a été favorable à ces évolutions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625881" ordre_absolu_seance="40" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117239" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça a pris du temps !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1625882" ordre_absolu_seance="41" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117240" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ce taux très réduit s’appliquera jusqu’au 31 décembre 2021 pour les produits nécessaires à la lutte contre le covid-19, et a été appliqué de manière rétroactive à compter du mois de mars. Monsieur Le Fur, votre remarque ne tient donc pas.<br/>Ce deuxième volet témoigne de l’engagement du Gouvernement en faveur de la recherche d’un équilibre permettant de réduire la TVA sur ces produits tout en préservant une certaine sécurité juridique.<br/>Il me paraît également nécessaire de mentionner un troisième volet : le Gouvernement a encouragé les entreprises à effectuer des dons de matériel sanitaire en franchise de TVA, en accordant une dispense temporaire de régularisation de la TVA déduite.<br/>Ces mesures, qui résultent d’une instruction fiscale publiée au <italique>Bulletin officiel</italique>, concernent les dons de masques, gels hydroalcooliques, tenues de protection et respirateurs lorsqu’ils sont effectués au profit des établissements de santé, des EHPAD ou des établissements sociaux et médico-sociaux qui accueillent des personnes handicapées ou atteintes de pathologies chroniques. Elles concernent également les dons effectués au profit des professionnels de la santé, des services de l’État et des collectivités territoriales.<br/>L’ensemble de ces mesures montre toute la mobilisation et tous les efforts fournis par l’État dans le cadre de l’urgence sanitaire afin de réduire voire de supprimer la charge de la TVA sur les produits sanitaires.  <br/>Ces mesures ont permis d’assurer un prix accessible des masques pour nos concitoyens, comme le montrent les contrôles effectués par la direction générale de la concurrence, de la consommation et de la répression des fraudes – DGCCRF – sur une base hebdomadaire. Les premiers relevés de prix ont permis de s’assurer que l’encadrement des prix des masques chirurgicaux est globalement respecté : alors que le prix plafond est fixé à 95 centimes, le prix le plus couramment pratiqué est de 60 centimes. Il s’applique pour la majorité des masques.<br/>Ces prix sont comparables voire inférieurs à ceux des autres pays européens, dont ceux qui ont adopté un taux de TVA à 0 %, comme par exemple l’Autriche, où la chambre économique fédérale, la WKÖ, propose des masques chirurgicaux dont les prix à l’unité se situent entre 69 et 79 centimes, selon la quantité commandée. Pour rappel, l’Autriche a instauré une TVA à taux zéro, mais sans encadrer ses prix. Cela confirme bien le caractère aléatoire de la répercussion du taux de la TVA sur le prix final.<br/>En ce qui concerne les masques textiles, en particulier les masques grand public à filtration garantie, pour la plupart lavables et réutilisables plusieurs fois, dont l’impact écologique est bien moindre que celui des masques chirurgicaux et dont la production est beaucoup plus largement assurée en France, le prix à l’usage s’avère en moyenne inférieur au masque chirurgical. Environ un tiers des masques sont ainsi commercialisés à des prix allant de 10 à 30 centimes par utilisation – 10 centimes, c’était le prix du masque chirurgical avant la crise.  <br/>Nous partageons les motivations qui inspirent la présente proposition de loi – rendre plus accessibles les équipements de protection permettant de lutter contre le covid-19 – mais la jugeons inadaptée pour plusieurs raisons.<br/>Tout d’abord, hormis certains cas particuliers, l’exonération de TVA n’est pas autorisée par la directive européenne sur la TVA. Adopter une telle mesure conduirait la France à se doter d’une législation susceptible d’être sanctionnée par les instances communautaires. Rappelons à cet égard que la législation autrichienne à laquelle vous faites référence expirera dans les prochaines semaines : elle est loin d’avoir la même portée que la mesure que vous proposez, qui s’éteindra à la fin 2021.<br/>Je rappelle d’autre part qu’une exonération de TVA peut entraîner des effets contreproductifs pour les entreprises, car elle a forcément pour corollaire l’impossibilité de déduire la TVA en amont, sur les matières premières utilisées pour fabriquer le produit concerné. Les entreprises commercialisant sur le marché français des masques, du gel et des solutions hydroalcooliques exonérés de TVA perdraient donc toute possibilité de déduire la TVA grevant leurs achats. Cette perte du droit à déduction se répercuterait immanquablement sur les prix à la vente de ces produits, à rebours de l’effet recherché. En revanche, l’application d’un taux réduit de 5,5 % ne remet pas en cause le droit à déduction.<br/>Enfin, nous avons annoncé des mesures supplémentaires de soutien à l’achat de masques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625894" ordre_absolu_seance="5" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117291" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625895" ordre_absolu_seance="6" id_acteur="PA720754" id_mandat="PM723066" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117292" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Studer</nom>
+              <id>720754</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625896" ordre_absolu_seance="7" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme vous le savez, l’État prendra en charge 50 % du coût des masques grand public achetés depuis le 28 avril par les collectivités locales qui acquittent la TVA, dans la limite d’un prix de référence. Ces masques auront été commandés et livrés entre le 13 avril et le 1<exposant>er</exposant> juin. Une enveloppe hebdomadaire de 5 millions de masques lavables est destinée aux citoyens les plus précaires, par l’intermédiaire des centres communaux d’action sociale ainsi que des acteurs associatifs. En outre, une enveloppe hebdomadaire de 100 millions de masques sanitaires est destinée aux soignants et aux malades – non seulement les professionnels qui luttent contre le covid-19 mais aussi tous ceux dont l’activité les fait participer au système de santé.<br/>La présente proposition n’est ni sécurisée sur le plan juridique ni appropriée sur le plan économique. Surtout, le Gouvernement a déjà pris l’ensemble des mesures nécessaires afin d’assurer durant la crise l’accessibilité de l’ensemble de ces équipements à la population et aux entreprises.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625898" ordre_absolu_seance="9" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117295" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Reconnaissez que ce fut tardif !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625899" ordre_absolu_seance="10" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117296" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est pourquoi nous ne sommes pas favorables à ce texte. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625900" ordre_absolu_seance="11" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2117297" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Marc Le Fur" id_acteur="PA1874" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722598">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625901" ordre_absolu_seance="12" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117298" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Marc Le Fur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625902" ordre_absolu_seance="13" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2117299" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant des masques, vous avez échoué. Je ne m’adresse pas directement à vous, madame la secrétaire d’État, car vous avez rejoint le Gouvernement depuis peu de temps et n’êtes pas personnellement en cause. J’apprécie même l’énergie que vous déployez pour mettre en œuvre votre politique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625903" ordre_absolu_seance="14" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117300" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>M. Le Fur est élégant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625904" ordre_absolu_seance="63" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117301" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il n’empêche que le Gouvernement auquel vous appartenez a échoué avec une constance qui, si le sujet n’était pas si dramatique, forcerait l’admiration.<br/>Quel morceau d’anthologie ! Vous avez échoué en ne renouvelant pas le stock stratégique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625905" ordre_absolu_seance="65" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625906" ordre_absolu_seance="66" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117303" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez échoué en ignorant les informations qui nous parvenaient de Chine dès la fin de l’année dernière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625907" ordre_absolu_seance="67" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117304" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625908" ordre_absolu_seance="68" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117305" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez échoué en détruisant des masques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625909" ordre_absolu_seance="69" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117306" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625910" ordre_absolu_seance="70" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117307" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez échoué en bloquant des masques aux douanes à cause de procédures kafkaïennes, alors qu’il y avait urgence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625911" ordre_absolu_seance="71" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117308" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625912" ordre_absolu_seance="72" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117309" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’en suis moi-même témoin : une entreprise de ma circonscription a eu la générosité d’acheter des masques en provenance de Chine, qui ont été bloqués pendant plusieurs jours à l’aéroport alors que nous les attendions avec impatience.<br/>Vous avez également échoué en réquisitionnant des masques commandés et payés par des collectivités territoriales – je pense à la région Bourgogne-Franche-Comté.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625914" ordre_absolu_seance="74" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117311" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne et M. Bruno Studer</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est faux ! <italique>(«</italique><italique> </italique><italique>Non, c’est vrai</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625915" ordre_absolu_seance="75" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117312" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je saisis l’occasion pour saluer les collectivités, toutes tendances confondues, qui ont su réagir avec une diligence et une agilité, selon le terme désormais consacré, autrement plus efficaces que l’État.<br/>Vous avez échoué en interdisant aux pharmaciens de distribuer des masques à certains de nos compatriotes. Vous avez échoué en interdisant aux forces de l’ordre de porter des masques au plus fort de l’épidémie, alors qu’elles faisaient face à bon nombre de nos concitoyens. Je leur rends du reste un hommage tout particulier, en ces jours où elles sont très injustement attaquées. Nous nous souvenons des consignes données à certains membres des forces de l’ordre qui portaient des masques de ne plus le faire au motif qu’ils risquaient d’inquiéter nos concitoyens !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625917" ordre_absolu_seance="77" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117314" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les masques ne servent à rien, c’est Mme Ndiaye qui nous l’a dit !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625918" ordre_absolu_seance="78" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117315" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous continuez encore aujourd’hui d’échouer en commandant des masques en Chine, sauf erreur de ma part, alors que des entreprises françaises en disposent.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625919" ordre_absolu_seance="79" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117316" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625920" ordre_absolu_seance="80" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117317" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous nous expliquerez cela, car mon information est récente.<br/>Je crains même qu’une fois le déconfinement achevé, vous ne continuiez d’échouer en baissant la garde et en ne commandant pas les masques nécessaires : il faut en effet nous préparer à l’automne et à l’hiver, mais aussi aux années qui viennent, au cours desquelles nous pourrions faire face à de multiples difficultés épidémiques.<br/>Que les choses soient claires : certains avaient anticipé la situation. Je rends un hommage particulier à Mme Roselyne Bachelot qui, en son temps, fut attaquée pour excès de prudence. On se gaussait de sa politique !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625923" ordre_absolu_seance="83" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117320" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625924" ordre_absolu_seance="84" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117321" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mme Élise Lucet, qui sévit toujours sur les antennes du service public, expliquait alors les prétendues erreurs de Mme Bachelot. Disons-le pourtant aux Français : nous avons su prévoir ! Je me rappelle notamment le rapport que notre collègue Jean-Pierre Door a commis en 2005, dans lequel il envisageait le risque épidémique. Les gouvernements qui se sont succédé de 2005 à 2012 ont su tirer les conséquences de ces avertissements, notamment en créant l’établissement de préparation et de réponse aux urgences sanitaires – EPRUS –, un établissement public, adapté à la gestion logistique des masques et à l’entretien des stocks. Hélas, monsieur Habib, en dépit de toute l’estime que j’ai pour vous, je dois rappeler que le gouvernement que vous avez soutenu à l’époque socialiste a cassé cet outil qui avait le mérite de fonctionner – trop bien peut-être.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625925" ordre_absolu_seance="85" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117322" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non, c’est antérieur !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625926" ordre_absolu_seance="86" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117323" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bref, vous avez échoué sur toute la ligne et nos compatriotes ont dû faire face à une pénurie de masques. Vous avez du reste échoué en camouflant cette pénurie, en expliquant que les masques n’étaient pas importants. On a même entendu des autorités gouvernementales affirmer très officiellement, dans des émissions grand public, que tout cela relevait de la plaisanterie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625927" ordre_absolu_seance="87" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117324" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et la TVA, dans tout ça ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625928" ordre_absolu_seance="88" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117325" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tâchez au moins, madame la secrétaire d’État, de ne pas échouer sur la question de la TVA. Nous avons déjà déposé de multiples amendements sur des textes antérieurs. Je me souviens par exemple que le 17 avril, l’ensemble des oppositions réunies a demandé la réduction du taux de TVA. À l’époque, nous avions demandé un taux nul, ou à défaut un taux de 2,1 %, voire de 5,5 %. N’allez pas dire, madame la secrétaire d’État, que vous avez accepté cette solution avec enthousiasme ! Je me souviens de suspensions de séance et de propos tenus à forte voix dans les salons attenants à l’hémicycle, pour qu’enfin le Gouvernement cède. Voilà la réalité, nos compatriotes doivent en être pleinement conscients !<br/>La seule raison que vous nous avez opposée à l’époque pour refuser la TVA à taux nul tenait au fait que ce serait contraire aux règles européennes. Vous continuez d’ailleurs d’utiliser cet argument. Je vous disais pourtant, comme d’autres, que l’Europe est capable de s’adapter. Lorsqu’on croit un tant soit peu à l’Europe, on est convaincu qu’elle peut et qu’elle doit s’adapter ! C’est ce qu’elle fait, du reste : je me réjouis par exemple des accords trouvés entre le Président de la République et la chancelière allemande, qui ouvrent la voie à des évolutions inimaginables il y a encore quelques semaines. Je suis convaincu que l’Europe saura également adapter les principes relatifs au taux de TVA.<br/>Cela étant, des pays plus agiles, plus réactifs et peut-être plus soucieux de leur autorité et de leur indépendance ont déjà adopté des taux de TVA nuls. Le rapporteur l’a dit : c’est le cas du Royaume-Uni, des Pays-Bas, de l’Autriche et peut-être d’autres demain. Imitons-les, saisissons cette occasion de ramener la TVA à 0 %.<br/>Le taux de TVA reflète le caractère indispensable d’un bien. C’est pourquoi le taux de TVA applicable aux produits alimentaires est plus modeste que celui qui s’applique aux véhicules automobiles, par exemple. Il faut appliquer le taux le plus bas aux produits indispensables : voilà une logique cohérente et parfaitement audible par nos compatriotes.<br/>Le taux de TVA reflète une politique, une priorité. Si nous considérons qu’il faut nous préparer non seulement pour aujourd’hui mais aussi pour demain et après-demain, nous devons nous doter d’un mécanisme de TVA approprié – et encore sommes-nous raisonnables puisque nous ne prévoyons d’appliquer cette mesure que pour les mois qui viennent. Les masques sont essentiels. Il faut en déduire une fiscalité adaptée à leur caractère indispensable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625933" ordre_absolu_seance="93" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117330" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625934" ordre_absolu_seance="94" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117331" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous attendons ce geste raisonnable en faveur du pouvoir d’achat des Français. J’espère qu’après avoir rejeté aujourd’hui cinq propositions de loi du groupe Les Républicains, cohérentes et responsables,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625935" ordre_absolu_seance="95" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui, c’est systématique !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625936" ordre_absolu_seance="96" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117333" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous allons vous expliquer pourquoi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625937" ordre_absolu_seance="97" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117334" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…le Gouvernement et sa majorité – qui jusqu’ici est aux ordres, disons-le, bien davantage encore que les « godillots » d’autrefois – sauront évoluer. S’agissant des masques, vous avez échoué sur tous les plans. Tâchez au moins de ne pas échouer sur la question de la fiscalité ! <italique>(Applaudissements sur les bancs d</italique><italique>es</italique><italique> groupe</italique><italique>s</italique><italique> LR</italique><italique> et LT</italique><italique>.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Duvergé" id_acteur="PA720652" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723028">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625938" ordre_absolu_seance="98" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117335" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Duvergé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1625939" ordre_absolu_seance="99" id_acteur="PA720652" id_mandat="PM723028" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117336" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Duvergé</nom>
+              <id>720652</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de loi que nous examinons vise à exonérer de TVA les masques de protection, gels hydroalcooliques et solutions désinfectantes utilisés dans la lutte contre le covid-19. Je commencerai, comme en commission, par dire que je comprends les motivations des auteurs de ce texte, d’autant plus que le rapporteur, M. Straumann, est élu d’un territoire, le Haut-Rhin, qui a particulièrement souffert de l’épidémie.<br/>Toutefois, il me semble que cette proposition de loi n’est adaptée ni à la situation de crise aiguë que nous avons connue ni à la sortie progressive de l’épidémie que nous vivons. L’exposé des motifs indique que les prix des masques, gels et solutions désinfectantes auraient fortement grimpé entre février et mai. Or, hormis le cas, heureusement rare, de commerçants indélicats qui ont tenté de profiter honteusement de la pénurie initiale de masques et de gels pour pratiquer des prix prohibitifs, la tendance générale des prix de ces produits est celle d’une baisse constante.<br/>En outre, dès le mois d’avril, nous avons, par un amendement transpartisan, fait passer de 20 % à 5,5 % les taux de TVA s’appliquant aux masques et aux gels hydroalcooliques. À l’époque, nous avions du reste considéré qu’il s’agissait du meilleur compromis entre la baisse du taux de TVA et le respect du droit de l’Union européenne.<br/>De surcroît, le Gouvernement a décidé, le 1<exposant>er</exposant> mai, d’encadrer le prix de vente des masques chirurgicaux, qui ne peut plus dépasser 95 centimes, le contrôle de cet encadrement étant confié à la DGCCRF. C’est la raison pour laquelle, à partir du mois de mai, le prix des masques chirurgicaux s’est tout d’abord stabilisé, avant de baisser, notamment en raison d’une concurrence accrue. Désormais, pour un masque vendu à 65 centimes l’unité, la part de la TVA s’élève à 3,5 centimes ; pour un masque chirurgical vendu au prix le plus élevé de 95 centimes, elle est de 5,22 centimes. Ces montants sont d’une faiblesse insigne.<br/>Si je cite l’exemple du masque chirurgical, c’est parce que cet équipement plus que les autres a concentré les craintes et les attentes de nos concitoyens. C’est aussi le cas du gel hydroalcoolique et des solutions désinfectantes. Puisque le prix des équipements de protection personnels a considérablement baissé et que l’exonération de TVA, si elle était entièrement répercutée, ne permettrait de le réduire que très faiblement, la baisse de la TVA applicable à ces articles ne me semble pas pertinente, quel que soit l’avenir de cette pandémie.<br/>D’autre part, comme nous l’enseignent de nombreux débats antérieurs, par exemple sur la TVA applicable dans le secteur de la restauration, la baisse de la TVA ne se traduit que rarement par un bénéfice direct pour le consommateur. En effet, dans la majorité des cas, les commerçants ne répercutent pas les baisses de fiscalité sur les prix de vente. En réalité, le premier bénéficiaire est alors le vendeur. Or je ne crois pas que la situation actuelle des pharmaciens et de la grande distribution nécessite une réduction de la TVA.<br/>J’ajoute que l’exonération de TVA, si elle n’emporterait pas un gain de pouvoir d’achat, constituerait un manque à gagner pour les finances publiques, déjà cruellement mises à mal par la crise actuelle. N’oublions pas que les petits ruisseaux font les grandes rivières.<br/>Pour résumer, l’exonération de TVA sur ces équipements n’entraînerait pas de baisse significative de leur prix ; elle ne rendrait pas de pouvoir d’achat à nos concitoyens et ne serait qu’un moyen de faire payer à l’État une aide à la trésorerie des pharmaciens et de la grande distribution.<br/>C’est pourquoi les élus du groupe MODEM et apparentés ne voteront pas en faveur de cette proposition de loi. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. David Habib" id_acteur="PA1592" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723060">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1625995" ordre_absolu_seance="3" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117448" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. David Habib.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1625996" ordre_absolu_seance="4" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117449" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je m’exprime ici à la place de Jean-Louis Bricout, qui m’a confié la responsabilité de représenter le groupe Socialistes et apparentés à cette tribune.<br/>Votre proposition de loi, monsieur Straumann, procède de la même logique que celle qui a amené notre groupe à réclamer la gratuité des masques. Vous considérez qu’il s’agit de produits essentiels dans le cadre de la lutte contre l’épidémie et qu’il est nécessaire d’en réduire le coût pour les ménages, afin d’éviter les phénomènes d’évitement par contrainte financière.<br/>Ainsi, l’article 1<exposant>er</exposant> de votre proposition de loi vise à exonérer de TVA les opérations d’achat et de vente de masques, de gel hydroalcoolique et de toute solution désinfectante pouvant être utiles contre l’épidémie de covid-19. L’article 2 limite cette mesure dans le temps, puisqu’elle ne demeurerait applicable que jusqu’au 1<exposant>er</exposant> mars 2022.<br/>Nous voterons votre proposition de loi, malgré certaines réserves.  </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626001" ordre_absolu_seance="113" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117454" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626002" ordre_absolu_seance="114" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117455" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans le contexte politique et social actuel, certains symboles comptent. Je ne veux pas que notre groupe, qui a milité pour la gratuité des masques, se prononce contre un prix moins élevé pour les familles françaises, qui ont besoin de gestes de solidarité. Nous sommes ici, disons-le, des Français favorisés, mais pour beaucoup de nos concitoyens, et pas uniquement dans les familles les plus démunies, l’achat quotidien de masques pour tous les membres de la famille, dont les jeunes, représente un coût qui n’est pas anodin. Notre responsabilité est d’apporter notre concours à celles et ceux qui pourraient refuser d’acheter des masques pour une raison purement financière.<br/>Mais nous avons donc des réserves sur ce texte, et d’abord parce qu’il apparaît limité face à l’enjeu d’assurer l’égal accès des ménages aux dispositifs de protection : il y avait de nombreux autres éléments à prendre en considération. Là où le groupe socialiste réclamait la gratuité, ou au moins un encadrement strict des prix des masques et des solutions désinfectantes, vous proposez une exonération de TVA.<br/>En outre, l’intérêt de la proposition de loi semble limité,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626005" ordre_absolu_seance="117" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117458" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626006" ordre_absolu_seance="118" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117459" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…puisque nous avons déjà décidé d’abaisser le taux de TVA sur ces produits, fixé à 5,5 %. Le gain financier d’une exonération de TVA serait, pour les consommateurs, de 1,65 euro sur une boîte de 50 masques à 30 euros, et de 22 centimes d’euro sur un flacon de gel hydroalcoolique à 4 euros. Tout doit être fait pour les familles les plus modestes, mais reconnaissons que votre disposition n’a qu’un effet minime.<br/>Votre proposition de loi appelle aussi d’autres considérations. Madame la secrétaire d’État, il est temps non d’affronter l’Union européenne, mais de lui imposer une vision sanitaire. Oui, la doctrine sur les masques a été un échec, Marc Le Fur l’a rappelé : il faut désormais dire à nos concitoyens et aux autorités européennes que la France a décidé de généraliser, d’intensifier et de favoriser le port du masque pour lutter contre la résurgence de la pandémie.<br/>Nous avons donc décidé de soutenir ce texte, en réitérant nos réserves. Nous espérons, en cette fin de journée consacrée aux propositions de loi d’un groupe d’opposition, pouvoir rencontrer, enfin, l’écoute de la majorité. Le Président de la République envoie un courrier aux présidents de l’Assemblée nationale et du Sénat pour leur demander de l’aider à réfléchir et de favoriser la concertation, et en appelle matin, midi et soir à l’unité nationale : et pourtant, chaque proposition de l’opposition – aujourd’hui, elles émanent du groupe Les Républicains, hier elles provenaient d’autres groupes, dont le nôtre – se heurte au fait majoritaire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626008" ordre_absolu_seance="121" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117488" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <id>267330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626008" ordre_absolu_seance="122" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117487" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est cela qui détruit le Parlement, notre incapacité à nous écouter et à admettre que de bonnes idées puissent faire consensus.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626009" ordre_absolu_seance="123" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117462" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est bien de le reconnaître !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626010" ordre_absolu_seance="124" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117463" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Bothorel, quand vous étiez socialiste, vous pouviez être fier de l’attitude de votre groupe à l’Assemblée nationale : les propositions de l’opposition qui étaient acceptées étaient bien plus nombreuses ! Je siège dans cette assemblée depuis 2002, comme M. Zumkeller, et je peux vous assurer qu’un vrai changement s’est opéré dans ce domaine depuis 2017.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626011" ordre_absolu_seance="125" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117464" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626011" ordre_absolu_seance="126" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117490" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui, ça c’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626013" ordre_absolu_seance="127" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117466" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voilà pourquoi les membres du groupe Socialistes et apparentés voteront la proposition de loi. Nous appelons chacun d’entre vous à considérer son utilité pour nos concitoyens. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Zumkeller" id_acteur="PA267330" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723392">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626014" ordre_absolu_seance="128" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117467" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Zumkeller.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626015" ordre_absolu_seance="129" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117468" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <id>267330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La présente proposition de loi vise à exonérer de TVA les masques de protection, les gels hydroalcooliques et les solutions désinfectantes, qui sont devenus des produits de première nécessité. Puisqu’il importe que nos concitoyens puissent les acquérir à moindre coût, elle tombe à point nommé. Après le rejet de tous les textes de la journée, il serait bien que l’un d’entre eux sorte du lot : cela aurait pu en être un autre, mais vous seriez bien avisés de soutenir celui-là.<br/>Le signal envoyé serait d’autant plus important que nous sommes en phase de déconfinement, à un moment où nous avons encore plus besoin de ces produits.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626016" ordre_absolu_seance="131" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626016" ordre_absolu_seance="132" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117855" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <id>267330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si nous voulons que nos concitoyens acceptent de respecter les gestes barrières, faisons, nous aussi, un geste en évitant que l’État perçoive une taxe sur la vente de ces produits. Ce n’est pas le coût qui importe, ni pour celui qui les vend, ni pour celui qui les achète, mais c’est le symbole.<br/>David Habib l’a dit, la politique est aussi affaire de symboles : dans la situation extraordinaire et terriblement difficile que nous vivons, l’État doit faire un geste, en supprimant une taxe sur un produit indispensable. En la matière, la dimension symbolique est bien plus importante que celle de la fiscalité.<br/>Tous les groupes d’opposition avaient déjà milité pour que le taux de TVA sur ces équipements passe de 20 % à 5,5 % : cette mesure avait été obtenue de haute lutte, ce qui était déjà très bien.<br/>Quant à son acceptation par l’Europe… L’Europe, c’est nous ! En tout cas, il serait bon, un jour, que l’Europe, ce soit nous. L’Europe, pour une fois, est plutôt bienveillante sur le sujet de la TVA, et je vois mal la Commission européenne retoquer cette mesure de la part de la France. Elle ne le fera pas, ce serait trop malvenu. Alors pour une fois que l’Europe est disposée à nous tendre la main, prenons-la et déployons ce symbole !<br/>Évidemment, les baisses de TVA ne sont pas forcément répercutées dans les prix de vente, et même rarement. Mais dans le cas des masques et des solutions désinfectantes, le prix est réglementé ! L’État peut donc décider de baisser le prix autorisé, pour s’assurer que le citoyen profite de la mesure.<br/>Pour toutes ces raisons, le groupe UDI et indépendants soutiendra cette proposition de loi, qui touche davantage au symbole qu’à l’effet fiscal pur. Oui, nous traversons des moments difficiles, et oui nos concitoyens vont devoir assumer des dépenses supplémentaires pour acquérir ces produits, à un moment très difficile. Pour tous ceux qui vont perdre leur emploi, pour les entreprises qui vont souffrir, pour les associations qui vont avoir du mal à survivre : pour tous ceux-là, l’adoption de la proposition de loi serait un beau symbole.<br/>Je suis convaincu que nos collègues de La République en marche, qui sont, comme nous, des amoureux de la politique, vont faire de cette proposition de loi non pas un fait politique, mais un symbole. Ce serait bien, dans ce pays, que nous construisions à nouveau de la politique et que nous nous fiions un peu aux symboles. <italique>(Applaudissements sur les bancs des groupes LR et SOC.)  </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626021" ordre_absolu_seance="139" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117474" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1626022" ordre_absolu_seance="140" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117475" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après les deux mois de confinement auxquels notre pays a dû avoir recours pour éviter la propagation du virus covid-19, nous retrouvons progressivement des conditions de vie normales.<br/>Depuis mars, nos concitoyens ont eu le loisir d’intégrer les gestes barrières, qui font désormais partie de leur quotidien comme tous les équipements de protections : masques, dont l’efficacité dans la limitation de la propagation du virus ne fait plus débat, gels hydroalcooliques et autres solutions désinfectantes.<br/>L’approvisionnement en masques, qu’ils soient chirurgicaux, FFP2 ou grand public, restera l’une des failles de la gestion de cette crise sanitaire. Et à la pénurie passée, car c’est bien d’une pénurie qu’il s’est agi, succède désormais le trop plein, notamment de masques en tissu. Mais, au-delà des controverses, je crois qu’il y a un consensus pour considérer que la vente de ces équipements répond à une exigence d’intérêt général.<br/>La proposition de loi de nos collègues du groupe Les Républicains ambitionne de supprimer totalement, jusqu’au 1<exposant>er</exposant> mars 2022, la TVA applicable à ces produits, afin de donner les moyens à tous les Français de s’équiper.<br/>Remarquons que cette proposition est le prolongement d’un débat que nous avons eu lors de la discussion du second projet de loi de finances rectificative pour 2020. Les députés du groupe Libertés et territoires s’étaient alors mobilisés, avec d’autres, pour que la TVA applicable sur les masques et les gels hydroalcooliques soit abaissée, passant de 20 % à 5,5 %.<br/>Cette position se justifiait, car ces biens sont devenus des produits de première nécessité. La baisse de la TVA a ainsi diminué leur prix de près de 15 % : alors que le coût de la vie a significativement augmenté et que les salaires des ménages ont diminué avec l’indemnisation d’activité partielle, une telle décision nous paraissait de bon sens. Il s’agissait en effet d’une mesure de justice sociale, qui visait à garantir au plus grand nombre l’accès aux produits essentiels à la lutte contre la pandémie et qui complétait l’encadrement des prix décidé par le Gouvernement.<br/>Nous regrettons qu’aucune véritable réflexion n’ait été menée pour que les foyers les plus modestes bénéficient de masques de protection et de gels hydroalcooliques gratuits, comme le proposaient nos collègues des groupes Socialistes et de la Gauche démocrate et républicaine.<br/>Nous saluons la mobilisation des collectivités territoriales qui, depuis mars, ont pris l’initiative de distribuer gratuitement et massivement des masques à leurs habitants. Ne manquons pas de le rappeler : sur le terrain, depuis l’apparition de l’épidémie, les élus locaux sont à pied d’œuvre pour assurer la solidarité envers les plus modestes.<br/>La proposition de loi de nos collègues Les Républicains propose d’aller plus loin que ce que nous avions voté dans la loi de finances rectificative du 25 avril dernier, en exonérant totalement de TVA tous les masques de protection, gels hydroalcooliques mais également solutions désinfectantes utilisées dans la lutte contre le covid-19. Cette mesure s’applique déjà en Autriche, en Italie ou encore en Espagne, sans que la Commission européenne n’y trouve à redire.<br/>Un premier écueil doit néanmoins être souligné : selon votre rédaction, tous les types de masques utilisés dans la lutte contre le covid-19 seraient concernés. Pourquoi ne pas prendre en compte des critères de performance, qui conféreraient une certaine efficacité sanitaire à cette mesure ? Rappelons que la loi de finances rectificative réservait le taux réduit de TVA à une liste de masques établie par arrêté, lequel a d’ailleurs été publié le 7 mai. À ce propos, madame la secrétaire d’État, il reste encore à publier l’arrêté sur les gants, les blouses et les charlottes. Nous comprenons mal pourquoi sa publication tarde autant, mais peut-être pourrez-vous nous apporter des explications ?<br/>Enfin, la suppression de la TVA, si elle n’était pas assortie de mécanismes d’encadrement, pourrait n’avoir aucun effet sur les prix de vente, contrairement à l’objectif fixé. C’est pourquoi nous souhaitons que la proposition de loi soit adoptée, puis complétée, par décret, par une diminution à due concurrence du plafond des prix des produits. Cela garantirait l’efficacité de la proposition de nos collègues du groupe Les Républicains.<br/>Ces réserves étant posées, les députés du groupe Libertés et territoires soutiendront majoritairement ce texte. <italique>(Applaudissements sur les bancs des groupes LR et SOC.)  </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Émilie Cariou" id_acteur="PA720298" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722922">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625800" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117248" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Émilie Cariou.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625801" ordre_absolu_seance="2" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117249" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je comprends l’objectif que visent nos collègues du groupe Les Républicains. Si je souscris à l’ambition de la proposition de loi, qui vise à aider à l’achat de masques de protection, de gel hydroalcoolique et de divers produits de première nécessité sanitaire, je ne suis pas convaincue par l’outil retenu, l’instauration d’un taux nul de TVA. Le groupe Écologie Démocratie Solidarité est favorable à la distribution gratuite de masques, notamment dans les transports en commun, ainsi qu’aux familles les plus démunies. Reste que la proposition de loi de nos collègues du groupe Les Républicains n’épuise pas le sujet. Ceux qui pourront acheter des masques continueront à le faire, sans que le différentiel de taxation ne permette à ceux qui ne le peuvent pas d’y accéder plus facilement.<br/>L’argumentaire développé tout à l’heure par Mme la secrétaire d’État me semble plus intéressant, et j’y souscris. L’encadrement du prix des masques me semble bien plus sécurisant pour en limiter l’inflation, contre laquelle un taux de TVA réduit à zéro ne constitue en rien une garantie. Or la présente proposition de loi ne prévoit aucun encadrement des prix. Comme vous pouvez le constater, madame la secrétaire d’État, la régulation du marché a parfois un intérêt ! Je me réjouis que nous tombions d’accord sur ce point ce soir.<br/>Malheureusement, nos collègues du groupe Les Républicains n’ont pas spécialement encadré l’évaluation du dispositif qu’ils proposent, ce qui aurait consisté à prévoir l’obligation, dès l’éventuelle adoption du texte, de procéder à son évaluation plus complète, en comparant à l’échelon européen, dans le contexte de la crise sanitaire que nous connaissons, le prix des biens de santé et les flux fiscaux afférents.<br/>À ce sujet, je salue plus particulièrement le travail d’un autre parlementaire du groupe Les Républicains, rapporteur général de la commission des finances du Sénat, Albéric de Montgolfier, qui a plaidé, à juste titre, en faveur d’une extension du taux réduit de TVA à 5,5 %, adopté dans le cadre du deuxième projet de loi de finances rectificative pour 2020, aux tenues de protection. Tel n’était pas le cas récemment encore, madame la secrétaire d’État. J’espère donc que cette disposition est enfin appliquée.<br/>Enfin, vos propositions de loi, chers collègues du groupe Les Républicains, celles examinées cet après-midi comme les autres, dont celle-ci, à quelques dizaines de millions d’euros, font reposer leur financement sur les paquets de tabac. Il vous faudra indiquer comment l’empilement de niches fiscales, que vous souhaitez créer ou amplifier, est financé au fil des textes que vous défendez. Je ne vois là rien qui permette de financer à long terme notre système de santé, notamment notre service public hospitalier.<br/>Pour notre part, nous pensons qu’il vaut mieux aider les ménages en état de précarité, plutôt qu’appliquer un taux de TVA unique à tout le monde. Chers collègues, j’espère que vous serez nombreux à nous suivre en faveur des aides à la consommation. Je regrette que nos collègues du groupe Socialistes et apparentés aient oublié que la justice sociale ne consiste pas à aider tout le monde avec des taux uniques d’imposition, mais à aider ceux qui sont dans la précarité. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625808" ordre_absolu_seance="157" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117256" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et voilà !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625808" ordre_absolu_seance="160" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117858" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vous qui avez supprimé l’ISF, pas nous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625809" ordre_absolu_seance="161" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117257" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Entre la politique de l’offre et celle de la demande, en période de crise, la seconde fait du bien.<br/>En dépit de la bienveillance dont fait preuve M. le rapporteur, que je remercie de mettre le sujet sur la table, notre position sur la proposition de loi est la suivante : nous devons travailler à améliorer la politique publique nécessaire pour l’attribution de biens sanitaires de première nécessité ; la solution proposée ici ne permet pas d’avancer correctement sur ce sujet. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Aina Kuric" id_acteur="PA720214" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722894">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625811" ordre_absolu_seance="163" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117259" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aina Kuric.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625812" ordre_absolu_seance="164" id_acteur="PA720214" id_mandat="PM722894" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117260" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aina Kuric</nom>
+              <id>720214</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec la crise sanitaire provoquée par l’épidémie de covid-19, et particulièrement depuis le déconfinement, les masques de protection et le gel hydroalcoolique sont devenus des produits du quotidien. Depuis le 11 mai dernier, les masques sont obligatoires dans les transports en commun et dans certains établissements recevant du public. De nombreux Français ont fait le choix de porter un masque pour chacun de leurs déplacements.<br/>Afin d’éviter tout excès parmi les distributeurs, le Gouvernement a fait le choix d’en encadrer le prix, plafonné à 95 centimes maximum l’unité pour les masques, et à 2,64 euros le flacon de 100 ml pour le gel hydroalcoolique. Cet encadrement devait prendre fin le samedi 23 mai 2020. Le 22 mai, le Gouvernement a modifié le décret afférent, prolongeant l’encadrement du prix des masques chirurgicaux tout au long de l’état d’urgence sanitaire, soit jusqu’au 10 juillet 2020.<br/>La hausse de la production de masques et de gel hydroalcoolique a entraîné, par un phénomène naturel de concurrence, une baisse des prix. À l’heure actuelle, un masque jetable coûte en moyenne 65 centimes. Aux côtés des collectivités territoriales, l’État s’est engagé dans une démarche très concrète, pour aider les Français à se protéger, prenant en charge 50 % du prix des masques qu’elles ont commandés après le 13 avril. Elles fournissent une part importante de la consommation d’équipements sanitaires nécessités par l’épidémie de covid-19. De nombreuses communes ont fourni gratuitement des masques à leurs administrés.<br/>Le Gouvernement n’a jamais hésité à prendre les mesures qui s’imposaient pour protéger notre santé. Les investissements qui devaient être réalisés l’ont été. Je ne doute pas que cette assemblée, demain encore, ne faiblira pas lorsqu’il faudra prendre des engagements forts pour garantir la sécurité sanitaire de nos concitoyens.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625816" ordre_absolu_seance="168" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117264" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625817" ordre_absolu_seance="169" id_acteur="PA720214" id_mandat="PM722894" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117265" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aina Kuric</nom>
+              <id>720214</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Toutefois, la mesure proposée ici semble peu utile. Pour l’acheteur final, l’économie réalisée relève du minime. Le taux de TVA a d’ores et déjà été abaissé à 5,5 % sur les masques et les gels hydroalcooliques, soit au même niveau que le taux applicable aux produits de première nécessité. Le ramener à 0 % aurait pour effet d’abaisser le prix plafond de ces produits de respectivement 5 et 14 centimes.<br/>De surcroît, cette baisse, en plus d’être minime, est toute théorique. En effet, rien ne garantit qu’une diminution du taux de TVA sera répercutée sur le prix de vente final. Par le passé, nous avons pu voir que le lien entre les deux n’est que partiel. S’il est certain que cette mesure coûtera à l’État, dire qu’il est incertain qu’elle favorise l’accessibilité des équipements sanitaires relève de l’euphémisme.<br/>S’il faut savoir agir avec force et réactivité en cas d’urgence, nous ne devons jamais oublier l’après. Comment répondre aux défis de demain, reconstruire notre économie, protéger la santé des Français et soutenir leurs initiatives si nous nous désarmons de nos recettes fiscales, donc de nos leviers d’action, au profit d’une mesure dont le résultat ne sera pas satisfaisant ? Le groupe Agir-ensemble ne votera pas le texte. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Fabien Roussel" id_acteur="PA720692" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723042">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625820" ordre_absolu_seance="172" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117268" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Fabien Roussel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625821" ordre_absolu_seance="173" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117269" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la présidente, madame la secrétaire d’État, mes chers collègues, permettez-moi de partager avec vous toute mon amertume. Depuis trois mois, notre pays fait face à l’une des crises les plus graves de son histoire ; pendant ce temps, nous en sommes encore à débattre d’une éventuelle exonération de TVA des masques de protection et du gel hydroalcoolique. Voilà la réalité : trop peu, trop tard !<br/>En outre, nous avons eu ce débat il y a deux mois, lors de l’examen du deuxième projet de loi de finances rectificative pour 2020. À gauche comme à droite, nous tombions d’accord pour dire qu’il est absolument nécessaire d’exonérer de TVA les opérations de vente et d’achat de masques et de gel hydroalcoolique, pour permettre à nos concitoyens les plus modestes de s’équiper et de se protéger du covid-19. Pourtant, nos collègues des groupes La République en marche et MODEM s’y sont opposés, faisant passer le respect des traités européens avant la protection de nos compatriotes !<br/>Une telle exonération de TVA sur les masques et le gel hydroalcoolique a pourtant été adoptée dans de nombreux pays européens, dont l’Autriche. Contrairement à ce que vous avez affirmé, madame la secrétaire d’État, la Commission européenne a indiqué, dans sa décision 2020/491 du 3 avril dernier, qu’elle n’adresserait aucune observation aux pays adoptant une exonération de TVA dans le cadre de la crise sanitaire provoquée par l’épidémie de covid-19, afin de permettre à leurs populations les plus fragiles de s’équiper et de se protéger du virus. C’est donc possible !<br/>Alors même que le taux de pauvreté augmente dangereusement, l’exonération de TVA des masques et du gel hydroalcoolique constituerait un poids en moins sur le budget de nos concitoyens les plus modestes, qui sont de plus en plus nombreux à ne plus pouvoir se nourrir sans faire appel aux associations caritatives ou aux banques alimentaires. Il y a quelques jours, le Secours populaire français faisait état d’une hausse du nombre de demandes d’aide alimentaire de 45 % par rapport à l’année dernière, à la même période.<br/>Je me suis moi-même rendu à plusieurs distributions de colis alimentaires au cours des dernières semaines, pour me rendre compte de la situation. À Saint-Denis, dans l’Oise, à Lille, j’ai participé à la distribution d’aide alimentaire, et rencontré dans des centres régionaux des œuvres universitaires et scolaires – CROUS – des étudiants ne parvenant même plus à payer leur loyer. Ces gens sont obligés de demander de l’aide pour se nourrir, et ils devraient en plus dépenser de l’argent pour s’acheter des masques ?<br/>Face à cette tragédie, il est vital d’aller plus loin que la simple exonération de TVA. Il conviendrait d’assurer la gratuité pure et simple des masques ! À cette fin, Pierre Dharréville et moi-même avons récemment déposé une proposition de résolution visant à rendre gratuit l’accès aux masques. Nous considérons qu’il n’est ni normal ni acceptable que les masques, dont les Français doivent se munir pour se déplacer en empruntant les transports en commun, demeurent payants, alors même que la crise économique, dont les effets s’ajoutent désormais à ceux de la crise sanitaire, ne les affecte pas à égalité.<br/>Puisque les masques sont devenus plus que jamais de véritables instruments de protection dans le cadre de la lutte contre l’épidémie, nous considérons qu’il incombe à la sécurité sociale d’assumer leur prise en charge à 100 %. Ainsi, chaque assuré aurait droit à un certain nombre de masques grand public et chirurgicaux, remboursés chaque mois, jusqu’à la fin de l’épidémie de covid-19 dans notre pays. Cela offrirait de surcroît à la sécurité sociale la possibilité de s’approvisionner directement auprès d’entreprises françaises, produisant des masques en France, et permettrait de faire tourner les entreprises de notre pays. L’heure n’est plus aux petites mesures !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625828" ordre_absolu_seance="180" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Allez, 100 milliards !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625829" ordre_absolu_seance="181" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117277" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nos compatriotes, les plus fragiles d’entre eux comme les salariés, les retraités et les étudiants, ont plus que jamais besoin d’accéder à des masques gratuits. Exonérer les masques et le gel hydroalcoolique de TVA est insuffisant si nous voulons permettre aux Français de se protéger efficacement contre le covid-19 et continuer à sauver des vies.<br/>Malgré tout, le groupe communiste votera la proposition de loi, …</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625831" ordre_absolu_seance="183" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117279" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625832" ordre_absolu_seance="184" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117280" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…en espérant, chers collègues du groupe Les Républicains, que vous ferez de même le 18 juin prochain, lorsque je défendrai au nom de notre groupe, dans le cadre de notre niche parlementaire, la proposition de résolution visant à rendre l’accès aux masques gratuit. <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625833" ordre_absolu_seance="185" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un deal, alors !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Daniel Labaronne" id_acteur="PA719798" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722766">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625834" ordre_absolu_seance="186" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117282" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Daniel Labaronne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625835" ordre_absolu_seance="187" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117283" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom du groupe La République en marche, je remercie notre collègue Éric Straumann de sa démarche, et de l’intérêt qu’il porte à l’importante question du prix des masques et des gels hydroalcooliques. Le Gouvernement et la majorité parlementaire s’en sont saisis très rapidement, dès le début de la crise, afin de permettre aux Français d’obtenir ces produits à des prix convenables. Je veux rappeler cinq de ces mesures prises très rapidement.<br/>La première a consisté à plafonner le prix de vente du gel hydroalcoolique et des masques chirurgicaux, dès le début de la crise. La deuxième a consisté à arrêter un prix de référence des masques réutilisables. La troisième a consisté à porter à 5,5 % le taux de TVA applicable à ces produits, par le biais de l’adoption d’un amendement d’initiative parlementaire. Je rappelle également – c’est la quatrième mesure – que l’État prend en charge, à hauteur de 50 %, les masques que les collectivités territoriales distribuent dans les territoires. Enfin, à l’heure actuelle, un masque sur deux est distribué à titre gratuit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625837" ordre_absolu_seance="189" id_acteur="PA721506" id_mandat="PM723296" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117285" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Kuster</nom>
+              <id>721506</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Grâce aux collectivités territoriales !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1625838" ordre_absolu_seance="190" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117286" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le Gouvernement a agi en responsabilité, de sorte que nos concitoyens sont en mesure de se procurer des masques et du gel hydroalcoolique, en quantité suffisante et à un prix très raisonnable.<br/>Dans ce cadre, nous pensons que cette proposition de loi n’est ni utile, ni appropriée sur le plan économique. Vous nous dites qu’elle permettra de donner un coup de pouce bienvenu au budget des Français ; mais c’est exactement l’inverse qui risquerait de se produire si nous l’adoptions. En effet, comme Mme la secrétaire d’État l’a indiqué, une exonération totale de TVA sur un produit engendre des coûts : les entreprises qui le produiraient ne pourraient pas récupérer la TVA sur les matières premières nécessaires à sa fabrication. Dans ces conditions, les coûts de production augmenteraient,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626035" ordre_absolu_seance="2" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117794" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626036" ordre_absolu_seance="3" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117795" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ces entreprises ne fabriquent pas que des masques !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626037" ordre_absolu_seance="4" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117796" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…partant le prix des masques, de sorte que le pouvoir d’achat des ménages diminuerait. Ce serait un formidable appel d’air pour les importations ! Cela engendrerait des difficultés pour les entreprises françaises productrices de masques, qui ne seraient plus compétitives.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626038" ordre_absolu_seance="5" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117797" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626039" ordre_absolu_seance="6" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117798" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est faux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626040" ordre_absolu_seance="7" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117799" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et verraient leurs marchés offerts aux acteurs internationaux – ce qui aboutirait à une hausse du chômage ! Je suis au regret de vous dire que, sur un plan économique, cette proposition ne tient pas la route ! <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique><br/>Je veux bien des symboles, mais à ce prix-là, non merci – en tout cas, pour notre part, nous n’en voulons pas ! Quoi qu’il en soit, il y a de vrais enjeux derrière cette question. <italique>(Protestations sur quelques bancs du groupe LR.)</italique> Votre proposition, mes chers collègues, pose un problème fiscal incontournable : lorsque l’on a travaillé en entreprise, lorsque l’on connaît le fonctionnement d’un compte d’exploitation, on le voit bien, désolé de vous le dire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626041" ordre_absolu_seance="199" id_acteur="PA1592" id_mandat="PM723060" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117859" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Habib</nom>
+              <id>1592</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et lorsqu’on voit l’état de la France…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626042" ordre_absolu_seance="200" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117801" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais il y a un autre enjeu, que votre texte n’aborde pas : celui de la fraude et des escroqueries.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626043" ordre_absolu_seance="201" id_acteur="PA721506" id_mandat="PM723296" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117802" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Kuster</nom>
+              <id>721506</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’escroquerie, ce sont les masques d’Anne Hidalgo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626044" ordre_absolu_seance="202" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117803" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans ce domaine, l’action publique est nécessaire. La direction générale de la concurrence, de la consommation et de la répression des fraudes a déjà beaucoup agi, mais il faut sans doute aller plus loin. Pour notre part, nous considérons que l’enjeu essentiel est celui de la fraude et que, d’un point de vue économique, la mesure que vous proposez serait contre-productive pour les entreprises françaises, l’emploi français et le pouvoir d’achat de nos compatriotes.<italique> (Applaudissements sur les bancs du groupe LaREM.)</italique><br/>C’est la raison pour laquelle le groupe La République en marche ne votera pas cette proposition de loi. Quoi qu’il en soit, en dehors même de ces considérations économiques, nous estimons que le Gouvernement a fait tout ce qu’il fallait <italique>(Rires sur les bancs des groupes SOC et GDR) </italique>et que, s’agissant des masques, l’enjeu n’est pas de baisser la TVA, ce qui créerait un appel d’air pour les importations, mais de lutter contre les fraudes.<italique> (Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626046" ordre_absolu_seance="204" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117805" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est tellement plus facile de dire ça ici que dehors ! Venez donc tenir le même discours à la sortie d’un hôpital !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Nicolas Meizonnet" id_acteur="PA719436" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM770316">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626047" ordre_absolu_seance="205" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117806" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Nicolas Meizonnet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626048" ordre_absolu_seance="206" id_acteur="PA719436" id_mandat="PM770316" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117807" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Meizonnet</nom>
+              <id>719436</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout dispositif permettant d’aider un tant soit peu nos concitoyens en cette période de crise me semble utile, même s’il est symbolique – c’est important les symboles, n’est-ce pas, M. le député Labaronne ? Même s’il est regrettable qu’il arrive si tardivement, le texte qui nous est proposé ici en est un.<br/>La question s’est déjà posée à l’occasion d’autres débats. La majorité avait alors bloqué la proposition en raison de sa non-conformité avec le droit européen. On peut le concevoir, mais pourquoi s’y opposer encore aujourd’hui, alors que l’Europe a laissé d’autres pays de l’Union appliquer la TVA à taux zéro ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626050" ordre_absolu_seance="208" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117809" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On vient de vous l’expliquer !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626051" ordre_absolu_seance="209" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117810" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Et les Autrichiens sont des imbéciles, évidemment !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626052" ordre_absolu_seance="210" id_acteur="PA719436" id_mandat="PM770316" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117811" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Meizonnet</nom>
+              <id>719436</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Concrètement, quel impact cette mesure aura-t-elle sur les finances publiques ? Il y a fort à parier qu’il sera négligeable, car de nombreux Français sont déjà équipés et le nombre de cas semble décroître chaque jour.<br/>Bien entendu, il aurait fallu prendre une telle mesure dès le mois de mars, mais le Gouvernement était submergé par la situation, victime de son imprévoyance, empêtré dans ses bobards. Et souvenez-vous : à ce moment-là, les masques étaient encore inutiles, nous disait-on. Combien de fois ai-je été interpellé dans ma circonscription – vous l’avez certainement été vous aussi, mes chers collègues – par des médecins, des pharmaciens, des policiers, des infirmiers ou des aides-soignants qui appelaient à l’aide car ils n’avaient pas été pourvus en masques, lesquels leur étaient prétendument réservés ?<br/>Vous connaissez, comme moi, la vérité : oui, il y a bien eu une réelle pénurie de masques. Ces masques étaient donc inutiles, voire dangereux. Rappelez-vous en effet que, communication gouvernementale à l’appui, on nous expliquait qu’il était compliqué de mettre un masque. C’est pourtant si bête, de mettre un masque.<br/>Expliquez-moi pourquoi ces masques inutiles et dangereux sont aujourd’hui obligatoires dans nombre d’endroits. Prenons l’exemple de Hong Kong pour essayer de comprendre l’inutilité du masque. Ce territoire a la densité de population la plus élevée au monde – 6 357 habitants au kilomètre carré, contre seulement 105,8 en France, soit environ soixante fois moins. À Hong Kong, le port du masque a été immédiatement rendu obligatoire. Or combien y a-t-il eu de décès liés au covid-19 ? Quatre, en tout et pour tout ! Pour un objet inutile et dangereux, le masque semble tout de même rendre de fiers services, avouez-le ! Enfin, à Hong Kong, aucune mesure n’y a été prise en dehors du port obligatoire du masque, pour une raison évidente : le masque, c’est le premier des confinements – c’est même le plus efficace ! Ainsi, l’économie n’a pas souffert du confinement, les entreprises ont poursuivi leur activité, les personnes âgées n’ont pas été recluses et empêchées de voir leurs familles et les jeunes n’ont pas été privés d’école. Bref, la vie a continué.<br/>J’aimerais enfin comprendre le double discours des autorités au sujet de la vente de masques en pharmacie. Le 23 mars, le Gouvernement décrète que tous les masques présents en France sont réquisitionnés ; les pharmaciens cessent donc d’en vendre. Pas de masques pour les particuliers en pharmacie : c’est la consigne répétée par le Gouvernement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626057" ordre_absolu_seance="215" id_acteur="PA720298" id_mandat="PM722922" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117816" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Cariou</nom>
+              <id>720298</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Hors sujet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626058" ordre_absolu_seance="216" id_acteur="PA719436" id_mandat="PM770316" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117817" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Meizonnet</nom>
+              <id>719436</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« Les Français ne pourront pas acheter de masques dans les pharmacies », affirme la porte-parole du Gouvernement le 17 mars. « Si on commence à ouvrir la vente en pharmacie, ce sera une vente qui sera vite tarie », ajoute le ministre de la santé le 19 avril. Le Conseil national de l’Ordre des pharmaciens communique donc la consigne de ne pas vendre de masques. La présidente de l’Ordre affirme qu’elle a suivi la consigne du ministère de la santé en demandant aux pharmaciens de ne pas vendre ces masques chirurgicaux, afin de les réserver aux professionnels de santé.<br/>Il faudra un recours devant le Conseil d’État pour que, le 30 avril, le ministère de la santé apporte une précision qui change la donne : ne sont pas concernés les stocks de masques importés depuis le 23 mars. En clair, depuis cette date, les pharmaciens étaient libres d’importer des masques pour les vendre. Le Conseil d’État l’a confirmé le 5 mai.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626060" ordre_absolu_seance="218" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117819" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et la TVA dans tout ça ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626061" ordre_absolu_seance="219" id_acteur="PA719436" id_mandat="PM770316" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117820" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Meizonnet</nom>
+              <id>719436</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourquoi le ministère de la santé a-t-il laissé s’écouler plus d’un mois avant d’informer les pharmaciens de leur droit de vendre des masques aux particuliers ?<br/>En conclusion, cette histoire de masques est à l’image de la gestion de la crise dans son ensemble : cacophonique et incohérente. Quoi qu’il en soit, puisque les masques sont maintenant accessibles au grand public, je voterai en faveur de l’exonération totale de TVA.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626063" ordre_absolu_seance="221" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117822" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>La parole est à M. le rapporteur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626065" ordre_absolu_seance="223" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117824" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je voudrais donner une première illustration de l’imprécision des propos que j’ai entendus : l’association des maires du Haut-Rhin, département particulièrement touché, a importé durant la crise des masques sur lesquels la TVA s’élevait à 0 %. Lorsqu’elle a acheté des masques localement en revanche, la TVA était de 5,5 % !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626066" ordre_absolu_seance="224" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117825" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Agnès Pannier-Runacher</nom>
+            <id>759832</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Elle est déductible !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626067" ordre_absolu_seance="225" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117826" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Comment peut-elle être déductible ? Une association ne peut pas déduire sa TVA, puisqu’elle n’applique pas de TVA ! Il y a donc bien un coût de 5,5 % supplémentaire.<br/>Lorsqu’on est confronté à une difficulté, on regarde comment cela se passe ailleurs. En Alsace, nous avons regardé comment agissaient l’Allemagne et l’Autriche. Je vous rappelle que l’Autriche a enregistré 700 décès pour 8 millions d’habitants, contre 1 400 pour 770 000 habitants dans le Haut-Rhin !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626069" ordre_absolu_seance="227" id_acteur="PA720394" id_mandat="PM722950" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117828" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nicole Trisse</nom>
+            <id>720394</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Bravo ! <italique>(Protestations sur les bancs du groupe LR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626070" ordre_absolu_seance="228" id_acteur="PA721506" id_mandat="PM723296" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117829" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Brigitte Kuster</nom>
+            <id>721506</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Lamentable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626071" ordre_absolu_seance="229" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117830" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je ne sais pas si vous mesurez la différence de proportion… Quant aux propos de ma collègue, je pense qu’ils ont dépassé sa pensée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626072" ordre_absolu_seance="230" id_acteur="PA721506" id_mandat="PM723296" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117831" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Brigitte Kuster</nom>
+            <id>721506</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Incroyable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626071" ordre_absolu_seance="231" id_acteur="PA720394" id_mandat="PM722950" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117860" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nicole Trisse</nom>
+            <id>720394</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous sommes de la même région, nous nous comprenons…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626073" ordre_absolu_seance="232" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117832" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Un cluster a été découvert en Autriche, à Ischgl. Les autorités ont réagi très rapidement. En quelques heures, toute la vallée a été confinée. Dans le Haut-Rhin, où un cluster a été décelé à Mulhouse, il a fallu dix jours pour détecter la présence de la pandémie dans la région !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626074" ordre_absolu_seance="233" id_acteur="PA767" id_mandat="PM723568" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117833" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jacques Cattin</nom>
+            <id>767</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Et qui est fautif ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626075" ordre_absolu_seance="234" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117834" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je me suis penché sur la situation en Autriche, s’agissant notamment de la TVA : <italique>keine m</italique><italique>ehrwertsteuer</italique>, autrement dit pas de TVA ! Bien sûr, c’est une mesure symbolique, qui ne porte que sur quelques millions d’euros, mais c’est un signal envoyé à la population. Les autorités enjoignent aux citoyens de s’équiper, et leur facilitent la tâche à cette fin par des exonérations fiscales. Je me suis intéressé aussi au prix du masque en Autriche. Le 29 avril, chez Lidl, il s’établissait à 60 centimes…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626076" ordre_absolu_seance="235" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117835" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Agnès Pannier-Runacher</nom>
+            <id>759832</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>C’est faux !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626077" ordre_absolu_seance="236" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117836" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Si, je le maintiens, et j’ai même la publicité de Lidl qui en fait foi. On me dit que, si nous réduisons la TVA, le distributeur ne baissera pas le prix. C’est possible, mais l’objection ne vaut pas aujourd’hui puisqu’il vend tout simplement à prix coûtant ! Tous les grands distributeurs le font, avec des prix qui ne représentent que le coût d’achat et la TVA. Si l’on supprime cette TVA…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626078" ordre_absolu_seance="237" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117837" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Cendra Motin</nom>
+            <id>719850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Et la marge commerciale ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626079" ordre_absolu_seance="238" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117838" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Ils ne font pas de marge commerciale, c’est un prix d’appel ! Vous le savez bien. J’ai entendu M. Becht évoquer le coût du masque. On constate aujourd’hui que, avec l’augmentation des températures, les masques en tissu sont trop épais et font transpirer. Vous le voyez autour de vous : les gens portent des masques chirurgicaux, plus confortables, dans lesquels on transpire moins, et que l’on peut jeter. Pour une famille de cinq personnes, deux masques par jour au prix constaté de 65 centimes représentent un coût total de 195 euros par mois. Une réduction de la TVA représenterait tout de même dans ce cas une économie de 10 euros par mois ! Ce serait là, de la part des pouvoirs publics, un signe…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626080" ordre_absolu_seance="239" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117839" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Roussel</nom>
+            <id>720692</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Tout à fait !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626081" ordre_absolu_seance="240" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117840" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Straumann</nom>
+            <id>334654</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>…pour dire qu’il faut absolument porter un masque jusqu’à la fin complète de la pandémie. Ce n’est pas un problème d’argent, mais un signal des autorités publiques incitant, par une exonération totale de TVA, les citoyens à porter un masque. C’est ce qui a fonctionné en Autriche et aux Pays-Bas. En France, on voit quel a été le résultat de la gestion de la pandémie : une catastrophe. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626082" ordre_absolu_seance="241" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2117841" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626083" ordre_absolu_seance="242" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2117842" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vais devoir rétablir certaines vérités, car nous venons d’entendre plusieurs choses fausses. La qualité du débat commande de revenir à la réalité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626084" ordre_absolu_seance="243" id_acteur="PA721542" id_mandat="PM723308" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117843" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Verdier-Jouclas</nom>
+              <id>721542</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626085" ordre_absolu_seance="244" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117844" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>On peut aimer les symboles mais, quand ils aboutissent à l’inverse de l’objectif recherché, on ne fait pas de la bonne politique. Sans doute est-ce là, d’ailleurs, l’une des raisons de la perte de confiance de nos concitoyens. <italique>(Applaudissements sur les bancs du groupe LaREM. –</italique><italique> </italique><italique>Protestations sur les bancs du groupe LR.)</italique><br/>Vous citez, monsieur le rapporteur, les pays européens qui ont réduit la TVA, comme l’Autriche. Ce pays exonère les masques de TVA du 13 avril au 1<exposant>er</exposant> août 2020. La France, pour sa part, a décidé de baisser la TVA de début mars à fin 2021 ! Voilà des éléments précis. <italique>(Nouveaux applaudissements sur les bancs du groupe LaREM.) </italique>L’exonération instaurée par l’Autriche est liée à la crise sanitaire. Pardon, mais notre mesure est bien plus puissante, elle aura bien plus d’effet sur le pouvoir d’achat des Français.<br/>Vous citez par ailleurs, dites-vous, une décision de la Commission européenne, alors qu’il s’agit d’une note interne interdirectionnelle. Je suis d’accord avec vous : je n’imagine pas la Commission européenne s’engager dans un contentieux brutal contre l’Autriche. Mais replaçons les choses à leur juste niveau : une baisse de la TVA à 5,5 % durant dix-huit mois aura plus d’effets sur le budget des Français que trois mois à 0 %, sans déductibilité ! <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626088" ordre_absolu_seance="247" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-5064962" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117847" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je propose de réduire la durée !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626089" ordre_absolu_seance="248" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117848" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est ce qu’a très bien expliqué M. Labaronne : vous jouez contre les entreprises françaises ! Les bras m’en tombent !<italique> (Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626090" ordre_absolu_seance="249" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-5064962" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117849" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Les masques importés sont taxés à 0 % ! Vous favorisez les importations !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626091" ordre_absolu_seance="250" id_acteur="PA719798" id_mandat="PM722766" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117850" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Labaronne</nom>
+              <id>719798</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais non, bien au contraire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626092" ordre_absolu_seance="251" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-5064962" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117851" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous montrerai les factures !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626093" ordre_absolu_seance="252" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117852" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Précisément : les masques importés sont taxés à 0 %, mais, de l’autre côté, avec votre proposition, les entreprises seraient dans l’incapacité de récupérer la TVA sur les matières premières qu’elles utilisent ! Les entreprises peuvent récupérer la TVA, monsieur Straumann, c’est ainsi que les choses fonctionnent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626094" ordre_absolu_seance="253" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-5064962" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117853" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Mais pas les associations !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1626095" ordre_absolu_seance="254" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117854" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Les collectivités locales bénéficient de 50 % de remboursement par l’État, ce qui couvre largement les 5 % de TVA. Quant aux associations, elles représentent en effet un cas particulier, je le reconnais – mais uniquement celles qui ne sont pas soumises au régime de la TVA, car certaines le sont. Il ne faut pas tout mélanger !<italique> (Nouveaux applaudissements sur plusieurs bancs du groupe LaREM.)</italique><br/>Je veux vous rassurer, Monsieur Habib : comme Mme Cariou l’a dit, les prix du gel hydroalcoolique et du masque chirurgical sont bien encadrés, il n’y a pas de doute là-dessus, et chaque semaine, depuis le 11 mai, des millions de masques sont distribués gratuitement aux familles les plus modestes par l’intermédiaire des CCAS. Je ne parle pas là des masques financés par les collectivités locales, mais bien de masques achetés par l’État. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625715" ordre_absolu_seance="56" id_acteur="PA721542" id_mandat="PM723308" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117099" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Verdier-Jouclas</nom>
+              <id>721542</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625716" ordre_absolu_seance="57" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117100" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je me réjouis que les collectivités locales en distribuent, car si nous couvrons la moitié des besoins, il est assez probable qu’en y ajoutant ceux distribués par les collectivités locales on couvre plus de la moitié des besoins. C’est plutôt une bonne nouvelle.<br/>Je rappelle également que jusqu’à la fin de l’année scolaire, les écoles fournissent gratuitement des masques aux élèves en âge de les porter.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625717" ordre_absolu_seance="59" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-3617830" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117137" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Dans ma circonscription, très peu !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625718" ordre_absolu_seance="60" id_acteur="PA721506" id_mandat="PM723296" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117102" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Kuster</nom>
+              <id>721506</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais non, madame la secrétaire d’État !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625719" ordre_absolu_seance="61" id_acteur="PA721542" id_mandat="PM723308" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117103" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Verdier-Jouclas</nom>
+              <id>721542</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais si, chère collègue ! Allez donc dans les écoles !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625720" ordre_absolu_seance="62" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117104" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est faux ! Ce sont les collectivités locales qui offrent les masques qui sont distribués !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625721" ordre_absolu_seance="63" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117105" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Donc votre calcul du coût des masques pour le budget de la petite famille qui utiliserait des masques tous les jours n’est pas juste puisque les enfants sont équipés en masques par l’État lorsqu’ils sont à l’école. <italique>(Protestations sur les bancs du groupe LR.)</italique><br/>Mais si ! Je les distribue, les masques, donc je les compte ! <italique>(Mêmes mouvements.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625724" ordre_absolu_seance="65" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117108" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’il vous plaît, mes chers collègues, seule Mme la secrétaire d’État a la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625725" ordre_absolu_seance="66" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117109" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais enfin réagir sur la question du masque chirurgical. Le masque chirurgical a une empreinte écologique beaucoup plus importante que le masque textile, il est beaucoup plus cher et il est beaucoup moins fabriqué en France. Essayons de privilégier la production française, surtout quand, pour une fois, le produit écologique est aussi le moins coûteux ! <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625726" ordre_absolu_seance="67" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117110" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Et que portent les agents de l’Assemblée nationale ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625727" ordre_absolu_seance="68" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117111" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je rappelle que le masque textile filtrant est un équipement de protection validé par l’Agence nationale de sécurité du médicament, par la direction du travail et par l’ANSES, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625728" ordre_absolu_seance="69" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117112" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Alors pourquoi n’en porte-t-on pas ici ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625729" ordre_absolu_seance="70" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2117113" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Renseignez-vous auprès des gens qui achètent ces masques, cela dépasse mon domaine de compétence…<br/>S’agissant de la baisse de la TVA, vous avez raison, madame la députée Cariou, l’arrêté relatif aux masques et au gel hydroalcoolique a bien été publié et celui relatif aux blouses, aux gants et aux charlottes le sera incessamment. L’ANSM a été consultée sur le point de savoir ce qui relevait de la catégorie des équipements de protection et ce qui n’en relevait pas. Il est important néanmoins que cet arrêté soit publié, puisque, Bruno Le Maire l’a encore rappelé aujourd’hui, le taux réduit est applicable à compter du 24 mars. Les entreprises concernées pourront donc récupérer le delta de TVA jusqu’au 31 décembre de la deuxième année suivant la publication de l’arrêté. Cela suppose certes des démarches mais, au moins, elles ne seront pas sanctionnées pour cette raison.<br/>J’ai répondu sur le point de la gratuité, monsieur Roussel. Enfin, monsieur Meizonnet, vous avez fait quelques confusions. L’arrêté du Conseil d’État n’a rien à voir avec la TVA puisqu’il porte sur l’obligation du port du masque en toutes circonstances. Ce n’est pas le 23 mars qu’il y a eu réquisition mais beaucoup plus tôt, et elle a été levée le 19 mars. Par ailleurs, ce n’est pas à la suite d’un recours devant le Conseil d’État mais d’une décision du ministère de la santé que les pharmacies ont pu vendre des masques à usage unique à tous les Français et cette décision a été prise une semaine avant que les distributeurs ne soient autorisés à le faire. <italique>(Vifs applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625732" ordre_absolu_seance="73" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2117116" valeur=" (n[[o]] 3006)" bibard=" (n[[o]] 3006)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625733" ordre_absolu_seance="74" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117117" valeur="" bibard=" (n[[o]] 3006)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant les articles de la proposition de loi dans le texte dont l’Assemblée a été saisie initialement puisque la commission n’a pas adopté de texte.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625734" ordre_absolu_seance="75" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2117118" valeur=" 1er " bibard=" (n[[o]] 3006)" art=" 1er " adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 1<exposant>er</exposant></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625735" ordre_absolu_seance="76" code_grammaire="SORT_ARTICLE_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2117119" valeur=" 1er" decision="REJET d’un article (vote à main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(L’article</italique>
+          <italique> </italique>
+          <italique>1<exposant>er</exposant> n’est pas adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625736" ordre_absolu_seance="77" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2117120" valeur=" 2" bibard=" (n[[o]] 3006)" art=" 2" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 2</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625737" ordre_absolu_seance="78" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2117121" valeur=" 4" bibard=" (n[[o]] 3006)" art=" 2" adt=" 4" ssadt="">
+        <interExtraction nom_orateur="M. Éric Straumann" qualite="rapporteur" id_acteur="PA334654" id_nomination_oe="-1" id_nomination_op="-2894264" id_mandat="PM723566">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625737" ordre_absolu_seance="78" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2117121" valeur=" 4" bibard=" (n[[o]] 3006)" art=" 2" adt=" 4" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Éric Straumann, pour soutenir l’amendement n<exposant>o</exposant> 4.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625738" ordre_absolu_seance="79" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-2894264" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117122" valeur="" bibard=" (n[[o]] 3006)" art=" 2" adt=" 4" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Éric Straumann</nom>
+                <id>334654</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je rejoins la proposition de Mme la secrétaire d’État, mais je demande que la durée de l’exonération de TVA soit réduite.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625739" ordre_absolu_seance="80" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2117123" valeur="" bibard=" (n[[o]] 3006)" art=" 2" adt=" 4" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625740" ordre_absolu_seance="81" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2117124" valeur="" bibard=" (n[[o]] 3006)" art=" 2" adt=" 4" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Pannier-Runacher</nom>
+                <id>759832</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Défavorable, pour les raisons déjà exposées.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625741" ordre_absolu_seance="82" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2117125" valeur=" 4" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>4 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625742" ordre_absolu_seance="83" code_grammaire="SORT_ARTICLE_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2117126" valeur=" 2" decision="REJET d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique> </italique>
+            <italique>2 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625743" ordre_absolu_seance="84" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2117127" valeur=" 3" bibard=" (n[[o]] 3006)" art=" 3" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 3</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625744" ordre_absolu_seance="85" code_grammaire="SORT_ARTICLE_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2117128" valeur=" 3" decision="REJET d’un article (vote à main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(L’article</italique>
+          <italique> </italique>
+          <italique>3 n’est pas adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1625744" ordre_absolu_seance="86" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117196" valeur="" bibard=" (n[[o]] 3006)" art=" 3" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous avons achevé l’examen des articles de la proposition de loi.<br/>L’ensemble des articles ayant été rejetés, la proposition de loi est rejetée.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1625747" ordre_absolu_seance="89" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2117131" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1625748" ordre_absolu_seance="90" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2117132" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, lundi 15 juin, à seize heures :<br/>Discussion du projet de loi relatif à la dette sociale et à l’autonomie ;<br/> Discussion du projet de loi organique relatif à la dette sociale et à l’autonomie.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1625749" ordre_absolu_seance="91" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2117133" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1625750" ordre_absolu_seance="92" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2117134" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

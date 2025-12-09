@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N197</uid>
+  <metadonnees>
+    <dateSeance>20200423170000000</dateSeance>
+    <dateSeanceJour>jeudi 23 avril 2020</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>197</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200197</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Sat, 25 Apr 2020 18:50:42 GMT</horaireGmt>
+    <heureGeneration>2020-04-25T20:50:42.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2075513">Présidence de M. Marc Le Fur</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2075517">
+          <intitule>Projet de loi de finances rectificative pour 2020</intitule>
+        </titreStruct>
+        <para id_syceron="2075518"/>
+        <sommaire2>
+          <titreStruct id_syceron="2075521">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2075523">M. Laurent Saint-Martin, rapporteur de la commission mixte paritaire</para>
+          <para id_syceron="2075531">M. Olivier Dussopt, secrétaire d’État auprès du ministre de l’action et des comptes publics</para>
+          <para id_syceron="2075588">M. Éric Woerth, président de la commission mixte paritaire</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2075598">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2075600">M. Fabien Roussel</para>
+          <para id_syceron="2075612">Mme Cendra Motin</para>
+          <para id_syceron="2075552">Mme Véronique Louwagie</para>
+          <para id_syceron="2075567">M. Jean-Noël Barrot</para>
+          <para id_syceron="2075575">Mme Valérie Rabault</para>
+          <para id_syceron="2075487">Mme Patricia Lemoine</para>
+          <para id_syceron="2075498">M. Charles de Courson</para>
+          <para id_syceron="2075511">M. Éric Coquerel</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2075468">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+          <para id_syceron="2075472">M. Olivier Dussopt, secrétaire d’État</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2075476">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du jeudi 23 avril 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1600545" ordre_absolu_seance="1" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2075513" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Marc Le Fur<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1600546" ordre_absolu_seance="2" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075514" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1600547" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2075515" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à dix-sept heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600549" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2075517" valeur=" (n[[o]] 2832)">
+      <orateurs/>
+      <texte>Projet de loi de finances rectificative pour 2020</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600550" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2075518" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Commission mixte paritaire</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600551" ordre_absolu_seance="7" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075519" valeur=" (n° 2832)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi de finances rectificative pour 2020 (n<exposant>o</exposant> 2832).<br/>Je vous rappelle que, dans le contexte de la crise actuelle, la conférence des présidents a établi des règles dérogatoires d’organisation de nos séances. Les huit groupes ne sont représentés, outre leur président ou son représentant, que par deux députés. Le vote sur l’ensemble du texte se fera à main levée, chaque président ou son représentant portant les voix de tout son groupe, mais les députés ont la possibilité de faire savoir à leur groupe ou au service de la séance qu’ils souhaitent voter différemment. Les députés non inscrits ont également la possibilité de communiquer au service de la séance leur position de vote sur l’ensemble.<br/>Les orateurs s’expriment depuis leur banc et non à la tribune. Je les invite à ne pas poser les mains sur le micro – même si je sais que ce n’est pas toujours évident. Celui-ci sera nettoyé après chaque usage, mais il est demandé à chacun des orateurs d’utiliser un micro différent. Naturellement, il convient de respecter les mesures barrières que nous connaissons tous ; en particulier, les sorties de l’hémicycle seront échelonnées. L’hémicycle a été désinfecté  : il est nettoyé avant et après chaque séance.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600553" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2075521" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Laurent Saint-Martin" qualite="rapporteur de la commission mixte paritaire" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM769224" id_mandat="PM723102">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600554" ordre_absolu_seance="9" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075522" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le rapporteur de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600555" ordre_absolu_seance="10" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM769224" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075523" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <id>720878</id>
+              <qualite>rapporteur de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens à saluer l’esprit de responsabilité qui a animé la commission mixte paritaire. Elle s’est réunie ce matin à onze heures trente : nous avons débattu de manière fructueuse pendant plus de deux heures. Je remercie mon homologue au Sénat, Albéric de Montgolfier, avec qui j’avais au préalable longuement discuté pour savoir comment améliorer ce texte, ce qui supposait de trouver des pistes de compromis parce que nous n’étions évidemment pas d’accord sur tout, et c’est bien normal, car ainsi vit le débat démocratique, même en temps de crise. Nous avons abouti à un texte commun que la commission mixte paritaire a adopté.<br/>Je remercie aussi tous ceux qui ont permis aux parlementaires de travailler dans des conditions extrêmement contraintes ces dernières heures, je pense en particulier aux administrateurs de la division B de la commission des finances dont les conditions de travail sont difficiles, avec de nombreuses nuits blanches – je tiens à saluer leur efficacité et leur abnégation.<br/>Par quoi mon homologue au Sénat et moi-même étions-nous animés ? Nous avons eu avant tout le souci d’aller vite car il y a une double urgence : celle liée à la tempête que traverse notre pays, et celle liée à la nécessité de « recharger », selon l’expression du ministre de l’action et des comptes publics en première lecture, des crédits déjà largement consommés. Nous avons besoin de voter ce projet de loi de finances rectificative pour que continue à s’appliquer l’ensemble des mesures d’aides mises en place aux termes du PLFR – projet de loi de finances rectificative – du mois dernier. Adopter rapidement un texte était donc l’objectif numéro un de cette CMP – commission mixte paritaire –, mais il s’agissait aussi de trouver les moyens de renforcer davantage encore le filet de sécurité déjà mis en place en tentant encore et toujours de combler les fameux « trous dans la raquette », nécessairement encore nombreux à ce stade. Je citerai à cet égard quatre dispositions.<br/>La première concerne la TVA. Vous vous souvenez, mes chers collègues, que nous avions adopté en première lecture, déjà en commission, un taux de TVA réduit pour l’achat de masques, et, en séance, suite à un amendement de notre collègue Christine Pires Beaune, un taux réduit pour les gels hydroalcooliques. Le Sénat a proposé d’aller plus loin encore en l’étendant à d’autres équipements de protection – blouses, surblouses, charlottes. Je crois que c’est dans la logique de ce que nous avions adopté nous-mêmes ; nous avons donc décidé de conserver cette disposition dans notre texte commun.<br/>La deuxième concerne l’amélioration du contrôle parlementaire. Vous savez que j’y tiens. Le comité de suivi, que nous avions adopté en première lecture sur proposition du président de la commission des finances va être renforcé par l’accroissement de ses prérogatives, à commencer par l’élargissement de son domaine de contrôle afin que les mesures de contrôle puissent s’adapter à l’évolution des mesures elles-mêmes. Le comité prend ainsi le poids qu’il mérite. Notez également le renforcement de l’information que le Gouvernement devra transmettre au Parlement dans le cadre des investissements en fonds propres du compte d’affectation spéciale « Participations financières de l’État ». Ce point avait fait l’objet d’un débat important : dorénavant, les présidents des commissions des finances et les rapporteurs généraux seront informés ex ante, précision importante, de ces investissements dits stratégiques dès qu’ils dépasseront un milliard d’euros.<br/>La troisième disposition concerne la générosité que les sénateurs avaient la ferme volonté d’encourager. Nous partageons l’ambition de donner davantage de place à la solidarité dans le dispositif en cours d’élaboration, et nous avons trouvé un terrain d’entente. La disposition fiscale dite Coluche sera étendue pendant la durée de l’état d’urgence sanitaire – avec une clause d’extinction à la fin de l’année car il est important de borner cette mesure dans le temps : le plafond des dons permettant une réduction d’impôt passe de 537 à 1 000 euros.<br/>Il fallait enfin valoriser le travail. Nous avions débattu en première lecture du déplafonnement des heures supplémentaires faisant l’objet de défiscalisation et de désocialisation. Je m’y étais alors opposé. Un terrain d’entente a été trouvé sur un rehaussement du plafond, soit 7 500 euros, ici aussi restreint à la seule période de l’état d’urgence sanitaire, ce qui me paraît bien compréhensible.<br/>Telles sont les principales dispositions proposées par la commission mixte paritaire, celles qui marquent une certaine différence avec le texte que nous avons voté en première lecture. La philosophie demeure toutefois la même : aller vite, aller fort, protéger l’ensemble des entreprises, l’ensemble de nos concitoyens et l’ensemble des emplois. C’est bien l’objet de ce texte d’urgence.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Dussopt" qualite="secrétaire d'État auprès du ministre de l'action et des comptes publics" id_acteur="PA330357" id_nomination_oe="PM744089" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600562" ordre_absolu_seance="18" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075530" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État auprès du ministre de l’action et des comptes publics.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1600563" ordre_absolu_seance="19" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM744089" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075531" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Dussopt</nom>
+              <id>330357</id>
+              <qualite>secrétaire d’État auprès du ministre de l’action et des comptes publics</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Quelques mots pour me féliciter, au nom du Gouvernement, de l’accord intervenu en commission mixte paritaire entre les représentants de votre assemblée et les représentants du Sénat.<br/>Vous le savez, mesdames, messieurs les députés : ce projet de loi de finances rectificative est un plan d’urgence complémentaire à la première loi de finances rectificative adoptée il y a quelques semaines seulement pour répondre à une crise d’une ampleur inégalée, tant dans ses effets budgétaires que dans ses conséquences pour l’ensemble de la société.<br/>Le plan d’urgence que le Gouvernement vous propose prend en compte le prolongement du confinement, avec évidemment l’espoir d’en sortir à compter du milieu du mois de mai prochain, d’où l’actualisation des chiffres macroéconomiques qu’il vous avait soumis lors du premier PLFR pour 2020. Ainsi, l’hypothèse de croissance retenue pour 2020 passe de moins 1 % à moins 8 %. La profondeur de la crise et le repli de l’activité impliquent une réponse à la hauteur qui aura des conséquences sur le budget : le déficit des administrations publiques pourrait s’élever à 9,1 % du PIB, soit deux points de plus qu’en 2009, année de la dernière grande crise systémique que nous avons connue, et la dette publique atteindre 115 %, soit vingt points de plus qu’alors. La force du soutien de l’État se traduira par un déficit budgétaire qui va quasiment doubler par rapport à la loi de finances initiale, atteignant 185 milliards d’euros au lieu des 93 milliards d’euros initialement prévus. Ces chiffres inhabituels, qui semblent vertigineux, témoignent d’une action massive pour faire face à une crise d’une ampleur exceptionnelle.<br/>Vous avez suivi le Gouvernement qui vous a proposé de renforcer le plan de lutte contre la crise : grâce à ce texte, les crédits consacrés à ce plan passent de 45 milliards d’euros à plus de 110 milliards d’euros. Ainsi, les dépenses mobilisées atteindront 44 milliards d’euros pour protéger les salariés, maintenir leurs compétences, accompagner les entreprises et préserver notre système de santé. Parmi ces dépenses, outre l’augmentation à hauteur de 8 milliards d’euros de celles liées à l’ONDAM – objectif national des dépenses d’assurance maladie –, permettez-moi de souligner deux dispositifs de notre plan de lutte contre l’épidémie et ses conséquences.<br/>Il y a d’abord le financement du chômage partiel qui passe de 8 milliards à près de 27 milliards d’euros, financés aux deux tiers par le budget de l’État et à un tiers par l’UNEDIC, l’Union nationale interprofessionnelle pour l’emploi dans l’industrie et le commerce, pour préserver la situation des salariés. Le plafond d’emprunt de l’UNEDIC garanti par l’État est relevé de 7 à 10 milliards d’euros. Il y a ensuite le fonds de solidarité, rechargé à hauteur de 7 milliards d’euros, dont 6,25 milliards financés par le budget de l’État. J’indique que ce fonds a reçu, au 21 avril, 1 090 000 demandes de TPE – très petites entreprises – ou de travailleurs indépendants, dont le chiffre d’affaires a baissé de plus de 50 %, qui demandent l’aide de 1 500 euros, soit un total de 986 millions d’euros. Grâce aux dispositions du PLFR, les petites entreprises les plus en difficultés pourront obtenir, en cumulant les différentes aides prévues, jusqu’à 8 000 euros totalement exonérés.<br/>Nous avons aussi voulu mobiliser dans ce PLFR deux autres instruments : 20 milliards d’euros sont ainsi prévus pour renforcer la participation financière de l’État dans certaines grandes entreprises en difficultés –cela se fera en association avec le Parlement, comme l’a souligné M. le rapporteur. Le fonds de développement économique et social est rechargé pour atteindre un milliard d’euros<br/>Toutes ces mesures s’ajoutent bien évidemment aux dispositifs créés dans le premier PLFR pour 2020, je pense notamment aux prêts garantis par l’État à hauteur de 300 milliards d’euros, prêts qui permettent de soulager les trésoreries des entreprises. Le nouveau PLFR prévoit également que celles placées en procédure de sauvegarde depuis le début de l’année seront désormais éligibles à ce dispositif d’accompagnement et de soutien.<br/>L’action du Gouvernement passe également par des facilités de paiement pour les échéances fiscales ou sociales. À ce jour, le montant des reports des échéances fiscales s’élève à plus de 4 milliards d’euros, et celui du report des échéances sociales à plus de 12 milliards. Ce sont donc plus de 16 milliards d’euros qui permettront d’alléger la trésorerie des entreprises concernées. J’ajoute que nous remboursons de manière accélérée les créances des entreprises à l’égard de l’État restituables en 2020 : TVA, crédit d’impôt recherche, crédit d’impôt pour la compétitivité et l’emploi, et tout autre crédit d’impôt restituable en 2020.<br/>Enfin, j’indique que la prime exceptionnelle de pouvoir d’achat des agents publics, que j’ai présentée avec Gérald Darmanin, le ministre de l’action et des comptes publics, pour la fonction publique d’État et pour la fonction publique territoriale, sera exonérée d’impôts et de cotisations sociales, de même que les sommes versées aux entreprises éligibles au titre du fonds de solidarité. Bien évidemment, le ministre des solidarités et de la santé présentera des mesures visant à placer la fonction publique hospitalière sous le même régime.<br/>Je tenais par ailleurs à souligner que les discussions entre l’Assemblée nationale et Sénat ont permis d’approfondir les dispositions à destination des acteurs les plus fragiles. J’en retiens six.<br/>Vous avez cité la première, monsieur le rapporteur : les foyers les moins favorisés vont bénéficier d’une aide exceptionnelle pour un montant total de 880 millions d’euros, conformément à l’engagement du Président de la République, soit 150 euros par bénéficiaire des minima sociaux et 100 euros supplémentaires par enfant en faveur des foyers modestes.<br/>Deuxième disposition : l’indemnisation des salariés sera sécurisée grâce à un basculement dans le dispositif d’activité partielle à compter du 1<exposant>er</exposant> mai des personnes actuellement en arrêt de travail pour cause de garde d’enfant ou en raison d’une vulnérabilité particulière au Covid-19. Votre assemblée a adopté un amendement abondant le dispositif à hauteur de 1,8 milliard d’euros. Vous avez aussi indiqué, monsieur le rapporteur, que les salariés bénéficieront d’une exonération des rémunérations versées à raison d’heures supplémentaires ou complémentaires réalisées entre le 16 mars et la fin de l’état d’urgence sanitaire, le plafond étant rehaussé à 7 500 euros.<br/>La troisième mesure que je tiens à mettre en exergue concerne les secteurs fragiles. Ils seront accompagnés plus fortement. Je pense notamment aux 19 millions d’euros accordés aux parcs zoologiques, aux refuges et aux cirques familiaux au titre des soins prodigués aux animaux. Cette mesure devra être complétée pour apporter également un soutien aux centres équestres accueillant du public comme s’y sont engagés le ministre de l’action et des comptes publics, le ministre de l’économie et des finances et la ministre des sports.<br/>À l’initiative de votre assemblée, les bailleurs dont les locataires sont des professionnels, bailleurs que nous avons invités à renoncer aux loyers qui leur revenaient, pourront déduire de leurs revenus imposables lesdites sommes. Le Gouvernement a souligné cette initiative et l’a bien évidemment soutenue.<br/>Quant au dispositif de prêt garanti par l’État, il pourra s’étendre aux entreprises intermédiaires en financement participatif.<br/>Enfin, je tenais à souligner que la production et l’acquisition des mesures de protection sanitaire ont été facilitées à la fois par des mesures budgétaires destinées à soutenir l’investissement dans les machines permettant la production de matériaux utilisés pour la confection d’équipements de protection, et par des mesures fiscales de réduction du taux de TVA à 5,5 % pour les gels hydroalcooliques, les masques et les autres équipements de protection.<br/>Par ailleurs, la CMP a retenu trois autres mesures notables : une en soutien aux territoires ruraux, la dotation particulière élu local – DPEL – étant majorée de 8 millions d’euros ; une autre en soutien au monde associatif puisque les collectivités pourront décider de maintenir une partie de leurs subventions ; une troisième enfin en soutien à la solidarité puisque, vous l’avez souligné, monsieur le rapporteur, le plafond des dons affectés à la fourniture de biens alimentaires et de première nécessité donnant droit à un avantage fiscal passera d’un peu plus de 500 euros à 1 000 euros. Cela fait aussi partie des avancées acquises grâce au débat parlementaire.<br/>Je conclus en vous remerciant à nouveau et en vous assurant que, grâce à l’adoption de ce PLFR, l’État sera présent auprès de tous. Nous continuerons à travailler en ce sens. Je sais que beaucoup d’entre vous sont très attentifs aux suites des plans sectoriels à venir, notamment aux éventuelles décisions d’annulation des charges qui sont aujourd’hui reportées. Les débats, ici comme au Sénat, ont montré l’acuité de cette question. Je crois que, comme vous l’avez fait ce matin en CMP, nous avons mené ensemble dans cet hémicycle, puis au Sénat, un travail extrêmement utile pour nous aider et aider nos concitoyens à affronter cette crise. <italique>(M.</italique><italique> </italique><italique>le rapporteur applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Woerth" qualite="président de la commission mixte paritaire" id_acteur="PA2960" id_nomination_oe="-1" id_nomination_op="PM732309" id_mandat="PM723006">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600580" ordre_absolu_seance="2" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075587" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le président de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600581" ordre_absolu_seance="3" id_acteur="PA2960" id_mandat="PM723006" id_nomination_oe="-1" id_nomination_op="PM732309" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075588" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Woerth</nom>
+              <id>2960</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je me réjouis du fait que les travaux de la CMP aient abouti. Je félicite les membres des deux commissions des finances, ainsi que les rapporteurs de la CMP pour le Sénat et l’Assemblée nationale, qui ont travaillé avec leurs équipes dans des conditions rendues difficiles par le peu de temps dont ils disposaient. J’y vois la traduction de la bonne volonté qui prévaut de part et d’autre : chacun souhaite que le plan de soutien à l’économie réussisse.<br/>Je ferai part de plusieurs motifs de satisfaction, mais également de quelques points d’interrogation. Chacun comprend, tout d’abord, que le deuxième PLFR pour 2020 contient, en réalité, des éléments qui figureront dans le troisième PLFR pour 2020. Les débats l’ont clairement montré. Le texte comporte également des éléments qui devront être corrigés. C’est vrai, à l’échelle macroéconomique, des prévisions concernant le niveau de récession : les chiffres sont vertigineux. Nous ne pouvons pas nous y habituer – nous n’en avons pas le droit. Les crises centennales devenant décennales, nous devrons, le moment venu, réagir et tenter de travailler différemment.<br/>Ce PLFR accuse également, je le crois, plusieurs sous-budgétisations – même si l’exercice de prévision est bien entendu difficile. Je songe évidemment au coût du chômage partiel, que M. Charles de Courson a évoqué à plusieurs reprises, mais aussi à d’autres points sur lesquels je n’ai pas le temps de m’étendre.<br/>S’agissant des motifs de satisfaction, il est bon, tout d’abord, que les 20 milliards d’euros qui seront débloqués pour renforcer les fonds propres des entreprises fassent l’objet d’une discussion, ou au moins d’une information au Parlement, dans le respect des conditions de confidentialité qui s’imposent. La décision relative aux heures supplémentaires est également une bonne chose. Comme nous l’avions annoncé – même si je ne pensais pas que cette décision interviendrait aussi rapidement –, le plafond d’exonération de l’impôt sur le revenu pour les heures supplémentaires a été porté de 5 000 à 7 500 euros par an, ce qui me semble raisonnable.<br/>Le relèvement du plafond des dons donnant droit à un avantage fiscal constitue aussi une avancée, tout comme la constitution du comité de suivi et l’intensification du rythme auquel les statistiques lui seront transmises. Cette instance sera importante, car elle réunira toutes les parties et permettra de vérifier que les mesures votées se traduiront effectivement sur le terrain. De la même façon, l’extension du dispositif de prêts participatifs destinés aux petites entreprises est fondamentale.<br/>Quelques points d’interrogation demeurent. La question principale, qui a été soulevée au cours des débats et qui avait fait l’objet d’un amendement adopté au Sénat mais non retenu par la CMP, consiste à savoir quand vous annulerez les charges sociales et fiscales que vous vous contentez pour l’heure de reporter. Vous procéderez forcément à ces annulations. Je ne sais pas si vous le ferez à hauteur de 20 ou de 30 milliards d’euros, mais vous ne pourrez pas demander aux entreprises, alors qu’elles seront – nous l’espérons tous – en pleine reprise, de payer à la fois les charges du moment et celles du passé. Ces annulations feront probablement partie du plan de relance, mais nous aurions dû, me semble-t-il, jouer cartes sur table sur ce point : c’était une condition clef de visibilité et de lisibilité du budget, et une mesure de nature à rassurer les entreprises. Vous ne l’avez pas voulu, mais vous le ferez. Nous devrons très bientôt débattre du dégrèvement et de l’annulation des charges fiscales et sociales.<br/>Je pense ensuite à l’évolution du rôle des assureurs, dont nous avons beaucoup parlé et à propos de laquelle nous partageons la même opinion. Cette évolution devra se traduire, le moment venu, par la création de nouveaux dispositifs afin de répondre à la période actuelle mais aussi à celle qui viendra.<br/>Je songe également à la question des loyers : j’espère que la mesure votée, c’est-à-dire la prise en compte de l’abandon de créance dans le calcul de l’impôt sur les sociétés, sera à la hauteur de l’ambition – que je partage – du ministre de l’économie et des finances, qui souhaite que les grandes foncières ne perçoivent pas, en ces temps de crise, les loyers dont s’acquittent habituellement les professionnels.<br/>Enfin, une dernière interrogation porte sur l’utilisation des surplus d’épargne tout à fait considérables qui se sont constitués. Les Français étant confinés, ils ne consomment pas, alors même qu’à l’exception des professions libérales et de certains commerçants, nombre d’entre eux – salariés, retraités, fonctionnaires, autant de gros bataillons – n’ont pas subi d’importantes pertes de revenus. Comment transformer cette épargne et l’employer de manière utile et performante pour accompagner la relance et surtout accélérer le rythme de la croissance – parce que la croissance reviendra ?<br/>En conclusion, je voudrais m’assurer du bon accès aux dispositifs. En tant que députés, nous recevons beaucoup de remontées. Nous évoquerons ce point en comité de suivi, mais je ne crois pas aux chiffres avancés par Bruno Le Maire. Lorsque ce dernier affirme que seuls 5 % des dossiers de demandes de prêts garantis par l’État – PGE – font l’objet d’un refus, je pense qu’il relaie la statistique qui lui a été transmise, mais que ce pourcentage n’est pas juste. J’espère me tromper. La base même de ce chiffre mériterait probablement d’être discutée. Toutes les mesures adoptées vont dans le bon sens et sont à la hauteur de la réponse à apporter pour soutenir l’économie, mais leur succès dépend aussi du comportement – bureaucratique ou non, tatillon ou non – de ceux qui instruiront les demandes. L’accès aux dispositifs de soutien ne doit pas être une course d’obstacles pour ceux qui peuvent y prétendre, sinon l’économie aura bien du mal à redémarrer. Je demande instamment au Gouvernement et à son administration d’y veiller. <italique>(Applaudissements sur les bancs du groupe LR. – M.</italique><italique> </italique><italique>Charles de Courson applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600591" ordre_absolu_seance="13" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2075598" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Fabien Roussel" id_acteur="PA720692" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723042">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600592" ordre_absolu_seance="14" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075599" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Fabien Roussel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600593" ordre_absolu_seance="15" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2075600" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La pandémie révèle chaque jour un peu plus la responsabilité écrasante de notre modèle économique, du poids de la finance et des logiques de profits qui ont prospéré sur l’exploitation des hommes et de la planète. Nous avons été bien seuls, ces dernières années, à alerter, avec quelques autres, sur la déshumanisation de la société, les risques écologiques ou la casse de nos services publics, notamment celui de la santé. Aujourd’hui, chacun y va de sa petite rengaine pour dire qu’il faut tout changer : tout le monde veut plus de souveraineté économique, d’industrie et de services publics, et nos soignants sont devenus des héros. Mais comment voulez-vous être crédible, monsieur le secrétaire d’État, après tant de revirements ?<br/>Alors, quand nous avons à débattre d’un plan d’urgence pour le pays – doté de 110 milliards d’euros, excusez du peu – permettez-nous d’être exigeants. Un plan à 110 milliards d’euros, ce n’est pas une paille ! Nous aurions aimé pouvoir en faire bouger quelques lignes, tous ensemble, pour répondre à l’urgence tout en préparant le monde d’après. Un amendement communiste – républicain, oserai-je – visait à interdire les aides aux multinationales logées dans les paradis fiscaux. Adopté au Sénat, il a été écarté par la CMP ! Un autre tendait à créer une taxe sur les assurances permettant de collecter 1,9 milliard d’euros pour venir en aide aux petites entreprises. Il a subi le même sort.<br/>L’urgence, c’était de pouvoir apporter une aide à toutes celles et ceux qui sont confrontés à la pauvreté ou qui le seront. Or aucun débat n’a eu lieu sur cette question. Nous savons seulement que 880 millions d’euros de crédits y seront consacrés, sur un total de 110 milliards.<br/>L’urgence, c’était d’aider les salariés en chômage partiel qui perdent 16 % de leur salaire ainsi que les pourboires et les primes, et qui subissent les hausses des prix tout en voyant leurs factures augmenter.<br/>L’urgence, c’était aussi d’augmenter beaucoup plus fortement le fonds de solidarité afin que toutes les demandes des TPE et PME touchées soient satisfaites, y compris celles des artisans sans salarié ou des entreprises employant entre onze et vingt personnes. Vous avez, au contraire, fait le choix d’être bien généreux avec les grandes entreprises, auxquelles vous accordez 20 milliards d’euros de crédits, sans que nous sachions lesquelles seront concernées ni à quelles conditions : ce débat, vous venez de le dire, viendra plus tard. Nous savons en revanche déjà que Luxfer, Famar et d’autres entreprises n’en feront pas partie. Aucun amendement visant à conditionner ces aides au respect d’objectifs sociaux ou environnementaux n’a été accepté – comme si la revendication récente du MEDEF, qui a votre oreille et se permet de vous demander ouvertement de repousser la transition écologique, était déjà entendue.<br/>L’urgence, c’était enfin d’apporter une aide plus importante aux territoires ultramarins qui dénoncent toujours le fossé entre vos discours et la réalité des aides apportées.<br/>L’autre absente de ce texte, c’est la question des recettes fiscales, lesquelles restent introuvables alors que le pays s’apprête à débourser 110 milliards d’euros. Qui paiera, monsieur le secrétaire d’État ? C’est la dette qui financera la dépense, dites-vous. Mais à la fin, qui paiera la dette ? Qui en remboursera les intérêts ? Le gouverneur de la Banque de France et le patron du MEDEF ont déjà répondu : il faudra rembourser cet argent, dit l’un ; il faudra travailler plus, dit l’autre !<br/>Nous demandons que la Banque centrale européenne annule une partie des dettes publiques qu’elle détient et qu’elle finance directement les investissements des États comme on commence à l’observer dans d’autres pays. Ce n’est pas aux peuples de payer la crise, surtout quand ils en subissent déjà les effets dramatiques ! Oui, les traités européens sont dépassés par cette crise et contaminés par le virus : il est temps d’en écrire de nouveaux, respectueux des peuples et de leur souveraineté, qui organisent la coopération entre les nations plutôt que la concurrence libre et non faussée !<br/>Enfin, la mobilisation de toute la nation est essentielle – et pas seulement de ceux qui travaillent. Il est temps de mettre à contribution la finance et le capital pour participer au redressement du pays, car leurs réserves sont énormes ! Les 358 000 familles les plus riches de France détiennent un patrimoine de 1 028 milliards d’euros ! Les assurances disposent de plusieurs dizaines de milliards d’euros de réserves. L’imposition des revenus financiers est plafonnée à 30 %. Les banques continuent, en ce moment même, de se gaver des intérêts que leur verse l’État : ces derniers atteignent 36 milliards d’euros dans le budget de l’État cette année !<br/>C’est pourquoi nous vous avions proposé de définir des critères avant de permettre l’utilisation de l’argent public, de rétablir l’ISF – impôt de solidarité sur la fortune – et un impôt juste sur les revenus financiers, de taxer la spéculation et de donner davantage de pouvoirs de contrôle aux salariés dans les entreprises. Vous avez tout rejeté en bloc. Décidément, avec vous, le monde d’après n’est pas pour demain !<br/>Pour toutes ces raisons, les députés communistes voteront contre ce projet de loi de finances rectificative. D’autres députés du groupe GDR, notamment les députés ultramarins, s’abstiendront. Je remettrai leurs noms au service de la séance. <italique>(Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Cendra Motin" id_acteur="PA719850" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722780">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600604" ordre_absolu_seance="26" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075611" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Cendra Motin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1600605" ordre_absolu_seance="27" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075612" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est avec fierté que nous pouvons nous retrouver cet après-midi pour concrétiser ensemble l’accord trouvé par le Sénat et l’Assemblée nationale en vue de l’adoption de ce deuxième projet de loi de finances rectificative. Ce résultat démontre une fois encore l’esprit de responsabilité des deux chambres et l’attitude constructive qu’elles ont adoptée pour répondre au mieux à une crise sans précédent. Nous ne pouvons que nous en féliciter et souhaiter que cet état d’esprit continue à prévaloir dans les débats à venir.<br/>Ce texte est un plan de soutien renforcé à notre économie. Il répond aux besoins des chefs d’entreprise de toutes tailles et de leurs salariés. Collectivement, Assemblée nationale comme Sénat, nous assumons préférer la dette aux faillites de nos entreprises. C’est pourquoi il était nécessaire de renforcer les crédits alloués au dispositif d’activité partielle, qui bénéficie aujourd’hui à plus de 10 millions de salariés du secteur privé et dont le budget est porté, grâce à ce PLFR, à 24 milliards d’euros. Comme l’a rappelé la ministre du travail, l’activité partielle sera maintenue après le 11 mai, à la fois pour éviter des licenciements et parce que la reprise sera nécessairement progressive. Nous continuerons donc à soutenir ce dispositif autant que nécessaire.<br/>Ce PLFR permet aussi de continuer à accompagner les TPE, les PME et les travailleurs indépendants en abondant massivement le fonds de solidarité – il passe de 1 à 7 milliards d’euros –, en renforçant le FDES, le fonds de développement économique et social, pour le porter à 1 milliard d’euros, en créant un fonds d’avances remboursables de 500 millions d’euros et en offrant une nouvelle possibilité de financement avec les prêts participatifs. Ces dispositifs sont renforcés par des reports de charges sociales et fiscales qui auront vocation à évoluer pour certains secteurs en grand danger et par le prêt garanti par l’État. Sur ce dernier point, je veux saluer le travail acharné – et payant – fourni par le Gouvernement pour obtenir un accord européen afin que les banques n’incluent plus le niveau des fonds propres des entreprises dans leurs critères d’attribution de ces prêts.<br/>À cela s’ajoutent plusieurs dispositifs inédits de solidarité : une aide financière à destination des familles en situation de grande précarité, qui doivent être soutenues au quotidien ; 39 millions d’euros d’aides alimentaires annoncés ce matin par Christelle Dubos, secrétaire d’État auprès du ministre des solidarités et de la santé ; et des aides aux associations de lutte contre les violences intrafamiliales et contre les violences faites aux enfants, qui ont besoin de notre soutien. Les 2 milliards d’euros débloqués par le Gouvernement dans le PLFR pourvoient à ces besoins sans qu’il soit nécessaire de créer un programme budgétaire spécifique. La crise actuelle exacerbe, c’est vrai, les inégalités en matière d’emploi, de logement et de santé – et notre objectif collectif est bien de ne laisser personne sur le bord de la route.<br/>La discussion parlementaire a permis de nombreuses avancées. Je salue le travail de mes collègues de l’Assemblée qui a permis de faire bénéficier les entreprises créées entre le 1<exposant>er</exposant> février et le 15 mars du fonds de solidarité à partir du mois d’avril, d’autoriser les bailleurs à abandonner des créances de loyers sans subir de préjudice fiscal et d’appliquer un taux de TVA réduit à 5,5 % au gel hydroalcoolique et aux masques de protection, ce périmètre ayant été étendu par le Sénat aux protections individuelles et aux produits désinfectants. Je salue également l’accord trouvé avec les sénateurs concernant le relèvement du plafond de dons défiscalisés – le dispositif dit Coluche – de 552 à 1 000 euros en 2020, le maintien des subventions déjà versées aux événements et manifestations qui seront malheureusement annulés, et l’extension du bénéfice de la dotation particulière des élus locaux à 3 500 maires de toutes petites communes pour reconnaître leur travail de terrain, essentiel pendant cette crise.<br/>Ce débat a permis également de rappeler notre attachement collectif à des engagements forts. Je citerai d’abord la lutte contre l’évasion fiscale, à propos de laquelle le ministre de l’économie et des finances s’est très clairement exprimé ce matin en évoquant les entreprises qui ont leur siège dans les paradis fiscaux. Les règles existent et les limites sont posées.<br/>Je veux aussi rappeler nos engagements pour l’environnement. À ce titre, je me réjouis que les aides importantes que le Gouvernement accordera à des entreprises françaises stratégiques soient assorties d’un contrôle renforcé de leurs engagements environnementaux en matière de trajectoire carbone, et que le Haut conseil pour le climat puisse rendre un avis sur le rapport qu’elles nous transmettront.<br/>Les avancées de ce texte sont majeures et utiles. Nous avançons étape par étape et nous agissons pour sauver d’abord nos entreprises et nos emplois avant d’envisager des plans à moyen terme. Avant la relance, il faut la rescousse. C’est pourquoi le groupe La République en marche votera ce budget, à bien des égards historique. <italique>(Applaudissements sur les bancs du groupe LaREM.</italique><italique> </italique><italique>–</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>le rapporteur applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Véronique Louwagie" id_acteur="PA608016" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723024">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600613" ordre_absolu_seance="4" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075551" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Véronique Louwagie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600614" ordre_absolu_seance="5" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075552" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <id>608016</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous savons qu’en raison de l’épidémie de coronavirus, les mois qui nous attendent seront très difficiles. C’est pourquoi, il est vital que les mesures prises par le présent PLFR soient appliquées le plus vite possible. L’économie française et nos entreprises, au premier rang desquelles les TPE et PME, ne peuvent attendre.<br/>La révision du plan d’urgence à 110 milliards d’euros est une mesure nécessaire que nous ne pouvons que saluer, car elle pourra aider les personnes les plus vulnérables et les plus touchées par cette crise. Malheureusement les prévisions de ce PLFR, encore trop optimistes, sont déjà caduques et les mesures sont donc largement insuffisantes.<br/>Nous saluons toutefois l’issue positive de la commission mixte paritaire, qui permet d’avancer sans perdre de temps. Elle a été facilitée par un probable report de certaines dispositions non encore retenues, qui seront probablement actées dans le troisième PLFR. Aussi nous réjouissons-nous des avancées obtenues grâce à la majorité LR du Sénat – je citerai la défiscalisation des heures supplémentaires, avec un plafond annuel de 7 500 euros, l’extension du taux de TVA réduit à l’ensemble des équipements de protection individuelle, le déplafonnement du montant des dons en nature, la hausse des plafonds de défiscalisation du mécénat public et privé en faveur de l’aide alimentaire, la création de prêts participatifs, avec un dispositif plus complet censé couvrir les entreprises non couvertes par le prêt garanti par l’État – PGE –, la possibilité de maintien des subventions des collectivités aux festivals annulés et l’information du Parlement sur toutes les opérations de plus de 1 milliard d’euros en matière de participations d’État.<br/>Les députés Les Républicains ont déjà exprimé leur soutien à ce PLFR et le réitèrent aujourd’hui, mais nous rappelons aussi nos observations : si l’effort concédé par le Gouvernement est indéniable et louable, nous estimons premièrement qu’il faut aller plus loin, deuxièmement qu’il nous faut contrôler l’application de ces mesures et troisièmement que le temps est maintenant à préparer le déconfinement économique.<br/>Tout d’abord, donc, il nous faut aller plus loin. Nous vous réclamons depuis des semaines l’annulation des charges sociales et fiscales pour les PME les plus en difficulté et une exonération de la redevance audiovisuelle pour les hôtels, restaurants et cafés. Comme l’indiquait voilà quelques instants le président de la commission des finances, vous devrez probablement en venir à cette annulation de charges, qui est absolument indispensable. Il y va de la survie d’un très grand nombre d’entreprises et de commerces de proximité.<br/>Nous souhaitions une augmentation de 2 milliards d’euros des crédits du fonds de solidarité, ainsi qu’une extension de ses conditions d’éligibilité. Comment comprendre par exemple que, parce que son dirigeant perçoit une retraite de 1 000 euros, une entreprise ne puisse pas recevoir les 1 500 euros du fonds de solidarité qui sont destinés à couvrir ses charges fixes ? Il faut réellement que, comme vous l’avez dit, personne ne soit oublié. Certaines filières, comme celle du biocarburant ou la filière horticole, et d’autres encore, ont besoin de mesures spécifiques de soutien. Nous regrettons que ce PFLR2 n’acte pas ces dispositifs et souhaitons en tout cas que le PFLR3 les retienne.<br/>Ensuite, et c’est mon deuxième point, la mission de contrôle de l’action du Gouvernement doit pleinement s’exercer, car maintenant, au-delà des engagements, les actes doivent suivre. D’ailleurs, qui est mieux à même que nous, députés, en contact avec les entreprises et les habitants sur nos territoires, de faire remonter les difficultés, les suggestions et ce que nous appelons les « trous dans la raquette » ?<br/>Pour sauver nos entreprises, l’application, dans les meilleures conditions et les plus brefs délais, des mesures votées est impérative. Le Gouvernement devrait d’ailleurs se réjouir de notre volonté de contrôler pour veiller à une bonne exécution auprès de tous.<br/>Sur certaines filières, comme la filière équine, nous avons entendu les engagements du Gouvernement, que vous avez en outre rappelés, monsieur le secrétaire d’État. Il est de notre rôle de vérifier sur le terrain l’application des dispositifs et, le cas échéant, de donner l’alerte.<br/>Pour ce qui est des nouveaux prêts participatifs ou des avances remboursables, fort attendus en complément du prêt garanti par l’État, nous devons nous assurer que chaque entreprise puisse trouver le crédit qui apporte une solution à ses difficultés de trésorerie, actuelles ou à venir. Je me réjouis donc qu’une disposition adoptée à l’initiative du président de la commission des finances nous permette de disposer de tableaux de bord hebdomadaires, et non mensuels, car de notre réactivité et de notre capacité à nous adapter et à corriger dépendra la survie d’un grand nombre d’entreprises.<br/>Enfin, le temps est aussi à préparer l’après 11 mai. Le Gouvernement doit présenter au plus vite un plan de déconfinement économique. Il y va de la survie d’un très grand nombre d’entreprises. Une reprise rapide de l’activité pourra nous prémunir contre la catastrophe économique et éviter que notre économie ne sombre dans une crise dont beaucoup ne se relèveront peut-être pas. Ce plan doit être accompagné de mesures fortes permettant de relancer les activités de commerce et de distribution, car c’est la condition essentielle du redémarrage de notre industrie, probablement partiel et progressif.<br/>Nous devons aussi tirer dès maintenant des leçons de ce douloureux épisode : la gestion de la crise au niveau de l’État appelle également à ce que, outre un grand plan de simplification, de diminution de nos normes, nous réfléchissions à un vrai plan de décentralisation. L’État doit aussi se remettre en cause. L’approximation n’est pas acceptable quand tant de vies sont en danger.<br/>Monsieur le secrétaire d’État, mes chers collègues, même si ce PLFR nous paraît insuffisant, tous ensemble, unis, notre devoir est de permettre à la France de rebondir et de retrouver la voie de la croissance. Dans l’attente du troisième PLFR qui se profile  et dans lequel nous souhaitons voir retenues certaines de nos propositions qui ne l’ont pas été à ce stade, les députés Les Républicains voteront ce deuxième PLFR 2020. <italique>(Applaudissements sur les bancs du groupe LR.</italique><italique> </italique><italique>–</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>le président de la commission des finances applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Noël Barrot" id_acteur="PA721836" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723398">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600628" ordre_absolu_seance="84" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075566" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Noël Barrot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600629" ordre_absolu_seance="85" id_acteur="PA721836" id_mandat="PM723398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075567" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien qu’ayant travaillé très rapidement sur ce texte, nous avons eu des débats en profondeur, qui ont fait ressortir toutes les difficultés dans lesquelles notre pays est plongé. Je veux d’abord, au nom des députés du groupe MODEM et apparentés, saluer le Gouvernement et le remercier d’avoir su, dans la construction de ce texte, tenir compte des remontées du terrain qui ont suivi le premier PLFR, que nous avons adopté voilà un peu moins d’un mois.<br/>Le texte qui nous est soumis recharge les crédits des trois principaux dispositifs que sont l’activité partielle, le fonds de solidarité et les prêts garantis par l’État, et élargit le périmètre de leurs bénéficiaires en tenant compte des difficultés constatées. C’est une très bonne chose. Je pense notamment à l’accès au PGE, étendu aux entreprises en procédure de sauvegarde ou de redressement, à l’accès au fonds de solidarité, étendu aux entreprises créées tout récemment, et à de nombreuses autres ouvertures très bienvenues.<br/>Outre l’extension de ces dispositifs, le texte prévoit l’exonération de la prime annoncée la semaine dernière par le Président de la République et qui entrera en vigueur très rapidement pour récompenser les agents publics qui sont en première ligne et qui ont été fortement mobilisés dans la gestion de la crise liée à l’épidémie de coronavirus Covid-19.<br/>Nous nous réjouissons également des enrichissements apportés à ce texte par l’Assemblée nationale, comme l’abaissement du taux de TVA à 5,5 % pour les masques et le gel hydroalcoolique, ou l’amendement instaurant la neutralisation fiscale des abandons de créances, qui accompagne la volonté du Gouvernement d’inciter certains bailleurs à renoncer aux loyers des commerçants et entreprises. De fait, alors que le fonds de solidarité permet aux petites entreprises de faire face à leurs créances, en particulier à leur loyer, cet amendement et l’engagement du Gouvernement encouragent certains créanciers à abandonner tout simplement leurs créances afin de désendetter les entreprises et les commerçants.<br/>Nous nous réjouissons enfin des enrichissements obtenus au Sénat et ce matin en CMP, grâce à la discussion entre les deux rapporteurs généraux, que nous félicitons du travail qu’ils ont accompli pour faire converger les propositions de l’Assemblée et du Sénat. Je pense ici à la défiscalisation des heures supplémentaires pour la période de la crise, au relèvement bienvenu du plafond des dons alimentaires et au dispositif des prêts participatifs qu’ils ont créé ensemble. Il s’agit là aussi d’une très bonne mesure, car les entreprises n’ont pas seulement besoin d’outils de dette : un entrepreneur trop endetté rencontrera des difficultés pour aborder sereinement la reprise. Les abandons de créances et les prêts participatifs vont ainsi pleinement dans le sens d’un renforcement des incitations qui aideront les entrepreneurs à reprendre leur activité lorsque viendra le temps de la reprise.<br/>Enfin, nous nous félicitons des amendements d’évaluation des politiques publiques. Le Parlement s’honore de contrôler le Gouvernement et celui-ci en est grandi. Les dispositions décidées ce matin à cet égard vont absolument dans le bon sens.<br/>En un mot, les députés du groupe MODEM et apparentés voteront bien évidemment ce texte et se préparent déjà à participer à la construction du prochain PLFR, qui nous réunira très prochainement. <italique>(Applaudissements</italique><italique> sur les bancs du groupe MODEM.</italique><italique> </italique><italique>–</italique><italique> </italique><italique>M. le rapporteur et M.</italique><italique> </italique><italique>Charles de Courson applaudissent également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Valérie Rabault" id_acteur="PA609590" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723326">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600636" ordre_absolu_seance="92" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075574" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Valérie Rabault.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600637" ordre_absolu_seance="93" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075575" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous voici dans l’hémicycle pour finaliser le vote du deuxième projet de loi de finances rectificative pour 2020. La commission paritaire a permis un accord entre la majorité sénatoriale et celle de l’Assemblée nationale. Elle a donc réussi. Le groupe Socialistes et apparentés a voté ce second projet de loi de finances rectificative, comme l’ont fait nos collègues sénateurs du groupe socialiste et républicain, et nous voterons à nouveau la version finale de ce texte – non pas que nous soyons d’accord sur tous ses points, mais parce que nous considérons que l’urgence alimentaire, sociale et économique prime.<br/>Et puisque me sont accordées cinq minutes pour parler de ce second projet de loi de finances rectificative, et sachant que nous allons le voter, j’évoquerai plutôt ce qui ne va pas que ce qui va.<br/>D’abord, il ne faut jamais mentir sur les chiffres. Vous parlez de 105 milliards d’euros, mais ce chiffre inclut 40 milliards de moindres recettes. Il y a donc au final 62 milliards en argent frais, sur lesquels 20 milliards sont consacrés à des recapitalisations d’entreprises dont l’État est déjà actionnaire ou à des nationalisations temporaires. Or, règne là un épais silence, que nous avons déjà dénoncé la semaine dernière, notamment avec Gilles Carrez. On ne sait rien. Vous nous demandez de voter 20 milliards d’euros on ne sait sur quoi.<br/>Je me réjouis bien évidemment de l’accord trouvé au Sénat qui permet aux présidents et aux rapporteurs généraux d’avoir accès à l’information avant que les investissements ne soient réalisés. Cependant, le sénateur Claude Raynal avait déposé un sous-amendement permettant aux rapporteurs spéciaux des commissions des finances d’avoir le même accès à l’information, qui n’a pas été voté. Pour ma part, je m’en tiens à la loi organique relative aux lois de finances – LOLF –, qui donne les mêmes pouvoirs aux rapporteurs spéciaux qu’au rapporteur général.<br/>Je tiens à vous indiquer, monsieur le secrétaire d’État, que ces pouvoirs seront exercés dès le lendemain du déconfinement : dès le 11 mai, Bercy aura droit à une petite visite.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600641" ordre_absolu_seance="98" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM744089" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075584" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Dussopt</nom>
+              <id>330357</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ce sera avec plaisir !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600641" ordre_absolu_seance="99" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2075583" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Peut-être aurons-nous des informations avant ? Je sais que Bercy me répondra que ce n’est pas possible en amont, mais relisez l’article de la LOLF, qui a été tellement bien pensé par nos prédécesseurs : il est parfait, et donne de vrais pouvoirs au Parlement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600641" ordre_absolu_seance="100" id_acteur="PA746" id_mandat="PM723212" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075585" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gilles Carrez</nom>
+              <id>746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous aurez notre soutien dans cette démarche !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1600642" ordre_absolu_seance="101" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2075580" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur le deuxième tiers des crédits prévus, c’est-à-dire les 24 milliards d’euros consacrés à l’activité partielle, le montant voté est, il faut le reconnaître, relativement clair, mais plusieurs questions demeurent.<br/>Tout d’abord, j’ai demandé hier à la ministre du travail combien d’argent, sur ces 24 milliards, avait déjà été versé. En effet, comme nous l’avons déjà dit dans cet hémicycle – et sans doute pensons-nous tous à des cas précis – de nombreux chefs d’entreprise ont payé leurs salariés au mois de mars, mais n’ont pas été remboursés par l’État. La ministre nous a répondu que 1,5 milliard d’euros seulement avait été versé – sur 24 milliards, et c’est la ministre qui l’a dit ! De fait, à ce jour, de nombreux chefs d’entreprise n’ont toujours pas reçu le remboursement correspondant au mois de mars.<br/>Ensuite, vous avez corrigé dans le PLFR, et je m’en réjouis, un point que nous avions dénoncé s’agissant des indemnités journalières que perçoivent les parents obligés de s’arrêter pour garder leurs jeunes enfants. Faute sans doute d’avoir été bien expliquée, cette mesure a laissé penser aux chefs d’entreprise qu’ils seraient remboursés de la totalité ou de 90 %, du salaire, alors que cette part n’était que de 50 % selon les modalités de prévoyance existantes. Je me félicite que le Gouvernement ait fait marche arrière car je rappelle que cette mesure concernait 1,7 million de personnes. Cela prouve que nous ne disons pas que des bêtises et que nous avions raison de vous alerter sur ce sujet il y a un mois.<br/>Concernant le troisième tiers, c’est-à-dire les 18,5 milliards d’euros de crédits de soutien, je répète ce que j’avais dit en première lecture : le soutien à l’urgence sanitaire et sociale ne représente que 2 % de ce deuxième PLFR. Nous estimons que c’est insuffisant. Laurence Rossignol avait fait voter au Sénat un amendement prévoyant d’inscrire dans la loi l’attribution de 1,5 milliard d’euros aux femmes et enfants victimes de violences. Ce montant proposé par ma collègue ne sortait pas du chapeau puisqu’il correspondait à l’annonce qui avait été faite plus tôt par la secrétaire d’État Marlène Schiappa. Or la CMP a supprimé cet article voté au Sénat. Je considère que vous actez ainsi le fait que les propos de Mme Schiappa relevaient de la communication et ne reposaient sur aucune réalité budgétaire.<br/>Au-delà de ces sommes demeurent de nombreuses interrogations, ainsi que des oublis. Concernant la transformation en annulation du report de cotisations, quels sont les critères d’éligibilité retenus pour les entreprises appartenant aux secteurs ciblés par le ministre de l’action et des comptes publics, notamment l’hébergement et la restauration ? D’autres secteurs seront-ils concernés ? Sur ce point, des précisions sont nécessaires. D’autre part, l’aide exceptionnelle en direction des foyers en difficulté n’est pas suffisante : vous oubliez les étudiants et apprentis boursiers, ainsi que les personnes âgées modestes.<br/>Enfin, l’effort pour la culture est très insuffisant dans ce PLFR, malgré l’apport du Sénat visant à permettre aux collectivités locales de maintenir leur subvention en cas d’annulation d’un festival. L’agriculture en est, elle, totalement absente, alors que les agriculteurs français contribuent largement à approvisionner le pays avec des produits de qualité. Nous attendrons donc le troisième PLFR qui, j’imagine, sera proposé dans un mois mais le groupe Socialistes et apparentés vote d’ores et déjà celui-ci car nous considérons que le verre est plutôt à moitié plein qu’à moitié vide.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Patricia Lemoine" id_acteur="PA721632" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM760305">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600519" ordre_absolu_seance="5" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075486" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Patricia Lemoine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600520" ordre_absolu_seance="6" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075487" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Lemoine</nom>
+              <id>721632</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Face à une crise sanitaire exceptionnelle, qui a entraîné l’arrêt de l’activité économique et une récession sans précédent, nous essayons par cette seconde loi de finances rectificative de répondre rapidement mais aussi efficacement à l’urgence. Le choix fait par le Gouvernement est clair : ne pas lésiner sur les moyens budgétaires afin de soutenir le tissu économique et de protéger les salariés. Ce choix était le seul possible et nous l’appuyons pleinement. Ce sont désormais 110 milliards d’euros qui alimentent le plan d’urgence.<br/>Le rôle du Parlement, à notre sens, est double : d’une part, donner au Gouvernement les marges de manœuvre qui s’imposent pour ajuster les mesures déjà prises et engager les nouvelles dépenses qui apparaissent nécessaires dans un contexte très évolutif ; d’autre part, grâce aux remontées du terrain, proposer des améliorations des dispositifs existants pour que personne, parmi les plus touchés, ne soit oublié par l’État. C’est ainsi que le seuil permettant aux entreprises de bénéficier du fonds de solidarité selon le critère de la perte du chiffre d’affaires a été ramené de 70 % à 50 %. De même, nous nous réjouissons de la création d’un programme d’avances remboursables aux entreprises, de 500 millions d’euros, qui bénéficiera notamment aux sociétés qui n’auraient pas obtenu un prêt garanti par l’État, ou encore de l’élargissement de ce prêt aux entreprises qui étaient déjà en difficulté et soumises à une procédure collective.<br/>Le débat parlementaire a aussi rendu possibles quelques évolutions de bon sens, comme la baisse à 5,5 % de la TVA sur les masques et le gel hydroalcoolique ainsi que sur les équipements de protection et les désinfectants, prévue par le texte issu de la commission mixte paritaire. Je me félicite d’ailleurs que celle-ci soit parvenue à un accord car le projet de loi que nous nous apprêtons à voter contient de nombreuses autres avancées, telles que l’exonération d’impôt sur le revenu et de cotisations sociales des rémunérations perçues au titre des heures supplémentaires effectuées par les salariés depuis le début du confinement et jusqu’à la fin de la période d’état d’urgence sanitaire, ou le rehaussement à 1 000 euros du plafond en dessous duquel sont déductibles de l’impôt sur le revenu les dons aux associations de soutien aux plus démunis, notamment les banques alimentaires.<br/>Nous regrettons en revanche que la proposition de créer un fonds d’urgence contre les violences intrafamiliales, doté de 1 million d’euros, n’ait pas été retenue alors que les appels au 119 ont presque doublé depuis le début du confinement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600524" ordre_absolu_seance="10" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075491" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600525" ordre_absolu_seance="11" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2075492" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Lemoine</nom>
+              <id>721632</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le plan d’urgence que nous allons voter est cependant à la hauteur des enjeux.<br/>D’autres chantiers restent toutefois à mener et méritent des réponses rapides. Nous réitérons tout d’abord notre demande d’annulation des charges fiscales et sociales pour les entreprises les plus touchées. Le report est une bonne mesure, mais l’exonération sera aussi une nécessité car elle permettra de redonner confiance et visibilité aux entreprises concernées.<br/>La crise aura également un impact très négatif sur les collectivités territoriales, dont nous avons, à mon sens, peu parlé, même si elle ne sera pas ressentie de la même façon partout. Les collectivités territoriales se trouvent en première ligne dans la gestion de la crise sanitaire, faisant preuve d’une créativité et d’un esprit d’initiative exceptionnels. Ce sont elles aussi qui permettront d’identifier les potentiels de relance et de reprise de l’activité dans les territoires. Il faudra donc leur donner de la souplesse. À l’image de l’ordonnance, parue ce matin, qui permet de moduler dès 2020 le taux de la taxe locale sur la publicité extérieure, elles doivent pouvoir, ce qui avait d’ailleurs fait l’objet d’un amendement de notre groupe lors de la première lecture du PLFR vendredi dernier, exonérer partiellement ou totalement les entreprises de fiscalité locale.<br/>Enfin, la solidarité entre les entreprises doit aussi être totale. Ce sont bien elles et leurs salariés qui ont su s’adapter, ici pour fabriquer des masques, là pour assurer la continuité de services d’intérêt général, preuve que notre administration a aussi besoin de l’initiative privée. Nous pensons que certains secteurs qui ne souffrent pas de la crise doivent pouvoir utiliser leurs marges pour soutenir les plus fragiles. Il est possible d’aller plus loin dans l’implication des assureurs qui, hélas, ne prennent pas leur part dans les pertes d’exploitation des entreprises, même s’ils contribuent pas ailleurs au fonds de soutien. De même, je suis particulièrement attachée à la création d’un fonds, que les grandes surfaces devraient pourvoir abonder, en faveur des petits commerces non alimentaires qui, eux, ont dû fermer leurs portes, au péril de leur activité.<br/>Ce PLFR enrichi offre de nombreux outils visant à atténuer autant que possible la crise économique mais aussi la crise sociale qui touchent de plein fouet les plus modestes et les familles. Le groupe UDI, Agir et indépendants le votera à l’unanimité. Nous savons qu’un nouveau budget rectificatif sera sans doute soumis au Parlement au cours des prochaines semaines. Formons le vœu que celui d’aujourd’hui dessine déjà les contours d’un plan de relance et d’investissement et qu’il trouve aussi une traduction forte au niveau européen.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Charles de Courson" id_acteur="PA942" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722900">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600530" ordre_absolu_seance="16" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075497" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Charles de Courson.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600531" ordre_absolu_seance="17" id_acteur="PA942" id_mandat="PM722900" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075498" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Charles de Courson</nom>
+              <id>942</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Moins d’un mois après l’adoption d’une première loi de finances rectificative, nous voici réunis pour amplifier, assez largement, les dispositifs d’urgence adoptés face à la crise.<br/>Nous sommes entrés dans une récession qui s’annonce d’une rare violence, avec un produit intérieur brut en contraction de 8 %. Notre économie est fortement ralentie et certains secteurs sont durablement à l’arrêt. Face à cette situation, le Gouvernement a choisi de recourir massivement à la dépense publique et à l’emprunt pour éviter un effondrement économique et social.<br/>Nous vous le disons d’emblée : la majorité des membres du groupe Libertés et territoires votera le compromis trouvé avec nos collègues sénateurs lors de la commission mixte paritaire. Nous devons cependant regretter un manque de vision d’ensemble, et nous interroger : mais qui, finalement, paiera la note ?<br/>Oui, l’ampleur de la crise sanitaire et ses conséquences socio-économiques imposent une réponse rapide et massive. Mais nos déficits publics sont multipliés par quatre, passant de 50 milliards d’euros en loi de finances initiale pour 2020 à environ 200 milliards en loi de finances rectificative. Deux cents milliards d’euros ! Ce chiffre est plus parlant que les 9,1 points de PIB souvent mentionnés. Ramené à chaque actif français, il représente 7 434 euros de dette supplémentaires, soit 3,3 mois de salaire moyen d’un Français. Telle est la réalité.<br/>Je ferai quelques remarques sur la répartition de ces déficits. Celui de l’État s’établit à lui seul à 185 milliards d’euros. Mais nous souhaitons appeler l’attention du Gouvernement sur celui des administrations de sécurité sociale.<br/>M. le ministre Darmanin a évalué à 41 milliards d’euros le déficit pour les organismes de sécurité sociale. Ce montant ne prend pas en compte le déficit, de l’ordre de 10 milliards, de l’UNEDIC, fortement mis à contribution puisqu’il finance le tiers du dispositif de chômage partiel. Selon la ventilation que le ministre a bien voulu nous communiquer, à la suite de demandes répétées, le déficit de l’ensemble des administrations de sécurité sociale s’élèverait à 50 milliards d’euros. Au vu de cette dégradation, nous vous demandons instamment l’examen d’un projet de loi de financement de la sécurité sociale rectificative. Nous demandons également l’examen d’une nouvelle loi de programmation des finances publiques, laquelle avait été promise, je le rappelle, pour la fin de ce mois.<br/>Quant aux collectivités territoriales, elles sont, pour reprendre l’expression consacrée, en première ligne. Le Président de la République s’est entretenu aujourd’hui avec des maires et des représentants d’associations de maires ; je n’oublie pas, pour ma part, les départements et les régions, également fortement mobilisés. L’impact de la crise actuelle sur les collectivités territoriales serait de 14 milliards d’euros. En effet, leur excédent, qui s’élevait, en loi de finances initiale, à 0,2 point de PIB, soit un peu moins de 5 milliards, est devenu un déficit de 0,4 point de PIB, soit 9 milliards. Ces dernières devront faire l’objet d’un plan de soutien dédié, à la hauteur de leur engagement, dès la prochaine loi de finances rectificative.<br/>Sur de nombreux aspects, le Sénat a amélioré le texte que nous avions voté en première lecture. Certaines des mesures issues de la commission mixte paritaire vont dans la bonne direction. Elles portent parfois sur des montants peu importants, par exemple l’augmentation de la dotation élu local de 8 millions d’euros, que notre groupe avait défendue en première lecture, hélas sans succès. Mais il s’agit parfois aussi de mesures plus larges : je pense notamment à la défiscalisation et à la désocialisation des heures supplémentaires, qui, dans le contexte actuel, constituent un bon levier pour mieux rémunérer les salariés fortement sollicités – assorties toutefois du plafonnement du montant éligible à 7 500 euros. Il en va de même du quasi-doublement du plafond, à 1 000 euros, de la déductibilité des dons en faveur de l’aide alimentaire.<br/>Est également maintenu le mécanisme subsidiaire de prêt participatif – jusqu’à 50 000 euros pour les petites entreprises – adossé au Fonds de développement économique et social. J’y vois la confirmation des difficultés qu’ont quelques entreprises à accéder au crédit malgré la garantie de l’État. Nous souhaitons que ce dispositif permette d’y remédier.<br/>Disons un mot des 20 milliards que vous entendez consacrer à la prise de participation dans des entreprises stratégiques. À l’issue de la CMP, le Parlement est un peu mieux informé mais, dans cette affaire, ses pouvoirs n’ont pas été respectés. S’agissant de la conditionnalité sociale et environnementale de cette prise de participation, un petit pas a été permis par le Sénat. Le Haut conseil pour le climat donnera un avis sur le rapport remis au Parlement, lequel devra évaluer le respect de la stratégie nationale bas carbone et des objectifs de notre politique énergétique. Mais nous demeurons bien loin du virage écologique promis par le Président de la République. Le « jour d’après » attendra !<br/>Nous regrettons également que les sociétés d’assurance ne soient pas davantage mises à contribution, comme le proposaient deux articles adoptés au Sénat. En tant que parlementaires, nous avons demandé quel était l’impact de la crise sur leur activité. Y gagnent-elles, y perdent-elles, et dans quelles proportions ?<br/>J’aborderai enfin un dernier point qui constitue une transition entre le présent PLFR et le prochain, dont nous devrons débattre avant la fin du mois de mai. Le coût du dispositif de chômage partiel demeure largement sous-évalué. Je ne comprends toujours pas pourquoi l’UNEDIC, déjà déficitaire, porte un tiers du poids des 24 milliards d’euros qui y sont consacrés alors que son conseil d’administration ne s’est même pas réuni pour en discuter. Un coût de 8 milliards, pour un organisme dont la dette s’élève déjà à 37 milliards et sera portée d’ici à la fin de l’année à 50 milliards ! Sans compter que le montant de l’enveloppe sera finalement bien plus élevé : il est difficile de donner un chiffre, mais ce sera au minimum 30 milliards d’euros, comme le rappelait le président de la commission des finances. Nous devrons y revenir lors du prochain PLFR.<br/>En conclusion, le groupe Libertés et territoires votera majoritairement pour cette deuxième loi de finances rectificative mais une forte minorité s’abstiendra. <italique>(Applaudissements sur les bancs du groupe LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600543" ordre_absolu_seance="65" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075510" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1600544" ordre_absolu_seance="66" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075511" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Notre position n’a pas changé : nous voterons contre ce PLFR, le passage au Sénat  n’ayant pas modifié le texte en profondeur. Ce projet de loi qui voit l’État intervenir massivement dans l’économie ne propose pas la moindre piste concernant le « monde d’après » que pourtant même l’Élysée, dit-on, appelle de ses vœux.<br/>On ne peut pas relancer sur les mêmes bases la machine qui nous a conduits dans le mur, en se disant qu’on avisera plus tard : ce n’est ni possible ni souhaitable. On ne peut pas continuer avec les mêmes logiques productivistes, avec les mêmes logiques capitalistes.<br/>Vous vous obstinez à vouloir offrir 20 milliards d’euros aux entreprises sans soumettre cette aide à la moindre condition environnementale ou sociale, comme si l’histoire ne vous avait rien appris. Vous refusez toute discussion sur le versement des dividendes dont on dit que, fin juin, les entreprises du CAC 40 vont se partager quelque 36 milliards. Vous refusez d’assujettir ces aides à la condition de ne pas avoir licencié pendant la crise, et cela alors que les entreprises avaient la possibilité de recourir au chômage partiel. Vous refusez de porter le chômage partiel à 100 % du salaire alors que nombre de nos concitoyens ne peuvent pas se permettre de perdre 20 % de leur salaire – et je ne parle pas de la perte des primes.<br/>Dans ce contexte, on peut parler de grande détresse, de crise alimentaire même, comme le montre malheureusement ce qui se passe en Seine-Saint-Denis où, d’après le préfet, 15 à 20 000 personnes sont menacées de malnutrition. Vous vous obstinez à surtout ne rien changer et à n’écouter personne en dehors de votre camp, au point que vous n’avez même pas laissé passer les plus modérés des amendements de l’Assemblée qui visaient à conditionner ne serait-ce que légèrement ce cadeau de 20 milliards d’euros aux entreprises. Vous avez de même rejeté les amendements des sénateurs allant dans ce sens.<br/>Le résultat ? Même les entreprises installées dans les paradis fiscaux vont pouvoir bénéficier de ces aides, alors que le ministre Le Maire avait assuré sur France Info que ce ne serait pas possible. Cela, donc, alors que ces entreprises trichent avec les règles du jeu fiscal !<br/>Rien non plus sur le partage des richesses. Même le rétablissement provisoire de l’impôt de solidarité sur la fortune afin de faire participer les plus riches de nos concitoyens à l’effort national, vous l’avez refusé. Vous avez également rejeté les amendements du Sénat permettant de taxer un peu mieux le secteur des assurances.<br/>Quant à la dette, même rengaine : vous continuez de fermer les yeux. Lorsque nous vous proposons une solution concrète, le rachat direct aux États de leur dette par la Banque centrale européenne et sa transformation en dette perpétuelle, idée qui intéresse de plus en plus d’économistes – même ceux qu’on n’attendait pas sur ce terrain, comme Alain Minc –, l’objectif étant de sortir de la crise par le haut et d’éviter que la dette ne devienne un boulet austéritaire pour des décennies, non seulement vous nous dites non, mais vous refusez même un rapport qui pourrait faire le point sur la question.<br/>Ce qui, en fin de compte, est profondément inquiétant, c’est qu’aucune stratégie cohérente, aucune ligne directrice ne semble avoir été dessinée, aucune planification sanitaire, aucune préparation. Vous avez refusé, par exemple, tout projet concret de nationalisation ou de réquisition d’entreprises en nous répondant « Ne vous inquiétez pas, nous verrons bien. » Je suis inquiet que ce manque de préparation perdure.<br/>J’ai entendu ici même Mme Pannier-Runacher écarter d’un revers de la main nos demandes répétées de nationalisation de l’entreprise Luxfer, qui fabrique des bouteilles d’oxygène et avait fermé en 2019 au prétexte que la France pourrait continuer de se fournir au Royaume-Uni… Bonjour la relocalisation et la souveraineté sanitaire ! Et je suis d’autant plus inquiet quand je constate qu’au même moment le Gouvernement se félicite de la commande de milliers de respirateurs auprès d’Air Liquide alors qu’une enquête de France Info montre qu’il s’agit d’un modèle qui ne fonctionne même pas dans les services de réanimation pour le Covid-19.<br/>Je suis inquiet quand je vois les conditions dans lesquelles se prépare le déconfinement, même partiel. Pour l’école par exemple, entre le chef de l’État et M. Blanquer, les contre-ordres suivent les ordres, au point qu’on se dit qu’ils pourraient peut-être se téléphoner avant d’accorder des entretiens.<br/>Pour ce qui concerne le secteur des transports, vous avez pu voir, chers collègues, le reportage diffusé hier par France 2 sur des lignes de métro et de train desservant en particulier la Seine-Saint-Denis, où les voyageurs sont à nouveau nombreux, et non protégés. Le déconfinement ne commence pas le 11 mai, il a déjà commencé pour de nombreuses activités ! Or le manque de préparation dans le secteur des transports pourrait s’avérer dramatique et favoriser la relance d’une crise épidémique d’une plus grande ampleur encore.<br/>En matière d’approvisionnement en masques ou en tests, en matière de protection des travailleurs à échéance du 11 mai, toute cette impréparation nous semble hautement anxiogène. Et vous paraissez désormais vouloir vous reposer sur les territoires, non par volonté politique mais du fait de votre incapacité à organiser quoi que ce soit – c’est en tout cas l’impression que cela donne.<br/>Le présent PLFR a le défaut d’être le reflet de cette gestion hasardeuse de la crise et du déconfinement. J’aimerais très sincèrement, pour le pays, pour sa santé, y déceler l’inverse ; mais ce n’est pas le cas et c’est pourquoi les députés du groupe La France insoumise voteront contre le texte. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600502" ordre_absolu_seance="79" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075467" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600503" ordre_absolu_seance="80" code_grammaire="VOTE_ENS_CMP_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2075468" valeur=" (n[[o]] 2832)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600504" ordre_absolu_seance="81" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="VOTE_ENS_CMP_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075469" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble du projet de loi de finances rectificative, compte tenu du texte de la commission mixte paritaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600505" ordre_absolu_seance="82" code_grammaire="VOTE_ENS_CMP_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2075470" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’ensemble du projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Olivier Dussopt" qualite="secrétaire d'État" id_acteur="PA330357" id_nomination_oe="PM744089" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600506" ordre_absolu_seance="83" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="VOTE_ENS_CMP_ML_2_50" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2075471" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous souhaitez prendre la parole, monsieur le secrétaire d’État, pour une intervention qui ne relancera pas le débat j’imagine…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600507" ordre_absolu_seance="84" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM744089" id_nomination_op="-1" code_grammaire="VOTE_ENS_CMP_ML_2_50" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2075472" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Dussopt</nom>
+              <id>330357</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite juste remercier l’Assemblée pour son vote. Comme le rapporteur l’a souligné, le Gouvernement tient à assurer l’information du Parlement. Une disposition a été ainsi adoptée visant à informer ex ante les rapporteurs généraux et les présidents des commissions des finances des deux chambres sur le programme d’aide de 20 milliards d’euros aux entreprises. A posteriori, nous serons bien sûr ouverts au débat et je ne doute pas que la commission des affaires économiques s’intéressera de près à la question. Et je n’oublie pas les prérogatives des rapporteurs spéciaux rappelées par la présidente Rabault.<br/>Je réponds en outre à une interrogation de M. Carrez : le relèvement du plafond de l’UNEDIC, que nous avons proposé et que vous avez adopté, a bien fait l’objet d’une concertation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600508" ordre_absolu_seance="86" id_acteur="PA746" id_mandat="PM723212" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075481" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gilles Carrez</nom>
+              <id>746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1600509" ordre_absolu_seance="87" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM744089" id_nomination_op="-1" code_grammaire="VOTE_ENS_CMP_ML_2_50" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2075474" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Dussopt</nom>
+              <id>330357</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens enfin à rassurer tous ceux qui s’inquiètent de ce que des amendements n’aient pas été adoptés. D’abord, le présent PLFR n’est pas le seul texte permettant de financer l’action de l’État : il faut compter avec les réserves du projet de loi de finances initial. Ensuite, dans le PLFR même figurent des crédits qui ne sont pas affectés et qui permettront de remplir les engagements pris par les ministres en ce qui concerne les droits des femmes et la protection des plus précaires. Nous avons les moyens de notre politique grâce au présent texte et grâce à la loi de finances initiale.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1600511" ordre_absolu_seance="89" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2075476" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1600512" ordre_absolu_seance="90" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2075477" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mardi 28 avril, à quinze heures :<br/>Questions au Gouvernement ;<br/>Déclaration du Gouvernement, débat et vote sur les innovations numériques dans la lutte contre le Covid-19.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1600513" ordre_absolu_seance="91" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2075478" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix-huit heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1600514" ordre_absolu_seance="92" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2075479" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

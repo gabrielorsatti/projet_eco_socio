@@ -1,0 +1,1109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2022O1N004</uid>
+  <seanceRef>RUANR5L15S2021IDS23216</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20211006213000000</dateSeance>
+    <dateSeanceJour>mercredi 06 octobre 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>4</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20210004</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-10-13T13:23:58.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2614501">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2614505">
+          <intitule>Communication de Mme la présidente</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2614508">
+          <intitule>Rémunération des agriculteurs</intitule>
+        </titreStruct>
+        <para id_syceron="2614509"/>
+        <sommaire2>
+          <titreStruct id_syceron="2614511">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2614513">M. Grégory Besson-Moreau, rapporteur de la commission mixte paritaire</para>
+          <para id_syceron="2614520">M. Julien Denormandie, ministre de l’agriculture et de l’alimentation</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2614460">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2614462">M. Dominique Potier</para>
+          <para id_syceron="2614474">M. Luc Lamirault</para>
+          <para id_syceron="2614485">M. Thierry Benoit</para>
+          <para id_syceron="2614573">M. Michel Larive</para>
+          <para id_syceron="2614585">M. Paul Molac</para>
+          <para id_syceron="2614600">M. Alain Bruneel</para>
+          <para id_syceron="2614659">Mme Sophie Beaudouin-Hubiere</para>
+          <para id_syceron="2614683">M. Julien Dive</para>
+          <para id_syceron="2614749">Mme Michèle Crouzet</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2614761">
+            <intitule>Texte de la commission mixte paritaire</intitule>
+          </titreStruct>
+          <para>Amendements n<sup>os</sup><lienAdt id_syceron="2614764"> 1, 3, 5, 2, 4</lienAdt></para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2614772">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2614778">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 06 octobre 2021</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1944439" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2614501" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1944440" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614502" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1944441" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2614503" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1944443" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2614505" valeur="">
+      <orateurs/>
+      <texte>Communication de Mme la présidente</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1944444" ordre_absolu_seance="6" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614506" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le ministre de l’intérieur a informé le président de l’Assemblée que l’élection au Sénat de Mme Samantha Cazebonne était devenue définitive. En conséquence, en application de l’article L.O. 137 du code électoral, elle est remplacée jusqu’au renouvellement de l’Assemblée nationale dans la cinquième circonscription des Français établis hors de France par M. Stéphane Vojetta, élu en même temps qu’elle à cet effet.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944446" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2614508" valeur=" (n[[o]] 4511)">
+      <orateurs/>
+      <texte>Rémunération des agriculteurs</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944447" ordre_absolu_seance="9" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2614509" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Commission mixte paritaire</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944448" ordre_absolu_seance="10" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614510" valeur=" (n[[os]] 4511)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, de la proposition de loi visant à protéger la rémunération des agriculteurs (n<exposant>o</exposant> 4511).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944449" ordre_absolu_seance="11" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2614511" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Grégory Besson-Moreau, quali  rapporteur de la commission mixte paritaire" id_acteur="PA718876" id_nomination_oe="-1" id_nomination_op="-7224860" id_mandat="PM722486">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944450" ordre_absolu_seance="12" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614512" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Grégory Besson-Moreau, rapporteur de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944451" ordre_absolu_seance="13" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-7224860" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614513" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>L’aboutissement d’un texte est aussi celui d’une forme d’aventure collective, une aventure qui implique les acteurs de terrain, agriculteurs, transformateurs et distributeurs, ainsi que des députés et des sénateurs appartenant à tous les groupes de nos assemblées, et bien évidemment le ministre de l’agriculture et de l’alimentation dont je tiens à saluer l’engagement personnel. Cette aventure aura duré moins de six mois, depuis le dépôt de ma proposition de loi jusqu’à la présentation des conclusions, aujourd’hui, de la commission mixte paritaire ; ces délais brefs sont le signe de l’urgence et de la détresse d’un monde agricole sous pression.<br/>Je commencerai par rappeler ce qui se trouve au cœur des travaux que nous avons menés, par redire ce que nous devons aux agriculteurs français, à ces femmes et à ces hommes qui nourrissent notre pays, assurent notre souveraineté alimentaire et façonnent nos paysages, à ces femmes et à ces hommes qui travaillent durement et passionnément pour des salaires souvent dérisoires et avec des conséquences sociales trop souvent dramatiques. Je commencerai par leur réitérer notre reconnaissance et par leur affirmer que nous nous battrons toujours, dans cet hémicycle, pour leur avenir, pour que, demain, aucun agriculteur ne cède au désespoir, étranglé par la dette, pour que, demain, les jeunes qui leur succéderont vivent décemment de ce métier, à la fois le plus beau et le plus dur de tous, pour que, demain, enfin, l’agriculture ait les moyens de mener à bien sa transition agroécologique et de continuer à nous assurer à tous une alimentation toujours plus sûre, toujours plus saine et toujours plus durable.<br/>Car le cœur de notre combat, depuis les états généraux de l’alimentation et l’adoption de la loi pour l’équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous, dite loi EGALIM, c’est bien la rémunération des agriculteurs. De celle-ci dépend et dépendra tout le reste. La proposition de loi que nous avons adoptée en première lecture cet été, à l’unanimité je le rappelle, avait alors été enrichie par quatre-vingt-sept amendements en commission et encore cinquante en séance, issus des divers groupes, ce qui témoignait de notre mobilisation et de notre engagement collectifs, et également de l’excellent travail de la responsable de texte Sophie Beaudoin-Hubiere.<br/>Nous avions en particulier entériné plusieurs avancées des plus importantes : la généralisation des contrats écrits agricoles ; la révision automatique des prix et l’expérimentation d’un tunnel de prix ; la transparence et la non-négociabilité des matières premières agricoles ; la création d’un comité de règlement des différends commerciaux agricoles ; enfin, l’encadrement de l’utilisation des symboles représentatifs de la France sur les emballages. Nous avions également, dans un souci de rééquilibrage des relations entre la grande distribution et les fournisseurs, adopté des dispositions relatives à l’encadrement des produits sous marque de distributeur, dit MDD, au ligne à ligne ou encore aux pénalités logistiques et à la non-discrimination tarifaire.<br/>Si je salue certaines avancées du Sénat, dont le travail a permis d’aller encore plus loin, notamment sur les MDD, sur les pénalités logistiques, sur la clause de renégociation et les questions d’étiquetage, c’est tout de même un texte particulièrement modifié qui nous a été transmis au terme de cette première lecture et sur lequel les membres de la commission mixte paritaire ont cherché à s’entendre.<br/>Les points de divergence étaient peu nombreux mais forts de conséquences. C’est donc dans un climat d’écoute exigeante, d’attention mutuelle et de dialogue constant, tant entre parlementaires qu’avec les acteurs de terrain, que nous avons travaillé pour dégager un texte équilibré et consensuel. Le principal point de discorde portait sur l’article 2, en particulier sur la première option permettant d’assurer une transparence des coûts de la matière première agricole. Cette option consistant à détailler la part en volume et en valeur de chaque matière première agricole dans le tarif avait en effet été supprimée par le Sénat. Mais nous y tenions absolument et je remercie les membres de la commission mixte paritaire d’avoir accepté de la réintégrer dans le texte.<br/>De notre côté, nous avons fait des concessions pour donner satisfaction au Sénat, plus spécifiquement sur la question de la suppression du seuil de revente à perte dit SRP+10 – seuil de revente à perte avec une marge minimale de 10 %. Nous étions pourtant en complète opposition, mais les négociations ont permis de dégager une solution de compromis qui me paraît satisfaisante parce que le nouveau dispositif est très encadré, limité à certains produits que sont les fruits et légumes, et parce que l’arrêté ne peut être pris qu’à la demande motivée de l’interprofession concernée. Dans ces conditions, nous avons accepté la proposition de rédaction de la rapporteure du Sénat.<br/>C’est donc un texte élaboré dans un esprit de consensus et d’unanimité que je vous propose aujourd’hui d’adopter. Je vous le propose avec humilité, mais aussi avec espoir car je veux croire qu’il contribuera, dans les années à venir, à la garantie d’une juste rémunération du travail des agriculteurs et parce qu’il témoigne de la capacité des élus que nous sommes, sur l’ensemble des bancs de cette assemblée, à unir nos forces pour mener ce combat essentiel. <italique>(Applaudissements sur les bancs du groupe LaREM. – M. Thierry Benoit applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Julien Denormandie, quali  ministre de l'agriculture et de l'alimentation" id_acteur="PA729332" id_nomination_oe="PM773437" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944457" ordre_absolu_seance="21" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614519" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre de l’agriculture et de l’alimentation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944458" ordre_absolu_seance="22" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614520" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre de l’agriculture et de l’alimentation</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est avec un très grand plaisir, mesdames, messieurs les députés, que je suis devant vous ce soir car, comme vous le savez, j’ai soutenu d’emblée cette proposition de loi déposée par votre collègue Grégory Besson-Moreau, dont je salue le travail sur ce sujet capital pour l’avenir de l’agriculture qu’est la rémunération de nos agriculteurs. Et j’ai la conviction que les avancées sont grandes parce que cette nouvelle loi va permettre à l’agriculture de redevenir ce qu’elle devrait toujours être : un métier d’avenir, un beau métier qui non seulement permet de produire, d’entretenir les paysages et de chérir la biodiversité mais aussi de faire vivre des hommes et des femmes qui chaque jour se lèvent tôt pour nourrir le peuple de France. Les avancées sont grandes également parce que le texte permettra d’agir réellement sur les rapports de force en permettant de garantir la marche en avant du prix et en apportant de la transparence, de façon à passer de la défiance à la confiance dans les relations commerciales.<br/>Ce texte donne tout son sens à un travail parlementaire au service de l’intérêt général. Je tiens à vous remercier sincèrement du travail effectué depuis la loi EGALIM jusqu’à aujourd’hui, en passant par la commission d’évaluation que votre assemblée avait mise en place. Je vous remercie pour le travail que nous avons su collégialement mener.<br/>Les discussions furent parfois quelque peu âpres, je le sais, mais quel bel exemple démocratique que de tels débats, certes vifs et passionnés mais menés dans un esprit constructif et d’ouverture s’agissant de la cause d’intérêt national qu’est la rémunération de nos agriculteurs, aient permis d’aboutir à un vote à l’unanimité à l’assemblée, puis à l’unanimité en commission mixte paritaire,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944461" ordre_absolu_seance="25" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM732285" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614523" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <acteurRef>PA721134</acteurRef>
+              <qualite>président de la commission des affaires économiques</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944462" ordre_absolu_seance="26" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614524" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…et j’en remercie tous ceux d’entre vous qui y ont participé, témoignage d’un vrai travail partenarial, comme vous l’avez souligné, monsieur le rapporteur.<br/>Je ne peux que me satisfaire des principales dispositions du texte : elles sont conformes à mes convictions exprimées depuis le début sur la transparence, sur la contractualisation pluriannuelle, sur l’équilibre du rapport de force entre les différents maillons de la chaîne agroalimentaire, singulièrement dorénavant au profit de nos agriculteurs. La commission mixte paritaire a ainsi réintroduit la possibilité pour le fournisseur de fournir le prix de chaque matière première agricole qui compose son produit, aux côtés de modalités plus agrégées. De même, elle a finalement maintenu le comité de règlement des différends. Enfin, sur la question du seuil, elle a accepté que le champ de l’article 2 puisse être restreint par décret dans une fourchette allant de 0 % à 25 %.<br/>Le texte a aussi été enrichi depuis son examen dans cet hémicycle quand la commission mixte paritaire a confirmé les évolutions proposées par le Sénat sur les marques de distributeur tout comme sur les pénalités logistiques, sujets entrouverts ici même. Pour ce qui est de la difficile question du seuil de revente à perte pour les fruits et légumes, l’article voté en séance au Sénat a été amendé en commission mixte paritaire pour que cette légère entaille à l’augmentation du SRP ne puisse être autorisée, le cas échéant, qu’en cas de preuve que le revenu des agriculteurs était affecté et qu’à la demande de l’interprofession. Cela signifie que, comme nous l’avons toujours fait depuis le début de la législature, nous responsabiliserons les acteurs au sein de l’interprofession, sachant qu’y siègent certes les producteurs, mais aussi les industriels et les distributeurs dans beaucoup de cas. Car il ne s’agit aucunement de faire « à la place de », mais « avec », et en s’appuyant sur la responsabilité des premiers concernés. Je ne peux que souscrire à cette méthode. Concerter, dialoguer, puis agir, telle est ma vision des choses.<br/>Enfin, le Sénat a introduit des dispositions, confirmées en commission mixte paritaire, portant sur l’étiquetage et qui vont enfin permettre que soient prises des mesures qui me sont chères, votées ici même en juin 2020 dans le cadre de la loi relative à la transparence de l’information sur les produits agricoles et alimentaires : je pense à l’obligation d’indiquer l’origine des viandes dans les cantines ou en restauration, l’un de mes combats les plus importants et que je compte bien mener jusqu’au bout parce que le consommateur a le droit de savoir d’où vient ce qu’il mange et que l’information de la qualité nutritionnelle fait partie de ce que le consommateur est en droit d’attendre.<br/>Nous sommes même allés, avec le vote d’un amendement du Gouvernement au Sénat, jusqu’à étendre cette obligation aux plats préparés. En effet, comme j’ai coutume de le dire, si un poulet français n’a rien à voir avec un poulet ukrainien, un <italique>nugget</italique> français n’a rien à voir non plus avec un <italique>nugget</italique> ukrainien – et d’ailleurs pour les mêmes raisons. Il fallait absolument que cette information aussi soit transmise au consommateur. Le Sénat a accepté également de revoir les modalités de sa première rédaction sur les articles relatifs à l’étiquetage : je pense à la disposition sur le miel, qui va permettre enfin de prendre, là aussi, rapidement les textes correspondants. Je sais que certaines modalités de rédaction tenaient à cœur à plusieurs sénateurs, mais il n’était pas possible de les maintenir, l’Union européenne l’avait signalé. Cela étant, je m’engage ici solennellement à porter ce sujet au niveau européen, comme le sont d’ailleurs tous les sujets portant sur l’origine des produits.<br/>Je note que le règlement concernant l’information des consommateurs sur les denrées alimentaires, dit INCO, sera sur la table des négociations l’an prochain à Bruxelles et que ce sera l’occasion de revenir sur le sujet. Comme je l’ai dit récemment, les règles du commerce international sont en effet aujourd’hui dépassées car elles ne prennent pas suffisamment en compte les questions climatiques et le caractère fini de la ressource. Les règles européennes sur l’origine tout comme sur les autres aspects du commerce international doivent continuer à évoluer, nous devons en rebattre les cartes. Qu’on puisse interdire à un État d’indiquer l’origine du miel par ordre pondéral décroissant sur une étiquette, c’est vraiment totalement incompréhensible pour nos concitoyens.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944466" ordre_absolu_seance="32" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-7224860" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614528" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1944467" ordre_absolu_seance="33" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614529" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il nous faut maintenant aller vite pour mettre en œuvre avant les prochaines négociations commerciales qui s’annoncent cette loi EGALIM 2, un texte qui, loin de complexifier, régule. Je réunirai très bientôt les parties prenantes pour expliquer le texte dans le détail et je mettrai en consultation dans les plus brefs délais les projets de décret d’application, en particulier celui sur les filières exemptées de l’article 2, en raison de leurs spécificités, celui sur les dates avancées d’obligation de contractualisation, dispositif que je veux le plus ambitieux possible car le contrat, c’est la confiance et, dans certaines filières, seul le contrat permettra de mieux structurer ces dernières et de regagner cette valeur que nous recherchons tous – j’ai eu l’occasion de m’en expliquer au sommet de l’élevage hier –, et sans oublier le décret sur le tunnel de prix, lui aussi très important.<br/>Enfin, je sais que des formations sont d’ores et déjà prévues pour les entreprises, pour les acteurs concernés. Avec ma collègue Agnès Pannier-Runacher, nous ne manquerons pas de réunir le comité de suivi des négociations commerciales afin de préciser notre politique de contrôle, parce que la confiance n’exclut en aucun cas le contrôle,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944344" ordre_absolu_seance="35" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614452" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est même préférable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944345" ordre_absolu_seance="36" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614453" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…lequel est très important.<br/>Pour conclure, je crois que nous avons là un texte novateur – pour reprendre les propos de M. le rapporteur – et même fondateur de nouveaux partenariats. Nous allons donc au bout de la logique de la loi EGALIM. Je salue notre démarche : nous avons su constater que la loi EGALIM était nécessaire, mais pas suffisante.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944346" ordre_absolu_seance="38" id_acteur="PA643175" id_mandat="PM722868" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614495" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Stella Dupont</nom>
+              <acteurRef>PA643175</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944346" ordre_absolu_seance="39" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614494" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Rares sont les législatures où l’on remet l’ouvrage sur le métier avant même qu’elles ne soient terminées <italique>(Applaudissements sur les bancs du groupe LaREM),</italique> cela mérite d’être salué.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944347" ordre_absolu_seance="40" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614455" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’était la chronique d’un échec annoncé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944348" ordre_absolu_seance="41" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614456" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Mesdames et messieurs les députés, vous qui faites la loi, ce texte abolit ce que la loi de modernisation de l’économie prévoyait au sujet les relations commerciales et il réintroduit les dispositions prévues par la loi Galland les concernant, en allant encore plus loin ; c’est tout à votre honneur. Je terminerai simplement en vous remerciant pour la qualité des travaux que nous avons su mener tous ensemble. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem. – M. Thierry Benoit applaudit également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944349" ordre_absolu_seance="42" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614457" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous allez au-devant du même échec !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944350" ordre_absolu_seance="43" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM732285" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614458" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <acteurRef>PA721134</acteurRef>
+              <qualite>président de la commission des affaires économiques</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Alors, ne votez pas le texte !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944351" ordre_absolu_seance="44" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614459" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne vais pas le voter !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944352" ordre_absolu_seance="45" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2614460" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944353" ordre_absolu_seance="46" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614461" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Dans la discussion générale, la parole est à M. Dominique Potier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944354" ordre_absolu_seance="47" id_acteur="PA607553" id_mandat="PM722956" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2614462" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Dominique Potier</nom>
+            <acteurRef>PA607553</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’entends l’enthousiasme et la satisfaction de la majorité concernant le dialogue entre le rapporteur et le ministre. Je ne voudrais pas le tempérer, nous avons nous-mêmes participé à ce dialogue de la façon la plus positive possible lors des débats sur la loi EGALIM, comme dans ceux portant sur ce qu’il est désormais convenu d’appeler « EGALIM 2 ».<br/>Toutefois, l’expérience montre qu’avant 2018 – désormais 2021 –, tout avait commencé en 2016 avec la loi relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique, dite Sapin 2. Il existe une forme de continuum, d’effet de régulation et de correction de cette loi et des effets délétères qu’elle a eus sur une concurrence pour le moins déloyale. Les efforts de la loi Sapin 2 ont été insuffisants, comme le sont ceux de la loi EGALIM. On peut craindre que ceux de la future loi EGALIM 2 ne suffiront pas non plus. Néanmoins, ils constituent des progrès véritables par le caractère obligatoire de certaines mesures et la précision apportée concernant plusieurs compartiments – je n’y reviendrai pas, le rapporteur en a très bien parlé.<br/>Sans surprise, le groupe Socialistes et apparentés votera la proposition de loi, comme il l’avait fait en première lecture. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique><br/>Néanmoins, puisque, avec réalisme, je constate que nous sommes loin d’une inversion des rapports de force permettant la construction du prix à partir des coûts de production et garantissant le respect de la dignité des travailleurs et de l’environnement dans le cadre d’une agroécologie, il convient de dresser les perspectives qui pourraient être celles du débat présidentiel et de la prochaine législature. S’offre à nous un horizon de réformes qu’on peut exposer en cinq points. Certains le partageront, d’autres non ; peu importe, je tiens à vous livrer notre propre analyse.<br/>Il faudra tout d’abord revenir sur la loi de modernisation de l’économie. À notre grande surprise, le Président de la République l’avait annoncé ; que ne l’avons-nous pas fait ? Je le dis sans agressivité – au cours de la précédente législature, nous avons passé cinq ans au pouvoir sans la remettre en cause –, mais nous ne pourrons pas, à loi de modernisation économique constante, sortir d’une situation que d’aucuns décrivent comme oligopolistique et qui crée de façon structurelle des rapports léonins entre une poignée d’agro-industriels et de grands distributeurs, et un monde paysan dispersé et fragmenté, quels que soient ses niveaux de regroupement. Notre première proposition consiste donc à réformer la loi de modernisation de l’économie.<br/>La deuxième s’inspire de travaux esquissés dans la loi Sapin 2 et que nous avons repris avec Éric Andrieu dans diverses tribunes qui n’ont pas eu assez d’écho dans le débat sur la réforme de la politique agricole commune : il s’agit des organisations de producteurs. Je crois profondément que c’est une règle d’or : qui maîtrise le volume ne maîtrise pas le prix, mais commence à le maîtriser. Or nous ne maîtrisons pas les volumes puisque tout repose souvent sur des illusions de conquête de marchés internationaux – je pense à l’illusion asiatique dans le domaine du lait, où 9 litres sur 10 étaient produits et consommés sur le continent européen, ou encore à la fin des quotas, qui auraient pu être remplacés par autre système de régulation, et qui a provoqué un effondrement des prix au bénéfice uniquement de certains industriels et de la grande distribution, mais en tout cas pas en faveur des producteurs. Cela a accéléré un mouvement de concentration parfois contradictoire avec l’agroécologie.<br/>Il y a donc matière à réfléchir à des organisations de producteurs qui maîtriseraient les volumes et qui pourraient de ce fait maîtriser les prix. Elles pourraient être les bénéficiaires de programmes opérationnels de l’Union européenne, comme nous l’avons fait dans certains compartiments de la production alimentaire, ce qui permet de construire des orientations de marchés plus performantes et de fixer les prix en tenant compte des conditions pédoclimatiques, de la densité de la production, bref des écosystèmes dans des grandes régions. On pourrait imaginer quatre ou cinq bassins laitiers, je ne me prononcerai pas pour le reste. Voilà l’esprit de ces grandes organisations de producteurs dont le seuil pourrait être fixé par la loi.<br/>Notre troisième proposition consiste à en finir avec les concurrences déloyales. Nous sommes à peu près d’accord : les traités que nous avons signés, y compris les derniers avec le Canada, sont, quoi qu’on en ait dit et quel que soit l’habillage qu’on en ait fait, des traités d’ancienne génération. Il faut bâtir, au-delà d’une perspective multilatérale indispensable pour la sécurité alimentaire mondiale, les perspectives d’un commerce plus loyal. Les travaux très intéressants menés par la Fondation Nicolas Hulot (FNH) et la Fédération nationale bovine (FNB) sur les clauses miroirs ont abouti à des propositions politiques très innovantes. Émanant de la société civile, nous devons les prendre en compte et les considérer comme une bonne nouvelle.<br/>Reste, mesdames et messieurs les membres de la majorité, monsieur le ministre, que je me méfie énormément des compétitions internes et je regrette que, ni sur les organisations de producteurs ni sur la réforme foncière, nous n’ayons pu organiser la fin d’une concurrence pour le moins déloyale au sein du monde paysan.<br/>Enfin, la dernière piste que j’esquisserai rapidement sera celle d’une réforme de la taxonomie. Il s’agirait de revoir non seulement la haute valeur environnementale (HVE) et l’agriculture biologique (AB), mais également d’intégrer l’indice de partage de la valeur entre les producteurs et les consommateurs, de même que tout le partage de la valeur entre les salariés. Les travailleurs de la terre, de l’agroalimentaire, des abattoirs ou encore les caissières : tous ceux qui gagnent parfois 300 fois moins que ceux qui les dirigent méritent d’être reconnus comme contribuant à la fabrique des produits alimentaires.<br/>Je terminerai en revenant sur la perspective ouverte par le président de la commission des affaires économiques : celle d’une mission d’information ou, en tout cas, d’un travail en profondeur sur le monde coopératif qui représente près de 40 % du négoce agricole. Une réforme éthique en faveur d’une nouvelle performance du monde coopératif s’impose comme un des éléments majeurs de la construction des prix par le bas, en remontant vers le haut de la filière. Voilà un modèle d’économie sociale de marché qui pourrait inspirer un nouveau modèle alternatif à un libéralisme qui ne nourrit ni la terre, ni les hommes, ni les producteurs, ni tous les travailleurs de la terre. Nous avons du pain sur la planche et de belles perspectives de débats et de constructions au service de nos territoires et de nos paysans. <italique>(Applaudissements sur quelques bancs des groupes LaREM et LR. – Mme Marie-Noëlle Battistel applaudit également.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Luc Lamirault" id_acteur="PA719382" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM779854">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944365" ordre_absolu_seance="58" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614473" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Luc Lamirault.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944366" ordre_absolu_seance="59" id_acteur="PA719382" id_mandat="PM779854" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614474" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Lamirault</nom>
+              <acteurRef>PA719382</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après des discussions fructueuses à l’Assemblée et au Sénat, la proposition de loi visant à protéger la rémunération des agriculteurs a fait l’objet d’une commission mixte paritaire conclusive. Nous achevons l’examen de ce texte afin d’en assurer une application rapide, essentielle pour le sort de nos agriculteurs.<br/>Il s’inscrit dans une démarche plus large et un combat mené depuis le début par la majorité et le Gouvernement pour renforcer notre souveraineté alimentaire. La loi EGALIM a été une avancée majeure. Elle a impulsé une nouvelle dynamique collective afin d’inscrire dans les pratiques de nouveaux modes de négociations en inversant la construction du prix. Elle n’a en revanche pas totalement réussi à mieux répartir la valeur le long de la chaîne alimentaire.<br/>Ce texte est donc très attendu par les professionnels du secteur et par les Français, pour lesquels les conditions de travail des agriculteurs importent beaucoup. Nous allons changer les règles et passer de la confiance à la contrainte, avec une contractualisation obligatoire et des prix basés sur des indicateurs de coût de production. En plus de la contrainte, nous apportons plus de transparence, avec la traçabilité du prix de la matière première agricole d’un bout à l’autre de la chaîne alimentaire.<br/>Le groupe Agir ensemble salue de nombreuses mesures retenues améliorant la transparence entre les acteurs de la chaîne, notamment au sujet des marques de distributeur, avec l’engagement en volume du distributeur dans les contrats conclus avec ses fournisseurs. Nous retenons également l’expérimentation sur le « rémunérascore » qui permettra de faire de la transparence des coûts une réalité.<br/>L’identification ligne à ligne de la rémunération ou encore l’expérimentation d’une clause dite de « tunnel de prix » sont autant d’apports qui permettront d’engager une nouvelle mécanique dans les relations commerciales.<br/>En ce qui concerne les dispositions visant à mieux communiquer sur le coût de la matière première agricole ainsi que sur l’origine des produits, elles me paraissent particulièrement importantes pour sensibiliser les consommateurs à une consommation plus juste, directe et locale. Il faut néanmoins insister sur la nécessité d’agir au niveau européen en matière d’étiquetage des produits.<br/>Bien entendu, cette proposition de loi ne réglera pas l’ensemble des problèmes mais elle apporte de nouvelles solutions. Nous devons poursuivre ce travail. Je pense aux coopératives agricoles et à la mission lancée par le président Lescure qui poursuivra nos travaux sur ce thème.<br/>N’oublions pas que le sort des agriculteurs est aussi entre nos mains. Rappelons que l’accessibilité des prix ne doit pas être destructrice de valeur et que bien manger a un coût. Nous devons toujours privilégier la qualité et la production locale. Nos agriculteurs doivent pouvoir vivre dignement si nous souhaitons avoir de nouvelles générations d’agricultrices et d’agriculteurs et continuer à faire rayonner le modèle agricole français en Europe. Le renouvellement des générations est notre prochain défi ; ce texte doit permettre de le relever en partie.<br/>Pour conclure, je tiens à saluer le rapporteur qui travaille sur cette proposition de loi depuis plusieurs mois dans un esprit transpartisan et qui a permis de faire aboutir ce texte. Cette loi, qui ne sera pas vraiment un « EGALIM 2 », doit replacer la confiance au cœur des relations commerciales agricoles.<br/>Le groupe Agir ensemble a toute confiance en vous, monsieur le ministre, pour faire de l’application de cette loi une réussite et un véritable changement dans le quotidien des agriculteurs. Nous voterons le texte avec plaisir. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Thierry Benoit" id_acteur="PA332228" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722754">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944376" ordre_absolu_seance="69" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614484" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thierry Benoit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944377" ordre_absolu_seance="70" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614485" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le ministre, chers collègues, je suis heureux de vous retrouver.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944377" ordre_absolu_seance="71" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM732285" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614497" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <acteurRef>PA721134</acteurRef>
+              <qualite>président de la commission des affaires économiques</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944377" ordre_absolu_seance="72" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614496" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cher Grégory Besson-Moreau, vous avez été le rapporteur d’une belle proposition de loi. Chacun fait référence à ce qu’il ressent ou à ce qu’il a vécu. J’ai pour ma part amené mon petit livre vert,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944378" ordre_absolu_seance="73" id_acteur="PA718884" id_mandat="PM722488" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614486" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Bazin-Malgras</nom>
+              <acteurRef>PA718884</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944379" ordre_absolu_seance="74" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614487" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…c’est le rapport de la commission d’enquête sur la situation et les pratiques de la grande distribution et de ses groupements dans leurs relations commerciales avec les fournisseurs, que j’ai eu le plaisir de présider en 2019 pendant six mois.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944380" ordre_absolu_seance="75" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM732285" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614488" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <acteurRef>PA721134</acteurRef>
+              <qualite>président de la commission des affaires économiques</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Avec brio !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944381" ordre_absolu_seance="76" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614489" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Qu’on le veuille ou non, tout découle des travaux parlementaires de cette commission d’enquête <italique>(Applaudissements sur les bancs des groupes UDI-I et LT et sur quelques bancs du groupe LaREM) </italique>qui a adopté ce rapport à l’unanimité des groupes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944381" ordre_absolu_seance="77" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614500" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944381" ordre_absolu_seance="78" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614499" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tous les groupes ont pris part à ce travail.<br/>À l’époque, le rapport nous avait permis de braquer le projecteur vers le secteur de la grande distribution et des centrales d’achat, notamment les centrales internationales. Il avait mis en exergue certaines pratiques au sujet desquelles plusieurs élus s’interrogeaient, s’agissant notamment des déréférencements abusifs vis-à-vis des industriels, des pénalités logistiques, des négociations systématiques en déflation et des services internationaux, dont certains étaient réels, mais dont une partie était virtuelle. La commission d’enquête a mis en avant ces différents éléments et a permis à Grégory Besson-Moreau de rédiger, je le répète, une belle proposition de loi, avec l’appui et, disons-le, la complicité du ministre de l’agriculture et de l’alimentation. On ne peut que s’en réjouir parce que tout ceci donne corps et fait écho au travail parlementaire.<br/>La finalité, c’est un meilleur partage de la valeur, de la terre à l’assiette, du producteur au consommateur. Depuis quinze ans, la loi de modernisation de l’économie – à l’époque, j’avais pris soin de ne pas la voter,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944384" ordre_absolu_seance="81" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614492" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <acteurRef>PA729332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1944385" ordre_absolu_seance="82" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614493" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…je m’étais abstenu – a stimulé la guerre des prix sous le prétexte du sacro-saint pouvoir d’achat, avec pour conséquence de heurter, voire de briser les revenus de nos agriculteurs. Si on demande au secteur de la grande distribution de baisser les prix, il sait le faire. Aujourd’hui, ce qu’on lui demande, ce ne sont pas forcément des prix bas, mais des prix responsables – il faut responsabiliser le consommateur, j’en suis convaincu.<br/>Le texte qui nous est proposé a été adopté par la commission mixte paritaire, à laquelle j’ai pu participer en tant que membre suppléant. Comme l’ont rappelé le ministre et le rapporteur, il touche à la question de la transparence, notamment pour ce qui concerne la part des produits agricoles dans les produits qui font l’objet d’une négociation. Il encadre de manière plus serrée les pénalités, notamment les pénalités logistiques. Il intègre les marques de distributeur au champ des marques nationales, et il crée un comité de règlement pour trancher les différends.<br/>Nous ne sommes pas naïfs, nous autres députés. Nous ne corrigeons pas la loi EGALIM 1, nous apportons des précisions sur le strict volet des négociations commerciales, en espérant que cela soit au bénéfice des agriculteurs. Il faut que les parties prenantes s’en emparent. Au premier maillon de la chaîne, entre les agriculteurs et les industriels, il faut qu’une négociation saine soit conduite, et j’ai plutôt confiance. Mais il faut surtout qu’entre les industriels et la distribution, le secteur de la grande distribution joue le jeu, car en France, c’est la grande distribution et les centrales d’achat qui donnent le ton des négociations commerciales.<br/>Monsieur le ministre, l’agriculture française évolue au sein de l’Union européenne et du monde. Le travail de la commission d’enquête sur les pratiques de la grande distribution et de ses groupements dans leurs relations commerciales avec les fournisseurs, qui a été réalisé au sein du Parlement français, doit être conduit de la même manière au niveau européen. Nous devons nous intéresser aux pratiques des centrales d’achat hébergées en Suisse, en Belgique ou au Luxembourg. Sinon, nous allons vite déchanter. J’espère donc que cette loi portera ses fruits et qu’elle sera bénéfique dès les prochaines négociations. Mais je le répète, soyons lucides : l’agriculture vit dans un environnement européen et mondial, et il reste encore du travail au ministre. Naturellement, le groupe UDI-I votera cette belle proposition de loi. <italique>(Applaudissements sur les bancs des groupes UDI-I, LaREM, LR, Dem, Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Larive" id_acteur="PA718868" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722484">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944471" ordre_absolu_seance="86" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614572" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Larive.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944472" ordre_absolu_seance="87" id_acteur="PA718868" id_mandat="PM722484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614573" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Larive</nom>
+              <acteurRef>PA718868</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce texte EGALIM 2 acte l’échec de la loi EGALIM 1, que nous avions annoncé. Cette loi, censée apporter un équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous, ne répond pas aux principaux enjeux du secteur agricole. Vous n’apportez aucune garantie réelle pour la rémunération des agriculteurs et vous ne vous attaquez pas à la racine du problème, notamment aux dumpings internationaux à l’intérieur et à l’extérieur de l’Union européenne. La mise en place d’un véritable protectionnisme écologique, mesure nécessaire pour atteindre les objectifs fixés dans l’exposé des motifs, est absente de ce texte.<br/>J’aimerais revenir sur les articles qui concernent la fixation des prix et la rémunération des agriculteurs.<br/>L’article 1<exposant>er</exposant> fait des contrats écrits et pluriannuels la norme en matière de contrats de vente de produits agricoles entre un producteur et son premier acheteur. Il s’agit de donner plus de visibilité aux producteurs plutôt que de les soumettre à la versatilité et à la volatilité des achats des distributeurs. Actuellement, il ne s’agit que d’accords tacites, n’ayant peu ou pas de valeur juridique, entraînant des discussions sur les lots ou sur les bêtes et des négociations systématiques sur le prix et sur le volume, souvent au détriment des agriculteurs. Sur le papier, cette proposition offre un bon outil. Mais nous regrettons qu’elle n’empêche pas d’acheter en dessous des prix de production, et donc de vendre à perte pour les agriculteurs.<br/>L’article 1<exposant>er</exposant> <italique>bis</italique> indique que producteurs et acheteurs pourront convenir de bornes de prix minimales et maximales. De notre côté, nous avions proposé des prix planchers, cet article semble donc aller dans notre direction. Toutefois, le texte n’assure en aucun cas que la borne minimale ne puisse être inférieure au prix de vente à perte. Ainsi, ce « tunnel de prix » risque de devenir un « tunnel à gaz » au regard du rapport de force asymétrique entre agriculteurs et acheteurs. Cet article nous paraît donc très insuffisant.<br/>Dans l’article 2, l’objectif d’accroître la transparence du coût d’achat de la matière première agricole par l’industriel semble relever du vœu pieux. Vous faites croire que la grande distribution ne pourra plus avoir d’influence sur les prix agricoles, mais cela lui permettra en réalité de ne plus être tenue pour responsable des faibles prix pour les producteurs.<br/>Tout au long des débats sur EGALIM 1 et 2, nous avons présenté bon nombre de propositions permettant de rémunérer correctement les agriculteurs.<br/>Concernant les prix, nous souhaitons la mise en place, pour certains produits, de prix minimums et d’une taxe à l’importation. Ces taxes seront appliquées, si besoin, afin de ne pas créer de distorsions de concurrence entre les produits français et les produits importés de pays où les niveaux de rémunération du travail seraient inférieurs.<br/>Nous proposons de mettre en place des coefficients multiplicateurs maximums, après concertation avec les organismes interprofessionnels. Le but sera de garantir une juste rémunération des producteurs, d’éviter les ventes à pertes et de limiter les phénomènes de captation de la valeur ajoutée par des intermédiaires et par la grande distribution. Nous pourrions aussi travailler pour la régulation des marchés agricoles, pour certains produits, à travers plusieurs mesures. Il s’agirait notamment de mettre en place une protection à l’égard des importations, de garantir un prix minimum pour des volumes plafonnés par actif agricole ou encore d’instaurer des dispositifs flexibles de maîtrise des productions. Cela concernerait, entre autres, les quotas laitiers et les têtes de bétail pour lesquels nous limiterons les surfaces et les rendements viticoles.<br/>Concernant le travail même d’agriculteur, il est nécessaire de veiller à l’application intégrale des règles nationales de rémunération du travail, y compris des cotisations sociales, à l’ensemble des salariés de l’agriculture et de l’agroalimentaire. Cela passera, notamment, par la fin du dumping et du travail détaché. Nous souhaitons également la création d’un réseau de coopératives de consommateurs en circuits courts et un plan de développement des coopératives de producteurs. Cela s’accompagnerait d’une reconnaissance du droit des organisations de producteurs à négocier collectivement les contrats avec l’aval, concernant les volumes et le prix de vente.<br/>Notre ambition est de mettre l’accent sur le protectionnisme écologique, clé d’un modèle agricole vertueux et d’une amélioration des conditions de vie et d’existence des agriculteurs français. Si les objectifs affichés de ce texte EGALIM 2 sont louables, nous regrettons qu’il manque d’ambition. De ce fait, le quotidien des agriculteurs ne connaîtra pas de radicale amélioration. <italique>(M. Jean-Paul Lecoq et M. Alain Bruneel applaudissent.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944482" ordre_absolu_seance="97" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-6502374" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614583" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Et par conséquent ? Voterez-vous le texte ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Molac" id_acteur="PA607619" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722936">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944483" ordre_absolu_seance="98" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614584" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Molac.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944484" ordre_absolu_seance="99" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614585" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <acteurRef>PA607619</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>De nos jours, près d’un agriculteur sur trois gagne moins de 350 euros par mois. Quand les difficultés économiques, professionnelles et familiales s’accumulent, la vie devient un lourd fardeau. Face à ces difficultés, la question d’une juste rémunération est posée depuis longtemps.<br/>Nous l’avons dit en première lecture, la loi EGALIM a échoué dans son principal objectif : mieux répartir la valeur afin de permettre aux agriculteurs d’avoir un revenu digne. Après trois années d’application, le constat est hélas implacable. La tendance n’a pas été inversée : la déflation des prix agricoles s’est poursuivie. L’amélioration attendue n’a pas été au rendez-vous.<br/>La question que nous devons nous poser est donc simple : ce texte permet-il de corriger les erreurs du passé et d’inverser un rapport de force très favorable aux centrales d’achat dans une concurrence mondialisée ?<br/>Actuellement, nos agriculteurs subissent une double pression. Livrés à l’arbitrage des marchés mondiaux, ils ne sont que faiblement protégés de la concurrence internationale par la politique agricole commune. Soumis, en outre, à une grande distribution fortement concentrée, ils ne parviennent pas à peser dans les négociations commerciales – sans surprise, d’ailleurs, car que peuvent faire 400 000 exploitants individuels, même regroupés en organisations de producteurs, contre quatre centrales d’achat ? Par exemple, Lactalis a dix-sept organisations de producteurs. Comment ces organisations, plus ou moins concurrentes, pourraient-elles peser sur la grande firme ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944488" ordre_absolu_seance="103" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614589" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944489" ordre_absolu_seance="104" id_acteur="PA607619" id_mandat="PM722936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614590" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Molac</nom>
+              <acteurRef>PA607619</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de loi n’entend pas changer ces paramètres essentiels. Sera-t-elle, dès lors, en mesure de régler la problématique de la rémunération de nos agriculteurs ? Je ne le pense pas.<br/>Pour autant, ce texte comporte des mesures positives, qui ont été, pour une grande partie, maintenues voire réécrites en commission mixte paritaire.<br/>Je pense notamment au principe d’une contractualisation par écrit, qui devrait introduire une plus grande visibilité. Je me réjouis à ce titre que les interprofessions soient consultées avant que ne soit accordée une éventuelle exemption à telle ou telle filière.<br/>Quant à la pluriannualité des contrats, elle va aussi dans le bon sens, car elle sera vectrice de stabilité pour les exploitants.<br/>L’article 2, qui contraint les fournisseurs à indiquer dans leurs conditions générales de vente (CGV) la part que représentent les matières premières agricoles dans le volume et le tarif de leurs produits alimentaires, impose une transparence bienvenue. Espérons toutefois que la non-négociabilité des matières premières qu’il introduit ne jouera pas en la défaveur des transformateurs. Certains nous ont fait part de leurs craintes de se retrouver pris en étau entre les agriculteurs et la grande distribution, et de faire les frais d’une augmentation du prix payé aux agriculteurs.<br/>Je reste convaincu que la généralisation des contrats tripartites aurait été une avancée majeure pour éviter cet écueil. En leur absence, nous devons veiller à ce que l’ensemble des maillons de la chaîne s’emparent des dispositions du texte et les appliquent strictement. À cette fin, il est nécessaire que les contrôles de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) soient pleinement opérationnels dès les négociations commerciales de cette fin d’année.<br/>Autre point de satisfaction, le maintien d’un encadrement plus strict des contrats soumis à marques de distributeur. Alors que cette question était un véritable angle mort de la proposition de loi initiale, je me réjouis que les acquis du Sénat aient été conservés. Ce marché florissant ne devait pas rester une zone de non-droit où la grande distribution pouvait continuer impunément à exercer une pression à la baisse sur les prix payés aux producteurs.<br/>D’autres articles, bien que plus accessoires, apportent tout de même des innovations dont nous attendons les effets. C’est le cas du rémunérascore prévu à l’article 2 <italique>bis</italique>. À l’heure où nos concitoyens sont de plus en plus nombreux à s’inquiéter de la faible rémunération des agriculteurs, cette expérimentation leur apportera une information importante pour orienter leurs achats.<br/>La proposition ne réglera pas le problème global de la rémunération des agriculteurs, mais elle peut participer, sur certains aspects, à rééquilibrer les choses autant que faire se peut. Certaines avancées étaient demandées par les organisations syndicales pour donner plus de poids aux agriculteurs dans les négociations commerciales, même si nous pouvons anticiper des effets modestes.<br/>Toutefois, en dépit des manques et des craintes que j’ai exprimées, je tiens à souligner la volonté de réforme et d’amélioration des dispositifs existants, ainsi que la bonne prise en compte des apports du Sénat. Parce que nous considérons qu’il vaut mieux faire un petit pas dans la bonne direction que du surplace, nous voterons la proposition de loi. <italique>(Applaudissements sur les bancs des groupes LT, LaREM, LR, Dem, Agir ens, UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain Bruneel" id_acteur="PA720546" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722996">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944498" ordre_absolu_seance="114" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614599" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain Bruneel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944499" ordre_absolu_seance="115" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614600" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <acteurRef>PA720546</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Chers collègues, je vous demande tout d’abord d’excuser l’absence sur les bancs de notre groupe d’André Chassaigne, retenu au sommet de l’élevage à Clermont-Ferrand.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944500" ordre_absolu_seance="116" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614601" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous aimerions y être !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1944501" ordre_absolu_seance="117" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614602" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <acteurRef>PA720546</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes invités aujourd’hui à nous prononcer sur la rédaction définitive d’une proposition de loi dont l’ambition est de mieux protéger la rémunération des agriculteurs.<br/>Par ce texte, vous avouez implicitement l’échec de la loi EGALIM, qui n’a pas permis le rééquilibrage promis de la répartition de la valeur ajoutée au bénéfice des producteurs. Le revenu paysan a continué de se dégrader au profit de l’agro-industrie et de la distribution. Il est aujourd’hui encore fragilisé par l’augmentation des coûts de production, en raison de la hausse mondiale du prix des céréales et du prix de l’énergie.<br/>Le constat est implacable : ces dernières semaines, le prix des porcs charcutiers au départ de la ferme a baissé de plus de 20 %, alors que le prix des aliments qui leur sont servis augmentait de 20 % en moyenne. En Europe, le recul des importations chinoises de viandes porcines a fait chuter les cours et les distributeurs en profitent pour tirer les prix vers le bas, quitte à ruiner les éleveurs par des stratégies à court terme.<br/>Le même constat vaut pour le lait de vache : sur douze mois, les prix au départ de la ferme ont baissé de 1,8 % en Bretagne, de 2,2 % dans les Hauts-de-France, de 0,1 % en Normandie, de 0,6 % dans le Grand Est et de 0,8 % dans les Pays de la Loire, selon les chiffres rendus publics par FranceAgriMer, 1’Institut de l’élevage et les chambres d’agriculture.<br/>La nouvelle mouture de la loi EGALIM que nous examinons ce soir va-t-elle permettre de réelles améliorations ? Notre conviction est que ce texte ne va pas régler grand-chose. La proposition contient certes quelques mesures intéressantes comme la création d’un comité de règlement des différends commerciaux agricoles ou encore le fait de sortir le prix des matières premières agricoles du cadre de la négociation tarifaire entre les industriels et les distributeurs. Ces avancées sont toutefois insuffisantes. Ainsi, sortir le prix des matières premières agricoles du cadre de la négociation tarifaire n’empêchera pas les industriels d’imposer des prix bas à leurs fournisseurs paysans afin d’accroître leurs marges.<br/>Le texte verse ensuite dans l’utopie qui consiste à croire que les interprofessions et des opérateurs privés organisés, réunis autour d’un contrat, pourraient se substituer à l’État pour protéger la rémunération des paysannes et des paysans. Vous faites ainsi l’impasse sur le renforcement effectif de la prise en compte des indicateurs de coût de production dans les contrats et sur une réelle construction du prix en marche avant. On parle d’indicateurs de production, mais on renvoie une fois de plus aux interprofessions, alors que l’on pourrait confier un rôle beaucoup plus important à l’Observatoire de la formation des prix et des marges des produits alimentaires et à FranceAgriMer, l’Établissement national des produits de l’agriculture et de la mer.<br/>Enfin, le champ de ce texte est beaucoup trop étroit pour ouvrir de nouvelles perspectives au monde agricole. La régulation des volumes de production à l’échelle européenne et la lutte contre la concurrence déloyale sont des enjeux décisifs si l’on entend mieux protéger le revenu paysan et lui permettre de progresser de manière significative. Interdire à l’aval d’acheter des produits agricoles en dessous des coûts de production en France, étendre la notion de prix abusivement bas aux produits importés, intégrer la rémunération paysanne dans la définition législative du coût de production sont quelques-unes des pistes à explorer.<br/>Nous avons la conviction que permettre aux agriculteurs de vivre décemment de leur activité est un levier essentiel du développement et de la vitalité de nos territoires ruraux, comme de la réussite de la transition vers une agriculture plus respectueuse de l’environnement. Nous craignons qu’à cet égard, votre texte n’apparaisse une nouvelle fois comme une occasion manquée.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sophie Beaudouin-Hubiere" id_acteur="PA722170" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723492">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944391" ordre_absolu_seance="125" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614658" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Beaudouin-Hubiere.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944392" ordre_absolu_seance="126" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614659" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Alors que nous avançons dans la lecture des conclusions de la commission mixte paritaire, j’ai une pensée pour tous ceux d’entre vous, d’entre nous, qui se sont battus – sous cette législature, mais aussi sous les législatures précédentes – pour le revenu des agriculteurs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944393" ordre_absolu_seance="127" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614660" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <acteurRef>PA332228</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944394" ordre_absolu_seance="128" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614661" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aujourd’hui, enfin, nous tenons une nouvelle avancée, et ce n’est pas rien car nous savons tous ici que, dans le secteur agroalimentaire, chaque avancée se fait pied à pied, chaque combat se gagne de haute lutte.<br/>Je ne pense pas qu’il soit nécessaire de s’appesantir outre mesure sur le contenu de cette loi. Les orateurs précédents s’en sont largement chargés, nous avons longuement débattu dans cet hémicycle en juin dernier et les travaux de la CMP, ces derniers jours, ont été très suivis.<br/>Bien que cette loi ait globalement été consensuelle – en témoigne l’accord que nous avons réussi à trouver –, certains points ont fait l’objet d’âpres discussions. En effet, le Sénat aurait voulu supprimer l’une des options laissées aux industriels et distributeurs dans le cadre de la non-négociabilité de la matière première agricole, alors que cette option était de loin la plus transparente. Nous avons réussi à la faire rétablir.<br/>Sur la question de l’expérimentation du seuil de revente à perte et de la velléité de certains de le supprimer, reconnaissons que les discussions avec le Sénat nous conduisent aujourd’hui à ce qui me semble être la meilleure rédaction possible. En effet, s’il s’agit d’une expérimentation au sein d’une expérimentation, ce que nous proposons aujourd’hui responsabilise les acteurs sans rien céder des ambitions de la loi EGALIM. Par ailleurs, alors que de nombreuses questions nous sont posées sur l’application de ce texte aux coopératives agricoles, nous avions pris l’engagement, devant la Chambre haute, de lancer dans les prochaines semaines une mission d’information sur ce sujet. Cette mission a été actée par le bureau de la commission des affaires économiques et devrait être lancée dans les prochains jours.<br/>Enfin, je tiens à saluer l’esprit constructif qui a présidé à nos débats sur cette proposition de loi, adoptée à l’unanimité lors de sa première lecture à l’Assemblée nationale, fait assez rare pour être souligné.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944399" ordre_absolu_seance="133" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614666" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944400" ordre_absolu_seance="134" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614667" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens à vous remercier tous, sur tous les bancs, pour les échanges très constructifs et, je le crois, en confiance que nous avons eus.<br/>Sur la forme, ce texte a eu la vertu de souligner le fait que le Parlement, bien loin d’être la chambre d’enregistrement que certains veulent y voir,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944402" ordre_absolu_seance="136" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614669" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau,</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944402" ordre_absolu_seance="137" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614886" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr que c’est une chambre d’enregistrement ! C’est la vérité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944403" ordre_absolu_seance="138" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614670" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…peut être à l’initiative sur des sujets majeurs. Non seulement parce que cette loi est d’initiative parlementaire – je tiens à saluer et à féliciter mon collègue Grégory Besson-Moreau, et faire un clin d’œil à Thierry Benoit <italique>(« Excellent ! » sur divers bancs)</italique> –,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944405" ordre_absolu_seance="139" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614672" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <acteurRef>PA720386</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est du harcèlement ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944406" ordre_absolu_seance="140" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614673" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…mais surtout parce que ce texte a connu des évolutions substantielles tout au long de son parcours. C’est notamment en séance, et grâce à votre soutien à tous, sur tous les bancs, que nous avons entériné nombre de mesures phares de cette loi : la non-discrimination tarifaire, le « ligne à ligne », l’encadrement des marques de distributeur ou encore l’expérimentation du tunnel de prix. Cette assemblée a su se montrer à la hauteur du débat. Les collègues qui, comme moi, sont élus de circonscriptions rurales et périurbaines, parce qu’ils sont chaque jour au contact des agriculteurs, mesurent les enjeux qui sont derrière ce texte.<br/>Après ce satisfecit, j’invite tout un chacun à regarder par-dessus son épaule. À qui faut-il encore rappeler que cette loi a été faite dans le prolongement de la loi EGALIM, dont nous avons constaté qu’elle ne produisait pas tous les effets escomptés sur le terrain ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944408" ordre_absolu_seance="142" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614675" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <acteurRef>PA330008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un échec !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944409" ordre_absolu_seance="143" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614676" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais ce n’est pas un échec, n’en déplaise à ceux qui veulent le dire. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944410" ordre_absolu_seance="144" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614677" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un peu de modestie !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944411" ordre_absolu_seance="145" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614678" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour la loi EGALIM, nous avions fait le pari de la confiance ; peut-être était-ce une erreur, et il nous faut aujourd’hui affiner la législation en passant, comme aime à le rappeler le ministre, par la régulation, plus contraignante. Comment nous assurer aujourd’hui que l’histoire ne se répétera pas et que les parlementaires ne seront pas obligés de revenir à la charge, avec EGALIM 2, voire EGALIM 4 ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944412" ordre_absolu_seance="146" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614679" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <acteurRef>PA720386</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un éclair de lucidité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944413" ordre_absolu_seance="147" id_acteur="PA722170" id_mandat="PM723492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614680" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Beaudouin-Hubiere</nom>
+              <acteurRef>PA722170</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je le dis clairement et sans fard : pour que l’histoire ne se répète pas, il faut que tous les acteurs acceptent de s’emparer des outils de cette loi, ainsi que de ceux de la loi EGALIM. Je pense évidemment à la grande distribution, mais aussi aux industriels, qui vont devoir accepter de jouer le jeu de la non-négociabilité de la matière première. Je pense aux interprofessions, qui doivent impérativement fournir des indicateurs fiables et pertinents pour toutes les productions. Je pense aussi aux agriculteurs, qui doivent acquérir le réflexe de contractualiser. J’insiste sur ce dernier point car je sais que certains d’entre eux y sont encore réticents. J’ai beaucoup écouté, ces dernières heures, au sommet de l’élevage ; si cet effort n’est pas fait par les acteurs, quelle que soit la boîte à outils que nous mettons à leur disposition, alors c’est toute l’ambition pour une meilleure rémunération des agriculteurs qui ne sera pas réalisée.<br/>J’appelle l’ensemble du secteur à se rappeler le discours de Rungis et les mots du Président de la République. Quatre ans plus tard, ils sont toujours d’actualité : « Si nous sommes responsables collectivement, vous avez votre part de responsabilité derrière la réforme que le Gouvernement est prêt à porter. […] Chacun devra faire des efforts, les uns sur leurs marges, un peu sur les prix, et les autres sur leur organisation collective […] » <italique>(Applaudissements sur les bancs des groupes LaREM et UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Julien Dive" id_acteur="PA712015" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722448">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944415" ordre_absolu_seance="149" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614682" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Julien Dive.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944416" ordre_absolu_seance="150" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614683" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La crise sanitaire a fait ressurgir de nombreuses problématiques qui avaient parfois été mises de côté, voire ignorées, depuis trop longtemps. L’une des plus flagrantes est notre rapport à l’alimentation et à nos agriculteurs. Les Français nous l’ont d’ailleurs rappelé ces derniers mois en montrant à la fois leur attachement au « manger bien », mais aussi à leurs agriculteurs, qui, durant cette crise, se sont fortement mobilisés pour nourrir le pays et ont montré qu’ils étaient les garants de notre souveraineté alimentaire.<br/>Cette reconnaissance des Français envers leurs paysans tranche avec l’agribashing théorisé avant la crise sanitaire par une certaine doctrine, exprimé par certains membres de la classe politique et illustré par des déclarations ou des mesures jetant l’opprobre sur toute une profession. Les éleveurs que nous avons rencontrés hier et aujourd’hui au sommet de l’élevage, à Cournon, ne l’ont d’ailleurs pas oublié.<br/>Sans nos agriculteurs, il n’y aura pas de souveraineté alimentaire française. Nous avons donc le devoir d’être à leurs côtés et de lutter contre tous les maux qui touchent la profession. Aujourd’hui, un tiers des agriculteurs s’octroient un revenu équivalant à un RSA par mois en travaillant sept jours sur sept.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944419" ordre_absolu_seance="153" id_acteur="PA720210" id_mandat="PM722892" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614686" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Beauvais</nom>
+              <acteurRef>PA720210</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944420" ordre_absolu_seance="154" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614687" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce constat nous oblige à agir.<br/>Je me réjouis donc que les travaux de négociation entre l’Assemblée et le Sénat aient permis un accord sur ce texte. Les filières l’attendaient avec impatience et nous sommes au rendez-vous…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944422" ordre_absolu_seance="156" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614689" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau,</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Tout ça, c’est la loi de modernisation de l’économie, la LME !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944423" ordre_absolu_seance="157" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614690" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…de sorte que les nouvelles dispositions pourront s’appliquer dès les prochaines négociations commerciales qui débuteront dans quelques mois.<br/>Avec ce texte nous avons la possibilité de sortir des écueils qui ont conduit à l’échec d’EGALIM 1. Disons-le-nous franchement, si nous sommes réunis ce soir, c’est parce que le texte EGALIM a été un échec,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944425" ordre_absolu_seance="159" id_acteur="PA718884" id_mandat="PM722488" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614692" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Bazin-Malgras</nom>
+              <acteurRef>PA718884</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944426" ordre_absolu_seance="160" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614693" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…un échec qui a obligé la majorité à rafistoler l’édifice, année après année, à coups de propositions de loi. <italique>(Exclamations sur les bancs du groupe LaREM.) </italique>Calmez-vous ! <italique>(Protestations sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944427" ordre_absolu_seance="161" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614694" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’il vous plaît, on se calme ! Madame Dupont, madame Verdier-Jouclas, laissez l’orateur s’exprimer !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944427" ordre_absolu_seance="162" id_acteur="PA607553" id_mandat="PM722956" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614888" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dominique Potier</nom>
+              <acteurRef>PA607553</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo, madame la présidente !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944428" ordre_absolu_seance="163" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614695" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous nous réjouissons quand même du fait qu’enfin, les conditions nécessaires à la mise en place d’une construction du prix en marche avant seront réunies, afin que chaque agriculteur puisse vivre dignement de son travail. Cela n’était pas entièrement gagné au début de nos débats, mais je crois que, sur ce point, les demandes de notre groupe ont été entendues à l’Assemblée, et je remercie le Sénat qui a fait œuvre utile pour consolider ces conditions, notamment en assurant la disponibilité et l’utilisation des indicateurs agricoles dans le cadre des négociations.<br/>Mais attention, monsieur le ministre, il ne faut pas que les éleveurs soient à nouveau déçus !<br/>Nous nous réjouissons enfin du fait que le maillon final de la chaîne, le consommateur, n’ait pas été complètement oublié. Avec l’expérimentation du rémunérascore ou encore l’interdiction d’apposer sur les produits, de manière abusive, le drapeau ou la carte de la France, dispositions que les députés Les Républicains avaient proposées dans les débats, nous apportons de premières réponses pour permettre au consommateur de faire un choix éclairé dans le cadre de ses comportements d’achat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944431" ordre_absolu_seance="166" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614698" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <acteurRef>PA720386</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944432" ordre_absolu_seance="167" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614699" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela ayant été dit, ne nous voilons pas la face, ce texte ne règle pas tout.<br/>Premièrement, on ne traite ici que d’un seul aspect, certes essentiel : celui de la création et du partage de la valeur tout au long de la chaîne. Mais si traiter ce point est nécessaire, cela est insuffisant pour remédier à l’ensemble des maux qui touchent notre agriculture : excès de normes, manque de compétitivité, absence de renouvellement des générations, mais aussi et surtout concurrence déloyale. Nous aurons beau faire toutes les lois du monde pour le revenu des agriculteurs, tant que nous ne mettrons pas un terme à cette concurrence déloyale – incarnée, notamment, par des traités de libre-échange moins-disants –, nos agriculteurs seront en danger. <italique>(Applaudissements sur les bancs du groupe LR. – M. Bertrand Pancher applaudit également.)</italique><br/>Demain, cette concurrence s’exprimera avec l’accord de libre-échange entre l’Union européenne et la Nouvelle-Zélande ; après-demain, avec l’accord entre l’Union européenne et l’Australie, ce dernier étant encore plus scandaleux lorsque l’on sait comment les Australiens ont récemment traité la France. Certes, les clauses miroirs nous permettraient d’imposer nos règles sanitaires et environnementales en vigueur dans l’Union européenne aux produits importés sur le territoire européen, mais nous devons auparavant mettre un terme à ce type de négociations, ou au moins poser un moratoire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944434" ordre_absolu_seance="170" id_acteur="PA607553" id_mandat="PM722956" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614701" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dominique Potier</nom>
+              <acteurRef>PA607553</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944435" ordre_absolu_seance="171" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614702" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ensuite, il faut que les acteurs parviennent à se saisir des outils que ce texte met à leur disposition. Il n’échappera à personne que le comité de règlement des différends commerciaux agricoles que nous allons installer présente une forme de complexité. La réussite de ce texte supposera que l’impulsion législative que nous souhaitons donner aujourd’hui soit bien accompagnée.<br/>Enfin, si l’on peut saluer le meilleur encadrement des contrats de MDD, auquel nous étions attachés, qui contribuera à apaiser le climat de négociation, un point mérite attention : il faudra surveiller les effets à terme de ces dispositions sur le pouvoir d’achat de nos concitoyens, qui prisent cette catégorie de produits.<br/>Ces réserves n’enlèvent toutefois rien à la nécessité de faire évoluer le dispositif d’EGALIM 1. Je salue le fait que la majorité gouvernementale ait enfin eu la clairvoyance de reprendre sa copie, trois ans après, même si cela intervient si près d’échéances électorales majeures.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944437" ordre_absolu_seance="174" id_acteur="PA721542" id_mandat="PM723308" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614890" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Verdier-Jouclas</nom>
+              <acteurRef>PA721542</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et alors ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944437" ordre_absolu_seance="175" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614889" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mieux vaut tard que jamais ! <italique>(Exclamations sur plusieurs bancs du groupe LaREM.)</italique><br/>Le groupe Les Républicains votera bien entendu ce texte <italique>(« Ah ! » sur de nombreux bancs du groupe LaREM)</italique>,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944438" ordre_absolu_seance="177" id_acteur="PA719218" id_mandat="PM722596" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614892" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hervé Berville</nom>
+              <acteurRef>PA719218</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si près d’une échéance électorale !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1944438" ordre_absolu_seance="178" id_acteur="PA712015" id_mandat="PM722448" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2614891" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Dive</nom>
+              <acteurRef>PA712015</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…sans illusions, mais pour nos agriculteurs. <italique>(Applaudissements sur les bancs des groupes LR et UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle Crouzet" id_acteur="PA721808" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723388">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944235" ordre_absolu_seance="179" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2614748" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle Crouzet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944236" ordre_absolu_seance="180" id_acteur="PA721808" id_mandat="PM723388" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2614749" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Crouzet</nom>
+              <acteurRef>PA721808</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Mouvement démocrate (MODEM) et démocrates apparentés se réjouit de l’accord trouvé en CMP sur cette proposition de loi tant attendue par les agriculteurs. À cette occasion, nous souhaitons remercier et féliciter le rapporteur Grégory Besson-Moreau pour son travail et son investissement.<br/>Si la loi EGALIM de 2018 a su apporter des réponses afin de rééquilibrer les relations commerciales entre les acteurs agroalimentaires, nous ne pouvions ignorer plus longtemps que certains points de blocage subsistent. Toutes les filières n’ont pas su bénéficier des dispositifs créés.<br/>Nous sommes malheureusement encore dans un rapport de force, qui est inversement proportionnel à la concentration des opérateurs : les plus forts et les mieux organisés, c’est-à-dire la grande distribution et les grandes entreprises, sont bien trop souvent les gagnants du système actuel. Les agriculteurs, moins bien organisés et moins bien équipés pour la négociation, demeurent trop souvent le maillon faible de la filière. Par exemple, le relèvement de 10 % du seuil de revente à perte aurait dégagé environ 550 millions d’euros ; pourtant ce montant est loin d’avoir été reversé en totalité aux agriculteurs. C’est pourquoi cette proposition de loi arrivait à point nommé pour réadapter certaines mesures et mieux atteindre notre objectif : permettre aux agriculteurs, en payant un juste prix, de vivre de leur travail.<br/>À ce titre, nous saluons les différentes améliorations votées par notre chambre, telles que l’interdiction de la discrimination tarifaire, l’expérimentation d’un tunnel de prix au sein des contrats entre agriculteurs et premier acheteur, l’obligation de mentionner chacune des obligations réciproques et leur prix unitaire au sein des contrats, et ainsi de faire concorder la facture avec les services, la création d’un rémunérascore, afin de fournir au consommateur une information relative aux conditions de rémunération des producteurs.<br/>Si certains désaccords existaient entre sénateurs et députés, nous considérons qu’il était urgent de voter ce texte, et l’accord trouvé est à saluer. Avec cette version finale, la proposition de loi met en place des dispositifs attendus par la profession. Tout d’abord, la généralisation des contrats écrits et pluriannuels, et la révision automatique des prix étaient une recommandation qu’il nous était urgent de mettre en place. Cela inverse la logique des contrats de vente de produits agricoles et la renégociation de ceux-là du fait de l’environnement concurrentiel sera désormais interdite.<br/>Ensuite, nous saluons l’accord trouvé sur l’article 2 pour plus de transparence et de non-négociabilité sur les prix des matières premières agricoles au sein des contrats entre fournisseurs et producteurs. Nous nous félicitons que la première option intégrée à l’Assemblée, qui était offerte aux fournisseurs, ait finalement été rétablie en CMP.<br/>Ainsi, trois options sont désormais possibles : première option, afficher au sein des conditions générales de vente la part unitaire que représente chaque matière première agricole dans le produit fini, en pourcentage du volume et du tarif du fournisseur ; deuxième option, indiquer dans les CGV la part agrégée des matières premières agricoles ; troisième option, faire appel à un tiers indépendant en fin de négociation pour certifier que la part de l’évolution du tarif n’a pas porté sur celle de l’évolution du prix des matières premières agricoles.<br/>L’intégration d’une clause générale de renégociation est également une bonne nouvelle. Elle est activable en fonction de l’évolution du prix des transports, de l’énergie et des emballages mais également en fonction de celle des matières premières agricoles dans le cas où les prix des contrats amont et aval n’auraient pas été parfaitement rédigés.<br/>Une autre réussite de cet accord concerne le régime d’encadrement des produits alimentaires vendus sous marque de distributeur. Ainsi, une clause de révision automatique des prix est instaurée au sein des contrats de MDD, en fonction de la variation du coût des matières premières supporté par le fabricant. En outre, le recours à un tiers indépendant sera à la charge du distributeur, sauf si celui-ci atteste que le fabricant a activé à tort cette clause de révision automatique.<br/>Enfin, la rédaction issue de la CMP concernant la création, par l’article 3, du comité de règlement des différends commerciaux a finalement abouti, de manière que les parties concernées par le litige puissent saisir le juge en la forme des référés, l’objectif étant de sortir au plus vite d’un litige.<br/>Pour toutes ces raisons, le groupe Mouvement démocrate (MODEM) et démocrates apparentés votera bien évidemment ce texte pour rééquilibrer les relations commerciales dans le secteur de l’agroalimentaire, pour défendre notre souveraineté alimentaire, pour faire du consommateur un acteur des équilibres commerciaux, pour soutenir une juste rémunération des agriculteurs, mais surtout pour que le système n’ait pas raison de leur courage. <italique>(Applaudissements sur les bancs des groupes Dem et LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944247" ordre_absolu_seance="191" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614760" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944248" ordre_absolu_seance="192" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2614761" valeur=" (n[[o]] 4511)" bibard=" (n[[o]] 4511)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Texte de la commission mixte paritaire</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944249" ordre_absolu_seance="193" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614762" valeur="" bibard=" (n[[o]] 4511)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant le texte de la commission mixte paritaire.<br/>Conformément à l’article 113, alinéa 3, du règlement, je vais d’abord appeler l’Assemblée à statuer sur les amendements dont je suis saisie.<br/>Auparavant, je vous informe que, sur le vote de la proposition de loi, je suis saisie par le groupe La République en marche et le groupe UDI et indépendants d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à M. le ministre, pour soutenir les amendements n<exposant>os</exposant> 1, 3, 5, 2 et 4, qui peuvent faire l’objet d’une présentation groupée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944252" ordre_absolu_seance="196" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614765" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Julien Denormandie</nom>
+            <acteurRef>PA729332</acteurRef>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte>J’ai en effet l’honneur de vous présenter cinq amendements rédactionnels ou de coordination juridique faisant suite aux travaux de la CMP.<br/>J’en profite pour saluer les heures de travail à la fois des équipes de mon ministère et des administrateurs de la commission des affaires économiques, qui ont énormément œuvré pour que l’ensemble de ces dispositifs puissent être mis en place. <italique>(Applaudissements sur de nombreux bancs.)</italique><br/>Je ne suis pas sûr de l’utilité d’entrer dans le détail de ces amendements de coordination juridique, que je vous invite à adopter.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Grégory Besson-Moreau, quali  rapporteur" id_acteur="PA718876" id_nomination_oe="-1" id_nomination_op="-7224860" id_mandat="PM722486">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944255" ordre_absolu_seance="199" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2614768" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis de la commission ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944256" ordre_absolu_seance="200" id_acteur="PA718876" id_mandat="PM722486" id_nomination_oe="-1" id_nomination_op="-7224860" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2614769" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Grégory Besson-Moreau</nom>
+              <acteurRef>PA718876</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Avis favorable pour l’ensemble de ces amendements.<br/>Je voudrais à mon tour remercier les parlementaires présents sur ces bancs. Je remercie également Diane Boucher, qui nous regarde sur son écran n’ayant pu être présente car elle attend dans quelques semaines un heureux événement. Cela fait trois ans que je travaille avec elle <italique>(Applaudissements sur les bancs des groupes LaREM, UDI-I et LT)</italique>, on ne peut nier la qualité des administrateurs de l’Assemblée nationale.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944258" ordre_absolu_seance="202" code_grammaire="ADOP_ADTS" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2614771" valeur=" 1, 3, 5, 2 et 4" decision="ADOPTION de plusieurs amendements (main levée) adts">
+        <orateurs/>
+        <texte>
+          <italique>(Les amendements n<exposant>os</exposant> 1, 3, 5, 2 et 4 sont successivement adoptés.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944259" ordre_absolu_seance="203" code_grammaire="VOTE_ENS_PPL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2614772" valeur=" (n[[o]] 4511)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944260" ordre_absolu_seance="204" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_ENS_PPL_S_2_20" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614773" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble de la proposition de loi, compte tenu du texte de la commission mixte paritaire, modifié par les amendements adoptés par l’Assemblée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944261" ordre_absolu_seance="205" code_grammaire="VOTE_ENS_PPL_S_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2614774" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944262" ordre_absolu_seance="206" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_ENS_PPL_S_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614775" valeur="0" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        82<br/>        Nombre de suffrages exprimés                79<br/>        Majorité absolue                        40<br/>                Pour l’adoption                79<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1944263" ordre_absolu_seance="207" code_grammaire="VOTE_ENS_CMP_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2614776" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’ensemble de la proposition de loi est adopté. – Applaudissements sur de très nombreux bancs.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="5" id_preparation="1944265" ordre_absolu_seance="209" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2614778" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1944266" ordre_absolu_seance="210" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2614779" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Proposition de loi visant à plus de justice en faveur des personnes en situation de handicap ;<br/> Proposition de résolution visant à lutter contre la disparition des abeilles ;<br/> Suite de la discussion de la proposition de loi visant à raisonner le développement de l’éolien ;<br/> Proposition de loi visant à créer un ticket restaurant étudiant ;<br/> Proposition de résolution visant à créer une filière française de production de masques de protection sanitaire ;<br/> Proposition de loi relative au transfert des droits sur le compte personnel de formation ;<br/> Proposition de loi relative à l’accompagnement des parents d’enfant atteint de pathologie grave.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1944267" ordre_absolu_seance="211" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2614780" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1944268" ordre_absolu_seance="212" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2614781" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

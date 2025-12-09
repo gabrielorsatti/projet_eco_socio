@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N316</uid>
+  <seanceRef>RUANR5L15S2021IDS24451</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210622223000000</dateSeance>
+    <dateSeanceJour>mardi 22 juin 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>316</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210316</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-06-29T18:24:12.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2562593">Présidence de Mme Laetitia Saint-Paul</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2562597">
+          <intitule>Accès aux œuvres culturelles à l’ère numérique</intitule>
+        </titreStruct>
+        <sommaire2>
+          <titreStruct id_syceron="2562600">
+            <intitule>Présentation commune</intitule>
+          </titreStruct>
+          <para id_syceron="2562602">Mme Roselyne Bachelot, ministre de la culture</para>
+          <para id_syceron="2562615">Mme Aurore Bergé, rapporteure de la commission des affaires culturelles et de l’éducation</para>
+          <para id_syceron="2562688">Mme Sophie Mette, rapporteure de la commission des affaires culturelles et de l’éducation</para>
+          <para id_syceron="2562697">Mme Laetitia Avia, rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</para>
+          <para id_syceron="2562704">M. Bruno Studer, président de la commission des affaires culturelles et de l’éducation</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2562787">
+            <intitule>Motion de rejet préalable</intitule>
+          </titreStruct>
+          <para id_syceron="2562789">M. Michel Larive</para>
+          <para id_syceron="2562628">Mme Roselyne Bachelot, ministre</para>
+          <para id_syceron="2562631">M. Pierre-Yves Bournazel (Agir ens)</para>
+          <para id_syceron="2562633">M. Alain David (SOC)</para>
+          <para id_syceron="2562637">Mme Géraldine Bannier (Dem)</para>
+          <para id_syceron="2562639">M. Bertrand Pancher (LT)</para>
+          <para id_syceron="2562641">Mme Céline Calvez (LaREM)</para>
+          <para id_syceron="2562647">M. Jean-Jacques Gaultier (LR)</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2562650">
+            <intitule>Discussion générale commune</intitule>
+          </titreStruct>
+          <para id_syceron="2562652">Mme Géraldine Bannier</para>
+          <para id_syceron="2562719">M. Alain David</para>
+          <para id_syceron="2562733">M. Pierre-Yves Bournazel</para>
+          <para id_syceron="2562748">Mme Agnès Thill</para>
+          <para id_syceron="2562967">M. Bertrand Pancher</para>
+          <para id_syceron="2562976">Mme Muriel Ressiguier</para>
+          <para id_syceron="2562982">Mme Elsa Faucillon</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2563000">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mardi 22 juin 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1911385" ordre_absolu_seance="1" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2562593" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Laetitia Saint-Paul</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1911386" ordre_absolu_seance="2" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562594" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1911387" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2562595" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt-deux heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911389" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2562597" valeur=" (n[[o]] 4245) (n[[o]] 4262)">
+      <orateurs/>
+      <texte>Accès aux œuvres culturelles à l’ère numérique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911390" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="0" id_syceron="2562598" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Discussion d’un projet de loi et d’un projet de loi organique adoptés par le Sénat</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911391" ordre_absolu_seance="7" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562599" valeur=" (n[[os]] 4187, 4245) (n[[os]] 4188 rectifié, 4262)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion du projet de loi relatif à la régulation et à la protection de l’accès aux œuvres culturelles à l’ère numérique (n<exposant>os</exposant> 4187, 4245) et du projet de loi organique modifiant la loi organique n<exposant>o</exposant> 2010-837 du 23 juillet 2010 relative à l’application du cinquième alinéa de l’article 13 de la Constitution (n<exposant>os</exposant> 4188 rectifié, 4262).<br/>La conférence des présidents a décidé que ces deux textes donneraient lieu à une discussion générale commune.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911392" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2562600" valeur="">
+      <orateurs/>
+      <texte>Présentation commune</texte>
+      <interExtraction nom_orateur="Mme Roselyne Bachelot, quali  ministre de la culture" id_acteur="PA332" id_nomination_oe="PM773507" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911393" ordre_absolu_seance="9" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562601" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre de la culture.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911394" ordre_absolu_seance="10" id_acteur="PA332" id_mandat="-1" id_nomination_oe="PM773507" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562602" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Roselyne Bachelot</nom>
+              <acteurRef>PA332</acteurRef>
+              <qualite>ministre de la culture</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Les secteurs audiovisuel et cinématographique ont connu, ces dernières années, des transformations profondes et des mutations de toute nature : mutation des usages, d’abord, avec l’apparition de nouveaux modes de diffusion – il est désormais possible de regarder un film ou une série quand on le veut, où on le veut, sur l’écran de son téléphone, de sa tablette, de son ordinateur ou de son téléviseur ; mutation du paysage, ensuite, avec l’irruption d’acteurs géants, aux capacités d’investissement considérables et à l’offre de programmes globalisée, installés en dehors de notre territoire et de notre périmètre de régulation. Ces mutations multiplient les possibilités d’accès aux œuvres et facilitent leur circulation auprès de publics toujours plus nombreux ; elles constituent des chances pour la création française, mais également des menaces : elles fragilisent en effet des mécanismes de régulation initialement conçus pour des opérateurs nationaux proposant une offre linéaire, et elles risquent de rompre l’équilibre historique entre les diffuseurs, les producteurs et les auteurs.<br/>De telles révolutions renforcent manifestement le besoin d’intervention publique : il est vital pour nos industries audiovisuelle et cinématographique de se doter de règles adaptées aux mutations en cours et à une économie beaucoup plus ouverte et compétitive. Il ne s’agit pas de préserver des modèles incompatibles avec l’évolution des usages, mais au contraire de renforcer la compétitivité économique et créative d’une filière d’excellence où les talents français sont nombreux, pour maintenir une ambition industrielle et culturelle dans le cinéma et l’audiovisuel.<br/>Ces nouvelles règles résultent en partie de la profonde réforme des mécanismes de soutien du financement de la création que j’ai engagée, avec la révision en cours du décret relatif aux services de médias audiovisuels à la demande (SMAD) et du décret relatif à la contribution à la production d’œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre – dit décret TNT –, qui fixent les obligations d’investissement dans la production des télévisions et des plateformes, et ayant pour corollaire une évolution de la chronologie des médias. Ces règles découleront également du projet de loi soumis à votre examen. Vous le savez, je me suis battue pour obtenir un créneau parlementaire au sein duquel inscrire le texte à l’ordre du jour – et si je me suis battue, c’est parce que ce projet est déterminant, ambitieux et même vital pour les secteurs de l’audiovisuel et du cinéma. Il était donc indispensable qu’il soit soumis à votre examen rapidement.<br/>Le projet de loi apporte des réponses concrètes à trois enjeux majeurs des secteurs de l’audiovisuel et du cinéma.<br/>Tout d’abord, il renforce la protection des droits des auteurs, artistes, producteurs, diffuseurs et fédérations sportives, en accentuant la lutte contre le piratage. Il prévoit ainsi que soit dressée une liste noire des sites internet dont le modèle économique repose sur l’exploitation massive de contenus contrefaits, et permettra de lutter plus efficacement contre les sites dits miroirs, qui reprennent de façon illicite, en totalité ou de manière substantielle, les contenus d’autres sites. Très attendu dans le monde sportif, il instaure un dispositif spécifique de référé sportif innovant, tenant compte de l’urgence inhérente aux retransmissions audiovisuelles en direct des manifestations sportives.<br/>Il engage par ailleurs une modernisation de la régulation, en fusionnant le Conseil supérieur de l’audiovisuel (CSA) et la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) dans l’Autorité de régulation de la communication audiovisuelle et numérique (ARCOM). La création d’un nouveau régulateur est en effet nécessaire pour accommoder la convergence progressive de l’audiovisuel et du numérique : elle nous dotera d’une instance compétente dans l’ensemble du champ de la régulation des contenus audiovisuels et numériques, qu’il s’agisse de lutter contre le piratage, de protéger les mineurs ou de défendre les publics contre la désinformation et la haine en ligne.<br/>Enfin, le texte protégera l’accès du public aux œuvres cinématographiques et audiovisuelles françaises, à travers un dispositif qui permettra, en cas de cession d’une de ces œuvres, de vérifier que l’acheteur, même s’il ne s’agit pas d’un producteur établi en France, présente toutes les garanties pour que l’œuvre soit exploitée, donc vue par le public en France et à l’étranger. Nous parlons souvent de la protection des actifs stratégiques face à la convoitise des capitaux étrangers ; le secteur culturel, qui contribue sept fois plus que l’industrie automobile au PIB de la France, doit bénéficier d’une telle protection : c’est le sens de l’article 17, auquel je suis très attachée et qui permettra de préserver notre souveraineté culturelle.<br/>À travers ses trois grands volets, le projet de loi dotera les secteurs audiovisuel et cinématographique de règles modernisées, étendues aux nouveaux acteurs et adaptées aux nouveaux usages. D’aucuns ont regretté la grande loi défendue par mon prédécesseur, dont l’examen a été suspendu par la crise sanitaire ; mais le texte que je défends est tout aussi ambitieux que celui qu’a examiné la commission des affaires culturelles il y a un an. Certes, il est amputé des dispositions transposant la directive dite services de médias audiovisuels (SMA), la directive sur le droit d’auteur et les droits voisins dans le marché unique numérique (DAMUN), et la directive dite câble et satellite, adoptées par voie d’ordonnance grâce à la promulgation du projet de loi portant diverses dispositions d’adaptation au droit de l’Union européenne en matière économique et financière (DDADUE) à l’automne dernier. La réforme du secteur audiovisuel public n’y figure pas non plus, mais le renforcement des coopérations entre les différentes entreprises a été prévu dans les contrats d’objectifs et de moyens que j’ai signés il y a quelques mois.<br/>Grâce aux enrichissements introduits par le Sénat puis par la commission des affaires culturelles de l’Assemblée nationale, la plupart des autres sujets couverts par le projet de loi de 2020 se retrouvent dans le texte actuel. Au-delà des trois volets que j’ai évoqués, nous débattrons en effet de la modernisation de la télévision numérique terrestre (TNT) – plus ambitieuse que celle qui avait été envisagée en 2020, puisqu’elle traite aussi de la spécification technique <italique>Hybrid broadcast broadband television</italique>, dite HBBTV –, tout comme nous traiterons des relations entre les éditeurs et les distributeurs, y compris de l’accès aux données du <italique>must-carry</italique> de l’audiovisuel public – c’est-à-dire des obligations de diffusion des opérateurs concernés – et de la reprise des déclinaisons locales de France 3.<br/>Nous débattrons en outre des règles anticoncentration, non seulement en radio, comme dans le projet de loi de 2020, mais également en télévision locale ; et enfin de la réforme du soutien à la création, en revoyant la définition de la production audiovisuelle indépendante. En définitive, la plupart des sujets qui étaient abordés dans le texte de 2020 se retrouvent dans celui que nous nous apprêtons à examiner, à l’exception de quelques dispositions peu nombreuses et de moindre importance.<br/>C’est donc bien la grande loi audiovisuelle du quinquennat qui vous est soumise. Elle permettra d’adapter une nouvelle fois la loi du 30 septembre 1986 aux nouvelles réalités économiques et aux enjeux de régulation – si je précise « une nouvelle fois », c’est que cette loi a été modifiée quatre-vingt-dix fois depuis trente-cinq ans. Ainsi, c’est principalement par une succession de réformes de plus ou moins grande ampleur, et non par un big-bang législatif impliquant une réécriture complète, que la loi de 1986 a été modernisée jusqu’à présent – nous l’oublions parfois.<br/>Cependant, le temps d’un big-bang législatif n’est pas encore venu. C’est probablement la perspective de décisions sur l’avenir de la diffusion de la télévision par voie hertzienne terrestre à l’horizon de 2030 – elles-mêmes conditionnées aux négociations internationales et à l’évolution de la consommation des médias par les Français – qui appellera une remise à plat de plus grande ampleur de la fameuse loi du 30 septembre 1986 relative à la liberté de communication.<br/>Avant de conclure, je voudrais très sincèrement remercier Mmes les rapporteures pour le dialogue nourri que nous avons eu et le travail constructif et de qualité que nous avons mené, sans oublier, évidemment, M. le président de la commission des affaires culturelle.<br/>Je vous ai exposé les grands objectifs du projet de loi et les raisons pour lesquelles il vous est proposé par le Gouvernement : il apporte des réponses concrètes à trois enjeux majeurs dans les domaines de la communication audiovisuelle, de la protection des droits des auteurs, artistes, producteurs, diffuseurs et fédérations sportives, de l’organisation de la régulation – qui doit être rationalisée et modernisée –, et de l’accès du public aux œuvres cinématographiques et audiovisuelles françaises, dans un contexte où la demande n’a jamais été aussi forte. C’est un texte essentiel pour la défense de la création française. Je me réjouis du large consensus dont il a fait l’objet lors de son examen en commission la semaine dernière ; si des divergences demeurent nécessairement avec certains d’entre vous, je forme le vœu qu’il nous rassemble à l’issue de nos débats dans l’hémicycle. (<italique>Applaudissements sur les bancs du groupe LaREM ainsi que sur quelques bancs des groupes Dem et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Aurore Bergé, quali  rapporteure de la commission des affaires culturelles et de l'éducation" id_acteur="PA722046" id_nomination_oe="-1" id_nomination_op="-5787664" id_mandat="PM723458">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911406" ordre_absolu_seance="24" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562614" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aurore Bergé, rapporteure de la commission des affaires culturelles et de l’éducation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1911407" ordre_absolu_seance="25" id_acteur="PA722046" id_mandat="PM723458" id_nomination_oe="-1" id_nomination_op="-5787664" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562615" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aurore Bergé</nom>
+              <acteurRef>PA722046</acteurRef>
+              <qualite>rapporteure de la commission des affaires culturelles et de l’éducation</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est un long travail parlementaire qui aboutit aujourd’hui à une discussion essentielle. Il a été engagé en 2018, à la demande du président des affaires culturelles, à travers une mission d’information sur une nouvelle régulation de la communication audiovisuelle à l’ère numérique, mission présidée par Pierre-Yves Bournazel et dont j’ai eu l’honneur d’être rapporteure. Parmi les quarante propositions que nous avons formulées, certaines sont déjà entrées en vigueur, et d’autres le seront si le présent texte est adopté.<br/>En dépit d’une interruption, ce long travail parlementaire s’est poursuivi grâce à la transposition de directives européennes, dont le Parlement a choisi qu’elle intervienne par voie d’ordonnance, considérant qu’il y avait urgence à agir pour le financement de la production audiovisuelle et cinématographique, afin d’assurer une équité entre les chaînes historiques et les nouveaux entrants. Ce travail se poursuit désormais dans le présent texte, qui n’est pas une petite loi, mais une loi essentielle pour l’avenir du secteur cinématographique et audiovisuel.<br/>C’est un texte ambitieux. J’aimerais vous livrer certaines de ses ambitions et des convictions qui nous ont animées – convictions largement partagées sur les bancs de la commission, et dont j’espère qu’elles le seront dans l’hémicycle. Notre première ambition était de réaffirmer, ne serait-ce que par le respect du calendrier parlementaire, que les enjeux de diversité et de souveraineté culturelles étaient au cœur de l’agenda politique du Gouvernement et de la majorité. Nous souhaitions également affirmer que nous savions adapter notre régulation aux menaces et aux enjeux émergents.<br/>Ces ambitions se traduisent par des convictions. Ainsi, la lutte contre le piratage reste essentielle : avec dix millions de pirates chaque mois, ce fléau représente une perte annuelle de 1 milliard d’euros pour le secteur – c’est autant de création en moins. Nous soutenons par ailleurs la création de l’ARCOM, fusion du CSA et de la HADOPI, afin de faire gagner la décision publique en efficacité. Les pouvoirs de sanction de cette nouvelle autorité seront en outre renforcés.<br/>La commission a d’ailleurs souhaité supprimer la diminution du quantum des peines encourues en cas de manquement à l’obligation de financement qui avait été introduite par le Sénat, pour revenir au texte initial qui prévoit des sanctions extrêmement dissuasives.<br/>Il s’agit aussi d’adapter notre modèle quand nous l’estimons trop obsolète. Nous avons ainsi relevé le seuil anticoncentration pour les radios, le portant de 150 à 160 millions d’habitants : c’est une flexibilité nouvelle que nous offrons. De la même manière, s’appuyant sur des études extrêmement précises du ministère de la culture, les rapporteures et le Gouvernement proposeront de porter le seuil anticoncentration pour les télévisions locales de 12 à 17 millions d’habitants  d’habitants. Là encore, c’est la démonstration que nous sommes prêts à adapter notre cadre législatif et réglementaire.<br/>C’est avec la même conviction que la commission des affaires culturelles n’a pas souhaité, là encore de manière très collégiale, conserver une modification introduite par le Sénat, permettant au législateur de prendre position sur un projet de fusion entre les deux chaînes historiques que sont TF1 et M6 en facilitant le renouvellement de leurs autorisations à émettre.<br/>Enfin, notre commission a réaffirmé avec force et de manière unanime le principe de la production indépendante, auquel je sais que bon nombre de collègues sont très attachés. Les modifications introduites par le Sénat étaient bien différentes de ce que notre commission avait proposées en la matière il y a déjà un an. Défendre la production indépendante, ce n’est pas céder à un quelconque corporatisme, c’est soutenir un modèle qui fonctionne, qui a fait ses preuves et qui continue à les faire chaque jour par nos capacités à exporter ce qui fait la force de notre pays, sa création audiovisuelle en particulier. C’est ce modèle que nous devons réaffirmer et soutenir, comme nous l’avons fait en commission des affaires culturelles : il est important que l’Assemblée nationale tienne sur ce point qui nous a paru essentiel.<br/>Ce texte, qui peut paraître parfois extrêmement technique ou abrupt à qui n’est pas exactement au fait de ces enjeux et ne les manie pas tous les jours, parle pourtant du quotidien des Français, de l’avenir de leur télévision et de leur cinéma, de l’avenir de la création. Par son adoption nous réaffirmerons notre diversité et notre souveraineté culturelles. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM, Dem, Agir ens et LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sophie Mette, quali  rapporteure de la commission des affaires culturelles et de l'éducation" id_acteur="PA719640" id_nomination_oe="-1" id_nomination_op="-2890872" id_mandat="PM722718">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1911365" ordre_absolu_seance="34" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562687" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Mette, rapporteure de la commission des affaires culturelles et de l’éducation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1911366" ordre_absolu_seance="35" id_acteur="PA719640" id_mandat="PM722718" id_nomination_oe="-1" id_nomination_op="-2890872" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562688" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Mette</nom>
+              <acteurRef>PA719640</acteurRef>
+              <qualite>rapporteure de la commission des affaires culturelles et de l’éducation</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous nous apprêtons à apporter la dernière pierre à un édifice dont la construction a commencé il y a plusieurs années déjà. Faisons le bilan après vous, madame la ministre, des progrès considérables accomplis depuis un an : transposition de la directive SMA d’abord, grâce à laquelle les plateformes basées à l’étranger seront très prochainement mises à contribution pour mieux soutenir la création française ; transposition de la directive sur le droit d’auteur ensuite, instituant de nouvelles protections au bénéfice des auteurs à l’ère des plateformes de partage de contenus.<br/>Avec ce projet de loi, nous achevons donc un cycle. Le texte contient en effet des avancées majeures pour les secteurs de l’audiovisuel et du cinéma.<br/>La première concerne évidemment la régulation de l’audiovisuel, à travers la création d’une nouvelle autorité de régulation de la communication audiovisuelle et numérique issue de la fusion du CSA et de la HADOPI. Cette fusion, attendue de longue date par le secteur et par les deux autorités, permettra de réguler de façon plus cohérente l’ensemble de la chaîne de valeur, des auteurs aux distributeurs de services audiovisuels. Le nouveau régulateur disposera de pouvoirs renforcés en matière de lutte contre le piratage. Rappelons qu’en 2020, 12 millions d’internautes ont consommé illégalement des contenus culturels et sportifs en ligne. Au total, le manque à gagner, tant pour les diffuseurs que pour les producteurs, les clubs sportifs ou encore l’État, est estimé à 1 milliard d’euros par an. Face à ce fléau, les pouvoirs publics ont besoin de nouveaux outils.<br/>Le pair à pair, qui était à la fin des années 2000 le principal mode de piratage, est désormais largement minoritaire par rapport au streaming et au téléchargement direct. Or ces nouvelles pratiques sont plus difficiles à combattre et nécessitent de nouveaux outils.<br/>C’est précisément ces outils que le projet de loi apporte à l’ARCOM. Je pense notamment au renforcement des pouvoirs des agents assermentés, à la création d’une liste noire publique de sites massivement contrefaisants ou encore au dispositif d’injonction dynamique pour lutter contre les sites miroirs, qu’il s’agisse de contenus sportifs ou culturels. Grâce aux perfectionnements dont il a fait l’objet depuis le premier projet de loi audiovisuel, ce dispositif présente désormais tous les gages de solidité et d’efficacité.<br/>Je pense aussi au rôle d’intermédiaire que jouera l’ARCOM entre les titulaires de droits et les acteurs d’internet. Le Sénat avait confié à l’Autorité un pouvoir de transaction pénale sur les internautes pratiquant le piratage en pair à pair. Notre commission a décidé de revenir sur cette attribution. Il est probable en effet que la pratique aujourd’hui minoritaire du pair à pair va continuer à perdre du terrain dans les prochaines années, comme elle en perd déjà chaque année. Il nous faut donc concentrer nos efforts et les moyens humains de l’ARCOM sur le streaming et le téléchargement direct.<br/>Le texte contient une autre avancée en matière de protection de nos catalogues audiovisuels et cinématographiques. Si les mouvements de catalogues sont inévitables à l’échelle mondiale, il nous appartient cependant de nous assurer que ces ventes ne s’accompagnent pas d’une perte d’accès du public français aux œuvres phares de notre patrimoine. La nouvelle procédure de notification préalable renforcera considérablement notre arsenal en la matière. À mon initiative, la commission a précisé certains éléments de cette procédure afin d’en améliorer les conditions pour les producteurs français sans rien lui retirer en efficacité.<br/>Le Sénat avait ajouté des dispositions concernant la rémunération des artistes graphiques et des titres de presse quand leur production est reprise par les moteurs de recherche et les agrégateurs en ligne. Tout en partageant pleinement l’objectif de ces dispositions, la commission a fait le choix de les supprimer afin de ne perturber ni les accords déjà conclus par les artistes graphiques, ni les négociations en cours avec les éditeurs de presse. Google s’est montré particulièrement coopératif s’agissant des artistes graphiques, en consentant à un accord satisfaisant pour toutes les parties. Je tiens à saluer leur action et j’espère qu’un accord sera également trouvé avec la presse.<br/>Je tenais à remercier tout spécialement Mme la ministre pour son engagement, qui a permis que ce texte nous soit soumis ce soir et que nous y travaillions de façon positive. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laetitia Avia, quali  rapporteure de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République" id_acteur="PA721624" id_nomination_oe="-1" id_nomination_op="-7233360" id_mandat="PM723336">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1911374" ordre_absolu_seance="44" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562696" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laetitia Avia, rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1911375" ordre_absolu_seance="45" id_acteur="PA721624" id_mandat="PM723336" id_nomination_oe="-1" id_nomination_op="-7233360" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562697" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laetitia Avia</nom>
+              <acteurRef>PA721624</acteurRef>
+              <qualite>rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons donc le projet de loi ordinaire relatif à la régulation et à la protection de l’accès aux œuvres culturelles à l’ère numérique, projet de loi essentiel, notamment en ce qu’il opère une fusion très attendue entre le CSA et la HADOPI. Au travers de ce projet de loi, le Gouvernement a engagé une réforme visant à accompagner les pratiques numériques des internautes vers des usages responsables, au regard notamment des règles de la propriété intellectuelle.<br/>Je ne reviendrai pas sur le détail des dispositions de ce texte dont les enjeux ont déjà été clairement et brillamment exposés par Mme la ministre et Mmes les rapporteures. Je rappellerai simplement que ce projet de loi s’articule autour de trois enjeux principaux : fusionner le CSA et la HADOPI au sein d’un organe unique, l’Autorité de régulation de la communication audiovisuelle et numérique, et renforcer la lutte contre le piratage sur internet ; deuxièmement, consolider les missions du nouveau régulateur en renforçant ses pouvoirs de contrôle par rapport à ceux dont dispose actuellement le CSA ; troisièmement, protéger l’accès du public aux œuvres cinématographiques et audiovisuelles françaises lors d’opérations internationales d’acquisition de catalogues.<br/>Il s’agit en effet de créer une nouvelle autorité indépendante, adaptée au monde d’aujourd’hui et qui réponde aux besoins actuels de la régulation : outre la rationalisation des moyens administratifs et logistiques, la création de l’ARCOM doit permettre de prendre en compte la proximité croissante entre ces deux autorités et de se reposer pleinement sur la synergie des compétences et le savoir-faire de leurs agents. En effet, le cadre de régulation actuelle est trop fragmenté entre de nombreux acteurs et autorités soumis à des logiques sectorielles. Au moment où nous sommes confrontés à de nouveaux défis liés au développement et au pouvoir des plateformes ainsi qu’aux nouveaux usages qui leur sont associés, la création de l’ARCOM y remédiera.<br/>Cette fusion s’inscrit par ailleurs dans une démarche de renforcement de la régulation du numérique et des contenus, engagé par la loi relative à la lutte contre la manipulation de l’information, dite <italique>fake news</italique>, et poursuivi en ce moment même par l’examen par le Parlement du projet de loi confortant le respect des principes de la République, qui anticipe les nouveaux cadres et champs de régulation proposés par la Commission européenne au travers du Digital Services Act. L’ARCOM devrait se voir confier dans un futur proche des pouvoirs étendus en matière de régulation des contenus et des acteurs du numérique.<br/>Pour l’heure, et pour ce qui concerne le texte que j’ai l’honneur de rapporter au nom de la commission des lois, le projet de loi organique vient apporter sa petite pierre à l’édifice, non moins essentielle puisqu’il s’agit de s’assurer que la présidence de cette nouvelle autorité indépendante sera soumise au contrôle parlementaire.<br/>Pour mémoire, l’article 13 de la Constitution soumet certaines nominations effectuées par le Président de la République à l’avis des commissions parlementaires « en raison de leur importance pour la garantie des droits et libertés ou la vie économique et sociale de la nation ». Cette procédure, qui constitue l’une des innovations issues de la réforme constitutionnelle de 2008, permet d’assurer une meilleure transparence des nominations effectuées par le Président de la République en donnant au Parlement les moyens de les contrôler, voire de s’y opposer en exprimant clairement son avis. Cette procédure est devenue importante dans le fonctionnement institutionnel des assemblées et dans leur relation avec le pouvoir exécutif. Par ailleurs, elle conforte la légitimité des personnes nommées, dont l’audition publique éclaire le parcours professionnel et personnel et garantit l’adéquation de leurs compétences à la fonction concernée.<br/>Il paraît donc naturel que la nomination du président de l’ARCOM soit soumise à notre contrôle, comme l’est celle du président du CSA. Aussi vous proposerai-je d’adopter ce projet de loi organique sans modification, à l’exception des quelques amendements rédactionnels et de l’amendement de coordination adoptés en commission des lois. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM, Dem et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Studer, quali  président de la commission des affaires culturelles et de l'éducation" id_acteur="PA720754" id_nomination_oe="-1" id_nomination_op="PM732299" id_mandat="PM723066">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1911381" ordre_absolu_seance="52" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562703" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le président de la commission des affaires culturelles et de l’éducation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1911382" ordre_absolu_seance="53" id_acteur="PA720754" id_mandat="PM723066" id_nomination_oe="-1" id_nomination_op="PM732299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562704" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Studer</nom>
+              <acteurRef>PA720754</acteurRef>
+              <qualite>président de la commission des affaires culturelles et de l’éducation</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi, au moment où nous commençons l’examen de ce texte en séance, de saluer le travail accompli depuis 2017 par l’ensemble des membres de la commission des affaires culturelles et l’éducation. Je pense d’abord bien entendu à la mission d’information pour une nouvelle régulation de la communication audiovisuelle à l’ère numérique, qui, présidée par Pierre-Yves Bournazel et rapportée par Mme Bergé, a constitué, il faut le dire, le cadre principal de notre réflexion. Je salue encore la qualité de votre travail synthétisé dans le rapport présenté en octobre 2018.<br/>Notre commission a également lancé des travaux dans des domaines plus spécifiques. Je tiens ici à remercier Florence Provendier et Michèle Victory pour leur travail sur les quotas de chansons francophones à la radio, ainsi que Pascal Bois et Constance Le Grip pour leurs travaux sur le statut des auteurs. Pour leurs travaux sur l’offre jeunesse de l’audiovisuel public, permettez-moi de saluer Béatrice Piron et Maxime Minot. Permettez-moi de saluer aussi le travail en cours, sous la houlette de Cédric Roussel et de Régis Juanico sur les droits de diffusion audiovisuelle des manifestations sportives, qui aura, je n’en doute pas, une grande importance dans les mois à venir en ce qu’il nous permettra d’y voir un peu plus clair sur ce qui constitue un sujet de préoccupation pour nos concitoyens. Permettez-moi enfin de saluer les avis budgétaires rendus depuis 2017, qui sont une partie non négligeable de notre activité de contrôle.<br/>Tous ces travaux nous ont conduits à partager, sur l’ensemble de ces bancs, je crois, le constat d’une nécessaire adaptation du cadre d’un écosystème audiovisuel soumis à une mutation profonde et rapide.<br/>La dynamique des évolutions portées par le projet de loi relatif à la communication audiovisuelle et à la souveraineté culturelle à l’ère numérique aura été mise à mal par la survenue du covid-19, en mars 2020, jusque dans la salle de notre commission.<br/>D’une certaine manière, le parcours inachevé de ce projet de loi aura permis d’aller à l’essentiel et à l’efficace dans ce nouveau texte et précédemment dans les dispositions prises par voie d’ordonnance concernant la directive DAMUN, la directive établissant des règles sur l’exercice du droit d’auteur et des droits voisins applicables à certaines transmissions en ligne d’organismes de radiodiffusion et retransmissions de programmes de télévision et de radio (CABSAT 2) et la directive SMA, intégrées dans la loi DDADUE du 3 décembre 2020. Il était absolument nécessaire de moderniser le régulateur chargé, au fur et à mesure des textes votés depuis 2017, de veiller à l’application de règles toujours plus nombreuses.<br/>D’autres points de la réforme, comme le rapprochement de la gouvernance de France Télévisions et de Radio France que vous avez évoqué, madame la ministre, ont été engagés par le biais de contrats pluriannuels d’objectifs et de moyens, de manière tout aussi concrète, après un avis argumenté de notre commission. Je tiens ici à saluer le travail de Florence Provendier.<br/>Le maintien de France 4 et la pérennisation de Culturebox sur le même canal ont été confirmés par un décret paru samedi dernier. Voilà un motif de réjouissance sur ces bancs et la preuve de notre pragmatisme collectif. Le présent projet de loi apporte des briques supplémentaires à l’édifice que nous construisons.<br/>Je tiens, madame la ministre, chère Roselyne Bachelot, à saluer sincèrement votre détermination à voir le sujet audiovisuel revenir devant le Parlement, malgré un agenda parlementaire surchargé par la crise sanitaire. Nous assistons à l’aboutissement du travail engagé en leur temps par Françoise Nyssen et Franck Riester. Il y allait du respect des engagements du Président de la République et du respect de tous les acteurs du secteur qui attendent de telles dispositions depuis des années.<br/>Une partie du travail reste à faire. Vous avez évoqué les quatre-vingt-dix modifications successives de la loi du 30 septembre 1986. La représentation nationale et le Gouvernement s’attaqueront peut-être un jour ensemble à une codification que j’appelle de mes vœux.<br/>Que devient le régulateur dans ce projet de loi ? Plusieurs textes ont, d’une certaine manière, poussé les murs en étendant la compétence du CSA à la régulation des contenus en ligne : la loi contre la manipulation de l’information ; la loi confortant le respect des principes de la République et de lutte contre le séparatisme ; la loi visant à protéger les victimes de violences conjugales, qui prévoit aussi la régulation de l’accès des plus jeunes à la pornographie ; la loi visant à encadrer l’exploitation commerciale de l’image d’enfants de moins de 16 ans sur les plateformes en ligne, c’est-à-dire des enfants influenceurs. L’avènement d’un régulateur unique des communications audiovisuelles et numériques, qui regrouperait le CSA et la HADOPI, traduit la reconnaissance de la fluidité des communications et la nécessité d’une approche globale de la chaîne de valeur. Il faudra néanmoins nous souvenir de cette extension des compétences de la future ARCOM lors de l’examen du projet de loi de finances pour 2022.<br/>Notre approche de la contrefaçon en ligne évolue également. Lors de la création de la HADOPI, l’essentiel du piratage prenait la forme du téléchargement pair à pair. Ce mode d’accès aux œuvres est désormais largement minoritaire face au streaming. L’ambition reste la même : défendre le droit de la propriété intellectuelle.<br/>Enfin, le texte instaure une protection de l’accès du public aux œuvres françaises face aux opérations internationales d’acquisition de catalogues. Il s’agit d’une nouveauté par rapport au texte de 2020, à laquelle je suis particulièrement attaché. Cette protection qu’attendent les acteurs concernés face à la globalisation du secteur est une question de survie pour notre modèle de création.<br/>Voilà, mes chers collègues, ce que je pouvais dire dans le temps qui m’était imparti. Je nous souhaite de faire un bon travail, lequel, je l’espère, donnera lieu à une collaboration fructueuse avec les sénateurs. Comme vous l’avez dit, madame la ministre, ce texte est en effet de nature à nous rassembler. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et Agir ens. – Mme Constance Le Grip applaudit également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1911521" ordre_absolu_seance="66" id_acteur="PA721624" id_mandat="PM723336" id_nomination_oe="-1" id_nomination_op="-1446672" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562786" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laetitia Avia</nom>
+              <acteurRef>PA721624</acteurRef>
+              <qualite>rapporteure</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1911522" ordre_absolu_seance="67" code_grammaire="MOTION_RP_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2562787" valeur=" (n[[o]] 4245)">
+      <orateurs/>
+      <texte>Motion de rejet préalable</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1911523" ordre_absolu_seance="68" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562788" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’ai reçu de M. Jean-Luc Mélenchon et des membres du groupe La France insoumise une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.<br/>La parole est à M. Michel Larive pour une durée ne pouvant excéder quinze minutes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1911524" ordre_absolu_seance="69" id_acteur="PA718868" id_mandat="PM722484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2562789" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Larive</nom>
+            <acteurRef>PA718868</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Madame la ministre, l’année dernière, votre prédécesseur, Franck Riester, a déposé un projet de loi relatif à la communication audiovisuelle et à la souveraineté culturelle à l’ère numérique. Nous en avons débattu en commission, puis la crise sanitaire a interrompu le travail parlementaire.<br/>Le Gouvernement – que vous représentez désormais, madame la ministre – a choisi de ne pas inscrire de nouveau ce texte à l’ordre du jour de l’Assemblée nationale. Vous avez décidé de légiférer par ordonnance sur une grande partie des mesures qu’il contenait. C’est le cas d’articles auxquels nous nous sommes opposés aux côtés d’associations comme la Quadrature du net, qui attaquent la liberté d’expression sur internet en instaurant une surveillance généralisée des contenus sans aucune mesure efficace contre la censure dont des organisations politiques, des syndicats, des associations, des artistes ou de simples citoyens font l’objet depuis des années.<br/>La semaine dernière, nous avons proposé de nouveaux amendements visant à garantir la liberté d’expression sur internet et les réseaux sociaux. Une fois encore, ils ont été écartés. Permettez-moi tout de même de vous rappeler quelques récents cas de censure.<br/>Le 1<exposant>er</exposant> juin 2021, le parti communiste français dénonçait la censure pratiquée par Facebook sur l’une de ses pages en période électorale. Trois jours plus tard, le 4 juin 2021, c’est le journal <italique>Fakir</italique> qui était censuré par la même plateforme : toute publication renvoyant vers le site du journal était bloquée et les anciens posts étaient supprimés sans aucune explication. La censure s’est exercée.<br/>En janvier dernier, Twitter a suspendu plusieurs comptes de militantes féministes qui ont osé publier et relayer la question suivante : « Comment fait-on pour que les hommes arrêtent de violer ? » Quelques jours plus tard, Twitter a expliqué qu’il avait accru son « utilisation du <italique>machine learning</italique> et de l’automatisation afin de prendre plus de mesures sur les contenus potentiellement abusifs et manipulateurs ». C’est exactement ce que nous avons dénoncé en mars 2020, et encore la semaine dernière. Une vérification humaine doit toujours avoir lieu avant la suppression d’un contenu.<br/>La Commission européenne va dans notre sens. Le 4 juin 2021, dans ses orientations pour aider les États membres à transposer l’article 17 de la directive sur le droit d’auteur, elle restreint le blocage automatique « aux contenus manifestement illicites signalés par un ayant droit », les autres contenus devant être mis en ligne, puis examinés par un être humain.<br/>Vous laissez ces plateformes – Twitter, Facebook, YouTube – sans aucun contre-pouvoir. Elles décident seules de ce qui peut être ou non publié et communiqué. Elles décident seules de la façon de surveiller les contenus. Elles décident seules de surveiller tous nos comportements, de collecter nos informations personnelles, nos goûts, nos opinions politiques et religieuses, nos habitudes de consommation, de stocker toutes ces données et de les monétiser. Elles gagnent de l’argent en nous épiant.<br/>En réalité, ces grandes plateformes sont de grands espaces de publicité très peu régulés. L’année dernière, vous avez aussi refusé les amendements que nous avions déposés pour protéger nos enfants contre les injonctions à consommer toujours plus, pour alerter sur les usages de ces plateformes qui encouragent la malbouffe et les produits qui polluent le plus et dérèglent notre climat. Plus de la moitié de nos amendements – vingt-trois sur quarante-cinq – ont été jugés irrecevables en commission. Les débats sont bâclés en une journée ; vous expédiez ce projet de loi sans être à la hauteur des enjeux.<br/>Autre sujet, et non des moindres, à avoir disparu de ce projet de loi : l’audiovisuel public. Ce chantier est toujours en jachère, témoignant de l’absence totale d’ambition du Gouvernement dans ce domaine, comme l’atteste chaque année la baisse du budget du service public de l’audiovisuel : elle a été de 190 millions d’euros entre 2018 et 2022 – 160 millions d’euros pour France Télévisions et 20 millions d’euros pour Radio France.<br/>Que reste-t-il de ce projet de loi ? La fusion du CSA et de la HADOPI au sein de l’ARCOM. Arrêtons-nous un instant sur le bilan de la HADOPI. En 2019, elle a envoyé 830 000 avertissements – chiffre qui n’a jamais été aussi faible –, non pour reprocher aux internautes d’avoir piraté un bien culturel, mais pour n’avoir correctement protégé leur réseau. Ce système est complètement hypocrite : il est légal de s’abonner à un réseau privé virtuel (VPN) qui permet de cacher son adresse IP ; le réseau est alors protégé, et il échappe au contrôle de la HADOPI. Cela n’a aucun sens, d’autant que les usages se sont modifiés : le streaming illégal a remplacé le téléchargement ; l’offre légale s’est développée.<br/>La HADOPI se révèle à la fois coûteuse et inefficace : elle a coûté 80 millions d’euros et permis d’engranger 87 000 euros de recettes par le biais des amendes. La mission de protection de la propriété intellectuelle doit être à nouveau confiée à la justice judiciaire plutôt qu’à une autorité administrative, comme tout ce qui relève de la liberté d’expression. Plutôt que de dépenser des millions dans une politique inefficace de répression des internautes, il faut travailler au développement de l’offre légale, en créant un nouveau service public de l’internet et une plateforme publique d’offre légale en ligne de musiques, films et contenus culturels.<br/>Quant au CSA, une réforme de sa gouvernance est indispensable. Opposés à la nomination de son président par le Président de la République, nous avons proposé qu’il soit élu par les commissions des affaires culturelles de l’Assemblée nationale et du Sénat. Cette réforme est demandée depuis des années par des parlementaires de tous bords. Laissez-moi vous citer quelques-uns des nombreux articles relatant la révocation de Mathieu Gallet de la présidence de Radio France par le CSA, en 2018, à un moment où Mme Nyssen était ministre de la culture. Le 31 janvier 2018, <italique>Ouest-France</italique> interrogeait : « Mathieu Gallet révoqué : le CSA est-il aux ordres ? » Le lendemain, c’est <italique>Libération</italique> qui titrait : « L’éviction de Gallet relance le vieux débat sur l’indépendance du CSA. » Le 1<exposant>er</exposant> février 2018, Thomas Snégaroff, journaliste et historien, concluait ainsi sa chronique sur France Info : « Indépendance réelle ou seulement formelle ? Près de trente ans plus tard, cette question fondamentale pour notre démocratie n’est manifestement pas encore tranchée. » Il est temps que cela change. Nous avons également proposé que deux représentants des usagers siègent au CSA.<br/>Ces deux mesures apporteraient à la fois des garanties d’indépendance et une exigence démocratique. Selon une enquête de l’IFOP publiée vendredi dernier, 55 % des Français ont un fort sentiment de méfiance à l’égard des médias. Les deux sentiments qui suivent sont la colère et le dégoût, ce qui devrait peut-être vous interpeller. L’intérêt, lui, n’arrive qu’en quatrième position. Et 67 % des Français disent douter de la véracité des informations qu’ils reçoivent de la part d’un média reconnu. Une précédente étude, parue en janvier 2021, indiquaient que 63 % des Français pensent que les journalistes ne résistent pas aux pressions des partis politiques et du pouvoir, et 59 % qu’ils ne résistent pas aux pressions de l’argent. Ils mettent donc en cause à la fois la crédibilité des médias et l’indépendance des journalistes.<br/>Nous avions proposé la création d’un conseil de déontologie, composé de représentants des usagers des médias et de représentants de journalistes, y compris les précaires et les pigistes. Ce conseil de déontologie donnerait aux citoyens la possibilité d’avoir un recours pour faire respecter leur droit à une information objective. Vous avez jugé notre amendement irrecevable.<br/>Cette question de l’indépendance des médias face aux puissances de l’argent est cruciale, alors que l’on observe des phénomènes de concentration toujours plus importants. Avec la fusion des groupes M6 et TF1, on assiste à une mainmise progressive de TF1 sur la TNT. La chaîne est passée d’un seul canal de diffusion sur treize canaux gratuits à plus d’un tiers des canaux actuels, soit neuf sur vingt-cinq.<br/>Laissez-moi vous rappeler le programme du Conseil national de la Résistance, adopté en 1944 et initialement intitulé « Les jours heureux. » Il affirme que les mesures à appliquer visent notamment à assurer « la pleine liberté de pensée, de conscience et d’expression ; la liberté de la presse, son honneur et son indépendance à l’égard de l’État, des puissances d’argent et des influences étrangères ; la liberté d’association, de réunion et de manifestation ».<br/>Les neuf milliardaires qui se partagent 90 % de nos médias ne sont pas engagés que par intérêt économique ou par passion du journalisme, mais bien pour en faire des outils de propagande politique. L’exemple du groupe Bolloré est emblématique de ces dérives : le groupe Canal+ détient, outre la chaîne éponyme, trois chaînes gratuites – C8, CNews et CStar. CNews est aussi l’un des premiers quotidiens de France avec près de 900 000 exemplaires diffusés chaque jour. Les journalistes de la station de radio Europe 1 sont actuellement en grève pour dénoncer « un management autoritaire et inadapté, qui se durcit au fur et à mesure que se précise l’emprise de Vincent Bolloré ». Ils ne veulent en aucun cas être associés à la ligne éditoriale de CNews qui dérive vers la promotion de thèses d’extrême droite. On peut comprendre leur crainte lorsque l’on voit que M. Louis de Raguenel, ancien de <italique>Valeurs actuelles</italique>, a été nommé chef du service politique d’Europe 1.<br/>Vincent Bolloré et son groupe ne sont pas des passionnés du journalisme. Ils ont régulièrement attaqué – ou même licencié – des journalistes qui osaient les contredire. En janvier 2018, vingt-six associations, vingt-trois médias et de nombreux journalistes publiaient une tribune intitulée « Face aux poursuites-bâillons de Bolloré : nous ne nous tairons pas !»<italique/>Ils dénonçaient les entraves à la liberté de la presse dont est désormais coutumier le groupe Bolloré.<br/>Comme le relèvent les auteurs de cette tribune, « une cinquantaine de journalistes, d’avocats, de photographes, de responsables d’ONG et de directeurs de médias ont été visés par Vincent Bolloré et ses partenaires ». Ils estiment que « ces poursuites systématiques visent à faire pression, à fragiliser financièrement, à isoler tout journaliste, lanceur d’alerte ou organisation qui mettrait en lumière les activités et pratiques contestables de géants économiques comme le groupe Bolloré » et appellent de leurs vœux des réformes pour un « renforcement de la liberté d’expression ».<br/>C’est ce que nous avons proposé de faire en interdisant qu’une même personne contrôle à la fois une chaîne de télévision, une radio et une publication d’informations politiques et générales. De même, nous voulons que, comme cela s’est fait ailleurs, les grands groupes de médias concentrés dans les mains de quelques milliardaires soient démantelés : nous proposons qu’il soit impossible qu’un groupe contrôle plusieurs chaînes de télévision. Enfin, troisième volet de cette loi anti-concentration, dont nous posons les premiers jalons : un même groupe ne devrait pouvoir posséder à la fois le réseau et l’objet diffusé. Un même acteur ne saurait être fournisseur d’accès à internet ou de box TV tout en contrôlant des chaînes de télévision.<br/>Le Sénat, qui n’est pas soumis à la censure de la majorité présidentielle, a introduit deux articles, 10 <italique>sexies</italique> et 10 <italique>septies</italique>, qui prévoient de relever les plafonds de concentration des médias. La seule mesure sur laquelle nous pourrons débattre vise donc à accroître la concentration du secteur ! Encore une fois, ce gouvernement choisit de regarder ailleurs quand il s’agit de défendre l’intérêt général, d’être du côté des citoyens et de la liberté d’information, et de garantir enfin le pluralisme dans les médias.<br/>Autre point : le Gouvernement entend lutter plus efficacement contre le piratage sportif. Mais, une nouvelle fois, il s’attache à défendre les droits des actionnaires des chaînes qui possèdent les droits de diffusion sans jamais se demander s’il ne relèverait pas de l’intérêt général…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911414" ordre_absolu_seance="91" id_acteur="PA722046" id_mandat="PM723458" id_nomination_oe="-1" id_nomination_op="-5787664" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562622" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Aurore Bergé</nom>
+            <acteurRef>PA722046</acteurRef>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte>De pirater ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911415" ordre_absolu_seance="92" id_acteur="PA718868" id_mandat="PM722484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2562623" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Larive</nom>
+            <acteurRef>PA718868</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…de permettre à tous, sans conditions de ressources, d’accéder aux retransmissions des compétitions sportives. L’article 9 <italique>bis</italique>, lui aussi introduit par le Sénat, permettait d’inclure des disciplines individuelles parmi les événements d’importance majeure ne pouvant être retransmis en exclusivité sur des chaînes payantes. Il aurait par exemple inclus des compétitions comme le Vendée Globe, la Coupe de l’America, ou encore les championnats du monde de judo, qui auraient enfin pu être vus gratuitement. Le 9 juin dernier, la judokate française Clarisse Agbegnenou a été sacrée championne du monde pour la cinquième fois. <italique>(Mme Maud Petit applaudit.)</italique> Pour pouvoir suivre cette compétition, il fallait cependant être abonné à la chaîne Eurosport. Évidemment, l’article 9 <italique>bis</italique> a été supprimé par la commission, avec la bénédiction du Gouvernement.<br/>Le Sénat proposait également, à travers l’article 9 <italique>ter</italique>, d’imposer une représentation équilibrée entre le sport féminin et le sport masculin. Cela aurait par exemple permis la retransmission du Tour de France féminin, qui aura lieu l’année prochaine, mais le Gouvernement a préféré répondre à cette exigence en amendant l’article 10 <italique>bis</italique>, et seul le Tour de France masculin sera retransmis sur une chaîne gratuite – comme il l’est d’ailleurs chaque année.<br/>Deux derniers éléments motivent cette motion de rejet. Le premier concerne la bifurcation écologique qui doit être au cœur de tout projet politique. Rien de tout cela dans le texte : qu’il s’agisse de la réduction de la pollution numérique, du respect des objectifs de la stratégie nationale bas-carbone ou de l’obsolescence programmée des téléviseurs et décodeurs TV induite par le passage à l’ultra-haute définition, la rapporteure renvoie au débat sur la proposition de loi visant à réduire l’empreinte environnementale du numérique en France – et tant pis s’il n’aborde pas les questions spécifiques aux missions du CSA ni le passage à l’ultra-haute définition ! Le dernier point concerne le droit des habitants d’outre-mer à avoir accès à l’ensemble des chaînes de la TNT ainsi qu’à une connexion internet au même prix que dans l’hexagone. De cela, impossible de débattre : l’amendement qui avait été déposé en ce sens a été censuré.<br/>Comme vous le constatez, nous défendons un autre projet politique : un projet politique qui place en son cœur l’intérêt général et pas celui de quelques-uns ; un projet politique assorti d’exigences de transparence, de démocratie et de pluralisme, quand vous n’apportez aucune garantie et refusez toute réforme du CSA ; un projet politique qui préserve la liberté d’expression et celle de s’informer, quand vous laissez la censure régner et que vous refusez de confier ce pouvoir au juge judiciaire pour le laisser dans les mains d’entreprises privées ; un projet politique qui donne les mêmes droits aux habitants des outre-mer et à ceux qui vivent dans l’hexagone ; un projet politique qui permet de partager toutes les grandes compétitions sportives, féminines, masculines et handisport, quand vous les réservez à ceux qui ont les moyens financiers de cumuler les abonnements auprès des grands groupes privés. <italique>(Mme Muriel Ressiguier applaudit.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Roselyne Bachelot, quali  ministre" id_acteur="PA332" id_nomination_oe="PM773507" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911419" ordre_absolu_seance="96" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562627" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911420" ordre_absolu_seance="97" id_acteur="PA332" id_mandat="-1" id_nomination_oe="PM773507" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562628" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Roselyne Bachelot</nom>
+              <acteurRef>PA332</acteurRef>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je n’apporterai pas d’éléments de réponse complets à M. Larive, car le discours qu’il vient de prononcer, quoique très intéressant, ne présente presque aucun rapport avec le projet de loi que nous nous apprêtons à examiner. Je vous propose donc de rejeter cette motion de rejet préalable. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911421" ordre_absolu_seance="98" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562629" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LaREM</nom>
+              <acteurRef>PA0</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre-Yves Bournazel (Agir ens)" id_acteur="PA722030" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723454">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911422" ordre_absolu_seance="99" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562630" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux explications de vote sur cette motion de rejet préalable.<br/>La parole est à M. Pierre-Yves Bournazel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911423" ordre_absolu_seance="100" id_acteur="PA722030" id_mandat="PM723454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562631" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Yves Bournazel (Agir ens)</nom>
+              <acteurRef>PA722030</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous rejetterons évidemment cette motion de rejet préalable. Monsieur Larive, vous êtes membre de la commission des affaires culturelles et nous connaissons bien vos positions, mais, comme l’a souligné Mme la ministre, vous ne parlez ni du texte ni des avancées qu’il comporte, notamment la création de l’ARCOM, qui permettra de renforcer la régulation du secteur. Vous n’évoquez ni le soutien à la production indépendante ni la protection des droits d’auteur et de ceux des artistes, des producteurs et des diffuseurs. Ce texte constitue une avancée majeure et attendue de longue date. Vous aurez l’occasion de défendre vos amendements au cours des débats, mais nous devons avancer dès maintenant.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain David (SOC)" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911424" ordre_absolu_seance="101" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562632" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911425" ordre_absolu_seance="102" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562633" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David (SOC)</nom>
+              <acteurRef>PA1008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce texte, disons-le, a perdu de son panache et de sa force à mesure que le temps a passé : nous sommes loin de la loi promise par le candidat Macron pendant la campagne électorale de 2017. Le texte ne traite pas, sur le fond, la réforme de la contribution à l’audiovisuel public. Il aurait pourtant été très intéressant d’évoquer ce problème, car la contribution est le carburant nécessaire pour faire fonctionner cette grande machine. Comment réinventer et soutenir le service public de l’audiovisuel sans créer un dispositif contributif adapté à la consommation actuelle de ses programmes ?<br/>Néanmoins, si nous sommes très critiques à l’égard de ce texte, nous ne le sommes pas suffisamment pour voter en faveur d’une motion de rejet préalable, dont l’adoption n’est pas souhaitée par les membres de notre groupe qui ont étudié le projet de loi en commission.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911427" ordre_absolu_seance="104" id_acteur="PA718868" id_mandat="PM722484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562635" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Larive</nom>
+              <acteurRef>PA718868</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Géraldine Bannier (Dem)" id_acteur="PA720256" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722908">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911428" ordre_absolu_seance="105" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562636" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Géraldine Bannier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911429" ordre_absolu_seance="106" id_acteur="PA720256" id_mandat="PM722908" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562637" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Géraldine Bannier (Dem)</nom>
+              <acteurRef>PA720256</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il paraît assez étrange de rejouer les débats qui nous ont animés lors de l’examen de la loi Avia relative à la suppression des contenus haineux, puis d’axer le discours sur la concentration des médias, avant de partir dans de nombreuses directions, parfois étonnantes, alors que nous examinons un projet de loi relatif à la protection de l’accès aux œuvres culturelles, très attendu par les professionnels. La motion de rejet préalable est à contre-courant des attentes du secteur et même des positions plus mesurées qui avaient été exprimées en commission. Notre groupe votera évidemment contre cette motion et le projet politique qui la sous-tend. <italique>(Mme Maud Petit applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bertrand Pancher (LT)" id_acteur="PA333421" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722920">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911430" ordre_absolu_seance="107" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562638" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bertrand Pancher.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911431" ordre_absolu_seance="108" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562639" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher (LT)</nom>
+              <acteurRef>PA333421</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous aviez l’ambition de faire adopter une grande loi sur l’audiovisuel. Nous en aurions eu besoin, mais force est de constater que nous en sommes loin : au texte initialement présenté l’an dernier, enterré après son examen en commission, succède un projet de loi beaucoup moins ambitieux, même si nous savons qu’il ne fut pas aisé de l’inscrire à l’ordre du jour. C’est donc avec frustration que nous remettons l’ouvrage sur le métier, car nous constatons avant tout des manques, même si nous nous réjouissons de quelques avancées. Tout cela ne justifie pas, selon nous, de voter pour cette motion de rejet préalable.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Céline Calvez (LaREM)" id_acteur="PA721750" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723372">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911432" ordre_absolu_seance="109" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562640" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Céline Calvez.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911433" ordre_absolu_seance="110" id_acteur="PA721750" id_mandat="PM723372" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562641" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Céline Calvez (LaREM)</nom>
+              <acteurRef>PA721750</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En ce 22 juin, nous examinons le projet de loi relatif à la régulation et à la protection de l’accès aux œuvres culturelles à l’ère numérique, et pas autre chose. Le texte contient des mesures importantes et attendues, tant le numérique s’impose au secteur audiovisuel, mais aussi à l’ensemble de la société. Au nom de mes collègues du groupe LaREM, je considère que ce projet de loi relève concrètement trois défis majeurs.<br/>Le premier, c’est la protection des droits des créateurs et, partant, l’amélioration de la lutte contre le piratage. Chacun sait que l’essor du numérique, la multiplication des canaux et des offres en font un défi majeur. Ce texte permettra de couper le signal des sites pirates et miroirs, d’établir des listes noires et de lutter contre le piratage des manifestations sportives – ce qui, en plein championnat d’Europe de football, devrait interpeller plus d’un de nos concitoyens.<br/>Le deuxième enjeu concerne la modernisation de la régulation. Le texte crée une nouvelle entité compétente en la matière, l’ARCOM, qui sera mieux armée pour relever les défis spécifiques au XXI<exposant>e</exposant> siècle que sont la lutte contre la désinformation et la haine en ligne, ou encore la protection des mineurs. Ses missions élargies et ses pouvoirs de contrôle ou d’enquête permettront non seulement de moderniser la régulation de façon pertinente, mais aussi d’accroître son efficacité.<br/>Le troisième enjeu consiste à mieux défendre l’accès du public aux œuvres cinématographiques et audiovisuelles françaises. Il y va de la souveraineté culturelle de la France, laquelle sera notamment protégée dans le cadre des rachats de catalogues des œuvres françaises par des acteurs étrangers.<br/>Le projet de loi répond pleinement à ces trois défis. Voici pourquoi j’appelle chacun et chacune d’entre nous à voter contre cette motion de rejet préalable.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Jacques Gaultier (LR)" id_acteur="PA267324" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723292">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911438" ordre_absolu_seance="115" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562646" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Jacques Gaultier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911439" ordre_absolu_seance="116" id_acteur="PA267324" id_mandat="PM723292" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562647" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Jacques Gaultier (LR)</nom>
+              <acteurRef>PA267324</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’adoption d’une motion de rejet préalable signifierait qu’il n’y a pas lieu de débattre. Or, non seulement il y a lieu de débattre, mais il y a urgence à le faire, parce que nous n’aurons probablement pas d’autre occasion avant la fin de la législature ; parce que nous avons entamé ces débats il y a plus d’un an ; parce que tous les acteurs de la culture et du monde audiovisuel nous écoutent et attendent ce texte ; parce qu’il y a urgence à moderniser la TNT par l’ultra-haute définition et la HBBTV, au vu des difficultés de la TNT, dont les pertes dépassent 1 milliard d’euros sur les quinze dernières années ; parce qu’il y a urgence à lutter contre le piratage, qui coûte aussi plus de 1 milliard d’euros par an ; et parce que le tsunami causé par les grandes plateformes mondiales ne saurait nous laisser indifférents. Pour toutes ces raisons, nous voterons contre cette motion de rejet préalable. <italique>(Mme Constance Le Grip applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911440" ordre_absolu_seance="117" id_acteur="PA720754" id_mandat="PM723066" id_nomination_oe="-1" id_nomination_op="PM732299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562648" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Studer</nom>
+              <acteurRef>PA720754</acteurRef>
+              <qualite>président de la commission des affaires culturelles et de l’éducation</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911441" ordre_absolu_seance="118" code_grammaire="REJET_MOTION_1_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2562649" valeur="" decision="REJET motion de rejet préalable (main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(La motion de rejet préalable, mise aux voix, n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911442" ordre_absolu_seance="119" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2562650" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale commune</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911443" ordre_absolu_seance="120" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562651" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Dans la discussion générale, la parole est à Mme Géraldine Bannier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1911444" ordre_absolu_seance="121" id_acteur="PA720256" id_mandat="PM722908" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2562652" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Géraldine Bannier</nom>
+            <acteurRef>PA720256</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voilà quelques années maintenant que nous nous penchons sur une nouvelle réglementation relative à la communication audiovisuelle et à la souveraineté culturelle à l’ère numérique. Très attendu par les professionnels de la culture et de l’audiovisuel, ce texte apporte des réponses concrètes aux trois enjeux majeurs que sont la protection des droits des créateurs, l’organisation et la modernisation de la régulation et la défense de l’accès du public aux œuvres cinématographiques et audiovisuelles françaises.<br/>Pour ce qui est de la lutte contre le piratage – question cruciale –, plusieurs des dispositifs nouveaux prévus dans ce projet de loi, comme l’établissement de listes noires, le dispositif contre les sites miroirs ou encore le mécanisme spécifique contre le piratage sportif, sont autant d’outils qui permettront d’accélérer la lutte contre les sites contrefaisants, qui nuisent considérablement à notre modèle de production.<br/>Parmi les apports du Sénat, la création d’une transaction pénale, point d’orgue de la réponse graduée, prévoyant une amende de 350 euros et dont la mise en œuvre reviendrait à l’ARCOM, fut au cœur des débats de la commission. Le dispositif a finalement été rejeté, nombre d’entre nous ayant rappelé que la priorité est à la lutte contre les sites contrevenants plutôt qu’à la sanction des internautes. La responsabilité individuelle de chacun ne doit toutefois pas être oubliée : afin de faire baisser le nombre de contrevenants – soit 10 millions de personnes –, la prévention et la sensibilisation des publics doivent impérativement être accrues, ce que la majorité a inscrit dans le texte par voie d’amendement.<br/>Pour ce qui est spécifiquement du piratage sportif, le groupe Mouvement démocrate (MODEM) et démocrates apparentés salue bien évidemment les avancées que le texte apporte et qu’il défend depuis longtemps. Le projet de loi contient par ailleurs de réelles avancées en matière de régulation. En réformant les différentes autorités chargées de faire respecter les règles communes par la création d’un nouveau régulateur, l’ARCOM, il témoigne de notre ambition d’améliorer la régulation des contenus en ligne. Cette autorité, au-delà de la seule question du piratage, déploiera les outils attendus et adoptés par le Parlement pour assurer la protection de mineurs, la lutte contre la désinformation ou encore la lutte contre la haine en ligne.<br/>La fusion du CSA et de la HADOPI entraîne une modification de la loi organique du 23 juillet 2010 relative à l’application du cinquième alinéa de l’article 13 de la Constitution.<br/>Pour rappel, cet alinéa concerne les emplois ou fonctions pour lesquels, en raison de leur importance, la nomination par le Président de la République est précédée d’un avis public des commissions parlementaires compétentes. Il en sera ainsi pour la présidence de l’ARCOM. Notre groupe accueille favorablement cette modification, qui vise à substituer le président de l’ARCOM au président du CSA dans l’annexe de la loi organique précitée.<br/>Je tiens cependant à rappeler le point de vigilance mis en exergue par notre collègue Philippe Latombe, porte-parole du groupe sur ce projet de loi organique, lors de son examen en commission des lois : la position, récemment renouvelée, de la Cour de justice de l’Union européenne relative à la conservation des métadonnées. Il est en effet important d’avoir à l’esprit, lors de l’examen du projet de loi, cette position issue des arrêts Quadrature du net et Prokuratuur.<br/>Une autre question sur laquelle nous nous sommes particulièrement mobilisés depuis le début du mandat est celle des droits voisins. Patrick Mignola avait d’ailleurs consacré une proposition de loi à ce sujet. Aujourd’hui, les articles de ce projet de loi consacrés à la rémunération des artistes-auteurs contiennent des avancées réelles. Nous avons toutefois voté en faveur de la suppression de l’article 2 <italique>bis, </italique>car nous pensons qu’il faut maintenant laisser les débats se poursuivre entre les acteurs afin que les meilleurs accords soient trouvés.<br/>Le projet de loi garantira également la protection de notre patrimoine audiovisuel et cinématographique en assurant, en cas de rachat par des acteurs étrangers de catalogues d’œuvres, que ces derniers demeurent toujours accessibles au public français. Il s’agit d’un enjeu important de souveraineté car la demande d’œuvres françaises et européennes qui constituent notre patrimoine et notre identité culturelle n’a jamais été aussi forte.<br/>Malgré l’absence d’articles portant sur France Télévisions ou Arte, du fait du recentrage du texte sur l’ARCOM et le piratage, nous nous félicitons du décret tout récent permettant le maintien de la chaîne France 4 et de la programmation Culturebox : la proximité de l’offre destinée à la jeunesse, en journée, et de l’offre culturelle, en soirée, est un symbole fort des ponts à construire – les plus nombreux possible – entre jeunesse et culture. Nous en avons tant besoin.<br/>Ainsi, le groupe Mouvement démocrate (MODEM) et démocrates apparentés, bien conscient de la fragilité de notre secteur audiovisuel et de notre modèle culturel face à ce que François Léotard appelait déjà la « brutalité de la concurrence internationale », votera en faveur de ce projet de loi, qui apporte à l’évidence une réponse concrète aux enjeux actuels de défense de la création française.<br/>Et puisqu’il ne m’est guère facile de convoquer Platon à l’heure de la HBBTV, la télévision à large bande hybride, j’en appellerai plutôt à celui qui est à l’initiative de la loi de 1986, François Léotard, lequel, dans sa péroraison, demandait aux sénateurs s’ils voulaient ou non entrer, avec son projet, dans le XXI<exposant>e</exposant> siècle.<br/>Alors que nous sommes entrés dans ce siècle depuis plus de vingt ans, ce projet de loi nous invite assurément à toujours nous nourrir de la culture libre et vivante qui s’est déployée depuis l’adoption de la loi de 1986 mais à ne jamais perdre de vue la protection des œuvres et de leurs auteurs. <italique>(Mme Sophie Mette, rapporteure, et Mme Maud Petit applaudissent.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Alain David" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722704">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911457" ordre_absolu_seance="134" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562718" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911458" ordre_absolu_seance="135" id_acteur="PA1008" id_mandat="PM722704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562719" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David</nom>
+              <acteurRef>PA1008</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Plusieurs mois après l’interruption forcée, en raison de la crise sanitaire, de l’examen du projet de loi initial, nous sommes réunis pour débattre d’un nouveau texte relatif au paysage audiovisuel français et aux œuvres culturelles à l’ère numérique.<br/>Il faut noter que, si vous avez réussi, madame la ministre, à réinscrire le projet de loi dans un agenda parlementaire très chargé, celui-ci a perdu quelques-unes de ses plumes au fil du temps.<br/>En effet, nous sommes bien éloignés du big bang de l’audiovisuel public, promesse de réforme du candidat Macron pendant la campagne de 2017. De la même manière, nous aurions souhaité une réforme de la contribution à l’audiovisuel public, un dispositif qu’il est à nos yeux indispensable de réinventer afin de soutenir le secteur public de l’audiovisuel.<br/><italique>Exit</italique> par ailleurs l’adaptation de la loi relative à la liberté de communication de 1986 et la transposition de directives européennes sur les droits d’auteur – celle-ci a été faite, certes, mais par ordonnance.<br/>Enfin, après le passage du texte au Sénat, la majorité, en commission, est revenue dans une large mesure au projet initial. Si nous nous réjouissons de la suppression, comme nous le demandions, des ajouts de la droite sénatoriale favorisant les concentrations, nous regrettons que tous les apports de nos collègues socialistes sur différents sujets – de la protection du droit d’auteur à la retransmission des disciplines paralympiques, en passant par le sport féminin – aient été, quant à eux, balayés. Mais nous y reviendrons.<br/>Il est évident que la situation du paysage audiovisuel français, en proie à de profondes mutations ces dernières années, mérite toute l’attention du législateur. Les modes de consommation des médias audiovisuels ont évolué, en grande partie en raison de l’arrivée de ces géants américains du numérique que sont les GAFA. La concurrence féroce que se livrent ces derniers sur le terrain des investissements de production réclame toute notre vigilance, afin de protéger les producteurs indépendants et notre patrimoine audiovisuel français mais également européen.<br/>La récente annonce du projet de fusion entre TF1 et M6 ou l’incursion d’Amazon dans la diffusion de la Ligue 1 sont des illustrations de cette révolution audiovisuelle, qui n’est pas sans susciter des inquiétudes concernant, d’une part, le phénomène de concentration des médias dans les domaines de l’information, de l’opinion, de la publicité ou de la production et, d’autre part, la mainmise des géants américains sur la diffusion d’événements populaires.<br/>Face à ces grands changements, le texte raccourci que nous allons examiner prévoit dans un premier temps d’organiser la fusion de la HADOPI et du CSA pour créer l’ARCOM – ce que nous considérons comme une bonne orientation – afin de mieux réguler les contenus. Nous veillerons néanmoins à ce que l’ARCOM bénéficie de moyens à la hauteur des ambitions du projet de loi. J’espère, madame la ministre, que vous pourrez nous rassurer sur ce point.<br/>Nous soutiendrons des propositions visant à assurer l’exemplarité de l’institution en matière d’égalité entre les femmes et les hommes et veillerons à la valorisation accrue de l’ensemble des sports par une meilleure représentation au sein de notre paysage audiovisuel.<br/>Concernant le chapitre 1<exposant>er</exposant>, qui porte sur la lutte contre le piratage, je tiens à rappeler l’attachement tout particulier que nous portons au droit d’auteur. Ainsi, nous demandons le rétablissement des articles 2A et 2 <italique>bis </italique>de nos collègues socialistes, relatifs à la rémunération des œuvres reproduites par les services de moteur de recherche et à la sanction des plateformes qui ne s’acquitteraient pas des droits voisins.<br/>Nous réaffirmons par là notre volonté de voir les géants du net, et en premier lieu Google, respecter la loi. Mais nous souhaitons aussi que les artistes soient enfin rémunérés à la hauteur de leur travail et de manière juste. Nous attendons, madame la ministre, que vous puissiez nous rassurer concernant l’accord passé à ce sujet avec Google, en particulier son caractère protecteur pour les artistes.<br/>Le chapitre III est consacré à la protection de l’exploitation des œuvres cinématographiques et audiovisuelles en cas de cession. Nous estimons qu’elle doit être renforcée comme cela avait été prévu dans l’avant-projet de loi. Nous suggérons donc de substituer au mécanisme de déclaration un mécanisme d’autorisation, dans la continuité du principe de sauvegarde de l’exception culturelle, comme le proposait initialement le Gouvernement.<br/>Pour conclure, je tiens à saluer l’action des chaînes publiques durant la crise sanitaire malgré la baisse des budgets, régulière et continue, décidée par le Gouvernement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre-Yves Bournazel" id_acteur="PA722030" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723454">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911471" ordre_absolu_seance="148" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562732" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre-Yves Bournazel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911472" ordre_absolu_seance="149" id_acteur="PA722030" id_mandat="PM723454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562733" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Yves Bournazel</nom>
+              <acteurRef>PA722030</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes très heureux d’aborder les débats en séance autour de ce projet de loi très attendu par les acteurs du secteur culturel après la suspension, en raison de la crise sanitaire, de l’examen du texte initial, défendu à l’origine par Franck Riester.<br/>Madame la ministre, nous tenons à vous remercier de vous être battue pour que ce projet de loi soit présenté devant le Parlement. C’est l’aboutissement d’un long travail qui a débuté avec la mission d’information parlementaire que j’ai eu l’honneur de présider, et dont la rapporteure était Aurore Bergé. Je salue au passage l’engagement exemplaire de ma collègue sur les questions culturelles en général, et singulièrement sur ce texte.<br/>Nous avions réalisé à cette occasion un cycle d’auditions, pendant plus de six mois, avec 222 acteurs du secteur. Le constat partagé était celui d’une nécessaire adaptation du cadre légal au défi d’une mutation profonde et rapide de l’écosystème audiovisuel.<br/>C’est aussi un aboutissement après la transposition des directives SMA et « droit d’auteur » par le Gouvernement, qui permet un meilleur partage de la valeur produite, assure une plus grande protection des auteurs et des artistes interprètes et témoigne de notre besoin d’Europe dans une compétition mondialisée.<br/>Le texte présenté par le Gouvernement et voté par la commission des affaires culturelles et de l’éducation constitue en effet une nouvelle avancée, qu’il semble important de replacer dans le contexte de crise sanitaire, économique et humaine que nous avons traversée collectivement. En effet, la pandémie de covid-19 a particulièrement affecté le monde de la culture. Je pense aux intermittents, aux artistes, aux auteurs, aux TPE et PME, aux festivals, aux théâtres, aux musées, aux cabarets, aux salles de spectacle et aux cinémas.<br/>Le Gouvernement a pris des mesures sans précédent et sans équivalent dans le monde. Mais la crise sanitaire a largement contribué à l’accélération des mutations du secteur audiovisuel, à l’évolution rapide des usages ainsi qu’à un fort repli du marché publicitaire en 2020. Aujourd’hui, la sortie de crise est à l’horizon. Avec la réouverture progressive de tous nos lieux culturels, nous commençons à retrouver la vie que nous aimons. Plus que jamais, l’instauration rapide d’un nouveau cadre de régulation est nécessaire afin de soutenir la relance culturelle.<br/>Le projet de loi apporte des réponses concrètes à trois enjeux majeurs dans le domaine de la communication audiovisuelle. Il garantit tout d’abord la protection des droits des auteurs, des artistes, des producteurs, des diffuseurs ou encore des fédérations sportives, en musclant notre arsenal de lutte contre le piratage et en ciblant les sites contrevenants qui tirent un profit commercial de l’exploitation illégale d’œuvres culturelles.<br/>Il organise ensuite notre régulation, qui doit être rationalisée, modernisée et adaptée à la convergence progressive de l’audiovisuel et du numérique. Il faut un régulateur plus puissant, mieux armé et compétent sur l’ensemble du champ de la régulation des contenus audiovisuels et numériques. La création de l’ARCOM marque ainsi la volonté d’inscrire cette action dans une politique plus large de régulation des contenus en ligne.<br/>Il met enfin en place la défense de l’accès du public aux œuvres cinématographiques et audiovisuelles françaises, qui constituent notre patrimoine et forgent l’identité culturelle de la France et de l’Europe à travers le monde.<br/>L’examen du texte en commission a permis des avancées importantes, et je remercie à cet égard la ministre et les rapporteures pour leur travail. Nous tenons notamment à saluer les ajouts effectués à l’article 10 <italique>bis </italique>B afin que figure au sein des obligations conventionnelles des éditeurs de services de télévision en matière sportive, celle d’assurer une représentation équilibrée du sport féminin et du sport masculin ainsi qu’une meilleure visibilité du handisport.<br/>Nous nous réjouissons également du rétablissement de la version initiale de l’article 13, qui fixe le plafond des sanctions pécuniaires susceptibles d’être infligées par la future ARCOM.<br/>L’examen du projet de loi en séance publique sera l’occasion pour notre groupe de défendre les équilibres atteints en commission. De même, ma collègue Maina Sage proposera plusieurs ajustements afin que les spécificités du paysage audiovisuel ultramarin soient pleinement prises en considération.<br/>Ainsi ce texte majeur s’inscrit-il dans la continuité de ce que défend le Gouvernement depuis 2017 afin de protéger notre modèle d’exception culturelle, de consolider notre secteur audiovisuel et de lui offrir de nouvelles armes à l’ère du numérique. Cela lui permettra de rivaliser avec les plateformes internationales.<br/>Le groupe Agir ensemble aborde très favorablement les débats relatifs à ce projet de loi. Madame la ministre, soyez assurée que nous vous faisons pleinement confiance parce que nous vous connaissons. Nous savons quelle est votre détermination à mener à bien la relance culturelle du pays, nous connaissons la passion et l’énergie qui vous animent et sont autant d’atouts précieux face à l’ampleur du défi. <italique>(Mme Sophie Mette, rapporteure, et Mme Maud Petit applaudissent.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911485" ordre_absolu_seance="163" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562960" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <acteurRef>PA718926</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est beau !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Thill" id_acteur="PA720568" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723002">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911486" ordre_absolu_seance="164" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562747" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Agnès Thill.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1911487" ordre_absolu_seance="165" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562748" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme mon collègue Grégory Labille l’a fait en commission, je souhaite saluer, madame la ministre, votre volonté d’agir contre le piratage en inscrivant cette réforme à notre ordre du jour déjà bien chargé.<br/>Il est vrai qu’avec l’avènement d’une société de plus en plus numérique les pratiques de consommation illégale de la culture ont fortement évolué. Des copies privées au streaming en passant par le téléchargement, il est difficile pour le législateur de parvenir à suivre le rythme des nouvelles méthodes. Ainsi l’instauration d’une autorité unifiée, dont les pouvoirs et moyens d’intervention sont larges, est-elle une bonne nouvelle pour protéger les œuvres mais surtout pour promouvoir les bons comportements.<br/>Plus généralement, la rationalisation des autorités administratives comme des agences d’État est une bonne chose.<br/>J’ose espérer que l’ARCOM saura faire preuve d’efficacité, et, surtout, que nous serons capables d’être à son écoute pour anticiper les nouvelles pratiques frauduleuses et y répondre au plus vite par la loi.<br/>Mais l’action de l’ARCOM ne doit pas être la seule sur laquelle nous comptons pour faire avancer les choses. L’évolution des modes de consommation de la musique doit nous inciter à réfléchir aussi aux autres œuvres. En effet, le développement d’une offre de streaming légale et peu coûteuse a permis de contrecarrer le téléchargement illégal et, même si les enjeux du marché du cinéma ou des séries ne sont évidemment pas les mêmes que pour celui de la musique, nous devons inciter les différents acteurs à s’accorder sur une extension des offres et des catalogues pour faire évoluer les pratiques dans le bon sens.<br/>Il en va de même dans le sport, où la multiplication des acteurs et l’explosion des coûts d’exploitation est aujourd’hui incompréhensible pour les supporters, qui doivent parfois jongler avec trois abonnements différents pour regarder leurs équipes ou leurs compétitions favorites : à cet égard, la récente attribution des droits télévisés de la Ligue 1 est assez révélatrice, puisque l’on a fait entrer un nouvel acteur sur le marché en refusant l’offre coordonnée de deux chaînes qui s’étaient pourtant longtemps opposées.<br/>C’est l’ensemble du paysage audiovisuel au niveau national et international qui est en train d’évoluer, ce qui nous fait regretter que des dispositions importantes du projet de loi Riester voté par notre commission des affaires culturelles en mars 2020 n’aient pas été reprises. Alors que des acteurs internationaux comme Amazon concurrencent désormais les acteurs historiques français, il apparaît urgent de redéfinir le cadre du marché de l’audiovisuel, pour permettre aux Français et aux Européens de continuer à jouer un rôle majeur dans la diffusion de la culture.<br/>Par ailleurs, je me réjouis de la publication ce week-end du décret concernant les prochaines missions de la chaîne France 4, dont le maintien est une bonne nouvelle pour notre jeunesse et pour l’égalité d’accès à des programmes éducatifs et culturels. J’émettrai seulement le léger regret de n’y voir pas mentionnée la nécessité d’insister sur l’éducation scientifique de nos jeunes, comme nous l’avions demandé lors de l’examen de la loi de programmation pour la recherche. L’audiovisuel reste pourtant un moyen simple et ludique d’inculquer la culture scientifique dès le plus jeune âge.<br/>Je terminerai par un regret : alors que nos collègues ultramarins souhaitaient pouvoir discuter de la place des outre-mer dans l’audiovisuel et surtout du rôle que pourrait tenir l’ARCOM pour garantir une juste représentativité de ces territoires dans les programmes, nos amendements ont tous été déclarés irrecevables en tant que cavaliers législatifs. Ce reproche contre les autorités de l’Assemblée revient comme une mauvaise rengaine, je le sais bien, mais j’aimerais comprendre en quoi il serait hors sujet de demander des rapports à l’ARCOM sur la place des outre-mer dans l’audiovisuel ou encore de lui demander d’y garantir leur juste représentativité. <italique>(Mme Maud Petit applaudit.)</italique> En quoi est-ce un cavalier ? Et nos amendements ne sont pas les seuls dans ce cas. Il est fort dommage que l’on ne puisse accorder aux outre-mer une place dans ce débat, d’autant plus que le Gouvernement a supprimé, il y a moins d’un an, la chaîne qui leur était consacrée : France Ô.<br/>Malgré le regret que je viens d’exprimer, le groupe UDI et indépendants aborde favorablement cette discussion et espère que notre assemblée saura continuer à prendre rapidement les mesures nécessaires pour lutter contre toutes les formes de piratage.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bertrand Pancher" id_acteur="PA333421" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722920">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911547" ordre_absolu_seance="175" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562966" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bertrand Pancher.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911548" ordre_absolu_seance="176" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562967" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <acteurRef>PA333421</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous aviez l’ambition de nous proposer une grande loi sur l’audiovisuel, madame la ministre, et on en aurait eu vraiment besoin, mais force est de constater que cela ne sera pas le cas. Au texte initial de l’an dernier, enterré après son examen en commission, succède un projet de loi nettement moins ambitieux mais qu’il n’a malgré tout pas été aisé d’inscrire à notre ordre du jour. C’est donc avec frustration que nous remettons l’ouvrage sur le métier, car nous en constatons d’abord les manques avant de nous réjouir de ses avancées.<br/>Ce texte ne sera pas l’occasion de discuter de la stratégie choisie pour notre audiovisuel et nos médias, et je le regrette vivement tant le sujet est essentiel pour notre pays. Il y a en effet des enjeux immenses au cœur des mutations qui touchent l’audiovisuel et le numérique, car celles-ci affectent profondément notre société et notre démocratie, notre démocratie malade.<br/>L’annonce récente du projet de fusion de TF1 et de M6 est une des illustrations des changements à l’œuvre et justifie les inquiétudes que nous nourrissons à l’endroit du paysage audiovisuel. Alors que nous déplorons tous, chaque jour, l’affaiblissement du débat public, comment ne pas s’interroger sur la concentration des médias dans les domaines de l’information et de la publicité ? Alors que nous traversons aujourd’hui une période électorale marquée par de fortes abstentions et donc par la désaffection de nos concitoyens, comment ne pas songer au rôle que nous aimerions voir jouer nos médias ?<br/>Aujourd’hui sans doute plus que jamais, nous avons besoin d’un environnement audiovisuel public fort, ce qui nécessite à la fois une vision, une stratégie et des moyens. C’est notre rôle de parlementaire que de le dire, et notre devoir de législateur que de rendre cela possible.<br/>De trop nombreux médias s’engagent en effet dans une course à l’audience, à l’argent, et contribuent ainsi à notre affaiblissement démocratique. Le mouvement de grève de la rédaction d’Europe 1 doit à cet égard nous interpeller car il montre combien est nécessaire une vraie vision, au moins concernant nos médias publics, pour tirer vers le haut les programmes afin d’élever le niveau de culture, de lutter contre les haines et les obscurantismes, et donc d’éclairer et de guider nos concitoyens, renforçant ainsi notre démocratie. À l’heure des réseaux sociaux et de la désinformation, à l’heure des petites phrases réductrices de la pensée, nous devons accompagner les médias vers la recherche de l’excellence ! C’est notre rôle et notre devoir.<br/>Ce projet de loi atrophié laisse de côté de nombreuses questions sans les trancher : la réforme de la contribution à l’audiovisuel public, que Franck Riester avait promise pour 2021 au plus tard, les missions et la gouvernance de notre audiovisuel public ou encore l’explosion de la publicité.<br/>Le Sénat a tenté de combler certains manques, ce que nous saluons : je pense, par exemple, à la meilleure accessibilité de l’offre de proximité de France 3, car notre télévision publique doit refléter nos territoires. Disant cela, je ne peux qu’aussitôt déplorer la suppression de France Ô, qui accentue le sentiment d’invisibilité de nos concitoyens d’outre-mer. La seule victoire arrachée est le maintien de France 4, cette chaîne jeunesse, en faveur de laquelle notre groupe Libertés et territoires, Frédérique Dumas en tête, s’était particulièrement mobilisé. L’annonce du décret pris en application de la décision du Président de la République est à cet égard la bienvenue, mais demeure insuffisante : nous souhaitions inscrire le maintien de France 4 dans la loi – nous y reviendrons lors de l’examen des amendements.<br/>Dans ce contexte de mutations audiovisuelles, le rôle des autorités indépendantes est crucial : je pense particulièrement aujourd’hui au CSA, et demain à l’ARCOM que cette loi va créer. Mais lui donnera-t-elle l’autorité et les moyens de jouer son rôle de gendarme pour mieux contrôler et sanctionner les dérives en tous genres qui attisent les replis sur soi, les violences, les haines et les désinformations manifestes dans nos médias ? Pour être à la hauteur de la tâche que nous lui assignons, l’ARCOM devra rendre des comptes au législateur et disposer de moyens humains et financiers suffisants – alors que ceux du CSA avaient eu tendance à baisser ces dernières années –, sachant que le texte renforce, à raison, ses missions de lutte contre le piratage.<br/>S’agissant de l’autre volet essentiel de ce texte, à savoir le soutien à la création et la protection des œuvres culturelles, le débat est tronqué puisque les directives européennes sur les droits d’auteur et sur les services médias audiovisuels ont été transposées par ordonnance et qu’en parallèle, les négociations continuent – je pense notamment aux obligations d’investissement des chaînes –, le Parlement en étant écarté. Tout cela ajoute à la confusion.<br/>Si le groupe Libertés et territoires accueille favorablement ce projet de loi, il insiste sur le fait que, sans stratégie ni vision d’ensemble pour notre audiovisuel public et pour notre création, nous prenons le risque de ne pas être à la hauteur des défis que leurs mutations posent à notre société et à notre démocratie.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Ressiguier" id_acteur="PA719676" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722728">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911556" ordre_absolu_seance="186" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562975" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Muriel Ressiguier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911557" ordre_absolu_seance="187" id_acteur="PA719676" id_mandat="PM722728" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562976" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Ressiguier</nom>
+              <acteurRef>PA719676</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En raison de la multiplication des formats et des supports, comme de la mutation des modes de consommation ces dernières années, les médias ont évolué de façon considérable, au point de ne plus posséder de cadre juridique adapté. Nous consommons dorénavant des contenus en tous lieux et en toutes occasions – à la maison, au bureau, en vacances et même dans les transports.<br/>Une réforme de l’audiovisuel se doit d’interroger l’équilibre entre les médias linéaires et les plateformes numériques en ligne, et d’ouvrir le débat sur l’avenir de l’audiovisuel. Mais le projet de loi initial, qui contenait quatre-vingt-deux articles, a été en grande partie vidé de sa substance, et ce nouveau texte, réduit à vingt et un articles, a été examiné par la commission en quelques heures seulement. Vous répondrez sans doute, madame la ministre, que la directive SMA et la directive sur le droit d’auteur et les droits voisins dans le marché unique numérique, ainsi que les dispositions sur le câble et le satellite, ont déjà été transposées par ordonnance – eh oui, cette procédure est bien pratique –, <italique>via </italique>la loi DDADUE, et qu’elles reprennent certains thèmes présents dans le projet de loi initial… Certes, mais aucune réflexion de fond n’est engagée sur les mutations profondes du secteur de l’audiovisuel ! Toujours rien sur la redevance et le financement de l’audiovisuel public, rien non plus sur sa mission de service public ni sur l’encadrement nécessaire de la publicité, pourtant de plus en plus présente et nocive, surtout dans le secteur privé.<br/>Le sujet central de ce projet de loi est la création de l’ARCOM, fusion du CSA et de la HADOPI. Hélas, cette fusion ne sera pas l’occasion de mener une réflexion sur l’évolution des missions et des moyens attribués à cette nouvelle entité. Si le piratage doit être, bien sûr, combattu, pourquoi conserver les missions de la Hadopi dont l’efficacité est pour le moins contestée et qui était contournée par l’utilisation de VPN, qui permettent facilement d’échapper au traçage ?<br/>Prenons ainsi le cas du piratage sportif : le football représente 77 % des contenus sportifs visionnés illégalement, la compétition la plus piratée étant la Ligue des champions de l’UEFA – en 2018, chaque journée était regardée illégalement par 677 000 internautes en France, selon les chiffres fournis par l’association de lutte contre la piraterie audiovisuelle et par Médiamétrie. Mais en incriminant les amateurs de sport, qui contournent les accès payants, on oublie que ces événements sportifs sont de moins en moins accessibles sans abonnement et qu’il y a là, sans doute, matière à réflexion. Ainsi, en 2018, le volume horaire de sport à la télévision était-il évalué à 8 781 heures pour la télévision sans abonnement contre 137 447 heures pour la télévision payante.<br/>Par ailleurs, la nomination du président de l’ARCOM sera le fait du Président de la République comme à l’époque du CSA, ce que nous déplorons.<br/>Enfin, la concentration des médias, sujet important car elle met en péril l’équilibre et le pluralisme de l’information notamment, n’est pas abordée dans ce projet de loi. C’est une lacune regrettable. Récemment, TF1 a annoncé le rachat de 30 % de parts du groupe M6 ; ce futur mastodonte de l’audiovisuel privé devrait donc concentrer 70 % du marché publicitaire et rassembler 42 % de l’audience. Mais pour vous, cela n’a pas l’air d’être un sujet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911560" ordre_absolu_seance="193" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562990" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <acteurRef>PA718926</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est inquiétant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911560" ordre_absolu_seance="194" id_acteur="PA719676" id_mandat="PM722728" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2562989" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Ressiguier</nom>
+              <acteurRef>PA719676</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous, nous défendons le projet d’une autorité de régulation indépendante de l’exécutif intégrant en son sein des usagers, et qui puisse favoriser l’accès à la culture et aux événements sportifs en proposant des offres accessibles sans abonnement, garantir la pluralité, la représentativité et l’indépendance des médias, protéger les données personnelles des citoyens – ici encore, c’est le vide sidéral – et lutter enfin contre la pollution numérique – le vide sidéral est vaste, décidément ! C’est dans cette direction que nous voudrions voir évoluer les missions de l’ARCOM.<br/>Vous l’aurez compris, à l’occasion de ce rendez-vous manqué, les députés du groupe La France insoumise ne voteront pas, en l’état, ce tout petit texte. <italique>(Applaudissements sur les bancs des groupes FI et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Elsa Faucillon" id_acteur="PA721896" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723414">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911562" ordre_absolu_seance="196" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2562981" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Elsa Faucillon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1911563" ordre_absolu_seance="197" id_acteur="PA721896" id_mandat="PM723414" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2562982" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <acteurRef>PA721896</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous regrettons que le grand projet de loi promis depuis le début du quinquennat se réduise à si peu aujourd’hui. Il n’est pas à la hauteur de l’ambition que l’on devrait porter pour l’audiovisuel en général et pour le service public de l’audiovisuel en particulier. Le champ de l’audiovisuel subit de profondes mutations qu’il conviendrait pourtant d’analyser et de traiter.<br/>Le service public de l’audiovisuel est victime de coupes budgétaires de plus en plus importantes – depuis 2012, l’effectif total de France Télévisions a diminué de plus de 6 %. Il se retrouve en grande difficulté face aux nouveaux acteurs, mais aussi face à un secteur privé bien mieux armé.<br/>De nombreux sujets essentiels ne sont donc pas abordés : la redevance de l’audiovisuel, les missions du service public de l’audiovisuel, mais aussi l’explosion inquiétante de la publicité dans le secteur privé. La première version du projet de loi examinée l’an dernier laissait la part belle aux publicitaires : elle autorisait une troisième coupure publicitaire, étendait les possibilités de placement de produits et rendait légales les publicités dans un coin d’écran pendant la retransmission des manifestations sportives. Ces sujets seront, cette fois, traités par décret ou par ordonnance ; nous nous y opposons fortement.<br/>Le projet de loi n’aborde pas le sujet central de la concentration des médias. Lors de l’examen du projet de loi précédent, nous nous étions opposés à la création d’une holding regroupant France Télévisions, Radio France, France Médias Monde et l’INA, tandis que le processus de concentration est en cours dans le privé, notamment avec la fusion de TF1 et de M6, vouées à jouer un rôle monopolistique qui portera un nouveau coup au pluralisme de l’information. Leur fusion leur fera contrôler 70 % du marché publicitaire, soit 2,3 milliards de recettes publicitaires cumulées. Face à cela, nous appelons depuis le début du quinquennat à développer un service public de l’audiovisuel puissant et démocratique, vecteur de pluralisme et capable de relever les défis contemporains.<br/>Revenons au texte qui, malgré son manque d’ambition, présente quelques évolutions, notamment la fusion du CSA et de la HADOPI au sein de l’ARCOM, même si nous regrettons l’absence d’une véritable réflexion sur l’évolution des missions et des moyens attribués à cette nouvelle agence de régulation.<br/>En outre, nous nous réjouissons de la suppression en commission de la transaction pénale qui figurait à l’article 1<exposant>er</exposant>. Ajoutée par la droite sénatoriale, elle prévoyait une amende de 350 euros à l’encontre des internautes pirates. Nous considérons que cette amende aurait pénalisé les plus jeunes et les néophytes en informatique, qui, en matière de piratage, ne sont pas ceux qui commettent et réitèrent les infractions les plus graves.<br/>Le piratage des manifestations sportives est, bien entendu, un sujet crucial, mais il nous semble être traité de manière trop artificielle dans le projet de loi que nous examinons. L’offre de compétitions sportives est morcelée, et les prix constamment négociés à la hausse. À titre d’exemple, moins de 50 % des matchs de l’Euro de football seront accessibles en clair. Il en va de même pour les matchs de Ligue 1, entièrement trustés par Amazon qui en a acheté la totalité des droits de diffusion : encore une fois, un acteur privé empêche les Français d’avoir accès à une compétition sportive de grande ampleur, alors que nous considérons, au contraire, que l’accès aux grandes compétitions est un bien commun.<br/>En définitive, le texte comporte de trop grands manques pour susciter une adhésion franche de notre part. Nous nous opposons également au contenu des futurs décrets et ordonnances qui reprendront les aspects problématiques de la première version du projet de loi relatif à l’audiovisuel. Pour ces raisons, nous nous abstiendrons. <italique>(MM. Pierre Dharréville et Alain David applaudissent.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1911352" ordre_absolu_seance="205" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562997" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <acteurRef>PA718926</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1911353" ordre_absolu_seance="206" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="FIN_SEAN_1_0" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2562998" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La suite de la discussion est renvoyée à la prochaine séance.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1911355" ordre_absolu_seance="208" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2563000" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1911356" ordre_absolu_seance="209" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2563001" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, à quinze heures :<br/>Suite de la discussion du projet de loi relatif à la régulation et la protection de l’accès aux œuvres culturelles à l’ère numérique ;<br/>Suite de la discussion du projet de loi organique modifiant la loi organique n<exposant>o</exposant> 2010-837 du 23 juillet 2010, relative à l’application du cinquième alinéa de l’article 13 de la Constitution.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1911358" ordre_absolu_seance="211" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2563003" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée, le mercredi 23 juin, à zéro heure cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1911359" ordre_absolu_seance="212" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2563004" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

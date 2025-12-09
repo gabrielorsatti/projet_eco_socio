@@ -1,0 +1,1401 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2017O1N125</uid>
+  <metadonnees>
+    <dateSeance>20170628150000000</dateSeance>
+    <dateSeanceJour>mercredi 28 juin 2017</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>125</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2016-2017</session>
+    <nomFichierJo>20170125</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <horaireGmt>Date: Thu, 29 Jun 2017 16:09:53 GMT</horaireGmt>
+    <heureGeneration>2017-06-29T18:09:53.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="980355">Présidence de M. François de Rugy</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="980359">
+          <intitule>Élection des six vice-présidents et des trois questeurs et nomination des douze secrétaires de l’Assemblée nationale</intitule>
+        </titreStruct>
+        <para id_syceron="980360">M. le président</para>
+        <para id_syceron="980369">M. Jean-Luc Mélenchon</para>
+        <para id_syceron="980373">M. Christian Jacob</para>
+        <para id_syceron="980376">M. Olivier Faure</para>
+        <para id_syceron="980379">M. Franck Riester</para>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="980388">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="980391">M. le président</para>
+        <para id_syceron="980396">M. Christian Jacob</para>
+        <para id_syceron="980406">M. Franck Riester</para>
+        <para id_syceron="980416">M. Jean-Luc Mélenchon</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="980452">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="980456">M. le président</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="980457">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="980461">M. le président</para>
+        <para id_syceron="980462">M. Christian Jacob</para>
+        <para id_syceron="980467">M. Richard Ferrand</para>
+        <para id_syceron="980477">M. Olivier Faure</para>
+        <para id_syceron="980488">M. Jean-Luc Mélenchon</para>
+        <para id_syceron="980570">M. le président</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="980526">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="980530">M. le président</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="980532">
+          <intitule>
+            <italique>Rappel au règlement<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="980534">M. Yves Jégo</para>
+        <para id_syceron="980540">M. Jean Lassalle</para>
+        <para id_syceron="980544">M. Olivier Faure</para>
+        <para id_syceron="980555">M. Jean-Luc Mélenchon</para>
+        <para id_syceron="980559">M. Richard Ferrand</para>
+        <para id_syceron="980572">M. Christian Jacob</para>
+        <para id_syceron="980578">M. Franck Riester</para>
+        <para id_syceron="980585">M. Marc Fesneau</para>
+        <para id_syceron="980590">M. André Chassaigne</para>
+        <para id_syceron="980596">M. le président</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="980604">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="980608">M. le président</para>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="980616">
+          <intitule>Installation du Bureau</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="980621">
+          <intitule>Communication de M. le président</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="4">
+        <titreStruct id_syceron="980624">
+          <intitule>Convocation de la Conférence des présidents</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mercredi 28 juin 2017</journee>
+      <session>Session ordinaire 2016-2017</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="819005" ordre_absolu_seance="1" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="980355" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. François de Rugy</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="819006" ordre_absolu_seance="2" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980356" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="819007" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980357" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="819009" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980359" valeur="">
+      <orateurs/>
+      <texte>Élection des six vice-présidents et des trois questeurs et nomination des douze secrétaires de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819010" ordre_absolu_seance="6" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ELECTION_PDT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="980360" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la nomination des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/>Pour les fonctions de vice-président et de secrétaire de l’Assemblée nationale, j’ai reçu des présidents de groupe une liste de candidats qui n’est pas supérieure au nombre de sièges à pourvoir. En revanche, pour la fonction de questeur, il y a quatre candidats pour trois postes à pourvoir. Il y a donc lieu de procéder à un scrutin.<br/>Voici les candidatures présentées par le président du groupe La République en marche : M. Florian Bachelier et Mme Laurianne Rossi ; celle présentée par le président du groupe Les Républicains : M. Éric Ciotti ; celle présentée par le président du groupe Les Constructifs : républicains, UDI, indépendants : M. Thierry Solère.<br/>Je rappelle que le scrutin est secret. Aux deux premiers tours de scrutin, sont élus, dans l’ordre des suffrages, les candidats ayant obtenu la majorité des suffrages exprimés. Au troisième tour, la majorité relative suffit. En cas d’égalité des suffrages, le plus âgé est élu.<br/>Les bulletins manuscrits sont valables. Toutefois, afin de faciliter la tâche de nos collègues, des bulletins imprimés sont à leur disposition dans les salles voisines. Ces bulletins devront être mis dans l’urne sous enveloppe. Je rappelle enfin que seuls sont valables les suffrages exprimés dans les enveloppes ne contenant pas au total plus de noms que de postes à pourvoir.<br/>Le scrutin sera dépouillé par quatre scrutateurs titulaires et deux scrutateurs suppléants dont je vais tirer au sort les noms.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819016" ordre_absolu_seance="12" code_grammaire="ELECTION_PDT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980366" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au tirage au sort.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819017" ordre_absolu_seance="13" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ELECTION_PDT_1_30" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980367" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sont désignés scrutateurs titulaires : M. Sébastien Huyghe, M. Jean-Luc Fugit, M. Laurent Furst et Mme Véronique Hammerer.<br/>Sont désignés scrutateurs suppléants : M. Brahim Hammouche et M. Yannick Haury.<br/>La parole est à M. Jean-Luc Mélenchon, président du groupe La France insoumise.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819019" ordre_absolu_seance="15" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980369" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Mélenchon</nom>
+            <id>2150</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le président, sans vouloir compliquer encore votre tâche et celle de nos collègues, je voudrais faire connaître à toute notre assemblée la protestation et la proposition que je vous ai exprimées tout à l’heure.<br/>Il y a six vice-présidents de l’Assemblée. Est-il symbole plus éclatant de notre commune présence dans ces lieux que cette présidence ? J’ai donc proposé, puisque notre assemblée comporte sept groupes et que les vice-présidents sont au nombre de six, d’élargir ce nombre à sept, de telle sorte que chaque groupe en ait un sans qu’un groupe monopolise l’essentiel de ces postes – quitte à ajuster, pour la dépense, le nombre total des membres du Bureau de l’Assemblée et alléger l’effectif de douze secrétaires qu’on a cru nécessaire pour assurer le bon fonctionnement du Bureau.<br/>Avec sept vice-présidents – un par groupe – et quelques secrétaires de moins, nous aurions ainsi un symbole magnifique : chaque groupe, à tour de rôle, présiderait l’Assemblée, conformément à l’image d’une grande démocratie. Je ne crois pas que cela attenterait au principe de la proportionnelle. Le principe abstrait des points attribués à chaque groupe existe depuis 1959 : je m’incline devant la durée, mais je propose un peu de renouveau. À cet égard, le pluralisme nous ferait le plus grand bien. <italique>(Applaudissements sur quelques bancs.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Christian Jacob" id_acteur="PA1695" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723322">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819022" ordre_absolu_seance="18" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christian Jacob, président du groupe Les Républicains.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819023" ordre_absolu_seance="19" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980373" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Jacob</nom>
+              <id>1695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, nous avons en effet eu ce matin, sous votre autorité, une réunion des présidents de groupe. J’appelle notre assemblée à faire en sorte que les droits de l’opposition soient respectés, comme cela a toujours été le cas dans cet hémicycle.<br/>Pour respecter ces droits de l’opposition, la répartition du collège des questeurs se fait, depuis 1973 me semble-t-il, comme vous nous l’avez rappelé ce matin, de la manière suivante : deux questeurs pour la majorité et un pour l’opposition. Représentant le plus grand groupe d’opposition, avec cent députés inscrits, je souhaite simplement que l’équilibre et les droits de l’opposition soient respectés et qu’un membre du groupe Les Républicains puisse bien siéger dans ce collège de trois questeurs. (Applaudissements sur de nombreux bancs.)</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Faure" id_acteur="PA609332" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723378">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819025" ordre_absolu_seance="21" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980375" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Olivier Faure, président du groupe Nouvelle Gauche.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819026" ordre_absolu_seance="22" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980376" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Faure</nom>
+              <id>609332</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, nous vivons une situation assez inédite. Notre règlement et notre Constitution ont, en réalité, été élaborés en un temps où le système était bipartisan. Nous n’avons jamais connu à l’Assemblée un aussi grand nombre de groupes : ils sont aujourd’hui au nombre de sept, ce qui bouscule nos habitudes et doit nous conduire aussi à changer nos pratiques.<br/>Je ne revendique pas une vice-présidence. Je comprends que la majorité souhaite être majoritaire et que ce que nous nous sommes appliqué à nous-mêmes en d’autres circonstances vous soit désormais appliqué. En revanche, je veux profiter de ce moment particulier où nous sommes tous réunis, en particulier celles et ceux qui vont devenir présidentes et présidents de commissions, pour leur dire que cet ajustement doit se faire aussi dans les commissions. Je souhaite donc que, dans chaque bureau de commission, vous puissiez faire en sorte que l’intégralité des groupes soit représentée à bon escient, et permettre ainsi à notre démocratie de fonctionner dans les meilleures conditions. <italique>(Applaudissements sur plusieurs bancs.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Franck Riester" id_acteur="PA335758" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723338">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819028" ordre_absolu_seance="24" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980378" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Franck Riester, coprésident du groupe Les Constructifs : républicains, UDI, indépendants.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819029" ordre_absolu_seance="25" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980379" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Franck Riester</nom>
+              <id>335758</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, chers collègues, pourquoi une candidature du groupe Les Constructifs à un poste de questeur ? Nous sommes très nombreux ici à vouloir moderniser le fonctionnement de l’Assemblée nationale. Vous-même, monsieur le président, avez souhaité mettre une telle modernisation à l’ordre du jour de nos travaux.<br/>Compte tenu du nombre de groupes, notamment d’opposition, qui existent désormais, il est logique que la questure, lieu majeur de rencontres et d’échanges entre députés, puisse être ouverte à tous les groupes de l’opposition, à tous les groupes minoritaires de cette assemblée.<br/>Il ne s’agit pas ici seulement de la candidature du groupe Les Constructifs à la questure : en la personne de Thierry Solère, c’est certes un membre de ce groupe qui y siégera, mais il aura pour objectif d’ouvrir la questure à tous les membres de l’opposition <italique>(Murmures sur de nombreux bancs)</italique>, à tous les membres des groupes de l’opposition minoritaires. C’est très important et cela nous paraît être un premier acte fort de modernisation du fonctionnement de notre assemblée. <italique>(Applaudissements sur quelques bancs.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819032" ordre_absolu_seance="28" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ELECTION_PDT_1_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980382" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Avant de procéder au scrutin, je rappelle qu’il n’existe pas de dispositions du règlement relatives à l’attribution des postes de questeurs, mais qu’il existe en effet une pratique constante, depuis 1973, consistant à ce que l’un de ces postes soit attribué à l’opposition.<br/>Nous allons procéder au premier tour de scrutin pour l’élection des questeurs. J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819034" ordre_absolu_seance="30" code_grammaire="ELECTION_PDT_1_60" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980384" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le scrutin est ouvert à quinze heures quinze.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819035" ordre_absolu_seance="31" code_grammaire="ELECTION_PDT_1_70" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980385" valeur="">
+        <orateurs/>
+        <texte>…………………………………………………………….</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="819036" ordre_absolu_seance="32" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980386" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le scrutin est ouvert pour une heure. Sa clôture sera annoncée par quatre sonneries. À l’issue du scrutin, les scrutateurs se rendront au cinquième bureau pour procéder au dépouillement.<br/>Je vais suspendre la séance, qui reprendra vers dix-sept heures.</texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="2" id_preparation="818972" ordre_absolu_seance="34" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980388" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818973" ordre_absolu_seance="35" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980389" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818974" ordre_absolu_seance="36" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980390" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à quinze heures quinze, est reprise à dix-sept heures dix.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818975" ordre_absolu_seance="37" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="980391" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.<br/>Mes chers collègues, voici le résultat du scrutin pour la nomination des questeurs.<br/>Nombre de votants : 530<br/>Bulletins blancs ou nuls : 28<br/>Nombre de suffrages exprimés : 502<br/>Majorité absolue : 252<br/>Ont obtenu :<br/>M. Florian Bachelier : 378 voix<br/>Mme Laurianne Rossi : 378 voix<br/>M. Thierry Solère : 306 voix<br/>M. Éric Ciotti : 146 voix<br/>Il y a eu également quatre autres suffrages.<br/>M. Florian Bachelier, Mme Laurianne Rossi et M. Thierry Solère ayant obtenu la majorité absolue des suffrages exprimés, je les proclame questeurs de l’Assemblée nationale. <italique>(Applaudissements</italique><italique> sur de nombreux bancs</italique><italique>.)</italique><br/>Tous les sièges de questeurs ayant été pourvus, il n’y a pas lieu de procéder aux autres tours de scrutin.<br/>La parole est à M. le président Christian Jacob.</texte>
+        </paragraphe>
+      </point>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818980" ordre_absolu_seance="42" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980396" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Jacob</nom>
+            <id>1695</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le président, nous venons de rompre avec plus de cinquante ans de pratique parlementaire : les droits de l’opposition viennent d’être bafoués comme jamais ils ne l’ont été dans cet hémicycle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818981" ordre_absolu_seance="43" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980397" valeur=". ">
+        <orateurs>
+          <orateur>
+            <nom>Un député</nom>
+            <id>0</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818982" ordre_absolu_seance="44" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980398" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Jacob</nom>
+            <id>1695</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La majorité choisit son opposition : cela n’était jamais arrivé ! Cette opération a été menée par sept ou huit de nos collègues, lesquels ont d’ailleurs menti et trompé les membres de leur groupe, si j’ai bien compris ce qu’il s’est passé.<br/>En choisissant trois questeurs totalement acquis au Gouvernement – ce n’est absolument pas un reproche : cela relève de leur responsabilité –, nous nous trouvons dans une situation extrêmement grave, monsieur le président : il n’y a plus de contrôle budgétaire dans cette maison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818984" ordre_absolu_seance="46" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980400" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Christine Dalloz</nom>
+            <id>332523</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est vrai !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818985" ordre_absolu_seance="47" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980401" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Jacob</nom>
+            <id>1695</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est la première fois que cela arrive ! Alors même que la majorité ne cesse de parler de transparence, jamais une telle situation n’a existé !<br/>Monsieur le président, je ne sais pas comment cela évoluera, mais autant nous dire clairement que toutes les règles tombent. Le calcul par points que vous nous avez présenté n’a plus d’utilité puisque c’est la majorité qui décide de son opposition. Comprenez que les travaux de cette assemblée ne peuvent pas commencer de cette façon !<br/>Je vous demande, monsieur le président, de réunir les présidents de groupe car jamais, dans l’histoire de notre assemblée, les droits de l’opposition n’ont été piétinés comme ils viennent de l’être, sur l’initiative de sept ou huit individus qui ont menti, y compris à leur propre groupe parlementaire. <italique>(</italique><italique>Vifs a</italique><italique>pplaudissements</italique><italique> sur plusieurs bancs</italique><italique>.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818988" ordre_absolu_seance="50" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980404" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Julien Aubert</nom>
+            <id>609726</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est scandaleux !</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Franck Riester" id_acteur="PA335758" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723338">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818989" ordre_absolu_seance="51" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980405" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le président Franck Riester.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818990" ordre_absolu_seance="52" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980406" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Franck Riester</nom>
+              <id>335758</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, monsieur le président. Chers collègues, le groupe des Constructifs se situe dans l’opposition. Il s’est engagé (Exclamations sur plusieurs bancs)…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818991" ordre_absolu_seance="53" id_acteur="PA1029" id_mandat="PM722516" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980407" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bernard Deflesselles</nom>
+              <id>1029</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est honteux ! Honte à vous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818992" ordre_absolu_seance="54" id_acteur="PA1498" id_mandat="PM723396" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980408" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Claude Goasguen</nom>
+              <id>1498</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dégage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818993" ordre_absolu_seance="55" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980409" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’il vous plaît ! Seul M. Riester a la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818994" ordre_absolu_seance="56" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980410" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Franck Riester</nom>
+              <id>335758</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une élection vient de se tenir ; trois questeurs viennent d’être élus… <italique>(Mêmes mouvements.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818995" ordre_absolu_seance="57" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980411" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, seul M. Riester a la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818996" ordre_absolu_seance="58" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980412" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Franck Riester</nom>
+              <id>335758</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La candidature d’un membre du groupe les Constructifs au poste de questeur a vocation, contrairement à ce qu’a dit M. Jacob, à faire en sorte que les droits de l’opposition soient davantage respectés. <italique>(Mêmes mouvements.) </italique>Cette questure sera celle de tous les groupes de l’opposition.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818996" ordre_absolu_seance="59" id_acteur="PA1630" id_mandat="PM723232" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Herbillon</nom>
+              <id>1630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est la majorité qui choisit son opposition !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818997" ordre_absolu_seance="60" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980413" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Franck Riester</nom>
+              <id>335758</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourquoi continuer une pratique qui réserve la questure – c’est-à-dire l’endroit où sont accueillis les députés, où est gérée cette maison – aux seuls députés d’un unique groupe de l’opposition ? Nous voulons justement changer les pratiques et moderniser le fonctionnement de cette assemblée en ouvrant la questure à tous les groupes de l’opposition. <italique>(Quelques applaudissements.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Luc Mélenchon" id_acteur="PA2150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722506">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="818999" ordre_absolu_seance="61" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980415" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Luc Mélenchon, pour le groupe de la France insoumise. Je donne la parole uniquement aux présidents de groupe ; nous suspendrons ensuite la séance.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="819000" ordre_absolu_seance="62" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, monsieur le président. Une situation nouvelle est donc créée : comme l’a dit le président Jacob à l’instant, tout ce qui relevait de l’ancien monde – la répartition proportionnelle, les points, <italique>etc</italique>. –, tout cela est fini puisque le précédent vote vient d’y mettre fin. Après tout, le rôle d’une assemblée est de voter : ces règlements ne tombent pas du ciel !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="819001" ordre_absolu_seance="63" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980417" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Un député</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="819002" ordre_absolu_seance="64" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980418" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous les avons décidés dans le passé – je m’y associe –, et maintenant nous les changeons.<br/>C’est pourquoi je pense, à l’instar du président Jacob, que nous devons réunir les présidents de groupe pour mettre immédiatement à l’étude la proposition raisonnable que je vous ai faite tout à l’heure <italique>(Sourires)</italique>, à savoir être tous représentés par un vice-président. Sans doute cela pourrait-il compenser l’aigreur – compréhensible – du groupe qui se sent frustré à cette heure et qui, ayant un vice-président, pourrait ainsi voir sa situation quelque peu adoucie. J’avais donc raison et ma proposition était raisonnable : la preuve en a été donnée par nos votes ! <italique>(Quelques applaudissements.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="819003" ordre_absolu_seance="66" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Aubert</nom>
+              <id>609726</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Désignons plutôt sept questeurs ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="819004" ordre_absolu_seance="67" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980420" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vais réunir les présidents de groupe.</texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="3" id_preparation="818967" ordre_absolu_seance="68" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980452" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="818968" ordre_absolu_seance="69" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980453" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="818969" ordre_absolu_seance="70" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980454" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à dix-sept heures quinze, est reprise à dix-huit heures vingt.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="818970" ordre_absolu_seance="71" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980455" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.<br/>Mes chers collègues, la discussion avec les présidents de groupe a été un peu plus longue que prévu. Plusieurs d’entre eux m’ayant demandé de pouvoir réunir leur groupe immédiatement dans les salles les plus proches de l’hémicycle, je suspends à nouveau la séance pour une demi-heure.</texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="4" id_preparation="819042" ordre_absolu_seance="73" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980457" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819043" ordre_absolu_seance="74" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980458" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819044" ordre_absolu_seance="75" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980459" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à dix-huit heures vingt-cinq, est reprise à dix-neuf heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819045" ordre_absolu_seance="76" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980460" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.<br/>Avant de reprendre le cours de nos travaux, conformément à l’ordre du jour, je donne la parole à M. Christian Jacob, président du groupe Les Républicains, qui souhaite s’exprimer.</texte>
+        </paragraphe>
+      </point>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819047" ordre_absolu_seance="78" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980462" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Jacob</nom>
+            <id>1695</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le président, la majorité a décidé de confier la gestion et le contrôle budgétaires de notre assemblée à trois députés soutenant la majorité présidentielle. M. Thierry Solère a en effet annoncé qu’il voterait la confiance, et je rappelle que La République en Marche ne lui avait opposé aucun candidat.<br/>Dans ces conditions, qui sont totalement inédites et contraires aux règles républicaines de toutes les démocraties modernes, le premier et le principal groupe d’opposition, que j’ai l’honneur de présider, a décidé à l’unanimité de ne pas cautionner ce que nous considérons comme un vrai déni de démocratie et un irrespect du pluralisme politique. <italique>(Applaudissements </italique><italique>sur plusieurs bancs</italique><italique>.)</italique><br/>Monsieur le président, tant que les droits de l’opposition ne seront pas rétablis, nous refuserons de siéger au Bureau de notre assemblée. <italique>(</italique><italique>Mêmes mouvements</italique><italique>.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Richard Ferrand" id_acteur="PA606171" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722632">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819051" ordre_absolu_seance="81" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980466" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Richard Ferrand, président du groupe La République en Marche.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819052" ordre_absolu_seance="82" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980467" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Richard Ferrand</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>M. Jacob m’apparaît un peu audacieux quand il prétend avoir le monopole de l’opposition. Notre richesse réside précisément dans la pluralité et dans la diversité de l’opposition.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819053" ordre_absolu_seance="83" id_acteur="PA606098" id_mandat="PM722642" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980468" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec des questeurs tous désignés par La République en Marche ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819054" ordre_absolu_seance="84" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980469" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Richard Ferrand</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si toute décision prise par un groupe est respectable par essence, il me semble qu’il ne serait pas de bonne hygiène démocratique que notre assemblée soit paralysée parce qu’un certain nombre d’entre nous ne souhaite pas prendre part aux travaux du Bureau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819055" ordre_absolu_seance="85" id_acteur="PA1029" id_mandat="PM722516" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980470" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bernard Deflesselles</nom>
+              <id>1029</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il fallait y penser avant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819056" ordre_absolu_seance="86" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980471" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Richard Ferrand</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il est nécessaire d’avancer, quels que soient les désirs de boycott des uns et des autres, vers la constitution de notre bureau. En ce qui nous concerne, parce que nous avons la conviction qu’il faut rassembler, et que les urgences auxquelles notre pays est confronté imposent de dépasser les postures <italique>(</italique><italique>Plusieurs e</italique><italique>xclamations</italique><italique>.</italique><italique> – </italique><italique>Applaudissements sur de nombreux bancs</italique><italique>)</italique><italique>,</italique><italique/>nous estimons qu’il faut constituer sans délai le Bureau de l’Assemblée. Pour que notre institution fonctionne, nous devons avancer avec celles et ceux qui veulent bien prendre les responsabilités que d’autres ne veulent plus prendre.<br/>En ce qui nous concerne, loin de vouloir profiter de cette décision pour étendre notre influence…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819058" ordre_absolu_seance="88" id_acteur="PA334843" id_mandat="PM723534" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980473" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrice Verchère</nom>
+              <id>334843</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est déjà fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819059" ordre_absolu_seance="89" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980474" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Richard Ferrand</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et pour briguer de nouveaux postes à responsabilité, nous nous en tiendrons tout simplement à ce que nous avons dit ce matin en Conférence des Présidents.<br/>Je souhaiterais, monsieur le président, que nous puissions bénéficier d’une suspension de séance, afin de définir les modalités qui nous permettrons d’avancer, malgré ceux qui veulent rester sur le quai. <italique>(Applaudissements sur </italique><italique>de nombreux </italique><italique>bancs</italique><italique>.</italique><italique>)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Faure" id_acteur="PA609332" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723378">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819061" ordre_absolu_seance="91" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980476" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Olivier Faure.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819062" ordre_absolu_seance="92" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980477" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Faure</nom>
+              <id>609332</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, mes chers collègues, il est arrivé, et il arrivera encore à ceux qui siègent sur ces bancs d’imaginer qu’ils sont seuls et qu’ils vivent dans une bulle. C’est arrivé à tout le monde, mais la vérité, c’est que nous ne sommes pas seuls et que des gens nous regardent. Et ces gens se demandent ce que c’est que cette assemblée qui n’arrive pas à se mettre d’accord sur son propre fonctionnement.<br/>Il existe des règles, que notre président a rappelées ce matin, lorsqu’il a réuni l’ensemble des présidents. Ces règles visent à garantir que chaque groupe parlementaire obtienne ce à quoi il a droit, en proportion de sa taille, et selon un système de points. Ce système, qui peut paraître compliqué, est en réalité très simple, et il permet à chacun de prétendre à des fonctions au sein de cette assemblée.<br/>Cette règle n’a pas été respectée…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819065" ordre_absolu_seance="95" id_acteur="PA605036" id_mandat="PM722444" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980480" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Damien Abad</nom>
+              <id>605036</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819066" ordre_absolu_seance="96" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980481" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Faure</nom>
+              <id>609332</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et je le regrette. Je le regrette amèrement, parce que, seconde après seconde, minute après minute, heure après heure, nous assistons à un spectacle que je trouve insupportable pour l’institution que nous représentons et pour celles et ceux qui nous regardent. <italique>(Applaudissements.)</italique><br/>Monsieur le président, mes chers collègues, je souhaiterais que nous en revenions à des choses simples, que nous prenions le temps de refroidir nos colères, nos amertumes, parfois même nos haines, que nous reprenions langue les uns avec les autres et que nous reportions notre décision à demain matin.<br/>Il est très compliqué d’accepter la distinction que vient de faire Richard Ferrand entre ceux qui boudent et ceux qui sont encore dans le jeu. Moi, je ne boude pas : je veux participer à la vie de notre collectivité. Mais je ne veux pas que ce précédent entame le droit des oppositions et qu’il fasse jurisprudence demain. <italique>(</italique><italique>Mêmes mouvement</italique><italique>s.)</italique><br/>Je vous le demande donc avec insistance, monsieur le président : prenons le temps nécessaire – la nuit porte souvent conseil – et retrouvons-nous demain matin. Nous devrons, d’ici là, trouver une solution qui convienne à chacune et à chacun, pour éviter de donner un sentiment de désordre, voire de donner l’impression d’un coup de force, ce qui serait vraisemblablement mal compris par nos mandants.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819070" ordre_absolu_seance="100" id_acteur="PA606098" id_mandat="PM722642" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980485" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819071" ordre_absolu_seance="101" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980486" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Faure</nom>
+              <id>609332</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prenons le temps de la réflexion pour aboutir à une solution consensuelle. <italique>(Applaudissements sur </italique><italique>plusieurs </italique><italique>banc</italique><italique>s</italique><italique>.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Luc Mélenchon" id_acteur="PA2150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722506">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819072" ordre_absolu_seance="102" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980487" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Luc Mélenchon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819073" ordre_absolu_seance="103" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980488" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un peu de précision dans les termes nous aiderait. De quelle règle parle-t-on ? Une assemblée est souveraine. S’il y avait une règle, il n’y aurait pas besoin de voter : on attribuerait mécaniquement les postes en comptant les points ! Mais l’Assemblée est souveraine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819074" ordre_absolu_seance="104" id_acteur="PA1012" id_mandat="PM722418" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980489" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Charles de la Verpillière</nom>
+              <id>1012</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est Robespierre qui disait cela !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819075" ordre_absolu_seance="105" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980490" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle dispose, pour prendre sa décision, d’un point d’appui – je ne le conteste pas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819076" ordre_absolu_seance="106" id_acteur="PA1012" id_mandat="PM722418" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980491" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Charles de la Verpillière</nom>
+              <id>1012</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voyez où cela a mené Robespierre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819077" ordre_absolu_seance="107" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980492" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon cher collègue, seul M. Jean-Luc Mélenchon a la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="819078" ordre_absolu_seance="108" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980493" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne conteste pas votre raisonnement : nous avions en effet un point d’appui, une base de calcul. Mais je ferai observer à notre collègue Olivier Faure, comme à vous tous, que par courtoisie, et par respect pour les règles que les deux groupes qui viennent de s’exprimer ont fixées par le passé, nous n’avons pas présenté de candidature ce matin. Nous avons accepté la règle que vous nous avez exposée. Elle nous a été imposée, mais nous l’avons respectée.<br/>Fort bien. Cependant, un vote a eu lieu. Une candidature a été présentée et, depuis lors, le candidat n’a pas annoncé que, pour nous arranger, il démissionnait, pas plus que le président de son groupe n’a présenté d’excuses au président Jacob. Donc, nous sommes devant un fait : des questeurs ont été élus, dans un ordre qui annule les accords anciens.<br/>Dès lors, sans tenir aucun compte d’une situation que nous ne connaissions pas, à savoir que le groupe Les Républicains a décidé, pour des raisons que nous respectons, de ne plus participer à la constitution du Bureau – je comprends qu’il ait pris cette décision : peut-être aurais-je pris la même si j’avais été dans sa situation ; mais tel n’est pas le cas, et les Insoumis n’ont que faire des accords préalables de l’ancien temps et des règles de 1959 –, et puisque, dorénavant, la fameuse règle ne s’applique plus, nous avons résolu de nous en tenir à nos propres décisions.<br/>Ainsi, nous avons présenté une candidature. Elle n’entre dans aucun jeu, monsieur le président Ferrand ; pour nous, il n’y a pas de jeu, il y a une candidature. Si notre candidate recueille une majorité, nous remercierons tous ceux qui l’auront élue, ainsi que nous l’avons tous fait dans nos circonscriptions : nous n’avons pas fait le tri de nos électeurs après le deuxième tour, nous les avons tous remerciés. Si vous élisez Mathilde Panot, nous remercierons ceux qui auront contribué à son élection. Point final. <italique>(Applaudissements</italique><italique> sur quelques bancs.</italique><italique>) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="819041" ordre_absolu_seance="112" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="980570" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Aucun autre président de groupe n’a demandé la parole. Compte tenu de la demande de M. Ferrand, la séance est suspendue pour trente minutes.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="6" id_preparation="819112" ordre_absolu_seance="113" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980526" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819113" ordre_absolu_seance="114" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980527" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819114" ordre_absolu_seance="115" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980528" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à dix-neuf heures </italique>
+            <italique>quarante-cinq</italique>
+            <italique>, est reprise à vingt-deux heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819115" ordre_absolu_seance="116" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980529" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise. <italique>(« Ah ! » sur plusieurs bancs.)</italique><br/>Il y a désormais lieu de procéder à l’élection des six vice-présidents. Pour les postes de vice-présidents, je suis saisi des candidatures suivantes, étant entendu que le groupe Les Républicains, par la voix de son président, M. Jacob, a indiqué qu’il retirait les candidatures de M. Marc Le Fur et de Mme Annie Genevard. Sont donc désormais candidats :<br/>Pour le groupe de La République en marche, Mme Carole Bureau-Bonnard, M. Hugues Renson, Mme Danielle Brulebois, M. Sacha Houlié, Mme Cendra Motin ;<br/>Pour le groupe du Mouvement démocrate et apparentés, M. Sylvain Waserman ;<br/>Pour le groupe Les Constructifs, M. Yves Jégo ;<br/>Pour le groupe La France insoumise, Mme Mathilde Panot ;<br/>Pour le groupe de la Gauche démocrate et républicaine, M. Gabriel Serville.<br/>Je constate qu’il y a plus de candidats que de postes à pourvoir et qu’il y a donc lieu de procéder à une élection.</texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="6" id_preparation="819118" ordre_absolu_seance="119" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980532" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Rappel au règlement</italique>
+        </texte>
+        <interExtraction nom_orateur="M. Yves Jégo" id_acteur="PA267801" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723320">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819119" ordre_absolu_seance="120" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980533" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Yves Jégo. C’est pour un rappel au règlement ou pour retirer votre candidature ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819120" ordre_absolu_seance="121" id_acteur="PA267801" id_mandat="PM723320" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="980534" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Yves Jégo</nom>
+                <id>267801</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je crois, monsieur le président, qu’après nous avoir fait attendre autant, la courtoisie voudrait que l’on ne plaisante pas sur ce genre de sujets. <italique>(Applaudissements sur quelques bancs.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819121" ordre_absolu_seance="122" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980535" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Philippe Gosselin</nom>
+                <id>266797</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Le sujet est grave !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819122" ordre_absolu_seance="123" id_acteur="PA267801" id_mandat="PM723320" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980536" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Yves Jégo</nom>
+                <id>267801</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur le président, je tiens à vous rappeler les articles 10, 25 et 26 du règlement, au titre desquels il vous est impossible de présenter de nouveaux candidats. Ces articles prévoient que les candidats soient présentés une demi-heure avant le début de la séance, en l’occurrence à 14 h 30. Dès lors, vous pouvez simplement constater que le nombre de candidats équivaut au nombre de postes et procéder à leur nomination.<br/>Je vous ai fait porter, il y a une demi-heure, une lettre indiquant que si vous procédez à cette élection, il y aura un recours, car elle n’est ni légale ni conforme à notre règlement. <italique>(Applaudissements sur quelques bancs.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819124" ordre_absolu_seance="125" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980538" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>En effet, j’ai bien reçu votre courrier et je vais vous répondre.<br/>La parole est à M. Jean Lassalle.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819126" ordre_absolu_seance="127" id_acteur="PA1838" id_mandat="PM723068" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980540" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean Lassalle</nom>
+              <id>1838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, une idée m’est venue subitement <italique>(rires sur plusieurs bancs) </italique>: afin de parvenir à une solution, je présente aussi ma candidature. <italique>(Applaudissements et rires sur plusieurs bancs). </italique>Je vous remercie de bien vouloir l’enregistrer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819127" ordre_absolu_seance="128" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980541" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Votre candidature en tant que député non inscrit est enregistrée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819128" ordre_absolu_seance="129" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980542" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cette candidature ne peut pas être enregistrée ! C’est du délire !</texte>
+        </paragraphe>
+        <interExtraction nom_orateur="M. Olivier Faure" id_acteur="PA609332" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723378">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819129" ordre_absolu_seance="130" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980543" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Olivier Faure.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819130" ordre_absolu_seance="131" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980544" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Olivier Faure</nom>
+                <id>609332</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur le président, mes chers collègues, la promesse de cette élection présidentielle et des élections législatives qui l’ont suivie était d’entrer dans un nouveau monde.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819131" ordre_absolu_seance="132" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980545" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marie-Christine Dalloz</nom>
+                <id>332523</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>On y est !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819132" ordre_absolu_seance="133" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980546" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Olivier Faure</nom>
+                <id>609332</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Dans quel nouveau monde sommes-nous, désormais ? <italique>(Applaudissements sur plusieurs bancs.)</italique><br/>Nous avons commencé la séance à quinze heures. Il est désormais près de vingt-trois heures. Nous avons, entre-temps, réussi à désigner trois questeurs, dans des conditions que chacun connaît. Franchement, il y a des moments où on est plus fier d’être député que ce soir.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819134" ordre_absolu_seance="135" id_acteur="PA605036" id_mandat="PM722444" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980548" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Damien Abad</nom>
+                <id>605036</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>C’est un spectacle lamentable !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819135" ordre_absolu_seance="136" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980549" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Philippe Gosselin</nom>
+                <id>266797</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Nous sommes la risée de tous !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819136" ordre_absolu_seance="137" id_acteur="PA609332" id_mandat="PM723378" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980550" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Olivier Faure</nom>
+                <id>609332</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je le répète, il y a des gens, en dehors de cet hémicycle, qui nous regardent. Tout à l’heure, on m’a rapporté que les chaînes d’information en continu annonçaient que nous sommes en crise, parce que nous ne respectons pas les règles que nous nous sommes nous-mêmes fixées. C’est quand même extraordinaire !<br/>Au fond, vous dites que vous allez passer en force. La République en marche va s’octroyer cinq vice-présidences, en abandonner une au Modem, et les candidats des autres groupes seront renvoyés à leurs pâturages dans quelques minutes. Franchement, je m’attendais à autre chose.<br/>Je le rappelle, notre groupe n’a pas participé à l’élection des questeurs, car nous considérions que nous n’avions pas à le faire et qu’il était légitime que les droits de l’opposition soient respectés. Après ce que nous avons vu ce soir, je demande à savoir ce qui se passera demain, notamment à l’occasion de l’élection du président de la commission des finances. Quel sera le candidat retenu par La République en marche ? Si le même scénario se déroulait demain, ce groupe serait à nouveau en position de choisir les contours de son opposition et de sa majorité. <italique>(Applaudissements sur plusieurs bancs.)</italique><br/>Dans une démocratie, la majorité doit évidemment être respectée, et nous la respectons. Mais nous demandons aussi, et je le répète avec insistance, que vous respectiez, dans les mêmes conditions, les droits de toutes les minorités. <italique>(</italique><italique>Mêmes mouvements</italique><italique>.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Jean-Luc Mélenchon" id_acteur="PA2150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722506">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819140" ordre_absolu_seance="141" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980554" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Jean-Luc Mélenchon.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819141" ordre_absolu_seance="142" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980555" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-Luc Mélenchon</nom>
+                <id>2150</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur le président, je me joins à tous ceux qui pensent qu’il a fallu bien du temps pour une telle décision. Je me réjouis d’avoir pris la mienne, avec mes amis. À la vérité, on ne peut croire à la parole de personne, ici. D’abord, la règle qui devait initialement s’appliquer à tous ne s’applique pas. Ensuite, la situation change et on me dit que si je maintiens la candidature de Mme Mathilde Panot, elle sera élue – ce dont on se réjouit –, car le groupe Les Républicains ne présentera pas de candidat.<br/>À présent, après plus de deux heures de suspension, on m’apprend que tout ne sera qu’une mascarade, car le groupe majoritaire a décidé – et je ne conteste en aucun cas ce droit – de présenter autant de candidats qu’il y a de postes, ce qui nous conduit à présenter des candidatures de témoignage. Fort bien ! Nous témoignerons, mais nous témoignerons du fait que vous prenez toutes les places, après avoir dit exactement le contraire. Je suppose que, dans votre esprit, cela signifie que dans quarante-huit heures, trois jours ou une semaine peut-être, vous retirerez vos élus pour que d’autres soient nommés. Tout cela ressemble davantage à une pantalonnade qu’à une décision.<br/>Il reste que le sens de notre candidature change en fonction de l’évolution de la séance. Désormais, elle témoignera du fait que, n’ayant confiance en personne, nous ne faisons confiance qu’à ceux qui votent pour nous. <italique>(Applaudissements sur </italique><italique>quelques </italique><italique>bancs</italique><italique>.</italique><italique>)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Richard Ferrand" id_acteur="PA606171" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722632">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819144" ordre_absolu_seance="145" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980558" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Richard Ferrand.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819145" ordre_absolu_seance="146" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980559" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Richard Ferrand</nom>
+                <id>606171</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>M. Faure a parlé de crise, mais il ne s’agit que de l’élection d’un questeur – je me demande combien de Français savent précisément ce dont il s’agit. <italique>(Exclamations sur plusieurs bancs.)</italique><br/>Cette élection a conduit le groupe Les Républicains à retirer leurs candidats, ce qui revenait à bloquer le fonctionnement de notre assemblée. Notre intention n’est absolument pas d’assumer l’ensemble des responsabilités, mais de faire fonctionner le bureau de notre assemblée. Dès que les membres du groupe Les Républicains voudront reprendre leurs responsabilités, les candidats que nous aurons élus céderont immédiatement leur place. <italique>(Applaudissements sur </italique><italique>de nombreux </italique><italique>bancs</italique><italique>.</italique><italique>)</italique><br/><italique/><br/>Ce que nous proposons, c’est d’éviter que l’Assemblée nationale soit bloquée et que nous puissions nous mettre au travail sans délai, car les obstructions de procédure nous empêchent de travailler. <italique>(</italique><italique>Mêmes mouvement</italique><italique>s.)</italique><br/><italique/><br/>Nous proposons également de respecter les droits de l’opposition,…</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819149" ordre_absolu_seance="150" id_acteur="PA609726" id_mandat="PM723426" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980563" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Julien Aubert</nom>
+                <id>609726</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Tu parles !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="819150" ordre_absolu_seance="151" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980564" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Richard Ferrand</nom>
+                <id>606171</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>…dès lors qu’aura cessé la bouderie liée au mauvais tour qu’a pris l’élection d’un questeur.<br/>Ensuite, pour répondre à la curiosité de M. Faure, nous ne prendrons pas part, demain, au vote de la commission des finances, car elle concerne, non pas la majorité, mais les différents candidats de l’opposition. <italique>(</italique><italique>A</italique><italique>pplaudissements sur </italique><italique>de nombreux </italique><italique>bancs</italique><italique>.</italique><italique>)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Christian Jacob" id_acteur="PA1695" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723322">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819079" ordre_absolu_seance="153" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980571" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Christian Jacob.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819080" ordre_absolu_seance="154" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980572" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Christian Jacob</nom>
+                <id>1695</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je tiens simplement à dire au président Ferrand que si les Français ne savent pas ce que sont les questeurs, ils savent en revanche ce que sont les droits de l’opposition <italique>(Applaudissements sur plusieurs bancs) </italique>: ils savent donc que, dans toutes les démocraties modernes, la gestion et le contrôle budgétaires d’une assemblée sont assurés, à la fois, non seulement, c’est évident, par la majorité, mais aussi par un représentant de l’opposition. Or il n’y aura pas de représentant de l’opposition puisque M. Thierry Solère a été élu député en faisant campagne – c’est son plus grand droit – pour donner à M. Macron une majorité. Il n’avait d’ailleurs aucun candidat de La République en Marche en face de lui. Il l’avait même précisé sur toutes ses affiches ! C’est très clair, il n’y a aucune ambiguïté.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819081" ordre_absolu_seance="155" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980573" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marie-Christine Dalloz</nom>
+                <id>332523</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Très bien !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819082" ordre_absolu_seance="156" id_acteur="PA1695" id_mandat="PM723322" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980574" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Christian Jacob</nom>
+                <id>1695</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Notre objectif n’est pas de bloquer le fonctionnement de l’Assemblée : nous assumerons notre travail de parlementaires en siégeant dans l’hémicycle et au sein des commissions. Nous étudierons les textes et ferons des propositions. Simplement, ne nous demandez pas de cautionner un système qui est un véritable déni de démocratie et qui n’existe dans aucun autre parlement. <italique>(Applaudissements sur plusieurs bancs.)</italique><br/>Je le répète, nous ne cherchons aucun blocage : nous demandons simplement que les droits de l’opposition soient respectés et qu’on ne trompe pas les Français avec de faux opposants qui, en réalité, ont fait campagne pour le Président de la République, ce qui ne pose aucun problème puisque c’était leur plus grand droit. Mais que chacun assume ses responsabilités. Quant au déroulement de la séance, je tiens à souligner que nous aurions pu nous passer de ces trois heures de suspension, dont j’ignore la raison.<br/>À partir du moment où vous rétablirez les droits de l’opposition, il n’y aura plus aucun problème. Notre objectif, je le répète, n’est pas de bloquer l’Assemblée.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Franck Riester" id_acteur="PA335758" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723338">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819085" ordre_absolu_seance="159" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980577" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Franck Riester.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819086" ordre_absolu_seance="160" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980578" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Franck Riester</nom>
+                <id>335758</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur Jacob, où est le déni de démocratie ? L’élection, qui a eu lieu, est prévue par le règlement de l’Assemblée nationale et trois questeurs ont été élus.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819087" ordre_absolu_seance="161" id_acteur="PA606098" id_mandat="PM722642" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980579" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Olivier Marleix</nom>
+                <id>606098</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Par le groupe majoritaire !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819088" ordre_absolu_seance="162" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980580" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Laissez parler M. Riester : lui seul a la parole.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819089" ordre_absolu_seance="163" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980581" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Franck Riester</nom>
+                <id>335758</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Où est le déni de démocratie, monsieur Jacob ? Et pourquoi seriez-vous le seul à décider de l’appartenance d’un groupe politique à l’opposition ou à la majorité ? <italique>(Applaudissements sur plusieurs bancs.) </italique>Notre groupe politique est dans l’opposition, il est vrai une opposition constructive, qui ne vise pas à faire de l’obstruction comme nous l’observons, une fois de plus, cet après-midi. <italique>(Exclamations sur plusieurs bancs.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819090" ordre_absolu_seance="164" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980582" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Xavier Breton</nom>
+                <id>330008</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Vous êtes leurs supplétifs !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819091" ordre_absolu_seance="165" id_acteur="PA335758" id_mandat="PM723338" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980583" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Franck Riester</nom>
+                <id>335758</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>N’y aurait-il plus de démocratie alors que nous voulons, au contraire, en réservant un poste de questeur à tous les groupes de l’opposition, et non pas à un seul, faire vivre cette opposition de façon complète ? <italique>(Applaudissements sur </italique><italique>plusieurs</italique><italique> bancs.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Marc Fesneau" id_acteur="PA719938" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722806">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819092" ordre_absolu_seance="166" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980584" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Marc Fesneau, président du groupe du Mouvement démocrate et apparentés.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819093" ordre_absolu_seance="167" id_acteur="PA719938" id_mandat="PM722806" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980585" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Marc Fesneau</nom>
+                <id>719938</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis désolé de devoir faire ma première intervention comme président de groupe dans de telles conditions. Quelques-uns, sur les bancs de l’Assemblée, doivent partager mon regret.<br/>Je rejoins les propos de M. Ferrand, qui a pris acte de la décision du groupe Les Républicains de ne pas participer au bureau en raison de l’état où en sont, à ce jour, les discussions. Mais je prends également acte du fait que M. Ferrand a précisé que nous sommes dans une situation provisoire.<br/>Monsieur le président, nous devrons tout faire pour apaiser le climat mais nous devons aussi nous mettre au travail : c’est pourquoi nous avons besoin d’élire un bureau. Je ne mets personne en cause, mais nous sommes, ce soir, dans une situation de blocage. C’est pourquoi nous devons passer au vote. Même si cette solution est transitoire, elle nous permettra d’avancer. Nous devrons ensuite faire valoir les droits de l’opposition, parce que nous avons besoin d’une opposition qui puisse faire son travail.<br/>Notre groupe se joint à la proposition de Richard Ferrand, dont nous prenons acte du caractère transitoire, car elle nous permettra de travailler ensemble.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. André Chassaigne" id_acteur="PA267306" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723054">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819097" ordre_absolu_seance="171" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="980589" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. André Chassaigne, président du groupe de la Gauche démocrate et républicaine.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819098" ordre_absolu_seance="172" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="980590" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. André Chassaigne</nom>
+                <id>267306</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur le président, chers collègues, j’ai quelques années d’expérience – peut-être trop aux yeux de certains. Je suis époustouflé par le fonctionnement, aujourd’hui, de notre assemblée, notamment par ces applaudissements massifs qui accompagnent tous les propos qui peuvent être tenus, plus ou moins sensés ou contradictoires. Vous pouvez pousser des cris, et sans doute applaudirez-vous massivement les autres orateurs qui s’exprimeront au nom de votre majorité écrasante, de votre rouleau compresseur.<br/>Monsieur Ferrand, vous venez, lors de votre intervention, de déclarer qu’il nous faudrait élire des vice-présidents pour une durée que nous ne connaissons pas, sous la réserve d’une évolution possible du groupe Les Républicains : quelle est cette façon de fonctionner ? Est-ce cela la nouveauté, le nouveau monde, la nouvelle politique que vous voulez introduire dans cet hémicycle ? <italique>(Applaudissements sur plusieurs bancs.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819101" ordre_absolu_seance="174" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980593" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marie-Christine Dalloz</nom>
+                <id>332523</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Très bien !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819102" ordre_absolu_seance="175" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="980594" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. André Chassaigne</nom>
+                <id>267306</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Que sont ces petits traficotages, que sont ces artifices ? Que signifient-ils ? Nous devons voter aujourd’hui pour des vice-présidents. Des candidatures, individuelles ou présentées par des groupes, ont émergé. Ferez-vous la démonstration, ce soir, que sur six vice-présidents, cinq appartiendront au rouleau compresseur ? Au nom de quelle démocratie ? Quelle image donnez-vous de notre assemblée ? Quelle image en donnez-vous à la France ? Est-ce l’exemple que vous voulez montrer ?<br/>Ce dont, au contraire, vous faites la démonstration, c’est que vous vous livrez à des calculs et à des comportements qui ne méritent qu’un seul adjectif : petits. <italique>(Applaudissements sur de nombreux bancs.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819104" ordre_absolu_seance="177" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="980596" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je constate qu’il y a plus de candidats que de postes à pourvoir puisque les candidats sont au nombre de dix et les postes à pourvoir au nombre de six. Il y a donc lieu de procéder à un scrutin. <italique/></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819105" ordre_absolu_seance="178" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980597" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Répondez à M. Jégo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819106" ordre_absolu_seance="179" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="980598" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous allons procéder au premier tour de scrutin pour l’élection des vice-présidents.<br/>Je vous rappelle que les scrutateurs ont d’ores et déjà été tirés au sort. Les quatre scrutateurs titulaires sont MM. Sébastien Huyghe, Jean-Luc Fugit et Laurent Furst ainsi que Mme Véronique Hammerer. Les deux scrutateurs suppléants sont MM. Brahim Hammouche et Yannick Haury.<br/>Je vous précise qu’il n’y a pas de bulletins imprimés.<br/>Je vous rappelle également que, pour que les votes soient valables, les bulletins contenus dans les enveloppes ne doivent pas compter plus de six noms.<br/>Je vous rappelle enfin qu’au premier tour de scrutin la majorité absolue des suffrages exprimés est requise.<br/>J’ouvre, pour une heure, le scrutin qui est annoncé dans l’enceinte de l’Assemblée nationale. Sa clôture sera annoncée par quatre sonneries. À l’issue du scrutin, les scrutateurs se rendront au cinquième bureau pour procéder au dépouillement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="819111" ordre_absolu_seance="185" id_acteur="PA266774" id_mandat="PM723526" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980630" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Furst</nom>
+              <id>266774</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je démissionne de ma fonction de scrutateur !</texte>
+        </paragraphe>
+        <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="8" id_preparation="819152" ordre_absolu_seance="186" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980604" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Suspension et reprise de la séance</italique>
+          </texte>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="819153" ordre_absolu_seance="187" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980605" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La séance est suspendue.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="819154" ordre_absolu_seance="188" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980606" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>(La séance, suspendue à vingt-deux heures cinquante-cinq, est reprise le jeudi 29 juin </italique>
+              <italique>2017</italique>
+              <italique> à zéro heure trente.)</italique>
+            </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="819155" ordre_absolu_seance="189" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980607" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>332747</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La séance est reprise.<br/>Avant d’annoncer les résultats du scrutin auquel nous venons de procéder, je souhaite rappeler quelques éléments qui serviront de réponse à l’interpellation de notre collègue Yves Jégo. Je le prie d’ailleurs de m’excuser de ne pas lui avoir répondu immédiatement.<br/>Le règlement de l’Assemblée nationale prévoit deux cas de figure pour la désignation des membres du bureau : le premier en cas d’accord entre les présidents de groupe, le second en l’absence de consensus.<br/>À l’expiration du délai de dépôt des candidatures au bureau, il est apparu que, pour la désignation des questeurs, quatre candidatures avaient été déposées et qu’il n’y avait donc pas de consensus. À partir du moment où ce scrutin créait une situation nouvelle, les présidents de groupe ont souhaité se réunir à nouveau. Au cours de cette seconde réunion, il est apparu que le nombre de candidatures était supérieur à celui des postes à pourvoir pour la catégorie des vice-présidents. Dans ces conditions, conformément au règlement, il n’y avait pas d’autre possibilité que d’organiser un scrutin pour cette catégorie.<br/>Voici donc les résultats du scrutin pour la nomination des vice-présidents :<br/>Nombre de votants : 355<br/>Bulletins blancs ou nuls : 16<br/>Nombre de suffrages exprimés : 339<br/>Majorité absolue : 170<br/>Ont obtenu :<br/>Mme Carole Bureau-Bonnard : 295 voix ;<br/>M. Hugues Renson : 293 voix ;<br/>Mme Danielle Brulebois : 291 voix ;<br/>M. Sacha Houlié : 287 voix ;<br/>Mme Cendra Motin : 280 voix ;<br/>M. Sylvain Waserman : 281 voix ;<br/>M. Yves Jégo : 24 voix ;<br/>Mme Mathilde Panot : 26 voix ;<br/>M. Jean Lassalle : 36 voix ;<br/>M. Gabriel Serville : 6 voix.<br/>Mme Carole Bureau-Bonnard, M. Hugues Renson, Mme Danielle Brulebois, M. Sacha Houlié, M. Sylvain Waserman et Mme Cendra Motin ayant obtenu la majorité absolue des suffrages exprimés, je les proclame vice-présidents de l’Assemblée nationale. <italique>(Applaudissements.)</italique><br/>Tous les sièges de vice-présidents ayant été pourvus, il n’y a pas lieu de procéder aux autres tours de scrutin.<br/>Pour les postes de secrétaires, je constate qu’il n’y a pas plus de candidats que de postes à pourvoir.<br/>Sont donc désignés secrétaires :<br/>M. Lénaïck Adam ;<br/>Mme Ramlati Ali ;<br/>Mme Clémentine Autain ;<br/>M. Luc Carvounas ;<br/>M. Lionel Causse ;<br/>Mme Stéphanie Do ;<br/>Mme Laurence Dumont ;<br/>Mme Marie Guévenoux ;<br/>Mme Annaïg Le Meur ;<br/>Mme Sophie Mette ;<br/>M. Gabriel Serville ;<br/>M. Guillaume Vuilletet.</texte>
+          </paragraphe>
+        </point>
+      </point>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="819164" ordre_absolu_seance="198" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980616" valeur="">
+      <orateurs/>
+      <texte>Installation du Bureau</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="819165" ordre_absolu_seance="199" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980617" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je constate que le Bureau de l’Assemblée nationale est constitué.<br/>Sa composition sera notifiée au Président de la République, au Premier ministre, au président du Sénat et publiée au <italique>Journal officiel</italique>.<br/>Il se réunira demain, jeudi 29 juin 2017, à quinze heures.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="8" id_preparation="819169" ordre_absolu_seance="203" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980621" valeur="">
+      <orateurs/>
+      <texte>Communication de M. le président</texte>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="819170" ordre_absolu_seance="204" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980622" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je rappelle aux présidents de groupe que la réunion en vue de procéder à la division de la salle des séances en autant de secteurs qu’il y a de groupes aura lieu demain, jeudi 29 juin 2017, à neuf heures trente. Ainsi, les députés pourront enfin être placés par groupe, et non plus par ordre alphabétique, dans notre hémicycle.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="4" ordinal_prise="8" id_preparation="819172" ordre_absolu_seance="206" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980624" valeur="">
+      <orateurs/>
+      <texte>Convocation de la Conférence des présidents</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="8" id_preparation="819173" ordre_absolu_seance="207" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980625" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La conférence des présidents aura également lieu demain, jeudi 29 juin 2017, à douze heures trente, dans les salons de la présidence.<br/>L’ordre du jour des prochaines séances de l’Assemblée sera fixé en conférence des présidents.<br/>La séance est levée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="8" id_preparation="819176" ordre_absolu_seance="210" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980628" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est levée à zéro heure trente-cinq.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="8" id_preparation="819176" ordre_absolu_seance="210" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980628" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>La Directrice du service du compte rendu de la séance</italique>
+          <br/>
+          <italique>de l’Assemblée nationale</italique>
+          <br/>
+          <italique>Catherine Joly</italique>
+        </texte>
+      </paragraphe>
+    </point>
+  </contenu>
+</compteRendu>

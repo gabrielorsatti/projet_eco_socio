@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2017O1N124</uid>
+  <metadonnees>
+    <dateSeance>20170627150000000</dateSeance>
+    <dateSeanceJour>mardi 27 juin 2017</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>124</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2016-2017</session>
+    <nomFichierJo>20171124</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <horaireGmt>Date: Fri, 08 Sep 2017 14:38:17 GMT</horaireGmt>
+    <heureGeneration>2017-09-08T16:38:17.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="980115">Présidence de M. Bernard Brochand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="980119">
+          <intitule>Ouverture de la XV<exposant>e </exposant>législature</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="980122">
+          <intitule>Constitution du bureau d’âge</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="980125">
+          <intitule>Communication de la liste des députés</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="4">
+        <titreStruct id_syceron="980128">
+          <intitule>Députés nommés membres du Gouvernement</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="5">
+        <titreStruct id_syceron="980131">
+          <intitule>Décès de deux députés de la XIV<exposant>e</exposant><exposant/>législature</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="6">
+        <titreStruct id_syceron="980134">
+          <intitule>Allocution du doyen d’âge</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="7">
+        <titreStruct id_syceron="980141">
+          <intitule>Élection du président de l’Assemblée nationale</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="980156">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <presidentSeance id_syceron="980162">Présidence de M. François de Rugy</presidentSeance>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="8">
+        <titreStruct id_syceron="980164">
+          <intitule>Allocution de M. le président</intitule>
+        </titreStruct>
+        <para id_syceron="1020268">M. le président</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="9">
+        <titreStruct id_syceron="980214">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mardi 27 juin 2017</journee>
+      <session>Session ordinaire 2016-2017</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="818868" ordre_absolu_seance="1" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="980115" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Bernard Brochand<br/>Doyen d’âge</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="818869" ordre_absolu_seance="2" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980116" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="818870" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980117" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="818872" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980119" valeur="">
+      <orateurs/>
+      <texte>Ouverture de la XV<exposant>e </exposant>législature</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="818873" ordre_absolu_seance="6" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980120" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je déclare ouverte la XV<exposant>e </exposant>législature de l’Assemblée nationale.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="818875" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980122" valeur="">
+      <orateurs/>
+      <texte>Constitution du bureau d’âge</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="818876" ordre_absolu_seance="9" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980123" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Aux termes de l’article 1<exposant>er</exposant> du règlement, les six plus jeunes députés présents sont appelés à remplir les fonctions de secrétaires, jusqu’à l’élection du bureau.<br/>Ce sont M. Ludovic Pajot, Mme Typhanie Degois, M. Lénaïck Adam, M. Pierre Henriet, M. Robin Reda et Mme Bénédicte Peyrol.<br/>Le bureau d’âge de l’Assemblée est ainsi constitué.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="1" id_preparation="818878" ordre_absolu_seance="11" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980125" valeur="">
+      <orateurs/>
+      <texte>Communication de la liste des députés</texte>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="818879" ordre_absolu_seance="12" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980126" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>En application de l’article L.O. 179 du code électoral, j’ai reçu de M. le ministre d’État, ministre de l’intérieur, la liste des députés élus.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="4" ordinal_prise="1" id_preparation="818881" ordre_absolu_seance="14" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980128" valeur="">
+      <orateurs/>
+      <texte>Députés nommés membres du Gouvernement</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="818882" ordre_absolu_seance="15" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980129" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Les décrets relatifs à la composition du Gouvernement ont été publiés au <italique>Journal officiel</italique> du 20 et du 22 juin 2017. Je rappelle que les députés nommés membres du Gouvernement ne peuvent pas prendre part aux scrutins.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="5" ordinal_prise="1" id_preparation="818884" ordre_absolu_seance="17" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980131" valeur="">
+      <orateurs/>
+      <texte>Décès de deux députés de la XIV<exposant>e</exposant><exposant/>législature</texte>
+      <paragraphe valeur_ptsodj="5" ordinal_prise="1" id_preparation="818885" ordre_absolu_seance="18" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980132" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’ai le regret de porter à la connaissance de l’Assemblée nationale les décès, survenus les 21 mars et 5 mai 2017, de nos collègues de la précédente législature, Henri Emmanuelli et Corinne Erhel.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="6" ordinal_prise="1" id_preparation="818887" ordre_absolu_seance="20" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980134" valeur="">
+      <orateurs/>
+      <texte>Allocution du doyen d’âge</texte>
+      <paragraphe valeur_ptsodj="6" ordinal_prise="1" id_preparation="818888" ordre_absolu_seance="21" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980135" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le secrétaire d’État chargé des relations avec le Parlement, mes chers collègues, c’est pour moi un insigne honneur de m’adresser à notre assemblée tout entière réunie en ce premier jour de sa première session, alors qu’elle vient de recevoir l’onction du suffrage universel.<br/>Permettez-moi tout d’abord de souhaiter la bienvenue à tous ceux, beaucoup plus nombreux qu’à l’ordinaire, qui n’ont jamais siégé dans notre hémicycle. Que tous, anciens comme nouveaux, contribuent avec succès à notre travail commun, dans le respect des opinions de chacun !<br/>J’ai aussi la faiblesse de penser qu’à travers vos éminentes personnes mes modestes propos atteindront ceux qui ont fait le choix de nous élire au nom de la nation souveraine qu’ils incarnent et que nous avons désormais la lourde responsabilité de représenter.<br/>C’est ici, à l’Assemblée nationale, que, depuis 228 ans, se décident le présent et l’avenir de la France. Sont sortis de cette assemblée la première Constitution française rédigée au Jeu de Paume, la Déclaration des droits de l’Homme et du Citoyen, l’abolition des droits féodaux, la liberté de la presse, le drapeau tricolore, le suffrage universel, l’instruction nationale, l’unification de la langue française, l’abolition de l’esclavage, la liberté des cultes et l’abolition de la peine de mort : autant de sujets majeurs et fondateurs de notre pacte républicain, qui ont donné lieu à des joutes verbales extraordinaires et à des lois fondamentales dont l’Histoire retient le précieux écho.<br/>Nous sommes tous les héritiers de ces actes fondateurs. Nous devons affirmer notre identité parlementaire. Être député, c’est fabriquer la loi ; être député, c’est aussi être relié à une réalité de territoire ; c’est écouter, comprendre et faire résonner ici même les aspirations de nos concitoyens, leurs craintes et leurs espoirs, afin d’apporter par notre travail des solutions concrètes et durables aux problèmes concernant tous les Français. Derrière chacun d’entre nous se trouvent près de 100 000 citoyens, qu’il représente. Il ne faut jamais l’oublier : c’est à travers nous que se tissent des liens entre eux et ceux qui nous gouvernent.<br/>Des défis colossaux nous attendent, dont en priorité, parmi bien d’autres, la lutte contre le terrorisme islamique et la sécurité de nos compatriotes, le retour à l’emploi pour conjurer le chômage, la baisse de la fiscalité pour rendre de l’oxygène aux ménages et aux entrepreneurs, le rétablissement de l’école, l’amélioration de la justice et la récompense du mérite afin de repriser le tissu social de notre pays pour que chaque citoyen soit reconnu dans ses droits avec équité mais se voie aussi rappeler ses devoirs envers la Nation. En toute chose, notre devoir est de rendre l’avenir désirable aux Français parce que possible et chargé d’espoir et de liberté. Notre devoir est de réveiller et de faire vivre la République et les valeurs universelles de liberté, d’égalité et de fraternité pour tous ses enfants.<br/>L’onction du suffrage universel n’est pas une fin en soi. Elle marque le début de quelque chose de plus grand pour chacun de nous, qui dépasse tous les egos : l’immense honneur de servir la France et les Français. Nous avons plus que jamais un devoir, celui d’agir.<br/>Je crois en nous, je crois en vous, je crois en notre audace, je crois en votre audace, je crois en notre énergie, je crois en votre énergie, je crois en la France vivante, exigeante, nouvelle, gagnante, créative et optimiste.<br/>Je souhaite reconnaissance et succès à cette nouvelle législature.<br/>Vive la République ! Vive la France ! <italique>(Applaudissements.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="7" ordinal_prise="1" id_preparation="818894" ordre_absolu_seance="32" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980141" valeur="">
+      <orateurs/>
+      <texte>Élection du président de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818895" ordre_absolu_seance="33" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ELECTION_PDT_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980142" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle, conformément à l’article 9 du règlement, l’élection du président de l’Assemblée nationale.<br/>Cette élection a lieu au scrutin secret à la tribune.<br/>J’ai été saisi des candidatures de Mme Laurence Dumont, Mme Caroline Fiat, Mme Laure de La Raudière, M. François de Rugy, M. Jean-Charles Taugourdeau.<br/>Aux deux premiers tours de scrutin, la majorité absolue des suffrages exprimés est requise.<br/>Je vous informe que les bulletins manuscrits sont valables, mais que des bulletins imprimés sont à votre disposition. Ces bulletins, mis sous enveloppe, seront placés dans l’urne sous le contrôle des secrétaires d’âge.<br/>Le scrutin sera dépouillé par quatre scrutateurs titulaires et deux scrutateurs suppléants dont je vais tirer le nom au sort.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818896" ordre_absolu_seance="34" code_grammaire="ELECTION_PDT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980143" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au tirage au sort.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818897" ordre_absolu_seance="35" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ELECTION_PDT_1_30" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980144" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sont désignés scrutateurs titulaires : M. Bruno Questel, M. Florian Bachelier, Mme Sabine Rubin, M. Thomas Rudigoz.<br/>Sont désignés scrutateurs suppléants : Mme Sophie Beaudouin-Hubière, Mme Valérie Beauvais.<br/>Je vais tirer au sort la lettre par laquelle commencera l’appel nominal.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818898" ordre_absolu_seance="36" code_grammaire="ELECTION_PDT_1_40" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980145" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au tirage au sort.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818899" ordre_absolu_seance="37" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ELECTION_PDT_1_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980146" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le sort désigne la lettre U.<br/>Pour faciliter le déroulement ordonné du scrutin, je vous prie de bien vouloir attendre, pour monter à la tribune, l’appel de votre nom.<br/>J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale.<br/>Le scrutin sera clos à seize heures dix.<br/>J’invite les huissiers à commencer l’appel nominal.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818900" ordre_absolu_seance="38" code_grammaire="ELECTION_PDT_1_60" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980147" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le scrutin est ouvert à quinze heures dix.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="1" id_preparation="818901" ordre_absolu_seance="39" code_grammaire="ELECTION_PDT_1_70" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980148" valeur="">
+        <orateurs/>
+        <texte>…………………………………………………………….</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="2" id_preparation="818867" ordre_absolu_seance="40" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="ELECTION_PDT_1_80" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980103" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>223837</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Personne ne demande plus à voter ?…<br/>Le scrutin est clos.<br/>J’invite nos collègues qui ont été désignés comme scrutateurs au début de la séance à se rendre au cinquième bureau pour procéder au dépouillement.<br/>Le résultat du scrutin sera proclamé à seize heures cinquante.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="7" ordinal_prise="3" id_preparation="818902" ordre_absolu_seance="41" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="980156" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="7" ordinal_prise="3" id_preparation="818903" ordre_absolu_seance="42" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980157" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>223837</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="7" ordinal_prise="3" id_preparation="818904" ordre_absolu_seance="43" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980158" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à seize heures cinq, est reprise à seize heures cinquante</italique>
+            <italique>-cinq</italique>
+            <italique>.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="7" ordinal_prise="3" id_preparation="818905" ordre_absolu_seance="44" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980159" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>223837</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.<br/>Mes chers collègues, voici le résultat du scrutin pour l’élection du président de l’Assemblée nationale.<br/>Nombre de votants : 567<br/>Bulletins blancs ou nuls : 24<br/>Nombre de suffrages exprimés : 543<br/>Majorité absolue : 272<br/>Ont obtenu :<br/>M. François de Rugy : 353 voix <italique>(Mmes et MM. les députés </italique><italique>et </italique><italique>M. le secrétaire d’État chargé des relations avec le Parlement</italique><italique>, porte-parole du Gouvernement, </italique><italique>se lèvent et applaudissent longuement)</italique><br/>M. Jean-Charles Taugourdeau : 94 voix <italique>(Applaudissements)</italique><br/>Mme Laure de La Raudière : 34 voix <italique>(Applaudissements)</italique><br/>Mme Laurence Dumont : 32 voix <italique>(Applaudissements)</italique><br/>Mme Caroline Fiat : 30 voix <italique>(Applaudissements)</italique><br/>M. François de Rugy ayant obtenu la majorité absolue des suffrages exprimés, je le proclame président de l’Assemblée nationale et je l’invite à prendre place au fauteuil présidentiel. <italique>(Mmes et MM. les députés et M. le secrétaire d’État chargé des relations avec le Parlement se lèvent et applaudissent longuement.)</italique></texte>
+        </paragraphe>
+      </point>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="3" id_preparation="818907" ordre_absolu_seance="46" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="-1" id_nomination_op="PM725372" code_grammaire="CHGT_PRES_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980161" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(M. François de Rugy </italique>
+          <italique>prend place</italique>
+          <italique> au fauteuil </italique>
+          <italique>de la présidence</italique>
+          <italique>.)</italique>
+        </texte>
+      </paragraphe>
+      <changementPresidence valeur_ptsodj="7" ordinal_prise="3" id_preparation="818908" ordre_absolu_seance="47" id_acteur="PA223837" id_mandat="PM722458" id_nomination_oe="0" id_nomination_op="PM725372" code_grammaire="CHGT_PRES_2_2" code_style="Présidence" code_parole="" sommaire="1" id_syceron="980162" valeur="">
+        <orateurs/>
+        <texte>Présidence de M. François de Rugy</texte>
+      </changementPresidence>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="8" ordinal_prise="3" id_preparation="818910" ordre_absolu_seance="49" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="980164" valeur="">
+      <orateurs/>
+      <texte>Allocution de M. le président</texte>
+      <paragraphe valeur_ptsodj="8" ordinal_prise="3" id_preparation="818910" ordre_absolu_seance="50" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ANNONCE_CCATION_1_20" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="1020268" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le secrétaire d’État chargé des relations avec le Parlement, monsieur le doyen, mes chers collègues, je sais que beaucoup parmi vous partagent une émotion particulière, que j’ai éprouvée pour ma part il y a dix ans. Elle est de ces émotions que l’on n’oublie pas, celle de députés qui siègent pour la première fois dans cet hémicycle.<br/>Ici se sont écrites des pages essentielles de notre histoire ; ici se sont déroulés des débats passionnés ; ici ont résonné de grandes voix qui ont fait la démocratie française ; ici ont été prises des décisions qui ont forgé la France, son dynamisme économique, son système de solidarité, ses libertés publiques. Sachons nous inspirer du meilleur de ces lieux !<br/>Mais ne nous arrêtons pas à ces lieux. L’Assemblée nationale est plus riche de celles et ceux qui représentent la Nation que du cadre même de leurs travaux.<br/>Nous sommes, vous êtes, dans votre diversité de parcours, d’engagements, et de convictions, vous êtes ensemble la représentation nationale.<br/>En me portant à la présidence de notre Assemblée, vous ne me faites pas seulement un honneur insigne ; vous me confiez une responsabilité dont je mesure la charge et que je souhaite exercer parmi vous, avec vous.<br/>Car nous ne pouvons pas ignorer le défi particulier que nous devons relever. Pour la première fois dans l’histoire de la V<exposant>e</exposant><exposant/>République, nous avons été collectivement choisis par une minorité de Françaises et de Français. Cela n’entame en rien notre légitimité, votre légitimité à agir et à légiférer, car nul ne peut prétendre représenter ou porter la voix de celles et ceux qui n’ont pas participé aux dernières élections législatives. Mais cela vous confère, nous confère, une responsabilité particulière, celle de reconquérir une confiance que des décennies de crises économique et sociale et de crise de la représentation démocratique ont érodée.<br/>Restaurer la confiance dans l’efficacité de l’action et de la parole publiques : ce sera, en premier lieu, le rôle de la majorité qui devra mettre en œuvre le projet qu’elle a porté, tout en conservant en toutes circonstances le respect des oppositions et la volonté de construire des majorités plus larges pour avancer.<br/>Dans cet hémicycle profondément renouvelé – dans ses visages comme dans sa géographie politique –, la vérité ne siégera ni d’un côté ni de l’autre. Elle naîtra du débat et de la volonté d’agir pour les Françaises et les Français.<br/>Redonner confiance, ce sera obtenir des résultats. Mais ce sera également rétablir la confiance dans nos institutions, dans notre institution.<br/>Ma candidature reposait sur un projet que j’ai publiquement exposé. Ce projet, c’est celui d’une Assemblée nationale plus démocratique, plus efficace, plus moderne.<br/>Pour être plus démocratique, l’Assemblée devra être en premier lieu une enceinte dans laquelle on ne se contente pas de parler, mais où l’on apprend à s’écouter.<br/>Cet hémicycle ne doit pas être un lieu de provocations et d’anathèmes, ni un théâtre d’excès et de caricatures. Il faut de la sérénité, de la bienveillance, un esprit constructif et du respect dans les débats.<br/>L’Assemblée ne sera respectée que si elle est respectable dans ses comportements.<br/>Cette législature doit être aussi celle de la concrétisation de réformes démocratiques profondes, trop longtemps repoussées. Réduction du nombre de députés, introduction de la proportionnelle : ces engagements du projet présidentiel doivent être tenus.<br/>Ces réformes seront évidemment portées conjointement avec le Gouvernement d’Édouard Philippe, mais elles rencontreront un écho plus fort, et seront mieux comprises, si elles s’appuient sur une forte mobilisation des parlementaires. Pour les réaliser, il faudra une collaboration constructive entre le Gouvernement, le Sénat, et, ici, la majorité et les oppositions, afin de réunir le consensus le plus large possible.<br/>Il faut une Assemblée plus démocratique, mais aussi plus efficace.<br/>Les Français que nous rencontrons nous le disent souvent : ils ont le sentiment que le Parlement parle beaucoup, mais agit peu.<br/>Agir mieux, c’est d’abord agir plus vite. J’appelle donc tous les groupes de cette assemblée nouvelle à travailler à des modifications indispensables de la procédure parlementaire. Aujourd’hui, la procédure encourage l’enlisement et l’obstruction. Il faut favoriser la construction, garantir la concrétisation des réformes validées par les Françaises et les Français, mais aussi faciliter l’aboutissement d’initiatives parlementaires, qu’elles viennent de la majorité ou de l’opposition.<br/>Si certaines réformes nécessitent une révision de la Constitution – et le Président de la République s’y est engagé –, il est possible pour notre Assemblée de moderniser de son propre chef un certain nombre de procédures obsolètes : faisons-le !<br/>Mais les députés ne sont pas là seulement pour faire la loi. Ils ont pour rôle essentiel de contrôler l’action de l’État et du Gouvernement. Le Président de la République l’a souvent rappelé pendant ces derniers mois : il faut un Parlement qui contrôle vraiment.<br/>Contrôler efficacement, cela demandera notamment de conquérir de nouveaux pouvoirs d’enquête et d’accès aux documents administratifs et aux rapports d’inspection de l’administration. Cela exigera plus de moyens pour évaluer sur le terrain les politiques publiques.<br/>Fixons-nous l’objectif que chaque exercice d’évaluation donne lieu à des recommandations précises de modifications réglementaires ou législatives auxquelles le Gouvernement ou les commissions concernées seraient tenus de répondre.<br/>L’efficacité tiendra enfin à notre capacité à nous inspirer d’innovations mises en œuvre dans des parlements étrangers : facilitons les échanges de bonnes pratiques et les coopérations avec les parlements des pays membres de l’Union européenne.<br/>Nous avons tout à gagner à cette ouverture. Nos pratiques, mais aussi nos politiques pourront en bénéficier.<br/>Pour être plus démocratique et plus efficace, l’Assemblée devra enfin être plus moderne.<br/>Pour nos concitoyens, l’Assemblée est trop souvent le symbole de l’opacité, du secret et du règne de pratiques exceptionnelles ou dérogatoires. Il faut que notre institution entre pleinement dans la règle commune. Cette législature devra permettre d’instaurer l’égalité entre les citoyens et les parlementaires.<br/>Le projet de loi du Gouvernement va dans le bon sens et apporte des réponses trop longtemps différées. Mais il faudra aussi des décisions de notre Assemblée sur ses propres pratiques : retraite des parlementaires, protection sociale en fin de mandat, notes de frais, règles d’emploi et statut des collaborateurs parlementaires, immunité parlementaire… Remettons tout sur la table et garantissons l’égalité et la transparence.<br/>Avec vous, j’agirai pour conforter le rôle du déontologue de notre assemblée ; ses moyens de contrôle et son indépendance devront être renforcés. Cela éloignera le soupçon, et cela nous sécurisera, vous sécurisera, car des règles insuffisamment claires compliquent l’exercice du mandat et ouvrent la voie aux fantasmes et à l’antiparlementarisme.<br/>La modernité se trouvera aussi dans l’ouverture sur la société. D’abord en menant à bien, ici, la révolution numérique : c’est un enjeu essentiel pour permettre aux citoyens d’intervenir dans la fabrique de la loi, de suivre les débats, d’inspirer des propositions de lois, et d’enrichir le contrôle et l’évaluation des politiques publiques.<br/>Mais si le numérique peut apporter beaucoup, il n’est pas tout. Il faudra également que notre institution aille à la rencontre des citoyens, au travers de conférences parlementaires de territoires, associant les députés locaux, des présidents de commissions et le président de l’Assemblée nationale. Ces conférences pourraient s’étaler sur toute la durée de la législature afin de couvrir l’ensemble des territoires, de métropole et des outre-mer.<br/>Notre ambition ne doit pas seulement être de rendre notre institution plus transparente. Elle doit être également de la faire rayonner et de la rendre attractive.<br/>La modernité passe enfin par la mise en œuvre des principes du développement durable dans le fonctionnement et la gestion de l’Assemblée nationale.<br/>Mes chers collègues, cette législature est celle du renouvellement profond des députés. Je le constate en parcourant des yeux les travées : tant de nouveaux visages, qui disent la féminisation, le rajeunissement, la diversité…<br/>Cette législature est également celle d’une recomposition politique radicale – nous le constaterons lorsque vous siégerez sur ces bancs au sein de vos groupes respectifs.<br/>Mais cette législature doit être celle de la préparation d’une autre révolution, aussi indispensable que les deux précédentes, celle d’une meilleure représentativité sociologique. Nous devrons donc, ensemble, avancer dans l’élaboration d’un statut de l’élu qui facilite l’accès de chacune et de chacun, quelle que soit sa classe sociale, à la fonction de député.<br/>Voilà, mes chers collègues, en quelques mots, le projet que j’ai présenté d’abord à mes collègues du groupe majoritaire. C’est ce projet qui me conduit ici aujourd’hui, c’est ce projet qui m’engage, c’est ce projet que je partage désormais avec vous, et que j’entends mener à bien avec vous.<br/>Je parlais tout à l’heure de la mémoire des lieux. Il y a aussi celle des hommes. Je tenterai de m’inspirer de mes prédécesseurs dans cette fonction que vous me confiez aujourd’hui : la bienveillance qui n’empêchait pas la rigueur de Jacques Chaban-Delmas ou de Claude Bartolone, la volonté de réformer de Jean-Louis Debré ou de Laurent Fabius, la fidélité au projet présidentiel de Louis Mermaz, ou encore l’humanité si particulière de Philippe Séguin ou d’Henri Emmanuelli. Oui, de tout cela je tenterai de m’inspirer, parce que nous savons tous qu’il n’y a pas d’imagination sans mémoire.<br/>C’est précisément à la mémoire que je voudrais consacrer mes derniers mots, plus personnels si vous le voulez bien.<br/>Tout d’abord, je tiens à saluer la mémoire de Corinne Erhel qui aurait pu, qui aurait dû, siéger dans notre assemblée si elle n’avait été foudroyée, en pleine campagne électorale, en mai dernier. J’étais à ses côtés, et je pense à elle, comme beaucoup d’entre vous.<br/>En ce moment si particulier dans une vie publique, j’ai aussi une pensée pour les miens, pour les valeurs que m’ont transmises mes parents et mes grands-parents. Directement victimes de la Seconde Guerre mondiale, ils m’ont transmis un engagement européen profond qui me rend fier de siéger, face à vous, devant ce drapeau européen.<br/>Le président Accoyer avait eu la judicieuse idée d’installer ce symbole d’une paix durable dans notre hémicycle : il y a toute sa place, aux côtés de nos couleurs nationales. <italique>(Applaudissements.)</italique><br/>Je n’oublie pas le goût pour la diversité régionale que mes parents m’ont transmis. De la Bretagne à la Lorraine, de la Corse à l’Alsace…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="8" ordinal_prise="4" id_preparation="818953" ordre_absolu_seance="92" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980208" valeur=".">
+        <orateurs>
+          <orateur>
+            <nom>Un député</nom>
+            <id>0</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Bravo !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="8" ordinal_prise="4" id_preparation="818954" ordre_absolu_seance="93" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980209" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>...de la métropole aux outre-mer <italique>(Applaudissements)</italique>, nous sommes ici les représentants de cette diversité qui fait la richesse de la France.<br/>Je pense enfin, comme, je l’imagine, beaucoup d’entre vous, à mes enfants. C’est finalement pour eux, pour l’avenir des générations qui viennent, que nous sommes toutes et tous ici engagés.<br/>Puissions-nous leur transmettre, à notre tour, une République préservée, une démocratie vivante et respectueuse d’autrui, et une Assemblée nationale renouvelée dans ses pratiques.<br/>Vive la République ! Vive la France ! <italique>(Mmes et MM. les députés et M. le secrétaire d’État chargé des relations avec le Parlement se lèvent et applaudissent longuement.)</italique></texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="9" ordinal_prise="4" id_preparation="818959" ordre_absolu_seance="98" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="980214" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="9" ordinal_prise="4" id_preparation="818960" ordre_absolu_seance="99" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="980215" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mercredi 28 juin à quinze heures :<br/>Nomination, éventuellement par scrutin, des six vice-présidents, des trois questeurs, des douze secrétaires ;<br/>Installation du Bureau.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="9" ordinal_prise="4" id_preparation="818964" ordre_absolu_seance="103" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980219" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à </italique>
+            <italique>dix-sept </italique>
+            <italique>heures quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="9" ordinal_prise="4" id_preparation="818964" ordre_absolu_seance="103" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="980219" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>La Directrice du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Catherine Joly</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

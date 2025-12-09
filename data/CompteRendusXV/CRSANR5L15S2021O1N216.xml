@@ -1,0 +1,998 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N216</uid>
+  <seanceRef>RUANR5L15S2021IDS23999</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210325210000000</dateSeance>
+    <dateSeanceJour>jeudi 25 mars 2021</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>216</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210216</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-03-28T19:33:24.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2459847">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2459851">
+          <intitule>Lutte contre les individus violents lors de manifestations</intitule>
+        </titreStruct>
+        <para id_syceron="2459852"/>
+        <sommaire2>
+          <titreStruct id_syceron="2459854">
+            <intitule>Discussion générale <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <para id_syceron="2459856">Mme Danièle Obono</para>
+          <para id_syceron="2459867">M. Stéphane Peu</para>
+          <para id_syceron="2459878">M. Pacôme Rupin</para>
+          <para id_syceron="2459888">M. Antoine Savignat</para>
+          <para id_syceron="2459897">Mme Maud Petit</para>
+          <para id_syceron="2459905">Mme Michèle Victory</para>
+          <para id_syceron="2459914">Mme Agnès Firmin Le Bodo</para>
+          <para id_syceron="2459923">Mme Emmanuelle Ménard</para>
+          <para id_syceron="2459932">M. Pascal Brindeau, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2459938">
+            <intitule>Discussion des articles</intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="2459940">
+              <intitule>Article unique</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2459941"> 23</lienAdt></para>
+            <para id_syceron="2459960">Mme Marlène Schiappa, ministre déléguée chargée de la citoyenneté</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2460045">
+              <intitule>
+                <italique>Rappel au règlemen</italique>
+                <italique>t</italique>
+              </intitule>
+            </titreStruct>
+            <para id_syceron="2460047">M. Sacha Houlié</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2460053">
+              <intitule>Article unique <italique>(suite)</italique></intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="2460058">
+              <intitule>Après l’article unique</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="2460059"> 19</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2460071">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du jeudi 25 mars 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1842011" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2459847" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1842012" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459848" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1842013" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2459849" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842015" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2459851" valeur=" (n[[o]] 3848)">
+      <orateurs/>
+      <texte>Lutte contre les individus violents lors de manifestations</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842016" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2459852" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’une proposition de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842017" ordre_absolu_seance="7" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459853" valeur=" (n[[os]] 3848, 3990)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la proposition de loi visant à lutter contre les individus violents lors de manifestations (n<exposant>os</exposant> 3848, 3990).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842018" ordre_absolu_seance="8" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2459854" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale <italique>(suite)</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842019" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459855" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Cet après-midi, l’Assemblée a commencé d’entendre les orateurs inscrits dans la discussion générale.<br/>La parole est à Mme Danièle Obono.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842020" ordre_absolu_seance="10" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2459856" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Danièle Obono</nom>
+            <acteurRef>PA721960</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La présente proposition de loi, composée d’un article unique, a pour but de « contribuer à la lutte contre ces scènes de guérillas urbaines en interdisant […] aux personnes les plus violentes de participer à des manifestations ». Elle crée dans le code de la sécurité intérieure des interdictions administratives à l’encontre des individus violents que les forces de l’ordre n’ont pas réussi à appréhender ou qui n’ont pas encore été jugés. L’exposé des motifs indique, par ailleurs, que les dispositions proposées « s’inspirent de l’article 3 de la loi » anti-manifestants d’avril 2019, loi qui a été dénoncée comme liberticide par nombre de défenseurs et de défenseuses des droits et des libertés, et dont ce fameux article 3 a été censuré par le Conseil constitutionnel.<br/>Nous sommes résolument contre ce texte. Les nouvelles mesures administratives qu’il contient, fondées sur la suspicion et dont la violation aboutit à des sanctions pénales, ce qui constitue un renversement de la charge de la preuve, sont inutiles et dangereuses. Elles portent atteinte aux droits et aux libertés fondamentaux, constitutionnels, de manifester et de s’exprimer.<br/>Elles s’inscrivent surtout dans la droite ligne de la dérive autoritaire que connaît le régime macroniste depuis trois ans. En effet, depuis son élection en 2017, Emmanuel Macron accompagne son projet de destruction de l’État social d’une restriction de plus en plus affichée des libertés individuelles et des moyens du débat démocratique pluraliste. Dans tous les domaines, les pires tendances de ses prédécesseurs ont été aggravées : immigration, justice, police, encadrement du droit de manifester, censure sur internet, surenchère sous prétexte d’antiterrorisme et désormais de crise sanitaire, et ainsi de suite. Du point de vue législatif et réglementaire, ce quinquennat est probablement le pire concernant les libertés publiques et individuelles.<br/>Au total, c’est tout le régime républicain de la liberté qui ressort abîmé de ce mandat. Ce texte poursuit en particulier le mouvement entamé par le Gouvernement et la majorité consistant à abolir les grands principes du droit pénal. Je voudrais revenir sur trois d’entre eux : la légalité des délits et des peines, la nécessité et la présomption d’innocence.<br/>Le principe de légalité des délits et des peines implique que les lois doivent définir de manière claire et précise les incriminations et les peines. Or l’ensemble des infractions déjà introduites par la majorité étaient précisément des infractions floues et générales, laissant un pouvoir discrétionnaire aux forces de l’ordre. La présente proposition de loi est également contraire à ce principe, car elle laisse aux préfets le même pouvoir décisionnaire de déterminer les agissements et les actes violents fondant l’interdiction. Elle laisse place à un arbitraire policier et préfectoral encore plus fort.<br/>S’agissant de la nécessité des délits et des peines, rappelons que l’article 8 de la Déclaration des droits de l’homme et du citoyen stipule que « la loi ne doit établir que des peines strictement et évidemment nécessaires », afin d’exclure l’arbitraire. Or l’ensemble des dispositions déjà introduites en 2019, les lois précédemment promulguées ainsi que la présente proposition de loi laissent à nouveau place à l’arbitraire, comme je l’ai déjà dit, d’autant qu’il existait déjà dans le code pénal, préalablement à 2019, un arsenal répressif permettant de condamner les violences commises par des individus dans les manifestations. En conséquence, l’introduction de nouvelles infractions, visant à incriminer des comportements qui ne sont pas en soi répréhensibles, ne sert qu’à masquer une forme d’incompétence du pouvoir politique et l’incurie des ordres qui sont donnés à l’appareil policier dans les cas de désordres survenus lors des mobilisations.<br/>Enfin, le recours aux interdictions administratives est une manière détournée de vider de sa substance le principe de présomption d’innocence. En droit pénal, une personne est présumée innocente jusqu’à ce que la preuve de la commission d’une infraction ait été apportée. On ne peut pas restreindre les libertés d’une personne au motif que l’on suppose qu’elle va commettre une infraction. Or c’est précisément ce que fait cette proposition de loi, là encore dans la droite ligne de tout ce qui a été voté par cette assemblée et défendu par ce gouvernement. D’ailleurs, les collègues du groupe UDI et indépendants expliquaient s’inscrire pleinement dans la logique du Gouvernement et aller au bout de celle-ci.<br/>Il faut mettre fin à l’escalade sécuritaire et liberticide qui voit notre pays être critiqué et condamné par toutes les instances nationales et internationales de défense des droits humains et des libertés civiles, tout en étant pris en exemple, en revanche, par nombre de régimes autoritaires. Si nous sommes désormais placés dans la catégorie des « démocraties défaillantes » dans les classements internationaux, c’est en raison autant des restrictions de libertés entreprises sous la crise sanitaire que des reculs auxquels a procédé par ailleurs le Gouvernement.<br/>La République ne peut être autre chose qu’un régime de liberté. En poursuivant dans ce sens, le Gouvernement, la majorité et, désormais, cette proposition de loi, vont à l’encontre de nos principes fondamentaux. Il faut non seulement rejeter ce texte mais remettre en cause l’ensemble des politiques qui ont été amorcées et vont dans le même sens. C’est ce à quoi nous nous attellerons lorsque nous serons au pouvoir.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Stéphane Peu" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842030" ordre_absolu_seance="19" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459866" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842031" ordre_absolu_seance="20" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459867" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <acteurRef>PA721270</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est avec un certain étonnement que nous avons pris connaissance de la proposition de loi présentée par nos collègues du groupe UDI-I, car nous trouvions étrange d’entamer une réflexion pertinente sur les manières de lutter contre les discriminations lors des contrôles d’identité, même si la proposition a finalement été retirée de la niche UDI-I, et de défendre, en même temps, un texte visant à instaurer l’interdiction administrative de manifester. Quel besoin avez-vous donc de venir ainsi au secours de M. Retailleau, le promoteur de cette très mauvaise idée que vous reprenez à votre compte ? C’est un mystère que vous éclaircirez peut-être : quoi qu’il en soit, il ne fait aucun doute que la présente proposition de loi est rigoureusement incompatible avec les valeurs que défendent les députés communistes.<br/>En effet, nous refusons qu’une décision de nature judiciaire soit confiée au pouvoir administratif. Aujourd’hui, l’interdiction individuelle de manifester est possible, mais elle ne peut être décidée que par le juge pénal à l’encontre de personnes coupables de violences, de destructions, de dégradations ou de détériorations. Si la proposition de loi devait être adoptée, l’interdiction de manifester deviendrait une mesure administrative préventive, prise sur le fondement de suspicions et de manière parfaitement discrétionnaire.<br/>Il serait alors tout à fait loisible à un préfet de police de prononcer des arrêtés concernant des militants politiques ou syndicaux, et le comportement de Didier Lallement, le préfet de police de Paris, n’est pas pour nous rassurer sur ce point. À le voir interpeller une manifestante gilet jaune de soixante ans tout à fait pacifique pour lui dire qu’ils ne sont « pas dans le même camp », on se dit que sa conception de la République est inquiétante. Un tel comportement ne nous rassure pas quant aux pouvoirs que la proposition de loi, si elle devait être votée, donnerait aux préfets.<br/>Nous nous opposons tout autant à une énième tentative d’inscription dans le droit commun d’une mesure d’exception – c’est une tendance lourde, dangereuse pour notre démocratie, et qui constituerait, dans le cas présent, une grave entrave à la liberté de manifester, droit fondamental consacré comme tel par la Constitution et la jurisprudence.<br/>C’est d’ailleurs pour cette raison que le Conseil constitutionnel, saisi à la demande des groupes GDR, Socialistes et apparentés et La France insoumise, ainsi que par le Président de la République lui-même, à la suite de l’adoption de la proposition de loi de M. Retailleau visant à renforcer et garantir le maintien de l’ordre public lors des manifestations, a retoqué le dispositif prévu dans son article 3, parce qu’il portait « au droit d’expression collective des idées et des opinions une atteinte qui n’est pas adaptée, nécessaire et proportionnée. » Ce constat vaut également pour la discussion qui nous occupe aujourd’hui, et ce malgré les petits accommodements que vous avez bien voulu concéder s’agissant d’une mesure par nature incompatible avec notre régime démocratique.<br/>En réalité, les moyens de lutter contre les black blocs et les groupuscules violents sont à chercher ailleurs : il faut que ce soit un communiste qui vous le dise, puisque, à l’évidence, ces fameux black blocs sont systématiquement épargnés, à croire qu’ils sont en réalité les meilleurs alliés d’un ordre social injuste. Pourquoi ne donne-t-on pas aux policiers l’ordre de les arrêter, puisque ces groupuscules sont parfaitement connus des autorités ? On voudrait discréditer les mouvements sociaux et effrayer les citoyens pacifiques souhaitant se joindre aux cortèges paisibles des manifestants qu’on ne s’y prendrait pas autrement.<br/>Quoi qu’il en soit, la police et les autorités compétentes disposent de tous les moyens nécessaires pour arrêter ces groupes violents. La présente proposition de loi, en sus d’être dangereuse pour nos libertés, n’est donc d’aucune utilité. S’il convient de réformer profondément notre gestion du maintien de l’ordre, c’est que le temps où notre pays pouvait se targuer d’un certain savoir-faire en la matière est désormais loin derrière nous. La gestion des manifestations de gilets jaunes illustre ainsi une rupture de la doctrine du maintien de l’ordre qui a conduit à de nombreux dérapages, à des violences et à des blessés graves, exacerbant semaine après semaine la tension au lieu de l’atténuer, situation que le recours systématique à des effectifs de policiers non formés a bien évidemment encore aggravée.<br/>Mes chers collègues, le maintien de l’ordre doit redevenir ce qu’il était et permettre l’exercice des libertés publiques dans le respect de l’ordre public, constitutif de la démocratie. Il nécessite un strict équilibre entre ces deux exigences, afin que le droit de manifester puisse s’exercer convenablement. C’est ainsi que les violents seront marginalisés et que les principales victimes des violences, qui sont – ne l’oubliez jamais – les manifestants eux-mêmes, pourront exercer leur droit légitime.<br/>La présente proposition de loi, porteuse de mesures arbitraires et discrétionnaires, ne permet nullement de garantir de nouveau cette liberté : c’est pourquoi nous voterons contre.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pacôme Rupin" id_acteur="PA721616" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723334">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842041" ordre_absolu_seance="29" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459877" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pacôme Rupin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842042" ordre_absolu_seance="30" id_acteur="PA721616" id_mandat="PM723334" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459878" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pacôme Rupin</nom>
+              <acteurRef>PA721616</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis plusieurs années, les manifestations donnent lieu à de nombreux délits, violences sur les personnes, dégradations de monuments ou de commerces, affrontements avec les forces de l’ordre, et le procès qui se tient actuellement pour les dégradations inacceptables de l’Arc de triomphe en décembre 2018 nous rappelle ce phénomène qui dure maintenant depuis plusieurs années. Outre ces dérapages, on constate que les manifestations sont de plus en plus imprévisibles et sont moins structurées que par le passé. Tout cela ne facilite ni le maintien de l’ordre ni l’exercice du droit effectif de manifester.<br/>Ces délits, nous le savons, sont le fait d’une petite minorité d’individus violents. Plus qu’à revendiquer ou à débattre, ils cherchent le chaos, ainsi qu’à entraîner avec eux des personnes pacifiques en déclenchant la violence. C’est bien la majorité des manifestants, qui veulent exprimer leurs idées et exercer leur liberté d’expression dans le calme, qui sont les premières victimes de ces agissements. Le phénomène des black blocs illustre bien cette spoliation des causes. Ces violences privent d’une certaine manière nos concitoyens de leur liberté de manifester, ce qui est grave.<br/>En tant que député de Paris, dont la circonscription couvre l’axe République-Bastille, je sais combien ces événements exaspèrent les riverains qui ont peur, les commerçants, dont les vitrines sont régulièrement saccagées, ainsi que les nombreux citoyens qui manifestent en respectant les règles et ont le sentiment de ne plus pouvoir s’exprimer comme ils le souhaitent.<br/>Notre majorité a toujours tenté de préserver un équilibre entre garantir, d’une part, le droit de manifester, qui découle directement de la Déclaration des droits de l’homme et du citoyen et, d’autre part, l’ordre public et la protection des forces de l’ordre. Ce travail est également mené par nos forces de sécurité à travers le livre blanc de la sécurité intérieure ou le Beauvau de la sécurité. Il s’agit, d’un côté, de mieux prévenir la constitution de groupes violents, d’isoler et de judiciariser les fauteurs de trouble ; de l’autre, de renforcer la médiation et le dialogue avec les manifestants et les organisateurs, pour les protéger et préserver leur liberté d’expression.<br/>Le texte du groupe UDI-I, défendu par le rapporteur Pascal Brindeau, vise à créer une interdiction administrative de manifester : concrètement, si une personne constituait une menace grave caractérisée par des agissements passés, le préfet pourrait prononcer cette interdiction par arrêté motivé pour une manifestation sur la voie publique ou pour toute manifestation sur le territoire pendant dix jours.<br/>Cette disposition reprend l’article 3 de la loi du 10 avril 2019, dite anticasseurs, proposée au Sénat par M. Retailleau et adoptée par l’Assemblée nationale. Le Conseil constitutionnel a censuré cet article, considérant qu’il laissait à l’autorité administrative une latitude excessive dans l’appréciation des motifs susceptibles de justifier l’interdiction. L’atteinte à la liberté de manifester a été jugée disproportionnée, compte tenu de la portée de l’interdiction contestée, des motifs susceptibles de la justifier et des conditions de sa contestation.<br/>Si nous pouvons saluer le travail du rapporteur, qui a tenté de tenir compte des réserves du Conseil constitutionnel, cependant, nous pensons que l’équilibre proposé entre préservation de l’ordre public et liberté de manifester reste incertain. Partagée par de nombreux groupes, cette inquiétude a motivé le rejet du texte par la commission des lois.<br/>À ce stade, il nous semble nécessaire de prendre du recul et d’analyser les effets de la loi de 2019, qui donne déjà des leviers importants au juge judiciaire, garant des libertés individuelles. L’article 7 lui permet de prononcer une peine d’interdiction de participer à des manifestations sur la voie publique, ne pouvant excéder une durée de trois ans. L’article 8 permet d’interdire à une personne placée sous contrôle judiciaire de participer à des manifestations sur la voie publique, dans des lieux déterminés par le juge d’instruction ou le juge des libertés et de la détention – JLD.<br/>Avant de légiférer de nouveau, voyons si ces mesures sont efficaces et tenons compte de l’avis du Conseil constitutionnel. Cela ne doit pas être un argument pour nous, je vous l’accorde, mais nous avons déjà légiféré sur ce sujet en prenant un risque de censure. Et ce risque s’est concrétisé. C’est pourquoi, tout en partageant votre volonté de lutter contre les violences commises lors des manifestations, le groupe La République en marche tiendra compte de cette décision du Conseil constitutionnel en votant contre ce texte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Antoine Savignat" id_acteur="PA748954" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM748958">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842141" ordre_absolu_seance="39" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459887" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Antoine Savignat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842142" ordre_absolu_seance="40" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459888" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Savignat</nom>
+              <acteurRef>PA748954</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La présente proposition de loi vise à lutter contre les individus violents lors des manifestations, sujet ô combien important et d’actualité : ces derniers temps, nous avons observé une montée des violences pendant les manifestations en France, commises par des individus qui agressent les forces de l’ordre, brûlent le mobilier urbain et pillent les commerces qui ont le malheur de se trouver sur le parcours des cortèges.<br/>Ces destructions et affrontements sont devenus quasi systématiques et relèguent désormais au second plan les revendications des manifestants pacifiques. Prenons l’exemple des black blocs, dont le mode opératoire vise à causer le plus de dégâts possible et qui ont laissé plusieurs fois derrière eux des paysages de désolation, notamment lors des manifestations du 1<exposant>er</exposant> mai, contre la loi travail ou de celles des gilets jaunes, et beaucoup d’autres encore.<br/>Ce constat revient à chaque manifestation depuis le quinquennat de François Hollande. Le Gouvernement et la majorité ne semblent pas à l’aise sur ces questions, pourtant de bon sens, pour garantir la sécurité et l’ordre public. La liberté de manifester et la liberté d’expression ne permettent pas tout. Agresser un fonctionnaire de police ou de gendarmerie n’est pas faire usage de sa liberté de manifester. Brûler un abribus ou un engin de chantier n’est pas faire usage de sa liberté d’expression, pas plus que piller un magasin ou saccager un lieu public. C’est de la violence pure et dure, il faut le rappeler.<br/>Le rôle de l’État est de tout faire pour l’empêcher et garantir, ainsi, le droit à manifester et la liberté d’expression. Depuis les manifestations sur la loi travail, les médias n’ont plus qu’un seul axe d’information lorsqu’il s’agit de couvrir une manifestation : le nombre de dégradations et d’interpellations. Or cela contrevient aux intérêts des manifestants, dont les revendications ne sont plus reprises ou seulement de manière anecdotique. De plus, la sécurité des manifestants pacifiques est mise en danger par les agissements des individus violents, dont le seul but est de casser et de défier les forces de l’ordre. Voter en faveur de ces mesures, c’est lutter contre les violences commises pendant les manifestations et s’engager pour le droit de manifester et la liberté d’expression.<br/>Il était en effet urgent d’agir pour que les casseurs et des pilleurs n’aient pas les mains libres. Le groupe Les Républicains l’avait fait en 2018, en déposant au Sénat une proposition de loi sur le sujet, qui a été adoptée. Cependant, avant son entrée en vigueur l’année suivante, le Conseil constitutionnel a décidé de la censurer partiellement. Elle visait pourtant à renforcer et à garantir le maintien de l’ordre public lors des manifestations, en donnant aux autorités des instruments légaux pour mettre les casseurs et les agresseurs des forces de l’ordre hors d’état de nuire.<br/>Le texte adopté par le Parlement donnait au préfet la capacité d’interdire de manifestation une personne constituant une menace pour l’ordre public, pouvant s’étendre à tout le territoire national. C’est cette disposition que le Conseil constitutionnel a décidé de censurer, jugeant que le législateur portait au droit d’expression collective des idées et des opinions une atteinte qui n’était « pas adaptée, nécessaire et proportionnée ».<br/>Afin de répondre à cette censure, le groupe UDI-I de l’Assemblée nationale a déposé la proposition de loi que nous étudions ce soir. Elle vise à lutter contre les individus violents lors des manifestations, en introduisant la possibilité d’une interdiction pour ces derniers de participer à une ou plusieurs manifestations. Les personnes constituant des menaces particulièrement graves pour l’ordre public, et dont les agissements ont conduit à des violences ou à des dégradations, pourront se voir interdire, par un arrêté motivé du préfet ou du préfet de police de Paris, de participer à une manifestation au cours de laquelle de telles atteintes et dommages sont susceptibles d’avoir lieu. Ces personnes pourront également se voir interdire de prendre part à toute manifestation sur l’ensemble du territoire national pour une durée ne pouvant pas excéder dix jours. Le non-respect de ces interdictions sera puni de trois ans d’emprisonnement et de 7 500 euros d’amende.<br/>Nous voterons pour cette proposition de loi de nos collègues du groupe UDI-I, qui reprend la volonté et le dispositif de la loi dite anticasseurs de nos collègues sénateurs, tout en nous étonnant que le Gouvernement et la majorité ne souhaitent pas rendre opérationnel un dispositif qu’ils avaient eux-mêmes inscrit à l’ordre du jour.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Maud Petit" id_acteur="PA721234" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723210">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842150" ordre_absolu_seance="48" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459896" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Maud Petit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842151" ordre_absolu_seance="49" id_acteur="PA721234" id_mandat="PM723210" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459897" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Petit</nom>
+              <acteurRef>PA721234</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis le début de la semaine, dix personnes sont jugées pour des dégradations et des vols commis dans l’Arc de triomphe, il y a deux ans, à l’issue d’une manifestation de gilets jaunes. Nous avons tous en tête les images de ces saccages, de ces violences inacceptables et choquantes ; nous nous souvenons de notre sidération devant ces débordements. Les casseurs sont un fléau : ils portent une atteinte considérable à la liberté de manifester, liberté fondamentale à laquelle le groupe Mouvement démocrate (MODEM) et démocrates apparentés est viscéralement attaché. Ces groupuscules violents, qui ne sont pas représentatifs de la majorité des manifestants, nuisent à l’ordre public ainsi qu’à la sécurité des personnes et des biens.<br/>C’est pourquoi nous comprenons votre démarche, monsieur le rapporteur, que traduit votre proposition de loi. Notre groupe considère cependant qu’il faut laisser à notre arsenal juridique en vigueur le temps de porter ses fruits. La loi du 10 avril 2019 donne déjà aux autorités des instruments légaux pour mettre hors d’état de nuire ceux qui cassent et agressent les forces de l’ordre lors des manifestations.<br/>L’autorité judiciaire, gardienne des libertés individuelles, a des moyens d’action qui nous permettent de préserver un juste équilibre entre liberté de manifester et sécurité. Il ne nous paraît donc pas pertinent de légiférer de nouveau pour mettre en place une interdiction administrative de manifester à l’encontre de personnes pouvant constituer une menace d’une particulière gravité pour l’ordre public, à l’occasion d’une manifestation sur la voie publique.<br/>Nous sommes d’accord avec votre constat, monsieur le rapporteur : certains mouvements de protestation sont infiltrés par les black blocs, qui n’ont d’autre objectif que de casser et d’affronter les forces de l’ordre, parfois avec une violence inouïe. Ces éléments radicaux, qui n’ont pas leur place dans ces manifestations, provoquent malheureusement des scènes quasi insurrectionnelles, des sortes de jacqueries, qui donnent lieu à des appels à la haine et des violences inadmissibles envers les forces de l’ordre, les journalistes, des élus et parfois même des manifestants. Ces violences s’accompagnent de nombreuses dégradations et destructions de commerces, de véhicules et d’équipements publics, dont le coût est supporté par la collectivité.<br/>Dans ces conditions difficiles, les forces de l’ordre, qui doivent déjà assurer la sécurité des Français au quotidien et faire face à la menace terroriste toujours présente, interviennent avec courage et professionnalisme. Nous devons donc leur permettre d’agir en assurant le plus possible leur sécurité, ce qui passe par un renforcement de leurs moyens humains et financiers.<br/>La proposition de loi du sénateur Bruno Retailleau, devenue la loi du 10 avril 2019, dite anticasseurs, prévoyait déjà la disposition qui nous est soumise aujourd’hui pour lutter contre cette violence, mais elle a été censurée par le Conseil constitutionnel. Certes, vous avez tenu compte de ses observations : votre rédaction est plus respectueuse de notre loi fondamentale. Cependant, comme en 2019, notre groupe veille particulièrement à ce que de telles mesures puissent garantir les libertés publiques tout en préservant l’ordre public. Craignant qu’elle n’atteigne pas cet équilibre indispensable à notre État de droit, il ne votera pas pour cette proposition de loi.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle Victory" id_acteur="PA340357" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM747435">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842158" ordre_absolu_seance="55" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459904" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle Victory.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842159" ordre_absolu_seance="56" id_acteur="PA340357" id_mandat="PM747435" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459905" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Victory</nom>
+              <acteurRef>PA340357</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce texte vise à donner aux préfets la possibilité d’interdire de manifestation des personnes considérées comme des menaces pour l’ordre public, en considération de leurs agissements ou de la commission d’actes violents. Cette proposition de loi reprend ainsi le contenu de la loi dite anticasseurs, adoptée en 2019 et censurée en partie par le Conseil constitutionnel.<br/>En reprenant quasiment à l’identique le contenu de la loi de 2019, ce texte encourt les mêmes critiques que celles qui avaient valu la censure du Conseil constitutionnel. Dans sa décision du 4 avril 2019, il a en particulier rappelé, sur la base de l’article 11 de la Déclaration de 1789 : « La liberté d’expression et de communication, dont découle le droit d’expression collective des idées et des opinions, est d’autant plus précieuse que son exercice est une condition de la démocratie et l’une des garanties du respect des autres droits et libertés. Il s’ensuit que les atteintes portées à l’exercice de cette liberté et de ce droit doivent être nécessaires, adaptées et proportionnées à l’objectif poursuivi. »<br/>Comme cela a été maintes fois rappelé en 2019 dans le cadre des débats au sein de notre assemblée, une telle atteinte à une liberté fondamentale ne pourrait être décidée que par le juge judiciaire avec toutes les garanties juridiques qu’il représente, et en aucun cas par une autorité administrative. Notre tradition juridique interdit que l’on place une liberté fondamentale entre les mains de l’administration et, encore moins, sur la base de critères si flous que l’arbitraire ne pourrait être évité.<br/>Comme dans la proposition de loi présentée par le groupe UDI-I, la loi censurée de 2019 visait « des agissements ou des actes violents », alors que la notion d’agissement est particulièrement floue. L’interdiction pouvait ainsi être prononcée sur le fondement de tout agissement, que celui-ci ait ou non un lien avec la commission de violences. En outre, tout comportement, quelle que soit son ancienneté, pouvait justifier le prononcé d’une interdiction de manifester. Enfin, lorsqu’une manifestation sur la voie publique n’avait pas fait l’objet d’une déclaration ou que cette déclaration avait été tardive, l’arrêté d’interdiction de manifester était exécutoire d’office et pouvait être notifié à tout moment à la personne, y compris au cours de la manifestation à laquelle il s’appliquait.<br/>Pour toutes ces raisons, le Conseil constitutionnel a donc jugé que, compte tenu de la portée de l’interdiction contestée, des motifs susceptibles de la justifier et des conditions de sa contestation, le législateur avait porté au droit d’expression collective des idées et des opinions une atteinte qui n’était pas adaptée, nécessaire et proportionnée. Les mêmes causes produisant les mêmes effets, cette proposition de loi, si elle était adoptée, encourrait la même censure. Les membres du groupe Socialistes et apparentés, qui ont participé à la rédaction du recours contre la loi de 2019 et contribué à la saisine du Conseil constitutionnel avec les autres groupes de la gauche, s’opposeront logiquement à ce texte.<br/> <br/>Notre arsenal législatif, cela est souvent rappelé dans cet hémicycle, regorge de textes qui, à chaque fois, surenchérissent par rapport aux précédents et tentent de répondre dans l’instant et l’émotion à des événements, non à de véritables questions – comme celle des conditions satisfaisantes du maintien de l’ordre, qui mérite la définition d’une stratégie comprise et acceptée par tous, donc fondée sur la confiance.<br/>Au moment où nos libertés individuelles et collectives sont de plus en plus bridées pour tenter de trouver une issue à la crise sanitaire incroyable qui nous asphyxie et nous inquiète chaque jour un peu plus, cette proposition est particulièrement mal venue. Si l’ultraviolence interroge fortement les démocrates que nous sommes et si, comme vous, nous la dénonçons, nous ne voyons pas dans ce texte de moyens spécifiques de la combattre sur le fond ni les moyens de mieux soutenir nos forces de l’ordre et, par la même occasion, les manifestants pacifiques.<br/>Par contre, l’urgence dans laquelle nous nous trouvons ne peut conduire à porter une nouvelle fois atteinte, et sous quelque prétexte que ce soit, à la liberté de manifester et à l’expression collective à laquelle la société française est particulièrement attachée. Pour toutes ces raisons, le groupe Socialistes et apparentés votera contre ce texte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Firmin Le Bodo" id_acteur="PA267780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723504">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842234" ordre_absolu_seance="64" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459913" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Agnès Firmin Le Bodo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842235" ordre_absolu_seance="65" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459914" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Firmin Le Bodo</nom>
+              <acteurRef>PA267780</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avant d’aborder le contenu de cette proposition de loi, je souhaite rappeler, notamment pour les citoyens qui nous écoutent et nous regardent, la législation en vigueur en matière d’interdiction de manifester. La liberté de manifestation n’est pas garantie par la Constitution mais par une importante décision du Conseil constitutionnel du 18 janvier 1995, qui a consacré un droit d’expression collective des idées et des opinions. La liberté de manifestation est ainsi une liberté fondamentale, adossée notamment aux articles 10 et 11 de la Déclaration des droits de l’homme et du citoyen de 1789, qui indiquent que toute personne a droit à la liberté de réunion pacifique et à la liberté d’association.<br/>Parallèlement, cette liberté est soumise à un régime de déclaration. Si l’autorité investie des pouvoirs de police estime que la manifestation projetée est de nature à troubler l’ordre public, elle peut l’interdire par un arrêté qu’elle notifie immédiatement aux organisateurs. Les mesures de police prises à ce titre font toutefois l’objet d’un contrôle juridictionnel poussé de la part du juge de l’excès de pouvoir, qui s’assure au cas par cas de ce que l’atteinte aux libertés est nécessaire, adaptée et proportionnée au motif d’ordre public. La liberté en cause revêtant le caractère de liberté fondamentale, les mesures d’interdiction peuvent être contestées par la voie du référé-liberté. Au niveau individuel, le code pénal permet au juge judiciaire de prononcer une interdiction de manifester pour une durée pouvant aller jusqu’à trois ans, dans le cadre d’un jugement faisant suite à des violences en manifestation.<br/>Or le présent texte propose de créer une interdiction administrative individuelle pour les personnes violentes de participer aux manifestations, cela en dehors de tout jugement judiciaire. Une telle mesure serait prononcée par le préfet du département ou le préfet de police. Il apparaît que cette proposition de loi fait naître un débat sur sa constitutionnalité, un débat sur lequel je souhaite me pencher. L’exposé des motifs fait explicitement référence à la décision du Conseil constitutionnel qui censure l’article 3 de la loi visant à renforcer et garantir le maintien de l’ordre public lors des manifestations, dite loi anticasseurs. Rappelons que les Sages de la rue de Montpensier avaient estimé que cette mesure portait atteinte au droit d’expression collective des idées et des opinions et violait ainsi l’article 11 de la Déclaration des droits de l’homme et du citoyen de 1789.<br/>Dans le détail, le Conseil constitutionnel soulignait que « le législateur n’a pas imposé que le comportement en cause présente nécessairement un lien avec les atteintes graves à l’intégrité physique ou les dommages importants aux biens ayant eu lieu à l’occasion [d’une] manifestation ». Les atteintes aux libertés publiques au nom du maintien de l’ordre n’étaient ni proportionnées ni suffisamment encadrées. À la lumière de cette décision, il semblerait que ce n’est pas le principe d’une interdiction individuelle de manifester, décidée par le préfet, qui est jugé inconstitutionnelle, mais ses modalités. Il me semble par conséquent qu’à l’aune de cette analyse, le rapporteur a considéré que le Conseil pourrait juger une telle interdiction constitutionnelle pourvu qu’on en adapte les modalités. Il a donc traduit son interprétation en texte de loi.<br/>Par ailleurs, l’interdiction de manifester fait ressurgir une histoire pas si ancienne datant de la guerre d’Algérie où les tentatives de limitation de la liberté de manifester ont été funestes. C’est donc d’une main tremblante que nous devons intervenir sur la liberté de manifester.<br/>Nous ne pouvons pour autant tolérer que la parole du plus grand nombre soit rendue inaudible par quelques voyous au comportement répréhensible. Nous ne pouvons admettre que quelques individus jettent l’opprobre sur la parole d’une majorité. C’est en évoluant sur cette ligne de crête étroite qu’il nous faut légiférer. Pour ce qui est de la philosophie du présent texte, nous partageons tous la volonté de lutter contre les individus qui confisquent aux manifestants la défense de la cause pour laquelle ils ont choisi de se réunir.<br/>Néanmoins, le groupe Agir ensemble votera contre cette proposition de loi pour deux raisons. D’une part parce que l’article 66 de la Constitution prévoit que c’est bien le juge judiciaire indépendant qui est le garant des libertés individuelles. Selon moi, il ne faut déroger à ce grand principe que dans des cas très spécifiques et encadrés, comme nous l’avons fait avec la loi renforçant la sécurité intérieure et la lutte contre le terrorisme, dite loi SILT. D’autre part, pour reprendre une nouvelle fois l’exposé des motifs, c’est l’effectivité de la mesure qui me pose problème. En effet, il y est écrit que « ces interdictions administratives très encadrées permettront de toucher les individus violents que nos forces de l’ordre n’ont pas réussi à appréhender ». Il est donc compliqué d’imaginer la faisabilité concrète et matérielle d’une interdiction frappant une personne parvenue à ne pas être appréhendée. Dans un État de droit, lorsqu’on interpelle un individu ayant commis des violences contre les biens ou les personnes, son identité est relevée, une enquête est menée, des preuves rapportées, puis il est jugé en fait et en droit par un juge du siège.<br/>Pour ces raisons et non en fonction de son supposé caractère inconstitutionnel, le groupe Agir ensemble votera contre cette proposition de loi.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842243" ordre_absolu_seance="73" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459922" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Ménard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842244" ordre_absolu_seance="74" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459923" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Ménard</nom>
+              <acteurRef>PA719608</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Marcel Achard, écrivain et dramaturge français, disait que « la plus cruelle, manifestation du public, c’est son absence. Qu’il siffle, mais qu’il vienne ». Et le moins que l’on puisse dire, c’est que depuis le début du quinquennat d’Emmanuel Macron, des manifestations et des sifflets, il y en a eu : gilets jaunes, réforme des retraites, procréation médicalement assistée – PMA – pour toutes, loi sur la sécurité globale et j’en passe, les Français ont battu le pavé. C’est normal, c’est un droit fondamental, un droit qui permet à notre démocratie de s’exprimer et c’est tant mieux. Malheureusement, ce droit est trop souvent piétiné par des voyous qui infiltrent les manifestations et détruisent tout sur leur passage : vitrines de magasins éventrées, mobilier urbain vandalisé, forces de l’ordre agressées et manifestants trop souvent pris à partie. Partout où ils passent, c’est chaos et guérilla urbaine. Le pire, dans tout cela, c’est qu’ils sont connus : ils s’appellent black blocs, antifas ou délinquants au casier judiciaire bien fourni, et pourtant, chaque semaine, ils recommencent et les Français n’en peuvent plus.<br/>Face à ce constat, il faut agir, agir enfin, parce qu’il est grand temps d’être du côté des commerçants, qui refusent dorénavant d’être pillés, des Français, qui veulent pouvoir s’exprimer et faire entendre leur voix sans craindre de se faire récupérer, ou des policiers qui sont à bout à force de se faire agresser à coups de cocktails Molotov et autres barres de fer ou pavés sous lesquels se trouverait prétendument la plage.<br/>Agir, c’est ce que fait cette proposition de loi courageuse défendue par notre collègue Pascal Brindeau. Il le fait sans faux-semblants pour protéger le droit de manifester en choisissant de se placer en amont des violences qui pourraient advenir, pour couper, en quelque sorte, l’herbe sous le pied des individus dont il est à craindre qu’ils pourraient nuire à l’ordre public et donc, naturellement, au bon déroulement des manifestations. Et je souscris tout à fait à cette logique.<br/>Je ne peux que regretter que cette proposition de loi ait été rejetée d’un revers de la main par la majorité en commission. Même les amendements rédactionnels n’ont pas trouvé grâce à vos yeux. Avouez tout de même que le « circulez, il n’y a rien à voir », a du mal à passer, quand chacun d’entre nous garde à l’esprit les scènes de violence inouïes qui défigurent trop souvent les cortèges de manifestants et qui donnent, en même temps, à la France, à notre France, une image déplorable car symbole de son impuissance à neutraliser quelques centaines d’individus violents, ultraviolents.<br/>Parce qu’un certain nombre d’entre nous sommes conscients que le droit de manifester ne peut être dissocié du devoir de l’État d’assurer la sécurité de tous, il est temps de renforcer la législation. Face au phénomène des black blocs, les interdictions judiciaires et les mesures d’identification ne suffisent plus. Aussi est-il de notre devoir de compléter l’arsenal juridique à disposition des forces de l’ordre et de l’autorité administrative, pour montrer enfin un peu d’efficacité. Soyons clairs, il ne s’agit pas d’empêcher de braves citoyens de manifester mais bien de lutter contre cette véritable guérilla urbaine menée par des bandes organisées pour terroriser tous ceux qui veulent manifester dignement et pour casser qui du flic, qui des vitrines, qui du mobilier urbain.<br/>La présente proposition de loi a le mérite de prendre à bras-le-corps l’important sujet de la violence dans les manifestations. C’est un texte équilibré qui répond de manière ferme à ce phénomène qui exaspère les Français, tout en prenant en compte les objections prononcées par le Conseil constitutionnel à l’article 3 de la proposition de loi initialement présentée par le sénateur Les Républicains Bruno Retailleau.<br/>Le rapporteur l’a rappelé en commission et à nouveau ce soir : dans sa décision, le Conseil constitutionnel ne remettait pas en cause le principe de l’interdiction de manifester lors de menaces d’une particulière gravité pour l’ordre public, mais bien seulement les modalités de son application. Ce texte y remédie et je vous avoue que, pas plus que cet après-midi avec la proposition de loi sur les mineurs non accompagnés, je ne comprends ceux d’entre vous, Gouvernement en tête, qui sont défavorables à ce texte. Il ne faudrait donc rien faire et subir la loi de ces casseurs sans réagir ? Je suis et je reste des plus attentives à la protection de nos libertés fondamentales, mais s’il s’agit de mettre en balance deux libertés, je préfère protéger celle des citoyens respectueux de la loi plutôt que celle des casseurs. Aussi, chers collègues, madame la ministre déléguée chargée de la citoyenneté, un peu de courage : votons ce soir cette proposition de loi nécessaire, évidente et pertinente.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842251" ordre_absolu_seance="81" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459930" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <acteurRef>PA267330</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pascal Brindeau, quali  rapporteur de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-6857388" id_mandat="PM761932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842252" ordre_absolu_seance="82" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459931" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pascal Brindeau, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842253" ordre_absolu_seance="83" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-6857388" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2459932" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <acteurRef>PA342601</acteurRef>
+              <qualite>rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie les orateurs pour leur contribution à ce débat. Je rappellerai l’état d’esprit dans lequel nous avons travaillé. D’abord, comme tous l’ont redit, nous sommes viscéralement attachés à la liberté fondamentale de pouvoir manifester et exprimer collectivement ou individuellement une opinion politique. Personne, d’ailleurs, à une ou deux exceptions près, n’a remis en question notre bonne volonté. Ensuite, nous n’opposons pas le fait que le juge judiciaire soit le garant des libertés individuelles – qui est un principe constitutionnel – avec certaines exceptions déjà prévues par les textes. Ceux qui l’ont évoqué à l’appui de leur argumentation l’ont reconnu. Or ces exceptions permettent, en fin de compte, de respecter la liberté fondamentale du plus grand nombre au détriment d’une prétendue liberté fondamentale de quelques-uns.<br/>Je préfère ce bémol mis au strict respect de la séparation entre autorité judiciaire et autorité administrative s’il permet que des manifestants pacifiques puissent continuer de manifester et que des fauteurs de troubles, des délinquants, des casseurs soient empêchés d’agir. Car, nous le savons, l’interdiction judiciaire prononcée par le juge est aujourd’hui quasi inopérante, quasi inusitée et nous laissons, par faiblesse ou peut-être par lâcheté, finalement, des individus aller dans les rassemblements pacifiques, se constituer en black blocs pour casser du flic, casser du mobilier urbain, des vitrines, provoquant la plus grande sidération chez tous nos concitoyens.<br/>L’argument de la possible inconstitutionnalité a été invoqué, notamment, par le représentant du groupe La République en marche. Je répète ce qu’on a pu dire à l’occasion de l’examen des textes précédents : nous sommes le Parlement, nous sommes les représentants élus du peuple.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842353" ordre_absolu_seance="86" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-3047728" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459935" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pascal Brindeau</nom>
+            <acteurRef>PA342601</acteurRef>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Nous n’avons pas, lorsque nous faisons des propositions, à nous autocensurer par avance en spéculant sur la constitutionnalité ou l’inconstitutionnalité du dispositif que nous défendons. Vous l’avez constaté : notre proposition s’appuie, grief par grief, sur les recommandations du Conseil constitutionnel.<br/>Je conteste l’analyse selon laquelle j’interprète la décision du Conseil constitutionnel lorsque j’affirme qu’il n’avait pas remis en question le principe de l’interdiction administrative. Il a clairement indiqué au paragraphe 21 de sa décision que le législateur, en voulant instaurer une interdiction administrative de participer à une manifestation, a « poursuivi l’objectif de valeur constitutionnelle de sauvegarde de l’ordre public ». C’est la portée de cette interdiction qui a été censurée. Le Conseil constitutionnel invitait donc, en quelque sorte, le législateur à revoir sa copie. C’est précisément ce que nous voulons faire ce soir en soumettant cette proposition de loi.<br/>Si d’aventure l’amendement de suppression qui est sur le point d’être examiné était adopté, j’en conclurais que ceux qui tiennent des discours dans lesquels ils affirment leur soutien aux manifestants pacifiques et leur volonté de lutter contre les fauteurs de troubles, les casseurs et les black blocs, se satisfont, en réalité, du <italique>statu quo</italique> actuel, qui n’est qu’un état de lâcheté.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842356" ordre_absolu_seance="89" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2459938" valeur="(n[[o]] 3848)" bibard="(n[[o]] 3848)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842357" ordre_absolu_seance="90" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459939" valeur="" bibard="(n[[o]] 3848)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant les articles de la proposition de loi dans le texte dont l’Assemblée a été saisie initialement, puisque la commission n’a pas adopté de texte.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842358" ordre_absolu_seance="91" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2459940" valeur="" bibard="(n[[o]] 3848)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article unique</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842359" ordre_absolu_seance="92" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2459941" valeur=" 23" bibard="(n[[o]] 3848)" art="" adt="" ssadt="">
+        <interExtraction nom_orateur="Mme la présidente" id_acteur="PA605991" id_nomination_oe="-1" id_nomination_op="PM759200" id_mandat="PM722660">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842359" ordre_absolu_seance="92" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2459941" valeur=" 23" bibard="(n[[o]] 3848)" art="" adt="" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 23 de Mme Patricia Mirallès tendant à supprimer l’article unique est défendu.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842360" ordre_absolu_seance="93" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459942" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Antoine Savignat</nom>
+                <acteurRef>PA748954</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Défendu par qui ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842360" ordre_absolu_seance="94" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2460165" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Dans le cadre de l’état d’urgence sanitaire, Mme Mirallès étant membre du groupe La République en marche, il a été défendu par un des membres de ce groupe. <italique>(Exclamations sur les bancs du groupe UDI-I.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842362" ordre_absolu_seance="95" id_acteur="PA719692" id_mandat="PM722732" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459944" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Jean-François Eliaou</nom>
+                <acteurRef>PA719692</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>C’est le règlement !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842363" ordre_absolu_seance="96" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459945" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Michel Zumkeller</nom>
+                <acteurRef>PA267330</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Vous avez le droit de vous exprimer, chers collègues !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842363" ordre_absolu_seance="97" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460167" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Sacha Houlié, pour soutenir l’amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842365" ordre_absolu_seance="98" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459947" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sacha Houlié</nom>
+              <acteurRef>PA722150</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Puisque nous y sommes invités, c’est avec plaisir que je défendrai l’amendement tendant à supprimer cet article, car je suis totalement opposé aux arguments développés par le rapporteur. Je m’y oppose, non pas pour des raisons constitutionnelles ou juridiques, même si elles sont bien réelles, au vu du caractère manifestement disproportionné de votre proposition, que le Conseil constitutionnel a déjà souligné – vous seriez d’ailleurs le premier à nous reprocher de présenter un texte qui n’est pas susceptible de passer le filtre du juge constitutionnel –, mais pour des raisons de fond.<br/>Comme je l’ai indiqué en commission, Marie-George Buffet et moi-même avons déposé un rapport d’information dans lequel nous avons longuement étudié les dispositions relatives aux interdictions administratives de stade, dont s’inspirent celles que vous proposez. Nous jugions que ces interdictions étaient déjà disproportionnées et gravement attentatoires aux libertés des personnes. Or ce qui vaut pour des supporters de football vaut plus encore pour des manifestants.<br/>Vous invoquez par ailleurs un argument qui peut paraître d’évidence en soulignant la nécessité d’agir contre les black blocs. Mais ces derniers, précisément, ne sont ni contrôlés ni déférés, parce qu’ils se dispersent dans les manifestations et qu’on ne parvient pas à les interpeller. L’argument selon lequel ce sont eux qui seront visés par l’interdiction administrative de manifester est donc erroné, car ce sont précisément eux qui échappent aux services de police, malgré les efforts déployés par le ministère de l’intérieur pour les poursuivre, les arrêter ou les empêcher de nuire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842368" ordre_absolu_seance="101" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-3047728" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459950" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <acteurRef>PA342601</acteurRef>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Donc on les laisse faire ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842369" ordre_absolu_seance="102" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459951" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement, c’est tout ce qu’ils proposent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842370" ordre_absolu_seance="103" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459952" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sacha Houlié</nom>
+              <acteurRef>PA722150</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le texte que vous défendez est non seulement gravement attentatoire aux libertés, mais aussi inopérant. C’est la raison pour laquelle j’y suis totalement défavorable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842371" ordre_absolu_seance="104" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459953" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur l’amendement n<exposant>o</exposant> 23, je suis saisie par le groupe UDI et indépendants d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>Quel est l’avis de la commission ?</texte>
+        </paragraphe>
+        <interExtraction nom_orateur="Mme la présidente" id_acteur="PA605991" id_nomination_oe="-1" id_nomination_op="PM759200" id_mandat="PM722660">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842373" ordre_absolu_seance="106" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-3047728" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2459955" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pascal Brindeau</nom>
+                <acteurRef>PA342601</acteurRef>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je rappelle, en premier lieu, que la commission a rejeté l’amendement de suppression. J’émettrai donc, bien évidemment, un avis défavorable.<br/>Monsieur Houlié, vous ne pouvez pas affirmer que l’interdiction administrative de manifester est par nature attentatoire aux libertés. D’abord, elle existe déjà et personne n’a remis en question son principe – pour autant, encore une fois, qu’elle reste une simple dérogation à la règle normalement applicable, selon laquelle c’est au juge judiciaire qu’il revient de prononcer une interdiction de manifester. Ensuite, je ne fais pas de parallèle entre les mesures anti-hooligans – si on peut les appeler ainsi – et la solution que nous entendons promouvoir pour lutter contre les black blocs.<br/>Vous expliquez qu’on ne peut pas appréhender ces derniers. Cela signifie-t-il pour autant qu’on les laisse faire ? Non ! Nous nous efforçons, au contraire, d’étoffer l’arsenal juridique à disposition des forces de l’ordre et des services de renseignement. Je rappelle, par exemple, que des expérimentations sont en cours dans le domaine du traçage génétique des personnes qui dissimulent leur visage dans l’espace public. Couplées à d’autres mesures, elles pourraient permettre de les identifier et donc de les mettre hors d’état de nuire. C’est le principe que nous défendons, et que votre président de groupe soutenait d’ailleurs lui aussi lorsqu’il était ministre de l’intérieur.<br/>C’était également le contenu de la loi du 10 avril 2019 que vous avez vous-mêmes votée, sans y inclure les précautions que nous avons prises pour nous conformer à la décision du Conseil constitutionnel. Un peu de cohérence intellectuelle, chers collègues ! Ce que vous avez défendu à l’époque était bien plus attentatoire aux libertés que vous prétendez défendre aujourd’hui que ne l’est le dispositif que nous proposons. Ne supprimez pas cet article ! Participez plutôt au débat de fond sur les dispositions qui vous sont soumises et qui pourraient permettre de créer un dispositif juridique indispensable aux forces de l’ordre pour mieux lutter contre les black blocs.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842377" ordre_absolu_seance="110" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2459959" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme la ministre déléguée chargée de la citoyenneté, pour donner l’avis du Gouvernement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme la présidente" id_acteur="PA605991" id_nomination_oe="-1" id_nomination_op="PM759200" id_mandat="PM722660">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842378" ordre_absolu_seance="111" id_acteur="PA717163" id_mandat="-1" id_nomination_oe="PM773453" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="1" id_syceron="2459960" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marlène Schiappa</nom>
+                <acteurRef>PA717163</acteurRef>
+                <qualite>ministre déléguée chargée de la citoyenneté</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il est favorable à l’amendement de suppression, pour les raisons que j’ai évoquées tout à l’heure. Je ne souhaite pas que le débat enferme ses participants dans deux positions antagonistes caricaturales : voter en faveur de cette proposition de loi ou être de lâches laxistes qui tolèrent les black blocs. La réalité, c’est que l’ensemble des services du ministère de l’intérieur – les forces de l’ordre, les services de renseignement, etc. – sont mobilisés, sous l’autorité du ministre de l’intérieur et la mienne, pour interpeller les casseurs dès que cela est possible.<br/>Comme je le rappelais précédemment, les black blocs, chacun le sait, ont pour particularité de ne pas se déclarer en préfecture. Les dispositions proposées nous semblent donc inopérantes. Au-delà du problème de constitutionnalité qui a été soulevé – et j’entends les objections selon lesquelles nous pourrions prendre ce risque, même s’il me semble que le législateur doit être le garant de la qualité de la loi –, il y a véritablement un problème de fond et d’efficacité. L’adoption de cette proposition de loi ne renforcerait pas efficacement le dispositif déjà existant.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842380" ordre_absolu_seance="113" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459962" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Michel Zumkeller.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842381" ordre_absolu_seance="114" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459963" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <acteurRef>PA267330</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis très surpris de l’attitude de nos collègues, notamment de celle de Sacha Houlié, qui a, me semble-t-il, pris des positions totalement contraires à celles qu’il tient aujourd’hui et a très souvent soutenu l’idée de mettre les black blocs hors d’état de nuire. Doit-on en déduire que ces propositions étaient pertinentes lorsqu’elles émanaient du ministre Castaner, mais qu’elles cessent de l’être dès lors qu’elles sont formulées par le groupe UDI et indépendants ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842382" ordre_absolu_seance="115" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459964" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est tout à fait cela !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842383" ordre_absolu_seance="116" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459965" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <acteurRef>PA267330</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous partageons tous la volonté de freiner ces agissements, mais votre discours a totalement changé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842384" ordre_absolu_seance="117" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459966" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sacha Houlié</nom>
+              <acteurRef>PA722150</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842385" ordre_absolu_seance="118" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459967" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <acteurRef>PA267330</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez pris position par écrit sur cette question, en affirmant qu’il fallait mettre un terme à toutes ces violences ! Et cela ne serait soudain plus possible, parce que ce n’est pas vous qui avez trouvé la solution ? Ce n’est pas acceptable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842386" ordre_absolu_seance="119" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459968" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842387" ordre_absolu_seance="120" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459969" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sacha Houlié</nom>
+              <acteurRef>PA722150</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas la question ! Le Conseil constitutionnel a censuré ce texte !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842388" ordre_absolu_seance="121" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459970" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <acteurRef>PA267330</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et alors ? C’est pour cela que nous revenons dessus ! Le Conseil constitutionnel a censuré votre texte parce qu’il n’était pas suffisamment bien préparé. Ne nous en faites pas porter la responsabilité ! Pascal Brindeau a précisément rectifié ces éléments afin de proposer un texte permettant d’atteindre l’objectif sur lequel nous nous accordons tous. Comment justifierez-vous auprès de vos électeurs le fait que vous n’interdisez pas les black blocs et qu’en adoptant cet amendement, vous refusez de mettre un terme à leurs agissements ? Il faudra l’expliquer aux Français, qui ne supportent plus les images de manifestations pacifiques minées par des voyous qu’on ne parvient pas à arrêter. <italique>(Mme</italique><italique> </italique><italique>Agnès Thill applaudit.)</italique></texte>
+        </paragraphe>
+        <interExtraction nom_orateur="M. Sacha Houlié" id_acteur="PA722150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723486">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842389" ordre_absolu_seance="122" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459971" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Sacha Houlié.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842390" ordre_absolu_seance="123" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459972" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Sacha Houlié</nom>
+                <acteurRef>PA722150</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Acceptez le fait que ce n’est pas parce que je ne suis pas d’accord avec vous que j’ai tort. J’ai écrit dans un rapport, déposé au bureau de l’Assemblée nationale et consultable par tous, que j’étais opposé aux interdictions administratives, qu’elles visent l’accès au stade ou les manifestations. Je juge cette mesure disproportionnée. Je l’avais d’ailleurs fait valoir auprès du ministre Castaner, qui pourrait vous raconter comment notre échange s’était déroulé à l’époque. La loi du 10 avril 2019 a subi le sort qu’elle devait subir, c’est-à-dire une censure du Conseil constitutionnel. C’est heureux.<br/>S’il venait à être adopté dans d’autres circonstances, j’espère que votre texte subirait le même sort. Cela ne fait pas de moi quelqu’un de laxiste favorable aux black blocs. J’explique simplement que l’interdiction de manifester n’est pas la bonne solution pour lutter contre les éléments violents et qu’elle constituerait en outre une atteinte trop grave à la liberté de nombreux manifestants dans notre pays.<br/>Pour ces deux raisons, le dispositif proposé me semble à la fois totalement disproportionné et complètement à côté de la plaque : son adoption ne répondrait pas au problème, mais en créerait de nouveaux ! Sur cette question, nous avons une divergence d’appréciation, qui fait la richesse du débat public à l’Assemblée nationale, mais il n’y a pas les bons d’un côté et les mauvais de l’autre : il y a deux lignes. La nôtre s’exprime à travers cet amendement de suppression.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Antoine Savignat" id_acteur="PA748954" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM748958">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842393" ordre_absolu_seance="126" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459975" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Antoine Savignat.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842394" ordre_absolu_seance="127" id_acteur="PA748954" id_mandat="PM748958" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459976" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Antoine Savignat</nom>
+                <acteurRef>PA748954</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis moi aussi surpris de la position du Gouvernement. Ce dernier insiste quotidiennement sur la nécessité, pour faire face à la crise sanitaire que nous traversons, de détecter et d’isoler les malades. Or que propose-t-on à travers ce texte ? De détecter et d’isoler les fauteurs de troubles dans les manifestations. <italique>(M.</italique><italique> </italique><italique>Jean-François Eliaou proteste.)</italique> Prétendre que nous portons atteinte à la liberté de manifester, c’est soupçonner les préfets de prendre des décisions liberticides. Si nous ne sommes pas capables de faire confiance aux forces de l’ordre et aux préfets, dont les décisions sont susceptibles de recours et d’appréciation par des magistrats, c’est que nous n’avons plus confiance en rien et que nous n’avons rien à faire ici. <italique>(Même mouvement.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842395" ordre_absolu_seance="128" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459977" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Emmanuelle Ménard.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842396" ordre_absolu_seance="129" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459978" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Ménard</nom>
+                <acteurRef>PA719608</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>J’avoue mon étonnement face au traitement réservé, en fin d’après-midi, à la proposition de loi relative aux mineurs non accompagnés, puis, ce soir, au texte concernant les black blocs. Ces deux questions majeures intéressent énormément les Français. On expliquait tout à l’heure qu’environ 60 % des mineurs non accompagnés – qui représentent tout de même un coût annuel de 50 000 euros par mineur, évidemment assumé par le contribuable français – sont en réalité des majeurs, qui grugent donc l’État français et bénéficient d’une protection à laquelle ils ne devraient pas avoir droit. Et vous ne faites rien !<br/>Ce soir, nous examinons un texte portant sur la lutte contre les black blocs<italique>.</italique> Alors que les Français en ont absolument ras-le-bol de voir chaque samedi – ou à chaque manifestation, quand il peut s’en tenir une – des individus casser des vitrines et attaquer les forces de l’ordre sans que personne ne semble réagir, et alors qu’on vous propose une solution clef en main, tout à fait respectueuse des libertés, puisque notre collègue Brindeau a précisément veillé à reprendre les arguments du Conseil constitutionnel pour les contourner et proposer une solution conforme à la Constitution, là encore, vous ne faites rien ! Vous dites : « circulez, il n’y a rien à voir, on laisse tomber : tant pis, continuons comme ça, les black blocs ont de beaux jours devant eux » ! Pardonnez-moi, mais je ne comprends pas : derrière les beaux discours de fermeté, il n’y a aucun acte – il n’y a rien du tout !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842398" ordre_absolu_seance="131" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2459980" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Thill</nom>
+                <acteurRef>PA720568</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Exactement !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842399" ordre_absolu_seance="132" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459981" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Ménard</nom>
+                <acteurRef>PA719608</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Franchement, je crois que les Français ne le comprendront pas.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Marlène Schiappa, quali  ministre déléguée" id_acteur="PA717163" id_nomination_oe="PM773453" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842400" ordre_absolu_seance="133" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2459982" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme la ministre déléguée.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842401" ordre_absolu_seance="134" id_acteur="PA717163" id_mandat="-1" id_nomination_oe="PM773453" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2459983" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marlène Schiappa</nom>
+                <acteurRef>PA717163</acteurRef>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je préférerais que nous débattions du fond et que nous nous épargnions les procès d’intention. J’ai le plus grand respect et la plus grande confiance envers tous les préfets qui sont placés sous mon autorité et sous celle de Gérald Darmanin. Je sais qu’ils font preuve de discernement dans l’exécution de la tâche difficile qui est la leur, singulièrement en ce qui concerne les manifestations. Je n’accepte donc pas qu’on prétende ici que nous ne ferions pas confiance aux préfets. Il semble que certains essaient, à l’occasion de l’examen de cette proposition de loi, de nous prêter des propos que nous n’avons jamais tenus : il n’est nullement question de ne pas faire confiance aux préfets – bien au contraire.<br/>De la même façon, madame la députée Ménard, lorsque vous nous accusez de ne rien faire, vous tombez dans l’anathème. Vous nous réduisez à un choix caricatural en prétendant que si nous ne votons pas en faveur de cette proposition de loi, nous ne faisons rien. Pardon, mais les services du ministère de l’intérieur ont soigneusement étudié ce texte. Je vous mets au défi de prouver qu’un seul black block serait empêché de nuire s’il était adopté. C’est faux !<br/>D’une part, le débat juridique a son importance. Non, on ne peut pas dire systématiquement que l’on se fiche de la Constitution, et advienne que pourra ! Le Gouvernement est attaché à concevoir des lois qui soient constitutionnelles.<br/>D’autre part, et au-delà de la question de la constitutionnalité, je comprends et partage votre intention, qui est louable. Personne ici n’a dit qu’il fallait autoriser les black blocs à tout casser. Il n’y a pas d’un côté ceux qui voudraient protéger les vitrines des commerçants et de l’autre ceux qui relativiseraient la violence des black blocs. Nous sommes évidemment résolument opposés aux actions des black blocs, contre lesquelles les 290 000 agents du ministère de l’intérieur luttent au quotidien.<br/>Il n’empêche que cette proposition de loi n’empêchera pas les black blocs de nuire. Ce n’est pas vrai. Ce n’est pas en votant une proposition de loi relevant de l’intention générale que l’on obtient automatiquement des résultats. Les mesures prévues par ce projet de loi ne sont pas opérantes.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842259" ordre_absolu_seance="139" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460036" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Thill</nom>
+                <acteurRef>PA720568</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Eh bien alors amendez ! Améliorez !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Pascal Brindeau, quali  rapporteur" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-6857388" id_mandat="PM761932">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842260" ordre_absolu_seance="140" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460037" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le rapporteur.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842261" ordre_absolu_seance="141" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-6857388" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460038" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pascal Brindeau</nom>
+                <acteurRef>PA342601</acteurRef>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>« La réponse est encore oui pour l’interdiction administrative de manifester, encadrée à la lumière d’un modèle que nous connaissons, celui de l’interdiction administrative de stade, c’est-à-dire en définissant le public concerné. Vous connaissez ma sensibilité particulière sur les supporters de football, que vient d’évoquer mon collègue Acquaviva – j’ai d’ailleurs demandé la création d’une mission d’information à ce sujet. Le recours contre l’interdiction administrative de manifester, en tout état de cause, est garanti puisqu’on pourra le former par la voie du référé-liberté […] »<br/>Je viens de citer des propos tenus par M. Sacha Houlié en 2019 lors de l’examen de la proposition de loi relative à la prévention et à la sanction des violences lors des manifestations. Je l’ai fait pour vous dire tout simplement, en réponse aux arguments que vous avez développés, que l’on a le droit de changer d’avis. Vous pouvez considérer aujourd’hui que ce que vous défendiez hier n’est plus d’actualité.<br/>En revanche, étant donné que nous avons adapté notre texte en fonction des griefs du Conseil constitutionnel, ne venez pas nous dire que cette proposition de loi serait attentatoire aux libertés, alors même que vous aviez voté un texte que le Conseil constitutionnel avait considéré, précisément, comme attentatoire aux libertés.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842264" ordre_absolu_seance="144" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460041" valeur=". ">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Thill et M. Michel Zumkeller</nom>
+                <acteurRef>PA0</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Exactement !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842265" ordre_absolu_seance="145" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-6857388" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460042" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pascal Brindeau</nom>
+                <acteurRef>PA342601</acteurRef>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>À travers le débat de ce soir, la question n’est pas de savoir si cette proposition de loi sera votée ou non. Vous contestez l’efficacité d’un dispositif qui était soutenu par le précédent ministre de l’intérieur, lequel semblait considérer, lui, que ce dispositif, ajouté à d’autres, pourrait, sous certaines conditions, s’avérer efficace, notamment à la lueur des expérimentations menées aujourd’hui pour identifier les personnes qui ont recours à des moyens de dissimulation. Nous ne disons pas autre chose.<br/>Cette proposition de loi prévoit un ensemble de mesures à la fois administratives et judiciaires, mises à la disposition des forces et des services de renseignement et qui nous permettront de rattraper le retard que nous avons sur les black blocks. Car ces derniers ont toujours un temps d’avance sur nous. Face aux mesures administratives, judiciaires, de renseignement ou d’identification, ils sauront toujours utiliser des stratagèmes et des subterfuges pour arriver à leurs fins.<br/>Certes, en supprimant cet article – puisque tel est votre souhait –, nous allons clore la discussion. Mais le débat se poursuivra hors du Parlement et d’une autre manière. Vous en porterez la responsabilité, c’est tout ce que je dis. <italique>(Mme</italique><italique> </italique><italique>Agnès Thill applaudit.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842268" ordre_absolu_seance="148" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="2460045" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Rappel au règlemen</italique>
+        <italique>t</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842269" ordre_absolu_seance="149" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460046" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à M. Sacha Houlié, pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842270" ordre_absolu_seance="150" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2460047" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sacha Houlié</nom>
+            <acteurRef>PA722150</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Il se fonde sur l’article 58, alinéa 1, pour un fait personnel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842270" ordre_absolu_seance="151" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2460163" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Non, il n’y a aucun fait personnel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842272" ordre_absolu_seance="152" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460049" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sacha Houlié</nom>
+            <acteurRef>PA722150</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>On vient de citer mes propos. Si je ne peux pas répondre, ce n’est plus un débat parlementaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842272" ordre_absolu_seance="153" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2460164" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ce n’est pas ce que l’on appelle un fait personnel. Cela relève du débat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842274" ordre_absolu_seance="154" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460051" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sacha Houlié</nom>
+            <acteurRef>PA722150</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Madame la présidente, vous ne voulez pas me donner la parole alors que…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842275" ordre_absolu_seance="155" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460052" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Vous avez déjà eu la parole. Vous souhaitez intervenir une nouvelle fois sur le fond. Or ce n’est pas l’objet d’un rappel au règlement.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842276" ordre_absolu_seance="156" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2460053" valeur="" bibard="(n[[o]] 3848)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article unique <italique>(suite)</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842277" ordre_absolu_seance="157" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="SCRUT_PUB_ADT_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460054" valeur=" 23" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’amendement de suppression n<exposant>o</exposant> 23.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842278" ordre_absolu_seance="158" code_grammaire="SCRUT_PUB_ADT_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2460055" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842279" ordre_absolu_seance="159" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="SCRUT_PUB_ADT_1_8" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460056" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <acteurRef>PA605991</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        37<br/>        Nombre de suffrages exprimés                37<br/>        Majorité absolue                        19<br/>                Pour l’adoption                25<br/>                Contre                12</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842280" ordre_absolu_seance="160" code_grammaire="SCRUT_PUB_ADT_1_9" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2460057" valeur=" 23" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’amendement n<exposant>o</exposant></italique>
+          <italique> </italique>
+          <italique>23 est adopté.</italique>
+          <italique> En conséquence, l’article unique est supprimé et les amendements n<exposant>os</exposant></italique>
+          <italique> </italique>
+          <italique>7, 6, 8, 9, 10, 17, 18, 12, 13, 15, 11, 14, 22, 16 et</italique>
+          <italique> </italique>
+          <italique>21 tombent.</italique>
+          <italique>)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842281" ordre_absolu_seance="161" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2460058" valeur="Après_ unique" bibard="(n[[o]] 3848)" art="Après_ unique" adt="" ssadt="">
+      <orateurs/>
+      <texte>Après l’article unique</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842282" ordre_absolu_seance="162" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="2460059" valeur=" 19" bibard="(n[[o]] 3848)" art="Après_ unique" adt="" ssadt="">
+        <interExtraction nom_orateur="M. Pascal Brindeau, quali  rapporteur" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-3047728" id_mandat="PM761932">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842282" ordre_absolu_seance="162" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2460059" valeur=" 19" bibard="(n[[o]] 3848)" art="Après_ unique" adt="" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 19 de M. Ian Boucard est défendu.<br/>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842284" ordre_absolu_seance="164" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-3047728" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2460061" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pascal Brindeau</nom>
+                <acteurRef>PA342601</acteurRef>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’une demande de rapport sur la possibilité de créer une circonstance aggravante en matière pénale pour toute personne s’étant rendue coupable d’acte violent lors d’une manifestation alors que le préfet lui en avait interdit la participation.<br/>Je ne suis pas favorable à cet amendement car le fait de participer à une manifestation en violation d’une interdiction de manifester est d’ores et déjà constitutif d’une infraction, punie de six mois d’emprisonnement et de 7 500 euros d’amende.<br/>On le sait, les amendements visant à demander un rapport font l’objet d’un débat récurrent. S’agissant de la présente proposition de loi, je ne suis pas convaincu de la nécessité d’une telle demande.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Marlène Schiappa, quali  ministre déléguée" id_acteur="PA717163" id_nomination_oe="PM773453" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842287" ordre_absolu_seance="167" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2460064" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842288" ordre_absolu_seance="168" id_acteur="PA717163" id_mandat="-1" id_nomination_oe="PM773453" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2460065" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Marlène Schiappa</nom>
+                <acteurRef>PA717163</acteurRef>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Sacha Houlié" id_acteur="PA722150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723486">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842289" ordre_absolu_seance="169" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460066" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <acteurRef>PA605991</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Sacha Houlié. Monsieur le député, je vous rappelle que vous devez vous exprimer uniquement sur cet amendement, sinon je serai obligée de vous couper le micro. <italique>(M.</italique><italique> </italique><italique>Pacôme Rupin s’exclame.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842290" ordre_absolu_seance="170" id_acteur="PA722150" id_mandat="PM723486" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460067" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Sacha Houlié</nom>
+                <acteurRef>PA722150</acteurRef>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Vous le savez, madame la présidente, la doctrine de la commission des lois est de s’opposer à toute demande de rapport. C’est la raison pour laquelle le rapporteur est, comme moi, défavorable à cet amendement.<br/>Je tiens simplement à préciser au rapporteur que, c’est vrai, j’ai changé d’avis. Je l’ai même écrit dans un rapport et dit publiquement dans la presse, chacun peut donc le vérifier. Il s’agit d’une position que j’ai affirmée et revendiquée.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842292" ordre_absolu_seance="172" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2460069" valeur=" 19" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>19 n’est pas adopté.</italique>
+            <italique> L’article unique et l’amendement portant article additionnel ayant été rejetés, la proposition de loi est rejetée.</italique>
+            <italique>)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842294" ordre_absolu_seance="174" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2460071" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842295" ordre_absolu_seance="175" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460072" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <acteurRef>PA605991</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Débat sur le thème : « La France face à la révolution des NBIC : quelle place dans le match entre les États-Unis et la Chine ? » ;<br/>Débat sur le rapport au Gouvernement « Investir pour mieux saisir, confisquer pour mieux sanctionner ».<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842297" ordre_absolu_seance="176" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2460074" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à</italique>
+            <italique> vingt-deux heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842298" ordre_absolu_seance="177" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2460075" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

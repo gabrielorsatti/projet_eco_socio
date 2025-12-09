@@ -1,0 +1,748 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N187</uid>
+  <metadonnees>
+    <dateSeance>20210303213000000</dateSeance>
+    <dateSeanceJour>mercredi 03 mars 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>187</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210187</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-03-09T19:28:33.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2433197">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2433201">
+          <intitule>Mission d’information sur les enfants sans identité</intitule>
+        </titreStruct>
+        <para id_syceron="2433204">Mme Laurence Dumont, rapporteure de la commission des affaires étrangères</para>
+        <para id_syceron="2433214">Mme Aina Kuric, rapporteure de la commission des affaires étrangères</para>
+        <para id_syceron="2433225">Mme Laurence Dumont</para>
+        <para id_syceron="2433292">Mme Aina Kuric</para>
+        <para id_syceron="2433351">Mme Danièle Obono</para>
+        <para id_syceron="2433357">Mme Jeanine Dubié</para>
+        <para id_syceron="2433364">Mme Karine Lebon</para>
+        <para id_syceron="2433169">Mme Brigitte Liso</para>
+        <para id_syceron="2433180">Mme Laurence Trastour-Isnart</para>
+        <para id_syceron="2433189">M. Frédéric Petit</para>
+        <para id_syceron="2433270">M. Jean-Baptiste Lemoyne, secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie</para>
+        <para id_syceron="2433334">Mme Marie-Noëlle Battistel</para>
+        <para id_syceron="2433338">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+        <para id_syceron="2433340">M. M’jid El Guerrab</para>
+        <para id_syceron="2433344">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+        <para id_syceron="2433347">Mme Danièle Obono</para>
+        <para id_syceron="2433554">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+        <para id_syceron="2433557">Mme Jeanine Dubié</para>
+        <para id_syceron="2433562">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+        <para id_syceron="2433566">Mme Mireille Clapot</para>
+        <para id_syceron="2433572">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+        <para id_syceron="2433575">M. Jean François Mbaye</para>
+        <para id_syceron="2433579">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+        <para id_syceron="2433583">Mme Michèle de Vaucouleurs</para>
+        <para id_syceron="2433589">M. Jean-Baptiste Lemoyne, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2433595">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 03 mars 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1823918" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2433197" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1823919" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433198" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1823920" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2433199" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823922" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2433201" valeur="">
+      <orateurs/>
+      <texte>Mission d’information sur les enfants sans identité</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823923" ordre_absolu_seance="6" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433202" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur les conclusions du rapport de la mission d’information sur les enfants sans identité.<br/> La conférence des présidents a décidé d’organiser ce débat en deux parties : dans un premier temps, nous entendrons les rapporteures de la commission des affaires étrangères, les orateurs des groupes, puis le Gouvernement ; nous procéderons ensuite à une séquence de questions-réponses.<br/>La parole est à Mme Laurence Dumont, rapporteure de la commission des affaires étrangères.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823925" ordre_absolu_seance="8" id_acteur="PA1198" id_mandat="PM722532" id_nomination_oe="-1" id_nomination_op="-2890128" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433204" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Dumont</nom>
+            <id>1198</id>
+            <qualite>rapporteure de la commission des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Il y a plusieurs années, j’ai été captivée – il n’y a pas d’autre mot – par un article de Robert Badinter présentant l’ouvrage <italique>Les </italique><italique>E</italique><italique>nfants fantômes</italique>, qu’il avait préfacé. Je l’ai acheté, je l’ai lu, et depuis, à l’Assemblée nationale, à l’Assemblée parlementaire de la francophonie – APF –, à l’Union interparlementaire – UIP – et dans ma circonscription, je n’ai cessé de travailler à faire connaître le drame des enfants non déclarés à l’état civil dans le monde.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823926" ordre_absolu_seance="9" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433205" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Baptiste Lemoyne</nom>
+            <id>703535</id>
+            <qualite>secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je confirme !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823927" ordre_absolu_seance="10" id_acteur="PA1198" id_mandat="PM722532" id_nomination_oe="-1" id_nomination_op="-2890128" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2433206" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Dumont</nom>
+            <id>1198</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte>De quoi parle-t-on ? En commission, fin septembre, j’ai commencé par présenter un dessin – qui en dit souvent plus qu’un long discours. <italique>(L’oratrice montre un schéma.)</italique> Il révèle qu’un quart des enfants de moins de cinq ans dans le monde ne sont pas enregistrés à la naissance. Un quart des enfants de moins de cinq ans n’ont donc pas d’existence légale. Ces chiffres surprennent, car peu de personnes sont conscientes de l’ampleur du phénomène. Ils nous interpellent : depuis un pays comme la France, cela semble impossible. Pourtant, même chez nous, ce phénomène existe – je l’évoquerai plus loin.<br/>La France peut jouer un rôle déterminant dans la gestion de ce problème – j’en suis convaincue. C’est la raison pour laquelle j’ai proposé à Marielle de Sarnez qu’une mission d’information se mette au travail pour décliner les actions que la France pouvait mener afin de contribuer à donner une existence légale à ces enfants. Je souhaite ici rendre hommage à notre regrettée présidente ; elle aurait apprécié ce débat, c’était son souhait. Comme elle me l’avait écrit au soir de la présentation de notre rapport en commission, fin septembre, elle souhaitait « aider à faire émerger dans le débat cette grande question ». La maladie ne lui en a pas laissé le temps, mais nous poursuivons ce combat. Le saut majeur que nous avons accompli en introduisant la promotion de l’enregistrement des naissances et de l’accès à des états civils fiables dans le projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales, adopté hier en première lecture par l’Assemblée, à l’unanimité, y participe. C’est une grande étape, par laquelle la France s’engage à agir. Il faut la poursuivre ; nos débats d’aujourd’hui peuvent – et doivent – nous permettre d’aller plus loin.<br/>Les éléments du débat sont bien identifiés : un enfant de moins de cinq ans sur quatre n’est pas enregistré à la naissance, ce qui représente 166 millions d’enfants de moins de cinq ans dans le monde ; un enfant de moins de cinq ans sur trois n’a pas d’acte de naissance, soit 237 millions d’enfants. D’après l’UNICEF – Fonds des Nations unies pour l’enfance –, l’Asie du Sud et l’Afrique subsaharienne concentrent 87 % des enfants de moins de cinq ans non enregistrés. Mais en France aussi, bien que nous ayons un système d’état civil ancien et performant, nous avons des enfants sans identité, que ce soit au sein de la communauté rom, parmi les enfants d’étrangers en situation irrégulière et les mineurs non accompagnés, ou dans les territoires ultra-marins de la Guyane et, surtout, de Mayotte.<br/>Les causes de l’absence d’enregistrement à la naissance sont connues, et varient d’un pays à un autre. Le sous-développement est la première : plus un État dispose d’un budget public élevé, plus il pourra créer et gérer des centres d’état civil. Une croissance démographique importante peut aggraver ce facteur lié au sous-développement. Le coût de l’enregistrement ou de la délivrance d’un certificat de naissance peut également jouer. Parfois aussi, le cadre juridique est insuffisant ou inadapté : certaines lois discriminatoires, par exemple, empêchent les femmes de déclarer leur enfant. À cela s’ajoute le manque de sensibilisation de la population à l’importance de l’enregistrement, ou encore les coutumes, qui peuvent jouer un rôle déterminant. Enfin, les crises politiques ou sanitaires et les conflits armés peuvent entraîner des déplacements de populations ou décourager les parents de se déplacer pour déclarer une naissance.<br/>Les conséquences sont dramatiques pour les enfants et problématiques pour les États. Le droit d’être enregistré à la naissance est le premier des droits, sans lequel tous les autres ne sont que des droits de papier pour l’enfant, puis pour l’adulte qu’il devient. Savez-vous que la Banque mondiale évalue à un milliard le nombre d’adultes ne disposant pas de documents prouvant leur identité ?<br/>Les conséquences donc, quelles sont-elles ? Un accès aux droits restreint – l’accès à la nationalité, aux droits sociaux, civils et politiques, et même à la justice sont fortement réduits – ; une vulnérabilité renforcée face à toutes les pires formes d’exploitation et de violence – prostitution enfantine, mariage précoce, adoption illégale, travail forcé, trafic d’organes, participation à des activités criminelles, enrôlement dans des combats armés, enfants soldats, etc. – ; un accès à l’éducation très réduit – pour l’individu devenu adulte, obtenir un emploi dans l’économie formelle, se marier, voter, voyager est inaccessible. Pour les États, enfin, administrer une population qu’on ne sait pas évaluer correctement s’avère difficile.<br/>La tâche semble gigantesque – elle l’est –, mais des solutions existent. Je dirais même plus : je ne connais pas d’autre problématique aussi lourde de sens et de conséquences, mais finalement aussi simple à régler. Ce n’est même pas tant une question d’argent. Je laisse à ma collègue Aina Kuric, avec qui j’ai eu le plaisir de travailler, le soin de présenter nos propositions. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et LT.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Aina Kuric, quali  rapporteure de la commission des affaires étrangères" id_acteur="PA720214" id_nomination_oe="-1" id_nomination_op="-2891576" id_mandat="PM722894">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823934" ordre_absolu_seance="17" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aina Kuric, rapporteure de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823935" ordre_absolu_seance="18" id_acteur="PA720214" id_mandat="PM722894" id_nomination_oe="-1" id_nomination_op="-2891576" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433214" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aina Kuric</nom>
+              <id>720214</id>
+              <qualite>rapporteure de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Les constats que nous dressons dans notre rapport vous ont été présentés, et je tiens à souligner que des initiatives ont été lancées pour encourager l’enregistrement des naissances, depuis les grands textes du droit international jusqu’aux actions nationales, en passant par la mobilisation des ONG et de la communauté internationale, dont la France.<br/>Il est important de rappeler que l’état civil est, par nature, une matière régalienne qui nécessite l’engagement des États concernés. Certains États ont lancé des réformes de fond pour améliorer leur état civil, avec souvent des résultats significatifs – c’est le cas de la Côte d’Ivoire, du Maroc, de la Serbie et de l’Inde. Toutefois, il faut bien distinguer les pays qui enregistrent les naissances et ceux qui développent des systèmes d’enrôlement de toute leur population, sans nécessairement mettre l’accent sur l’enregistrement des naissances, comme l’Inde. Les initiatives nationales sont souvent soutenues par des actions régionales, mais aussi, très fréquemment, par la communauté internationale. Les agences onusiennes et de nombreuses ONG promeuvent également l’enregistrement des naissances. Des acteurs de la société civile y contribuent aussi en développant des technologies particulièrement innovantes, comme le bracelet iCivil testé avec succès au Burkina Faso. Son fonctionnement est simple : les naissances sont préenregistrées à la maternité, en scannant un bracelet attribué à chaque enfant. Ensuite, l’officier d’état civil délivre un acte de naissance, en scannant à son tour le bracelet, lorsque les parents se présentent devant lui.<br/>Qu’en est-il en France ? La question des enfants sans identité est traitée de manière assez éclatée au sein du ministère de l’Europe et des affaires étrangères, dont différents services sont impliqués. L’Agence française de développement – AFD – est encore trop souvent centrée sur l’identification numérique, sans lien direct avec l’enregistrement des naissances. Le ministère de l’intérieur intervient lui aussi, par l’intermédiaire de CIVIPOL, son opérateur de coopération technique internationale. Des collectivités se mobilisent également : les actions de coopération décentralisée en matière d’état civil conduites à La Roche-sur-Yon ou à Grenoble sont très prometteuses, et doivent être encouragées.<br/>Malgré toutes ces belles initiatives, nous dressons deux constats principaux. Premièrement, l’état civil n’apparaît pas encore comme une priorité pour de nombreux États, de même que pour la communauté internationale, alors qu’il est indispensable au développement. Deuxièmement, les initiatives nationales et internationales sont insuffisamment coordonnées. C’est pourquoi nous avons formulé vingt-trois propositions, aussi opérationnelles que possible, autour de trois axes.<br/>Le premier axe correspond aux actions que la France peut mener sur son territoire. Nous devons respecter nos engagements internationaux en donnant une identité légale à tous les enfants présents sur notre sol. Montrons-nous exemplaires et entraînons d’autres pays dans notre sillage. Pour parvenir à cet objectif, la France doit renforcer les moyens techniques et humains dédiés à l’état civil, notamment en Guyane et à Mayotte. Par ailleurs, la reconstitution de l’état civil des mineurs étrangers est encore trop souvent longue et fastidieuse. Pour y remédier, la coopération bilatérale en matière d’état civil pourrait être renforcée avec les pays qui sont trop longs à répondre aux demandes de levée d’acte de la France.<br/>Le deuxième axe de nos propositions concerne les contributions financières et techniques de la France, qui peuvent être rationalisées et renforcées. Vu l’enjeu que représentent les enfants sans identité en matière de développement, il paraît nécessaire d’attribuer une contribution volontaire aux acteurs onusiens de l’enregistrement des naissances dans le prochain projet de loi de finances – voilà une idée d’amendement ! S’agissant des plus petits projets, le fonds de solidarité pour les projets innovants, les sociétés civiles, la francophonie et le développement humain – FSPI – du Quai d’Orsay peut aussi être utilisé pour des initiatives de renforcement de l’état civil.<br/>Le troisième axe, enfin, consiste à mobiliser les nombreux outils qui sont à la disposition de la diplomatie française. La France a la chance de posséder un des premiers réseaux diplomatiques au monde. En le mobilisant, elle serait sûre d’avoir un impact fort sur l’enregistrement des naissances et la délivrance d’actes de naissance. En parallèle, les diplomates peuvent réaliser toutes les actions de plaidoyer possibles dans les grandes organisations internationales – à cet égard, l’espace francophone offre des opportunités évidentes. Nous pourrions également citer le travail de l’Organisation internationale de la francophonie – OIF – et de l’Assemblée parlementaire de la francophonie en la matière. La France peut en outre mobiliser ses représentations permanentes à New York et à Genève pour promouvoir la thématique à l’ONU. En bref, les occasions ne manquent pas. L’une de nos propositions cible plus spécifiquement l’examen périodique universel du Conseil des droits de l’homme de l’ONU, occasion de promouvoir l’enregistrement des naissances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823942" ordre_absolu_seance="25" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823943" ordre_absolu_seance="26" id_acteur="PA720214" id_mandat="PM722894" id_nomination_oe="-1" id_nomination_op="-2891576" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2433222" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aina Kuric</nom>
+              <id>720214</id>
+              <qualite>rapporteure</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, nous proposons de mieux identifier et de renforcer l’appui à l’enregistrement des naissances dans l’aide publique au développement. L’AFD et CIVIPOL pourraient par exemple inclure systématiquement l’enregistrement des naissances lorsqu’ils participent financièrement à des projets d’enrôlement de la population et de création de bases de données biométriques.<br/>La promotion de l’enregistrement des naissances est une occasion unique de renforcer considérablement l’efficacité des politiques de développement. Monsieur le secrétaire d’État, chers collègues, je vous remercie sincèrement de l’intérêt que vous portez à ce sujet. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laurence Dumont" id_acteur="PA1198" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722532">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823945" ordre_absolu_seance="28" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433224" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux interventions des orateurs des groupes. La parole est à Mme Laurence Dumont.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1823946" ordre_absolu_seance="29" id_acteur="PA1198" id_mandat="PM722532" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433225" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Dumont</nom>
+              <id>1198</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Que fait la France face au fléau des enfants sans identité ? Jusqu’au vote du projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales, hier, elle le traitait de façon éclatée, au coup par coup. Au sein du ministère de l’Europe et des affaires étrangères, pas moins de cinq missions, délégations et autres centres de crise traitent partiellement le sujet – même si, depuis septembre 2019, un nouveau portefeuille a été créé concernant les questions de justice et d’état civil afin de renforcer la coordination entre les services du ministère en matière d’état civil.<br/>Les opérateurs tels que l’AFD et CIVIPOL, ou encore le centre des opérations humanitaires et de stabilisation – COHS – du ministère de l’Europe et des affaires étrangères, mènent déjà des actions d’appui à l’état civil, de façon indirecte pour l’AFD et le COHS, de manière plus ciblée pour CIVIPOL, mais focalisées essentiellement sur la constitution de fichiers nationaux biométriques sécurisés. Les actions liées spécifiquement à l’enregistrement des naissances sont plus récentes et moins nombreuses ; ce sont pourtant les plus déterminantes.<br/>Les postes diplomatiques suivent également les projets dans les pays concernés, mais sans feuille de route ni sensibilisation particulière. J’ai été étonnée de constater que certains ambassadeurs de pays particulièrement touchés par ce fléau avec lesquels j’ai échangé – je ne citerai pas de noms – n’avaient pas ou peu connaissance du problème.<br/>La création de conseils locaux de développement, prévue par le projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales, constitue une opportunité réelle, tant pour sensibiliser au sujet que pour lancer des projets – notamment de coopération décentralisée.<br/>Si la coopération décentralisée peut jouer un rôle déterminant, elle reste marginale. Pourtant, là où elle a été mise en œuvre sur des questions d’état civil, le bilan est très positif, tant pour les collectivités et les agents français que pour leurs homologues des pays concernés.<br/>Enfin, au niveau des instances internationales, si la France participe à la négociation et à la promotion des grands textes qui mentionnent l’accès à l’état civil, elle ne porte pas encore d’actions de plaidoyer spécifiques en la matière. À l’Assemblée nationale, l’APF s’est emparée du sujet depuis longtemps. J’avais d’ailleurs, sous son égide, organisé ici, il y a déjà plusieurs années, un débat réunissant de nombreux acteurs et organisations, en présence notamment de Robert Badinter. Lors de l’assemblée générale de Lusaka en 2016, l’Union interparlementaire a adopté à l’unanimité l’inscription d’un point d’urgence à son ordre du jour à l’initiative de la France.<br/>La commission des affaires étrangères a présenté son rapport fin septembre et l’Assemblée a intégré l’enregistrement des naissances à ses priorités d’aide publique au développement en 2020 grâce au vote d’hier soir. Donc, ça avance !<br/>Mais le constat sur l’action de la France en matière d’accès à l’état civil correspond finalement à celui dressé au niveau international, à savoir le manque de coordination et des actions encore insuffisantes et peu efficaces. Je nourris l’espoir que l’introduction de l’enregistrement des naissances et la création d’états civils fiables au sein de notre droit soient en mesure de changer la donne.<br/>D’autres actions sont à mettre en œuvre. Les vingt-trois propositions présentées par Aina Kuric, que nous avons voulu les plus opérationnelles possibles, peuvent nous permettre d’être un acteur absolument majeur sur le sujet. Cela commence par agir ici, sur notre territoire, en France. Nous devons nous montrer exemplaires pour entraîner d’autres pays dans notre sillage. J’en appelle au ministre de l’intérieur et aux députés pour que nous prévoyions le renforcement des moyens techniques et humains dédiés à l’état civil en Guyane et à Mayotte. J’en appelle aussi au ministère des affaires étrangères pour accentuer la coopération bilatérale en matière d’état civil avec les pays limitrophes de la Guyane et de Mayotte et pour la reconstitution de l’état civil des mineurs étrangers.<br/>Il existe aussi des leviers financiers et techniques que nous pouvons mettre au service de cette cause. Cela doit se traduire dans le prochain projet de loi de finances par une contribution financière additionnelle à l’UNICEF fléchée sur cette question et par une contribution volontaire au groupe de travail de l’ONU sur l’identité juridique. Celle-ci est d’ailleurs d’ores et déjà inscrite dans le projet de loi relatif au développement solidaire et à la lutte contre les inégalités mondiales. Pour les plus petits projets, le fonds de solidarité pour les projets innovants, les sociétés civiles, la francophonie et le développement humain – le fameux FSPI du Quai d’Orsay – pourrait être utilisé pour des projets de renforcement de l’état civil.<br/>Enfin, cela a été rappelé à l’instant, la France a la chance de posséder un des premiers réseaux diplomatiques au monde. En le mobilisant, elle serait sûre d’avoir un impact fort sur l’enregistrement des naissances et la délivrance d’actes de naissance. Gageons que cela se concrétise avec la loi relative au développement solidaire. Le Quai d’Orsay constitue ici l’acteur essentiel de notre action. Aussi, monsieur le secrétaire d’État, il est essentiel que votre ministère développe sa communication et son suivi sur la thématique, dédie un ou plusieurs postes aux enfants sans identité – pour l’heure, un demi-équivalent temps plein seulement y est consacré –, engage les diplomates à réaliser des actions de plaidoyer dans les grandes organisations internationales, renforce l’appui à l’enregistrement des naissances dans l’aide publique au développement. L’AFD et CIVIPOL pourraient par exemple – c’est une de nos propositions – inclure systématiquement l’enregistrement des naissances lorsqu’ils participent financièrement à des projets d’enrôlement de la population et de création de bases de données biométriques. J’ai évoqué ce point cet après-midi même avec le directeur de l’AFD, Rémy Rioux, lors d’une audition de l’APF. Je pense qu’il faudra y revenir. Là encore, la loi relative au développement solidaire devrait permettre d’avancer sur ce volet.<br/>Une opportunité évidente est bien sûr l’espace francophone, déjà très engagé sur la question et qu’il faut soutenir et encourager. La France peut aussi utiliser ses représentations permanentes à New York et à Genève pour promouvoir la thématique à l’ONU, que ce soit dans le cadre du dialogue régulier avec les agences onusiennes, lors de prises de parole ou lors de la négociation de résolutions sur les droits de l’enfant ou d’autres sujets liés à la thématique. Vous le voyez, les occasions ne manquent pas. Aina Kuric a aussi évoqué notre proposition qui cible plus spécifiquement l’examen périodique universel du Conseil des droits de l’homme de l’ONU, qui est une opportunité majeure de promotion de l’enregistrement des naissances et est tout à fait sous-utilisé.<br/>Enfin, l’organisation d’événements dédiés à la thématique est également indispensable pour la faire connaître. Le 20 novembre étant la journée internationale des droits de l’enfant, une conférence sur les enfants sans identité pourrait être organisée chaque année par le ministère des affaires étrangères, en partenariat avec des organisations internationales et avec la société civile.<br/>Mes chers collègues, le Parlement a aussi un rôle à jouer pour la diffusion de cet objectif de développement durable 16.9 auprès des pays partenaires de l’aide publique au développement, notamment, bien sûr, dans le cadre des travaux de la commission des affaires étrangères, mais aussi au sein des missions parlementaires et des groupes d’amitié. Ces derniers peuvent constituer de véritables espaces de discussion avec les parlementaires des pays concernés sur leurs besoins en matière d’état civil. Par ailleurs, les députés des Français de l’étranger qui seront membres des conseils locaux de développement constitués auprès des ambassades ont un rôle clé à jouer pour susciter et soutenir les projets que les ambassades peuvent financer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823991" ordre_absolu_seance="43" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433327" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Absolument !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823992" ordre_absolu_seance="44" id_acteur="PA1198" id_mandat="PM722532" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2433288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Dumont</nom>
+              <id>1198</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous aussi, individuellement, dans nos circonscriptions, nous avons le moyen de faire connaître ce fléau. Pourquoi, me direz-vous ? Parce que peu de citoyens connaissent ce problème. Et pourtant, lorsqu’ils en ont connaissance, aucun ne reste indifférent. Je le constate après quatre années d’appels à projets lancés dans ma propre circonscription sur ce sujet auprès des collégiens et des lycéens, quatre années pendant lesquelles de jeunes Français et de jeunes Africains ont travaillé sur la création d’outils de sensibilisation sur cette question des enfants non déclarés à l’état civil, ont échangé et construit des supports de communication avec des élèves du Togo, du Burkina Faso, de Côte d’Ivoire, du Sénégal et du Bénin, créant ainsi un travail de plaidoyer original ici et là-bas, et permettant, pas à pas, de contribuer à la mobilisation pour donner une existence légale à tous ces enfants.<br/>Je veux remercier à cette occasion les partenaires historiques et constants de ce projet que sont l’UNICEF, l’Association du notariat francophone – ANF –, Aide et Action, Regards de femmes, iCivil, Michel Welterlin, producteur du seul film existant sur le sujet, et bien entendu le rectorat de Normandie.<br/>Mes chers collègues, ce débat arrive après plusieurs jours de travaux sur l’aide publique au développement de la France qui ont déterminé ses objectifs et moyens d’action pour venir en aide aux pays les plus pauvres, pour assurer l’accès à la santé, à l’éducation, à l’eau, favoriser un développement économique et social autonome des populations, bref pour leur permettre d’avoir des conditions de vie et de développement dignes. Sans assurer à chaque habitant de ces pays une existence légale, tous nos efforts seront vains. Aussi, je vous invite, aux côtés des députés de la commission des affaires étrangères, qui ont voté à l’unanimité le rapport que nous avons présenté avec Aina Kuric, à défendre nos propositions et à agir dans le cadre de votre mandat et de vos actions pour que chaque enfant compte. <italique>(Applaudissements sur les bancs des groupes SOC, LaREM, Dem, Agir ens, LT et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Aina Kuric" id_acteur="PA720214" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722894">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823995" ordre_absolu_seance="47" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433291" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aina Kuric.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1823996" ordre_absolu_seance="48" id_acteur="PA720214" id_mandat="PM722894" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433292" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aina Kuric</nom>
+              <id>720214</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, encore, me direz-vous ! C’est vrai, nous avons souvent abordé ce sujet en commission des affaires étrangères lors de l’examen du projet de loi relatif au développement solidaire et à la lutte contre les inégalités mondiales. Mais je me réjouis de la mise en lumière de cette thématique et je remercie le groupe socialiste, à qui nous devons l’inscription de ce sujet à l’ordre du jour de la séance publique. <italique>(M.</italique><italique> </italique><italique>M’jid El</italique><italique> </italique><italique>Guerrab applaudit.)</italique><br/>C’est en enregistrant sa naissance que la société reconnaît pour la première fois l’existence et l’identité d’un enfant. Le droit d’être reconnu comme personne par la loi est crucial pour bénéficier d’une protection tout au long de la vie et constitue une condition préalable à l’exercice de tous les autres droits. L’acte de naissance permet l’accès à l’identité juridique, et c’est sur cette base que les enfants peuvent obtenir une nationalité et bénéficier d’une protection contre la violence et l’exploitation. Cette preuve d’âge permet, par exemple, de prévenir le travail et le mariage des enfants, ainsi que le recrutement de mineurs dans les conflits armés. L’acte de naissance peut également conditionner l’accès aux services sociaux, notamment les services de santé, d’éducation ou encore de justice.<br/>L’adoption des objectifs de développement durable par l’Assemblée générale des Nations unies en septembre 2015 a hissé l’enregistrement des naissances au rang de priorité en matière de développement international. Le seizième objectif de développement durable comporte une cible visant spécialement à garantir une identité juridique à tous, notamment grâce à l’enregistrement des naissances d’ici à 2030. Elle est complétée par la cible 17.9, qui appelle à soutenir le renforcement des capacités statistiques nécessaires à l’instauration de systèmes solides d’enregistrement des faits d’état civil. Ces systèmes produisent des statistiques cruciales, notamment en matière d’enregistrement des naissances, qui sont indispensables pour assurer un développement humain et économique durable.<br/>Aujourd’hui, je veux formuler un souhait, celui de l’enregistrement universel des naissances et de la garantie d’une identité juridique à chaque enfant d’ici à 2030. Selon les estimations, 237 millions d’enfants de moins de cinq ans dans le monde n’ont pas d’acte de naissance. Les raisons sont souvent les mêmes : un manque de ressources et d’investissement dans les systèmes précis et complets d’enregistrement des faits d’état civil, associé à des obstacles entravant l’accès aux services d’enregistrement des naissances, sans compter les obstacles politiques, réglementaires et institutionnels. Nous savons que dans le monde, les femmes n’ont pas toujours ce droit qui leur permet de déclarer et de faire enregistrer leur enfant.<br/>Cela étant, augmenter le taux d’enregistrement des naissances ne suffit pas en lui-même. Il est également nécessaire d’améliorer la qualité des systèmes d’enregistrement des faits d’état civil afin d’atteindre une couverture universelle ainsi que la continuité, la confidentialité et la diffusion régulière de données.<br/>Notre politique de solidarité internationale, que nous avons approuvée à l’unanimité pas plus tard qu’hier, en a pris pleinement conscience : l’accès à une identité juridique doit être une priorité du développement international, et ce en garantissant l’accès à une identité juridique <italique>via</italique> l’existence d’un état civil fiable et permettant aux populations d’y avoir accès. Alors, et seulement alors, les sociétés du monde entier pourront être réellement inclusives et équitables.<br/>La réalisation de ces progrès nécessitera un engagement et une adhésion à tous les niveaux, des gouvernements aux communautés locales. Les gouvernements doivent comprendre que l’enregistrement des naissances est un investissement judicieux, tant sur le plan social que sur le plan économique. Les communautés, pour leur part, doivent comprendre pourquoi et en quoi l’enregistrement des naissances leur est utile.<br/>Chers collègues, l’enregistrement des naissances est la porte d’entrée dans le projet de développement d’un pays et je salue, suite à notre vote d’hier, l’engagement de la France, qui en a fait un axe déterminant dans sa politique de lutte contre les inégalités mondiales. <italique>(Applaudissements sur les bancs des groupes Agir ens, LaREM, Dem, SOC, LT et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Danièle Obono" id_acteur="PA721960" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723434">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823897" ordre_absolu_seance="56" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433350" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Danièle Obono.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823898" ordre_absolu_seance="57" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433351" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parce que les enfants sont plus vulnérables que les adultes, parce qu’ils n’ont ni droit de vote ni influence politique ou économique, parce que le développement sain des enfants est crucial pour l’avenir de toute la société, le monde s’est doté en 1989 d’une convention internationale des droits de l’enfant. C’est ainsi que l’UNICEF présente ce qui constitue le socle de son action à travers cette convention internationale, dont les cinquante-quatre articles énoncent pour chaque enfant des droits fondamentaux, parmi lesquels celui d’avoir un nom, une nationalité et une identité.<br/>Or, en 2019, selon l’UNICEF, 160 millions d’enfants de moins de cinq ans dans le monde n’étaient pas enregistrés à la naissance et 237 millions, soit un tiers des enfants de cette catégorie d’âge, ne disposaient pas d’un acte de naissance. Les parties du monde les plus concernées sont l’Afrique subsaharienne et le sud de l’Asie, qui totalisent 145 millions d’enfants de moins de cinq ans non enregistrés.<br/>En France, cette réalité existe également : les enfants sans identité seraient des enfants d’étrangers en situation irrégulière, mais aussi des membres de la communauté rom. Le phénomène serait plus prégnant sur deux territoires ultramarins : en Guyane, en raison de la venue de populations du Surinam, du Brésil et de Haïti, et à Mayotte, du fait de la proximité des Comores.<br/>Comme l’indiquent les deux rapporteures de la mission d’information dont nous débattons ce soir les conclusions, notre action en matière d’aide à l’enregistrement à l’état civil des enfants ne pourra être efficace que si la France apparaît crédible sur cette thématique, c’est-à-dire si elle est elle-même exemplaire sur son territoire. C’est sur ce point que je souhaite concentrer mon propos. La volonté de la France de promouvoir l’enregistrement des enfants dans le monde se heurte en partie à ses propres inconséquences en la matière, à commencer par son non-respect de l’objectif de développement durable 16.9 des Nations-Unies, qui indique que d’ici à 2030, il s’agit de garantir à tous une identité juridique, notamment grâce à l’enregistrement des naissances.<br/>C’est le manque d’investissements de notre pays en matière d’adaptation des services publics aux territoires ultramarins, notamment Mayotte et la Guyane, qui est en cause, comme l’a constaté à de nombreuses reprises le Défenseur des droits – entre autres. Pour la Guyane, la proposition des rapporteures d’instituer un bureau commun de l’état civil entre la France et le Surinam est intéressante, mais elle n’aura que peu d’effets pour les enfants nés de parents étrangers poursuivis par les autorités françaises. Si on veut véritablement agir dans l’intérêt des enfants, il faut réviser entièrement l’orientation de notre politique migratoire, car nous n’avons aucune chance de régulariser la situation des enfants migrants et migrantes si nous continuons à les pourchasser, eux et leurs parents.<br/> Il en va de même pour Mayotte, où les associations de défense des droits humains ne cessent d’alerter le Gouvernement sur la pénurie en matière de services publics et sur la situation particulièrement grave des mineurs non accompagnés. Là encore, la proposition de renforcer la coopération avec les pays limitrophes n’aurait que peu d’effet sur la protection des enfants sans une véritable prise en charge sociale, éducative et administrative des mineurs isolés, dont la protection ne devrait pas dépendre des aléas des choix de politique migratoire.<br/>Il y a urgence en Outre-mer, mais aussi en Hexagone, vis-à-vis de ces mineurs non accompagnés, d’un changement complet de paradigme, ou plutôt d’une remise à l’endroit. Le Gouvernement a choisi de présumer que ces enfants étrangers non accompagnés étaient majeurs en l’absence de preuve du contraire, ce qui va à l’encontre de la convention des Nations unies sur les droits de l’enfant, qui postule la présomption de minorité. Ces enfants devraient être accueillis et protégés en France sans que leur situation administrative soit un facteur de précarisation.<br/>Si nous voulons être en conformité non seulement avec nos engagements internationaux, mais aussi avec une stratégie diplomatique à l’échelle internationale qui fasse de la France un exemple à suivre, une voix qui compte, qui est entendue et qui est crédible, il faut impérativement que nous mettions nous-mêmes en œuvre les moyens d’être une inspiration pour d’autres pays en résorbant ce qui existe aujourd’hui en matière de non-inscription des enfants, notamment des enfants étrangers, et en changeant notre doctrine en matière de gestion des flux migratoires, en faisant primer enfin l’intérêt des enfants sur les choix répressifs aujourd’hui mis en œuvre. Nous sommes heureux que ces débats permettent de mettre en lumière le travail que nous avons encore à faire sur ce sujet.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823903" ordre_absolu_seance="63" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433356" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823904" ordre_absolu_seance="64" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433357" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La question des enfants sans identité est un sujet de fond, pourtant peu connu, sur lequel il existe peu de données. Nous remercions le groupe Socialistes et apparentés de l’avoir mis à l’ordre du jour et de nous apporter un éclairage utile sur ce phénomène suite au travail de qualité mené par nos deux collègues Laurence Dumont et Aina Kuric.<br/>La situation décrite par le rapport de la mission d’information est très préoccupante et les chiffres mentionnés sont véritablement impressionnants. Selon les données de l’UNICEF, un enfant sur quatre dans le monde n’est pas enregistré à la naissance et un enfant sur trois n’a pas d’acte de naissance. Cela représente 166 millions d’enfants de moins de cinq ans dans le monde qui ne sont pas enregistrés à la naissance et 237 millions qui ne disposent pas d’acte de naissance. Avoir une identité est pourtant un droit fondamental. Selon l’article 7 de la convention internationale relative aux droits de l’enfant, chaque enfant doit être enregistré à la naissance afin de posséder une entité juridique. Surtout, c’est un droit qui détermine l’accès à tous les autres droits : comment avoir accès à l’éducation ou à la santé sans inscription à l’état civil ? Comment se marier, voyager, accéder à l’emploi dans l’économie officielle ? Être sans identité, c’est être condamné à une vie de fantôme en marge de la société moderne.<br/>Le rapport nous informe que les enfants sans identité se concentrent surtout en Afrique, en Asie, en particulier dans les pays pauvres d’Afrique de l’Ouest ou encore au Sahel, avec parmi les principales causes le fait que dans certains pays, l’inscription à l’état civil est payante. Si ce phénomène est surtout visible dans les pays en développement, il existe aussi en France, principalement à Mayotte et en Guyane, mais aussi en France continentale.<br/>Dans le cadre de mon activité parlementaire, j’ai eu à traiter dans ma circonscription la situation d’une famille dont les deux enfants ne possédaient pas d’acte de naissance. J’ai pu réaliser à quel point l’absence d’identité bafouait le droit même d’avoir des droits, puisque l’accès à l’éducation et à la santé était rendu très difficile par le fait que ces enfants n’avaient aucune existence légale – en un mot, ils étaient invisibles. J’y reviendrai à l’occasion des questions.<br/>Comment lutter contre cette anomalie ? Le rapport nous fournit des pistes de réflexion intéressantes. À l’échelle internationale, dans les pays en voie de développement, l’aide publique au développement est un moyen d’action pertinent. Le groupe Libertés et territoires tient ici à saluer l’inscription d’un engagement sur cette thématique dans le cadre de partenariat global annexé au projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales, voté hier à l’unanimité par notre assemblée. Selon le projet de loi, la France promeut l’enregistrement des naissances et des faits d’état civil et accompagne la création d’états civils fiables au travers de sa politique d’aide au développement bilatérale et elle s’investit au niveau multilatéral. Nous nous interrogeons cependant sur les formes concrètes que prendra cet engagement : comment le Gouvernement souhaite-t-il défendre cette thématique dans sa politique bilatérale pour parvenir à des résultats efficaces ?<br/>En ce qui concerne la situation sur notre sol, il nous paraît particulièrement important de traiter de la question de la Guyane et de Mayotte. Nous soutenons donc la recommandation visant à améliorer la coopération en matière d’état civil avec les pays limitrophes de la Guyane et de Mayotte, notamment le Surinam et les Comores, pour avancer sur la question. En France continentale, les cas les plus présents sont ceux de mineurs étrangers. La priorité est de pouvoir recueillir les informations provenant des pays d’origine de ces mineurs qui permettront leur authentification.<br/>Notre groupe soutient ainsi tout particulièrement la proposition n<exposant>o</exposant> 3 des rapporteures, qui vise à renforcer la coopération bilatérale pour obtenir davantage de réponses des pays d’origine. De même, nous approuvons la proposition de donner à la mission relative aux mineurs non accompagnés du ministère de la justice la capacité matérielle et humaine d’apporter aux mineurs étrangers non accompagnés une aide juridique afin qu’ils puissent accéder à un jugement déclaratif ou supplétif, nécessaire pour accéder aux documents d’identité.<br/>Une nouvelle fois, je tiens à saluer le travail mené par Laurence Dumont et Aina Kuric, les rapporteures de la mission d’information sur cette question : merci, mesdames ! Comme elles, notre groupe incite le Gouvernement à prendre des engagements forts sur ces sujets, en particulier au niveau bilatéral : c’est là qu’est le cœur de l’enjeu. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem, SOC, Agir ens et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Karine Lebon" id_acteur="PA774962" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774987">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823910" ordre_absolu_seance="70" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433363" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Karine Lebon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1823911" ordre_absolu_seance="71" id_acteur="PA774962" id_mandat="PM774987" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433364" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Karine Lebon</nom>
+              <id>774962</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le sujet des enfants sans identité est fondamental et nous remercions le groupe Socialistes et apparentés d’avoir mis cette question à l’ordre du jour. Cette initiative s’inscrit dans la droite ligne de la proposition du président Bourlanges de faire vivre les rapports au-delà des débats en commission. Je partage donc la satisfaction de mon collègue Jean-Paul Lecoq, qui suit attentivement ce sujet, de voir que Mmes Dumont et Kuric ont saisi cette occasion pour faire avancer ce sujet ô combien important.<br/>Avec près de 166 millions d’enfants dans le monde qui ne sont pas enregistrés et 237 millions d’enfants qui ne disposent pas d’un acte de naissance, ce phénomène est redoutable. Du côté des enfants, l’absence d’enregistrement juridique les empêche tout au long de leur vie d’accéder aux droits et aux services de base que sont les droits civiques, la santé, l’éducation, le vote, voire l’accès à certains concours ou examens comme le permis de conduire. <br/>Du côté de l’État, sans état civil crédible, il est impossible de planifier, de financer des politiques publiques fiables, ce qui rend par extension difficile la mise en place d’un cadastre et donc l’établissement d’impôts.<br/>Le problème se pose souvent dans les États qui ont du mal à établir leur souveraineté et leur autorité sur leur propre territoire et qui cumulent toutes les difficultés : PIB faible, indice de développement humain dégradé, santé et éducation en difficulté, corruption, voire développement de rébellions, etc.<br/>Il s’agit même d’un cercle vicieux : dans ces situations, l’État se retrouve dans l’incapacité de mettre en place des politiques publiques cohérentes, d’instaurer un système de perception des impôts correct, de soigner, d’éduquer tous ses citoyens et de mettre en place un système d’état civil. On peut d’ailleurs constater que ces pays sont très souvent ceux qui ont souffert à un moment ou à un autre de la mondialisation et de la présence très forte du Fonds monétaire international, qui a démantelé un grand nombre de services publics et affaibli nombre d’États, notamment du continent africain, dans les années 1980. Puisque le FMI ou la Banque mondiale ont affaibli les États par leurs sinistres plans d’ajustement structurel, il ne serait pas illégitime que ces institutions soient aujourd’hui mises à contribution pour financer des initiatives visant à améliorer ce droit qui est, comme vous l’avez dit, le premier de tous les droits.<br/>Mais il ne faut pas oublier que la France souffre aussi de ce fléau, notamment en Guyane et à Mayotte, où des enfants sans identité sont laissés sans aide suite à la reconduite de leurs parents aux Comores. L’État doit résoudre au plus vite ce problème indigne de la sixième puissance économique mondiale. En France et ailleurs, l’urgence est là et il faut intervenir à la source pour la tarir.<br/>Sur ce point, les députés du groupe de la Gauche démocrate et républicaine appuient toutes vos recommandations, au premier rang desquelles les n<exposant>os</exposant> 8 et 9 sur l’importance de renforcer les actions de coopération décentralisée pour encourager nos collectivités locales qui ont des partenariats avec d’autres collectivités à insister sur ces sujets, car c’est au plus proche des populations et au plus près des réalités que les choses peuvent évoluer au plus vite. Mon collègue Jean-Paul Lecoq avait d’ailleurs insisté sur l’importance du rôle de la coopération entre collectivités locales à l’occasion des débats sur la loi relative au développement solidaire et à la lutte contre les inégalités mondiales – c’est l’occasion de le rappeler ici.<br/>Les collectivités locales sont en effet les rouages de l’application des objectifs de développement durable, et l’application de l’objectif 16.9, qui consiste à garantir à tous une identité juridique, notamment grâce à l’enregistrement des naissances d’ici à 2030, doit être soutenue au maximum. Pour que toutes ces avancées soient réelles, il faut aller du local au global – et le global, à l’échelle de la France, consiste à impliquer au maximum notre diplomatie pour insister sur ce sujet dans toutes les institutions internationales idoines, voire intégrer cet objectif dans certains de nos traités bilatéraux.<br/>Enfin, la France, qui s’est engagée pour une diplomatie féministe, ne peut passer sous silence le fait que ce sont les femmes qui souffrent le plus de ces problèmes, que les petites filles en sont les premières victimes. Cette dimension genrée est un argument de plus, un argument de poids, en faveur d’une action forte et déterminée. Cela constituera une preuve tangible de l’engagement de la France dans une diplomatie féministe et témoignera de sa mobilisation sur des sujets qui, s’ils ne sont pas forcément très connus, n’en sont pas moins fondamentaux pour des millions de personnes. <italique>(Applaudissements sur les bancs des groupes GDR, LaREM, Dem, SOC, LT et FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brigitte Liso" id_acteur="PA720446" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722966">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1824090" ordre_absolu_seance="78" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433168" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Brigitte Liso.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1824091" ordre_absolu_seance="79" id_acteur="PA720446" id_mandat="PM722966" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433169" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Liso</nom>
+              <id>720446</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« Il ne suffit pas de naître pour être ; il ne suffit pas d’être pour exister. » C’est par ces mots prononcés par la rapporteure Dumont en commission des affaires étrangères que j’ai appris l’existence des enfants sans identité, ces enfants que l’on appelle également enfants fantômes ou enfants invisibles et que, pour ma part, j’appellerai des enfants non nés.<br/>Dès sa naissance, l’enfant a des droits : le droit à un nom et à une nationalité. Ce principe, qui figure dans la Déclaration des droits de l’enfant, votée par l’Assemblée générale des Nations unies en 1959, vient compléter celui figurant dans la Déclaration universelle des droits de l’homme, adopté onze ans plus tôt, en 1948, qui prévoit que « chacun a le droit à la reconnaissance en tous lieux de sa personnalité juridique ». Ce principe rejoint d’ailleurs le concept qu’avait théorisé Hannah Arendt, qui parlait du « droit à avoir des droits ». Car oui, être inscrit à l’état civil conditionne toute notre existence sociale.<br/>Malgré les décennies qui nous séparent de ces textes, le problème est toujours prégnant et le sujet trop méconnu, qui mérite pourtant toute notre attention. Le rapport d’information dont nous débattons ce soir contribue donc à une sensibilisation nécessaire face à un fléau mondial : il dresse un état des lieux inquiétant mais propose aussi nombre de solutions.<br/>Le diagnostic ? Selon le dernier rapport de l’UNICEF, qui porte sur l’année 2019, 237 millions d’enfants dans le monde sont aujourd’hui dans l’incapacité de prouver leur existence légale, soit parce qu’ils n’ont pas été enregistrés à la naissance, soit parce qu’ils n’ont pas reçu de certificat de naissance. Si les plus faibles taux d’enregistrement concernent l’Afrique, aucun territoire n’est épargné et tous les continents sont concernés. En Asie, par exemple, la politique de l’enfant unique menée par la Chine, bien qu’assouplie, a conduit de nombreux parents à dissimuler l’existence de leur enfant par crainte de sanctions du régime chinois.<br/>En France aussi, certains territoires font face à une explosion du nombre de mineurs sans identité et isolés : c’est le cas des territoires ultramarins, comme Mayotte ou la Guyane, mais aussi des territoires métropolitains, où le phénomène concerne les mineurs non accompagnés, les enfants roms ou les enfants de parents en situation irrégulière.<br/>Les causes de ces maux sont diverses et multiples. On peut tout d’abord parler du sous-développement et de l’absence de structures administratives dédiées. En effet, comment les services d’état civil d’un pays dont les moyens matériels et humains sont déjà insuffisants peuvent-ils assurer et permettre à la prise en charge de l’enregistrement des enfants ? On peut aussi penser à l’inadaptation du cadre juridique des pays. Comment une femme veuve, une mère célibataire ou une femme violée pourrait-elle déclarer son enfant dans un pays qui ne lui en donne pas la possibilité soit légalement soit en pratique ? Enfin, il existe des obstacles culturels : comment des populations sédentaires, comme les Peuls ou les Touaregs, peuvent-ils accéder aux services administratifs dédiés, souvent éloignés ? Par ailleurs, certaines coutumes et croyances exigent également d’attendre plusieurs jours, voire plusieurs semaines, avant de donner un nom à un enfant.<br/>On le voit, les causes et les conséquences du non-enregistrement sont nombreuses, bien identifiées, et s’étendent tout au long de la vie. L’accès à la nationalité, aux droits sociaux, à la justice, à l’éducation publique, au droit de vote, au droit de propriété ou encore au droit à la santé sont autant de problèmes rencontrés par les personnes sans identité qui <italique>de facto </italique>sont davantage exposées à des risques tels que l’adoption illégale, la prostitution, le trafic d’êtres humains, l’embrigadement et, malheureusement, la mort. En effet, lors de conflits armés, ces enfants, qui n’existent pas d’un point de vue administratif, ne sont jamais reconnus comme victimes.<br/>De nombreux textes internationaux font la promotion de l’enregistrement obligatoire des naissances, à commencer par l’article 7 de la Convention internationale des droits de l’enfant – CIDE –, adoptée en 1989, qui prévoit que « l’enfant est enregistré aussitôt sa naissance et a dès celle-ci le droit à un nom, le droit d’acquérir une nationalité et, dans la mesure du possible, le droit de connaître ses parents et d’être élevé par eux ». En 2015, l’Assemblée générale de l’ONU a fait de la question des mineures sans identité une priorité des politiques internationales de développement.<br/>La volonté d’agir est partagée par tous, et il y a urgence. Je tiens ici à saluer l’excellent travail de Laurence Dumont et Aina Kuric, dont le rapport constitue une contribution essentielle à la prise de conscience de ce drame et à la nécessité de généraliser l’enregistrement des naissances. De nombreuses préconisations y figurent, je n’y reviendrai pas.<br/>« Il ne suffit pas de naître pour être ; il ne suffit pas d’être pour exister. » Vous en conviendrez, mes chers collègues, ces mots sont puissants et nous invitent à agir. C’est pourquoi le groupe La République en marche apporte tout son soutien à ce rapport. <italique>(Applaudissements sur les bancs des groupes LaREM et Dem.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laurence Trastour-Isnart" id_acteur="PA718780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722454">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1824101" ordre_absolu_seance="89" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433179" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laurence Trastour-Isnart.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1824102" ordre_absolu_seance="90" id_acteur="PA718780" id_mandat="PM722454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433180" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Trastour-Isnart</nom>
+              <id>718780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Plus de 230 millions : c’est le nombre d’enfants sans identité dans le monde, parce qu’ils n’ont pas été enregistrés au moment de leur naissance. Nous sommes face à un phénomène mondial préoccupant, car, à travers le monde, l’enregistrement des naissances reste encore très aléatoire.<br/>Ces enfants sans identité, sans état civil, sont privés d’accès aux soins et d’éducation. L’absence d’un papier officiel les prive, dès leur naissance, d’existence. Ce papier décidera de leur avenir, et c’est pour cela qu’il faut que nous agissions. Démarrer son existence privé de tout droit et de toute reconnaissance sociale n’est pas tolérable au XXI<exposant>e</exposant> siècle.<br/>C’est d’ailleurs ce que vous nous affirmez dans votre rapport, chères collègues : « l’identité légale constitue […] une condition préalable à tous les autres droits. » L’article 7 de la Convention internationale des droits de l’enfant confirme d’ailleurs que chaque enfant doit être enregistré à la naissance afin de posséder une identité juridique. Loin d’être une simple déclaration, cet article est une disposition du droit international qui doit devenir une réalité concrète.<br/>À quelques jours du 8 mars, journée internationale des droits des femmes, je reprendrai la recommandation n<exposant>o</exposant> 20 de votre rapport : « Dans les interventions de la France lors des événements liés à l’égalité femmes-hommes, promouvoir la fin des lois discriminatoires qui empêchent les femmes d’enregistrer la naissance de leur enfant. » Les droits des femmes doivent être défendus partout dans le monde, et la France, pays de liberté et d’égalité, doit en faire la promotion.<br/>Il est également nécessaire de dresser un état des lieux du sujet sur notre territoire, car, en France aussi, il existe des enfants sans identité. S’il est difficile d’estimer leur nombre, leur existence est néanmoins une réalité, tant en métropole que dans les territoires ultramarins, notamment à Mayotte – en raison des entrées provenant des Comores – et en Guyane – en raison des entrées provenant du Suriname, du Brésil et d’Haïti. Sur ce point, la solution doit passer par une meilleure coordination avec les pays d’origine, mais également par un renforcement de nos frontières.<br/>Dans la plupart des pays francophones situés en Afrique, le taux d’enregistrement des naissances est insuffisant. C’est pourquoi la recommandation n<exposant>o</exposant> 13, qui propose d’« encourager l’Organisation internationale de la francophonie (OIF) et l’Assemblée parlementaire de la francophonie (APF) à poursuivre leurs efforts pour promouvoir l’enregistrement des naissances » me semble pertinente. Il est essentiel d’accompagner les pays en voie de développement dans l’instauration d’un état civil structuré, en privilégiant l’accompagnement des territoires particulièrement touchés par cette problématique.<br/>Je salue à ce titre l’action de l’UNICEF, et j’en profite pour souligner l’importance de flécher les crédits attribués par la France vers les actions en faveur de l’enregistrement des naissances. La France doit continuer son engagement auprès des grandes organisations internationales : la voix de notre pays est écoutée dans le monde, et c’est notre rôle de nous engager pleinement pour que les enfants aient une identité. Il est essentiel pour l’avenir des pays qu’ils aient une organisation administrative rigoureuse et organisée permettant d’enregistrer l’ensemble des naissances et de la population.<br/>Mesdames les rapporteures, j’espère que le Gouvernement tiendra compte de vos recommandations. Avec mes collègues du groupe Les Républicains, nous souhaitons qu’il mène un dialogue sans angélisme avec les pays limitrophes d’où vient une grande part des enfants sans identité présents sur le territoire national. <italique>(Applaudissements sur les bancs des groupes LR, LaREM, Dem, SOC et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Frédéric Petit" id_acteur="PA721182" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723196">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1824110" ordre_absolu_seance="98" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433188" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Frédéric Petit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1824111" ordre_absolu_seance="99" id_acteur="PA721182" id_mandat="PM723196" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433189" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Frédéric Petit</nom>
+              <id>721182</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On entend souvent dire que les parlementaires ne servent à rien, et les assemblées interparlementaires à moins encore, mais le débat d’aujourd’hui n’aurait jamais eu lieu sans la ténacité de l’une d’entre nous et sans une assemblée interparlementaire : l’Organisation internationale de la francophonie.<br/>En effet, l’exécutif ne peut pas tout voir ni tout sentir ; il ne peut pas toujours saisir tous les enjeux. Je suis donc très fier et je vous adresse mes remerciements pour votre ténacité, madame Dumont, chère Laurence, et votre enthousiasme, madame Kuric, chère Aina.<br/>Je ne répéterai pas ce que vous avez déjà très bien dit, et tous nos collègues après vous. Pour terminer ces interventions liminaires, je ramènerai le débat sur deux préoccupations qui sont au cœur de ma fonction de rapporteur des crédits budgétaires de ce que l’on appelle la diplomatie d’influence – beaucoup savent que je n’aime pas trop ce terme et que je préfère parler de présence active de la France dans le monde.<br/>J’évoquerai donc l’éducation, sujet particulièrement lié à celui dont nous traitons aujourd’hui, puis la nécessaire réorganisation des ressources tant de notre action dans le monde que du ministère de l’Europe et des Affaires étrangères – c’est un sujet dont je vous parle souvent, monsieur le secrétaire d’État, et le thème du débat de ce soir en offre un bon exemple.<br/>Commençons par l’éducation. Nous essayons de promouvoir dans le monde le système éducatif à la française, le seul à débuter à trois ans – parfois même dès deux ans – et à commencer l’éducation en partant de la langue maternelle de l’enfant, sans lui imposer le français. Si nous voulons réussir ce type de promotion, sans même aller jusqu’aux instituts Français et à la culture française, ce n’est pas uniquement d’enseignants et de bâtiments scolaires dont nous avons besoin, mais d’une cohérence de nos actions. Je l’appelle de mes vœux depuis trois ans. Il doit y avoir un aller-retour entre des acteurs qui n’ont plus l’habitude de travailler ensemble.<br/>Par exemple, on pourrait imaginer que, dès ce soir, une intervention éducative menée dans le cadre du partenariat mondial de l’éducation, en présence d’enseignants français et francophones – par exemple, la formation de cadres –, s’accompagne systématiquement d’un projet d’expertise de la France en matière d’état civil – je dis bien « systématiquement », et non pas uniquement au hasard des nominations, des intérêts de diplomates mieux informés que les autres. Cela me semblerait tout à fait indiqué par le rapport dont nous débattons.<br/>J’en viens à mon deuxième point. En commission des affaires étrangères, nous avons entendu M. Pascal Lamy, président du Forum de Paris sur la paix. Il nous a parlé de relations « polylatérales », plutôt que multilatérales.<br/>Monsieur le secrétaire d’État, lors de la conférence des ambassadeurs et des ambassadrices de 2019, le Président de la République a parlé d’ambassadeurs généralistes et spécialistes, de chefs d’orchestre et de virtuoses.<br/>Vous savez que nous sommes quelques-uns, dont M. Jean François Mbaye ici présent, à soutenir cette idée : quel que soit leur intitulé – ambassadeur thématique, représentant spécial, plénipotentiaire –, ces fonctions si utiles à la diplomatie du XXI<exposant>e</exposant> siècle, ces fonctions métiers qui ne peuvent être exercées par des généralistes, ne sont pas consolidées par l’organisation du ministère de l’Europe et des affaires étrangères, ce qui les rend fragiles. Ceux qui les occupent sont nombreux, mais toujours présentés comme « spéciaux » ou « exceptionnels ». Or de tels sujets réclament d’être incarnés, rendus visibles, par une personnalité politique, ayant une composante administrative à sa disposition, et menant un travail transversal.<br/>Mesdames les rapporteures, je souscris à votre proposition n<exposant>o</exposant> 11 : qu’il y ait dans l’administration davantage de personnels affectés au problème des enfants sans identité. Si nous parvenions en outre à ce que l’on appelle dans le privé – excusez-moi – une organisation matricielle, c’est-à-dire à ce que des politiques, sans qu’il s’agisse nécessairement de ministres ou de personnages haut placés, prennent le sujet à bras-le-corps, il ne fait guère de doute que vos propositions n<exposant>os</exposant> 12 à 23 seraient rapidement concrétisées. Beaucoup d’entre nous ont déclaré qu’il fallait agir aujourd’hui : sans une telle organisation, nous ne serons pas en mesure de promouvoir ce sujet comme il mérite de l’être. <italique>(Applaudissements sur les bancs des groupes Dem, LaREM, SOC et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État chargé du tourisme, des Français de l'étranger et de la francophonie" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1824180" ordre_absolu_seance="109" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1824181" ordre_absolu_seance="110" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433270" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État chargé du tourisme, des Français de l’étranger et de la francophonie</qualite>
+            </orateur>
+          </orateurs>
+          <texte>L’instant est particulier. Dans l’existence d’un parlementaire – je l’ai été –, les moments ne sont pas si nombreux où l’on a l’impression de faire réellement changer les choses, d’influer sur la vraie vie. Le rapport de cette mission d’information ne sera pas un rapport parlementaire comme tant d’autres, un volume de plus dans une vaste bibliothèque : il fera date, il fera bouger les lignes. Il a déjà permis d’enrichir le projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales, dont nous avons achevé hier l’examen en première lecture. Je remercie encore l’Assemblée de s’être prononcée unanimement en faveur de ce texte, car il s’agit là d’un vote qui nous oblige. Jean-Yves Le Drian et moi-même aurons à cœur que tous nos débats en commission, puis en séance, soient suivis d’effet sur le terrain – petit à petit, nous sommes lucides : tout ne sera pas transformé d’un coup de baguette magique.<br/>Une fierté collective nous emplit à la lecture du travail que vous avez réalisé, et qui va à son tour nous guider, nous inspirer, amener le Gouvernement à amplifier son action, l’action de la France, sur le sujet si important des enfants sans identité. Je ne reviens pas sur les chiffres, puisque vous les avez cités : ils sont frappants. Au début du XXI<exposant>e</exposant> siècle, un tel constat ne laisse pas de préoccuper. Depuis plusieurs mois, dès les auditions de votre mission d’information, qui ont éveillé les consciences, notre administration a pris des mesures. Aujourd’hui, Aurélie Bellon est présente aux côtés du directeur Philippe Lacoste ; ce dossier a désormais un visage, un point focal <italique>(Mme</italique><italique> </italique><italique>Amélia Lakrafi applaudit)</italique>, ce qui sera précieux pour engager de nouvelles actions.<br/>C’est d’ailleurs en raison de cet éveil des consciences que, durant ces dernières semaines, en commission, en séance publique, nous avons intégré au projet de loi de programmation un certain nombre d’amendements, dont je vous remercie. Je pense à celui qui vous était dû, madame la rapporteure Laurence Dumont, et qui nous a permis, dans le cadre de partenariat global, d’ériger en principe directeur des politiques de développement solidaire la nécessité d’enregistrer les naissances et de disposer d’un état civil fiable. Je pense à votre amendement, madame la rapporteure Aina Kuric, visant à prendre en compte l’accès à un état civil fiable au sein de notre approche fondée sur les droits humains. Je pense à ceux qui ont contribué à ancrer davantage les droits de l’enfant dans nos grands objectifs, notamment à un amendement en ce sens du rapporteur de ce projet de loi, Hervé Berville. D’autres encore, comme Perrine Goulet ou Florence Provendier, ont introduit des références à la Convention relative aux droits de l’enfant. Tout cela est désormais inscrit dans le texte soumis à la navette parlementaire et sera bientôt, j’espère, gravé dans le marbre de la loi, ce qui contribuera à renforcer l’intégration de l’enfance aux priorités de notre politique de développement.<br/>Je dois dire que nous veillons à développer une approche toujours plus intégrée de l’état civil. Comme vous l’avez évoqué, le sujet pouvant être considéré sous différents angles, plusieurs services sont concernés ; nous devons faire le lien entre eux, au sein de notre ministère et au niveau interministériel. L’état civil se trouve en effet au cœur de l’accès aux droits : je remercie Brigitte Liso d’avoir cité à ce propos Hannah Arendt, qui parlait d’or, comme toujours. C’est à travers ce prisme large que nous pourrons traiter l’ensemble des aspects du problème.<br/>Parlons à présent de ce que nous avons fait évoluer depuis que vous vous êtes emparés du sujet, c’est-à-dire depuis 2018. En 2019 et 2020, avant même la remise de votre rapport, nous avons – grâce à vous, je le répète – pris davantage conscience du problème et nous avons agi. Nous l’avons fait dans un cadre bilatéral, en abordant régulièrement le sujet lors de nos discussions avec l’AFD. Ainsi, le Nigeria a pu bénéficier de prêts afin de moderniser et d’harmoniser sa politique d’identification numérique. Comme vous, nous avons conscience que la question de l’identité se pose dès la naissance et requiert donc une approche bien spécifiée. Il ne s’agit pas de le traiter au fil de l’eau et des programmes électoraux ou autres ; il revêt une autre dimension. C’est pourquoi, au Cameroun, nous sommes fiers que l’AFD subventionne la construction du centre du Bureau national de l’état civil, chargé de coordonner le plan de réhabilitation de cet état civil camerounais. D’autres actions sont menées dans des zones où la situation est plus compliquée : en République centrafricaine, la France finance des projets de renforcement de la cohésion sociale, permettant de délivrer des centaines, voire des milliers d’actes d’état civil à des orphelins ou à des enfants démunis. Madame la rapporteure Laurence Dumont, vous avez dit que, dans le monde, 166 millions d’enfants de moins de cinq ans, soit un enfant sur quatre, ne sont pas enregistrés. De tels chiffres nous incitent à la modestie : des centaines, des milliers, ce ne sont pas encore des millions. Je reviendrai dans quelques instants sur cette nécessité de changer d’échelle.<br/>Nous agissons également dans un cadre multilatéral, celui de la francophonie s’y prêtant particulièrement. À la suite de Frédéric Petit, je salue l’action de l’Assemblée parlementaire de la francophonie. C’est dans son enceinte que, pour la première fois, j’ai été sensibilisé à ce problème : la sénatrice Claudine Lepage, qui à l’époque vous suppléait, je crois, était intervenue sur la question. Si le chantier avance au niveau international, c’est aussi grâce à l’engagement des parlementaires. Il fait partie de ceux qui portent la marque du Parlement : c’est dire ce que nous vous devons. Du reste, si nous souhaitons agir par l’intermédiaire des instances de la francophonie, il y a une autre raison à cela : en 2020, Jean-Yves Le Drian et moi-même avons alloué à l’OIF 1 million d’euros supplémentaire, en formulant le vœu qu’une partie de cette contribution exceptionnelle soit affectée aux actions en faveur des enfants sans identité. Cela nous a permis d’appuyer un projet pilote au Niger. L’OIF avait d’ailleurs publié en 2014, en lien avec le réseau institutionnel et les ONG de la francophonie, un <italique>Guide pratique pour la consolidation de l’état civil, des listes électorales et la protection des données personnelles</italique>.<br/>Si la francophonie est un cadre particulièrement adapté à l’action multilatérale, elle n’est pas le seul. Vous n’avez pas manqué de souligner l’implication de l’UNICEF. C’est pourquoi la France contribue par exemple au financement du bureau de l’UNICEF au Liberia – où nous soutenons la création, au sein des services de santé de Monrovia, de deux centres d’enregistrement des naissances, ce qui rendra possible la délivrance de 5 000 certificats de naissance. La question de l’état civil est d’ailleurs systématiquement incluse, pour des raisons évidentes, dans tous ceux de nos projets de développement qui touchent à la maternité. S’agissant de l’UNICEF, nous mobilisons également le fameux FSPI, ce qui correspond à la proposition n<exposant>o</exposant> 6 de votre rapport – je les ai toutes lues avec attention. Nous avons ainsi prévu de consacrer en 2021 2 millions d’euros à deux projets menés avec l’UNICEF, dont l’un porte sur l’enregistrement des naissances en Afrique de l’Ouest et l’autre sur le développement d’un état civil moderne dans l’Union des Comores. Ce soutien à l’UNICEF s’inscrit pleinement dans la perspective tracée par l’ONU en matière d’identité juridique : l’UNICEF est l’un des chefs de file de cette initiative qui conjugue accès aux droits et développement. En outre, le ministère prévoit de contribuer dès cette année au financement du groupe de travail international créé sur cette question.<br/>Naturellement, notre action multilatérale en vue du développement passe également en grande partie par l’Union européenne et ses divers instruments, tel le fonds fiduciaire d’urgence de l’Union européenne en faveur de la stabilité et de la lutte contre les causes profondes de la migration irrégulière et du phénomène des personnes déplacées en Afrique. Là encore, nos débats ont fait avancer les choses : en vous entendant, nous avons décidé de travailler avec un autre État attentif à cette question, la Belgique, à sensibiliser nos homologues européens. Nous rédigerons un non-papier ; ce format permet souvent de faire progresser des causes lors des réunions interministérielles européennes consacrées au développement. Chargés de dossiers et de projets, nos collègues n’ont pas forcément en tête celui qui nous intéresse : la contribution de la France, associée à un ou plusieurs autres États, aura un effet positif et incitera peut-être d’autres pays encore à agir davantage.<br/>Par ailleurs, l’engagement français en matière d’état civil suppose – je vous ai entendus– que nous améliorions nos pratiques au niveau interministériel. Nous travaillerons avec le ministère de l’intérieur à régler les situations que vous avez évoquées en Guyane, à Mayotte, et dans les territoires voisins. Le Quai d’Orsay mobilisera toujours davantage sa diplomatie afin de plaider cette cause. En 2019, à l’occasion du trentième anniversaire de la Convention relative aux droits de l’enfant, le Président de la République a montré son engagement.                  <br/>C’est pourquoi nous mettrons bien volontiers en œuvre également votre proposition n<exposant>o</exposant> 21 visant à inclure cette question dans les examens périodiques universels – EPU. Vous savez que la France a rejoint le Conseil des droits de l’homme il y a quelques semaines. Nous sensibiliserons nos diplomates pour qu’ils examinent la situation de l’enregistrement des naissances en vue d’inclure, si nécessaire, des recommandations en la matière à l’occasion des EPU. Nous vous rejoignons donc bien volontiers sur ce sujet également.<br/>Par ailleurs, la France mène naturellement un plaidoyer en faveur des droits des femmes dans le cadre de sa diplomatie féministe. Elle plaidera également dans toutes les enceintes pertinentes contre les discriminations qui empêchent les femmes d’enregistrer la naissance de leur enfant. Mais le plaidoyer ne suffit pas. La sensibilisation et la communication, que vous avez toutes deux évoquées, sont essentielles et la France est également active sur ce front. Nous avons ainsi participé au dialogue de haut niveau sur l’enregistrement des faits d’état civil en Afrique, et nous soutenons la campagne de sensibilisation sur l’enregistrement des naissances en Afrique, portée par l’Union africaine en partenariat avec l’UNICEF.<br/>En outre, au sein du ministère de l’Europe et des affaires étrangères, nous avons décidé au cours de ce débat – c’est dire l’utilité que revêt ce type de rendez-vous – d’élaborer une véritable feuille de route relative à l’action de la France pour appréhender ce phénomène. Jusqu’à maintenant, nous avons en effet une stratégie relative au développement et aux droits humains – datant de 2018 si ma mémoire est bonne –, dont un passage concerne la question des enfants sans identité. C’est un petit paragraphe qui, certes, nous engage à renforcer les actions avec les ONG, mais aujourd’hui nous voulons aller plus loin. Nous allons donc nous efforcer de nous doter d’une véritable feuille de route.<br/>Nous l’évoquions à l’instant : avec Philippe Lacoste et Aurélie Bellon, nous sommes déjà parvenus à des lignes directrices très claires à la suite des recommandations que vous avez formulées. Nous les traduirons dans cette feuille de route qui aura l’intérêt, en formalisant un certain nombre d’objectifs, de mettre tout le monde sous tension. En effet, si la question des ressources humaines se pose, je crois en réalité qu’il s’agit moins de multiplier le nombre de personnes qui travaillent sur le sujet que de faire que chacun se sente davantage impliqué au sein du ministère, dans les services centraux comme dans les services déconcentrés, ainsi que dans les différents ministères concernés. À cet égard, la feuille de route sera précieuse : sa présentation, le moment venu, permettra de poursuivre la sensibilisation de l’ensemble des acteurs, tant en interne qu’en externe. Je vous fixe donc ce rendez-vous, qui sera la prochaine étape nous concernant. Je sais en effet que naturellement vous continuerez de votre côté à être actifs et actives au sein des différentes enceintes parlementaires qui traitent le sujet.<br/>Quoi qu’il en soit, je tenais à vous dire que nous avions la foi et l’énergie chevillées au corps pour, de notre côté, approfondir et amplifier nos actions, afin d’être au rendez-vous ambitieux que vous nous avez fixé. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et Agir</italique><italique> </italique><italique>ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824162" ordre_absolu_seance="124" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2433333" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous en venons aux questions. Je vous rappelle que la durée des questions, ainsi que celle des réponses, est limitée à deux minutes, sans droit de réplique.<br/> Nous commençons par le groupe Socialistes et apparentés.<br/>La parole est à Mme Marie-Noëlle Battistel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824163" ordre_absolu_seance="125" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433334" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Noëlle Battistel</nom>
+            <id>342415</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Trente ans après la naissance de la Convention internationale des droits de l’enfant, plusieurs millions d’enfants demeurent totalement invisibilisés et leurs droits sont entièrement niés. Si l’état civil peut nous paraître une simple formalité, il n’est pas toujours, à l’échelle mondiale, une priorité. Selon la Banque mondiale, plus d’un milliard de personnes ne peuvent prouver aujourd’hui leur identité faute de documents. Ce sont autant de vies qui n’existent ni pour l’administration de leur pays ni pour nos sociétés.<br/>Un groupe de travail sur l’identité juridique a été créé à l’échelle des Nations unies, afin d’aider les pays membres de l’ONU par des actions concrètes. Treize pays ont été identifiés et un fonds, qui peut être abondé par les pays membres de l’ONU, a été créé pour financer ces actions. Plusieurs pays dont la Suisse, le Royaume-Uni et le Canada, ont déjà manifesté leur intérêt ; la France n’en fait pas encore partie. En choisissant l’approche de l’identité légale, universelle et basée sur le cycle de vie de l’individu, ce groupe de travail met l’accent sur l’enregistrement des enfants comme des adultes. Il est très prometteur en matière de coordination des moyens internationaux alloués à l’enregistrement des naissances, alors que le manque de coordination est l’un des principaux freins à l’efficacité des aides et dispositifs institués.<br/>Hier, notre assemblée a adopté à l’unanimité un projet de loi visant à lutter contre les inégalités mondiales. Le Gouvernement avait donné un avis favorable à un amendement tendant à renforcer le soutien de la France au groupe de travail pour l’agenda sur l’identité juridique de l’ONU. Trois amendements sur le fond ont toutefois été rejetés. Prenons au mot Robert Badinter, farouchement engagé sur ce sujet, brisons le silence qui entoure la condition des enfants fantômes, rendons-leur leur dignité, mettons fin à leur exclusion de nos sociétés. Monsieur le secrétaire d’État, le Gouvernement est-il prêt à s’engager pour soutenir et financer ce groupe de travail spécifique ? À l’image de la Suisse, du Royaume-Uni et du Canada, la France va-t-elle manifester son intérêt pour ce groupe et pour ce fonds ?</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824166" ordre_absolu_seance="128" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433337" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824167" ordre_absolu_seance="129" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie, madame la députée Marie-Noëlle Battistel, et vous confirme que la France est pleinement engagée dans le soutien au groupe de travail pour l’agenda sur l’identité juridique des Nations unies. Si nous nous heurtons aujourd’hui à une difficulté – le fonds fiduciaire dédié n’a pas encore été créé, faute d’abondement suffisant –, cela ne nous empêche pas d’agir par ailleurs en soutien du groupe de travail et des actions qu’il recommande. Nos actions avec l’UNICEF au Liberia, que j’évoquais à l’instant, entrent ainsi dans ce cadre et, en 2021, toujours pour contribuer aux objectifs de ce groupe de travail, nous contribuerons à hauteur de 40 000 euros à un programme du Haut-commissariat pour les réfugiés en faveur de l’accès à l’identité pour les personnes apatrides. Un certain nombre de FSPI trouveront aussi à s’appliquer en 2021 dans le cadre du groupe de travail pour l’agenda sur l’identité juridique des Nations unies. Je le répète : nous soutenons ce groupe et, même si l’outil fiduciaire n’est pas encore finalisé, vous pouvez compter sur notre engagement moral et financier.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. M'jid El Guerrab" id_acteur="PA720996" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723134">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824168" ordre_absolu_seance="130" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433339" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions du groupe Agir ensemble.<br/>La parole est à M. M’jid El Guerrab.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824169" ordre_absolu_seance="131" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433340" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On estime à plusieurs centaines de millions le nombre d’enfants qui, aujourd’hui, à travers le monde, n’ont pas d’identité car ils n’ont pas été enregistrés auprès des services de l’état civil à leur naissance. Ils n’ont donc pas d’existence légale en tant que citoyens. Selon l’Observatoire Pharos – plateforme d’harmonisation, d’analyse, de recoupement et d’orientation des signalements –, l’Afrique francophone compterait à elle seule environ 90 millions d’enfants sans identité qui ne peuvent pas jouir du statut de citoyen.<br/>On connaît certaines conséquences de cette situation, comme l’impossibilité de bénéficier de la protection des services publics basiques, qui entraîne la vulnérabilité face aux multiples prédations comme les trafics d’êtres humains, la délinquance ou encore l’enrôlement dans des groupes armés. Ces phénomènes ont été bien décrits par les deux rapporteures. Nous connaissons aussi certaines causes de cette situation, comme la défaillance d’un cadre législatif parfois incomplet ou discriminatoire, la mauvaise gestion du registre d’état civil, l’absence d’enregistrement en raison de certaines croyances ou le manque d’outils numériques.<br/>Toutefois, il n’y a pas de fatalité en la matière. L’Afrique, nous le savons, connaît une formidable dynamique en matière de digitalisation. Celle-ci répond aux besoins des populations de transformer leur quotidien et de prendre leur part dans la forte croissance mondiale. Il y a cinq ans, les fintech étaient quasiment inexistantes en Afrique, alors qu’aujourd’hui elles sont presque au même niveau qu’en Europe. De grands groupes français comme Orange y sont fortement impliqués. Beaucoup de Français établis dans ma circonscription – que vous connaissez bien, monsieur le secrétaire d’État –, au Maghreb et en Afrique de l’Ouest, sont formidables en la matière.<br/>Je formulerai donc une proposition qui permettrait de faire d’une pierre deux coups. Pourquoi ne pas imaginer, par exemple, que nos entreprises et nos entrepreneurs établis à l’étranger puissent accompagner la nécessaire numérisation de l’état civil de certains pays africains, en vue d’une plus grande stabilité ? Qu’en pensez-vous, monsieur le secrétaire d’État ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824172" ordre_absolu_seance="135" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824173" ordre_absolu_seance="136" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je reconnais bien là, monsieur le député, votre connaissance précise des entreprises françaises présentes à l’étranger, en particulier dans votre circonscription, la neuvième circonscription des Français établis hors de France. Plusieurs entreprises, notamment françaises, comme Idemia ou Thales mettent en place des solutions dédiées à l’identité numérique. C’est le cas au Bénin, où une partie de la population a ainsi pu bénéficier de cartes d’identité. Ces solutions ne sont pas forcément spécifiques aux enfants : l’enregistrement des parents permet aussi de relier leur état civil aux enfants. Il y a donc bien naturellement de la place pour des entreprises, notamment françaises, dans ce chantier.<br/>Quoi qu’il en soit, il me semble important que nous continuions à porter le sujet des enfants sans identité et que nous regardions la façon dont, à l’occasion du sommet de Montpellier, nous pouvons poursuivre la sensibilisation. Ce sera en effet un temps fort dans la relation entre la France et le continent africain, et de ce fait un moment idoine pour continuer le combat et maintenir allumée la petite flamme que vous portez ce soir toutes et tous dans l’hémicycle.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824174" ordre_absolu_seance="138" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433345" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Danièle Obono" id_acteur="PA721960" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723434">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824175" ordre_absolu_seance="139" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433346" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions du groupe La France insoumise.<br/>La parole est à Mme Danièle Obono.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1824176" ordre_absolu_seance="140" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433347" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon interpellation, monsieur le secrétaire d’État, porte sur un point du rapport que nous avons peu évoqué jusqu’à présent : le sort des enfants de la communauté rom qui font partie, en France et en Europe, des enfants invisibilisés ne bénéficiant pas de l’inscription à l’état civil. Je souhaite connaître les moyens mis en œuvre aujourd’hui en France et la coopération qui pourrait être menée au niveau européen pour résoudre ce problème.<br/>La population rom compte 10 à 12 millions de personnes en Europe, où elle est la plus importante minorité. En Roumanie, en Bulgarie, en Slovaquie, en Hongrie et dans les Balkans, les Roms représentent jusqu’à 10 % de la population. Parmi eux, celles et ceux qui ont adopté un mode de vie sédentaire connaissent de fortes discriminations en matière de métier, d’habitat, de culture ou encore d’exercice de leur langue. C’est vrai autant dans ces pays européens qu’en France où la politique des expulsions forcées de leur lieu de vie met en péril des droits fondamentaux, notamment ceux des enfants, comme la scolarisation. Aujourd’hui de nombreuses associations, comme le collectif École pour tous, se battent pour l’inscription de ces enfants à l’école, mais regrettent le manque de soutien et de bonne volonté à tous les niveaux, notamment, dans certains cas, de la part des municipalités.<br/>L’occasion nous est donnée de poser ce problème au niveau français et européen et je voudrais vous entendre, monsieur le secrétaire d’État, sur les moyens qui lui sont consacrés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824190" ordre_absolu_seance="143" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433553" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824191" ordre_absolu_seance="144" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433554" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Effectivement, comme le souligne très clairement le rapport, la France n’est pas exempte de tout reproche et doit elle-même remédier à certaines situations, sur ses territoires d’outre-mer comme en métropole. La situation de la communauté rom doit pouvoir s’améliorer ; vous pouvez compter sur ma détermination et mon énergie pour agir en ce sens dans un cadre interministériel, car évoluer sur une question par nature européenne, voire internationale, implique de mobiliser les différentes administrations concernées. Sur ce point, nous sommes un peu dans un angle mort de l’action gouvernementale, comme vous l’avez dit. Nous allons donc nous attacher à avancer sur ce point avec le ministère de l’intérieur.<br/>Au niveau européen, je pense qu’il est possible d’accroître la sensibilisation à cette problématique. Nous allons continuer à travailler, en rédigeant un non-papier que nous soumettrons aux ministres chargés de la coopération internationale et du développement. Les petits ruisseaux faisant les grandes rivières, nous pouvons espérer susciter ainsi des subventions ou des prêts supplémentaires et, plus généralement, un engagement plus fort. Quand les pays européens plaident ensemble pour une cause, ils se font mieux entendre au sein des enceintes multilatérales. Vous pouvez être assurée, madame la députée, que dans ce domaine la France va s’engager de manière accrue au plan européen.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824193" ordre_absolu_seance="146" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433556" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions du groupe Libertés et territoires.<br/> La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824194" ordre_absolu_seance="147" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433557" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les recommandations formulées par les rapporteures Laurence Dumont et Aina Kuric invitent surtout le Gouvernement à renforcer son plaidoyer diplomatique afin de promouvoir l’enregistrement des naissances dans les pays les plus concernés, ce à quoi je souscris pleinement. Toutefois, ma question portera sur un cas particulier, à savoir les enfants sans identité en France et les difficultés qu’ils rencontrent pour accéder à des documents d’identité d’un autre pays.<br/>En mars 2015, j’ai été saisie par une famille de ma circonscription que j’ai accompagnée jusqu’à la résolution de son dossier en mars 2020. Deux personnes se sont mariées en France le 23 février 2011, mais, n’ayant pu produire les extraits de naissance de leurs deux enfants, n’ont pas pu les faire inscrire sur le livret de famille. Ces parents ont été régulièrement relancés par la caisse primaire d’assurance maladie pour régulariser la couverture maladie de leurs enfants. Par ailleurs, même une fois scolarisés, ceux-ci ont rencontré de nombreuses difficultés pour passer leurs examens et participer aux activités scolaires et extrascolaires nécessitant une pièce d’identité.<br/>Après cinq années de procédures et de recours auprès des consulats, de la préfecture des Hautes-Pyrénées et de l’Office français de protection des réfugiés et apatrides – OFPRA – pour tenter d’obtenir la régularisation de la situation de ces enfants, la solution possible a été de déposer auprès du tribunal de grande instance une demande visant à obtenir un jugement déclaratif de naissance. Cette démarche, qui a abouti grâce à la compréhension des magistrats, a permis l’inscription des deux enfants sur le livret de famille et la délivrance d’une pièce d’identité à chacun d’eux.<br/>Comme je l’ai dit tout à l’heure, la France doit montrer l’exemple sur son propre sol. Monsieur le secrétaire d’État, ne pensez-vous pas qu’afin d’améliorer et d’accélérer l’accès aux droits de ces enfants, on pourrait simplifier l’accès à la procédure judiciaire que j’ai évoquée, ainsi que l’information sur les démarches à effectuer pour faciliter le parcours des familles et des mineurs concernés ? Le cas échéant, pouvez-vous agir en ce sens ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824198" ordre_absolu_seance="151" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433561" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824199" ordre_absolu_seance="152" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433562" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée, je vous remercie de m’avoir signalé ce cas concret. Si vous le voulez bien, nous pourrons l’examiner ensemble afin d’en tirer des enseignements. Pour améliorer et surtout simplifier des procédures juridiques qui, par leur longueur et leur complexité, s’apparentent à un véritable parcours du combattant, certaines démarches sont déjà mises en place, notamment par les services d’aide sociale à l’enfance.<br/>Je pense qu’il conviendrait de les systématiser afin de simplifier les choses pour les familles concernées. Cette action ne relevant pas forcément des attributions de mon ministère, je prends devant vous l’engagement de porter cette question au niveau interministériel, afin d’aiguillonner les autres ministères ayant vocation à intervenir.<br/>Nous pouvons ainsi espérer qu’à l’avenir, les familles qui se trouveraient dans la situation que vous avez évoquée ne se heurtent pas aux mêmes difficultés que celle que vous avez accompagnée. Grâce au travail que nous allons effectuer ensemble, vous pourrez considérer que vous avez contribué à améliorer la situation de nombreuses personnes, ce qui, me semble-t-il, fait partie des satisfactions que procure l’exercice d’un mandat de parlementaire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mireille Clapot" id_acteur="PA719294" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722618">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824202" ordre_absolu_seance="155" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433565" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions du groupe La République en marche.<br/> La parole est à Mme Mireille Clapot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824203" ordre_absolu_seance="156" id_acteur="PA719294" id_mandat="PM722618" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433566" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Clapot</nom>
+              <id>719294</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je veux commencer par féliciter les deux rapporteures pour la grande qualité de leur rapport qui met en avant un problème très préoccupant, à tel point qu’il est devenu l’une des priorités de notre aide publique au développement, comme en atteste le projet de loi sur la programmation relative au développement solidaire et à la lutte contre les inégalités mondiales que nous avons adopté hier.<br/>L’une des principales raisons expliquant la non-déclaration des naissances reste la discrimination entre les femmes et les hommes, qui empêche encore beaucoup de mères à travers le monde de déclarer leurs enfants. Cela peut être dû au fait qu’elles vivent en zone rurale, qu’elles appartiennent à certaines minorités ethniques ou qu’il leur est parfois difficile, voire interdit d’effectuer cette déclaration, quand seul le père en a le droit. Dès lors, si celui-ci est absent – ce qui peut être le cas si la naissance est survenue à la suite d’un viol, par exemple – ou s’il refuse de reconnaître l’enfant, l’enregistrement de la naissance devient impossible. Enfin, il existe des sociétés donnant toujours la préférence aux enfants de sexe masculin : les garçons enregistrés sont alors plus nombreux que les filles, parce que les premiers sont considérés comme les piliers financiers de toute la famille.<br/>La conjugaison de ces facteurs liés au genre constitue un frein puissant à l’enregistrement des naissances des enfants, notamment des filles. Comme le souligne le rapport, ce phénomène est très préoccupant car, sans recensement des enfants, il ne peut y avoir à terme ni politique sanitaire viable, ni lutte contre les épidémies, ni vaccination, ni accès à l’instruction, ni égalité femmes-hommes. Il est temps d’inverser cette tendance, même si quelques efforts ont déjà été accomplis.<br/>Dans le cadre de la diplomatie féministe que vous avez évoquée, monsieur le secrétaire d’État, quelles sont les actions concrètes qui vont permettre de changer la donne ? S’agit-il de solutions techniques telles que la gratuité des actes d’état civil ou la modernisation et l’informatisation des centres d’état civil ou faut-il plutôt chercher à agir sur le plan socioculturel, en renforçant les partenariats avec les ONG spécialisées et en sensibilisant les populations particulièrement concernées ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824207" ordre_absolu_seance="160" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433570" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824208" ordre_absolu_seance="161" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2433571" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>L’enregistrement des faits d’état civil, qui permet d’avoir accès à une identité, est en quelque sorte une clé de voûte juridique, dont dépendent tous les autres droits découlant de la possession d’une identité. En ce sens, l’état civil est un levier très important en faveur de l’égalité femmes-hommes et un moyen essentiel pour permettre aux femmes de faire entendre leur voix.<br/>C’est également ce qui justifie que nous cherchions à promouvoir la diplomatie féministe, dont je vais donner quelques exemples. En juin 2020, la France a coparrainé devant le Conseil des droits de l’homme des Nations unies – CDH – la résolution 43/5 sur l’enregistrement des naissances, qui demande aux États de supprimer tous les obstacles qui créent une discrimination en matière d’accès à l’enregistrement des naissances ou entravent cet accès. De façon plus concrète, nous finançons et promouvons des projets en ce sens, comme nous le faisons par exemple au Libéria en partenariat avec l’UNICEF, afin d’assurer une interopérabilité des services de santé et des maternités pour sensibiliser les parents à l’importance de faire enregistrer leurs enfants.<br/>Nous livrons donc le combat sur le plan des principes, en faisant adopter des résolutions au sein des enceintes multilatérales, et sur le terrain, où ces principes trouvent à s’appliquer de manière concrète. Nous entendons bien continuer à le mener sur les deux fronts afin de renforcer ce droit fondamental qu’est l’enregistrement des faits d’état civil, dont découlent de nombreux autres droits, en particulier pour les femmes.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean François Mbaye" id_acteur="PA720870" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723100">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824211" ordre_absolu_seance="164" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433574" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean François Mbaye.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824212" ordre_absolu_seance="165" id_acteur="PA720870" id_mandat="PM723100" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433575" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean François Mbaye</nom>
+              <id>720870</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie le groupe Socialistes et apparentés d’avoir permis que la problématique des enfants sans identité soit inscrite à l’ordre du jour de notre assemblée. Cela valorise le travail effectué par nos collègues Aina Kuric et Laurence Dumont au sein de la commission des affaires étrangères, mais, aussi et surtout, cela met en lumière ces enfants dits « enfants fantômes » dont l’existence même est rendue intangible en raison des insuffisances en matière d’état civil et plus particulièrement d’enregistrement des naissances.<br/>C’est le cas des enfants rohingyas ayant fui le Myanmar pour se réfugier au Bengladesh. Au début de mon mandat, je me suis moi-même rendu sur place, où j’ai pu constater l’ampleur de la catastrophe : ces enfants déplacés ne pourront pas retourner au Myanmar car, n’ayant pas d’identité, ils sont apatrides – comme cela a été dit à plusieurs reprises, l’identité est le premier des droits, celui qui conditionne tous les autres. Le sort de ces enfants est très préoccupant et j’espère que nous aurons l’occasion de l’évoquer dans le cadre d’autres débats.<br/>Monsieur le secrétaire d’État, je sais que vous êtes sensible au combat que mènent nos deux collègues rapporteures avec le soutien du groupe La République en marche et de l’ensemble des députés. Je sais aussi que, depuis 2019, un nouveau portefeuille regroupant les questions de la justice et de l’état civil a été confié à la mission de la gouvernance démocratique au sein de la direction générale de la mondialisation – DGM –, ce dont je me félicite. Pouvez-vous nous indiquer quel est le bilan de la création de ce portefeuille et du travail de cartographie et de coordination effectué au Quai d’Orsay par la rédactrice chargée de suivre cette problématique ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824215" ordre_absolu_seance="168" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433578" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824216" ordre_absolu_seance="169" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433579" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le travail effectué depuis septembre 2019 par Mme Aurélie Bellon, la rédactrice qui s’est vu confier le portefeuille que vous évoquez, est très important. Sur ce point focal de l’action du ministère en matière d’état civil des enfants, il a abouti à la conclusion de nouveaux partenariats qui vont permettre une action plus efficace.<br/>Dans ce domaine, les choses ne font que commencer. J’ai pris ce soir des engagements devant vous et, grâce à l’excellent travail des rapporteures, nous disposons d’un matériau très consistant qui va nous permettre d’élaborer une feuille de route. Nous souhaitons travailler à l’élaboration d’un non-papier et avons l’intention de mettre à profit tous les forums, dont ceux que la France va organiser au cours des prochains mois, pour porter ce sujet. Il importe également que nos ambassadeurs, ainsi que les directions ressources des ministères, se sentent toujours plus concernés, et je pense que le débat de ce soir y contribuera grandement.<br/>Je propose que nous nous donnions rendez-vous dans quelques mois pour que, créant en quelque sorte un de droit de suite à ce débat, nous dressions un premier bilan que j’espère aussi étoffé que possible.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle de Vaucouleurs" id_acteur="PA721924" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723422">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824219" ordre_absolu_seance="172" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433582" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions du groupe Mouvement démocrate (MODEM) et démocrates apparentés.<br/> La parole est à Mme Michèle de Vaucouleurs,</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1824220" ordre_absolu_seance="173" id_acteur="PA721924" id_mandat="PM723422" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433583" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle de Vaucouleurs</nom>
+              <id>721924</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avoir une identité juridique est indispensable pour accéder aux droits fondamentaux tels que le droit de vote, le droit à l’éducation ou le droit à la santé. Les enfants sans identité d’aujourd’hui seront demain des adultes délaissés et en difficulté. En France, on trouve encore des enfants sans identité, que ce soit en Guyane, à Mayotte, ou même en métropole lorsqu’il s’agit d’enfants d’étrangers entrés illégalement sur le territoire ou de membres de la communauté rom.<br/>À Mayotte, où près d’un habitant sur deux est de nationalité étrangère – le plus souvent comorienne ou malgache – et où 30 000 personnes seraient en situation irrégulière, le recensement des enfants sans identité ne se fait pas dans des conditions satisfaisantes. On sait seulement que certains enfants sont nés au sein de familles en situation irrégulière – 20 % des enfants nés à Mayotte le sont de mères en situation irrégulière –, qu’ils sont arrivés seuls sur le territoire ou encore que leurs parents ont été reconduits dans leur pays d’origine en les laissant sur place pour leur assurer un meilleur avenir.<br/>Parmi les seuls mineurs non accompagnés au sens de l’OFPRA, 56 % seraient étrangers à Mayotte, ce qui représente 3 000 enfants environ. Il s’agit donc d’un problème important, dont il conviendrait de mesurer précisément l’ampleur. Un accord est en cours de négociation entre la France et l’Union des Comores pour réunir les familles, les conseiller et les informer sur la nécessité d’être en règle au regard de l’état civil. Cependant, selon le rapport de la mission d’information sur les enfants sans identité du 23 septembre 2020, il est à craindre, au vu des tensions diplomatiques avec l’Union des Comores, que cet accord ne puisse aboutir.<br/>Si tel est le cas, monsieur le secrétaire d’État, comment comptez-vous améliorer la situation de ces enfants sur le territoire mahorais et instaurer des accords bilatéraux avec l’Union des Comores et la République de Madagascar sur la question spécifique de l’enregistrement des naissances ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Baptiste Lemoyne, quali  secrétaire d'État" id_acteur="PA703535" id_nomination_oe="PM774093" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1824004" ordre_absolu_seance="177" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2433588" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1824005" ordre_absolu_seance="178" id_acteur="PA703535" id_mandat="-1" id_nomination_oe="PM774093" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2433589" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Baptiste Lemoyne</nom>
+              <id>703535</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Les deux cas concrets que vous citez, madame la députée, concernent la Guyane et Mayotte, mais ils sont aussi révélateurs de la dynamique existant entre ces territoires et les pays limitrophes.<br/>En Guyane, un bureau d’état civil a été créé en 2020, au sein de la maternité du centre hospitalier de l’Ouest Guyanais. Nous discutons aussi de ce sujet avec le Suriname lors de réunions bilatérales, la dernière s’étant déroulée en décembre dernier. Il y a quelques jours, en février, nous avons proposé qu’un officier d’état civil surinamais soit détaché au sein du bureau d’état civil guyanais, dans le cadre d’un protocole d’entente. Nous avons besoin de personnes aptes à mettre fin aux situations que vous décrivez, sachant que bon nombre des personnes concernées sont originaires du Suriname.<br/>S’agissant de Mayotte, je puis vous dire que Jean-Yves Le Drian et votre serviteur suivent ce dossier avec attention. Le 8 février dernier, Jean-Yves Le Drian a eu l’occasion de s’entretenir une nouvelle fois avec son homologue comorien de la situation de ces jeunes. Le sujet reviendra à l’ordre du jour des prochaines réunions du comité franco-comorien de haut niveau, instance importante où l’on discute notamment d’un accroissement de notre aide au développement. Il s’agit de lutter contre certaines inégalités et aussi de moderniser le système d’état civil des Comores en utilisant le FSPI , conformément à la sixième recommandation des rapporteures.<br/>Sur ces deux territoires, de nombreuses actions se mettent en place. J’espère qu’elles porteront leurs fruits et qu’elles permettront d’inverser la dynamique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1824009" ordre_absolu_seance="182" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433593" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat est clos.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="1824011" ordre_absolu_seance="184" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2433595" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1824012" ordre_absolu_seance="185" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2433596" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Débat sur les politiques de la France au Sahel ;<br/> Questions sur le rôle des banques et des assurances dans la crise de la covid-19.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1824013" ordre_absolu_seance="186" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2433597" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à </italique>
+            <italique>vingt-trois heures quinze</italique>
+            <italique>.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1824014" ordre_absolu_seance="187" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2433598" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

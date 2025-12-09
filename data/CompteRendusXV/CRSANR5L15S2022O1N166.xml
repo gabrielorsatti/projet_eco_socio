@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2022O1N166</uid>
+  <seanceRef>RUANR5L15S2022IDS26138</seanceRef>
+  <sessionRef>SCR5A2022O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20220225143000000</dateSeance>
+    <dateSeanceJour>vendredi 25 février 2022</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>166</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20220166</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2022-03-09T13:25:30.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2802692">Présidence de M. Richard Ferrand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2802696">
+          <intitule>Message de M. le Président de la République</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="2802699">M. le président</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2802712">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du vendredi 25 février 2022</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2061252" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2802692" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Richard Ferrand</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2061253" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2802693" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="557.22">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2061254" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2802694" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quatorze heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061256" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2802696" valeur="">
+      <orateurs/>
+      <texte>Message de M. le Président de la République</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061257" ordre_absolu_seance="6" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2802697" valeur=" " roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="564.06">J’ai reçu de M. le Président de la République la lettre suivante :<br/>« Monsieur le président, conformément à l’article 18 de la Constitution, j’ai décidé d’adresser un message au Parlement, dont vous voudrez bien donner lecture à l’Assemblée nationale le vendredi 25 février à quatorze heures trente. »<br/>Voici les termes du message de M. le Président de la République <italique>(Mmes et MM. les députés et Mmes et MM. les membres du Gouvernement se lèvent.) </italique>:<br/>« Mesdames, messieurs,<br/>« Face à l’évolution de la situation en Ukraine, j’ai souhaité m’adresser ce jour au Parlement.<br/>« Vous comprendrez que ma première pensée, dans les heures tragiques que nous vivons, va au peuple et aux autorités ukrainiens. Je salue le courage dont ils font preuve pour résister aux offensives militaires massives de la Russie, ainsi que leur détermination à défendre leur souveraineté et leur liberté. Rien n’a été ni ne sera négligé pour leur venir en aide. Nous leur devons soutien et solidarité. Toutes les dispositions sont également prises pour assurer la protection de nos compatriotes en Ukraine. La nation, par ma voix, salue celles et ceux qui continuent d’assurer, en dépit du danger, notre représentation diplomatique et notre soutien à l’Ukraine.<br/>« La crise actuelle, vous le savez, est née de la décision planifiée, décidée puis organisée par la Russie d’envahir l’Ukraine. L’enchaînement des faits au cours des dernières semaines est clair et sans appel : l’accumulation de forces militaires russes aux frontières russes et biélorusses de l’Ukraine, la recrudescence brutale du nombre de violations du cessez-le-feu et les provocations sur la ligne de contact dans l’Est de l’Ukraine, l’annonce par la Russie de la reconnaissance unilatérale et illégale de l’indépendance des deux républiques autoproclamées de Donetsk et de Louhansk en bafouant explicitement les accords de Minsk de février 2015, la décision d’envoyer dans les territoires tenus par les séparatistes des forces armées russes pour une prétendue mission de maintien de la paix, puis le déclenchement le 24 février 2022 d’une attaque armée de grande intensité contre l’Ukraine.<br/>« Avec nos partenaires européens et nos alliés, nous avions anticipé cette possibilité funeste d’une guerre sur le continent. Nous avons par conséquent tout mis en œuvre pour éviter l’escalade et œuvrer à résoudre la crise par le dialogue. En étroite coordination avec l’Ukraine, nos partenaires européens et nos alliés, nous avons poursuivi le dialogue exigeant engagé depuis plusieurs années avec la Russie, car nous savions que personne sur notre continent n’avait rien à gagner à l’escalade. Nous avons fait des propositions sérieuses et agi sans relâche pour mettre en place les conditions de ce dialogue, avec l’Allemagne dans le cadre du format Normandie, ainsi qu’avec nos alliés et partenaires sur les garanties de sécurité sur le continent européen.<br/>« Nous constatons aujourd’hui que la Russie, tournant le dos à ses engagements et à la voie diplomatique, fait le choix de la confrontation déstabilisatrice pour l’ensemble du continent. Par ses décisions unilatérales et ses actions militaires, la Russie contrevient à ses engagements internationaux et remet en cause le principe cardinal du respect de la souveraineté et de l’intégrité territoriale des États, le fondement même de l’ordre européen et international.<br/>« Dans ce contexte, en tant que membre permanent du Conseil de sécurité des Nations unies et au titre de sa présidence en exercice du Conseil de l’Union européenne, le devoir de la France est triple : d’abord, ne rien céder sur les principes fondamentaux de la paix et de la sécurité collective, en sanctionnant fermement leur violation. C’est ce que le Conseil européen a acté hier par une série de sanctions inédites touchant la Russie et la Biélorussie. Les sanctions concerneront également des personnalités russes, y compris les plus hauts dirigeants de la Fédération de Russie. Ensuite, il nous faut agir en solidarité et en soutien au peuple et aux autorités ukrainiens. Nous accorderons ainsi une aide budgétaire supplémentaire de 300 millions d’euros. Nous sommes également en contact avec les autorités ukrainiennes pour leur fournir le matériel défensif dont elles ont besoin. Enfin, nous devons assurer l’unité avec nos partenaires européens et nos alliés pour protéger notre souveraineté, notre sécurité et nos démocraties. À cet égard, nous prendrons des engagements supplémentaires dans le cadre de l’OTAN afin de protéger le sol de nos alliés baltes et roumains et nous renforcerons la lutte contre les manipulations de l’information et les attaques cyber pour nous protéger contre les ingérences étrangères.<br/>« La guerre en Ukraine marque un tournant géopolitique et historique majeur du XXI<exposant>e</exposant> siècle, et fait courir le risque d’un retour des empires et des conflits de frontières. Cette crise majeure aura des conséquences sur nos vies, notre économie et notre sécurité. Les sanctions ont un impact dans la durée, elles ne sont jamais sans conséquences, y compris pour nous, mais nous l’assumons, car c’est de la défense de nos valeurs qu’il s’agit. Nous prendrons à cet égard toutes les décisions nécessaires afin de protéger nos compatriotes et nos entreprises. Cette épreuve vient confirmer à chacun que notre Europe n’est pas une union de consommateurs, mais bien ce projet politique de citoyens attachés à des valeurs et principes communs. C’est à ce titre que l’Union européenne doit pleinement devenir une puissance, plus souveraine en matière énergétique, technologique et militaire.<br/>« Je sais qu’au-delà des divergences qui vous opposent légitimement et qui garantissent la vitalité de notre démocratie, le Parlement saura répondre dans l’unité autour des principes fondamentaux inscrits dans notre Constitution : la souveraineté, la liberté et le respect du droit international.<br/>« Vive la République !<br/>« Vive la France ! » <italique>(Applaudissements prolongés sur les bancs des groupes LaREM, Dem, SOC, UDI-I, Agir ens et LT. – Applaudissements sur les bancs du groupe GDR, ainsi que sur plusieurs bancs du groupe LR et sur quelques bancs du groupe FI.)</italique><br/>L’Assemblée nationale donne acte à M. le Président de la République de son message.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="2061272" ordre_absolu_seance="21" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2802712" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2061273" ordre_absolu_seance="22" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2802713" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="569.68">Prochaine séance, mardi 1<exposant>er</exposant> mars, à quinze heures :<br/>Déclaration du Gouvernement relative à la décision de la Russie de faire la guerre à l’Ukraine, suivie d’un débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2061274" ordre_absolu_seance="23" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2802714" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à quatorze heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2061275" ordre_absolu_seance="24" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2802715" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

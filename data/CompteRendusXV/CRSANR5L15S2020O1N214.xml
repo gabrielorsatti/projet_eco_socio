@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N214</uid>
+  <metadonnees>
+    <dateSeance>20200518213000000</dateSeance>
+    <dateSeanceJour>lundi 18 mai 2020</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>214</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200214</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Wed, 20 May 2020 10:02:20 GMT</horaireGmt>
+    <heureGeneration>2020-05-20T12:02:20.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2093694">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2093698">
+          <intitule>Débat sur les conséquences de la réforme de l’assurance chômage</intitule>
+        </titreStruct>
+        <para id_syceron="2093703">M. Pierre Dharréville</para>
+        <para id_syceron="2093718">Mme Catherine Fabre</para>
+        <para id_syceron="2093391">Mme Marie-Christine Dalloz</para>
+        <para id_syceron="2093403">Mme Michèle de Vaucouleurs</para>
+        <para id_syceron="2093421">Mme Laurence Dumont</para>
+        <para id_syceron="2093436">M. Christophe Naegelen</para>
+        <para id_syceron="2093444">Mme Jeanine Dubié</para>
+        <para id_syceron="2093453">Mme Mathilde Panot</para>
+        <para id_syceron="2093552">Mme Muriel Pénicaud, ministre du travail</para>
+        <para id_syceron="2093570">M. André Chassaigne</para>
+        <para id_syceron="2093577">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093662">M. Lionel Causse</para>
+        <para id_syceron="2093667">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093674">M. Dominique Da Silva</para>
+        <para id_syceron="2093678">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093684">M. Stéphane Viry</para>
+        <para id_syceron="2093691">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093735">M. Stéphane Viry</para>
+        <para id_syceron="2093739">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093745">Mme Sophie Mette</para>
+        <para id_syceron="2093750">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093755">Mme Christine Pires Beaune</para>
+        <para id_syceron="2093761">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093778">M. Christophe Naegelen</para>
+        <para id_syceron="2093783">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093790">Mme Jeanine Dubié</para>
+        <para id_syceron="2093801">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="2093808">M. Alexis Corbière</para>
+        <para id_syceron="2093821">Mme Muriel Pénicaud, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2093831">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du lundi 18 mai 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1611656" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2093694" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1611657" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093695" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1611658" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2093696" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1611660" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2093698" valeur="">
+      <orateurs/>
+      <texte>Débat sur les conséquences de la réforme de l’assurance chômage</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1611661" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093699" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur les conséquences de la réforme de l’assurance chômage.<br/>Je vous rappelle les règles sanitaires que vous connaissez tous : l’hémicycle est nettoyé avant et après chaque séance, les micros le sont en cours de séance ; les orateurs sont invités à ne pas poser les mains sur les micros et à utiliser des micros différents. Je vous invite également à respecter les distances entre les participants en échelonnant vos entrées et vos sorties. Enfin, les orateurs s’expriment depuis l’hémicycle et non en tribune.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties : les orateurs des groupes et le Gouvernement dans un premier temps, une séquence de questions-réponses dans un second temps.<br/>La parole est à M. Pierre Dharréville.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1611665" ordre_absolu_seance="10" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093703" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Dharréville</nom>
+            <id>718926</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>« La protection sociale est donc un mécanisme indispensable pour apporter un soutien aux individus pendant la crise en leur donnant accès à des soins de santé et en les protégeant contre les pertes massives de revenus résultant du ralentissement économique le plus profond depuis la Seconde guerre mondiale », écrivait voici quelques jours l’Organisation internationale du travail. « En accélérant la reprise grâce à sa contribution positive à la consommation et à la demande globale, la protection sociale peut également agir comme un stabilisateur social et économique » ajoutait-elle. Elle invite notamment les pays en développement à « combler les lacunes de la protection sociale pour prévenir de futures crises ». Or, nous faisons l’inverse en dégradant notre système de sécurité sociale plutôt qu’en « l’upgradant » – j’emploie à dessein les mots des start-upers pour mieux me faire comprendre.<br/>La crise qui s’annonce risque de détruire de nombreux emplois alors que le travail ne manque pas pour relever les nouveaux défis. Nous avons besoin d’inventer pour amortir la crise et accélérer la transition écologique.<br/>Dans l’urgence, s’il n’a pas garanti le niveau de revenus des salariés, le Gouvernement a étendu le dispositif d’indemnisation du chômage partiel et technique. Il fallait le faire mais, déjà, vous en amorcez la décrue plutôt que de sécuriser socialement les parcours professionnels dans la durée grâce à de nouveaux dispositifs de garantie, lesquels seront au cœur d’une proposition de loi que nous placerons à l’ordre du jour de notre journée d’initiative parlementaire, le 18 juin prochain.<br/>Pour l’heure, il convient de s’appuyer sur l’assurance chômage en tâchant, au moins, de réparer les séquelles des méfaits qu’elle a subis avant l’apparition du virus. Le Gouvernement s’est jusqu’ici refusé à revenir sur cette réforme qu’il a imposée aux acteurs sociaux qui gèrent l’UNEDIC, l’organisme de gestion de l’assurance chômage, se contentant de reporter du 1<exposant>er</exposant> avril au 1<exposant>er</exposant> septembre l’entrée en application des nouvelles règles d’indemnisation des demandeurs d’emploi et de suspendre la mesure concernant la dégressivité des allocations chômage pour les cadres. C’est un début d’aveu de la nocivité de ces dispositions, nocivité décuplée par la crise.<br/>Malgré cela, le Gouvernement prend une simple décision de report alors que le premier volet de la réforme de l’assurance chômage, entré en application le 1<exposant>er</exposant> novembre 2019, est, quant à lui, toujours en vigueur. Il prévoit de durcir les conditions d’accès à l’allocation chômage pour les salariés qui doivent désormais avoir travaillé six mois durant une période de référence de vingt-quatre mois pour bénéficier d’une ouverture de droits, alors qu’il n’était auparavant exigé qu’une durée minimale de quatre mois au cours des vingt-huit derniers mois. De même, les conditions de rechargement des droits sont nettement plus sévères puisqu’elles imposent une période travaillée de six mois contre cent cinquante heures auparavant.<br/>Ces règles excluent dès aujourd’hui du dispositif de l’indemnisation chômage des centaines de milliers de travailleurs : intérimaires, saisonniers, travailleurs enchaînant des contrats courts dans les secteurs de la restauration, de l’hôtellerie ou la culture. L’étude d’impact de l’UNEDIC de septembre 2019 estimait que 710 000 personnes seraient concernées durant la première année de mise en œuvre.<br/>Du fait de la crise sanitaire et économique, un véritable drame social s’annonce. Le droit à l’indemnisation du chômage doit au contraire être suffisamment puissant dans les périodes de récession économique pour jouer son rôle d’amortisseur et de protection à l’égard des plus fragilisés.<br/>Par conséquent, le groupe GDR vous invite à retirer totalement la réforme de l’assurance chômage et à ouvrir, sans plus tarder, les négociations avec les organisations syndicales et patronales pour élaborer une nouvelle convention UNEDIC qui permettra de renforcer les droits au chômage des travailleurs.<br/>Lors de l’annonce de cette réforme, le Premier ministre déclarait : « Les règles actuelles datent de 2009, c’est-à-dire d’une époque où il fallait amortir le choc de la crise économique et financière. Aujourd’hui, la conjoncture est meilleure. Il est donc normal que les règles d’accès changent aussi. » Avez-vous un autre choix que de revenir sur cette réforme, qui a déjà causé suffisamment de dégâts ? N’est-il pas irréel de continuer à compter sur 4,5 milliards d’euros d’économies d’ici à 2022 ?<br/>Vous pensiez que ces mesures réduiraient mécaniquement le nombre de chômeurs de 150 000 à 250 000 sur trois ans. Vous disiez qu’il faudrait travailler davantage pour ouvrir des droits à l’assurance chômage. Vous faisiez fausse route en pensant que le durcissement des règles réduirait le chômage, comme s’il n’était pas largement subi. Et vos arguments tombent avec la crise. Pour être en accord avec vous-mêmes, vous devez adapter vos choix à la nouvelle situation.<br/>Nous vous invitons, pour notre part, à concrétiser votre intention, mollement affichée à l’époque, et contredite dans les faits, de lutter contre les contrats courts, afin de juguler la spirale de la crise plutôt que de l’encourager. Il conviendrait donc de renoncer à favoriser la précarisation que vous avez inscrite dans la loi portant diverses mesures d’urgence – et de non urgence – adoptée la semaine dernière. La relance ne doit pas se faire au prix du déclassement social, de la dégradation du travail, de la pression sur les salaires, du chômage et de la précarité. La relance ne pourra être que sociale.<br/>Voici quelques jours, j’ai présenté avec ma collègue Michèle de Vaucouleurs le bilan d’une mission concernant les solidarités durant cette période. Le constat est sans appel : la crise a exacerbé la précarité, faisant basculer un grand nombre de personnes dans la pauvreté. Des enfants, des femmes, des hommes ont faim. Ils ont perdu les rênes de leur vie. Voulons-nous encore aggraver la situation ? L’Assemblée des départements de France s’alarme de ce que cette réforme renverra vers le revenu de solidarité active – RSA – nombre de femmes et d’hommes qui bénéficiaient jusqu’ici de leurs droits à l’assurance chômage.<br/>Le nombre d’inscriptions à Pôle emploi a augmenté d’un peu plus de 42 000, soit 15 %, au cours des trois premières semaines du confinement, ce qui résulte en partie de la réforme que vous avez conduite. Nous aurons besoin d’un service public de l’emploi pleinement capable d’accompagner les demandeurs dans la période qui s’ouvre. Saluons, à ce propos, la mobilisation des agents qui ont assuré le lien si précieux pendant le confinement. Ils exercent ces métiers mal reconnus et pourtant essentiels à notre vie sociale. Renforçons les missions de Pôle emploi et tirons les leçons de l’expérience de ces dernières semaines.<br/>Nous défendons une société des droits, une société solidaire, une société qui respecte l’humain. L’assurance chômage, avec les caisses professionnelles mutuelles, est une vieille idée mais dont la mise en œuvre a été récemment unifiée. Depuis 1958, elle protège les salariés qui perdent leur emploi en leur versant une allocation indexée sur leur ancien salaire et en les accompagnant vers le retour à l’emploi. Elle s’inscrit dans une logique de salaire continué, reconnaissant ainsi la force de travail, la qualification de ceux qui sont temporairement privés d’emploi. C’est un risque que chacun court dans sa vie active, et l’on s’assure ainsi mutuellement face à ce risque. C’est une part des cotisations sociales que certains nomment « charges » pour les discréditer.<br/>Vous devez revenir sur votre réforme et ouvrir une nouvelle discussion avec les organisations syndicales. L’assurance chômage est une composante essentielle de la protection sociale, qu’il faut d’autant plus renforcer que la crise guette.<br/>Enfin, il convient de prendre des mesures en faveur des intermittents du spectacle. L’année blanche pour les intermittents doit correspondre à un renouvellement de douze mois tant que le calcul des heures demeure affecté par la crise. Au-delà, il faut agir en faveur de l’ensemble des artistes-auteurs et des travailleurs et travailleuses du monde de la culture, pour lesquels des mesures adaptées doivent être prises.<br/>Dans sa recommandation n<exposant>o</exposant> 205 de 2017, l’Organisation internationale du travail invitait ses membres, dans leur réponse aux situations de crise, à s’efforcer de garantir une sécurité élémentaire de revenu, en particulier aux personnes que la crise a privées de leur emploi ou de leurs moyens de subsistance, à élaborer, rétablir ou améliorer des régimes complets de sécurité sociale et d’autres mécanismes de protection sociale en tenant compte de la législation nationale et des accords internationaux. Pour prévenir les crises, permettre le redressement et renforcer la résilience, elle les invitait à établir, rétablir ou maintenir des socles de protection sociale et à s’efforcer de combler les lacunes de leur couverture.<br/>Notre pays est concerné. Faisons-le. Saisissons-nous de ce moment pour inventer la protection sociale de notre temps face à la sauvagerie du marché, de la finance et de la crise. <italique>(Applaudissements sur les bancs des groupes GDR et SOC.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Catherine Fabre" id_acteur="PA719570" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722700">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1611679" ordre_absolu_seance="28" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093717" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Catherine Fabre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1611680" ordre_absolu_seance="29" id_acteur="PA719570" id_mandat="PM722700" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093718" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Catherine Fabre</nom>
+              <id>719570</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous portons depuis trois ans une politique de l’emploi, une politique sociale qui tient en son cœur l’émancipation par l’éducation et par le travail. Nous avons déployé toute notre énergie pour renforcer l’égalité des chances par l’éducation, par exemple en dédoublant les classes de CP pour ceux qui avaient le plus de difficulté pour apprendre mais aussi en investissant 15 milliards sur cinq ans pour que chaque jeune vulnérable car sorti du système éducatif sans diplôme et chaque demandeur d’emploi de longue durée puisse se former, se qualifier et bâtir un projet de vie grâce à son travail. En accompagnant mieux chaque travailleur et en lui donnant les ressources pour se former tout au long de sa vie, nous avons commencé à démocratiser la formation professionnelle et à en faciliter l’accès.<br/>La réforme de l’assurance chômage est un autre maillon essentiel de cette politique de l’emploi. Elle partait d’un constat clair : au moment de la réforme, les contrats à durée déterminée – CDD – ou les contrats d’intérim représentaient 87 % des embauches, les contrats de moins d’un mois représentaient 70 % des embauches et un CDD sur trois était un contrat d’un jour, voire moins.<br/>Pour lutter contre la précarisation du travail tout en préservant la flexibilité nécessaire à certains métiers, cette réforme tendait à combattre ce recours abusif aux contrats courts, à rendre le travail plus lucratif que l’inactivité, à renforcer et adapter l’accompagnement des demandeurs d’emploi, en particulier les plus précaires. Elle a également permis d’ouvrir de nouveaux droits, notamment pour les salariés démissionnaires ou les travailleurs indépendants.<br/>Avant la crise du covid-19, les résultats de cette politique étaient très encourageants : une baisse significative de deux points du taux de chômage, qui était passé en trois ans de 9,6 % de la population active à 7,8 %.<br/>Derrière ces chiffres, ce sont des centaines de milliers de personnes qui ont retrouvé un travail et, par là même, confiance et foi en l’avenir. C’est pourquoi j’observe avec beaucoup de gravité la période qui s’ouvre. Ces mesures ont été prises pour libérer les énergies, dans un contexte de croissance économique, de pénurie de main d’œuvre, de recul du chômage. Hélas, en six semaines, toutes les perspectives économiques ont brutalement basculé.<br/>La crise sanitaire et la mise à l’arrêt de notre économie pendant plusieurs semaines, indispensable pour limiter la propagation du virus, ont eu un effet immédiat et terrible pour notre économie et les perspectives de retour à l’emploi des chômeurs. Nous devons à présent protéger les Français.<br/>Fidèle à sa conception essentielle du travail, le Gouvernement n’a pas hésité à investir des moyens colossaux dans le maintien du tissu productif français, la sauvegarde des compétences et des emplois. Je lui suis reconnaissante d’avoir choisi d’activer tous les amortisseurs sociaux, ce qui nous permettra de repartir plus vite et plus fort.<br/>Ainsi, 12,2 millions de salariés et un million d’entreprises ont été protégés par la prise en charge des salaires par l’État tandis que l’activité était arrêtée, soit 60 % de l’emploi du secteur privé.<br/>Plusieurs mesures d’urgence ont été adoptées pour protéger les chômeurs. Certaines mesures de la réforme de l’assurance chômage ont été suspendues pour répondre aux besoins immédiats dus à la crise. Ainsi, les périodes d’inactivité durant la crise ne seront pas prises en compte pour déterminer le salaire journalier de référence. Elles n’auront donc pas d’effet sur le montant des allocations. Pour tous les chômeurs en fin de droit, les allocations chômage ont été prolongées. Ces droits aux allocations ont par ailleurs été ouverts aux personnes ayant démissionné avant le début du confinement pour reprendre un emploi.<br/>S’agissant des intermittents qui arrivaient en fin de droits, le Gouvernement a reporté l’échéance au 31 août 2021. Il a également neutralisé cette période de confinement dans le calcul des droits. Ces mesures étaient nécessaires.<br/>La période qui s’ouvre reste incertaine. En instituant un filet de sécurité pour les indépendants alors que rien n’existait auparavant, la réforme de l’assurance chômage a créé une nouvelle protection qui s’avèrera certainement précieuse. C’est dans cet esprit de protection et d’innovation que nous devons aborder la suite, afin de continuer, dans ce nouveau contexte plus difficile, à construire avec volontarisme de véritables parcours de sécurisation professionnelle.<br/>Les travaux commencés il y a quelques mois avec les partenaires sociaux sur la prévention de la pénibilité au travail et les possibilités de reconversion professionnelle vers des secteurs stratégiques et prometteurs doivent participer à ce mouvement de reconstruction de notre économie pour l’avenir, et veiller à ne laisser personne au bord du chemin.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marie-Christine Dalloz" id_acteur="PA332523" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722792">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1611547" ordre_absolu_seance="41" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093390" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie-Christine Dalloz.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1611548" ordre_absolu_seance="42" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093391" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Dalloz</nom>
+              <id>332523</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, quand on est petit, on n’a pas le choix, on est obligé de toucher le micro ! <italique>(Sourires.)</italique><br/>Ce débat sur les conséquences de la réforme de l’assurance chômage, demandé par le groupe GDR, a toute sa place durant cette période de contrôle post-confinement ; je dirais même qu’il a une réelle importance. <italique>(M.</italique><italique> </italique><italique>Pierre Dharréville acquiesce.)</italique><br/>La présente crise épidémique a eu sa solution provisoire, qui fut le confinement ; elle a, et aura, de graves conséquences économiques, notamment sur l’emploi dans le secteur privé, quelle que soit la filière d’activité. Malgré l’accompagnement, des entreprises ne pourront pas amortir le choc.<br/>À la date du 21 avril 2020, 4,3 milliards d’heures chômées étaient demandées par l’ensemble des entreprises. Plus de 12 millions de nos concitoyens ont été contraints d’utiliser le chômage partiel et plus d’un million d’entreprises sont concernées. Comparés aux 29 millions de Français actifs, ces chiffres montrent bien l’ampleur et la gravité du problème économique dû à l’arrêt de l’activité.<br/>Le groupe Les Républicains a soutenu le Gouvernement durant cette crise, lorsqu’il a facilité le recours au chômage partiel. C’était essentiel pour sauver nos entreprises, les emplois de nos salariés, leurs savoir-faire et leurs compétences. Nous sommes également satisfaits de l’extension du chômage partiel dans la durée. On doit continuer à accompagner les entreprises et leurs salariés dans la suite de cette crise. Il faut noter que presque 40 % – 37,5 % je crois – des demandes d’heures chômées ont été formulées par des entreprises de moins de vingt salariés : c’est assez significatif.<br/>Ce qui est en train de se préparer, ce n’est plus seulement le combat contre le virus, c’est le combat pour la compétitivité de la France, pour nos emplois, pour nos bassins de travail et nos bassins de vie, pour ces millions de Français qui s’inquiètent pour leur vie mais aussi pour leur emploi. Cette situation, inédite dans son ampleur, se cumule avec l’instauration de la réforme de l’assurance chômage. Bien sûr, le Gouvernement l’avait actée préalablement, mais ses conséquences dans ce moment seront dramatiques.<br/>Les députés du groupe Les Républicains ont combattu cette réforme dangereuse. Petit rappel pour mémoire : son adoption, avec le vote d’un amendement quasi hors délai, en dernière lecture au Sénat, à la demande du Président de la République, n’est pas une procédure courante. Il n’y a eu aucun débat de fond sur le sujet et l’apparente confiance dans les partenaires sociaux masque mal une réelle défiance à leur égard. La feuille de route qui leur avait été présentée était intenable et tout a été fait pour que les négociations échouent, avec comme seul but la mainmise de l’État sur l’un des temples du paritarisme, l’UNEDIC.<br/>Selon les prévisions de l’UNEDIC, le déficit en 2019 était de 1,9 milliard ; en 2020, il aurait dû être de 0,9 milliard, et l’UNEDIC tablait avec cette réforme sur un excédent de 2,3 milliards en 2021. C’était sans le covid-19. N’oublions pas une chose : durant les trois premières années du quinquennat, le gouvernement d’Emmanuel Macron a défié tous les corps intermédiaires, Parlement, collectivités territoriales, partenaires sociaux, partis politiques, afin de s’attribuer tous les leviers d’action du pays. Et ce, pour quel résultat ?<br/>Nous entrons dans la crise. Elle n’est certes pas de la responsabilité du Gouvernement, qui ne pouvait prévoir le covid-19, mais sa responsabilité était de préparer notre pays à la survenance d’une telle épidémie. L’Allemagne n’a pas arrêté tout son appareil productif, et bien d’autres pays non plus. Quelles seront les conséquences ? Il est à redouter que le nombre de salariés qui perdront leur emploi explose. Ce fut déjà le cas en mars, avec 246 100 demandeurs d’emploi de plus en catégorie A, c’est-à-dire sans emploi. C’est la plus forte hausse jamais enregistrée ; c’est un tsunami qui va nous submerger. Toutes ces personnes devront s’inscrire à Pôle emploi : elles le feront si leurs droits ne sont pas supprimés par la réforme de l’assurance chômage dont il est question.<br/>Cette réforme, prise à un moment de baisse continuelle du chômage et en situation de quasi plein emploi pour les cadres, ne peut être appliquée comme prévu. C’est la principale critique que nous vous avions faite à l’époque, car nous parlions alors d’un éventuel retournement de la situation économique. Même si certains pouvaient soutenir une telle réforme dans un contexte positif de baisse du chômage, en faisant abstraction du nombre toujours très élevé de personnes sans emploi, elle aurait aujourd’hui des conséquences dévastatrices dans une période de crise. C’est bien à cela que nous assistons. <italique>(Applaudissements</italique><italique/><italique>sur les bancs du groupe LR.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle de Vaucouleurs" id_acteur="PA721924" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723422">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1611559" ordre_absolu_seance="52" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093402" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle de Vaucouleurs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1611560" ordre_absolu_seance="53" id_acteur="PA721924" id_mandat="PM723422" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093403" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle de Vaucouleurs</nom>
+              <id>721924</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie vivement le groupe GDR d’avoir fait inscrire à nos débats la question de la réforme du chômage.<italique/>C’est l’occasion de rappeler le travail important effectué par le législateur, le Gouvernement et les partenaires sociaux sur la question de l’emploi depuis le début de la législature. C’est également l’occasion de mettre en perspective les résultats obtenus à ce jour en matière d’emploi et de tenter d’éprouver la justesse du modèle à l’épreuve de la crise économique et sociale qui est devant nous.<br/>Réforme du dialogue social, loi pour la liberté de choisir son avenir professionnel et réforme du chômage forment les trois chantiers qui ont été conduits dans l’objectif de fluidifier le marché de l’emploi, de renforcer les compétences des travailleurs et de lutter contre le chômage.<br/>De nombreuses mesures ont également été prises à l’occasion des lois de financement de la sécurité sociale afin de limiter et prévenir la désinsertion professionnelle, par exemple à travers l’amélioration du recours au temps partiel thérapeutique, l’expérimentation d’une plateforme départementale pluridisciplinaire coordonnée par l’assurance maladie afin d’accompagner les salariés en arrêt de travail et d’éviter tout éloignement durable de l’emploi, ou encore la simplification des conditions d’accès au travail léger, qui consiste à aménager le poste de travail pour le retour à l’emploi d’un salarié victime d’un accident du travail ou d’une maladie professionnelle.<br/>Cette politique extrêmement volontariste a porté ses fruits : en 2019, le nombre de créations d’entreprise a bondi de 17 % et le nombre d’apprentis augmenté de plus de 16 %. Le taux de chômage est descendu à 8,1 % au début de 2020, soit son plus bas niveau depuis 2008. Aussi, nous pouvons être fiers sur ces bancs d’avoir contribué à ces résultats.<br/>Hélas, face aux conséquences économiques et sociales attendues de la crise sanitaire que nous traversons et qui a conduit à mettre notre économie à l’arrêt durant deux mois, il va sans doute falloir remettre notre ouvrage sur la table.<br/>Dans la crise que nous traversons, le Gouvernement a pris un large ensemble de mesures visant à préserver les entreprises et à sauvegarder les compétences. Le régime d’activité partielle instauré en France, étendu à de nouvelles professions comme les assistantes maternelles, les employés à domicile ou encore les intérimaires, est le plus protecteur d’Europe, pour les salariés comme pour les entreprises. À la date du 12 mai 2020, ce sont 12,4 millions de salariés et plus d’un million d’entreprises qui ont pu bénéficier du chômage partiel. Les droits des demandeurs d’emploi arrivés à leur terme après le 1<exposant>er</exposant> mars 2020 et au cours de la période de confinement sont par ailleurs prolongés jusqu’à la fin de la crise sanitaire.<br/>Enfin, la loi portant diverses dispositions liées à la crise sanitaire, à d’autres mesures urgentes ainsi qu’au retrait du Royaume-Uni de l’Union européenne, en cours d’examen au Parlement, prévoit des mesures qui permettent la reconduction des CDD et des contrats d’intérim arrivant à leur terme jusqu’à la fin de l’année 2020, sans déroger à la durée maximale des contrats prévue par la loi, afin d’accompagner la reprise.<br/>Je salue ici les décisions qui ont été prises et qui contribueront à amortir de manière significative les conséquences de la crise. Toutefois, mes chers collègues, nous ne pouvons feindre d’ignorer qu’en dépit de tout cela, beaucoup de nos concitoyens vont, au moins transitoirement, être frappés durement par le chômage.<br/>Aussi devrons-nous engager de nouvelles négociations sur les règles d’indemnisation du chômage. Si certaines dispositions ne semblent pas appelées à être modifiées, telles que la dégressivité des allocations chômage pour les hauts revenus et l’ouverture des droits pour les salariés démissionnaires ayant un projet de reconversion ou pour les travailleurs indépendants dont l’activité n’a pu se poursuivre, la question des règles d’indemnisation doit être évaluée pour devenir plus protectrice au cours des mois à venir.<br/>Dans un contexte d’amélioration de la conjoncture et d’accroissement des possibilités d’accéder à un emploi, il est plus que légitime de décourager le maintien dans le chômage. Dans un contexte de moindre emploi, il devient en revanche difficile de retrouver de l’emploi à durée indéterminée ou des contrats de travail longs ; le cumul avec les indemnités chômage paraît préférable à un basculement dans le RSA.<br/>Ces nouvelles règles pénalisent par ailleurs plus lourdement les jeunes qui, enchaînant des missions ponctuelles, ne parviennent pas à se constituer rapidement des droits au chômage et en conséquence supportent des périodes sans salaire, ni indemnisation, ni minimum social. Notons aussi que selon l’UNEDIC, la baisse des indemnisations moyennes pour ceux qui perçoivent le chômage entre deux périodes de travail serait de l’ordre de 22 %, passant de 905 à 708 euros.<br/>L’intermittence n’est évidemment pas un idéal. Les statistiques communiquées au moment de la réforme mentionnaient 865 000 personnes cumulant chômage et contrats courts. Les données faisaient également état de 70 % d’embauches pour des durées inférieures à un mois.<br/>Pour améliorer cette situation peu favorable aux salariés, la taxation des contrats courts, par une variation du montant des cotisations patronales de chômage, doit entrer en vigueur en janvier 2021. Parmi les secteurs soumis à cette taxation, celui de l’hôtellerie-restauration, si durement éprouvé, devrait être concerné.<br/>Le groupe MODEM et apparentés souhaite ici réaffirmer sa pleine confiance dans l’action du Gouvernement, mais souhaite également que des négociations s’ouvrent sans attendre avec les partenaires sociaux pour adapter la réforme du chômage qui est en partie entrée en vigueur, afin de rendre le système plus protecteur durant les mois les plus difficiles de la crise. <italique>(Applaudissements sur les bancs du groupe MODEM et sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laurence Dumont" id_acteur="PA1198" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722532">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1611577" ordre_absolu_seance="67" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093420" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laurence Dumont.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1611578" ordre_absolu_seance="68" id_acteur="PA1198" id_mandat="PM722532" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093421" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Dumont</nom>
+              <id>1198</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il y a un an, ici déjà, je m’adressais au Premier ministre au sujet de cette réforme de l’assurance chômage. Je dénonçais alors, comme tous les députés de gauche, la prétendue ambition réformiste du Gouvernement, basée sur cette vision ultralibérale de l’économie.<br/>Une réforme de l’assurance chômage sans aucun droit nouveau ; une réforme fondée sur l’idée que les demandeurs d’emploi étaient responsables de leur sort, étant trop confortablement indemnisés par l’assurance chômage.<br/>Si c’est bien la majorité actuelle qui a voté ce texte dogmatique et idéologique, sa paternité doit être recherchée au plus haut sommet de l’État. C’est bien le Président de la République qui en a été l’inspirateur. Personne n’aura oublié ses propos adressés à un jeune chômeur : il suffisait de traverser la route pour trouver un emploi… Une phrase terrible, incompréhensible, puisqu’un chômeur sur deux n’était alors pas indemnisé, et que la moitié de ceux qui l’étaient touchaient en moyenne 860 euros par mois, soit moins que le seuil de pauvreté.<br/>En énonçant ces quelques chiffres, on comprend que le chômage ne peut constituer un choix de vie. Qui peut imaginer un seul instant que se maintenir dans la précarité relèverait d’un choix de vie ? Il suffit d’ailleurs de discuter avec celles et ceux qui accompagnent les plus précaires d’entre nous pour se loger et se nourrir, pour se rendre compte que ceci est une vue de l’esprit, totalement injuste.<br/>Pourtant, malgré cela, vous avez à l’époque fait le choix de durcir encore les conditions d’accès à l’assurance chômage : pour être indemnisé, il devenait nécessaire de travailler six mois durant les deux années précédentes au lieu de quatre mois durant les vingt-huit mois précédents, soit travailler un jour sur quatre au lieu d’un jour sur sept. Un choix assumé, appliqué par décret, sans écoute ni des associations caritatives, ni de l’opposition, ni du Parlement, ni des partenaires sociaux.<br/>Aux syndicats, qui craignaient des baisses drastiques pour les plus précaires, vous répondiez que la conjugaison des nouvelles règles et surtout un marché de l’emploi dynamique renforceraient la reprise d’un emploi.<br/>Un marché dynamique de l’emploi, disiez-vous : avec la crise du coronavirus et le ralentissement dû au confinement, le risque d’augmentation de la précarité et du chômage est majeur. Il ne faut pas qu’à la crise sanitaire s’ajoute une crise sociale.<br/>Au début de la crise sanitaire, vous avez certes suspendu jusqu’en septembre le second volet de la réforme, qui durcit le calcul de l’allocation pour les travailleurs précaires et qui devait entrer en vigueur le 1<exposant>er</exposant> avril. En revanche, la règle déjà entrée en vigueur le 1<exposant>er</exposant> novembre qui durcit les conditions d’accès et de rechargement des droits est toujours valable.<br/>Vous avez, madame la ministre du travail, annoncé votre intention d’engager une réflexion avec les partenaires sociaux pour adapter rapidement les règles applicables à l’assurance chômage. C’est un premier pas, mais c’est insuffisant. Il faut être à la hauteur de la crise économique et sociale qui s’annonce et prendre des mesures radicales. L’heure n’est plus à mener une politique exclusivement comptable. Il faut éviter la casse sociale, « quoi qu’il en coûte », selon la formule du chef de l’État. Il faut protéger les travailleurs les plus fragiles, ceux qui avant la crise déjà occupaient un emploi précaire, ainsi que les travailleurs des secteurs les plus sévèrement touchés par la crise sanitaire – dans l’hôtellerie, la restauration, la culture, le tourisme ou encore l’événementiel.<br/>Bref, il faut abandonner cette réforme, afin que les indemnités de chômage ne soient pas drastiquement diminuées, voire supprimées.<br/>Il faut se réinventer, il faut changer : ces mots ont été prononcés par le chef de l’État. Alors n’attendez pas, donnez corps à ces mots et retirez cette réforme inefficace et injuste. <italique>(Applaudissements sur les bancs des groupes SOC et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christophe Naegelen" id_acteur="PA721486" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723290">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1611492" ordre_absolu_seance="47" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093435" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Naegelen.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1611493" ordre_absolu_seance="48" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093436" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sans surprise, cette crise a provoqué une hausse historique et brutale du nombre de chômeurs, dont les conséquences économiques se feront sentir pendant plusieurs mois. Le déconfinement n’inversera hélas pas cette tendance.<br/>Oui, sans doute fallait-il une réforme de l’assurance chômage : nous devions modifier le système afin de réduire la dette du régime d’assurance chômage, revaloriser le travail pour qu’il rémunère davantage que l’inactivité, renforcer les mesures d’accompagnement des demandeurs d’emploi pour appliquer des solutions différenciées et adaptées aux bassins de vie et d’emploi, lutter contre le recours abusif aux contrats courts pour inciter les entreprises à favoriser les emplois de longue durée. Le contexte sanitaire inédit et la récession historique menacent cependant d’affaiblir cet équilibre en durcissant considérablement les conditions d’accès au marché du travail dans les prochains mois.<br/>Je m’inquiète pour les nombreuses victimes collatérales à venir. Je pense tout d’abord aux seniors, que la réforme avait ignorés puisque la question du chômage de longue durée des seniors n’avait pas été abordée. Cette crise aggravera leur employabilité, déjà bien fragile auparavant. Cette population est souvent oubliée et il me semble nécessaire d’étudier des mesures permettant de ne pas creuser les inégalités dues à l’âge, en augmentant par exemple la durée d’indemnisation pour les demandeurs d’emploi âgés de plus de 55 ans, durée qui est actuellement plafonnée à trente-six mois.<br/>Plus généralement, la baisse des capacités productives des entreprises qui ont dû réduire ou interrompre leur production suite au confinement, entraîne des risques non seulement de faillite mais aussi de licenciement, ce qui se traduira de facto par une hausse du chômage. Des centaines de milliers de travailleurs de tous secteurs d’activité dont les contrats devaient débuter ou être renouvelés se trouvent privés d’emploi. Hélas, lorsqu’une crise de la sorte frappe une économie tout entière, les destructions d’emploi se concentrent massivement sur les salariés les moins protégés. La menace de précarisation d’une population déjà affaiblie doit nous inquiéter.<br/>J’en viens à la situation des jeunes. En temps normal, nous mesurons les difficultés d’accès des jeunes diplômés au marché du travail. Aujourd’hui les étudiants qui terminent leur cursus dans un contexte déjà inédit feront sans doute une entrée dans la vie active encore plus chaotique, et trouveront des emplois encore plus précaires, ce qui aura peut-être des incidences durables sur leurs carrières, y compris en termes de rémunération. L’annulation des stages de fin d’études prive les intéressés de toute possibilité de transformer ces stages en emplois permanents grâce à une embauche à l’issue des mois de découverte dans l’entreprise accueillante. Quant aux 700 000 jeunes qui sortent chaque année du système éducatif et qui ne sont ni en études, ni en emploi ni en formation, ils seront forcément affectés.<br/>Nous devons tout faire pour éviter de créer une promotion covid. Seule une politique volontariste le permettra : il faut soutenir massivement les entreprises afin qu’elles maintiennent leur engagement en faveur des jeunes. Vous avez affirmé votre volonté de ne pas les oublier, madame la ministre. Il faudra traduire cet engagement par des mesures claires dans le plan de relance. Aucune génération ne doit être sacrifiée.<br/>J’appelle enfin votre attention sur l’une des mesures que vous avez prises pour protéger les demandeurs d’emploi pendant la crise du covid-19, à savoir le maintien du versement des allocations à tous les demandeurs d’emploi arrivant en fin de droits. Je me félicite naturellement du prolongement de ces droits mais les personnes qui seront encore titulaires de droits au-delà de la période de crise ne sont pas concernées. Elles continuent donc de consommer leurs droits alors qu’elles sont dans l’impossibilité, depuis le confinement, de trouver un travail. Serait-il possible de leur accorder également un bonus de droits correspondant à la période où elles étaient privées de tout accès au marché du travail ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1611500" ordre_absolu_seance="55" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093443" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1611501" ordre_absolu_seance="56" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093444" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il y a six mois, le Gouvernement entérinait sa réforme de l’assurance chômage par l’entrée en vigueur de son premier volet, prenant ainsi définitivement acte de l’échec des négociations entre les partenaires sociaux. À l’époque déjà, le groupe Libertés et territoires avait regretté le peu de marge de manœuvre que le Gouvernement avait laissé aux partenaires sociaux et sa reprise en main de ce sujet, d’autant que la réforme présentée in fine nous a fait douter, pour dire le moins, de sa capacité à protéger les demandeurs d’emploi les plus fragiles.<br/>Nous craignions en effet que cette réforme réponde davantage à une logique comptable au détriment d’impératifs de solidarité et de justice sociale. En effet, elle pénalise les travailleurs exerçant une activité discontinue, en particulier les travailleurs saisonniers et intérimaires qui alternent les contrats courts et les périodes d’inactivité.<br/>Il y a six mois, pourtant, l’économie se portait plutôt bien et les statistiques du chômage étaient en recul constant. Après douze années de déficit, l’UNEDIC prévoyait d’ailleurs un retour à l’équilibre, voire une situation excédentaire. Malgré cette bonne conjoncture économique, les craintes demeuraient nombreuses. À l’époque, une note de l’UNEDIC avait confirmé nos doutes et nous avait éclairés sur l’effet anticipé de la réforme : certes, des économies de l’ordre de 3,4 milliards d’euros étaient annoncées pour la période 2020-2021 mais en contrepartie, l’UNEDIC prévoyait déjà que les décisions du Gouvernement auraient une incidence négative sur plus de 40 % des demandeurs d’emploi bénéficiant du régime de l’assurance chômage, en particulier les travailleurs saisonniers exerçant dans les secteurs de la restauration, de l’hébergement et des loisirs en zone touristique, qui représentent près de la moitié des travailleurs saisonniers.<br/>Novembre 2019 semble bien loin aujourd’hui, tant la brutalité de la crise provoquée par l’épidémie de covid-19 a bouleversé le pays. Tous les indicateurs économiques de l’époque sont caducs. Nous ignorons encore quelles seront précisément les incidences de la crise sur l’emploi mais les statistiques publiées jeudi dernier par l’INSEE indiquent que le nombre de chômeurs a poursuivi sa baisse pour atteindre un taux de 7,8 %, soit une baisse de 0,3 % par rapport au dernier trimestre de 2019. L’INSEE estime cependant que cette baisse en trompe-l’œil révèle surtout l’indisponibilité des personnes à rechercher un emploi, beaucoup ayant cessé toute démarche en période de confinement. De surcroît, les chiffres de Pôle emploi pour le mois de mars concluaient déjà à une augmentation de 250 000 chômeurs.<br/>Le retour à l’équilibre de l’UNEDIC s’annonce compromis, le coût du dispositif de chômage partiel s’élevant déjà à 24 milliards d’euros. Ainsi, la crise économique ne fait que renforcer nos craintes quant aux conséquences de la réforme de l’assurance chômage.<br/>Vous avez pris, madame la ministre, quelques mesures d’assouplissement pendant la crise en prolongeant notamment le versement de l’allocation pour les personnes arrivant en fin de droits. Vous avez également reporté au 1<exposant>er</exposant> septembre l’entrée en vigueur du décret prévu pour avril dernier, qui visait à durcir le mode de calcul utilisé pour déterminer si une personne peut ou non bénéficier de l’assurance chômage.<br/>Alors que vous vous apprêtez à engager une réflexion avec les partenaires sociaux, des associations et des syndicats comme la CFDT et l’UNSA demandent le retrait pur et simple de la réforme. Il faudra en effet aller plus loin que de simples mesures d’adaptation. La crise exige une réelle remise en cause de la réforme : il faut imaginer un nouveau système permettant le retour à l’emploi et, surtout, garantissant davantage de solidarité face au chômage et à la précarité.<br/>Il faut impérativement se pencher sur les contrats courts et précaires, qui sont les plus durement pénalisés. L’inquiétude est particulièrement vive pour les travailleurs saisonniers des secteurs du tourisme, de l’hôtellerie et de la restauration, qui subissent des répercussions lourdes et durables. Nombreux seront les travailleurs qui n’auront pas assez travaillé en 2020 et qui auront bientôt épuisé leurs droits au chômage, sans compter tous ceux qui n’auront pas pu retrouver un emploi du fait de la baisse de l’activité touristique liée à la crise du covid. Le système de bonus-malus, qui ne tient pas compte des spécificités des secteurs et des territoires dépendant du tourisme, risque de pénaliser l’embauche.<br/>Quant aux nouvelles règles d’indemnisation, notamment de cumul emploi-chômage, elles doivent être repensées. À partir de septembre, les indemnités seront établies sur la base du revenu moyen des mois où un salarié a travaillé, ce qui réduira leur montant d’environ 30 % par mois. Il faudra également avoir travaillé six mois, au lieu d’un seul actuellement, pendant la période de chômage pour que l’indemnisation soit prolongée d’autant, ce qui pénalise encore une fois les contrats courts.<br/>Vous ne pouvez vous contenter de simples ajustements, madame la ministre. Le Gouvernement est-il prêt à remettre profondément en cause la réforme de l’assurance chômage afin d’apporter des réponses adaptées à la situation des travailleurs les plus précaires ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mathilde Panot" id_acteur="PA720892" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723106">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1611509" ordre_absolu_seance="66" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093452" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mathilde Panot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1611510" ordre_absolu_seance="67" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093453" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Arrêtez la chasse aux chômeurs, madame la ministre ! Le 18 mars, vous preniez des mesures d’urgence pour « lutter contre la précarité et protéger les plus vulnérables », disiez-vous. Pour cela, vous avez été forcée de geler certaines dispositions de votre réforme de l’assurance chômage.<br/>Ainsi, la dégressivité des allocations au bout de six mois d’indemnisation est suspendue. Par ailleurs, les périodes non couvertes par un contrat de travail ne seront pas prises en compte dans le calcul de l’indemnisation pendant la durée de la crise sanitaire – mais seulement à titre exceptionnel, vous empressez-vous de rappeler.<br/>Tiens donc ! La réforme dont vous vantiez le bien-fondé il y a encore quelques mois doit être gelée pendant la crise : on n’imaginait pas pareil aveu ! Pourquoi en suspendre les effets si elle était si bénéfique pour l’intérêt général ? Pourquoi reporter une réforme destinée à lutter contre le chômage alors que nous entrons dans une crise sociale d’ampleur avec une explosion du chômage ? À moins qu’il ne faille avouer que cette réforme n’était pas destinée à lutter contre le chômage mais bien contre les chômeurs…<br/>L’épidémie limite la reprise d’emploi, me répondrez-vous. L’épidémie a bon dos ! Épidémie ou non, la France souffrait déjà d’un mal dont vous taisiez le nom : la pénurie. Avant la crise, 300 000 offres d’emploi étaient non pourvues – encore que ce chiffre puisse être discuté, mais passons – pour 6 millions de chômeurs. Vous restiez pourtant aveugle ! C’était votre mensonge préféré pour vendre votre réforme crasse : il suffit de traverser la rue pour trouver un emploi. Mais bien sûr ! Il est plus facile de culpabiliser les chômeurs en les rendant responsables de leur situation que d’admettre l’échec de votre politique.<br/>Or la situation ira en s’aggravant. L’Observatoire français des conjonctures économiques – OFCE – prévoit que le chômage pourrait toucher 500 000 personnes supplémentaires. Les entrées au chômage pour fin de mission d’intérim ont augmenté de 151 % au début du confinement. Avec vous aux manettes, la crise économique provoquera sans aucune doute un défilement de faillites et de plans sociaux. Pourtant, vous vous obstinez. Vous préférez reporter votre réforme plutôt que de l’abandonner. Le carnage pourra reprendre en septembre. La crise n’est pour vous qu’une parenthèse. Vous maintenez donc votre taxe sur les chômeurs ! En effet, c’est bien de cela qu’il s’agit : votre seule ambition consiste à réaliser 4,5 milliards d’économies sur le dos de celles et ceux qui sont privés d’emploi.<br/>Dans ce but, votre méthode moyenâgeuse est la saignée : les périodes d’inactivité seront prises en compte dans le calcul de l’indemnisation et, en conséquence, vous baissez les indemnisations de 650 000 chômeurs. Vous durcissez également les conditions d’ouverture de droits. Pour vous, ce sont 1,3 million de cases radiées de votre tableur Excel. Pour eux, ce sont des vies brisées et une mort sociale.<br/>Les personnes qui alternent contrats courts et périodes de chômage seront frappées de plein fouet. La boucle est ainsi bouclée : vous avez d’une main détruit le code du travail et facilité le recours massif des entreprises aux emplois précaires, et de l’autre vous sanctionnez par cette réforme celles et ceux qui les occupent.<br/>Et pour finir, plutôt que de diminuer le temps de travail pour que tous travaillent, vous en portez la durée à soixante heures par semaine et vous vous attaquez au droit au repos hebdomadaire. Quel génie, madame la ministre ! Votre petite entreprise de destruction ne connaît pas la crise ! La presse nous apprend que les sanctions après deux refus d’emploi ont repris le 11 mai et que les radiations pour absence à convocation reprennent demain. Pendant ce temps, 14 000 personnes meurent chaque année du fait du chômage de longue durée. Maintenir votre réforme dans ces circonstances devrait vous faire honte.<br/>Toutes vos réformes visant à « libérer les énergies », flexibiliser l’emploi, réduire le coût du travail et je ne sais quelle autre foutaise ont déjà fait maintes fois la preuve de leur échec. C’est tout le contraire qu’il faut faire ! Car le chômage est un choix politique.  <br/>Il faut, au contraire, partager le temps de travail et enclencher la bifurcation écologique et solidaire, afin de créer des centaines de milliers d’emplois socialement et écologiquement utiles. Garantir un emploi digne à toutes et tous est une nécessité, alors que le nombre de chômeurs explose déjà dans cette crise sanitaire.<br/>Dans cette tâche, la responsabilité de l’État, la vôtre, est immense. Pour éradiquer le chômage de masse, nous devons faire de l’État l’employeur en dernier ressort des personnes privées d’emploi. C’est la condition pour mettre en œuvre le droit à l’emploi, consacré dans la Déclaration des droits de l’homme et du citoyen. Nous sommes de ce camp-là !<br/>Vous, vous prônez des solutions du passé. Il y a déjà près de trente ans, André Gorz écrivait ceci : « Une perspective nouvelle s’ouvre ainsi à nous : la construction d’une civilisation du temps libéré. Mais, au lieu d’y voir une tâche exaltante, nos sociétés tournent le dos à cette perspective et présentent la libération du temps comme une calamité. Au lieu de se demander comment faire pour qu’à l’avenir tout le monde puisse travailler beaucoup moins, beaucoup mieux, tout en recevant sa part des richesses socialement produites, les dirigeants, dans leur immense majorité, se demandent comment faire pour que le système consomme davantage de travail – comment faire pour que les immenses quantités de travail économisées dans la production puissent être gaspillées dans des petits boulots dont la principale fonction est d’occuper les gens ».<br/>Le temps presse. Vous nous en avez fait perdre tant ! Abandonnez cette réforme de l’assurance chômage mortifère, arrêtez votre chasse aux chômeurs ! Vous et vos vieilles recettes, madame la ministre, avez fait votre temps. <italique>(Exclamations sur quelques bancs du groupe LaREM.)</italique><italique/></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre du travail" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1611697" ordre_absolu_seance="5" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093551" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre du travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1611698" ordre_absolu_seance="6" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093552" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre du travail</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez été plusieurs à le dire, je pense notamment à M. Dharréville, Mme Fabre et Mme Dalloz, la protection sociale est un bien commun auquel nous sommes très attachés en France et dont l’assurance chômage fait partie. Vous avez d’ailleurs été plusieurs à saluer l’action du Gouvernement en termes d’activité partielle, dite chômage partiel. Depuis deux mois, ce dispositif a apporté un filet de protection à presque 12,5 millions de nos concitoyens. Il a évité des centaines de milliers de licenciements, qui ont eu lieu dans les pays qui n’ont pas recouru à cet amortisseur social, notamment les États-Unis où plus de 30 millions de personnes ont perdu leur emploi.<br/>Les compétences d’un million d’entreprises ont ainsi été protégées, et plus de 12 millions de nos concitoyens, ce qui représente six emplois sur dix dans le secteur privé, dont plus de la moitié dans les petites entreprises, ce qui est important pour les entreprises, les salariés et les territoires.<br/>Le système de l’assurance chômage fait partie de la protection sociale générale. Quel est l’impact de la crise actuelle sur la réforme que nous en avons faite ?<br/>La réforme de l’assurance chômage a été rendue possible par la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, concrétisée par un décret du 26 juillet 2019. Cette évolution normative a été l’un des piliers de la transformation de notre modèle social, voulue par le Président de la République. Les objectifs de cette loi ont toujours été clairs : mieux inciter à la reprise d’emploi et lutter contre le développement de la précarité lié au recours excessif aux contrats courts.<br/>Personne n’aurait pu prédire la situation exceptionnelle que nous connaissons. Mme de Vaucouleurs et d’autres ont rappelé à quel point le contexte avait changé. Il y a trois mois et quinze jours, j’annonçais ici même que le chômage avait baissé jusqu’à un taux que nous n’avions pas connu depuis onze ans, avant la crise de 2008-2009, soit 8,1 % dans le pays et 7,9 % en métropole. En outre, l’apprentissage avait explosé, puisque le nombre d’apprentis avait décollé de 16 %.<br/>C’était il y a trois mois : pour vous je ne sais pas, mais cela me semble très loin. Nous avons vécu avec une intensité extraordinaire depuis trois mois et nous sommes plongés dans une nouvelle situation. Vous l’avez dit sur tous les bancs, la crise du covid-19 a profondément affecté la situation du marché du travail, ce dont nous devons tenir compte. Elle l’aurait fait encore plus sans le recours massif au chômage partiel.<br/>En mars, les données de Pôle emploi ont fait état de 246 000 chômeurs supplémentaires de catégorie A, soit la tendance opposée à celle que nous avions connue depuis trois ans. Les chiffres du Bureau international du travail et de l’INSEE affichent une baisse du chômage pour le premier trimestre de 2020, mais je vous accorde qu’il s’agit d’une diminution en trompe-l’œil, car le confinement a empêché certains chômeurs de rechercher un emploi, les sortant ainsi des statistiques. Ne prenons pas en compte ce chiffre, qui n’est pas suffisamment signifiant.<br/>Les conséquences économiques et sociales de cette crise sanitaire sans précédent sont et seront également inédites. Face à cette situation exceptionnelle, le Gouvernement a agi avec rapidité et pragmatisme, en protégeant immédiatement les salariés grâce au dispositif de chômage partiel, devenu le plus protecteur d’Europe. Il l’a élargi à une dizaine de catégories qui n’y avaient pas droit, sujet que nous avons évoqué lors des questions au Gouvernement.<br/>Beaucoup d’entre vous, dont Mme Dumont et M. Naegelen, ont insisté sur la nécessité de ne laisser personne au bord de la route. Dans le décret du 14 avril 2020, nous avons pris des mesures d’urgence pour adapter immédiatement les règles de l’assurance chômage, afin de lutter contre la précarité et de protéger les plus vulnérables. Mme Fabre a cité nombre de ces dispositions, que je souhaiterais détailler.<br/>La première mesure est la prolongation des droits de toutes les personnes arrivées en fin de droits pendant le confinement. Le Gouvernement a décidé de prolonger automatiquement, sans aucune démarche, les droits aux allocations chômage de tous les demandeurs d’emploi arrivés en fin de droits non le 17, mais le 1<exposant>er</exposant> mars, et ce jusqu’au 31 mai 2020, soit après la fin du confinement – nous avons pris le parti de considérer les mois entiers.<br/>Cette mesure exceptionnelle garantit aux demandeurs d’emploi concernés le versement de leur allocation jusqu’à la fin du mois civil au cours duquel est intervenu le déconfinement. Si, ce que personne ne souhaite, un reconfinement devait être décidé, cette mesure serait réactivée.<br/>Monsieur Dharréville, compte tenu des interdictions administratives exceptionnelles qui frappent le secteur du spectacle vivant, pour des raisons que tout le monde comprend de lutte contre la propagation du virus, nous avons récemment pris une disposition, annoncée par le Président de la République, de prolongation exceptionnelle des droits des intermittents du spectacle jusqu’au 31 août 2021.<br/>La deuxième mesure concerne la période de référence pour l’affiliation. Cette période, au cours de laquelle est recherchée la durée minimale d’affiliation requise pour l’ouverture d’un droit, est allongée de la durée du confinement, toujours élargi à des mois entiers. De vingt-quatre mois, la période de référence pour l’affiliation a ainsi été portée à vingt-sept mois. Il faudra alors, pour ouvrir un nouveau droit, avoir travaillé six mois au cours de ces vingt-sept mois.<br/>La troisième mesure a trait à l’aménagement des conditions de la démission légitime : très vite, des salariés se sont inquiétés, légitimement, car ils avaient démissionné de leur emploi dans les jours ou les semaines ayant précédé le confinement, en vue d’une mobilité professionnelle : ils disposaient d’une promesse d’embauche, mais ils n’avaient pas encore pris leur poste. Ils se retrouvaient donc dans une situation terrible, sans emploi ni droit à l’assurance chômage. Nous avons ouvert un nouveau cas de démission légitime, afin que ces personnes bénéficient de l’assurance chômage.<br/>La quatrième mesure a suspendu le délai pour la dégressivité de l’allocation chômage. Pour les personnes concernées par la dégressivité de l’aide au retour à l’emploi, le délai de six mois, à l’issue duquel l’allocation est réduite de 30 % pour les revenus les plus élevés, est suspendu pendant la durée de la crise sanitaire.<br/>La cinquième mesure a reporté l’entrée en vigueur du nouveau mode de calcul du salaire journalier de référence au 1<exposant>er</exposant> septembre. Les périodes d’inactivité non couvertes par un contrat de travail lors du confinement ne seront pas prises en compte pour la détermination du salaire journalier de référence.<br/>Vous m’avez également interrogée sur les mesures prises pour les saisonniers. Dans un premier temps, nous avons prolongé artificiellement les droits liés à la saison d’hiver, même si le contrat n’était pas allé jusqu’à son terme, pour que les personnes concernées puissent accéder à l’assurance chômage. Il apparaît maintenant que certains saisonniers des secteurs du tourisme et de l’événementiel n’ont pas assez travaillé pour bénéficier de l’assurance chômage. Ils continueront de subir, dans les prochains mois, des contraintes administratives qui rendront difficile le retour à l’emploi. Ce sujet sera à l’ordre du jour de nos discussions avec les partenaires sociaux dans les prochains jours, afin d’étudier les mesures spécifiques à prendre pour les saisonniers.<br/>Il s’agit de mesures d’urgence, mais la crise va durer. L’enjeu essentiel, dans cette période, est de protéger. Notre but est qu’un maximum de travailleurs ne trouvant pas d’emploi aient droit à l’assurance chômage. Au-delà de ces mesures, notre boussole doit rester le pragmatisme. Les aménagements des règles de l’assurance chômage doivent être envisagés en fonction de la situation de l’emploi, tout en veillant à ce que les conditions d’une reprise de l’activité soient préservées. En effet, là n’est pas le moindre paradoxe de la période, les tensions sur le marché du travail n’ont pas disparu : même dans cette période de crise, certains secteurs connaissent des difficultés d’embauche.<br/>De nombreux secteurs auront besoin, dans les prochains mois, de recruter pour redémarrer l’activité. Aujourd’hui, sur le site de Pôle emploi, il y a 452 660 offres d’emploi disponibles : ce nombre est un signe d’espoir, car il montre que le marché du travail n’est pas complètement à l’arrêt, mais il est évidemment inférieur à ce qu’il était avant la crise. Les recrutements ont diminué, mais n’ont pas disparu, et l’on constate que certains secteurs cherchent à recruter.<br/>Il nous faut veiller à la pleine protection des demandeurs d’emploi, dans un contexte où la protection est plus importante que jamais, mais également aux besoins de recrutement des entreprises, dont beaucoup se trouvent dans une situation très difficile, qui pourrait perdurer au moment de la reprise de l’activité. Voilà pourquoi j’ai proposé aux partenaires sociaux de discuter très vite, dans les jours qui viennent, de l’aménagement des règles de l’assurance chômage pendant la crise et, plus largement, de l’ensemble des mesures propices à la relance de l’emploi et de l’apprentissage. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)  </italique><italique/></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. André Chassaigne" id_acteur="PA267306" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723054">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1611715" ordre_absolu_seance="101" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093569" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions. Leur durée est limitée, comme celle des réponses, à deux minutes, sans droit de réplique.<br/>La parole est à M. André Chassaigne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1611716" ordre_absolu_seance="102" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093570" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le premier volet de la réforme de l’assurance chômage est entré en vigueur le 1<exposant>er</exposant> novembre dernier. Nous nous étions fait l’écho de la prévision évaluant à 450 000 le nombre de personnes qui seraient privées de droits. C’était sans compter les effets de la crise sanitaire, durant laquelle le durcissement des conditions d’accès aux droits, cumulé à l’arrêt des recrutements, expose les travailleurs précaires à un effet de ciseau.<br/>Dès la fin du premier trimestre de cette année, l’emploi salarié avait chuté de 2,3 %, soit une destruction de près de 455 000 emplois. L’emploi intérimaire est particulièrement touché, avec une baisse de 37 % par rapport à 2019, soit près de 300 000 emplois. Or le premier volet de votre réforme pénalise particulièrement les employés précaires. De nombreux salariés de l’hôtellerie, de la restauration, du tourisme, du secteur de l’animation et des arts ou encore de certaines industries attendent toujours des contrats : le taux d’emploi connaît ainsi son plus bas niveau depuis 2009.<br/>Au regard de ces constats, plusieurs questions se posent.<br/>Allez-vous non seulement surseoir à l’application du deuxième volet de la réforme de l’assurance chômage, prévue au 1<exposant>er</exposant> septembre 2020, mais également revenir sur le mode de calcul de l’ouverture des droits à l’indemnisation initié par le premier volet ? Il faudrait alors ouvrir des négociations avec les organisations syndicales : vous avez annoncé des discussions, mais encore faut-il qu’elles posent le problème global de l’assurance chômage.<br/>Prendrez-vous en compte la revendication, portée par certains, d’un prolongement exceptionnel de douze mois des droits ouverts, au regard de l’état de l’emploi dû aux conséquences dramatiques de la crise sanitaire sur différents secteurs d’activité ?<br/>Enfin, allez-vous poursuivre l’expérimentation des « territoires zéro chômeur de longue durée » et confirmer l’extension du dispositif à de nouvelles zones, comme vous l’aviez annoncé lors du comité interministériel aux ruralités du 20 février dernier ? <italique>(Mme</italique><italique> </italique><italique>Laurence Dumont et M.</italique><italique> </italique><italique>Alain Bruneel applaudissent.) </italique><italique> </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1611722" ordre_absolu_seance="108" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093576" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1611723" ordre_absolu_seance="109" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093577" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vos questions, complètes et riches, montrent à quel point la discussion qui s’engage avec les partenaires sociaux est nécessaire. Il y a plusieurs registres.<br/>S’agissant du principe même de la réforme, il faut être attentif, me semble-t-il, à bien tenir compte de la réalité et de l’intégralité de celle-ci. Par exemple, elle a permis à des démissionnaires quittant une entreprise pour créer la leur ou à des travailleurs indépendants – agriculteurs, artisans, commerçants – d’être éligibles à l’assurance chômage. Je crains, malheureusement, que cela ne soit très utile.<br/>Elle a aussi permis de renforcer considérablement les moyens de Pôle emploi, au profit d’un accompagnement renforcé des demandeurs d’emploi, avec deux demi-journées d’accompagnement intensif dès les deux premiers mois, ce qui n’était pas encore le cas. Elle a également permis de développer l’accompagnement des entreprises, afin de le rapprocher des offres de terrain.<br/>J’espère que nous sommes au moins tous d’accord qu’il s’agit là d’apports de la réforme de l’assurance chômage. Non seulement la crise que nous vivons ne les remet pas en cause, mais elle renforce leur pertinence.<br/>J’en viens aux sujets que vous avez évoqués à juste titre. Le recul de l’intérim et de l’emploi précaire n’obéissent pas aujourd’hui à de bonnes raisons : ils s’expliquent par le fait qu’ils sont la première variable d’ajustement en cas de crise. La façon d’accompagner ceux qui occupent un emploi précaire et de les protéger fait partie des sujets abordés dans le cadre non seulement de la réforme de l’assurance chômage, mais aussi de la relance de l’emploi à laquelle nous devons procéder.<br/>S’agissant de l’ouverture des droits, elle fait partie des sujets dont nous débattrons avec les partenaires sociaux. Faut-il ou non modifier les conditions d’accès à l’assurance chômage, donc à l’ouverture des droits ? Je ne peux pas préjuger des discussions à venir, ni des décisions que nous prendrons, mais il va de soi que le sujet sera abordé.<br/>Vous avez enfin soulevé la question des territoires zéro chômeur de longue durée. Je m’y étais engagée. Nous sommes favorables à la prolongation et à l’extension de cette expérimentation, dans des conditions dont il faudra débattre au Parlement. Je rappelle que la loi du 29 février 2016 ne permet pas d’étendre le nombre d’expérimentations en l’absence d’une loi complémentaire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Lionel Causse" id_acteur="PA719922" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722802">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611623" ordre_absolu_seance="7" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093661" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Lionel Causse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611624" ordre_absolu_seance="8" id_acteur="PA719922" id_mandat="PM722802" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093662" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Lionel Causse</nom>
+              <id>719922</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, j’appelle votre attention sur la situation des travailleurs saisonniers. Dans les Landes, il s’agit d’un problème majeur pour le tourisme et le thermalisme, qui sont deux secteurs clés pour ce territoire.<br/>La crise épidémique les a plongés dans une situation d’incertitude et de grande précarité. Habituellement, l’activité saisonnière permet à ces travailleurs de cotiser suffisamment pour ouvrir des droits à l’assurance chômage. Ils ont ainsi une source de revenu hors saison. Les mesures de chômage partiel que vous avez prises portent sur les contrats de la saison d’hiver, courant jusqu’au 15 avril. Qu’en sera-t-il pour la saison d’été ? Un employeur dont l’activité sera réduite pourra-t-il en bénéficier, donc embaucher sereinement en début de saison ?<br/>Par ailleurs, la période de référence pour l’ouverture des droits a été prolongée de trois mois en raison du confinement. Il faudra donc avoir travaillé six mois au cours des vingt-sept derniers mois, au lieu de vingt-quatre auparavant. Cette mesure mérite d’être saluée. Toutefois, elle ne sera peut-être pas suffisante pour les saisonniers qui ne pourront trouver de contrat cet été, et devront attendre la saison prochaine pour travailler à nouveau. En somme, leur situation est comparable à celle des intermittents du spectacle, qui bénéficient d’un report de la date de fin de droits. Envisagez-vous une mesure similaire pour les saisonniers ?<br/>Enfin, par delà la situation très particulière de cette année, une évolution du système d’indemnisation de ces activités – par nature intermittentes – est-elle envisagée ? Pourrait-on envisager la mise en place d’un contrat spécifique assimilable à un CDI saisonnier, incluant un lissage des cotisations, facilitant la réembauche d’une année sur l’autre et permettant une sécurisation dans le temps ? Pour résumer, pouvez-vous détailler les mesures qui seront prises pour l’indemnisation des travailleurs saisonniers à court terme et à long terme ? <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611628" ordre_absolu_seance="12" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093666" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611629" ordre_absolu_seance="13" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093667" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Causse, vous soulevez à juste titre la question des travailleurs saisonniers, qui ont été affectés, dans un premier temps, par la fin de la saison d’hiver. Je m’étais rendue en Isère, avant le confinement, afin de me rendre compte de la situation dans laquelle se trouvaient les saisonniers d’hiver, des difficultés pour terminer la saison étant déjà prévisibles. Nous avions pris une mesure permettant à leurs employeurs de placer les travailleurs saisonniers d’hiver au chômage partiel, entièrement payé par l’État, bien sûr, même s’ils n’exerçaient pas leur activité jusqu’à la fin de la saison. Cela a permis de prolonger d’autant leurs droits à l’assurance chômage.<br/>Vous soulevez la question majeure des saisonniers d’été. Je distinguerai le secteur agricole de ceux de l’hôtellerie, de la restauration et du tourisme. L’agriculture ne s’est pas arrêtée. Grâce aux agriculteurs de ce pays, et à la chaîne agro-alimentaire, les Français ont pu continuer de se nourrir, en qualité et en quantité, sans interruption, depuis le début de la crise. L’agriculture recrute. Elle manque de bras et recherche 200 000 saisonniers. Nous aidons les agriculteurs à cette fin, dans l’optique de procéder à des recrutements. Il s’agit là des métiers en tension que j’évoquais tout à l’heure.<br/>La question se pose de façon massive pour les secteurs du tourisme, de l’hôtellerie et de la restauration. Il y a quelques jours, le Premier ministre a présidé un comité interministériel du tourisme, de portée internationale, compte tenu des 93 millions de touristes que nous accueillons d’habitude chaque année. La question a été évoquée. En raison du risque épidémique, une incertitude plane sur la question de savoir quand et comment les activités du tourisme, de l’hôtellerie et de la restauration pourront reprendre, et lesquelles.<br/>Si l’épidémie demeure contenue, le Premier ministre envisage de permettre, dans les départements qui seront restés classés en vert suffisamment longtemps, l’ouverture des bars et des restaurants le 2 juin, ainsi que la reprise de certaines activités de tourisme. Toutefois, il est clair que nous n’aurons pas un été normal à tout point de vue. Nous espérons qu’au moins une partie des secteurs du tourisme, de l’hôtellerie et de la restauration pourra fonctionner, sans connaître l’ampleur habituelle.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611633" ordre_absolu_seance="17" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093671" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Dalloz</nom>
+              <id>332523</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611634" ordre_absolu_seance="18" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2093672" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il faut absolument prendre des mesures en faveur des saisonniers, dont les contrats sont souvent renouvelés d’année en année. Il s’agit d’un mode de vie, avec une intensité très forte en saison, suivie de périodes d’interruption. Cette année, la saison – c’est inévitable – ne sera pas du tout à la hauteur des saisons habituelles. Cela fait partie des sujets qui sont à l’étude. Je me suis engagée à y travailler auprès du comité interministériel du tourisme, avec les partenaires sociaux. Je n’ai pas la solution du problème aujourd’hui, mais il est clair qu’il faut prendre des mesures spécifiques en faveur des saisonniers. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Dominique Da Silva" id_acteur="PA720932" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723116">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611635" ordre_absolu_seance="19" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093673" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Dominique Da Silva.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611636" ordre_absolu_seance="20" id_acteur="PA720932" id_mandat="PM723116" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093674" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dominique Da Silva</nom>
+              <id>720932</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, l’un des objectifs de la réforme de l’assurance chômage est de lutter contre la précarité et l’enchaînement des contrats à durée déterminée – CDD – et des missions d’intérim, au bénéfice des emplois stables. Pour y répondre, l’une de ses mesures phares est le système de bonus-malus destiné aux entreprises d’au moins onze salariés exerçant dans sept secteurs d’activité, où le taux de séparation moyen est supérieur à 150 %. Or, certains de ces secteurs ont été durement touchés par la pandémie du covid-19, notamment l’hébergement, la restauration et le tourisme en général, ainsi que le transport et l’entreposage.<br/>En dépit des plans d’aide massifs du Gouvernement, que je tiens à saluer ici, il faudra sans doute beaucoup de temps à ces entreprises pour retrouver le niveau d’activité qu’elles avaient avant le confinement. Dès lors, un recours plus important aux contrats courts semble inéluctable. Tel est le sens de l’une des dispositions urgentes adoptées par l’Assemblée nationale, autorisant par convention d’entreprise à renouveler les CDD et les contrats de travail temporaire – CTT – plus de deux fois jusqu’à la fin de l’année 2020. Toutefois, en 2021, nous retrouverons le droit commun, et les contributions exigées au titre du bonus-malus s’appliqueront dès le 1<exposant>er</exposant> mars, sur la base des fins de contrats constatées cette année.<br/>Madame la ministre, sachant que, pour le marché du travail, 2020 sera une année hors norme, et devant l’incertitude d’un niveau d’emploi stable dans les années à venir, que comptez-vous faire pour garantir que le dispositif de bonus-malus ne fragilise pas davantage les secteurs d’activité qui y sont assujettis ? <italique>(Mme</italique><italique> </italique><italique>Sophie Mette et Mme</italique><italique> </italique><italique>Michèle Peyron applaudissent.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611639" ordre_absolu_seance="23" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093677" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611640" ordre_absolu_seance="24" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093678" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Da Silva, vous soulevez la question de l’évolution, dans le contexte actuel, des mesures que nous avions prévues pour inciter les entreprises – dès lors qu’elles le peuvent – à recourir davantage aux CDI et moins aux CDD et aux missions d’intérim très courtes, en pénalisant le retour au chômage et le nombre de ruptures de contrats.<br/>Tout d’abord, je rappelle que nous avions prévu deux dispositifs : le bonus-malus, que vous évoquez, et la taxe de 10 euros sur les CDD d’usage – CDDU –, dont l’entrée en vigueur a été reportée, comme celle de toutes les taxes, de sorte qu’elle ne s’applique pas.<br/>S’agissant du bonus-malus, il faut bien se souvenir que, tel qu’il est conçu, il ne vise pas à étalonner les entreprises par rapport à un absolu, mais dans le cadre de leur secteur d’activité. Autrement dit – j’oublie un instant la crise –, le niveau des entreprises de l’hôtellerie et de la restauration est mesuré par rapport à la moyenne de ce qui a cours dans le secteur. Une entreprise donnée est comparée à ses concurrentes. Il s’agit donc d’une mesure non pas d’ordre général, mais qui doit être évaluée secteur par secteur. Sachant que, de surcroît, les bonus et les malus s’équilibrent, il ne s’agit pas de réaliser des économies, mais de responsabiliser les employeurs et de les encourager à conclure des contrats plus longs.<br/>Ces deux observations étant réunies, on mesure que la crise ne pénaliserait pas un grand nombre d’entreprises sous cet angle. Pour de nombreuses entreprises, elle pourrait même représenter une diminution de charges. Toutefois, il va de soi que nous devons en débattre avec les partenaires sociaux.<br/>Il n’en reste pas moins que la technique, à l’aune de laquelle la mesure ne pénaliserait pas les entreprises dans la majeure partie des cas, s’oppose à la perception, qu’on peut avoir, d’une charge de travail supplémentaire alors même que nous traversons une crise. Il s’agit moins d’un problème de pénalisation que d’un problème d’approche du sujet. En effet, ce système compare les entreprises au sein d’un secteur donné. Si tout le secteur est en difficulté, l’étiage est le même pour tous : il est donc très équitable du point de vue de la concurrence. Ce sujet fait lui aussi partie – on voudra bien m’excuser de répondre à l’identique sur tous les sujets – de ceux dont nous discuterons avec les partenaires sociaux.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Viry" id_acteur="PA721474" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723286">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611645" ordre_absolu_seance="29" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093683" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Viry.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611646" ordre_absolu_seance="30" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093684" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, mes questions s’inscrivent dans la continuité des propos tenus tout à l’heure par notre collègue Marie-Christine Dalloz. Chacun des orateurs qui m’a précédé l’a rappelé : la crise sanitaire aura immanquablement des conséquences terribles sur l’économie et l’emploi. Même si personne, à cette heure, ne peut précisément en prédire l’ampleur, nous pouvons d’ores et déjà constater que des restaurateurs, des cafetiers et des commerçants en général ont tiré le rideau, et que de nombreuses entreprises sont en difficulté. Chacun sait, et le déplore, que des gens se retrouveront bientôt demandeurs d’emploi. La courbe du chômage ira croissant, de façon inexorable et dramatique. Nous ne pourrons alors que constater la nécessité d’élaborer de nouvelles solutions.<br/>Nous sommes là dans un moment de rupture impliquant un changement de logiciel. Madame la ministre, vous aviez votre logiciel, et nous le nôtre. Nos collègues d’en face avaient le leur. L’évolution de l’environnement économique implique que nous modifiions profondément nos façons de penser. À défaut, nous irons tous dans le mur.<br/>Je sais que vous pourrez compter sur l’opérateur public qu’est Pôle emploi, qui a fait la preuve, depuis une dizaine d’années, de son agilité et de sa réactivité, adaptant sans cesse son offre de services. Toutefois, les agents de Pôle emploi ne sont pas des magiciens : leur capacité doit augmenter ; sinon, au cas où le portefeuille de demandeurs d’emploi viendrait à croître, la qualité de la prestation en matière d’accompagnement viendrait incontestablement à baisser.<br/>Madame la ministre, dans ce moment terrible de rupture de certains repères, voire de certaines valeurs, qui appelle, je le répète, un changement de logiciel, je considère qu’il est impératif de revenir sur votre réforme de l’assurance chômage. Au demeurant, vous l’avouez à demi-mot en décalant dans le temps son application. Je ne peux que vous inviter à ne pas prendre le risque d’alourdir les charges des conseils départementaux en mettant des hommes et des femmes à la merci des minima sociaux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611650" ordre_absolu_seance="34" id_acteur="PA332523" id_mandat="PM722792" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093688" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Dalloz</nom>
+              <id>332523</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611651" ordre_absolu_seance="35" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2093689" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je sais que vous avez pris un virage. Je ne peux que vous inciter – tel est notre point de vue – à privilégier encore et toujours l’activité, le travail et l’insertion. Soyez innovante ! N’hésitez pas un instant à faire preuve d’audace à ce sujet ! Préférez toujours la progressivité aux effets de seuil. Ma question est simple : quel est – de façon macroéconomique – votre modèle d’assurance chômage compte tenu de la rupture que nous subissons ? <italique>(Mme</italique><italique> </italique><italique>Marie-Christine Dalloz applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611652" ordre_absolu_seance="36" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093690" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1611653" ordre_absolu_seance="37" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093691" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Viry, la question que vous posez est bonne, mais elle est plus large que celle de l’assurance chômage ou de l’indemnisation au sein de l’assurance chômage, même si la question des revenus de nos concitoyens frappés par le chômage est importante.<br/>Celle qui nous est posée est défensive et offensive. Quelle politique d’accompagnement faut-il mener pour contribuer à une relance de l’emploi alors que le risque d’une chute du nombre d’emplois et d’une augmentation du chômage est patent ? Quelles mesures convient-il de prendre ?<br/>J’évoquerai d’abord les mesures relatives à l’action de Pôle emploi, que je vous remercie d’avoir saluée. Je saisis l’occasion qui m’est offerte de répéter que, même pendant le confinement, même en télétravail, les agents de Pôle emploi ont été présents. Ils ont appelé les demandeurs d’emploi, notamment les plus vulnérables, et permis que l’actualisation des dossiers se déroule de façon impeccable – nul n’en a entendu parler car tout cela s’est bien passé, chacun a eu ses droits en temps et en heure, tout a été organisé très rapidement. Nous avions déjà décidé – il va de soi que cette mesure est maintenue – de créer 1 000 postes supplémentaires à Pôle emploi, pour renforcer l’accompagnement des demandeurs d’emploi : dans une crise, le sujet de l’accompagnement prend un relief particulier.<br/>Nous avions prévu aussi que Pôle emploi travaille de façon plus étroite avec les conseils départementaux et les travailleurs sociaux, pour un meilleur accompagnement des plus vulnérables. Hélas, cette mesure reste d’actualité.<br/>D’une façon plus générale, la question de la relance de l’emploi, c’est celle de l’accompagnement des entreprises, afin que celles-ci arbitrent en faveur de l’emploi lorsque cela est possible. C’est l’un des sujets que nous devrons évoquer.<br/>L’assurance chômage est l’un des piliers de notre protection sociale, il n’y a aucun doute là-dessus : notre système était déjà l’un des plus protecteurs d’Europe, et c’est d’autant plus vrai avec les mesures de chômage partiel que nous avons prises. La France est le plus souvent mieux-disante en matière de protection, et nous pouvons en être fiers ; il faut prendre cet aspect en considération. Là encore, c’est un sujet qui sera abordé, au sein d’une discussion globale, avec les partenaires sociaux.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Viry" id_acteur="PA721474" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723286">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611588" ordre_absolu_seance="4" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093734" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Viry.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611589" ordre_absolu_seance="5" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093735" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat porte sur les conséquences de la réforme de l’assurance chômage : celle-ci n’est ni plus ni moins qu’un mécanisme de justice sociale. Au-delà de l’indemnisation de ceux qui ont perdu leur emploi, elle constitue un outil de stabilité sociale qu’il est impératif non seulement de conserver, mais aussi d’adapter, a fortiori dans la période de fortes turbulences que nous traversons. La convention d’assurance chômage permet à nombre d’hommes et de femmes de se relever d’une situation économique difficile et de retrouver un emploi.<br/>Le groupe Les Républicains considère que, malheureusement, l’objectif de cohésion sociale ne pourra pas être atteint si vous continuez, coûte que coûte, à appliquer les idées qui étaient celles du candidat Macron. Pour assurer la cohésion sociale et éviter une crise démocratique inouïe qui suivrait la crise sanitaire, il faut que les représentants inspirent confiance et que le système global ne soit pas à la main d’un État toujours plus centralisateur. Le bilan de votre réforme est amer, comme l’a dit Marie-Christine Dalloz : vous aviez programmé l’échec des discussions avec les partenaires sociaux ;…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611590" ordre_absolu_seance="191" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093764" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un échec organisé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611590" ordre_absolu_seance="192" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2093763" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…vous aviez pris la décision de reprendre la main sur l’UNEDIC, en faisant table rase de quelque chose qui fonctionnait. Nous l’avions d’ailleurs dénoncé. Vous avez ainsi mis à mal la gestion paritaire qui faisait la force de notre démocratie sociale.<br/>Revenir sur cette réforme, qui doit s’étaler jusqu’au printemps 2021, est donc indispensable. Vous avez à plusieurs reprises évoqué un dialogue avec les partenaires sociaux : pourriez-vous nous indiquer votre méthode et votre rythme pour atteindre cet objectif ? Accepteriez-vous de donner aux branches la capacité d’élaborer des plans stratégiques ? Comment entendez-vous mener une politique d’emploi qui aille bien au-delà de la politique de l’assurance chômage, afin de permettre à chacun de retrouver un emploi ? <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611592" ordre_absolu_seance="194" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093738" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611593" ordre_absolu_seance="195" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093739" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Certaines choses changent, d’autres moins. Nous pouvons bien sûr revenir inlassablement à nos débats d’il y a deux ans. L’État n’a jamais eu pour but de reprendre la main, ni de ne pas la reprendre d’ailleurs : nous avons été amenés à agir par décret, provisoirement, parce que la négociation menée par les partenaires sociaux n’a pas abouti. C’est arrivé plusieurs fois dans l’histoire de l’assurance chômage. Il ne faut voir là qu’une décision conjoncturelle et pragmatique.<br/>Vous m’interrogez sur la méthode. L’une des difficultés majeures que nous rencontrons, c’est que nous sommes entrés dans une ère d’incertitude – une incertitude d’une ampleur qu’aucune des générations actuellement aux responsabilités n’a connue. Cette incertitude est triple : sanitaire – d’abord –, économique et sociale ; ses phénomènes se combinent, peuvent se renforcer mutuellement ; la durée, la profondeur de leurs conséquences sont inconnues. Nous sommes contraints de travailler sur différents scénarios, sans savoir ce que sera la situation sanitaire au mois de décembre prochain et moins encore la situation économique et sociale, surtout dans l’éventualité d’un rebond de l’épidémie. Nous nous fondons sur nos valeurs, sur nos convictions ; nous agissons avec agilité, souplesse, pragmatisme, et en concertation. Bien sûr, on n’a jamais pu planifier le futur : mais le degré d’incertitude est aujourd’hui extrême, au plan national, au plan européen, au plan mondial.<br/>Concrètement, je suis très attachée à quelque chose que j’ai appris, il y a longtemps, de Jean Monnet : le diagnostic partagé. Il faut partir d’un constat. En absence de toute prévision possible, nous devons, avec les partenaires sociaux, partir des différentes hypothèses qui sont sur la table, pour nous demander quels sont les risques en matière d’emploi.<br/>Je pense notamment au risque par secteur. Certains vont bien, leur situation n’ayant pas été affectée par la crise : la distribution alimentaire, par exemple, n’est pas en difficulté. D’autres secteurs vont même très bien : je ne donnerai pas le nom de compagnies américaines qui vendent du divertissement en ligne, mais leur chiffre d’affaires a augmenté de 20 %. En revanche, dans le tourisme, l’hôtellerie, la restauration, la crise est profonde ; et, compte tenu du risque épidémique, on ne reviendra pas à la normale tout de suite. Les précautions sanitaires à prendre pour que nos concitoyens puissent aller dans des bars ou des restaurants en toute sécurité gêneront pendant longtemps l’activité de ces entreprises. L’aéronautique, l’automobile sont en difficulté.<br/>Il faudra donc commencer par ce diagnostic partagé. Ensuite, et je vous rejoins sur ce point, les partenaires sociaux et nous-mêmes devrons nous montrer inventifs, non seulement sur l’assurance chômage, mais plus généralement sur les politiques d’accompagnement de l’emploi, de la formation, de l’apprentissage, en tenant compte des changements que connaîtra probablement le pays.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sophie Mette" id_acteur="PA719640" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722718">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611598" ordre_absolu_seance="200" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093744" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Mette.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611599" ordre_absolu_seance="201" id_acteur="PA719640" id_mandat="PM722718" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093745" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Mette</nom>
+              <id>719640</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La réforme de l’assurance chômage devait, en plusieurs étapes, redynamiser un système institutionnel qui comportait de nombreuses incohérences. À la lumière de la crise économique qui s’annonce, la question de l’indemnisation des demandeurs d’emploi devient primordiale. Je souhaite vous interroger sur la situation d’une catégorie professionnelle en faveur de laquelle des mesures ont déjà été annoncées, particulièrement depuis le 6 mai : les intermittents du spectacle.<br/>La crise ayant l’ampleur que nous savons pour les différents secteurs culturels, le quotidien des intermittents est particulièrement heurté. La prolongation de leurs droits jusqu’au mois d’août 2021 est donc bienvenue. Mais qu’en est-il de la réforme de l’assurance chômage pour cette catégorie si atypique ? Si les premières étapes de la réforme, déjà en vigueur, ne les affectaient pas massivement, le volet relatif aux contrats courts, qui devait entrer en vigueur le 1<exposant>er</exposant> avril 2020 et qui a été repoussé au 1<exposant>er</exposant> septembre, avait pour eux une résonance particulière.<br/>Il prévoit notamment un nouveau calcul des droits pour ceux que l’on appelle parfois les « permittents », salariés qui alternent de façon régulière des périodes de contrats courts et de chômage, souvent dans le même secteur d’activité. Les droits aux indemnités seraient allongés, en réduisant l’allocation, celle-ci ne pouvant être inférieure à 65 % du salaire net mensuel. Cette même réforme prévoyait également l’instauration d’un système de bonus-malus pour les employeurs ayant recours aux contrats courts, avec une exception pour les employeurs des demandeurs d’emploi relevant des annexes 8 et 10 au règlement d’assurance chômage, c’est-à-dire les intermittents.<br/>Tout cela a été suspendu par la force des choses. Il est toutefois nécessaire d’ouvrir très rapidement des perspectives à l’ensemble de ce secteur. Compte tenu du choc de la crise économique provoquée par le covid-19 pour le secteur de la culture, que restera-t-il des mesures spécifiquement destinées aux intermittents du spectacle ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611603" ordre_absolu_seance="205" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093749" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611604" ordre_absolu_seance="206" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093750" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le régime d’assurance chômage pour les intermittents du spectacle est, vous le savez, tout à fait spécifique. Il concerne chaque année 100 000 à 120 000 personnes ; le calcul de leurs droits est très particulier : il faut avoir travaillé 507 heures l’année précédente pour ouvrir le droit à une année d’assurance. Ce sont donc des règles très différentes de celles qui sont appliquées aux autres demandeurs d’emploi.<br/>Dès le mois d’avril, nous avons pris des mesures pour neutraliser la période de confinement dans le calcul des 507 heures. Les intermittents dont les droits arrivaient à échéance au mois d’avril ou au mois de mai, et qui n’auraient pas leurs 507 heures en raison de la fermeture des salles de spectacles, étaient ainsi protégés.<br/>Le Président de la République a ensuite annoncé une mesure beaucoup plus importante : l’indemnisation des intermittents sera prolongée jusqu’au 31 août 2021. Si nous avons choisi le mois d’août, c’est parce que beaucoup de droits sont acquis durant l’été, et de façon moindre durant l’automne. Or, aujourd’hui, nous ne pouvons pas autoriser de grands rassemblements dans des endroits confinés. Il y a fort à parier que, si nous n’avions pas agi, un grand nombre d’intermittents n’auraient pas pu cette année constituer leur capital de droits pour l’année prochaine – pas tous, heureusement, car il y aura tout de même des spectacles qui finiront par avoir lieu !<br/>C’est une mesure exceptionnelle, et même historique.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611608" ordre_absolu_seance="210" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093754" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Christine Pires Beaune.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611609" ordre_absolu_seance="211" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093755" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Pires Beaune</nom>
+              <id>608172</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Alors que la crise sanitaire évolue en crise économique, nos systèmes de solidarité doivent être adaptés, renforcés et étendus pour essayer d’absorber le choc social. C’est évidemment le cas en matière d’assurance chômage.<br/>Je voudrais pour ma part évoquer tous ces jeunes qui devront, au cours des prochaines semaines et des prochains mois, entrer sur le marché du travail, dans des conditions extrêmement difficiles, avec des opportunités encore plus réduites qu’auparavant. Depuis le 1<exposant>er</exposant> janvier 2019, ces jeunes ne peuvent plus bénéficier de l’ARPE, l’aide à la recherche du premier emploi, que vous avez supprimée. Or ces jeunes de moins de vingt-cinq ans sont les grands oubliés de notre système : ils ne sont éligibles à presque rien.<br/>C’était tout le sens du travail préparatoire mené par de nombreux présidents de départements pour expérimenter, localement, le revenu de base. Celui-ci aurait la vertu de couvrir ces jeunes, tout en garantissant une automaticité des droits, donc en faisant disparaître le non-recours. Il y a un an, à l’issue de ces travaux, le groupe Socialistes et apparentés avait déposé une proposition de loi en ce sens ; votre majorité l’a rejetée sans débat, et contre l’avis de nombreux groupes parlementaires de sensibilités pourtant différentes.<br/>La crise sanitaire et ses conséquences économiques poussent désormais plusieurs pays à envisager cette solution pour amortir le choc, qui risque de faire basculer un grand nombre de personnes dans la précarité, et en particulier ces 700 000 jeunes adultes qui viennent de terminer leurs études ou leur formation. Le 12 avril dernier, des présidents de départements ont à nouveau lancé un appel pour demander qu’il leur soit permis de dresser ce dernier rempart contre les conséquences de la crise sanitaire.<br/>Allez-vous entendre cet appel ? Sinon, quelles mesures entendez-vous prendre pour aider la jeunesse ? Le Président de la République a déjà confessé s’être trompé sur l’hôpital public ; il est peut-être temps de concéder que la réforme de l’assurance chômage et le refus d’expérimenter le revenu de base étaient des erreurs. <italique>(Applaudissements sur les bancs des groupes SOC et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611614" ordre_absolu_seance="216" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093760" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1611615" ordre_absolu_seance="217" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093761" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il y a trois mois et demi – cela paraît loin – nous commencions à voir une baisse significative du chômage des jeunes : de plus de 20 %, il était passé à 18 %, ce taux étant encore bien sûr élevé. Mais, avec la réforme de l’apprentissage, nous étions sur la bonne voie.<br/>Je partage votre préoccupation sur ce point : la jeunesse devra constituer l’une des priorités du plan de relance. Dans un moment si difficile pour le pays, si le seul message que nous envoyons à notre jeunesse, c’est que leur avenir est complètement bouché, alors nous allons au-devant de catastrophes. Les jeunes sont déjà très sensibles à la dette écologique ; la dette financière est là ; ils doivent pouvoir au moins aborder leur propre avenir en confiance.<br/>C’est la raison pour laquelle plusieurs mesures de court et moyen termes doivent être prises.<br/>À court terme, le Gouvernement a décidé d’accorder à 815 000 jeunes en situation précaire une aide immédiate de 200 euros. Celle-ci s’adresse aux jeunes qui auraient été privés de stage ou d’emploi à cause de la crise.<br/>La garantie jeunes et le PACEA – programme d’accompagnement à l’emploi et l’autonomie – continuent de fonctionner. J’ai demandé aux missions locales d’y veiller lors du confinement. Pendant cette période, la garantie jeunes a été aménagée dans le sens d’une plus grande souplesse afin qu’elle continue de bénéficier aux jeunes.<br/>Le plus important pour eux, c’est l’espérance de formation et d’accès à l’emploi. Dès demain, le premier thème abordé dans la concertation avec les partenaires sociaux sera l’apprentissage. De nombreuses propositions sont sur la table. Je suis persuadée que l’un des grands volets du plan de relance sera de conserver l’élan en matière d’apprentissage à un moment où tout pourrait indiquer le contraire. C’est notre devoir collectif de permettre aux jeunes de continuer de se former, de développer leurs compétences et de construire leur avenir.  <br/>On ne constate aujourd’hui aucune désaffection des jeunes pour l’apprentissage. Le réseau d’un millier de centres de formation d’apprentis avec lequel nous sommes en contact enregistre déjà une demande pour la rentrée prochaine. Depuis la réforme, les jeunes ont bien compris qu’il s’agit d’une voie d’excellence. Pour que les entreprises soient au rendez-vous, nous devons les accompagner. Cela fera partie du plan de relance dont nous discuterons avec les partenaires sociaux.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christophe Naegelen" id_acteur="PA721486" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723290">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611729" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093777" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Naegelen.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611730" ordre_absolu_seance="7" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093778" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En raison de la crise du covid-19, vous avez décidé le report au 1<exposant>er</exposant> septembre de l’entrée en vigueur des nouvelles règles pour le calcul de l’allocation chômage, issues de la réforme de l’assurance chômage.<br/>En vertu du nouveau mode de calcul, les périodes d’inactivité seront prises en compte pour la détermination du salaire journalier de référence servant de base au calcul du montant de l’indemnisation. Le salaire journalier de référence sera donc calculé non plus sur les jours travaillés au cours des douze derniers mois mais sur un revenu mensuel qui tiendra compte des jours travaillés et des périodes d’inactivité.<br/>Je veux ici non pas débattre du bien-fondé de la réforme, mais saluer le report au 1<exposant>er</exposant> septembre, qui relève du bon sens, et vous interpeller sur les incertitudes qui demeurent sur la durée de la crise, laquelle peut connaître des rebonds successifs.<br/>Le scénario d’une crise longue ou d’une deuxième vague imminente pourrait-il vous amener à revoir votre copie afin de limiter les conséquences pour les demandeurs d’emploi et de ne pas amplifier le chômage de longue durée ? Dans cette éventualité, envisagez-vous un nouveau report ? Nous sommes confrontés à une crise sanitaire grave, qui n’est pas encore terminée et qui provoque une crise économique d’ampleur. Il ne faudrait pas que cette dernière se double d’une crise sociale qui ferait, elle aussi, de nombreuses victimes.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611734" ordre_absolu_seance="11" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093782" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611735" ordre_absolu_seance="12" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093783" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Parmi ses différentes mesures, la réforme de l’assurance chômage comporte la modification du calcul du salaire journalier de référence, qui devait entrer en vigueur au 1<exposant>er</exposant> avril 2020. Ce volet de la réforme repose sur un principe simple et juste : on ne doit pas pouvoir gagner plus en étant au chômage qu’en travaillant. En vertu de ce principe, les indemnités chômage ne pourront jamais être inférieures à 65 % du salaire net mensuel moyen d’une personne, ni supérieures à 96 %, alors qu’elles peuvent atteindre à l’heure actuelle 200 %.<br/>La mesure vise également à corriger une iniquité profonde dans les règles de l’assurance chômage. En effet, aujourd’hui, une personne qui travaille pendant un an à mi-temps est indemnisée presque deux fois moins qu’une personne travaillant à temps complet un jour sur deux, en dépit d’un volume de travail équivalent. La réforme était donc fondée sur le principe : à travail égal, allocation égale.<br/>Cependant, compte tenu du contexte exceptionnel, la réforme, au demeurant juste sur le fond, doit-elle être aménagée ?  <br/>Dans un premier temps, nous avons considéré que le 1<exposant>er</exposant> avril n’était pas une date propice pour appliquer une telle mesure, fût-elle juste, pour des raisons évidentes de communication et d’approche. Nous avons donc reporté l’entrée en vigueur au 1<exposant>er</exposant> septembre afin de discuter, avec le pragmatisme et le recul nécessaires, avec les partenaires sociaux.<br/>Évidemment, nous n’envisageons pas de revenir sur le principe politique selon lequel le travail doit payer plus. Mais comment l’appliquer au calcul du salaire journalier de référence dans la période qui vient ? On peut envisager de déplacer les curseurs avec un certain pragmatisme au vu du contexte.<br/>La réforme de l’assurance chômage consiste non pas à abandonner des principes justes et utiles mais à s’adapter aux circonstances et à ajuster ce qui doit l’être après discussion avec les partenaires sociaux.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611741" ordre_absolu_seance="18" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093789" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611742" ordre_absolu_seance="19" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093790" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À la crise sanitaire s’est rapidement ajoutée la crise économique qui ne manquera pas de se transformer en crise sociale.<br/>L’inquiétude est grande pour les ménages les plus modestes, dont la situation risque de s’aggraver dans les prochaines semaines et les prochains mois.<br/>La remise en question de la réforme de l’assurance chômage est plus que jamais nécessaire en période de crise économique, j’ai eu l’occasion de le dire précédemment.<br/>Plus encore que de revoir des dispositifs existants, il paraît urgent d’en inventer de nouveaux plus protecteurs. Je pense en particulier aux plus jeunes et aux étudiants pour lesquels la crise actuelle est plus que jamais synonyme d’incertitude, voire de grande inquiétude.<br/>Dans ce contexte d’une gravité inédite, la décision du Gouvernement d’allouer aux étudiants une aide de 200 euros était nécessaire – probablement insuffisante.<br/>La situation des étudiants et des plus jeunes est d’autant plus préoccupante que les perspectives d’entrée sur le marché du travail se restreignent.<br/>Or, depuis janvier 2019 et la suppression de l’aide à la recherche du premier emploi, il n’existe plus aucune aide pour les jeunes désireux d’entrer sur le marché du travail. N’ayant jamais travaillé, ils n’ont droit ni aux allocations chômage, ni au RSA.<br/>Aussi les réflexions sur l’assurance chômage doivent-elles impérativement aboutir à des mesures d’accompagnement et de soutien en faveur des jeunes.<br/>Parmi celles-ci, le rétablissement de l’ARPE et l’ouverture du RSA aux moins de vingt-cinq ans peuvent être envisagés.<br/>Le Gouvernement est-il prêt à soutenir de telles mesures en faveur des jeunes qui sont particulièrement fragilisés par la crise ? Quelles dispositions envisagez-vous de prendre pour faciliter l’accès à l’emploi des jeunes, notamment au premier emploi pour les étudiants ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611752" ordre_absolu_seance="29" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093800" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611753" ordre_absolu_seance="30" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093801" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Personne ne réclame le rétablissement de l’ARPE, qui a été supprimée par le précédent gouvernement, car l’efficacité de celle-ci n’a pas été prouvée. En revanche, nous devons veiller à préserver la dynamique très forte en matière d’apprentissage, qui permet à des jeunes de conjuguer études théoriques et expérience professionnelle, et qui affiche un taux d’insertion remarquable.<br/>C’est la raison pour laquelle nous avons pris immédiatement des mesures pour sauvegarder les contrats d’apprentissage des près de 500 000 jeunes qui en sont titulaires aujourd’hui.  <br/>Ainsi, ceux dont l’entreprise a eu recours au chômage partiel ont pu bénéficier du dispositif, la totalité de leur rémunération étant prise en compte ; le ministre de l’éducation nationale et moi-même avons autorisé l’obtention du diplôme par contrôle continu cette année ; les contrats ont pu être prolongés jusqu’à l’obtention du diplôme en cas de besoin ; les centres de formation des apprentis ont instauré la formation à distance – je salue leur travail remarquable dans ce domaine, puisque 90 % d’entre eux ont réussi à la développer alors qu’ils ne la pratiquaient pas il y a encore quelques mois. C’est un acquis pour le futur, qui pourra bénéficier à des jeunes en zone rurale ou handicapés, ainsi qu’à tous ceux pour lesquels l’accès à l’apprentissage est difficile.<br/>Nous constatons avec satisfaction que les ruptures de contrat sont rares. Ce qui nous préoccupe, c’est la rentrée prochaine. Elle demande une énorme mobilisation et un dispositif d’accompagnement.<br/>L’apprentissage offre une voie non seulement vers l’emploi mais aussi vers la qualification, donc des perspectives. Nous devons résolument agir pour le développer et donner ainsi un avenir aux jeunes. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alexis Corbière" id_acteur="PA721210" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723204">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611759" ordre_absolu_seance="257" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093807" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alexis Corbière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611760" ordre_absolu_seance="258" id_acteur="PA721210" id_mandat="PM723204" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093808" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alexis Corbière</nom>
+              <id>721210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Petit retour en arrière : l’été dernier, le Gouvernement avait choisi, sous votre impulsion, de réformer, par décret – j’insiste –, l’assurance chômage. Vous avez ainsi fait fi de tout débat parlementaire sur un sujet qui concerne pourtant des millions de gens. Je ne reviens pas davantage sur cet épisode qui en dit long sur votre conception de la démocratie et que je considère comme une dérive, hélas, permise par la V<exposant>e</exposant> République.<br/>Pour être franc, madame la ministre, j’ai du mal à prendre au sérieux l’affirmation que vous nous répétez à l’envi selon laquelle vous discutez avec les partenaires sociaux puisque vous ne l’avez jamais fait jusqu’à présent.<br/>Je cite, à l’appui de mon interrogation, l’avis – qui ne vous aura pas échappé puisque votre ministère est compétent pour suivre les positions des organisations syndicales – de la CFDT – je ne mentionne même pas les hirsutes de la CGT ou de FO : la CFDT qualifie l’impact de votre réforme de « redoutable » !<br/>Dans la limite de l’exercice des questions, je veux appeler votre attention sur l’impact sanitaire de votre réforme sur les chômeurs et les précaires. Le confinement et l’adaptation aux nouvelles règles de distanciation sociale mettront en péril des centaines de milliers d’emplois.<br/>Hier, le Président de la République lui-même l’a dit : « On va souffrir » en matière d’emploi. Et que faites-vous, madame la ministre ? Vous maintenez votre réforme qui réduit les droits des chômeurs.<br/>Il ne faut pas dire : « On va souffrir ! », mais : « Ils vont souffrir ! » – cela me semble plus précis.<br/>Vous durcissez les conditions d’indemnisation, vous privez des milliers de nos concitoyens de leurs droits et vous reconnaissez vous-même que votre réforme affaiblit la protection sociale. J’en veux pour preuve qu’en ce moment difficile, vous l’avez suspendue, considérant sans doute qu’elle risquait d’aggraver la situation.<br/>Nous n’adhérons pas à votre raisonnement biaisé, qui vous conduit à inciter les chômeurs, lesquels, bien sûr, ont besoin de vous pour décider de chercher du travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611768" ordre_absolu_seance="266" id_acteur="PA721710" id_mandat="PM723362" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093816" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Peyron</nom>
+              <id>721710</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ben oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611769" ordre_absolu_seance="267" id_acteur="PA721210" id_mandat="PM723204" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2093817" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alexis Corbière</nom>
+              <id>721210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si on ne les incite pas, évidemment, ils vont rester chez eux !<br/>Ne pouvez-vous pas au moins, comme l’a demandé Pierre Dharréville, accorder une année blanche aux chômeurs ?  <br/>Pour notre part, nous continuerons, aux côtés de nombreux autres, de vous demander avec détermination l’abandon total de la réforme.<italique> (Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611772" ordre_absolu_seance="270" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2093820" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611773" ordre_absolu_seance="271" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2093821" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas le Gouvernement qui décide tout seul de faire une réforme par décret, c’est une loi, votée sous un précédent gouvernement, qui le prévoit. Nous respectons donc les textes et le décret est pris après des discussions avec les partenaires sociaux, qui font apparaître parfois des désaccords, parfois des accords.<br/>Entre démocratie sociale et démocratie politique, entre Gouvernement et partenaires sociaux, les convergences ne sont pas anormales. Il est tout aussi normal, dans une démocratie, de ne pas être d’accord sur tout.<br/>Sur le fond, je suis étonnée que vous n’ayez pas évoqué, au titre de la protection, ce que la France vient de faire de manière inédite en matière d’activité partielle. Vous n’avez pas souligné le fait que plus de 12 millions de salariés, depuis trois mois, sont protégés dans ce cadre et qu’un million d’entreprises ont été sauvées de la faillite, ce qui écarte le risque de licenciements. Cela me choque que vous ne mentionniez pas de telles mesures au titre de la protection sociale car nous pouvons être fiers, en tant que Français, d’avoir protégé 12 millions de salariés en cette période de crise. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique><br/>Ensuite, vous prétendez que nous n’avons pas discuté avec les partenaires sociaux. Mais que faisons-nous depuis deux mois ? Deux fois par semaine, ont lieu pendant une heure et demie des réunions téléphoniques, au cours desquelles nous travaillons ensemble : et je peux vous assurer qu’elles sont denses.<br/>Qu’avons-nous fait depuis plus de deux mois ? Nous avons défini les modalités du chômage partiel, nous les avons étendues aux assistantes maternelles, aux employés à domicile, aux VRP, aux personnels navigants, aux marins pêcheurs – à tous ceux qui n’y avaient pas droit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611778" ordre_absolu_seance="276" id_acteur="PA719890" id_mandat="PM722790" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093826" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danielle Brulebois</nom>
+              <id>719890</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1611779" ordre_absolu_seance="277" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2093827" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons pris en charge à 100 % les salaires jusqu’à quatre fois et demie le SMIC pour éviter qu’une entreprise ne soit confrontée au dilemme entre chômage partiel et licenciement. Nous avons fait en sorte que les remboursements de salaires soient versés en dix jours, pour que les PME ne licencient pas. Il faut souligner ce succès en matière de protection sociale. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique>  <br/>Autre chantier sur lequel nous travaillons avec les partenaires sociaux : la santé et la protection des travailleurs. Nous avons élaboré, en concertation avec les partenaires sociaux, un protocole de déconfinement et soixante-quatre guides sectoriels.<br/>Oui, nous n’avons pas encore résolu tous les problèmes. Nous avons travaillé d’abord à protéger l’emploi et la santé des travailleurs. Nous nous attaquons désormais aux autres sujets, parmi lesquels la relance de l’emploi et l’assurance chômage. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique>    </texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1611783" ordre_absolu_seance="281" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2093831" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1611784" ordre_absolu_seance="282" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2093832" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Questions orales sans débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1611785" ordre_absolu_seance="283" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2093833" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1611786" ordre_absolu_seance="284" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2093834" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>
