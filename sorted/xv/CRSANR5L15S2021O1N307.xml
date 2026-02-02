@@ -1,0 +1,1079 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N307</uid>
+  <seanceRef>RUANR5L15S2021IDS24394</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210615213000000</dateSeance>
+    <dateSeanceJour>mardi 15 juin 2021</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>307</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210307</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-06-23T13:56:55.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2554846">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2554851">
+          <intitule>Couverture santé des étrangers en situation irrégulière</intitule>
+        </titreStruct>
+        <para id_syceron="2554852"/>
+        <sommaire2>
+          <titreStruct id_syceron="2554854">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2554856">Mme Véronique Louwagie</para>
+          <para id_syceron="2554879">Mme Perrine Goulet</para>
+          <para id_syceron="2554958">M. Gérard Leseul</para>
+          <para id_syceron="2554976">M. Dimitri Houbron</para>
+          <para id_syceron="2554983">M. Jean-Christophe Lagarde</para>
+          <para id_syceron="2555064">M. Sébastien Nadot</para>
+          <para id_syceron="2555073">Mme Bénédicte Taurine</para>
+          <para id_syceron="2555083">M. Hubert Wulfranc</para>
+          <para id_syceron="2554752">Mme Mireille Robert</para>
+          <para id_syceron="2554768">M. Bruno Bilde</para>
+          <para id_syceron="2554781">Mme Brigitte Bourguignon, ministre déléguée auprès du ministre des solidarités et de la santé, chargée de l’autonomie</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2554890">
+            <intitule>Explications de vote</intitule>
+          </titreStruct>
+          <para id_syceron="2554829">M. Éric Ciotti (LR)</para>
+          <para id_syceron="2554840">M. Gérard Leseul (SOC)</para>
+          <para id_syceron="2554845">M. François-Michel Lambert (LT)</para>
+          <para id_syceron="2554897">Mme Bénédicte Taurine (FI)</para>
+          <para id_syceron="2554899">Mme Mireille Robert (LaREM)</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2554948">
+            <intitule>Vote sur l’article unique</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2554908">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du mardi 15 juin 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1906894" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2554846" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1906895" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554847" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1906896" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2554848" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1906897" ordre_absolu_seance="4" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2554849" valeur="">
+      <orateurs/>
+      <texte>Madame la ministre déléguée chargée de l’autonomie, chers collègues, soit vous n’aimez pas le football, soit vous avez un sens du devoir particulièrement développé : quoi qu’il en soit, je vous remercie chaleureusement d’être présents. <italique>(Sourires.)</italique></texte>
+    </paragraphe>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906899" ordre_absolu_seance="6" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2554851" valeur=" (n[[o]] 4190)">
+      <orateurs/>
+      <texte>Couverture santé des étrangers en situation irrégulière</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906900" ordre_absolu_seance="7" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2554852" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion d’une proposition de résolution</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906901" ordre_absolu_seance="8" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554853" valeur=" (n[[os]] 4190)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, en application de l’article 34-1 de la Constitution, de la proposition de résolution de Mme Véronique Louwagie et plusieurs de ses collègues relative à la couverture santé des étrangers en situation irrégulière et des demandeurs d’asile provenant de pays d’origine sûrs et au nombre d’étrangers en situation irrégulière (n<exposant>o</exposant> 4190).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906902" ordre_absolu_seance="9" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2554854" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906903" ordre_absolu_seance="10" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554855" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Dans la discussion générale, la parole est à Mme Véronique Louwagie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906904" ordre_absolu_seance="11" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2554856" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Véronique Louwagie</nom>
+            <acteurRef>PA608016</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La proposition de résolution dont nous allons discuter fait suite aux travaux que j’ai conduits pendant plusieurs mois sur le coût des soins dispensés aux étrangers en situation irrégulière et dont j’ai récemment rendu compte devant la commission des finances. À cette occasion, M. Olivier Véran, ministre des solidarités et de la santé, était présent et je reviendrai à plusieurs reprises sur la réponse qu’il m’a donnée.<br/>Je commencerai néanmoins par citer deux chiffres.<br/>D’abord le chiffre 11, comme le nombre de dispositifs différents dispensant des soins aux étrangers en situation irrégulière. On croit souvent à tort que ce type de soins se résume à l’aide médicale de l’État (AME). Mais c’est faux : au moins dix autres dispositifs existent, tels que le maintien des droits à l’assurance maladie, les soins à Mayotte, les soins dans les centres de rétention, les permanences d’accès aux soins de santé, ou encore l’admission au séjour pour soins.<br/>Je citerai ensuite le chiffre 1,5 milliard, comme le coût, en 2019, de six de ces onze dispositifs. Cette somme comprend 1 milliard d’euros au titre de l’AME et 500 millions pour cinq autres dispositifs. À titre de comparaison, 1,5 milliard d’euros, c’est 100 millions de plus que le budget annuel de fonctionnement de l’Assistance publique-Hôpitaux de Marseille.<br/>J’insiste sur ce point. En commission, M. le ministre des solidarités et de la santé pensait que ce montant ne concernait que l’AME. Or celle-ci représente bien 1 milliard d’euros, quand cinq autres dispositifs représentent 500 millions supplémentaires. Toujours en commission, M. le ministre a déclaré que les dépenses d’AME étaient « incompressibles » et que les migrants ne traversaient pas la Méditerranée pour demander l’AME.<br/>Contrairement à lui et à vous, madame la ministre déléguée, je ne crois pas que les dépenses d’AME soient incompressibles. Deux composantes de ce dispositif peuvent être régulées : le panier de soins et les flux.<br/>Vous le savez, le panier de soins proposé en France est beaucoup plus large que celui en vigueur en Europe. Nulle part ailleurs, je dis bien nulle part ailleurs, un étranger en situation irrégulière ne peut, comme en France, se faire recoller les oreilles ou poser un anneau gastrique. Si, en pratique, ce type de soins est très minoritaire, il n’en demeure pas moins qu’il figure bien dans le panier de soins de l’AME : ce n’est pas acceptable socialement.<br/>Se pose également un problème de flux. En décembre 2017, peu après votre arrivée au pouvoir, on recensait 315 000 bénéficiaires de l’AME ; trois ans après, il y en a 380 000. C’est plus de 1 000 nouveaux bénéficiaires par mois – je répète, plus de 1 000 nouveaux bénéficiaires par mois ! Ce sont les chiffres qui parlent. Ce flux incessant doit être maîtrisé,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906912" ordre_absolu_seance="19" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554864" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Patrick Hetzel</nom>
+            <acteurRef>PA608416</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906913" ordre_absolu_seance="20" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554865" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Véronique Louwagie</nom>
+            <acteurRef>PA608016</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…mais cela impose de lutter résolument contre l’immigration irrégulière. Or le compte n’y est pas.<br/>En commission, M. le ministre a dit qu’un migrant ne traversait pas la Méditerranée pour bénéficier de l’AME. Sur ce point, madame la ministre déléguée, le Gouvernement a à la fois raison et tort. Vous avez raison, car ceux qui traversent la Méditerranée au péril de leur vie ne le font pas pour se faire recoller les oreilles, c’est vrai. Mais vous avez tort, car le principal flux d’immigration irrégulière n’est pas constitué de ces populations. En effet, les étrangers en situation irrégulière sont surtout des personnes qui arrivent en France légalement et qui y restent alors que la validité de leur visa ou de leur titre de séjour est expirée.<br/>À cet égard, je prendrai un exemple simple, figurant dans une décision rendue en 2020 par le Défenseur des droits, relative à un couple d’Algériens venu en France avec un enfant nécessitant des soins. Devinez à quelle date ce couple, entré en France le 8 octobre 2018, a demandé l’AME pour son enfant ? Le 10 octobre 2018, soit deux jours après son arrivée. Et il l’a obtenue, puisque les enfants sont automatiquement éligibles à l’AME.<br/>Madame la ministre déléguée, quand un couple d’Algériens dépose une demande d’AME deux jours après son arrivée en France, croyez-vous réellement qu’il ne s’agit pas d’une immigration pour soins ? Le Président de la République l’a d’ailleurs dit lui-même dans un entretien accordé le 31 mai au <italique>Journal du dimanche</italique>. « Si la jeunesse africaine n’a pas d’opportunité économique […], si on n’a pas de bons systèmes de santé en Afrique, alors elle émigrera », a déclaré le chef de l’État.<br/>Madame la ministre déléguée, l’immigration irrégulière pour soins est une réalité et vous savez comme moi qu’il y a des abus. Notons d’ailleurs qu’Olivier Véran a reconnu en commission l’existence de problèmes avec « certains pays, notamment d’Europe de l’Est ».<br/>Pour illustrer ces abus, je prendrai un autre exemple concret. Dans mon rapport, j’ai publié une note de votre ministère portant sur les fraudes à l’AME, dans laquelle on apprend que des dizaines de Géorgiens en situation irrégulière « arrivent dans les centres de référence parisiens en matière de tuberculose ». La note indique que nombre d’entre eux avaient un passé carcéral. Madame la ministre déléguée, croyez-vous vraiment que l’AME soit faite pour cela ?<br/>Bien sûr, l’AME ne se résume pas à des abus, mais ceux-ci minent l’acceptation sociale de ce type de dispositifs et alourdissent leur coût. Pour y remédier, notre réglementation n’est pas adaptée, notamment en ce qui concerne les demandeurs d’asile provenant de pays d’origine sûrs, c’est-à-dire où ils ne risquent pas d’être persécutés. C’est par exemple le cas de l’Arménie, de la Géorgie ou de la Moldavie.<br/>En 2019, plus de 30 000 demandes d’asile ont été déposées par des ressortissants de pays d’origine sûrs et le taux d’acceptation par l’OFPRA – Office français de protection des réfugiés et apatrides – a été inférieur à 7 %, soit trois fois moins que le taux d’acceptation global des demandes d’asile.<br/>Dans certains cas, ce taux est même ridiculement bas. En 2019, savez-vous combien de demandes d’asile l’OFPRA et la CNDA – Cour nationale du droit d’asile – ont acceptées sur les 468 qui avaient été introduites par des Moldaves ? Une seule. Une seule demande d’asile a été acceptée sur les 468 introduites par des Moldaves, soit un taux d’acceptation de 0,2 %. Selon vous, madame la ministre déléguée, les dépenses de santé relatives aux 467 autres demandeurs d’asile moldaves pris en charge pendant des mois étaient-elles également des dépenses incompressibles ?<br/>Ce type d’abus concerne aussi une autre singularité française : la procédure d’admission au séjour pour soins. Dans l’Union européenne, seuls deux pays sur vingt-sept, la France et la Belgique, permettent à des étrangers en situation irrégulière d’être régularisés pour un motif médical – deux pays sur vingt-sept ! En 2019, 30 000 étrangers étaient titulaires d’un tel titre de séjour. Madame la ministre déléguée, à l’heure où l’hôpital souffre, pourquoi ouvrir grand ses portes ?<br/>Je terminerai en évoquant le maintien des droits, dispositif permettant à un étranger dont le titre de séjour arrive à expiration de bénéficier d’une prolongation automatique de son droit à l’assurance maladie pendant au moins six mois, afin de couvrir un éventuel retard de traitement de sa demande. Dans son principe, ce mécanisme est intéressant, mais en pratique, les difficultés sont nombreuses. En effet, il est ouvert à tout étranger justifiant de trois mois de résidence régulière sur le territoire. Autrement dit, si vous avez un titre valable quatre mois et que vous tombez dans l’irrégularité à son expiration, vous bénéficierez tout de même de la protection universelle maladie pendant six mois supplémentaires au lieu de relever de l’AME. S’agit-il, là encore, d’une dépense incompressible ? À l’évidence, non.<br/>C’est dans ce contexte que nous, députés Les Républicains, invitons le Gouvernement à agir. Nous, députés Les Républicains, renouvelons notre demande d’aligner la situation française sur le droit commun européen. Nous, députés Les Républicains, ne demandons pas de faire moins que les autres pays, mais de faire comme eux, ni plus ni moins.<br/>Madame la ministre déléguée, dénoncer les abus comme vous le faites, c’est bien, mais les combattre résolument, comme nous le proposons, ce serait encore mieux. <italique>(Applaudissements sur les bancs du groupe LR. – Mme Emmanuelle Ménard applaudit également.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Perrine Goulet" id_acteur="PA720560" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723000">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906926" ordre_absolu_seance="33" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554878" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Perrine Goulet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906927" ordre_absolu_seance="34" id_acteur="PA720560" id_mandat="PM723000" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554879" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Perrine Goulet</nom>
+              <acteurRef>PA720560</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de résolution qui nous est soumise ce soir vise à mettre en débat le dispositif d’aide médicale de l’État et les autres mécanismes de dispensation de soins destinés aux étrangers en situation irrégulière. Elle découle du rapport sur l’exécution budgétaire de la mission <italique>Santé</italique> réalisé par notre collègue Véronique Louwagie dans le cadre du Printemps social de l’évaluation.<br/>Ce rapport dénonce l’exception française de la couverture sanitaire en faveur des étrangers en situation irrégulière et pointe un coût élevé dont les perspectives d’évolution seraient préoccupantes. La position du groupe Les Républicains sur l’AME n’est pas nouvelle, étant donné qu’il propose chaque année de baisser drastiquement ses crédits lors de l’examen de la seconde partie du projet de loi de finances.<br/>Le groupe Mouvement démocrate (MODEM) et démocrates apparentés ne peut souscrire à cette ambition et souhaite rappeler son attachement au maintien des moyens nécessaires à cette noble mission, qui répond avant tout à des objectifs humanitaires et de santé publique et qui fait honneur à notre pays.<br/>Remodelée en 1999, l’AME a pour objectif de fournir un accès aux soins à des personnes en situation juridique, financière et humaine précaire, mais aussi – n’oublions pas de le rappeler – d’éviter la propagation à l’ensemble de la population de maladies contagieuses disparues dans notre pays. Nous pouvons nous enorgueillir de disposer de cet arsenal sanitaire, qui prend tout son sens dans le contexte sanitaire actuel. Au risque de contredire Mme la rapporteure, mais également l’extrême droite, qui profère ce type d’éléments de langage sur cette question, ce dispositif n’est d’ailleurs absolument pas une exception française.<br/>De nombreuses études comparatives ont démontré que nos voisins européens avaient instauré des mécanismes similaires à ceux proposés dans notre pays. C’est le cas de l’Espagne, de la Belgique, ou encore des Pays-Bas. Si ces pays se sont inspirés de nous, nous devrions en être fiers.<br/>La proposition de résolution invite le Gouvernement à revoir largement la politique de couverture médicale des étrangers en situation irrégulière sur notre territoire. Cela a été fait dans la loi de financement de la sécurité sociale pour 2020. Cette réforme a consisté à rationaliser et à simplifier la gestion du processus d’instruction des demandes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906932" ordre_absolu_seance="40" id_acteur="PA2960" id_mandat="PM723006" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554954" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Woerth</nom>
+              <acteurRef>PA2960</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous savez que c’est insuffisant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1906932" ordre_absolu_seance="41" id_acteur="PA720560" id_mandat="PM723000" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554953" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Perrine Goulet</nom>
+              <acteurRef>PA720560</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle a également renforcé la lutte contre les fraudes, afin de contrer leur impact négatif sur l’ambition humaniste et de justice sociale de l’AME.<br/>Nous avions salué cette disposition à l’époque, car il nous semblait indispensable de circonscrire au maximum le bénéfice indu de cette aide, qui grève son budget et apporte de l’eau au moulin de ses contempteurs.<br/>Les conditions d’attribution de l’AME et les démarches pour en bénéficier seront ainsi davantage contrôlées. Par exemple, le dépôt du formulaire pour une première demande d’AME devra être effectué à l’accueil d’un organisme d’assurance maladie. Cela permettra de vérifier la présence physique du demandeur sur le territoire lors du dépôt de sa demande, en comparant son identité avec celle déclarée sur le dossier.<br/>Les échéances de cette réforme ont été logiquement reportées en raison de la crise sanitaire. Son entrée en vigueur au 1<exposant>er</exposant> janvier prochain permettra d’assurer une meilleure gestion de ce dispositif, que nous considérons comme un pan essentiel de notre système de santé.<br/>Aussi la proposition de résolution sur laquelle nous devons nous prononcer ce soir ne nous apparaît-elle ni opportune ni prioritaire. Elle n’invite qu’à restreindre, resserrer et recentrer à l’heure où la solidarité et la responsabilité humaines doivent être nos maîtres mots. Pour ces raisons, le groupe Mouvement démocrate (MODEM) et démocrates apparentés ne lui apportera pas ses suffrages. <italique>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe LaREM.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gérard Leseul" id_acteur="PA774958" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774981">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907037" ordre_absolu_seance="46" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554957" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gérard Leseul.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907038" ordre_absolu_seance="47" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554958" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Notre collègue Véronique Louwagie a été rapporteure des crédits de la mission <italique>Santé</italique> du budget de l’État et avait déjà jugé que « l’offre de soins proposée en France aux étrangers en situation irrégulière [était] très généreuse, et même trop généreuse. ». Vous revenez aujourd’hui, chère collègue, avec une proposition de résolution signée par l’ensemble des parlementaires de votre groupe politique.<br/>De quoi s’agit-il ? Par rapport au total des dépenses de santé, le coût de l’AME est faible et stable : l’AME de droit commun coûte 800 millions d’euros, ce qui représente 0,5 % des dépenses de santé. C’est assez limité et le nombre de bénéficiaires est très stable depuis 2015 : il n’y a donc pas de crise. Le coût par bénéficiaire est inférieur à celui des autres personnes qui résident en France.<br/>Votre proposition de résolution relative à la couverture santé des étrangers en situation irrégulière et des demandeurs d’asile provenant de pays d’origine sûrs et au nombre d’étrangers en situation irrégulière vise à la suppression d’une offre de soins et suggère que l’étendue des différents dispositifs favorise une immigration irrégulière pour soins qui pèserait sur le système de santé français.<br/>Un tel débat ne saurait ignorer la réalité, notamment statistique, du phénomène migratoire. Ainsi, la fameuse « pression migratoire » et le discours lancinant sur les arrivées massives d’immigrés relèvent plus du fantasme que de la réalité : la France n’est pas le pays d’Europe recevant le plus de demandes d’asile, tant s’en faut. De plus, l’aide médicale de l’État n’insuffle nul « appel d’air », contrairement à ce que vous tentez de démontrer. Bref, le spectre de l’instrumentalisation du thème de l’immigration est bien réel, au point de s’interroger sur le choix et la signification politique de ce débat.<br/>Le démographe Hervé Le Bras nous fournit des chiffres et une approche factuelle très sérieuse sur le sujet. En France, les entrées régulières – c’est-à-dire le nombre de cartes de séjour distribuées – connaissent une augmentation modérée, de 220 000 en 2010 à 260 000 en 2019. C’est plutôt le nombre de demandes d’asile qui s’est accru de 60 000 par an dans les années 2010 à 120 000 l’an dernier ; mais le taux d’acceptation n’est que de 40 %.<br/>Je profite d’ailleurs de ce débat pour rappeler que dans son bilan paru en décembre 2018, le Défenseur des droits dressait un constat préoccupant des conditions d’accueil des exilés en France et signalait des « atteintes inédites aux droits fondamentaux », notamment des entraves persistantes à la procédure d’asile et un usage de la force « parfois injustifié » envers les personnes migrantes. En matière d’accès aux droits de santé, le manque criant d’informations adaptées et les pratiques de certaines caisses de sécurité sociale, en marge de la réglementation, compliquent l’accès à la santé des exilés et entraînent renoncements et retards de recours aux soins.<br/>Depuis le 1<exposant>er</exposant> janvier 2021, les conditions d’attribution de l’aide médicale de l’État aux étrangers en situation irrégulière et les démarches pour la demander ont changé. Le demandeur de l’AME doit désormais résider en France depuis au moins trois mois à compter de l’expiration de son visa ou de son titre de séjour. L’aide médicale de l’État est un dispositif permettant aux étrangers en situation irrégulière de bénéficier d’un accès aux soins. Elle est attribuée sous conditions de résidence et de ressources. Pour la demander, il faut remplir un dossier. Une fois attribuée, l’AME est accordée pour un an, le renouvellement devant être obtenu chaque année.<br/>Depuis le 1<exposant>er</exposant> janvier 2021, certains soins et traitements non urgents ne sont pris en charge qu’au bout d’un délai de neuf mois après l’admission à l’AME pour tout nouveau bénéficiaire ou pour celui qui ne l’est plus depuis plus d’un an. Il y a bien sûr des exceptions, pour les soins hospitaliers comme pour les soins de ville, mais pour en bénéficier, la personne doit demander un accord préalable au service médical de l’assurance maladie : le professionnel de santé doit alors remplir le nouveau formulaire de demande préalable.<br/>En additionnant l’AME et une dizaine d’autres dispositifs, principalement financés par la sécurité sociale, votre groupe et vous-même en avez estimé, dans votre exposé des motifs, le coût total à au moins 1,5 milliard d’euros en 2020.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907047" ordre_absolu_seance="56" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554967" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <acteurRef>PA608016</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En 2019 ! C’est en 2019, je vous l’ai dit !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907048" ordre_absolu_seance="57" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554968" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sans doute, comme dans tout système, existe-t-il des abus qu’il faut circonvenir. Cependant, il semble clair qu’on ne traverse pas la Méditerranée sur une barque de fortune parce qu’il y a l’AME et que l’on veut se faire recoller les oreilles…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907049" ordre_absolu_seance="58" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554969" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <acteurRef>PA608016</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je n’ai pas dit autre chose !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907050" ordre_absolu_seance="59" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554970" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…comme le suggère votre proposition de résolution. Pour mémoire et pour remettre les estimations à leur juste proportion, je vous rappelle, vous qui aimez les chiffres, que l’évasion fiscale, qui n’a certes rien à voir avec le sujet,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907051" ordre_absolu_seance="60" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554971" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe LR</nom>
+              <acteurRef>PA0</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet, ça n’a rien à voir !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907052" ordre_absolu_seance="61" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554972" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…fait perdre 20 milliards d’euros chaque année à la France, d’après l’estimation de Tax Justice Network, voire 100 milliards selon des sources syndicales de Bercy, et qu’il existe encore 471 niches fiscales, sur lesquelles il conviendrait peut-être de se pencher. <italique>(Protestations sur les bancs du groupe LR.)</italique><br/>Vos priorités semblent déconnectées de nos valeurs, celles de la patrie des droits de l’homme. Le groupe Socialistes et apparentés ne votera pas votre proposition de résolution. <italique>(Applaudissements sur les bancs des groupes GDR et FI. – Mme Marie-Christine Verdier-Jouclas applaudit aussi.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Dimitri Houbron" id_acteur="PA720454" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722968">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907055" ordre_absolu_seance="63" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554975" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Dimitri Houbron.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907056" ordre_absolu_seance="64" id_acteur="PA720454" id_mandat="PM722968" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554976" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dimitri Houbron</nom>
+              <acteurRef>PA720454</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons une proposition de résolution qui invite le Gouvernement à prendre position sur le devenir de la couverture santé des étrangers. À travers cette proposition de résolution, le groupe Les Républicains aborde deux thèmes : le fait que l’AME prenne en charge les soins de personnes en situation irrégulière sur le territoire français, y compris des soins non urgents ; la procédure d’admission au séjour pour soins, qui est ouverte à l’ensemble des étrangers en situation irrégulière, notamment les demandeurs d’asile déboutés provenant de pays d’origine sûrs.<br/>S’agissant de l’AME, il convient de rappeler que les éléments chiffrés et les faits écrits sont de nature à nous interroger sur une éventuelle altération des objectifs initiaux de cette aide médicale, à savoir la limitation des risques de transmission de maladies graves. Ce qui est en cause, ce n’est pas le coût de l’AME, qui représente 0,4 % du budget de la santé, mais la prise en charge de soins non urgents comme le recollement des oreilles ou la pose d’un anneau gastrique. Toutefois, il convient de tempérer l’affirmation selon laquelle ce dispositif serait exclusivement consacré à des soins de confort ou mineurs.<br/>Tout d’abord, selon le rapport d’information des députés Claude Goasguen et Christophe Sirugue publié en 2015, 70 % des coûts de l’AME résultaient de frais hospitaliers liés à la tuberculose, au VIH ou à l’accouchement par césarienne. Ensuite, soulignons qu’une grande partie de ces dépenses de santé sont directement payées par l’État, mais uniquement au tarif de la sécurité sociale. Enfin, rappelons que l’AME contient elle aussi des exclusions : les bénéficiaires doivent payer eux-mêmes les 150 médicaments que la sécurité sociale ne rembourse qu’à 15 %, comme le Gaviscon, le Zovirax, l’Hexomédine, le Valium ou la Bétadine.<br/>Nous pouvons en déduire que subsistent certaines incohérences au sein de ce système d’aide médicale d’État. En effet, ce dispositif ne finance pas des médicaments dont certains peuvent s’avérer indispensables, mais il rembourse une opération de recollement des oreilles. Il conviendrait donc d’étudier le contenu de ce panier de soins,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907059" ordre_absolu_seance="68" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2555029" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <acteurRef>PA608016</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907059" ordre_absolu_seance="69" id_acteur="PA720454" id_mandat="PM722968" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555028" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dimitri Houbron</nom>
+              <acteurRef>PA720454</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…afin de redonner de la crédibilité et de la légitimité à ce dispositif auprès des Français et de s’interroger sur une éventuelle délivrance d’une autorisation spécifique au cas par cas pour les traitements les plus coûteux.<br/>Ajoutons que la question des filières qui font venir en France des personnes non éligibles au droit d’asile, originaires par exemple de Géorgie ou d’Albanie, mérite un examen approfondi.<br/>S’agissant de la procédure d’admission au séjour pour soins, relevons que le dernier alinéa de l’article L. 425-9 du code de l’entrée et du séjour des étrangers et du droit d’asile (CESEDA), issu de l’ordonnance du 16 décembre 2020, précise que « chaque année, un rapport présente au Parlement l’activité réalisée au titre du présent article par le service médical de l’office ainsi que les données générales en matière de santé publique recueillies dans ce cadre. » Ces observations nous conduisent à tirer deux enseignements : le dispositif de l’AME mérite une étude attentive pour en corriger les incohérences afin de ne pas le dérouter de ses objectifs, et cette étude nécessite un engagement gouvernemental qui ne soit pas conditionné par une invitation votée sous la forme d’une résolution parlementaire ; en effet, le traitement de ce sujet sera efficace s’il résulte d’un volontarisme politique et non d’une injonction sans lendemain. Nous avons la conviction que le Gouvernement y portera une attention toute particulière ; c’est la raison pour laquelle le groupe Agir ensemble votera contre l’adoption de cette proposition de résolution.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Christophe Lagarde" id_acteur="PA268019" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723092">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907062" ordre_absolu_seance="72" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554982" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Christophe Lagarde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907063" ordre_absolu_seance="73" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554983" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat sur les dispositifs de couverture santé des étrangers en situation irrégulière, en particulier l’AME, revient presque chaque année. C’est le même débat, certes passionné mais surtout manichéen, entre ceux qui sont simplement satisfaits de voir augmenter les dépenses liées à la couverture santé des étrangers et ceux qui en font une tribune au service d’une soi-disant lutte contre l’immigration. Aujourd’hui, il nous est possible de prendre un peu de hauteur et d’y voir un peu plus clair grâce à la publication du travail de la rapporteure.<br/>Plutôt que de discuter du coût, discutons de justice et posons-nous la question de savoir si cette couverture maladie touche bien ceux qui sont censés en bénéficier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907065" ordre_absolu_seance="75" id_acteur="PA722308" id_mandat="PM772707" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554985" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Serre</nom>
+              <acteurRef>PA722308</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907066" ordre_absolu_seance="76" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554986" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En toute honnêteté, la réponse est non. De prime abord, comment un étranger arrivant en France peut-il se retrouver dans onze dispositifs différents ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907067" ordre_absolu_seance="77" id_acteur="PA267735" id_mandat="PM722852" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554987" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Claude de Ganay</nom>
+              <acteurRef>PA267735</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907068" ordre_absolu_seance="78" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554988" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le rapport met très bien en lumière les redondances, les points d’interrogation, l’impossibilité matérielle de vérifier tel ou tel critère d’éligibilité. La solidarité nationale est, comme trop souvent, entravée par la technocratie et la bureaucratie dont nous ne savons pas nous départir. Il nous faut rationaliser les politiques publiques de couverture santé des étrangers pour les rendre plus lisibles et accessibles. Ne nous y trompons pas, le dispositif au cœur du sujet est l’AME, dont le coût représente les deux tiers du coût total de la couverture santé des étrangers.<br/>Le groupe UDI et indépendants est fier que notre pays prenne en charge une personne qui se trouve sur notre territoire lorsqu’elle a besoin de soins, quelles que soient son origine, sa nationalité, sa couleur de peau ou même les conditions de son séjour. Il serait inhumain et contraire aux valeurs de la République de laisser ces personnes vulnérables abandonnées à leur sort. Pour autant, le doublement du coût de l’AME entre 2009 et aujourd’hui traduit-il une plus grande efficacité de cette couverture santé ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907070" ordre_absolu_seance="80" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554990" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <acteurRef>PA0</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907071" ordre_absolu_seance="81" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554991" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne le crois pas. Ceux qui pensent que nous améliorons les choses simplement parce que la dépense publique augmente sont des naïfs. Encore une fois, c’est de justice dont il nous faut débattre ! L’AME souffre de deux maux principaux : la fraude, comme l’a formidablement montré notre collègue Pascal Brindeau, et le non-recours aux droits.<br/>L’inspection générale des affaires sociales (IGAS) et l’inspection générale des finances (IGF) ont pointé du doigt la fraude à l’AME dans un rapport d’octobre 2019. Les auteurs du rapport font même de la lutte contre la fraude une priorité, car cette fraude fragilise considérablement l’acceptabilité du dispositif aux yeux des Français.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907073" ordre_absolu_seance="83" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554993" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <acteurRef>PA0</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1907074" ordre_absolu_seance="84" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554994" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce rapport nous indique que la vérification de l’identité du tiers attestant héberger le demandeur depuis plus de trois mois n’est pas systématique, et qu’il n’existe aucun mécanisme de détection des cas de multi-hébergement lors de l’instruction des dossiers. Les auteurs ajoutent que trop peu d’informations sont délivrées sur le parcours géographique du demandeur, réduisant la capacité à vérifier la condition de résidence de trois mois sur le territoire. Une part importante des cartes AME est retirée par le bénéficiaire plusieurs mois après la notification de la décision par la caisse primaire d’assurance maladie (CPAM), ce qui laisse penser que dans certains cas, la personne réside dans son pays d’origine et ne prévoit un retour en France et un retrait de la carte AME que lorsqu’elle a besoin de soins.<br/>Parallèlement, le non-recours aux droits serait également très élevé. C’est particulièrement vrai pour le recours à l’AME. Selon une étude de l’Institut de recherche et documentation en économie de la santé (IRDES), seuls 51 %, soit à peine plus de la moitié, des personnes qui y sont éligibles bénéficient de l’AME.<br/>Alors d’où vient l’envolée des coûts ? Si la moitié des personnes éligibles n’en bénéficient pas et que les dépenses ne cessent d’augmenter, cela signifie que de très nombreux bénéficiaires de l’AME n’y ont pas droit. Nous constatons une hausse exponentielle du nombre de bénéficiaires de l’AME, qui va de pair avec une augmentation de la fraude constatée par l’IGAS elle-même. Dans le même temps, une étude très sérieuse de l’IRDES nous indique qu’à peine une personne sur deux éligible à l’AME en fait la demande.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907009" ordre_absolu_seance="87" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555061" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’AME est donc devenue une prestation injuste qu’il convient de réformer avec une vraie ambition, à la fois pour permettre à ceux qui y ont droit d’en bénéficier effectivement et pour chasser les fraudeurs qui pillent notre système de santé et jettent le discrédit sur notre politique de couverture santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907010" ordre_absolu_seance="88" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555062" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <acteurRef>PA268019</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est ce que le groupe UDI et indépendants attend du Gouvernement avant la fin du quinquennat : une vraie réforme qui permette de restaurer la crédibilité, la foi et l’acceptabilité auprès des Français d’un dispositif qui devrait faire l’honneur de la France en sauvant les personnes qui en ont besoin lorsqu’elles sont atteintes d’une maladie, mais sans permettre à celles qui trichent, qui fraudent et qui trompent d’en profiter, et donc de miner le pacte social de la République. <italique>(Applaudissements sur plusieurs bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sébastien Nadot" id_acteur="PA719464" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722670">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907011" ordre_absolu_seance="89" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2555063" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Nadot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907012" ordre_absolu_seance="90" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2555064" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite remercier les députés du groupe Les Républicains d’avoir mis à l’ordre du jour de notre assemblée la question ô combien importante des migrants, et de montrer, à travers leur proposition de résolution très politicienne, la plus mauvaise manière d’aborder le sujet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907013" ordre_absolu_seance="91" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555065" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Alors que les migrations sont et seront l’un des défis majeurs de notre siècle, on ne peut que se désespérer de voir le débat toujours aussi mal posé dans notre pays. La proposition de résolution s’inscrit dans le droit fil d’une conception de l’immigration qui s’est imposée en France depuis le quinquennat de Nicolas Sarkozy. C’est l’idée que l’immigration est un problème en soi et que, comme face à la peste, il faudrait nous enfermer derrière des murs infranchissables, étant persuadés que les étrangers – de préférence noirs ou arabes – sont la cause de tous nos maux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907014" ordre_absolu_seance="92" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555066" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Croire que l’on pourrait tarir les flux migratoires comme on coupe l’eau en fermant le robinet relève de la pure illusion, et donc du pur mensonge. Qu’elles soient la conséquence de la guerre, de la misère économique, de la répression politique ou de la dégradation de l’environnement, les migrations sont factuellement inévitables ; elles sont historiquement anciennes et nécessaires aux nations pour prospérer, dès lors qu’elles sont gérées avec raison et dans le respect des principes de l’État de droit et des droits fondamentaux. Il n’y aura plus d’immigration vers la France, mes chers collègues, quand notre pays remplacera le Yémen, la Centrafrique et le Vénézuela dans le classement de la misère mondiale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907015" ordre_absolu_seance="93" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555067" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non, l’immigration n’est pas un problème ; l’immigration est un fait, un fait majeur de notre siècle qu’il nous faut aborder avec raison et dignité. Le problème, ce sont nos politiques d’immigration indignes, leur échec total et l’impasse dramatique dans laquelle nous a conduits le ministère de l’immigration, de l’intégration et de l’identité nationale institué par le président Nicolas Sarkozy. Le problème, c’est l’incapacité du président François Hollande à prendre la mesure des conséquences de la guerre en Syrie et son abandon en rase campagne de l’Allemagne d’Angela Merkel – capable, elle, de s’extraire de l’idéologie de son camp pour accueillir dignement les centaines de milliers de réfugiés. Le problème, c’est la lâcheté française, au diapason de la plupart des pays de l’Union, consistant à rejeter toutes les responsabilités – qui sont pourtant aussi les nôtres – sur l’Europe en général ou, plus directement, sur la Hongrie ou la Pologne, abandonnant dans le même temps à leurs difficultés les pays d’arrivée que sont la Grèce, l’Italie, Malte et l’Espagne. Le problème, c’est l’escalade vers le néant qui attise les passions tristes en activant la théorie du bouc émissaire étranger, dans un suivi coupable de l’extrême-droite.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907016" ordre_absolu_seance="94" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555068" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parce que le débat sur l’immigration est décidément mal posé dans notre pays, le groupe Libertés et territoires a voulu lancer une commission d’enquête parlementaire sur les migrations, que j’ai l’honneur de présider. Nous avons l’intime conviction que la crise de l’accueil des migrants en France est devenue une crise de la dignité humaine et qu’une société ne peut détourner indéfiniment son regard des atteintes à la dignité humaine sans en subir directement ou insidieusement les maux. Il ne s’agit pas seulement d’un coût économique, social ou sécuritaire, mais également d’un prix moral aux conséquences plus profondes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907017" ordre_absolu_seance="95" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555069" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au lieu de subir les migrations dans un esprit de forteresse assiégée au détriment de tous, migrants comme Français, en multipliant jusqu’à la nausée les atteintes à nos valeurs et à nos principes les plus fondamentaux pour, croit-on, dissuader les migrants de venir sur notre sol, nous ferions mieux d’adopter résolument l’approche inverse. Nous ferions mieux de gérer avec toute l’humanité qui est en notre pouvoir l’accueil de ces femmes, de ces hommes et de ces enfants qui quittent leur pays pour venir en Europe. Nous ferions bien mieux, aussi, de prévenir autant que possible les parcours du danger à travers les déserts, les mers et les océans par une véritable politique partenariale avec les pays d’émigration.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907018" ordre_absolu_seance="96" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555070" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aussi, à l’idée de diminuer l’assistance médicale aux migrants qui traverse votre proposition de résolution, je réponds qu’il faut, au contraire, améliorer autant que possible les dispositifs de santé pour les étrangers. Je le dis pour deux raisons : d’abord parce qu’en France, ni l’absence de droit au séjour, ni le fait d’occuper illégalement un site ne sauraient priver une personne de la jouissance des droits les plus fondamentaux tels que le droit d’être hébergé, d’être soigné, d’être scolarisé, de demander l’asile ou de ne pas subir de traitement inhumain ou dégradant ; ensuite, parce que la santé publique d’un pays se mesure à la qualité des soins prodigués aux plus précaires – et les migrants le sont pour beaucoup d’entre eux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907019" ordre_absolu_seance="97" id_acteur="PA719464" id_mandat="PM722670" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555071" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Nadot</nom>
+              <acteurRef>PA719464</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, plutôt que de tendre un doigt rageur vers les plus démunis, il faut comprendre les raisons de notre échec collectif en matière de politique migratoire. L’être humain en souffrance ne peut continuer d’être notre bouc émissaire. <italique>(Applaudissements sur les bancs des groupes LT et SOC.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Bénédicte Taurine" id_acteur="PA718860" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722482">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907020" ordre_absolu_seance="98" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2555072" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Bénédicte Taurine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907021" ordre_absolu_seance="99" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2555073" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans une période d’après-covid où la priorité est à l’atténuation des effets de la crise sur les plus vulnérables, quelle étonnante proposition que celle de nos collègues Les Républicains, qui s’attaquent à la couverture santé de celles et ceux qui sont contraints de quitter leur pays d’origine pour mieux vivre ! L’agenda politique à droite n’est donc nullement ému par cette période, puisqu’il s’attelle à la restriction de la couverture santé des personnes en situation irrégulière et des demandeurs d’asile.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907022" ordre_absolu_seance="100" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555074" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le dangereux climat qui prévaut en France sur les thèmes de la sécurité et de la stigmatisation d’une certaine frange de la population se retrouve dans cette proposition de résolution. Nous voilà donc amenés à devoir débattre d’une nouvelle coupe dans les dispositifs d’accueil et d’aide de celles et ceux qui arrivent sur notre territoire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907023" ordre_absolu_seance="101" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555075" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La démagogie voudrait nous faire croire que ces personnes passent leurs journées aux urgences à profiter de notre système de santé. Un chiffre, qui parle de lui-même, suffit à discréditer cette stigmatisation : le taux de non-recours au dispositif est de 49 %, c’est-à-dire qu’une personne sur deux ne recourt pas à la possibilité qui lui est donnée d’accéder au parcours de soins. C’est le cas pour 48 % des personnes atteintes de maladies respiratoires, et jusqu’à 64 % des personnes atteintes de diabète.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907024" ordre_absolu_seance="102" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555076" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Par ailleurs, c’est oublier que soigner les personnes se trouvant sur le territoire français est une nécessité de santé publique et que toute restriction serait absolument contre-productive. En effet, les prises en charge par la médecine de ville évitent d’attendre une dégradation de l’état de santé et permettent donc une réduction de coût par rapport à des prises en charge tardives – si votre objectif est là plutôt que dans la santé des personnes, mais vous passez aussi à côté de celui-ci.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907025" ordre_absolu_seance="103" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555077" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Faire une telle proposition est une preuve d’inconséquence politique. C’est ignorer l’ensemble des prospectives sur une problématique aussi fondamentale que celle de la santé au sein de l’ensemble de la société : selon des chercheurs de l’université de Bordeaux, de Dauphine et de l’Institut de recherche et documentation en économie de la santé, toute mesure qui viserait à limiter les droits offerts par l’aide médicale d’État de droit commun afin de lutter contre l’immigration clandestine ou de réduire fortement les dépenses de santé couvertes par l’AME raterait certainement sa cible. Le risque serait, en revanche, de mettre en danger l’état de santé d’une population.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907026" ordre_absolu_seance="104" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555078" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comment, à travers cette proposition de résolution, pouvez-vous souhaiter le recentrage de l’AME sur les seuls soins d’urgence, comme dans les autres États de l’UE ? C’est encore une fois l’aveu d’une méconnaissance qui n’est pas digne de la rigueur des débats que nous devrions avoir ici, car les pays européens prévoient déjà, selon des modalités diverses, la prise en charge de soins non urgents.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907027" ordre_absolu_seance="105" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555079" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de résolution exprime également la volonté de renforcer les statistiques sur les personnes en situation irrégulière, sur la nationalité des bénéficiaires de l’AME et sur les pathologies soignées. Cette revendication ne répond à aucun besoin de la part des chercheurs, lesquels disposent déjà de l’essentiel des données nécessaires. L’inspection générale des affaires sociales affirme que l’analyse des données de la Caisse nationale d’assurance maladie (CNAM) et de l’Agence technique de l’information sur l’hospitalisation ainsi que les fichiers hospitaliers donnent une typologie des pathologies. Quant aux statistiques en lien avec la nationalité, les données de différents centres hospitaliers ainsi que la récente enquête « Premiers pas » mettent déjà en avant une répartition par nationalité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907028" ordre_absolu_seance="106" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555080" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, la proposition de résolution cite des exemples de soins non essentiels financés par l’AME, tels que le recollement des oreilles ou la pose d’un anneau gastrique. Ces exemples que vous citez finissent de plonger la proposition de résolution dans l’amateurisme le plus complet : bien que ces soins soient théoriquement pris en charge, les échantillons statistiques analysés par l’inspection générale des affaires sociales et par l’inspection générale des finances n’ont présenté aucun cas de chirurgie de ce type.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907029" ordre_absolu_seance="107" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555081" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Que dire en conclusion, tant cette proposition de résolution manque de rigueur ? Elle est symptomatique d’un agenda politique devenu l’otage d’une surenchère sur les étrangers que nous ne cautionnerons pas. Nous voterons donc contre votre résolution.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Hubert Wulfranc" id_acteur="PA722110" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907030" ordre_absolu_seance="108" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2555082" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Hubert Wulfranc.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907031" ordre_absolu_seance="109" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2555083" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <acteurRef>PA722110</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Chacun sait ce qu’est un marronnier : c’est quand les journalistes n’ont aucune actualité à se mettre sous la dent et qu’ils reviennent par conséquent, tous les ans ou tous les trois mois, sur une actualité sans saveur ni intérêt particulier. Sur cette question servie de manière à agiter l’opinion de comptoir, nous avons déjà tout entendu. Le calendrier de sa réinscription à l’ordre du jour par nos collègues Les Républicains est cependant d’un cynisme particulier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907032" ordre_absolu_seance="110" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555084" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <acteurRef>PA722110</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En pleine pandémie à l’échelle mondiale qui a déjà fait plusieurs millions de morts et augmenté très sensiblement le degré de précarité et de pauvreté, au moment où la polémique se poursuit sur la question des vaccins et de leur délivrance aux pays les moins développés sur un fond de tensions internationales toujours vif dans de grandes régions du monde – Moyen-Orient, Afrique subsaharienne – et globalement partout où l’avancée des bouleversements climatiques qui perturbent les systèmes écologiques et sociaux se manifeste de plus en plus dangereusement, cette question revient dans l’hémicycle, et vous reposez la question provocante de savoir si nous devons assurer la protection sanitaire des personnes sans droit ni titre dont la vie a échoué sur notre territoire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907033" ordre_absolu_seance="111" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555085" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <acteurRef>PA722110</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vais donc répéter ce que j’ai déjà dit à l’une de vos collègues et rappeler la position des autorités morales judéo-chrétiennes, dont vous faites bien souvent la source d’inspiration de votre action publique – je ne parle pas du <italique>Fratelli</italique><italique>tutti </italique>du pape : par fraternité et par solidarité, ces dispositifs assurent l’accueil de l’autre quelles que soient les procédures administratives en cours le concernant. Pourquoi faudrait-il encore recentrer, resserrer, restreindre ces droits, alors même que le Gouvernement vous a précédés dans cette entreprise en en modifiant, le 1<exposant>er</exposant> janvier dernier, les conditions d’accès ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1907034" ordre_absolu_seance="112" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2555086" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <acteurRef>PA722110</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quelques éléments chiffrés, même si nous avons manifestement des chiffres fort différents les uns des autres : sur 225 000 titres de séjour délivrés en 2018, à peine 2 % l’ont été pour raisons médicales ; parmi ces 2 %, seuls 1 % ont été identifiés comme des actes de fraude. L’AME représente une dépense de 950 millions d’euros, soit 0,4 % des dépenses de l’assurance maladie. Parallèlement, vous savez fort bien qu’assurer l’accès aux soins primaires permet de limiter autant que possible des complications qui sont sources de soins plus lourds, parce que plus urgents, lesquels sont intégralement payés par les hôpitaux, avec peu de chances de se faire rembourser par la sécurité sociale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906967" ordre_absolu_seance="113" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554747" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <acteurRef>PA722110</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre déléguée, à l’occasion de ce bref débat, nous demandons pour notre part une évaluation des dispositions relatives à l’accès aux soins promues par votre gouvernement et entrées en vigueur le 1<exposant>er</exposant> janvier. L’accès aux soins est l’un des piliers du respect des conventions humanitaires européennes et internationales qui consacrent le droit à la sécurité sanitaire et à la santé.<br/>En conclusion, ne comptez pas sur le groupe de la Gauche démocrate et républicaine pour cautionner le jeu de la barbichette auquel continuent de jouer les droites – je dis bien « les » droites –, depuis le haut du pavé,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906969" ordre_absolu_seance="115" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554749" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <acteurRef>PA718850</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela n’a rien à voir avec nous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906970" ordre_absolu_seance="116" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554750" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <acteurRef>PA722110</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…avec ce débat politicien. <italique>(Applaudissements sur les bancs des groupes SOC et FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mireille Robert" id_acteur="PA718810" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722464">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906971" ordre_absolu_seance="117" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554751" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mireille Robert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906972" ordre_absolu_seance="118" id_acteur="PA718810" id_mandat="PM722464" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554752" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Robert</nom>
+              <acteurRef>PA718810</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes réunis ce soir pour aborder une question qui touche au cœur de notre modèle d’accueil, d’intégration et de santé publique.<br/>Nous saluons, madame Louwagie, votre engagement sur la mission <italique>Santé</italique> du projet de loi de finances, dont vous êtes rapporteure chaque année. Toutefois, nos approches de l’aide médicale de l’État s’opposent régulièrement. Ainsi, il y a trois ans, vous déposiez déjà une proposition de résolution relative à l’amélioration de l’évaluation de l’aide médicale d’État, afin d’enrichir et de rendre publiques les données chiffrées relatives à l’aide médicale de l’État de droit commun, en particulier concernant le profil des bénéficiaires.<br/>Nous en sommes convaincus, l’amélioration de l’information au sujet de l’AME permet de lutter contre les fausses idées et les raccourcis parfois nauséabonds qui circulent au sujet de cette prestation. En juin 2019, le Gouvernement a donc confié une mission à l’IGAS, dont le rapport a servi de base à la réforme que la majorité a défendue lors de l’examen du projet de loi de finances pour 2020.<br/>Aujourd’hui, votre groupe présente à nouveau une proposition de résolution à ce sujet. Même si nous partageons certains constats de votre dernier rapport sur la mission <italique>Santé</italique>, notamment concernant le besoin de transparence, de connaissance du montant de certaines dépenses, d’amélioration de l’efficience du dispositif, nous pensons que certaines de vos affirmations doivent être maniées avec une grande précaution et nous ne partageons pas vos conclusions. Comme vous, nous avons à cœur la bonne exécution budgétaire des crédits que nous votons chaque année. Vous avez d’ailleurs noté dans le même rapport qu’en matière d’AME, l’effort de sincérité budgétaire fourni pour les années 2019 et 2020 se poursuivait pour 2021.<br/>Vous mentionnez l’apurement de la dette de l’État à l’égard de l’assurance maladie, mais la majorité travaille bien dans le respect de tous les acteurs du financement de notre système de soins. Vous regrettez les retards dans l’application de la réforme de l’AME ; je vous réponds que la pandémie a changé bien des choses.<br/>Notre majorité a choisi la solidarité à l’égard de tous pour préserver la santé de chacun. Il aurait été absurde de supprimer les droits de certains bénéficiaires de l’AME, en pleine pandémie, alors que les populations concernées sont les plus fragiles et les plus à risque.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906978" ordre_absolu_seance="124" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554758" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <acteurRef>PA605518</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906979" ordre_absolu_seance="125" id_acteur="PA718810" id_mandat="PM722464" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554759" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Robert</nom>
+              <acteurRef>PA718810</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’exposé des motifs de votre proposition de résolution exprime l’idée que notre système de soins serait mis en danger par l’immigration et par des demandes d’asile motivées par les largesses françaises en matière d’accès à la santé. Pourtant, risque-t-on l’esclavage en Libye et la mort en mer Méditerranée, avec femme et enfants, pour cela ? J’en doute. Traverse-t-on l’Europe à pied, en fuyant un pays en guerre, parce que l’on a entendu que là-bas, en France, on ne paie pas ses soins ? Vous savez bien que non.<br/>Vous souhaitez recentrer l’AME sur les seuls soins d’urgence et restreindre l’accès au dispositif de maintien des droits expirés. Vous demandez en outre la suppression du maintien des droits sociaux prévu à l’article L. 433-3 du CESEDA. Doit-on rappeler à nouveau dans cet hémicycle que l’AME est la pierre angulaire de notre politique sanitaire à destination des personnes en situation irrégulière les plus démunies ?<br/>Recentrer le panier de soins sur les seuls soins urgents n’a aucun sens économique. Cela déporterait sur notre système hospitalier des soins plus critiques, puisque les personnes accéderaient aux soins dans des situations plus graves. Le sujet est cardinal dans les politiques de santé : on sait que la pauvreté a fait repartir des maladies comme la tuberculose. Vaut-il mieux prévenir ou laisser exploser des foyers épidémiques parce que la visite – que vous appelez « de confort » et que j’appelle « de soins primaires » – n’est pas financièrement accessible ? Repousser les soins n’est jamais une bonne idée pour le budget et la santé publique.<br/>De plus, contrairement à ce que vous affirmez, l’AME n’est pas une exception française. L’Espagne, le Portugal, l’Italie et la Suède offrent aux personnes en situation irrégulière une couverture sanitaire qui dépasse largement les seuls soins urgents.<br/>Concernant le maintien des droits sociaux, j’insiste sur le fait qu’il s’agit en premier lieu d’éviter toute rupture de droit et de tenir compte du délai administratif, pour des personnes qui sont intégrées puisqu’elles travaillent. Pour elles, supprimer ce dispositif aurait des conséquences néfastes.<br/>Nous, nous mettons nos idées en acte, en suivant une ligne : l’efficacité, dans le respect des principes fondant notre République, dans le respect de la générosité de la France, sans lequel bon nombre d’entre nous, sur ces bancs, ne seraient pas ici. Tel est le sens de notre action.<br/>Il y a deux ans, nous avons déjà modifié les conditions d’accès des étrangers en situation irrégulière à la couverture sanitaire – aussi bien les conditions d’attribution de l’aide médicale de l’État que les démarches pour la demander. Le demandeur doit résider en France depuis au moins trois mois à partir de l’expiration du visa ou du titre de séjour ; il doit déposer sa demande directement à l’accueil d’un organisme d’assurance maladie. Depuis le 1<exposant>er</exposant> janvier 2021, le dispositif permet de vérifier la présence physique du demandeur sur le territoire lors du dépôt de sa demande, en comparant son identité avec celle déclarée dans le dossier de demande.<br/>Pour l’ensemble de ces raisons et par attachement à l’humanisme de notre modèle sanitaire, le groupe La République en marche rejettera cette proposition de résolution. <italique>(Applaudissements sur les bancs des groupes LaREM et FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Bilde" id_acteur="PA720822" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723086">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906987" ordre_absolu_seance="133" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554767" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Bilde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906988" ordre_absolu_seance="134" id_acteur="PA720822" id_mandat="PM723086" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554768" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Bilde</nom>
+              <acteurRef>PA720822</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En France, l’offre sanitaire proposée aux étrangers en situation irrégulière est très généreuse ; elle l’est même trop. À travers onze dispositifs différents, des soins sont dispensés sans aucune contrepartie financière à 500 000 bénéficiaires, pour un coût minimal estimé à 1,5 milliard d’euros. Aucun autre pays en Europe ne permet à un clandestin de bénéficier d’une intervention chirurgicale visant à recoller les oreilles ou à poser un anneau gastrique. Jusqu’en 2011, les bénéficiaires de l’AME avaient même accès à des cures thermales.<br/>Dans de très nombreux pays européens, l’étendue des soins proposés aux clandestins se limite à la prise en charge des pathologies nécessitant des soins urgents. Seule la France propose aujourd’hui une couverture sanitaire aussi large, « quoi qu’il en coûte ». Un bénéficiaire de l’AME coûte en moyenne 3 300 euros, contre 2 900 euros pour un Français.<br/>Aujourd’hui, 20 % des Français renoncent aux soins dentaires et d’optique et près d’un Français sur trois admet avoir renoncé à des soins pour des raisons financières.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906991" ordre_absolu_seance="137" id_acteur="PA721542" id_mandat="PM723308" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554771" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Verdier-Jouclas</nom>
+              <acteurRef>PA721542</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh là là, c’est insupportable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906992" ordre_absolu_seance="138" id_acteur="PA720822" id_mandat="PM723086" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554772" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Bilde</nom>
+              <acteurRef>PA720822</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il faut mettre fin à l’AME, exception française qui constitue un appel d’air pour une immigration sanitaire qui n’est clairement pas un phénomène marginal.<br/>Plus d’un quart des étrangers en situation irrégulière citeraient les soins parmi les raisons de leur migration. De nombreux médecins dénoncent la logique de tourisme sanitaire qui anime ces patients. La crise sanitaire a mis en lumière un nombre très important de défaillances de notre système de soins, malgré l’engagement total des personnels soignants.<br/>Le budget consacré à l’AME ne cesse d’augmenter de façon exponentielle. L’explosion des dépenses au titre de l’AME ne peut plus être assumée raisonnablement par les finances publiques, c’est-à-dire par l’argent des Français, qui sont de plus en plus nombreux à devoir renoncer à des soins pour des raisons financières.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906995" ordre_absolu_seance="141" id_acteur="PA721542" id_mandat="PM723308" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554775" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Christine Verdier-Jouclas</nom>
+              <acteurRef>PA721542</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Arrêtez !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1906996" ordre_absolu_seance="142" id_acteur="PA720822" id_mandat="PM723086" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554776" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Bilde</nom>
+              <acteurRef>PA720822</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À travers cette proposition de résolution, certains députés de l’opposition semblent enfin ouvrir les yeux sur le dévoiement d’un système que nous dénonçons depuis si longtemps. Depuis de nombreuses années, on sait que le coût réel de l’AME et des diverses aides médicales destinées aux étrangers en situation irrégulière est très largement supérieur à la somme budgétée par les gouvernements successifs, de droite comme de gauche.<br/>Malgré les discours et les postures de certains de ses représentants, le parti Les Républicains – anciennement, l’UMP, l’Union pour un mouvement populaire – n’a jamais remis en cause ce dispositif, dont le coût a augmenté chaque année, au cours du quinquennat de Nicolas Sarkozy.<br/>Le rapport de l’IGAS et de l’IGF qui sert de fondement à cette proposition de résolution a le mérite de mettre en lumière le nombre et l’ampleur des dispositifs sanitaires dont bénéficient les clandestins. Ils représentent une charge considérable, tant pour le budget de l’État que pour celui de l’assurance maladie. Leur dévoiement constitue une pompe aspirante pour l’immigration illégale. Cette étude permet également de réévaluer le nombre d’étrangers en situation irrégulière sur notre territoire : ils seraient au moins 500 000, ce qui est très éloigné des chiffres officiels.<br/>Face à ces constats accablants, le Rassemblement national, lui, ne se contente pas de demander au Gouvernement d’engager une réflexion sur l’AME et les divers dispositifs de maintien des droits sociaux pour les étrangers illégaux. Il faut supprimer immédiatement l’AME et l’ensemble des dispositifs favorisant l’immigration clandestine, qui constituent autant d’injustices insupportables à l’égard des Français les plus modestes.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brigitte Bourguignon, quali  ministre déléguée auprès du ministre des solidarités et de la santé, chargée de l'autonomie" id_acteur="PA608083" id_nomination_oe="-1" id_nomination_op="-723038" id_mandat="PM723038">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1907000" ordre_absolu_seance="146" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554780" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La discussion générale est close.<br/>Sur la proposition de résolution, je suis saisi par le groupe Les Républicains d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Brigitte Bourguignon, ministre déléguée auprès du ministre des solidarités et de la santé, chargée de l’autonomie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1907001" ordre_absolu_seance="147" id_acteur="PA608083" id_mandat="PM723038" id_nomination_oe="-1" id_nomination_op="-723038" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554781" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Bourguignon</nom>
+              <acteurRef>PA608083</acteurRef>
+              <qualite>ministre déléguée auprès du ministre des solidarités et de la santé, chargée de l’autonomie</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame Louwagie, la proposition de résolution que vous avez inscrite à l’ordre du jour de cette séance porte sur une série de mesures relatives à la couverture santé des étrangers en situation irrégulière et des demandeurs d’asile. En particulier, vous envisagez la restriction du panier de soins de l’AME aux seuls soins urgents ; le recueil par l’assurance maladie des données relatives à la nationalité et aux pathologies des bénéficiaires de l’AME ; la révision des conditions d’accès au dispositif du maintien des droits expirés à la protection universelle maladie (PUMA) et à la complémentaire santé solidaire (C2S) ; la modification de la protection santé des demandeurs d’asile provenant de pays d’origine dits « sûrs ».<br/>Mesdames et messieurs les députés, je le dirai clairement, les modifications que cette proposition de résolution entend apporter à la couverture santé des personnes en situation irrégulière ne me semblent pas opportunes. Elles présentent un risque d’un point de vue strictement sanitaire, elles sont peu rationnelles d’un point de vue financier et seraient peu opérantes en pratique.<br/>En premier lieu, restreindre le panier de soins de l’AME, comme vous semblez l’envisager, ne constitue pas – j’insiste – une mesure efficace de maîtrise de la dépense. Cela conduirait à engorger les services hospitaliers et accroîtrait le poids supporté par les dépenses publiques, du fait de la prise en charge à l’hôpital de pathologies aggravées. Ce débat a d’ailleurs déjà eu lieu lors du Printemps de l’évaluation et des auditions préalables à l’examen du projet de loi de finances.<br/>L’AME favorise le recours aux soins de ville et permet de prendre en charge les pathologies en amont de leur aggravation, et donc, à moindres frais,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1907005" ordre_absolu_seance="151" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554785" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <acteurRef>PA608416</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est pour ça que les dépenses explosent ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1907006" ordre_absolu_seance="152" id_acteur="PA608083" id_mandat="PM723038" id_nomination_oe="-1" id_nomination_op="-723038" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554786" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brigitte Bourguignon</nom>
+              <acteurRef>PA608083</acteurRef>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…tout en réduisant significativement les risques sanitaires pour la population dans son ensemble.<br/>Ainsi, l’Espagne, après avoir limité l’accès aux soins des personnes en situation irrégulière en 2012 a observé une hausse de 15 % du taux de mortalité des migrants et une dégradation sensible de la prévalence de certaines infections, avec notamment une forte augmentation des cas d’hépatite B. Personne, dans cet hémicycle, ne veut voir cette situation se produire dans notre pays.<br/>Par ailleurs, des mesures de resserrement du panier de soins de l’AME sur les soins essentiels ont d’ores et déjà été prises. Laissez-moi rappeler que l’AME ne couvre pas les médicaments princeps – ceux des grandes marques, si vous me permettez l’expression –, les médicaments « à service médical rendu faible », les actes nécessaires à la réalisation d’une aide médicale à la procréation ou encore les cures thermales. L’AME, ce n’est pas du confort, c’est une exigence d’humanité, c’est un impératif de santé publique.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906936" ordre_absolu_seance="155" id_acteur="PA608083" id_mandat="PM783473" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2554815" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Brigitte Bourguignon</nom>
+            <acteurRef>PA608083</acteurRef>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte>De plus, depuis le 1<exposant>er</exposant> janvier 2021, nous avons subordonné à un délai d’ancienneté de neuf mois la délivrance de certaines prestations programmées non essentielles aux bénéficiaires de l’AME telles que les poses d’implants auditifs ou de prothèses de genou ou d’épaule que vous évoquiez, ainsi que les transports sanitaires liés à ces actes.<br/>D’autre part, je ne m’excuserai jamais du fait que l’on accompagne les soins de jeunes enfants. C’est tout l’honneur de notre pays.<br/>Enfin, contrairement aux idées reçues, la France n’est pas plus généreuse que ses voisins. D’autres États membres de l’Union européenne permettent aux personnes en situation irrégulière d’accéder, au-delà des soins d’urgence, à des soins courants – parfois dans des conditions plus souples que celles en vigueur dans notre pays. C’est le cas de l’Espagne, où les preuves d’un faible niveau de ressources ne sont pas demandées comme elles le sont en France, ou encore de l’Italie, où la condition de résidence n’est pas vérifiée.<br/>Vous souhaitez que l’assurance maladie puisse recueillir des données sur les nationalités et les pathologies des demandeurs et des bénéficiaires de l’AME. Mais le rôle de nos acteurs de santé, c’est de soigner ! Ils le font avec dévouement, et je veux leur rendre hommage. Nous ne rendrions service à personne en engorgeant leur travail par un contrôle administratif alors que toute notre action vise à les démettre au maximum de ces charges. De plus, une telle disposition contreviendrait au principe de minimisation consacré par le règlement général sur la protection des données (RGPD), suivant lequel la nécessité de collecter ces données doit se justifier au regard des finalités du traitement envisagé. Il y a là deux objectifs très distincts.<br/>En outre, les modalités de collecte de ces données posent question. Ni la CNAM ni les CPAM ne collectent les données relatives à la nationalité et aux pathologies des bénéficiaires de l’AME. S’il est envisagé de les collecter par l’intermédiaire des professionnels de santé, la question d’une dérogation au secret médical telle que prévue par le code de la santé publique est susceptible de se poser. La loi pourrait être plus précise sur ce point, afin de permettre la conduite d’études de santé publique dans le respect du secret médical.<br/>Enfin, une disposition législative ne permettrait pas en elle-même le traitement des données envisagées par cette proposition de résolution. La mise en œuvre d’un tel dispositif devrait faire l’objet d’un décret en Conseil d’État, qui, après avis de la Commission nationale de l’informatique et des libertés (CNIL), préciserait les caractéristiques essentielles du traitement.<br/>C’est donc un sujet sensible dont la direction des affaires juridiques du ministère des solidarités et de la santé a été saisie. Je ne doute pas que l’examen du prochain projet de loi de finances donnera l’occasion de poursuivre cet échange.<br/>S’agissant de la révision des conditions d’accès au dispositif de maintien des droits expirés à la PUMA et à la C2S, j’appelle votre attention sur le fait que les conditions d’accès à ce dispositif découlent des conditions d’affiliation à la PUMA. Le bénéfice de cette couverture est subordonné à l’exercice d’une activité professionnelle ou à une résidence stable et régulière en France, et il n’est pas envisagé de modifier ces critères. Ensuite, les règles de maintien des droits à la PUMA ont été resserrées au 1<exposant>er</exposant> janvier 2020, la durée pendant laquelle les étrangers en situation irrégulière peuvent bénéficier d’un maintien de leurs droits à l’assurance maladie étant passée de douze à six mois.<br/>Cette réforme permet d’atteindre un juste équilibre entre la prévention d’éventuelles ruptures d’accès aux soins du fait des délais de renouvellement des titres, et le maintien pour une durée excessive d’une prise en charge par l’assurance maladie de personnes qui ne satisfont plus aux conditions nécessaires pour en bénéficier. Au reste, les caisses d’assurance maladie ont renforcé leur contrôle pour empêcher les situations de maintien des droits qui perdureraient au-delà.<br/>De plus, vous proposez d’adapter voire de supprimer le dispositif de maintien des droits prévu par le CESEDA. Ce dispositif permet de pallier les difficultés rencontrées par certaines préfectures pour renouveler les titres de séjour dans le temps. Il concerne des titres de séjour précis, pour lesquels une demande de renouvellement a été effectuée, et s’applique, pour certains d’entre eux, uniquement dans les départements dont la liste est fixée par arrêté. Pendant une période de trois mois à compter de l’expiration de son titre de séjour, la personne conserve ainsi son droit d’exercer une activité professionnelle et l’intégralité de ses droits sociaux – aides sociales, prestations familiales, sécurité sociale, droits au chômage, et ainsi de suite.<br/>Le dispositif de maintien des droits prévu par le code de la sécurité sociale est quant à lui plus spécifique. Il concerne uniquement la PUMA et, le cas échéant, la C2S. La procédure s’applique à l’ensemble des documents et titres de séjour permettant l’accès à la PUMA dans tous les départements. Les deux dispositifs étant différents et ne visant pas les mêmes objectifs, il n’est pas envisagé de les faire converger.<br/>Enfin, la proposition de résolution que vous défendez prévoit de modifier la protection santé des demandeurs d’asile provenant de pays d’origine sûrs. Différencier le niveau de protection santé des demandeurs d’asile en fonction de leur pays d’origine constituerait une atteinte sévère au principe d’égalité auquel nous sommes bien évidemment tous attachés. Cela serait contraire à nos engagements européens et internationaux. Les motifs de la demande d’asile n’ont pas à être pris en compte dans l’attribution de la couverture maladie. Les demandeurs d’asile doivent pouvoir accéder aux soins dont ils ont besoin. Outre le respect du droit à la santé, la prise en charge de leurs soins s’inscrit dans une logique de santé publique et de prévention des risques sanitaires.<br/>Mesdames et messieurs les députés, les dispositions prévues par cette proposition de résolution posent des questions de principe auxquelles le Gouvernement reste attaché. Il m’est d’autant plus facile de m’y opposer qu’elles souffrent d’importantes faiblesses. Leur intérêt financier et sanitaire reste limité et le cadre légal et réglementaire en vigueur ne permet pas leur mise en œuvre pratique. Nous y sommes donc défavorables. <italique>(Applaudissements sur les bancs du groupe LaREM. </italique>– <italique>Mme Marguerite Deprez-Audebert applaudit également.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906948" ordre_absolu_seance="168" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2554890" valeur="">
+      <orateurs/>
+      <texte>Explications de vote</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906949" ordre_absolu_seance="169" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554828" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Dans les explications de vote, la parole est à M. Éric Ciotti.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906950" ordre_absolu_seance="170" id_acteur="PA330240" id_mandat="PM722492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2554829" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Ciotti (LR)</nom>
+            <acteurRef>PA330240</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Permettez-moi tout d’abord de souligner la qualité remarquable du travail accompli par notre collègue Véronique Louwagie au titre de la commission des finances. <italique>(Applaudissements sur les bancs du groupe LR.)</italique> Elle vient ce soir d’apporter à la représentation nationale des chiffres incontestables, clairs et préoccupants. Ces chiffres éclairent notre assemblée et éclaireront aussi le pays sur l’évolution des dispositifs de prise en charge des prestations maladie pour les étrangers en situation irrégulière. Ils démontrent également l’augmentation très importante – 20 % ! – du nombre d’étrangers en situation irrégulière dans notre pays. En effet, Véronique Louwagie soulignait que 315 000 étrangers en situation irrégulière présents sur le territoire national bénéficiaient de l’AME en 2017 ; ils sont 380 000 désormais. C’est un indicateur parmi d’autres de l’augmentation de la présence des étrangers en situation irrégulière en France. Nous sommes loin du discours officiel du Gouvernement en la matière, comme le rappelait notre groupe cet après-midi par la voix d’Olivier Marleix.<br/>C’est cette réalité que met en lumière la proposition de résolution. Le groupe Les Républicains, qui a fait sienne la démarche remarquable de Véronique Louwagie, la soutiendra. Ces questions ne sont certes pas nouvelles mais force est de constater que depuis la création de l’AME par la loi du 27 juillet 1999, le nombre de bénéficiaires n’a cessé d’augmenter et les dépenses de l’État enregistrent chaque année une forte progression qui n’a pas été endiguée.<br/>Au-delà de l’AME, Véronique Louwagie a rappelé les onze dispositifs qui posent problème. Madame la ministre déléguée, vous venez d’évoquer le maintien des droits à l’expiration des titres de séjour, notamment au travers de la PUMA. Les chiffres sont, là aussi, très préoccupants d’un point de vue budgétaire. C’est pourquoi la commission des finances, sous l’autorité du président M. Éric Woerth, s’en est saisie. En effet, 1,5 milliard d’euros sont consacrés à l’ensemble de ces dispositifs, la loi de finances pour 2021 prévoyant un crédit d’un peu plus de 1 milliard d’euros pour l’AME, contre 500 millions d’euros en 2010 ! Dès 2013, la Cour des comptes s’était d’ailleurs inquiétée de cette insoutenabilité budgétaire. Rien n’a été fait, ni par votre gouvernement, ni, naturellement, par le précédent sous la présidence de François Hollande – il y a là une forme de continuité.<br/>Parallèlement, on mesure une multiplication des fraudes – situation dénoncée par de nombreux professionnels de santé. Dans leur récent rapport, l’IGF et l’IGAS indiquent que l’hypothèse d’une migration pour soins n’est clairement pas un phénomène marginal.<br/>Il est donc urgent de combattre ces fraudes et Véronique Louwagie a donné des pistes très pertinentes à ces fins. Il existe en effet des filières organisées pour des venues en France aux seules fins de traiter certaines pathologies. C’est l’un des points de la demande que nous faisons par cette résolution : il faut réduire le panier de soins, qui est beaucoup plus généreux que celui de nos voisins. Sur ce point, nous contestons vos propos, madame la ministre déléguée – au reste, ce n’est pas nous qui les contestons mais l’IGF et l’IGAS qui, dans leur rapport d’octobre 2019, soulignent que le dispositif français de prise en charge des soins pour les étrangers en situation irrégulière est le plus généreux d’Europe. La réalité est là !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906956" ordre_absolu_seance="175" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554835" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Véronique Louwagie</nom>
+            <acteurRef>PA608016</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906957" ordre_absolu_seance="176" id_acteur="PA330240" id_mandat="PM722492" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554836" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Ciotti</nom>
+            <acteurRef>PA330240</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous demandons donc que cette prise en charge soit réduite à l’urgence. Il faut bien entendu soigner les personnes qui sont en urgence vitale ; cela fait partie des devoirs d’un pays démocratique, et loin de nous l’idée de supprimer tout dispositif de prise en charge de l’urgence. Mais il existe un écart gigantesque entre cette générosité et ses conséquences : elle est en effet source de fraudes, et d’une dérive budgétaire très préoccupante.<br/>Pour ces raisons, notre groupe soutiendra cette proposition de résolution qui présente des solutions très pertinentes afin d’enrayer cette dérive. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Gérard Leseul (SOC) quali " id_acteur="PA774958" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774981">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906960" ordre_absolu_seance="178" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554839" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gérard Leseul.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906961" ordre_absolu_seance="179" id_acteur="PA774958" id_mandat="PM774981" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554840" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Leseul (SOC)</nom>
+              <acteurRef>PA774958</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La couverture santé et l’AME s’inscrivent dans un cadre juridique constitué des engagements internationaux de la France, diversement contraignants, du droit européen et de plusieurs décisions du Conseil constitutionnel et du Conseil d’État. Ce cadre définit clairement un socle minimum de soins aux étrangers en situation irrégulière, notamment pour les situations d’urgence et les populations les plus vulnérables – mineurs et femmes enceintes.<br/>En dépit de ce socle juridique commun à l’ensemble des États membres de l’Union européenne, le dispositif français apparaît singulier, tant par sa logique d’ouverture de droits que par la définition d’un panier de soins proche de ceux du droit commun. Ces singularités découlent des spécificités du système de soins français, qui est aussi l’un des plus transparents en matière de dépense publique.<br/>Votre proposition de résolution aurait sans doute gagné à s’appuyer davantage sur les travaux de l’IGAS que vous avez cités, mais aussi et surtout sur les principaux acteurs de l’aide aux migrants, qui auraient pu vous donner des informations concrètes sur la réalité.<br/>Objet de polémiques récurrentes, l’AME octroyée aux étrangers en situation irrégulière est pour nous la réponse humaniste qui renvoie aux valeurs et à la grandeur françaises que vous chérissez par ailleurs. Le groupe Socialistes et apparentés votera contre votre proposition de résolution. <italique>(Mme Bénédicte Taurine applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François-Michel Lambert (LT)" id_acteur="PA605518" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722518">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906965" ordre_absolu_seance="183" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554844" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François-Michel Lambert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1906966" ordre_absolu_seance="184" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554845" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert (LT)</nom>
+              <acteurRef>PA605518</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi de saluer le travail des nombreux étrangers présents sur le sol national. Ils ont été en première ligne durant la crise, les premiers de cordée qui nous ont permis, à nous confortablement installés dans nos habitations douillettes, d’être approvisionnés, soignés, protégés.<br/>Nous les avons applaudis tous les soirs à 20 heures, parce qu’ils sont parmi les personnels soignants. Nous les avons vus, tous les matins à l’aube, nettoyer nos rues et ramasser nos déchets. Trop souvent, ces femmes, ces hommes et leurs enfants sont sans-papiers, enfermés dans un entre-deux, dans un espace qui ne leur permet pas de bâtir un avenir avec nous et de construire la France de demain.<br/>Chers collègues du groupe Les Républicains, vous citez des chiffres, mais vous ne citez pas les bons. Vous ne citez pas les chiffres d’une France qui ne sait plus intégrer, d’une France qui n’est pas à la hauteur, en matière d’intégration et d’accueil des étrangers, de pays similaires au nôtre en Europe – l’Allemagne, la Pologne, l’Italie, l’Espagne.<br/>Vous ne citez pas non plus les chiffres qui montrent clairement que si des dépenses sont consacrées aux personnes étrangères présentes sur notre sol, s’il y a un coût, il y a surtout beaucoup de recettes. Tous les chiffres des économistes le démontrent. On l’a encore vu récemment : si la France ne prend pas la décision d’être à la hauteur de son rendez-vous avec les étrangers, notamment ceux qui nous demandent d’être intégrés et d’être partie prenante en ayant tout simplement des papiers, elle régressera ; certains chiffres le démontrent. Sans l’immigration que nous avons connue, nous aurions aujourd’hui exactement la même population qu’en 1981, c’est-à-dire 55 millions d’habitants ; nous ne serions pas le pays que nous sommes, cette puissance économique et cette force en Europe. Ne serait-ce que pour cela, rappelons l’apport des personnes étrangères.<br/>Je le dis solennellement : nous ne sommes pas à la hauteur de ce que nous leur devons, en particulier à celles qui attendent leur intégration, qui attendent des papiers, qui attendent de bâtir leur vie et d’établir leur descendance, comme nombre de nos parents et de nos grands-parents, au service de la France. Certains de ces descendants jouent ce soir le match de football contre l’Allemagne et ils vont gagner. <italique>(M. Sébastien Nadot applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Bénédicte Taurine (FI)" id_acteur="PA718860" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722482">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906846" ordre_absolu_seance="189" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554896" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci pour ce pronostic.<br/>La parole est à Mme Bénédicte Taurine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906847" ordre_absolu_seance="190" id_acteur="PA718860" id_mandat="PM722482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554897" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Bénédicte Taurine (FI)</nom>
+              <acteurRef>PA718860</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme différents groupes parlementaires, nous considérons que la réduction de l’AME serait contre-productive en matière de santé publique. Cette proposition de résolution ne vise qu’à stigmatiser une partie de la population et à créer un climat délétère vis-à-vis des étrangers à des fins purement électoralistes. Par conséquent, nous voterons contre.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mireille Robert (LaREM)" id_acteur="PA718810" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722464">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906848" ordre_absolu_seance="191" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2554898" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mireille Robert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906849" ordre_absolu_seance="192" id_acteur="PA718810" id_mandat="PM722464" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2554899" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Robert (LaREM)</nom>
+              <acteurRef>PA718810</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne vais pas revenir sur l’ensemble des éléments que j’ai déjà exposés ; vous avez compris que le groupe LaREM ne soutiendra pas la proposition de résolution. Ce n’est pas une bonne politique de laisser entendre que l’immigration ferait peser un poids insupportable sur le système de santé ou que les immigrés viendraient en France pour voler les soins aux Français.<br/>Je le redis : on ne risque pas sa vie sur une embarcation de fortune en Méditerranée pour un accès gratuit aux soins. On risque sa vie, celle de sa famille et de ses enfants, parce que la misère pousse à le faire, parce que l’on veut vivre dignement et que l’espoir est dans cet ailleurs que les sociétés européennes représentent.<br/>La majorité a agi pour réguler l’immigration et continue à le faire. Pour améliorer le contrôle, nous avons encadré les conditions d’accès à l’AME ; aller au-delà présenterait un risque potentiel en matière de santé publique. Mais nous ne croyons pas qu’il faille instrumentaliser et distiller de fausses idées sur l’AME, qui donne satisfaction en remplissant des objectifs de prévention pour la santé des populations les plus fragiles. Limiter son accès aux seuls soins urgents entraînerait à coup sûr l’explosion ultérieure des dépenses ; c’est contraire aux objectifs de protection de santé publique et à l’intérêt budgétaire. En conséquence, nous voterons contre. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906851" ordre_absolu_seance="195" code_grammaire="VOTE_ENS_PPR_S_1_20" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2554948" valeur=" (n[[o]] 4190)">
+      <orateurs/>
+      <texte>Vote sur l’article unique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906851" ordre_absolu_seance="196" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPR_S_2_70" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554949" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’article unique de la proposition de résolution.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906851" ordre_absolu_seance="197" code_grammaire="VOTE_ENS_PPR_S_2_80" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2554950" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906851" ordre_absolu_seance="198" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPR_S_2_90" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554951" valeur="0" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA720746</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        67<br/>        Nombre de suffrages exprimés                67<br/>        Majorité absolue                        34<br/>                Pour l’adoption                25<br/>                Contre                42</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1906851" ordre_absolu_seance="199" code_grammaire="VOTE_ENS_PPR_S_2_100" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2554952" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(La proposition de résolution n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1906858" ordre_absolu_seance="201" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2554908" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1906859" ordre_absolu_seance="202" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2554909" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA720746</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à quinze heures :<br/>Projet de loi de règlement du budget et d’approbation des comptes de l’année 2020 ;<br/> Débat sur les mesures de relance.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1906860" ordre_absolu_seance="203" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2554910" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1906861" ordre_absolu_seance="204" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2554911" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

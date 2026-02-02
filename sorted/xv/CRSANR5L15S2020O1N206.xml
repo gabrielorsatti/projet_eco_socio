@@ -1,0 +1,931 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N206</uid>
+  <metadonnees>
+    <dateSeance>20200509180000000</dateSeance>
+    <dateSeanceJour>samedi 09 mai 2020</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>206</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200206</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Sun, 10 May 2020 13:13:17 GMT</horaireGmt>
+    <heureGeneration>2020-05-10T15:13:17.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2085372">Présidence de M. Richard Ferrand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2085376">
+          <intitule>Prorogation de l’État d’urgence sanitaire</intitule>
+        </titreStruct>
+        <para id_syceron="2085377"/>
+        <para id_syceron="2085380">Mme Marie Guévenoux, rapporteure de la commission mixte paritaire</para>
+        <para id_syceron="2085394">M. Adrien Taquet, secrétaire d’État auprès du ministre des solidarités et de la santé</para>
+        <para id_syceron="2085406">Mme Yaël Braun-Pivet, présidente de la commission mixte paritaire</para>
+        <sommaire2>
+          <titreStruct id_syceron="2085699">
+            <intitule>Motion de rejet préalable</intitule>
+          </titreStruct>
+          <para id_syceron="2085701">M. Jean-Luc Mélenchon</para>
+          <para id_syceron="2085625">M. Bruno Questel</para>
+          <para id_syceron="2085631">M. Philippe Gosselin</para>
+          <para id_syceron="2085637">M. Bruno Millienne</para>
+          <para id_syceron="2085643">M. Pascal Brindeau</para>
+          <para id_syceron="2085648">M. Éric Coquerel</para>
+          <para id_syceron="2085655">M. Stéphane Peu</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2085664">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2085666">M. Florent Boudié</para>
+          <para id_syceron="2085736">M. Philippe Gosselin</para>
+          <para id_syceron="2085746">Mme Isabelle Florennes</para>
+          <para id_syceron="2085756">Mme George Pau-Langevin</para>
+          <para id_syceron="2085768">M. Pascal Brindeau</para>
+          <para id_syceron="2085780">M. François Pupponi</para>
+          <para id_syceron="2085792">M. Éric Coquerel</para>
+          <para id_syceron="2085502">M. Stéphane Peu</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2085516">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2085521">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du samedi 09 mai 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1606451" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2085372" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Richard Ferrand</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1606452" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085373" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1606453" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2085374" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à dix-huit heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606455" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2085376" valeur=" (n[[o]] 2908)">
+      <orateurs/>
+      <texte>Prorogation de l’État d’urgence sanitaire</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606456" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2085377" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Commission mixte paritaire</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606457" ordre_absolu_seance="7" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085378" valeur=" (n° 2908)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi prorogeant de l’état d’urgence sanitaire et complétant ses dispositions (n<exposant>o</exposant> 2908).<br/>Je vous rappelle qu’en cette période de crise sanitaire, 75 députés peuvent désormais se réunir dans l’hémicycle, selon une répartition proportionnelle aux effectifs des groupes. Ce nombre passera à 150 la semaine prochaine.<br/>Par ailleurs, les règles sanitaires que vous connaissez continuent naturellement de prévaloir : les micros sont nettoyés en cours de séance, les orateurs étant invités à ne pas poser les mains sur les micros, et à utiliser des micros différents ; les distances sanitaires doivent être respectées, les entrées et les sorties échelonnées. Enfin, il est demandé aux orateurs de s’exprimer depuis leur banc, et non à la tribune.<br/>La parole est à Mme Marie Guévenoux, rapporteure  de la commission mixte paritaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606459" ordre_absolu_seance="9" id_acteur="PA721880" id_mandat="PM723410" id_nomination_oe="-1" id_nomination_op="-3617050" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085380" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Guévenoux</nom>
+            <id>721880</id>
+            <qualite>rapporteure de la commission mixte paritaire</qualite>
+          </orateur>
+        </orateurs>
+        <texte>La commission mixte paritaire sur le projet de loi prorogeant l’état d’urgence sanitaire s’est réunie ce matin. Elle a réussi, pour une raison simple : dans les circonstances auxquelles font face les Français, il n’était pas envisageable un instant qu’elle pût échouer.<br/>Nous avions construit, au cours de la semaine, les conditions du consensus entre les assemblées, avec le concours du Gouvernement. Le Sénat a apporté au texte initial des modifications importantes ; pour la plupart, elles étaient justifiées et bienvenues, et ont été avalisées par l’Assemblée nationale. Nous avons apporté au texte du Sénat d’utiles compléments, et nous avions finalement retranché peu de dispositions, ce que les sénateurs ont volontiers admis.<br/>Ainsi, à l’ouverture de la commission mixte paritaire, les divergences étaient rares, quoique significatives. Je remercie chacun de sa participation active, de son opposition constructive, de sa présidence efficace.<br/>Voici les sujets qui nous séparaient, et pour chacun d’entre eux le compromis auquel nous sommes parvenus.<br/>À l’article 1<exposant>er</exposant>, l’Assemblée nationale avait retenu la date limite du 10 juillet proposée par le Sénat ; quant à celui-ci, il s’est finalement rangé derrière notre proposition de mettre fin au régime dérogatoire de la détention provisoire. Le dernier sujet – qui nous a tous beaucoup occupés dans nos chambres respectives – à aplanir était celui de la responsabilité pour les délits non intentionnels. Nous avons travaillé jusqu’au dernier moment avec le Sénat pour trouver une rédaction à même de concilier nos deux assemblées ; je me félicite que nos efforts aient été fructueux.<br/>La rédaction proposée permet, sans créer de régime de responsabilité nouveau ni atténuer les responsabilités de qui que ce soit, de prendre en considération les conditions particulières liées à la crise sanitaire.<br/>S’agissant des mesures d’état d’urgence, la rédaction de l’Assemblée nationale a prévalu presque intégralement. Nous avons simplement renforcé la protection des victimes de violences familiales, en intégrant à notre dispositif le procureur de la République et des mesures conservatoires de précaution. Chacun s’en félicitera.<br/>À l’article 5, relatif aux agents qui font respecter l’état d’urgence sanitaire, les deux assemblées auront fait un sacrifice : le Sénat a consenti à inclure les réservistes de police et de gendarmerie, l’Assemblée nationale a renoncé à l’extension aux agents d’accueil des gares. C’est un bon compromis.<br/>À l’article 6, nous avons pu mesurer les apports importants qui ressortent de la navette parlementaire, en particulier en matière de contrôle des systèmes d’information qui seront utilisés, et de garanties pour les personnes concernées. À ce titre, nous avons d’ailleurs apporté une garantie supplémentaire en commission mixte paritaire, puisque nous avons limité à trois mois la durée de conservation des données dans les systèmes d’information.<br/>Enfin, concernant les outre-mer, le Sénat était réticent devant une mesure adaptée aux spécificités locales, donc divergente du droit commun. Les échanges l’ont conduit à accepter une règle aménagée, que nous avons cependant assouplie pour la rapprocher au maximum des dispositions de droit commun.<br/>C’est la seconde fois que je vous présente les conclusions d’une commission mixte paritaire convoquée en raison de l’épidémie qui endeuille notre pays. Je forme le vœu que ce soit aussi la dernière, et que nous puissions, le 10 juillet prochain, sortir de l’état d’urgence sanitaire. Ce n’est pas le cœur léger que nous restreignons, certes momentanément, les libertés publiques, mais avec la conscience de nos responsabilités face à la crise sanitaire qui nous frappe.<br/>Monsieur le secrétaire d’État, nous faisons confiance au Gouvernement pour faire tout ce qui est nécessaire pour surmonter cette épreuve. Par la loi du 23 mars, nous vous avons donné les moyens d’un confinement efficace ; par la loi que nous votons aujourd’hui, et que le Sénat vient tout juste d’adopter, nous vous confions les moyens d’un déconfinement réussi.<br/>Le défi du 11 mai est considérable. Vous conservez la confiance de l’Assemblée nationale pour le relever. Les instruments juridiques que nous vous remettons en témoignent. Nous sommes persuadés que le retour à la vie normale sera long et difficile ; nous sommes conscients qu’il faudra du temps pour rattraper les conséquences, notamment économiques, de la crise. Mais nous ne doutons pas que nous y parviendrons, avec confiance et détermination, avec nos concitoyens et l’engagement sans faille de tous.<italique/><italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Adrien Taquet" qualite="secrétaire d'État auprès du ministre des solidarités et de la santé" id_acteur="PA722086" id_nomination_oe="PM770481" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606472" ordre_absolu_seance="22" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085393" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État auprès du ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606473" ordre_absolu_seance="23" id_acteur="PA722086" id_mandat="-1" id_nomination_oe="PM770481" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085394" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Adrien Taquet</nom>
+              <id>722086</id>
+              <qualite>secrétaire d’État auprès du ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le Gouvernement se réjouit du fait qu’après des débats exigeants, l’Assemblée et le Sénat soient parvenus à un accord sur un texte équilibré, qui assure l’efficacité de la lutte contre le virus dans le respect des principes auxquels nous sommes toutes et tous très attachés.<br/>Ce texte nous donne des instruments justes et efficaces ; il permet d’envisager de manière responsable le déconfinement qui débutera dans deux jours, et qui ne doit en aucun cas être le moment d’une baisse de vigilance. Ce débat, qui se tient aujourd’hui encore dans des conditions particulières, est important dans la vie de cette assemblée ; je veux rendre hommage au travail colossal qui a été effectué par les parlementaires des deux assemblées, dans des conditions souvent difficiles, sur ces bancs ou depuis chez eux. Je remercie aussi l’ensemble du personnel de l’Assemblée nationale, qui nous permet de débattre dans les meilleures conditions.<br/>J’ai parlé d’exigence ; vous n’en avez pas manqué pour consolider ce texte, pour l’enrichir, pour que les mesures prises conservent leur caractère exceptionnel. Ces dernières semaines, les parlementaires ont prouvé combien ce principe était intangible : par temps calme comme dans la tempête, la démocratie reste debout.<br/>Vous avez également complété le texte par des mesures importantes, en précisant les modalités de retour au droit commun de la détention provisoire ; ce sujet a fait l’objet d’un travail de grande qualité entre les parlementaires et la Chancellerie. Vous avez permis le prolongement de la trêve hivernale jusqu’au 10 juillet prochain.<br/>Des amendements venus de tous les bancs ont été adoptés, preuve que par-delà des divergences de vues et des oppositions évidemment légitimes, nous savons accorder nos violons sur l’essentiel, c’est-à-dire sur la santé des Français et le soutien à la continuité de la nation.<br/>Le texte prorogeant l’état d’urgence sanitaire n’est évidemment pas un blanc-seing ; il n’a jamais été question qu’il en soit autrement, et le Gouvernement non seulement en a parfaitement conscience, mais sait à quel point vous serez exigeants. Chacun des articles, à la virgule près, a été pesé au trébuchet, débattu, amendé ; il n’en fallait pas moins, dès lors que nous parlions de libertés publiques.<br/>Chacun mesure l’ampleur et l’intensité de la crise à laquelle nous sommes confrontés ; la question ne se pose plus de savoir si, oui ou non, le critère de gravité est rempli, tant le verdict est sans appel. La nation tout entière est engagée dans une lutte nouvelle, inédite, contre une menace mortelle, qui a déjà frappé nombre de nos concitoyens, auxquels nous adressons une pensée particulière.<br/>Les Français ont vécu depuis presque huit semaines ce qu’aucun de nos contemporains n’avait connu : le confinement comme seul moyen de freiner la propagation d’un virus, et de permettre à notre système de santé de faire face à l’épidémie. C’est une épreuve sans précédent que nous devons surmonter aujourd’hui ensemble ; comme lors de la discussion générale ce jeudi, permettez-moi d’avoir une pensée pour les millions d’enfants de notre pays, pour qui le temps est toujours trop long, mais aussi pour leurs parents, qui à leurs côtés ont pu vivre différemment ces dernières semaines. Je pense également à toutes celles et à tous ceux pour qui ce moment a été particulièrement éprouvant, parce qu’ils étaient loin de leurs proches, loin de leurs repères quotidiens.<br/>L’urgence sanitaire commande d’agir fermement et rapidement. L’accord en commission mixte paritaire nous le permet. Notre cadre juridique est désormais adapté et sûr.<br/>Nous devions trouver une réponse proportionnée, mais pas à n’importe quel prix ni à n’importe quelles conditions ; nous le savons, et c’est l’objet de ce texte, compromis entre l’Assemblée nationale et le Sénat.<br/>Ce texte n’est pas un chèque en blanc et le Gouvernement reviendra devant la représentation nationale à chaque fois que les circonstances l’exigeront. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Yaël Braun-Pivet" qualite="présidente de la commission mixte paritaire" id_acteur="PA721908" id_nomination_oe="-1" id_nomination_op="PM770014" id_mandat="PM723418">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606484" ordre_absolu_seance="34" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085405" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Yaël Braun-Pivet, présidente de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1606485" ordre_absolu_seance="35" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM770014" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085406" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour reprendre les mots de Jean Jaurès, « les hommes qui ont confiance en l’homme savent […] qu’il vaut la peine […] d’agir, que l’effort humain vers la clarté et le droit n’est jamais perdu ».<br/>Des efforts, chacun en a fait pour parvenir au texte qui vous est présenté par la rapporteure : c’est celui de la commission mixte paritaire, et ce n’est donc pas un texte comme les autres. La CMP semble vouée à la discrétion ; elle est pourtant l’organe le plus révélateur du fonctionnement du bicamérisme. Elle est le lieu où le Parlement excelle à chercher ce qui rassemble plutôt que ce qui désunit. La CMP qui nous occupe n’a pas fait exception : elle a duré plus de quatre heures, comme celle qui l’avait précédée, consacrée à la première loi d’urgence. Elle a été ponctuée de suspensions, de moments de doute ; elle aurait pu échouer. Mais nous avons réussi, car le sens du compromis a prévalu.<br/>Nous avons su, avec nos collègues sénateurs, faire front commun face à l’épidémie, guidés par l’unique boussole de l’intérêt de nos concitoyens. C’est la force de notre Parlement : être tout à la fois capable de consensus, force de proposition et garant de la sécurité et des libertés de chacun. Quelles que soient les circonstances, les Français peuvent compter sur leur Parlement.<br/>Ce travail que nous avons été capables de mener, sur tous les bancs, malgré des délais contraints, est la plus belle démonstration de la force de notre République.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606636" ordre_absolu_seance="1" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM770018" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085691" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Yaël Braun-Pivet</nom>
+            <id>721908</id>
+            <qualite>présidente de la commission mixte paritaire</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Sur le fond, nous avons prolongé l’état d’urgence sanitaire jusqu’au 10 juillet, pour mieux nous donner les moyens de sortir de cette épreuve.<br/>Dans le souci de protéger libertés et droits de la défense, nous avons voulu, à l’unanimité, le retour au droit commun de la détention provisoire dès lundi prochain, en l’accompagnant des modulations nécessaires au bon fonctionnement des juridictions.<br/>Nous avons permis la création d’équipes sanitaires pour identifier les cas de contamination et casser les chaînes de transmission, en encadrant strictement les outils à leur disposition et en réaffirmant le rôle de la CNIL que la commission des lois a auditionnée deux fois au cours des dernières semaines.<br/>Sur tous ces points, le Parlement a joué son rôle de garant en veillant à l’équilibre nécessaire entre sécurité sanitaire des Français et respect des libertés publiques.<br/>Enfin, sur la responsabilité pénale des décideurs, le sujet qui fut le plus difficile, nous partagions avec les sénateurs un même objectif : répondre à l’inquiétude et à la situation particulière dans laquelle se trouvent nombre d’élus et d’employeurs, tous ceux qui devront prendre des décisions ou les appliquer dans un contexte épidémiologique redoutable. Nous devions être à la hauteur de cette attente. Mais nous ne voulions pas atténuer ou exonérer les décideurs de leur responsabilité. Nous ne voulions pas non plus distinguer, en matière pénale, selon les personnes concernées, car ce qui compte n’est pas qui fait la faute, mais de quelle faute on parle. Nous avons cherché un chemin, d’abord à l’Assemblée nationale, avec les membres du groupe MODEM avec lesquels nous avons déposé des amendements identiques. Nous avons continué à le chercher en commission mixte paritaire, et nous l’avons trouvé : lorsqu’il y a une volonté partagée, on peut surmonter bien des obstacles !<br/>Alors que nous nous apprêtons à sortir progressivement du confinement, notre Parlement doit désormais, pour conserver toute la force qui est la sienne et dont les Français que nous représentons ont besoin, reprendre le plein exercice de ses missions constitutionnelles, au-delà de la seule urgence.<br/>Nous y sommes prêts. Nous sommes prêts à contrôler, prêts à légiférer, prêts à évaluer. Nos institutions, nos concitoyens, ont besoin d’un Parlement fort, au service de tous ; d’une vie démocratique apaisée, animée par l’esprit constructif et respectueux qui caractérise nos débats. J’ai confiance, plus que jamais, en notre capacité à être, toujours, à la hauteur de cette attente.<br/>J’emprunterai encore une fois à Jaurès ces mots de conclusion : « Oui, la République est un grand acte de confiance et un grand acte d’audace ! ».</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606644" ordre_absolu_seance="9" code_grammaire="MOTION_RP_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2085699" valeur=" (n[[o]] 2908)">
+      <orateurs/>
+      <texte>Motion de rejet préalable</texte>
+      <interExtraction nom_orateur="M. Jean-Luc Mélenchon" id_acteur="PA2150" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722506">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606645" ordre_absolu_seance="10" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085700" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’ai reçu de M. Jean-Luc Mélenchon et des membres du groupe La France insoumise une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.<br/>La parole est à M. Jean-Luc Mélenchon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606646" ordre_absolu_seance="11" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2085701" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas chose évidente que de présenter une motion de rejet préalable sur un état d’urgence sanitaire, mais nous le faisons en pleine conscience de nos responsabilités.<br/>L’actuel état d’urgence courait jusqu’au 23 mai, le délai ne manquait donc pas pour aller plus loin dans la discussion et dans la bonne analyse de ce qu’il reste à faire. Nous ne sommes pas contents du plan de déconfinement car celui-ci ne tire pas les leçons de ce qui s’est passé pendant le confinement. Ce n’est pourtant pas faute d’avoir prévenu. Dès le 30 mars, si vous vous en souvenez, les députés de La France insoumise au complet alertaient, dans une tribune, sur le fait que le déconfinement était une opération bien plus complexe que le confinement lui-même. Nous pensions avoir une autorité suffisante pour pouvoir vous le dire.<br/>Ne vous avons-nous pas interpellé un nombre incalculable de fois au sujet du refus de la France d’appliquer la recommandation de l’Organisation mondiale de la santé – tester, tester et tester encore ? Le Premier ministre nous a rétorqué que cette pratique était inutile tandis que le ministre des solidarités et de la santé a fini par ne plus jamais répondre à nos questions.<br/>Le scénario a été le même pour les masques : ils étaient inutiles, finalement, ils seront obligatoires.<br/>Il faut tirer les leçons de ce qui n’a pas fonctionné. Je ne parle pas de telle ou telle mesure mais des grands principes qui doivent gouverner l’action.<br/>Premièrement, la planification. Pas un mètre en avant n’a été fait dans ce domaine. Cela ne signifie pas que des mesures n’ont pas été prises mais la réflexion sur la manière de les imbriquer est inexistante. Preuve nous en a été donnée encore hier lorsque les amendements présentés par nos collègues corses, Jean-Félix Acquaviva et Michel Castellani ont été rejetés. Il est apparu que si des mesures sanitaires sont prises – personne ne le conteste –, leur articulation avec le plan de sauvetage économique n’a été pensée par personne. L’occasion n’était-elle pas bonne de tendre la main à la collectivité unique de Corse une fois pour toutes pour qu’elle gère ce problème ?<br/>En Île-de-France, où est la planification ? Peut-être avez-vous déjà vu les images, mais comment pouvez-vous à la fois demander la réouverture du plus grand nombre d’entreprises ainsi que le retour de tous les salariés pour lesquels le télétravail n’est pas possible et ne pas prévoir les moyens de transport disponibles. La proportion de moyens de transport en circulation aura ainsi été décidée sans considération du nombre de voyageurs ayant besoin de les emprunter, si bien qu’a déjà commencé une cohue épouvantable sur les quais. Pensez-vous que la présence d’agents pour faire le tri entre les voyageurs qui devraient se trouver là et ceux qui ne le devraient pas, au péril de ceux-ci, résoudra quoi que ce soit ?<br/>Je pourrais donner d’autres exemples, mais je m’en tiens à celui-ci. Comment sortir de cette crise ? En culpabilisant les populations. À cet égard, le discours que l’on entend dans les médias est insupportable – vous n’y êtes pour rien, bien sûr –…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606654" ordre_absolu_seance="19" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085709" valeur="643127 721976. ">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Questel et M. Bruno Millienne</nom>
+              <id>643127</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606655" ordre_absolu_seance="20" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085710" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En résumé, « si le microbe circule, c’est de votre faute ». Non, ce n’est pas de leur faute et il faut arrêter de les mettre en cause sans cesse.<br/>Deuxième principe, la réquisition. Lorsque nous l’avons interpellé au sujet de l’entreprise Luxfer, qui produit des bouteilles permettant de transporter de l’oxygène médial dans les meilleures conditions techniques en Europe – c’est la seule usine à savoir le faire –, en lui enjoignant de la nationaliser – cela ne coûterait pas un euro – Bruno Le Maire nous a répondu qu’il ne maîtrisait pas le dossier. Il devrait : il faut nationaliser Luxfer et Famar.<br/>Qu’avez-vous réquisitionné ? Nous voudrions bien le savoir ! Ce n’est pas la réquisition des masques que nous demandons ; les entreprises qui les fabriquent se sont auto-réquisitionnées de même que certains entrepreneurs de l’industrie textile ont décidé de leur propre chef de réorienter leur production. Nous voudrions que toute l’industrie textile soit réquisitionnée afin que nous soyons capables de faire aussi bien que le Maroc, qui produit cinq millions de masques par jour, et dispensés de faire la danse du ventre sur les tarmacs des aéroports chinois, où, paraît-il, l’on se dispute pour savoir qui récupérera le stock.<br/>La France est humiliée, alors qu’elle a les moyens de faire sans avoir à demander la permission à qui que ce soit. Oui, c’est humiliant d’aller demander aux autres dans de telles conditions.<br/>Ce qu’il manque, ce qui nous fâche le plus, ce sont les mesures sociales. Bien sûr, des mesures sont prises, personne ne dira le contraire – ce ne serait pas vrai. <italique>(«</italique><italique> </italique><italique>Ah</italique><italique> </italique><italique>» sur plusieurs bancs du groupe LaREM.)</italique><br/>Vous vous réjouissez de peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606661" ordre_absolu_seance="26" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085716" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non, on approuve !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606662" ordre_absolu_seance="27" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085717" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il faut considérer ce qui manque à l’appel, ce qui fait défaut et nuira à la cohésion.<br/>Les masques doivent être gratuits. Les pauvres gens font le compte de ce que cela va leur coûter. Comment ferez-vous demain pour savoir si un masque est encore utilisable ou pas – vous ne le savez pas. Les masques doivent être gratuits et distribués par la puissance publique. Nous avons les moyens. Des milliards seront distribués dans notre pays de-ci de-là. Nous pouvons les donner en priorité à la population.<br/>J’en appelle à votre conscience sur la détresse alimentaire. Celle-ci ne se montrera pas ; comme la misère, elle se cache. À Cuba, on envoie les médecins d’une maison à l’autre voir si des gens sont malades. En France, on devrait pouvoir aller d’une barre d’immeuble à l’autre pour voir si des gens ont été oubliés, si parce qu’ils sont handicapés et ne peuvent circuler, ils ne font pas leurs courses. Il faut aller partout pour ne pas abandonner ceux qui aujourd’hui ont faim dans notre pays car c’est une réalité. La carte de la diffusion du microbe recoupe la carte de la pauvreté – c’est désormais un fait établi. Les départements et les rues les plus pauvres sont les plus atteints dans notre pays, à plus forte raison lorsqu’il s’agit d’une île entière. Comment faire pour s’épargner la honte que constitue l’absence d’eau courante à Mayotte ? Comment dire aux habitants de certains quartiers de se laver les mains alors qu’ils ne disposent pas de l’eau courante ? Personne n’a rien fait. De même, en Guadeloupe, cela dure depuis des mois.<br/>Il faut une autorité forte qui tranche, qui impose de faire les choses de telle manière et pas autrement et que tous ceux qui ont à en connaître s’y soumettent immédiatement car l’unité nationale l’exige.<br/>Nous devons aller à la rescousse des plus pauvres parmi lesquels le microbe circule plus. Il faut annuler les frais bancaires ; il faut davantage de planification ; il faut suspendre les loyers. Le ministre chargé du logement, Julien Denormandie, a annoncé la suspension des expulsions jusqu’en juillet – c’est une bonne décision, mais tant qu’à en prendre une, autant prendre la meilleure, c’est-à-dire la suspension des loyers. Pourquoi se limiter aux seules expulsions ? Qui est capable aujourd’hui de réorganiser sa vie quotidienne dans les conditions du confinement ou du déconfinement hasardeux auquel nous participerons.<br/>Je termine par un ultime exemple, les 200 euros alloués aux étudiants. J’en suis sûr, nombreux sont ceux ici qui ont payé eux-mêmes leurs études comme je l’ai fait – je n’en tire pas une gloire particulière. Nous vivions alors grâce à de petits boulots. Vous donnez 200 euros à de jeunes adultes. Mais que fait-on aujourd’hui avec 200 euros ? Rien du tout. Ne nous réconfortons pas en pensant que nous avons fait ce qu’il fallait car nous ne l’avons pas fait.<br/>Il s’est trouvé des gens pour admirer le système allemand, qui semblait magnifique à leurs yeux. Les Allemands sont plus pragmatiques que ceux qui les admirent. C’est la raison pour laquelle ils ont décidé de procéder à des reconfinements. Pourquoi ? Sans jouer les Cassandre ou les oiseaux de malheur, je vous annonçais un deuxième pic de l’épidémie – je tenais l’information des épidémiologistes. C’est ce que l’on observe en Allemagne. Craignez que les cohues sur les quais et la rentrée à l’école des enfants dans des conditions que je juge discutables créent autant de nouveaux clusters pour l’avenir.<br/>Dès lors, nous devons faire preuve d’une vigilance sanitaire extrême. C’est la raison pour laquelle, quoi que je sois moins confiné que je n’en ai l’air <italique>(Sourires)</italique>, j’ai décidé de rappeler que je resterai confiné le 11 mai.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606670" ordre_absolu_seance="35" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085725" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une bonne nouvelle, ça !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1606671" ordre_absolu_seance="36" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085726" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous devons tous respecter scrupuleusement les consignes sanitaires qui nous sont données, même si la carte en rouge et vert est absolument absurde. Lorsqu’on y regarde de près, les seules différences entre les deux zones concernent la date de reprise des collèges et la réouverture des parcs et jardins.<br/>Notre vigilance ne signifie pas que nous acceptons d’une quelconque manière les avancées de la société de surveillance. Je ne veux pas juger de vos intentions mais je vous mets en garde : rappelez-vous le fichier EDVIGE. Dans ce pays, la technostructure, liée aux grandes plateformes et aux structures policières, est absolument hallucinée, aveuglée par l’illusion technologique. Ils veulent tout contrôler, tout connaître.<br/>Au mois de décembre dernier, vous avez voté l’article 41 de la loi relative à l’organisation et à la transformation du système de santé qui permet de mettre à disposition de l’intelligence artificielle les recoupements de données sanitaires, de manière anonyme bien sûr. Mais quelles garanties avez-vous sur l’anonymat ?<br/>Ne laissez plus ces gens, les contrôleurs généraux, dans tous les domaines, contrôler la vie des citoyens car nous ne reviendrons jamais en arrière – vous le savez aussi bien que moi. Je ne veux pas de cette société dans laquelle un drone me donne des ordres après que mon téléphone a contrôlé si je suis bien là où je dois me trouver. Ce n’est pas le monde dont nous voulons.<br/>La littérature et la poésie permettent souvent d’anticiper ce qui va se produire. Je vous invite à lire <italique>Un bonheur insoutenable</italique> d’Ira Levin. Vous y découvrirez un monde parfait dans lequel tout est contrôlé, et vos goûts sont soumis à une autorisation. Ne laissez pas ceci advenir.<br/>Des restrictions ont été posées. Merci à ceux qui l’ont permis et qui n’appartiennent pas à la même opposition que nous : nous, nous n’en voulions pas du tout.<br/>Un important travail a été fait. Nous avions le temps de faire mieux, notamment de tirer les leçons de tout ce qui n’a pas fonctionné pendant le confinement et dont je vous fais grâce par un effet de solidarité qui ne durera pas aussi longtemps, autrement dit, qui s’interrompra dès le 12 mai si trop de gens sur les quais tombent malades à cause de vous.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Questel" id_acteur="PA643127" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722636">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606589" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085624" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans les explications de vote sur la motion de rejet préalable, la parole est à M. Bruno Questel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606590" ordre_absolu_seance="2" id_acteur="PA643127" id_mandat="PM722636" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085625" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Questel</nom>
+              <id>643127</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaitais vous remercier, monsieur le président Mélenchon, car je vais rentrer chez moi ce soir et annoncer à mes deux filles étudiantes que je diminue leur budget mensuel de 200 euros. Je ne suis pas persuadé qu’elles en soient très satisfaites ; auquel cas, je vous les enverrai et vous vous expliquerez avec elles.<br/>Plus sérieusement, je vous ai vu dénoncer dans cet hémicycle la baisse des APL – aide personnalisée au logement – de 5 euros pour les étudiants. Or vous expliquez maintenant que 200 euros, ce n’est rien. Je ne comprends pas votre raisonnement,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606592" ordre_absolu_seance="4" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085627" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous expliquerai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606591" ordre_absolu_seance="44" id_acteur="PA643127" id_mandat="PM722636" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085671" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Questel</nom>
+              <id>643127</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…mais, là aussi, vous pourrez vous expliquer auprès des étudiants.<br/>Vous nous avez présenté votre pensée, que chacun sait riche, par moult cheminements : c’est toujours un plaisir de vous écouter user de la dialectique, mais je ne pourrai vous suivre et conseiller à mes collègues de voter en faveur de votre motion, car cela reviendrait à nier le travail accompli depuis une semaine par l’ensemble des parlementaires. Je tiens d’ailleurs à les saluer, qu’ils aient siégé en commission des lois ou dans l’hémicycle.<br/>Je souhaite également souligner que nous avons pu trouver ce matin, en commission mixte paritaire avec les sénateurs, le meilleur chemin possible pour répondre à l’ensemble des aspirations des Françaises et des Français. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606595" ordre_absolu_seance="47" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085630" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606596" ordre_absolu_seance="48" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085631" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les débats que nous avons eus depuis plusieurs jours, pendant de très nombreuses heures, en particulier au cours de la commission mixte paritaire qui, comme l’a rappelé la présidente de la commission des lois, a duré quatre heures, ont permis de mettre sur la table de grandes questions, qui ont trait à nos libertés individuelles et collectives.<br/>La question des données personnelles de santé se trouvait évidemment au cœur de nos préoccupations, mais également celles, plus larges, de la durée de l’état d’urgence et des pouvoirs dévolus aux uns et aux autres. Nous avons émis un certain nombre d’interrogations et des réponses ont été formulées. Elles ne sont sans doute pas parfaites : le Conseil constitutionnel, du reste, tranchera, étant donné, nous a-t-on dit, qu’il sera saisi.<br/>À ce stade, il nous paraîtrait donc totalement inopportun, alors que les débats parlementaires ont pu prospérer, de les interrompre et sous cette forme. Il s’agirait, d’une certaine façon, d’un déni de démocratie.<br/>Cela ne signifie pas, monsieur le président Mélenchon, que certaines de vos questions soient mauvaises ou qu’elles ne méritent pas d’être posées. C’est une évidence, mais le sujet n’est pas là, même si j’ai bien conscience que ma réponse ne va pas vous satisfaire. Il y a la place pour le débat politique, tout comme pour un certain nombre de questions sociales, voire sociétales, mais sans doute pas dans ce cas précis de la prorogation de l’état d’urgence, même si ont été abordées d’autres questions, relatives à l’ouverture des plages ou des commerces, qui tiennent plus à la gestion du déconfinement qu’à l’état d’urgence lui-même.<br/>Pour toutes ces raison, vous l’avez compris, le groupe Les Républicains que je représente ce soir ne votera pas en faveur de cette motion afin que nous poursuivions ensemble le débat. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Millienne" id_acteur="PA721976" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723438">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606601" ordre_absolu_seance="53" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085636" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Millienne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606602" ordre_absolu_seance="54" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085637" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il ne vous étonnera pas que le groupe MODEM et apparentés ne vote pas non plus la motion de rejet préalable déposée par La France insoumise et son président.<br/>J’ai craint un instant de ne pas vous reconnaître, monsieur Mélenchon, car j’ai lu il y a peu un article qui nous apprenait que vous alliez changer de tactique et qu’à l’opposition frontale, vous préféreriez l’opposition constructive. Mais ce n’est pas ce que j’ai ressenti en écoutant votre discours. Vous avez énoncé ce que je considère comme des contrevérités, en vous acharnant sur le Gouvernement ou les députés de la majorité et en disant que, globalement, nous n’avions rien fait. Vous ne nous avez reconnu que de petites avancées. Je vous signale tout de même que la France est l’un des pays d’Europe qui a fait le plus pour soutenir sa population, si ce n’est celui qui a fait le plus : qu’il s’agisse des entrepreneurs ou des salariés, quatre Français sur cinq bénéficient des dispositions instaurées par l’État depuis le vote de la première loi d’urgence sanitaire.<br/>Nous étions donc réunis pour discuter de la prolongation de cette loi. Lors des débats, beaucoup de questions ont été posées, auxquelles tout le monde a essayé de répondre du mieux qu’il pouvait. Vous avez vous-même, à juste titre, interrogé l’hémicycle et le Gouvernement sur bien des points ; c’est le propre du débat démocratique et il convient qu’il continue à vivre de la sorte.<br/>Beaucoup de réponses ont été apportées, aussi admettez que tout le travail qui a été accompli par le Sénat et cette assemblée, ainsi que par la commission mixte paritaire pendant quatre heures – bravo à ceux qui y participaient et qui sont parvenus à trouver un accord qui nous permet de voter cette prolongation –, mérite d’être sanctionné par un accord de l’Assemblée nationale.<br/>Je trouve donc cette motion de rejet préalable assez déplacée. Les responsabilités, les couacs, tout ce qui n’a pas marché, nous pourrons en discuter après, mais ce qui prévaut aujourd’hui est la santé des citoyens, donc la prolongation de l’état d’urgence sanitaire jusqu’au 10 juillet. <italique>(Applaudissements sur les bancs des groupes MODEM et LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pascal Brindeau" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM761932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606607" ordre_absolu_seance="59" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085642" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pascal Brindeau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606608" ordre_absolu_seance="60" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085643" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La motion de rejet présentée par le président Mélenchon a un mérite, celui d’illustrer l’urgence de ce que, de nouveau et dans des conditions désormais meilleures quoique pas encore optimales, le débat démocratique ait lieu. Même si l’état d’urgence, qui doit être prolongé, est synonyme de restrictions des libertés fondamentales – lesquelles doivent être proportionnées –, ce débat démocratique est indispensable pour que nos concitoyens comprennent mieux qu’hier la nécessité d’un certain nombre de décisions qui ont été prises.<br/>Là se trouve sans doute le défaut de ce débat démocratique : non pas que les oppositions aient été muselées ou qu’elles n’aient pu s’exprimer, mais le fonctionnement du Parlement, anormal par la force des choses, a probablement contribué à ce que nos concitoyens ne comprennent pas la cohérence de certaines des mesures du plan gouvernemental, hier de confinement et, à partir de lundi, de déconfinement.<br/>On partage ou non les analyses de Jean-Luc Mélenchon et le groupe UDI, Agir et indépendants n’en partage pas du tout certaines. Mais elles ont le mérite d’avoir été exposées et j’estime que, dans les mois à venir, il sera absolument nécessaire que ces moments de la démocratie permettent à la politique de retrouver ses droits et aux citoyens d’y participer.<br/>Nous ne voterons pas en faveur de la motion de rejet, car le débat s’est déroulé, sinon dans des conditions optimales, du moins de manière à parvenir à un texte plutôt équilibré.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606612" ordre_absolu_seance="64" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085647" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606613" ordre_absolu_seance="65" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085648" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous allons évidemment soutenir cette motion de rejet. S’opposer à la position manifestement majoritaire qui va s’exprimer, n’est pas nier le travail accompli par l’Assemblée nationale pendant toute une semaine, c’est tout simplement penser qu’une opposition a encore le droit de s’opposer sans que nous soyons traités de polémistes par différents membres du Gouvernement.<br/>L’un d’entre vous observait que, sur le fond – pas sur la forme, ou alors vous connaissez mal nos façons d’intervenir –, nous nous opposons de plus en plus aux annonces du Gouvernement. C’est vrai. Malgré nos reproches, sur le fait que notre système de santé publique, en dépit de la qualité des soignants, n’était pas en état d’assumer cette situation épidémique, nous avons abordé cette crise en décidant de faire confiance au Gouvernement. Or, le moins que l’on puisse dire, c’est que depuis lors, il a, appuyé par votre majorité, commis de plus en plus d’erreurs – vous voyez qu’en employant ce mot je ne vous attaque pas frontalement, parce que l’on peut se demander s’il ne s’est pas plutôt agi de gestes coupables et volontaires. Cela vaut pour la décision de maintenir les élections municipales comme pour la gestion catastrophique – de plus en plus manifeste – de la question des masques, et pour le refus de toute planification réelle du déconfinement, dont j’espère que nous ne paierons pas tous les pots cassés à partir de lundi, à commencer par ceux qui seront contraints d’aller travailler.<br/>Vous nous comparez sans cesse aux autres pays européens : du calme ! L’Italie a arrêté tout travail non indispensable pendant la période du confinement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606616" ordre_absolu_seance="68" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085651" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez conclure, cher collègue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606617" ordre_absolu_seance="69" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085652" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les Espagnols ont interdit les licenciements. Nous ne sommes donc pas les seuls à avoir pris des décisions sociales.<br/>Il nous faut une sécurité sanitaire maximale. Nous serons toujours d’accord vis-à-vis de ce genre de décision, mais ce n’est pas ce que nous voyons dans cette loi d’urgence.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Peu" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606619" ordre_absolu_seance="71" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085654" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606620" ordre_absolu_seance="72" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085655" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il y a, pour le groupe de la Gauche démocrate et républicaine, plusieurs raisons valables de voter la motion de rejet préalable. Je n’en citerai que trois, que nous avons déjà évoquées, mais que j’aborde à nouveau, parce qu’elles n’ont pas reçu de réponse satisfaisante.<br/>La première est qu’il n’y a pas de bilan.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606622" ordre_absolu_seance="74" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085657" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606623" ordre_absolu_seance="75" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085658" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On nous demande de reconduire un état d’urgence, qui a duré deux mois, et aucun bilan n’a été présenté à la représentation nationale.<br/>Ensuite, on mélange savamment le confinement, le déconfinement, les mesures sanitaires pour lutter contre la pandémie et la nécessité de l’état d’urgence. Or cette confusion n’a rien d’évidente. Le confinement a été décidé dans notre pays avant même qu’il y ait l’état d’urgence. Celui-ci n’est pas nécessaire pour décider du confinement, des mesures sanitaires ou du déconfinement.<br/>La question qui se pose relative à la manière de nous montrer rigoureux et de mener la bataille contre la pandémie en mobilisant le peuple dans son ensemble, est justement celle du rapport au peuple. Lui fait-on confiance ? Parie-t-on sur son sens de la responsabilité et son civisme pour accomplir tous les gestes et avoir les comportements adéquats pour lutter contre la pandémie ? Ou le considère-t-on comme trop immature ou pas assez responsable en recourant à des mesures autoritaires que l’état d’urgence permet ?<br/>Il y a là un hiatus et, si on avait fait un bilan, on se serait aperçu que si notre pays est celui en Europe où le peuple a le moins confiance en ses dirigeants pour lutter contre la pandémie, c’est peut-être en lien avec la manière de considérer le civisme de ce peuple et sa responsabilité pour lutter ensemble et démocratiquement contre le Covid-19.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606627" ordre_absolu_seance="79" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085662" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606628" ordre_absolu_seance="80" code_grammaire="REJET_MOTION_1_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2085663" valeur="" decision="REJET motion de rejet préalable (main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(La motion de rejet préalable, mise aux voix, n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606629" ordre_absolu_seance="81" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2085664" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Florent Boudié" id_acteur="PA606507" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722720">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606630" ordre_absolu_seance="82" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085665" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Florent Boudié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1606631" ordre_absolu_seance="83" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2085666" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quels que soient les bancs sur lesquels nous siégeons, quelles que soient nos sensibilités et nos formations partisanes, je crois qu’au cours de ces derniers jours nous avons débattu et décidé en républicains, c’est-à-dire avec l’exigence qui doit être la nôtre dans la crise sanitaire exceptionnelle que notre pays affronte.<br/>C’est aussi en républicains que nous avons discuté longuement avec nos collègues sénateurs pour trouver un chemin, ce qui est toujours difficile quand, monsieur Mélenchon, nous ne savons pas tout, quand nous devons agir dans la complexité de ne pas tout savoir.<br/>Nous avons essayé de trouver un chemin qui soit simple, s’agissant notamment de la responsabilité pénale. Beaucoup de questions avaient été posées sur « l’état des connaissances scientifiques au moment des faits » ; était-ce approprié ? Nous avons, en tout cas, voulu apporter une réponse sécurisante, mais qui ne soit pas l’irresponsabilité. Personne n’aurait compris que, dans une situation comme celle-ci, nous assumions un principe d’irresponsabilité.<br/>En ce qui concerne le système d’information, nous avons souhaité apporter des garanties très fortes. Nous avons ainsi accepté – illustration parmi d’autres – le principe de l’avis conforme de la CNIL – Commission nationale de l’informatique et des libertés. Nous avons eu ce débat la nuit dernière, monsieur Coquerel.<br/>Et nous avons rendu cet accord possible parce que nous considérons que nous ne pouvons agir dans une crise sanitaire aussi violente – qui n’est pas française ni même européenne, mais mondiale – qu’avec les armes de la démocratie. Nous ne pouvons obtenir la confiance, monsieur Peu, que si nous agissons avec les armes de l’État de droit ; c’est une exigence.<br/>Il a souvent été dit au cours de nos débats, et c’est tout à fait exact, que la France était le seul pays où l’on débattait et décidait au Parlement tant des mesures d’état d’urgence et de confinement que de certaines mesures liées au déconfinement. La démocratie, en effet, n’est pas une contrainte, c’est d’abord une exigence ; nous l’assumons et nous le voulons, nous aussi.<br/>Nous ne savons pas tout, je l’ai dit ; pourtant, nous devons décider. Dans cet hémicycle, sous la tribune, se trouve un bas-relief où figurent des allégories : à gauche, l’histoire ; au milieu, Janus, qui regarde à la fois le passé et l’avenir. Telle est toujours, précisément, la position des responsables publics et des décideurs. C’est la nôtre, c’est notre exigence. Grâce au présent texte, nous remplissons cette exigence, avec humilité et avec force. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606560" ordre_absolu_seance="3" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085735" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606561" ordre_absolu_seance="4" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085736" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez excuser mon sourire malgré la gravité du sujet, monsieur le président, mais Janus est un dieu à double visage ; je ne suis donc pas sûr que la comparaison soit très opportune.<br/>Nous sommes réunis ici depuis plusieurs jours, et l’opposition des Républicains, que je représente, a formulé des exigences, parce qu’il lui semble que l’État de droit est non pas une faculté ni une option, mais une ardente obligation. Cela nous a amenés à faire un certain nombre de propositions et à cheminer ensemble. Nous sommes une opposition exigeante, mais aussi responsable : nous savons que l’état d’urgence sanitaire ne peut pas s’interrompre exactement en même temps que le confinement. L’État de droit est, bien sûr, permanent, mais l’état d’urgence sanitaire doit se poursuivre au lendemain du 11 mai.<br/>Nous nous sommes opposés à propos de la durée de l’état d’urgence sanitaire. Sans doute n’y avait-il pas de durée idéale, mais nous pensions qu’un rendez-vous à échéance d’un mois aurait été la solution la plus pertinente, pour donner toute sa place au Parlement. La date du 24 juillet a été évoquée ; ce sera finalement la date proposée par le Sénat, le 10 juillet, soit deux mois après le début du déconfinement. Ce n’est pas totalement satisfaisant, mais il serait déplacé de s’arc-bouter et de faire capoter le projet de loi – passez-moi l’expression – pour une différence de quinze jours, même si elle est importante, puisque ce seront quinze jours supplémentaires d’exception et de pouvoir exorbitant du droit commun, qui ne correspondent pas au fonctionnement normal d’une démocratie.<br/>Nous nous sommes opposés aussi à propos de la responsabilité des uns et des autres : des maires, des ministres, des hauts responsables d’administration – ou fonctionnaires d’autorité. Nous ne voulions pas d’un texte qui aurait pu apparaître comme une loi d’amnistie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606565" ordre_absolu_seance="8" id_acteur="PA643127" id_mandat="PM722636" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085740" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Questel</nom>
+              <id>643127</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous non plus !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606566" ordre_absolu_seance="9" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085741" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour sa part, le Sénat souhaitait que des signaux soient envoyés aux maires. Nous avons trouvé un compromis, qui n’est ni le texte de l’Assemblée ni celui du Sénat, mais une troisième formule, qui réaffirme le principe de responsabilité. Car la responsabilité est, bien sûr, ce qui fait l’honneur de l’élu, du responsable. Il n’y a pas de fonction ou de mandat qui tienne sans cet engagement fort. Mais nous avons adapté ce régime, en donnant en quelque sorte un mode d’emploi, pour tenir compte de la situation. Ce n’est ni un blanc-seing ni un chèque en blanc ; il appartiendra aux tribunaux de juger, comme il se doit. Nos grands responsables politiques et les « décideurs », quels qu’ils soient, ne seront pas exonérés de responsabilité. Cette formule est de nature à nous réunir, et nous réunit.<br/>Il restait en outre des points très importants à régler concernant le système d’information prévu à l’article 6. Nous craignions, certains d’entre nous craignent encore, que ce système ne soit liberticide, que les données personnelles ne soient utilisées à d’autres fins, qu’elles ne demeurent trop longtemps dans les « bécanes » – pour reprendre un terme un peu trivial – et qu’elles ne soient moulinées au-delà des finalités prévues. Là aussi, sans que tout soit parfait, nous avons trouvé un équilibre intéressant. La CNIL pourra et devra rendre un avis conforme. Il s’agit d’une méthode particulière, d’un pouvoir exceptionnel, dans une période exceptionnelle. Les données ne pourront pas être conservées plus de trois mois. Ce n’est pas la procédure habituelle, et ce n’est pas rien. D’autres éléments encore, introduits par le Sénat ou par l’Assemblée, renforcent la protection. Néanmoins, certains d’entre nous continuent à douter, estimant qu’une brèche est ouverte dans le secret médical. Il est vrai que tout n’a pas été tranché.<br/>Il y avait, enfin, des divergences au sujet des outre-mer. Là encore, nous avons trouvé des voies et moyens, pour que nos compatriotes et amis ultramarins ne se sentent pas traités comme des citoyens de seconde zone.<br/>Tout cela nous amène à nous rapprocher, avec beaucoup d’exigence. En conscience et en responsabilité – les Républicains sont conscients de l’avenir et de ce qu’ils doivent faire –, une très large majorité d’entre nous votera le texte. Il y aura sans doute quelques votes contre et quelques abstentions bienveillantes, suspendues au jugement du Conseil constitutionnel. Car c’est aussi parce que le Président de la République s’est engagé à saisir le Conseil constitutionnel que nous nous engageons à vos côtés, non pas en tant que supplétifs de la majorité, mais parce que nous croyons en une France debout. En cette journée de l’Europe, le lendemain du 8-Mai, je ferai référence non pas à Jaurès, madame la présidente de la commission des lois, mais au général de Gaulle et à l’esprit de résistance, qui doit nous animer face à la maladie. Il y va de l’avenir de nos concitoyens et de la France. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Florennes" id_acteur="PA721742" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723370">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606570" ordre_absolu_seance="13" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085745" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Isabelle Florennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606571" ordre_absolu_seance="14" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085746" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes heureux d’avoir réussi à trouver un bon accord avec nos collègues sénateurs, à l’issue d’une commission mixte paritaire intense mais fructueuse. Je m’étais exprimée en ce sens il y a quelques heures, la nuit dernière.<br/>Nos conditions de travail ont été particulières, bien sûr, puisque notre temps était contraint, mais je ne crois pas que cela ait altéré la qualité de nos travaux. Les débats ont été riches, complets. Nous avons consacré plus de dix heures en commission et vingt-deux heures en séance publique à l’examen du projet de loi. Il importait que celui-ci soit promulgué au plus vite, afin de permettre dès le 11 mai, conformément aux engagements du Gouvernement, le déconfinement attendu par beaucoup de nos concitoyens.<br/>En premier lieu, le texte proroge l’état d’urgence sanitaire jusqu’au 10 juillet. En effet, la bataille contre l’épidémie est loin d’être gagnée, et il nous paraît nécessaire de pouvoir prendre certaines mesures spécifiques pour protéger la santé de tous.<br/>Je tiens à saluer la qualité du travail parlementaire sur ce texte. Le Sénat a d’abord conduit un important et nécessaire travail d’encadrement et de précision, qui a notamment porté sur le déploiement du système d’information destiné à lutter contre la propagation de l’épidémie, prévu à l’article 6. Il a ainsi renforcé le contrôle du juge des libertés et de la détention sur les mesures sanitaires et sur les garanties relatives à la maîtrise des données des personnes concernées.<br/>L’Assemblée nationale a poursuivi ce travail, et je suis heureuse de la contribution fournie par le groupe du Mouvement démocrate et apparentés. Nous avons tenu à défendre les libertés individuelles en apportant des garanties complémentaires telles que le caractère immédiatement exécutoire de la décision du juge des libertés et de la détention ou la limitation à six mois de la durée du système d’information. Autre apport important du travail parlementaire : le retour progressif au droit commun en matière de détention provisoire, dès le 11 mai. Cette question essentielle avait mobilisé la commission des lois dans sa mission de contrôle et d’évaluation de l’ordonnance du 25 mars 2020 – vous l’avez souligné, madame la rapporteure.<br/>Enfin, nous avons abouti à un compromis sur la question sensible de la responsabilité pénale des décideurs publics et privés, qui a occupé une grande partie de nos débats en commission mixte paritaire. Nous avons dû trouver une position d’équilibre, car nous devions, d’une part, répondre à l’inquiétude légitime des décideurs dans le contexte du déconfinement, d’autre part, veiller à ne pas créer un régime dérogatoire les exonérant de toute responsabilité – je veux être très claire, car le doute ne doit pas être permis à ce sujet. Selon moi, le compromis trouvé en commission mixte paritaire respecte cet équilibre : le texte rappelle que, dans un contexte d’urgence sanitaire, la responsabilité au sens de l’article 121-3 du code pénal s’apprécie in concreto en tenant compte des compétences, du pouvoir et des moyens dont disposent le décideur public ou privé au moment des faits. Cette disposition s’inscrit pleinement dans l’esprit de la loi Fauchon du 10 juillet 2000, auquel notre groupe est, je l’ai rappelé, particulièrement attaché.<br/>Pour l’ensemble de ces raisons, le groupe MODEM apportera son soutien plein et entier au présent texte, nécessaire pour poursuivre la lutte contre la pandémie. Je tiens à remercier l’ensemble des services de l’Assemblée nationale, notamment ceux de la commission des lois,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606578" ordre_absolu_seance="21" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085753" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils ont été au top !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606579" ordre_absolu_seance="22" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085754" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…pour leur précieux soutien lors de cette période particulière. <italique>(Applaudissements sur les bancs des groupes MODEM et LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme George Pau-Langevin" id_acteur="PA335532" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723416">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606580" ordre_absolu_seance="23" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085755" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme George Pau-Langevin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606581" ordre_absolu_seance="24" id_acteur="PA335532" id_mandat="PM723416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085756" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme George Pau-Langevin</nom>
+              <id>335532</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La tâche que doit accomplir ce gouvernement face à cette crise sans précédent n’est pas facile. Loin de nous l’idée de vous jeter la pierre. Je dois reconnaître que vous avez pris les choses à bras-le-corps et avec beaucoup de cœur, et nous vous souhaitons de réussir.<br/>Même si vous devez dans une certaine mesure agir dans le brouillard, nous sommes frappés de constater les volte-face, les injonctions contradictoires, les propos péremptoires retirés ensuite. Tout cela nous a donné l’impression d’une improvisation quelque peu regrettable.<br/>Depuis plusieurs jours, nous travaillons tous pour que le projet de loi soit adopté dans les délais et soit le meilleur possible pour nos concitoyens. À cet égard, nous saluons l’équilibre trouvé ce matin en commission mixte paritaire. Toutefois, sur plusieurs aspects du texte, nous ne pouvons pas vous suivre.<br/>Commençons par relever les hésitations quant à la responsabilité des élus. Pendant un certain temps, le Gouvernement a semblé se passer d’eux et imposer ses décisions. Puis, il a cherché à faire en sorte qu’ils ne se sentent pas trop pris au piège. Je crains néanmoins que le texte dans sa rédaction actuelle, résultant du compromis que vous avez trouvé, ne soit perçu par nos concitoyens comme une manière d’accorder une irresponsabilité pénale aux décideurs publics et privés.<br/>Je suis également préoccupée par les dispositions relatives à la quarantaine dans les départements d’outre-mer. Une telle différence de traitement ne me semble pas justifiable.<br/>Surtout, l’énorme système d’information que vous nous avez présenté pose tout de même problème. Il permettra de collecter des données sensibles, relatives notamment à la santé, qui seront accessibles à des gens qui ne sont pas médecins – d’autant que ces données pourront concerner des personnes qui ne sont pas malades et n’ont pas donné leur consentement. Par ailleurs, nous savons qu’un autre système, StopCovid, est en préparation, mais nous ignorons comment il s’articulera avec ce système d’information.<br/>Pour toutes ces raisons, nous ne pouvons pas vous donner de blanc-seing. C’est pourquoi le groupe Socialistes et apparentés ne votera pas le texte.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1606588" ordre_absolu_seance="31" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085763" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est bien ainsi !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pascal Brindeau" id_acteur="PA342601" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM761932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606513" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085767" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pascal Brindeau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606514" ordre_absolu_seance="2" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085768" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons les conclusions de la commission mixte paritaire qui s’est réunie ce matin. Mme la rapporteure l’a rappelé dans son propos : le texte voté par le Sénat et celui que nous avons adopté hier n’étaient pas séparés par un océan.<br/>Le point le plus complexe était la question de la responsabilité, qui a surgi pendant le débat parlementaire : le texte initial ne comportait aucune disposition sur la responsabilité des décideurs publics ou privés qui participent à la gestion de la crise sanitaire actuelle.<br/>Rappelons clairement, car parfois le droit écrit et le commentaire détruit, qu’il n’y a eu ni de la part des sénateurs à l’origine de la première rédaction, notamment du président Philippe Bas, ni de la part de nos collègues du groupe LaREM ou du MODEM, comme Laurence Vichnievsky, auteurs d’un amendement à ce sujet la moindre intention de dédouaner qui que ce soit d’une forme de responsabilité liée à la gestion de la crise.<br/>L’objectif était de rassurer un certain nombre de personnes, en particulier les maires, les élus locaux mais aussi les chefs d’entreprise, les employeurs, qui pouvaient penser que, parce que des décisions prises par l’État, par le Gouvernement, s’imposent à eux, et qu’ils constituent une courroie de transmission dans la gestion de la crise et l’application de certaines dispositions, ils pourraient, plus qu’en temps normal, être exposés à la responsabilité pénale.<br/>Le commentaire détruit, ai-je dit. C’est d’ailleurs pour cela que le débat démocratique doit de nouveau être total, car, lorsqu’il est tronqué, celui qui fait foi est le débat des comptoirs ou plutôt, en l’occurrence, celui des réseaux sociaux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606519" ordre_absolu_seance="7" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085773" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ou des réseaux pas très sociaux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606520" ordre_absolu_seance="8" id_acteur="PA342601" id_mandat="PM761932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085774" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pascal Brindeau</nom>
+              <id>342601</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Toute suspicion devait par conséquent être levée.<br/>La rédaction issue de la commission mixte paritaire a le mérite de rappeler le principe général de responsabilité des décideurs publics. Ensuite, elle évite sans doute l’écueil constitutionnel que constituerait une modification de la loi pénale et de sa portée, puisqu’il ne modifie que le code de la santé publique. Enfin, il rappelle, sans l’imposer aux juges, ce qui constitue un autre risque d’inconstitutionnalité, que les circonstances si particulières de la crise du Covid constituent in concreto un des éléments d’appréciation permettant d’évaluer l’opportunité d’engager ou non la responsabilité pénale d’un décideur, au motif qu’il aurait, dans l’exercice de ses missions, de ses pouvoirs, de ses compétences, exposé un de nos concitoyens à la maladie.<br/>Cela dit, le débat qui s’est déroulé au Parlement, puis en commission mixte paritaire, a aussi permis, au-delà des mesures d’urgence, d’apporter certaines réponses, même si elles ont été supprimées du projet de loi. C’est parce qu’il y a eu un débat au Parlement, parce que des mesures ont été inscrites dans la loi alors qu’elles n’avaient peut-être pas à y figurer, que le Gouvernement a décidé d’annoncer certaines mesures, comme la possibilité pour des préfets de décider, en lien avec les maires et dans le respect des conditions sanitaires, de rouvrir, à partir du 11 mai, les plages, les forêts et d’autres espaces encore, à nos concitoyens.    <br/>Ceux-ci n’auraient pas compris qu’il en aille autrement, au vu même de la sécurité sanitaire. Or la compréhension est déterminante en matière de confiance.<br/>Pour ces raisons, le groupe UDI, Agir et indépendants votera en très grande majorité pour le texte. <italique>(Applaudissements sur les bancs des groupes UDI-Agir, LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François Pupponi" id_acteur="PA405480" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723118">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606525" ordre_absolu_seance="13" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085779" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François Pupponi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606526" ordre_absolu_seance="14" id_acteur="PA405480" id_mandat="PM723118" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085780" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Pupponi</nom>
+              <id>405480</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La France vit un moment particulier que peu avaient imaginé, même si, depuis quelques années, des spécialistes nous avaient alertés sur le risque d’une pandémie. Étions-nous préparés ? Peut-être pas. Le moment venu, nous devrons comprendre ce qui nous est arrivé, même si, peu à peu, nous commençons à connaître certains faits.<br/>Nous avons tous une responsabilité. Au reste, nul ne peut mettre en doute la volonté du Gouvernement, et plus particulièrement du ministre des solidarités et de la santé, de trouver le plus rapidement possible et dans les meilleures conditions, des solutions pour protéger la santé des Français, limiter le plus possible le nombre de morts et permettre à notre pays de se relever.<br/>Depuis plusieurs semaines, les législateurs que nous sommes votent des textes que nul n’aurait pu anticiper. Le dernier projet de loi de finances rectificative entérine, pour notre pays, une dette égale à 120 % du PIB, un déficit public de 9 % et une dégradation de nos comptes sociaux de 50 milliards. Quant aux mesures sanitaires et sociales ou juridiques, elles sont également hors normes, au sens où elles mettent en cause les libertés publiques.<br/>Jusqu’à présent, nous avons soutenu ces textes, mais aujourd’hui une grande partie des membres de mon groupe s’abstiendront ou voteront contre le projet de loi, et ce pour deux raisons.<br/>Premièrement, nous restons des législateurs épris de liberté et défenseurs des libertés publiques. Or l’article 6, dont nous comprenons la logique, compte tenu de la nécessité de lutter contre le virus, nous inquiète. Les mesures proposées nous semblent prises dans la précipitation, ce qui est devenu la règle, alors que nous ne connaissons pas encore leurs conséquences.<br/>Je salue le travail mené en commission mixte paritaire. Le consensus auquel celle-ci est parvenue va dans le bon sens, puisqu’il accorde une place plus importante à la CNIL et précise que les données collectées ne seront pas conservées plus de trois mois. Mais, si, encore une fois, nous ne doutons pas de la volonté du Gouvernement de trouver les meilleures solutions, nous partons dans l’inconnu et nous ne savons pas comment cela pourrait finir.<br/>Deuxièmement, notre groupe comprend trois élus de Corse. Or le Gouvernement reste sourd à notre problème. L’interdiction d’effectuer tout déplacement supérieur à 100 kilomètres sépare la Corse du continent. Nul ne peut donc plus se rendre dans notre île, sinon pour un motif professionnel ou pour des raisons familiales impérieuses. Il n’y a quasiment plus de bateau ni d’avion la desservant. Depuis plusieurs semaines, aucun avion ne relie plus la Corse à Paris. Celle-ci est coupée du reste du continent, pour des raisons sanitaires du reste faciles à comprendre, compte tenu du foyer qui s’est développé à Ajaccio.<br/>Reste que le tourisme constitue 50 % de l’économie de l’île. Il la fait vivre. Or le projet de loi accorde au préfet la possibilité de placer les voyageurs qui arriveraient en quarantaine, disposition qui s’appliquera aussi aux DOM-TOM. Nous savons donc que peu de gens viendront en Corse cet été.  <br/>Nous allons connaître une année blanche. Une grande partie de nos entreprises, ainsi que de nos outils économiques disparaîtra. Dans ce contexte, les élus de l’île, non seulement les députés que j’ai cités mais aussi Gilles Simeoni, veulent bâtir un plan de sauvetage de l’économie insulaire.<br/>Si certains députés de notre groupe vont s’abstenir sur ce texte ou émettre un vote négatif, c’est parce que nous n’avons pas obtenu de réponses. J’espère que celles-ci viendront. Je le dis avec d’autant plus de solennité que les DOM-TOM, je le répète, sont dans la même situation que nous. Ne faisons pas des insulaires des Français à part, en refusant d’apporter, à une situation atypique, des réponses spécifiques.<br/>Monsieur le secrétaire d’État, je suis convaincu que, tous ensemble, nous pouvons trouver rapidement des solutions indispensables.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606537" ordre_absolu_seance="25" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085791" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606538" ordre_absolu_seance="26" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085792" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La première question de fond posée par ce texte était celle-ci : faut-il prolonger l’état d’urgence sanitaire ? Elle n’est pas anodine. Une loi d’urgence crée un état d’exception, un de ces états auxquels les parlementaires ne devraient jamais s’habituer. Ils doivent aussi veiller à ce que le Gouvernement ne s’habitue pas au confort que crée pour lui un état d’urgence qui lui accorde des pouvoirs supplémentaires. C’est particulièrement vrai sous la V<exposant>e</exposant> République.<br/>À cette première question, alors que nous sommes encore à deux semaines de la fin de la première loi d’urgence sanitaire, nous avons répondu non. Nous n’avons pas compris pourquoi vous avez refusé tous les amendements visant à prolonger cet état d’urgence sanitaire jusqu’en juin, alors même que, selon le Premier ministre, il se produira une sorte de revoyure au terme de la première période de déconfinement. Dès lors, pourquoi refuser tant le principe que la date que nous vous proposions ?<br/>J’ajoute que l’état d’urgence sanitaire a prolongé plus de vingt ordonnances. Or, que vous le vouliez ou non, cette manière de gouverner constitue une insulte permanente au Parlement, puisqu’elle permet au Gouvernement de prendre des décisions en toute liberté. Le Conseil d’État juge d’ailleurs qu’un prolongement automatique des ordonnances, sans que le législateur se prononce par un vote, n’est pas souhaitable. Telle est la deuxième raison qui nous amène à rejeter  le texte.<br/>Pour l’article 1<exposant>er</exposant>, je comprends le point de vue initial des sénateurs. À partir du moment où l’État se défausse d’un grand nombre de ses responsabilités sur les maires, il serait invraisemblable que ceux-ci soient les seuls à payer…  </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606542" ordre_absolu_seance="30" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085796" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Votre temps est écoulé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606543" ordre_absolu_seance="31" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085797" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne dispose pas de cinq minutes ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606544" ordre_absolu_seance="32" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085798" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si, excusez-moi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606545" ordre_absolu_seance="33" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085799" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien tenté, Richard !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606546" ordre_absolu_seance="34" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085800" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après la mission d’information, il faudrait éviter que m’interrompre devienne une habitude !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606547" ordre_absolu_seance="35" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085801" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’erreur est humaine, mon cher collègue, et je vais même vous restituer, intérêt et principal, le temps que ce petit incident nous a fait perdre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606548" ordre_absolu_seance="36" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085802" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les taux d’intérêt ne sont pas très élevés en ce moment !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606549" ordre_absolu_seance="37" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085803" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie.<br/> Au départ, les sénateurs souhaitaient éviter, disais-je, que les maires ne paient les pots cassés en endossant une responsabilité pénale, tandis que les ministres ou d’autres élus bénéficieraient d’une amnistie. Prendre des décisions susceptibles de mettre des personnes en danger ou de sauver des vies est la responsabilité la plus grave que peut exercer un élu.<br/>À cet égard, la nouvelle rédaction ne nous rassure pas tout à fait. Certes, les dispositions s’inscrivent désormais non plus dans le code pénal mais celui de la santé publique, de sorte qu’elles disparaîtront à la fin de l’état d’urgence sanitaire, mais les élus pourront systématiquement se référer à cette base légale, et les juges pourront voir, dans cette rédaction, une intention du législateur de ne pas les rendre responsables de leurs actes.<br/>Enfin, j’observe qu’on a élargi la mesure aux employeurs, faisant droit à une demande formulée, il y a quelques jours, par le MEDEF. Pour notre part, nous pensions que la loi Fauchon suffisait, le juge ayant toujours statué en fonction des circonstances.<br/>J’en viens à la question des données. Hier, M. Véran nous a répété que la création d’un fichier ne posait aucun problème, puisqu’il existe déjà des fichiers, dont l’un dédié aux malades atteints d’une affection de longue durée, comme si son existence était de nature à nous rassurer. Nous ne voulons pas du monde du fichage, surtout quand il se double d’un traçage. Tel est le problème de fond.<br/>D’ailleurs, à la différence du fichier que je viens de citer, qui permet à la sécurité sociale de savoir à quel taux on rembourse tel médicament à un malade, celui que vous créez concerne tant les malades que les non-malades, ce qui constitue une nouveauté. Ensuite, on ignore qui s’en servira. On ne nous a pas répondu sur ce point. Manifestement, son utilisation s’étendra au-delà du monde médical, ce qui pose le problème du secret. Enfin, le traçage n’est pas anodin. On suppose que la personne contaminée pourrait sortir des radars. On la considère à ce titre comme coupable. Selon nous, le volontariat serait une arme suffisante, alors que le traçage entraînera inévitablement vers l’utilisation de StopCovid.<br/>M. le ministre nous a objecté hier que nous étions tous sur Twitter, ce qui constitue après tout une forme de traçage. Certes, mais nous avons la liberté d’être ou non sur Twitter !<br/>Nous avons proposé que ce traçage soit effacé au bout d’un mois. Comme par hasard, on nous l’a refusé, au motif que les données collectées pourraient servir plus longtemps pour des recherches épistémologiques.<br/>Je conclus en rappelant que le projet de loi ne contient aucune mesure sociale à la hauteur de l’état d’urgence social que nous connaissons. Je regrette de ne pas pouvoir détailler ce point, faute de temps. À défaut d’avoir anticipé la crise et d’avoir planifié le déconfinement, vous cherchez à montrer les muscles. Or ce n’est jamais signe d’efficacité ni d’intelligence. J’espère que nous n’aurons pas tous à regretter votre attitude à partir de lundi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1606557" ordre_absolu_seance="45" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085811" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est très exagéré !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Peu" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606489" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2085501" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606490" ordre_absolu_seance="2" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2085502" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En cette période si délicate et inquiète de notre histoire, les membres du groupe de la Gauche démocrate et républicaine sont plus que jamais animés du sens des responsabilités qui incombe aux représentants du peuple.<br/>C’est pourquoi, pour ce texte comme pour les précédents, nous avons souhaité explorer tous les chemins de concorde possibles, dans le seul but de restaurer la confiance des Françaises et des Français dans notre capacité à résoudre cette crise sanitaire.<br/>Hélas ! En dépit des vertus démocratiques que certains voudront lui donner, l’accord trouvé aujourd’hui en commission mixte paritaire ne s’inscrit pas dans cette démarche, et ne constitue pas une bonne nouvelle pour notre pays. C’est le résultat d’un compromis – un petit compromis, aurais-je envie de dire – entre la majorité du Sénat et celle de l’Assemblée nationale.<br/>Pour la majorité du Sénat, il était surtout question de la responsabilité pénale des maires. Il est vrai qu’il y a là une vraie question, et que la traiter n’est pas une mince affaire. Mais fallait-il pour autant, dans ce compromis, instituer le mécanisme qui a été trouvé en commission mixte paritaire, qui, quoi qu’on en dise, et quoique vous vous en défendiez, prépare le terrain à une possible amnistie générale pour toute les mauvaises décisions des décideurs publics, depuis le moindre maire de village, jusqu’aux plus hauts responsables et éventuellement aux ministres ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606494" ordre_absolu_seance="6" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085506" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non ! Ce n’est pas vrai, et vous le savez bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606495" ordre_absolu_seance="7" id_acteur="PA643127" id_mandat="PM722636" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085507" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Questel</nom>
+              <id>643127</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il n’a pas écouté ce matin…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606496" ordre_absolu_seance="8" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085508" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous ne croyons pas qu’un tel dispositif est de nature à rassurer nos concitoyens sur la capacité de notre nation à affronter pareille crise. Nous pensons qu’il est dangereux pour la démocratie dans notre pays d’alimenter ainsi la suspicion et la défiance de nos concitoyens envers leurs responsables.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606497" ordre_absolu_seance="9" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085509" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est dommage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606498" ordre_absolu_seance="10" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2085510" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour la majorité de l’Assemblée, l’affaire se résumait surtout à la constitution d’un système d’information et de brigades sanitaires, dispositifs pour le moins inédits, qui ne vont pas sans poser problème en matière de respect des libertés fondamentales. Quoi qu’on en dise, avec le contact tracing, un présupposé de défiance vis-à-vis de nos concitoyens l’emporte.<br/>Pourquoi les infantiliser ainsi ? Pourquoi, alors que le confinement – il aurait fallu pouvoir faire un bilan de la première phase de l’état d’urgence – a montré l’immense civisme, l’immense discipline de nos concitoyens ? Qui pouvait imaginer qu’en quelques heures, il serait possible de confiner de manière complète 66 millions de Français ? Or ils ont respecté, dans leur immense majorité, les règles. Pourquoi ne pas s’appuyer sur ce civisme, ce sens des responsabilités ? Pourquoi préférer une démarche plus autoritaire que citoyenne ?<br/>Évidemment, tout cela préfigure l’application StopCovid, et nous regrettons le refus de la majorité, malgré les demandes que nous avons formulées dans nos amendements, de refuser qu’un débat ait lieu ici – non pas un débat formel et général, mais un vrai débat avec un texte législatif amendable –, concernant l’application StopCovid. Nous avions cru comprendre – sans doute à tort – que c’était l’engagement qu’avait pris le Premier ministre devant nous. Nous n’oublions pas l’essentiel du texte qui est soumis à notre vote – et que nous ne voterons pas. Il vise à proroger l’état d’urgence sanitaire.<br/>Pour notre part, nous refusons de donner notre caution à ce régime juridique d’exception, qui concentre les pouvoirs entre les mains de l’exécutif, restreint les libertés fondamentales de chacun, et autorise le contrôle massif de la population. Nous refusons de donner quitus à cet état d’urgence sanitaire, alors que, je l’ai déjà dit et ne cesserai de le répéter, aucun bilan de celui-ci a été transmis à la représentation nationale, celle-ci n’ayant aucune idée de son efficience réelle, ou même supposée. Cela aurait pourtant été la moindre des choses avant de nous proposer de le proroger.<br/>D’autres l’ont dit : on ne trouve rien dans ce texte concernant l’état d’urgence sociale dans lequel se trouve notre pays. Nous savons que, outre les immenses défis économiques et sociaux qui nous attendent, nous sommes d’ores et déjà confrontés à des urgences sociales. Dans mon département, en Seine-Saint-Denis, je le constate tous les jours : des gens ont faim, ont peur ; ils ne peuvent continuer à vivre dans la situation économique actuelle. Il aurait fallu à tout le moins avoir une attention pour eux, au delà des décisions déjà prises, afin de les rassurer. Or on ne trouve rien de cela dans le présent texte, nous donnant une raison supplémentaire de voter contre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606503" ordre_absolu_seance="56" id_acteur="PA606507" id_mandat="PM722720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085515" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Décevant !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606504" ordre_absolu_seance="57" code_grammaire="VOTE_ENS_PJL_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2085516" valeur=" (n[[o]] 2908)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606505" ordre_absolu_seance="58" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="VOTE_ENS_PJL_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085517" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je vais maintenant mettre aux voix l’ensemble du projet de loi, compte tenu du texte de la commission mixte paritaire, étant précisé que les représentants des groupes sont porteurs des voix des membres de leur groupe et que les positions différentes communiquées préalablement seront évidemment prises en compte dans l’analyse du scrutin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606506" ordre_absolu_seance="59" code_grammaire="VOTE_ENS_PJL_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2085518" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1606507" ordre_absolu_seance="60" code_grammaire="VOTE_ENS_PJL_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2085519" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique>
+          <italique/>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1606509" ordre_absolu_seance="62" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2085521" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1606510" ordre_absolu_seance="63" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2085522" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mardi 12 mai, à quinze heures :<br/>Questions au Gouvernement.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1606511" ordre_absolu_seance="64" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2085523" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix-neuf heures vingt.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1606512" ordre_absolu_seance="65" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2085524" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

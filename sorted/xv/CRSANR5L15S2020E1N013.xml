@@ -1,0 +1,1016 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020E1N013</uid>
+  <metadonnees>
+    <dateSeance>20200715213000000</dateSeance>
+    <dateSeanceJour>mercredi 15 juillet 2020</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>13</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Première session extraordinaire 2020</session>
+    <nomFichierJo>20201013</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Wed, 22 Jul 2020 15:01:35 GMT</horaireGmt>
+    <heureGeneration>2020-07-22T17:01:35.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2154139">Présidence de Mme Laetitia Saint-Paul</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2154143">
+          <intitule>Démission et remplacement d’une députée</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2154147">
+          <intitule>Encadrement du démarchage téléphonique et lutte contre les appels frauduleux</intitule>
+        </titreStruct>
+        <para id_syceron="2154148"/>
+        <sommaire2>
+          <titreStruct id_syceron="2154150">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2154152">M. Christophe Naegelen, rapporteur de la commission mixte paritaire</para>
+          <para id_syceron="2154167">Mme Agnès Pannier-Runacher, ministre déléguée chargée de l’industrie</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2154188">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2154190">M. Michel Zumkeller</para>
+          <para id_syceron="2154204">M. Michel Castellani</para>
+          <para id_syceron="2154223">Mme Mathilde Panot</para>
+          <para id_syceron="2154237">Mme Delphine Batho</para>
+          <para id_syceron="2154114">Mme Laure de La Raudière</para>
+          <para id_syceron="2154126">M. Alain Bruneel</para>
+          <para id_syceron="2154451">M. Nicolas Démoulin</para>
+          <para id_syceron="2154463">M. Pierre Cordier</para>
+          <para id_syceron="2154473">Mme Aude Luquet</para>
+          <para id_syceron="2155556">Mme Michèle Victory</para>
+          <para id_syceron="2155567">M. Christophe Naegelen, rapporteur</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2155576">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2155583">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 15 juillet 2020</journee>
+      <session>Première session extraordinaire 2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1648280" ordre_absolu_seance="1" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2154139" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Laetitia Saint-Paul<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1648281" ordre_absolu_seance="2" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154140" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1648282" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2154141" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1648284" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2154143" valeur="">
+      <orateurs/>
+      <texte>Démission et remplacement d’une députée</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1648285" ordre_absolu_seance="6" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2154144" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le président de l’Assemblée nationale a reçu de Mme Éricka Bareigts, députée de la première circonscription de La Réunion, une lettre l’informant qu’elle se démettait de son mandat de députée à compter du 13 juillet 2020. Acte a été pris de sa démission au <italique>Journal officiel</italique> du mardi 14 juillet 2020.<br/>Par une communication du lundi 13 juillet 2020, le ministre de l’intérieur a informé le président que Mme Éricka Bareigts était remplacée, jusqu’au renouvellement de l’Assemblée nationale, par M. Philippe Naillet, élu en même temps qu’elle à cet effet.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648288" ordre_absolu_seance="9" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2154147" valeur=" (n[[o]] 3176)">
+      <orateurs/>
+      <texte>Encadrement du démarchage téléphonique et lutte contre les appels frauduleux</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648289" ordre_absolu_seance="10" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2154148" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Commission mixte paritaire</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648290" ordre_absolu_seance="11" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154149" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, de la proposition de loi visant à encadrer le démarchage téléphonique et à lutter contre les appels frauduleux (n<exposant>o</exposant> 3176).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648291" ordre_absolu_seance="12" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2154150" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Christophe Naegelen, quali  rapporteur de la commission mixte paritaire" id_acteur="PA721486" id_nomination_oe="-1" id_nomination_op="PM773186" id_mandat="PM723290">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648292" ordre_absolu_seance="13" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154151" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Naegelen, rapporteur de la commission mixte paritaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648293" ordre_absolu_seance="14" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="PM773186" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154152" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite>rapporteur de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous nous retrouvons aujourd’hui pour adopter une proposition de loi qui a plus de deux ans. Je suis très fier de pouvoir dire qu’elle émane d’un travail collectif : sur tous les bancs, ceux de la majorité comme ceux de l’opposition, les députés ont travaillé ensemble pour faire évoluer ce texte qui contenait initialement six articles et en compte désormais plus de douze.<br/>Je rappelle que la proposition de loi initiale, qui a inspiré toutes les propositions de loi sur le démarchage téléphonique, était celle du sénateur Jacques Mézard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648295" ordre_absolu_seance="16" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM773184" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154154" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648296" ordre_absolu_seance="17" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="PM773186" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154155" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons retenu de ce texte le volet des sanctions infligées aux professionnels se livrant à un démarchage téléphonique abusif, mais le montant des amendes pourra désormais être multiplié par vingt-cinq en cas de non-respect de certaines obligations.<br/>Cette disposition ne constitue que l’une des multiples avancées de la présente proposition de loi, grâce à laquelle nous créons un véritable cadre légal pour lutter non seulement contre les appels intempestifs, mais aussi contre les appels frauduleux – ce faisant, nous protégeons nos concitoyens.<br/>Les entreprises devront désormais signer une charte déontologique et s’engager à ne plus déranger les Françaises et les Français à l’heure du déjeuner et pendant les week-ends, ces moments que l’on consacre à sa famille.<br/>Grâce à un amendement du groupe du Mouvement démocrate et apparentés, les centres d’appel seront par ailleurs punis lorsqu’ils utiliseront un numéro anonyme. Ils auront l’obligation de présenter la société au nom de laquelle ils appellent et d’indiquer au consommateur qu’il peut gratuitement s’inscrire sur Bloctel.<br/>Nombreux sont nos concitoyens qui se plaignent de la plateforme gouvernementale Bloctel au motif qu’elle ne fonctionne pas. En réalité, cette plateforme fonctionne, mais elle n’est pas utilisée. Actuellement, seules 700 à 800 entreprises la prennent en compte. La grande majorité des sociétés qui font du démarchage téléphonique auprès de nos concitoyens contournent le dispositif, d’où les amendes prévues par la proposition de loi, qui pourront aller jusqu’à 375 000 euros. Avec la proposition de loi, nous renforçons la plateforme Bloctel pour qu’elle puisse être véritablement opérationnelle.<br/>Les articles 6 et 7 de la proposition de loi sont, selon moi, les plus importants : ils visent à responsabiliser les opérateurs. Aujourd’hui, des milliers d’entreprises se livrent à du démarcharge téléphonique, mais il n’y a que deux cents opérateurs. Par un effet d’entonnoir, ces derniers auront désormais la possibilité de bloquer les numéros frauduleux utilisés pour appeler – et déranger – les Françaises et les Français. Nous leur laissons trois ans pour mettre en place un plan national de numérotation et instaurer l’interopérabilité.<br/>À cet égard, je regrette que nous n’ayons pas été plus loin dans la proposition de loi en accordant à l’ARCEP – Autorité de régulation des communications électroniques, des postes et de la distribution de la presse –, comme elle le demandait, davantage de pouvoir encore.<br/>Avec ce texte, nous créons le cadre qui nous permettra d’agir contre les numéros frauduleux et qui permettra aux tribunaux de commerce de rendre des jugements plus équitables. Il y a quelques années, parce qu’un tel cadre n’existait pas, une entreprise a pu continuer d’émettre des appels frauduleux pendant trois ans. Ce ne sera plus possible demain : grâce à la proposition de loi, les tribunaux pourront trancher et, ainsi, gagner du temps et mieux protéger nos concitoyens.<br/>L’article 8 crée une liste d’opposition au démarchage téléphonique sur le principe du <italique>name and shame</italique> :<italique/>elle permettra de pointer du doigt toutes les entreprises qui contourneront Bloctel et ne respecteront pas la tranquillité de nos concitoyens.<br/>Chers collègues, permettez-moi de vous remercier, toutes et tous, pour le travail collectif que nous avons mené. Je salue, en particulier, Nicolas Démoulin et Annaïg Le Meur pour leur contribution.<br/>Cette proposition de loi permettra de protéger beaucoup mieux nos concitoyens contre le démarchage téléphonique et les appels frauduleux. Or c’est l’une des missions pour lesquelles nous avons reçu, les uns et les autres, notre mandat. <italique>(Applaudissements sur les bancs des groupes LaREM, MODEM et UDI-I.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée chargée de l'industrie" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648307" ordre_absolu_seance="28" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154166" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre déléguée chargée de l’industrie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648308" ordre_absolu_seance="29" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154167" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre déléguée chargée de l’industrie</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme j’ai pu le dire au Sénat la semaine dernière, je me réjouis que les travaux de la commission mixte paritaire aient abouti à un accord. Nos concitoyens attendaient que soit trouvée une position équilibrée sur l’interdiction du démarchage téléphonique. Un trop grand nombre d’entre eux, chaque jour, et souvent plusieurs fois par jour, sont victimes d’abus en matière de démarchage téléphonique et d’usage frauduleux de numéros surtaxés. Or, au-delà du trouble à la tranquillité, ces abus peuvent causer des préjudices financiers.<br/>La proposition de loi vise à combattre ce fléau. Son parcours est un bel exemple de collaboration fructueuse entre le Parlement – tous groupes confondus – et le Gouvernement, au service des Français : l’adoption du texte rendra plus efficace la lutte contre le démarchage téléphonique illicite et les appels frauduleux. Cette loi du quotidien aura des effets concrets, attendus par nos concitoyens.<br/>Je souhaite, à cet égard, rappeler les mesures consensuelles que vous avez retenues, mesdames et messieurs les parlementaires, pour renforcer significativement la protection des consommateurs contre ces pratiques – ce dont je veux, d’ailleurs, vous remercier.<br/>Tout d’abord, l’information des consommateurs dans les contrats et lors de la prospection commerciale sera renforcée.<br/>Ensuite, le texte prévoit une interdiction du démarchage téléphonique dans le secteur de la rénovation énergétique, à l’exception, ce qui paraît logique, des sollicitations intervenant dans le cadre de l’exécution d’un contrat en cours, entendue au sens de l’article 5 de la proposition de loi. Il est vrai que cette interdiction sectorielle a fait débat, mais elle a le mérite de la clarté et elle est attendue par les associations de consommateurs.<br/>En réalité, cibler ce secteur particulier est une avancée logique et nécessaire. Logique, car, malheureusement, le nombre de problèmes liés à ce type de démarchage y est à la fois anormalement élevé, en comparaison d’autres secteurs, et en forte progression. Logique aussi parce que votre assemblée a adopté, à l’occasion de l’examen d’autres textes, des accompagnements financiers importants pour la rénovation énergétique, qui ne doivent pas servir à alimenter la fraude.<br/>Nécessaire, parce que cette interdiction était demandée unanimement par les associations de protection des consommateurs et parce qu’à l’heure où nous devons faire de la transition environnementale une priorité pour l’avenir de notre pays, celle-ci ne doit pas être retardée par la peur des escrocs et des entreprises peu regardantes.<br/>La proposition de loi contient d’autres mesures encore, que je veux rappeler. Ainsi, l’obligation pour les entreprises ayant recours au démarchage téléphonique de s’assurer qu’elles respectent bien la liste d’opposition est renforcée.<br/>Les sanctions sont alourdies : elles pourront aller jusqu’à 375 000 euros pour une personne morale en cas de non-respect du dispositif d’opposition au démarchage téléphonique. En outre, les décisions de sanction seront systématiquement publiées, aux frais des professionnels.<br/>Des règles déontologiques ou des codes de bonnes pratiques encadrant le démarchage téléphonique seront élaborés par les professionnels.<br/>Les conditions de mise en œuvre du démarchage téléphonique seront plus strictement encadrées grâce à la détermination par décret, pris après avis du Conseil national de la consommation, des jours, des heures et de la fréquence auxquels il peut être pratiqué,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648319" ordre_absolu_seance="40" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154178" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les députés auraient pu le faire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648320" ordre_absolu_seance="41" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154179" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…y compris pour les études et les sondages, qui, lorsqu’ils seront réalisés par voie téléphonique, devront également obéir à des règles déontologiques rendues publiques.<br/>La responsabilisation des professionnels sera accrue avec la mise en place d’une présomption de responsabilité pour ceux qui ont tiré profit de prospections commerciales illicites, à charge pour eux de démontrer qu’ils n’en sont pas à l’origine – je pense notamment à ces professionnels qui confient leur démarchage téléphonique à des sociétés extérieures et qui feignent d’en ignorer les pratiques.<br/>De même, les exceptions à la liste d’opposition dans le cadre de l’exécution d’un contrat en cours seront mieux encadrées.<br/>Un mécanisme plus réactif et sécurisé juridiquement est mis en place pour suspendre et résilier les numéros surtaxés des opérateurs indélicats, avec une faculté de saisine du juge des référés par la direction générale de la concurrence, de la consommation et de la répression des fraudes, la DGCCRF.<br/>D’autres mesures concernent la lutte contre l’usage frauduleux des numéros surtaxés : le renforcement des sanctions et la responsabilisation des opérateurs dans la lutte contre l’usurpation de numéros ou, dans le jargon technique anglo-saxon, le « spoofing ».<br/>Mesdames et messieurs les députés, cette proposition de loi est importante. Nous savons tous qu’elle améliorera le quotidien des Français. Pour qu’elle soit pleinement effective…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648326" ordre_absolu_seance="47" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154185" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pas effective, efficace !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648327" ordre_absolu_seance="48" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154186" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…et efficace, en effet, il faudra veiller à ce qu’elle soit respectée. C’est pourquoi, sous l’impulsion du Gouvernement, les services de l’État chargés de la protection des consommateurs, les agents de la DGCCRF, seront pleinement mobilisés pour lutter contre les sollicitations téléphoniques illicites et le seront encore davantage pour mettre en œuvre les nouvelles dispositions de la proposition de loi.<br/>Pour conclure, le Gouvernement souhaite l’adoption, par l’Assemblée nationale, du texte issu des travaux de la commission mixte paritaire. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648329" ordre_absolu_seance="50" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2154188" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Michel Zumkeller" id_acteur="PA267330" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723392">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648330" ordre_absolu_seance="51" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154189" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Michel Zumkeller.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648331" ordre_absolu_seance="52" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154190" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <id>267330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, nous voyons l’aboutissement de la proposition de loi visant à encadrer le démarchage téléphonique et à lutter contre les appels frauduleux. Il était temps ! Six ans se sont écoulés depuis l’adoption, en 2014, de la loi relative à la consommation, dite loi Hamon, et la situation s’est dégradée depuis pour nos concitoyens.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648332" ordre_absolu_seance="53" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154191" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourtant, c’était un ministre efficace !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1648333" ordre_absolu_seance="54" id_acteur="PA267330" id_mandat="PM723392" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154192" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Zumkeller</nom>
+              <id>267330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les personnes les plus exposées à ces appels intempestifs renouvelés quotidiennement sont souvent les plus fragiles et les plus vulnérables : ce sont principalement les personnes âgées, pour qui être dérangées à toute heure du jour ou de la soirée est particulièrement anxiogène.<br/>Plus de quatre ans après son lancement, l’efficacité de Bloctel n’a pas été démontrée.<br/>En 2017, un an après son instauration, le magazine <italique>60</italique><italique> </italique><italique>Millions de consommateurs</italique> révélait que près de la moitié des personnes inscrites ne percevaient aucune diminution du nombre d’appels.<br/>Les enquêtes sont par ailleurs longues et complexes, car certaines entreprises ont élaboré des techniques pour ne pas respecter la réglementation, comme l’usurpation de numéros de téléphone, le recours à de longues chaînes d’intermédiaires ou la localisation à l’étranger.<br/>Par ailleurs, les difficultés intrinsèques à l’organisation du marché des télécommunications compliquent la vérification de l’identité d’une entreprise à laquelle est attribué un numéro de téléphone.<br/>Le texte que nous présente notre excellent collègue Christophe Naegelen résulte d’un travail approfondi entamé il y a deux ans. Pour y parvenir, il lui a fallu faire preuve d’une grande opiniâtreté – la qualité principale des Vosgiens, comme chacun sait. <italique>(Sourires.)</italique><br/>Après de nombreux amendements et de riches échanges, la proposition de loi a été adoptée à l’unanimité en commission mixte paritaire, ce qui témoigne de la démarche constructive adoptée par toutes les parties. Le Gouvernement a pris conscience du fait que le statu quo n’était aucunement satisfaisant ; le rapporteur et la majorité ont donc travaillé ensemble pour aboutir à des mesures véritablement opérationnelles : le renforcement des protections destinées aux consommateurs ; l’aggravation des sanctions encourues par les contrevenants ; l’obligation faite au démarcheur de décliner son identité, l’identité sociale de la personne pour le compte de laquelle il effectue l’appel, ainsi que la nature commerciale de l’appel ; ou encore le <italique>name and shame</italique>, c’est-à-dire la publication des sanctions prononcées par la DGCCRF et des noms des entreprises fautives.<br/>Une fois ces mesures en vigueur, il faudra s’assurer de leur effectivité et, à cette fin, prévoir un contrôle et une transmission d’informations régulière à la DGCCRF, qui devra être dotée de moyens suffisants pour agir en conséquence.<br/>Nous formons le vœu que cette plus grande fermeté ait un effet dissuasif sur certaines entreprises malveillantes.<br/>Le groupe UDI et indépendants adhère sans réserve à une proposition de loi qui permet de résoudre le problème suivant : comment protéger davantage nos concitoyens en étant efficace à long terme ? Ce texte, que notre groupe défend depuis deux ans, nous offre ainsi l’occasion de faire évoluer un dispositif qui, de l’aveu de tous, a échoué. Je vous invite à la saisir. Nos concitoyens – et Christophe Naegelen – vous en remercieront ! <italique>(Applaudissements sur les bancs du groupe UDI-I et sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648241" ordre_absolu_seance="64" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM773184" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154202" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ça sent la concorde ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648242" ordre_absolu_seance="65" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154203" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648243" ordre_absolu_seance="66" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154204" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ces dernières années, le démarchage téléphonique a pris une ampleur considérable. Nous avons tous été interpellés à ce sujet par nos concitoyens, appelés à des heures et à des jours inopportuns, avec une récurrence qui frise le harcèlement. On comprend aisément leur lassitude face à une énième proposition de travaux d’isolation ou de changement d’assurance. On comprend également leur colère lorsque ces pressions à l’achat s’exercent sur leurs proches vulnérables, plus particulièrement sur les personnes âgées ou isolées.<br/>Leur ras-le-bol met en lumière les larges failles du dispositif Bloctel. Lancé le 1<exposant>er</exposant> juin 2016, celui-ci fait aujourd’hui l’objet de contournements massifs.<br/>Son principe est pourtant simple : permettre aux Français qui le souhaitent de s’inscrire sur une liste d’opposition au démarchage téléphonique. Les numéros y sont stockés pour une durée de trois ans renouvelable, et il est interdit aux professionnels de les appeler, sous peine d’amende.<br/>Voilà pour le principe. Mais nous savons tous que, dans les faits, certaines entreprises ne respectent pas ces obligations. Ainsi, bien qu’inscrits sur les listes Bloctel, de nombreux consommateurs continuent à faire l’objet de démarchages.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648246" ordre_absolu_seance="70" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155545" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648246" ordre_absolu_seance="71" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2155544" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Près de 1,4 million de réclamations ont ainsi été déposées par 280 000 consommateurs depuis 2016.<br/>Certains défendent une solution plus ambitieuse : pour qu’un consommateur puisse être démarché par téléphone, il faudrait qu’il ait a priori formulé son consentement de façon claire et explicite. Onze pays d’Europe ont adopté ce mécanisme dit d’<italique>o</italique><italique>pt in</italique>, tout à fait conforme au règlement général sur la protection des données et que nous appliquons déjà aux courriels et aux SMS.<br/>Cette option, la majorité n’a pas souhaité la retenir, faisant valoir le risque de destruction d’emplois dont elle serait porteuse. Nous ne souhaitons pas céder à ce chantage à l’emploi, d’abord parce que la plupart des centres d’appel fonctionnent depuis l’étranger, ensuite parce que les employés y sont souvent mal rémunérés et subissent des conditions de travail caractérisées par une pression extrême.<br/>L’approche modérée des auteurs de la présente proposition de loi consiste quant à elle à conserver le régime actuel de la désinscription tout en essayant de le rendre plus efficace. Je tiens à saluer le travail en ce sens du rapporteur, Christophe Naegelen, qui a mené un combat de longue haleine pour la faire aboutir.<br/>L’article 1<exposant>er</exposant> bis, par exemple, qui inscrit dans la loi l’obligation faite aux professionnels de saisir Opposetel afin de mettre leurs fichiers de démarchage téléphonique en conformité avec la liste Bloctel, doit en accroître l’efficacité. Il prévoit également une reconduction tacite de l’inscription à Bloctel.<br/>Le texte issu de la navette parlementaire interdit les démarchages téléphoniques en vue de travaux de rénovation. Cela permettra de lutter contre les entreprises peu scrupuleuses qui font miroiter les aides de l’État à ceux qu’elles appellent sans disposer de la compétence nécessaire pour cela.<br/>Je ne reviens pas sur les débats relatifs à la possibilité de démarcher des clients avec lesquels l’entreprise serait liée par des contrats en cours. Je veux simplement appeler votre attention sur la nécessité d’accélérer la rénovation énergétique des bâtiments, l’une des composantes de la relance écologique que nous appelons de nos vœux.<br/>Quant au relèvement du montant des amendes encourues par les professionnels méconnaissant leurs obligations, espérons qu’il sera dissuasif.<br/>Je reste convaincu, cependant, que la solution ne saurait relever uniquement de la loi. La lutte contre le démarchage abusif suppose un renforcement des contrôles opérés par la DGCCRF. Or cet objectif est compromis par la diminution constante de ses effectifs.<br/>Il en va de même du respect des jours, des horaires et de la fréquence auxquels la prospection est autorisée : comment y veiller sans réelles capacités de contrôle ?<br/>L’objet de la proposition de loi inclut aussi la lutte contre les appels frauduleux. Au vu de la recrudescence des arnaques téléphoniques, je me réjouis que des mesures soient prises pour combattre le phénomène. Mais, là encore, il nous faudra nous assurer de la bonne application des outils créés.<br/>Parce que nous partageons la volonté de lutter contre le démarchage téléphonique abusif et contre les appels frauduleux, les députés du groupe Libertés et territoires voteront ce texte qui comporte de véritables avancées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648258" ordre_absolu_seance="83" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154219" valeur="721486 721134. ">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen, rapporteur et M. Roland Lescure, président de la commission des affaires économiques</nom>
+              <id>721486</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648259" ordre_absolu_seance="84" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154220" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cependant, je le répète, il ne suffira pas à éviter les contournements et débordements actuels. Nous plaidons donc pour qu’il fasse l’objet d’une évaluation méticuleuse dans un avenir prochain. Le cas échéant, elle pourrait précéder le renforcement des dispositifs législatifs et des moyens, tant financiers qu’humains, destinés à faire respecter la loi et cesser ces pratiques. <italique>(Applaudissements sur les bancs des groupes LaREM, SOC et GDR. – M.</italique><italique> </italique><italique>Michel Zumkeller applaudit également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648260" ordre_absolu_seance="85" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-7232900" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154221" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mathilde Panot" id_acteur="PA720892" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723106">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648261" ordre_absolu_seance="86" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154222" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mathilde Panot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648262" ordre_absolu_seance="87" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154223" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« Du harcèlement, un fléau qui pourrit nos vies jusqu’à quatre fois par jour, parfois la nuit » : ma mère n’a pas de mots assez durs pour parler du démarchage téléphonique. « Tu sais, Mathilde, on nous dérange chez nous – quand ce n’est pas pour une cheminée, c’est pour des fenêtres ; quand ce n’est pas pour des fenêtres, c’est pour des brosses à dents électriques ; quand ce n’est pas pour des brosses à dents électriques, c’est pour des portes, des assurances, des chaussettes triple épaisseur. »<br/>Le propre du démarchage téléphonique est de vouloir vendre des choses inutiles à des gens qui n’en éprouvent pas le besoin. Il s’adresse à des personnes vulnérables, dont le téléphone fixe est parfois le seul moyen de communication et de contact avec l’extérieur ; à des personnes âgées, isolées, qui attendaient un coup de fil de leurs proches et qui, au lieu d’entendre une voix familière et rassurante, tombent sur une voix robotique ou pressée qui les somme d’acheter le dernier gadget à la mode – quand il ne s’agit pas tout simplement d’une arnaque.<br/>L’expression « démarchage téléphonique » que vous employez est un euphémisme : il s’agit, en réalité, du marché qui s’immisce dans tous les aspects de notre vie, jusqu’à notre domicile, jusqu’à notre intimité, jusqu’à des heures tardives. C’est le marché qui s’attaque à la tranquillité des citoyens, qui s’adresse à eux comme à des consommateurs éternels, à toute heure du jour ou de la nuit.<br/>Dans les coulisses, c’est une aberration sociale. Les centres d’appel délocalisés sont le théâtre de ce gâchis humain. On y emploie – bien souvent de l’autre côté de la Méditerranée – des milliers de salariés, payés une misère pour appeler frénétiquement des inconnus et leur vendre des choses à tout prix. On y croise des employés sous pression, à qui il est demandé d’appeler, de rappeler, d’appeler plus vite, qui sont insultés au téléphone, à qui l’on raccroche au nez tout au long de la journée. Contrôlés en permanence, ils vivent sous la dictature du chiffre : leur travail est traduit en statistiques, en performance, en reporting quotidien.<br/>Quel est le sens de ces emplois, alors que neuf Français sur dix se déclarent excédés par le démarchage téléphonique ? Les capacités et les qualifications de ces salariés seraient mieux utilisées ailleurs. Leur métier est l’archétype de l’emploi inutile, et même nuisible, qui produit du mal-être. Comme le dit David Graeber, « des populations entières […] passent toute leur vie professionnelle à effectuer des tâches dont elles pensent secrètement qu’elles n’ont pas vraiment lieu d’être. Cette situation provoque des dégâts moraux et spirituels profonds. C’est une cicatrice qui balafre notre âme collective ».<br/>« Mais, au moins, cela crée des emplois ! », me répondrez-vous – sans jamais vous interroger sur la vision du monde à laquelle ces emplois contribuent. Nous pouvons créer des millions d’emplois utiles en opérant une véritable bifurcation écologique et solidaire. Le démarchage téléphonique, lui, est une aberration non seulement sociale, mais aussi écologique. Vendre des choses inutiles n’a jamais été autant qu’aujourd’hui en décalage avec l’époque.<br/>Une activité nuisible, qui dérange les Français dans leur quotidien, pratiquée par des salariés bien souvent maltraités et coûteuse écologiquement : vous avez là toutes les raisons d’interdire une telle pratique. Pourtant, vous préférez accorder un sursis au marché. Avec vous, c’est l’incitation plutôt que l’interdiction. Nous y sommes habitués : vous nous aviez fait le même coup pendant l’examen de la loi relative à la lutte contre le gaspillage et à l’économie circulaire. Nous proposions alors d’inverser le principe en vigueur de sorte que seules les personnes ayant accolé une mention « Oui pub » sur leur boîte aux lettres puissent recevoir de la publicité. Mais vous aviez déjà préféré laisser la main aux entreprises – il est vrai qu’il serait dommage de priver les citoyens d’un après-midi de lecture de brochures publicitaires…<br/>La vérité, c’est que personne n’apprécie le démarchage téléphonique. Or, de ce point de vue, que change concrètement la proposition de loi ? Va-t-elle permettre à nos proches de cesser d’être harcelés par des appels commerciaux ? Non : ils recevront toujours des appels intempestifs, mais on leur présentera la démarche à entreprendre pour ne plus être sollicités. Les entreprises auront même une charte de déontologie et un code de bonnes pratiques. Et peu importe que les personnes harcelées ne soient peut-être pas à l’aise avec les démarches à suivre, qu’ils n’aient pas le courage de les effectuer ou que le dispositif Bloctel lui-même dysfonctionne. Vous protégez l’intérêt des centres d’appel et faites porter la responsabilité des démarches aux citoyens : quel progrès !<br/>Le démarchage téléphonique est l’archétype de la société du vide, où la sphère marchande engloutit tout sur son passage en se servant des moyens de communication qui nous relient à celles et ceux que nous aimons. Nous ne voulons pas de cette civilisation. Nous ne voulons pas de ces interactions désincarnées, inauthentiques, qui n’ont pour but que d’engraisser les entreprises. Personne ne souhaite être traité comme un moyen, comme un acheteur, plutôt que comme un être humain.<br/>On n’encadre pas par des mesurettes une pratique qui produit de la souffrance au travail et dont personne ne veut : on l’interdit. C’est le principe même de la politique comme mode d’organisation de notre vie collective.<br/>Le groupe de La France insoumise s’abstiendra donc lors du vote du texte, en attendant qu’un jour, peut-être, vous vous placiez du côté des citoyens plutôt que de celui des entreprises. <italique>(Mme</italique><italique> </italique><italique>Cendra Motin applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648273" ordre_absolu_seance="98" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154234" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame Motin applaudit : je ne comprends pas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648274" ordre_absolu_seance="99" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154235" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une abstention aussi courageuse vaut bien les vôtres…</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Delphine Batho" id_acteur="PA335999" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723480">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648275" ordre_absolu_seance="100" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154236" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Delphine Batho.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1648276" ordre_absolu_seance="101" id_acteur="PA335999" id_mandat="PM723480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154237" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie les agents de l’Assemblée nationale qui prennent soin de nettoyer nos micros entre chaque intervention.<br/>Stop au harcèlement téléphonique ! Car il faut appeler les choses par leur nom : quand on reçoit des dizaines d’appels par jour, quand le téléphone sonne à l’heure des repas, pendant la sieste, et même la nuit, il ne s’agit plus d’un simple « démarchage » : c’est la définition même du harcèlement moral.<br/>Je ne compte plus, dans les Deux-Sèvres, les relevés d’appels entrants apportés à ma permanence et les témoignages de ras-le-bol des habitants. Les choses s’étaient calmées pendant le confinement, mais le harcèlement a repris.<br/>Et il a des conséquences graves, sur la santé mentale, sur les relations familiales et sociales et sur la sécurité même des personnes. Permettez-moi d’insister sur ce dernier point. En effet, les gens ne décrochent plus, ils se privent de téléphone pour ne plus être enquiquinés en permanence : très concrètement, cela veut dire que des personnes âgées isolées deviennent injoignables ; à force de n’en plus pouvoir de la sonnerie du téléphone, elles coupent celui-ci et s’enferment dans un isolement total. Ce sont leurs proches, leur infirmière, leur aide à domicile, leur médecin qui ne peuvent plus les joindre.<br/>En République, chacun a droit à la tranquillité ; chacun a droit à une vie privée ; chacun a le droit de ne pas être dérangé de façon intempestive à la maison. L’intrusion consumériste à domicile fait de la lutte contre le harcèlement téléphonique un sujet emblématique de l’écologie du quotidien, de l’écologie pour toutes et pour tous que nous défendons.<br/>Oui, ça suffit ! Il faut rompre avec cette société consumériste sans règles, sans limites, qui traite les citoyennes et les citoyens comme des consommateurs vingt-quatre heures sur vingt-quatre, non-stop, même quand ils sont à la maison.<br/>Tout à l’heure, le Premier ministre a évoqué l’impuissance publique qui fait le lit du discrédit de la politique, et qui tiendrait à un problème d’exécution, mais bien souvent, ce problème provient d’un manque de volonté politique, de clarté, de cohérence et de courage dans les lois votées ici même. Le texte qui nous occupe en est un bon exemple : les gouvernements et les majorités successifs n’ont pas voulu résoudre le problème du harcèlement téléphonique. Il y a eu Bloctel – un échec –, et il y a maintenant cette proposition de loi. Un texte clair et ambitieux aurait pu être voté à l’unanimité, tant la question dépasse les clivages politiques !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648338" ordre_absolu_seance="108" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154103" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648339" ordre_absolu_seance="109" id_acteur="PA335999" id_mandat="PM723480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154104" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous nous proposez d’encadrer le démarchage téléphonique, mais ce que nous voulons, c’est y mettre fin – car nous croyons que le sens même de la politique est de régler les problèmes quotidiens des gens, et qu’il faut poser des limites à la société de surconsommation.<br/>Tout au long des débats parlementaires, nous avons proposé un principe clair : l’interdiction du démarchage, sauf contrat en cours et consentement exprès.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648341" ordre_absolu_seance="111" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154106" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648342" ordre_absolu_seance="112" id_acteur="PA335999" id_mandat="PM723480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154107" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Alors que, dans le cadre du RGPD, le principe du consentement s’applique aux emails et aux SMS, vous avez refusé de l’appliquer aux appels téléphoniques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648343" ordre_absolu_seance="113" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154108" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648344" ordre_absolu_seance="114" id_acteur="PA335999" id_mandat="PM723480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154109" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le consentement clair et explicite est pourtant la seule règle cohérente. Pourquoi ce qui vaut pour les emails et les SMS ne s’appliquerait-il pas au téléphone fixe, pourtant bien plus intrusif ? Aujourd’hui comme hier, les intérêts des centres d’appels sont manifestement plus forts que le droit à la tranquillité. Nous regrettons cette occasion manquée.<br/>Nous reconnaissons et saluons les avancées obtenues grâce au débat parlementaire, contre la fraude ou le démarchage téléphonique en matière de rénovation énergétique et d’énergies renouvelables, qui représente une part substantielle des plaintes et nuit à l’image d’un secteur essentiel à la transformation écologique. Néanmoins, nous regrettons que le texte s’arrête au milieu du gué, et qu’il n’applique pas la même règle à l’ensemble des secteurs. Si une disposition a le mérite de la clarté pour celui de la rénovation énergétique, pourquoi ne l’aurait-elle pas pour les autres ? C’est, hélas, une faille de ce texte. Il y a fort à parier que, dans les prochains mois, nous recevrons encore, dans nos circonscriptions, des témoignages d’habitants excédés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648346" ordre_absolu_seance="116" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154111" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648347" ordre_absolu_seance="117" id_acteur="PA335999" id_mandat="PM723480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154112" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est pourquoi le groupe Écologie démocratie solidarité s’abstiendra sur le texte final de la CMP. Aux citoyennes, aux citoyens et aux associations de consommateurs, nous disons que le combat contre le harcèlement téléphonique continue : notre groupe a déposé une proposition de loi pour la sobriété, qui comporte des dispositions relatives à lutte contre le consumérisme et contre la publicité, et qui introduit le principe du consentement en la matière.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laure de La Raudière" id_acteur="PA331567" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722644">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648348" ordre_absolu_seance="118" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154113" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laure de La Raudière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648349" ordre_absolu_seance="119" id_acteur="PA331567" id_mandat="PM722644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154114" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laure de La Raudière</nom>
+              <id>331567</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous pouvons nous réjouir que la lutte contre le démarchage téléphonique non désiré et abusif, souvent abordée dans cet hémicycle, fasse l’objet d’un consensus entre les deux assemblées, qui donne lieu ce soir à la discussion du texte de la commission mixte paritaire. Il faut saluer l’excellent travail réalisé par le sénateur André Reichardt et notre collègue Christophe Naegelen, un opiniâtre député des Vosges !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648350" ordre_absolu_seance="120" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM773184" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154115" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Certainement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648351" ordre_absolu_seance="121" id_acteur="PA331567" id_mandat="PM722644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154116" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laure de La Raudière</nom>
+              <id>331567</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes tous interpellés régulièrement par des concitoyens exaspérés par des appels intempestifs, à l’heure du déjeuner ou tard le soir, plusieurs fois par jour, et par des personnes, parfois âgées, en plein désarroi d’avoir accepté trop rapidement l’offre alléchante d’un vendeur peu précautionneux – alors qu’à ces heures de la journée, chacun aspire à être tranquille chez soi. Ces appels non souhaités sont devenus une source d’angoisse ou d’exaspération pour nos concitoyens.<br/>Pour les protéger de ces pratiques, nous avons créé la liste Pacitel, sous le mandat de Nicolas Sarkozy, puis l’avons transformée en Bloctel, sous le mandat de François Hollande. Pourtant, le démarchage de personnes inscrites sur ces listes continue, tandis que l’insatisfaction et l’exaspération des Français ne cessent d’augmenter – à tel point que certains ne branchent plus leur téléphone fixe, de peur d’être dérangés par un nouveau prestataire leur vendant une énième chaudière à 1 euro. Ce n’est pas une solution ! Le Sénat et l’Assemblée nationale ont donc eu la sagesse de s’accorder sur un texte visant à mieux encadrer le démarchage téléphonique. Ils ont aussi eu la sagesse de supprimer l’indicateur unique d’appel prévu par le projet initial pour les démarcheurs téléphoniques : c’était une mesure contre-productive,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648353" ordre_absolu_seance="123" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154118" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pas du tout !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648354" ordre_absolu_seance="124" id_acteur="PA331567" id_mandat="PM722644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154119" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laure de La Raudière</nom>
+              <id>331567</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…car elle n’aurait pu s’appliquer qu’aux centres d’appels situés en France. Elle obligeait aussi toutes les entreprises, y compris les PME, à utiliser ce numéro pour démarcher des clients. Pour quelque appel que ce soit, une petite entreprise n’aurait donc pas pu utiliser sa ligne téléphonique et aurait été contrainte de passer par un numéro spécifique, et sans doute par un prestataire extérieur.<br/>Nous saluons l’interdiction du démarchage téléphonique pour des travaux d’économie d’énergie ou pour l’équipement en énergies renouvelables. En la matière, toutefois, il faut sans doute aller encore plus loin en termes d’encadrement et inclure l’ensemble des dispositifs énergétiques et le démarchage à domicile. En février 2020, le médiateur de l’énergie a en effet lancé un appel aux pouvoirs publics après avoir constaté une hausse significative des litiges relatifs à des démarchages abusifs : il a été saisi 1 883 fois en 2019, contre 1 416 en 2018. Le démarchage téléphonique n’est pas seul en cause : de nombreuses personnes sont démarchées à domicile pour la pose de panneaux photovoltaïques ou le changement d’une chaudière ou de fenêtres ; elles se sentent arnaquées par des promesses mirobolantes, qui occasionnent de nombreux litiges.<br/>Nous nous réjouissons que la charge de la preuve soit désormais de la responsabilité du professionnel ayant tiré bénéfice du démarchage commercial. Les dispositions du texte en seront plus effectives, car les intervenants seront incités à respecter le code de bonne conduite que leur profession devra mettre en place une fois le texte adopté.<br/>Le groupe Agir ensemble soutient également les importantes dispositions visant à responsabiliser les opérateurs : suspension des numéros d’appel frauduleux, et interdiction pour les fraudeurs de se voir attribuer des nouveaux numéros de services à valeur ajoutée pendant un an.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648358" ordre_absolu_seance="128" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154123" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648359" ordre_absolu_seance="129" id_acteur="PA331567" id_mandat="PM722644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154124" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laure de La Raudière</nom>
+              <id>331567</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La CMP a abouti à un texte équilibré. Certes, il ne résoudra pas définitivement les problèmes liés au démarchage téléphonique et aux appels frauduleux, mais il a au moins l’intérêt de poser un cadre législatif contraignant et cohérent. Nous espérons vivement que les acteurs prendront conscience des objectifs déontologiques vers lesquels ils doivent tendre, et que, comme l’a indiqué Mme la ministre déléguée, la DGCCRF effectuera les contrôles nécessaires pour faire appliquer ce texte. Le groupe Agir ensemble le votera donc.<italique> (Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain Bruneel" id_acteur="PA720546" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722996">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648360" ordre_absolu_seance="130" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154125" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alain Bruneel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648361" ordre_absolu_seance="131" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154126" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Près de deux ans après son dépôt, en octobre 2018, sur le bureau de l’Assemblée nationale, la proposition de loi de notre collègue Christophe Naegelen, visant à encadrer le démarchage téléphonique et à lutter contre les appels frauduleux, a été adoptée par la commission mixte paritaire, réunie le 1<exposant>er</exposant> juillet.<br/>Les membres de la commission ont trouvé un accord sur un texte que nous jugeons insuffisant. Depuis la première lecture, en décembre  2018, les débats ont certes permis de réaliser quelques avancées : la création d’un indicatif téléphonique permettant d’identifier la nature commerciale des appels est assurément un progrès, qui soulagera ceux qui hésitent à décrocher leur téléphone de peur d’être victimes de démarchages intempestifs. Nous craignons toutefois que ces mesures ne suffisent pas à garantir la tranquillité des personnes âgées qui, de peur de tomber sur des démarcheurs insistants et indélicats, ne décrochent même plus lorsqu’il s’agit d’appels amicaux ou familiaux.<br/>Alors que les plaintes relatives aux appels téléphoniques émis par certaines entreprises sont en recrudescence depuis 2017, l’interdiction sectorielle des appels provenant des plateformes ou opérateurs spécialisés dans la vente d’équipements et la réalisation de travaux destinés au logement ou aux économies d’énergie est une avancée significative. Ainsi, selon le baromètre Énergie-Info, 61 % des Français déclaraient, en 2019, avoir été sollicités par un démarchage abusif visant à leur faire souscrire une offre commerciale. Une exception sera toutefois possible, puisque les opérateurs avec lesquels les consommateurs sont sous contrat pourront continuer de les contacter.<br/>L’obligation faite aux représentants et aux professionnels de décliner leur identité au début de la conversation va également dans le bon sens, de même que la fixation par décret des jours, des horaires et de la fréquence auxquels la prospection commerciale téléphonique non sollicitée pourra être effectuée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648365" ordre_absolu_seance="135" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM773184" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154130" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648366" ordre_absolu_seance="136" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154131" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il reste que le texte ne tire pas toutes les conséquences de l’échec du système Bloctel instauré par la loi Hamon de 2014.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648367" ordre_absolu_seance="137" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154132" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Un excellent ministre ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648368" ordre_absolu_seance="138" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154133" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une enquête conduite en 2017 par l’association UFC-Que choisir soulignait ainsi que 82 % des inscrits à Bloctel ne constataient pas de baisse du nombre des appels commerciaux, qui était parfois même en hausse. Ce constat impose non seulement de renforcer le régime des sanctions, comme le propose le texte, mais encore d’opter pour un régime de consentement préalable au démarchage téléphonique. Un tel régime est requis pour les courriels et les SMS : pourquoi ne le serait-il pas pour les appels téléphoniques, qui représentent une intrusion dans l’espace domestique et intime des individus ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648369" ordre_absolu_seance="139" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154134" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648370" ordre_absolu_seance="140" id_acteur="PA720546" id_mandat="PM722996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154135" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain Bruneel</nom>
+              <id>720546</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’argument qui nous est avancé tient à l’emploi, le secteur faisant travailler quelque 60 000 personnes en France. Il est curieux que ceux qui prétendent protéger l’emploi se soucient si peu de rapatrier la majorité des emplois de démarchage en France, et qu’ils fassent si peu de cas de la qualité de ces emplois en termes de rémunération et de conditions de travail. Il serait plus honnête de dire que le business de quelques-uns leur importe plus que le droit de ne pas être importuné à n’importe quelle heure à son domicile – intrusion insupportable, en particulier pour ceux qui ont des problèmes personnels ou qui traversent des événements douloureux.<br/>En janvier dernier, des associations de consommateurs, comme UFC-Que choisir, ont lancé une pétition pour demander, purement et simplement, la fin de tout démarchage téléphonique : elle a recueilli 450 000 signatures en quelques semaines et a nourri les principales avancées du présent texte. Nous pourrions donc considérer celui-ci comme un premier pas dans la lutte contre le fléau du démarchage, mais nous restons attachés au principe du consentement préalable, qui prévaut déjà en Allemagne et dans une dizaine de pays européens. Par conséquent, le groupe de la Gauche démocrate et républicaine s’abstiendra. <italique>(M.</italique><italique> </italique><italique>Pierre Dharréville applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648372" ordre_absolu_seance="142" id_acteur="PA642695" id_mandat="PM722602" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154137" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1648373" ordre_absolu_seance="143" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM773184" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154138" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est une occasion manquée, monsieur Bruneel !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Nicolas Démoulin" id_acteur="PA719830" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722774">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648374" ordre_absolu_seance="144" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Nicolas Démoulin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648375" ordre_absolu_seance="145" id_acteur="PA719830" id_mandat="PM722774" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Démoulin</nom>
+              <id>719830</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis le dépôt de la proposition de loi de notre collègue Christophe Naegelen, il y a dix-huit mois, un seul objectif nous guide : redonner aux Françaises et aux Français un peu de tranquillité, chez eux, dans leur quotidien, en luttant contre certains appels téléphoniques devenus insupportables. Pour ce faire, notre travail a consisté à déterminer avec précision la nature de ces appels. Or, en analysant les plaintes qui en découlaient, nous avons vite constaté que plus de 90 % d’entre eux étaient illicites, hors-la-loi. Interdire le démarchage téléphonique ne résoudrait donc en rien ce problème.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648376" ordre_absolu_seance="146" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-5063030" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154452" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648377" ordre_absolu_seance="147" id_acteur="PA719830" id_mandat="PM722774" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154453" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Démoulin</nom>
+              <id>719830</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il faut en revanche empêcher les appels illicites. Pour ce faire, il convient d’agir sur les sanctions, en les augmentant très fortement – M. le rapporteur a proposé de les multiplier par vingt-cinq, avec des amendes pouvant aller jusqu’à 375 000 euros pour une personne morale –, et en engageant la responsabilité des opérateurs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648378" ordre_absolu_seance="148" id_acteur="PA718962" id_mandat="PM722514" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154454" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marc Zulesi</nom>
+              <id>718962</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648379" ordre_absolu_seance="149" id_acteur="PA719830" id_mandat="PM722774" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2154455" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Démoulin</nom>
+              <id>719830</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est en effet à eux de bloquer, en amont, les appels illicites, la plupart de ces derniers étant émis depuis l’étranger par des robots. À cette fin, les contrôles des agents de la DGCCRF seront renforcés.<br/>Ce texte contient beaucoup d’autres avancées, notamment pour ce qui concerne la transparence des appels. Ainsi, nous renforçons considérablement le volume d’informations devant être obligatoirement communiquées au consommateur par le professionnel lors d’un démarchage. La transparence concernera en outre les sanctions, avec le recours au <italique>name and shame</italique>.<br/>Protéger le consommateur, c’est aussi intervenir sur les contrats obtenus de manière fallacieuse ou en tirant profit de la faiblesse de certains. À cet effet – et c’est heureux –, le texte prévoit la nullité automatique des contrats obtenus en violation des dispositions encadrant le démarchage téléphonique.<br/>Enfin, les députés de la majorité, ainsi que le Gouvernement – notamment Mme la ministre déléguée, Agnès Pannier-Runacher, Mme Emmanuelle Wargon et M. Julien Denormandie –, ont souhaité interdire le démarchage téléphonique dans le domaine de la rénovation énergétique. C’est en effet dans ce secteur que l’on compte le plus grand nombre de plaintes portant non seulement sur les appels téléphoniques, mais aussi sur la réalisation des travaux qui suivent ceux-ci. Cette mesure était indispensable pour la protection du consommateur comme pour la crédibilité des politiques en faveur de l’environnement.<br/>Comme M. le rapporteur l’a rappelé, de très nombreux collègues ont travaillé sur cette proposition de loi ; je tiens à saluer tout particulièrement le travail remarquable d’Annaïg Le Meur <italique>(Mme</italique><italique> </italique><italique>Cendra Motin applaudit)</italique>, ainsi que celui de tous les membres de la commission des affaires économiques. Ce texte a en outre été enrichi par nos collègues sénateurs. Je pense qu’il redonnera un peu de tranquillité aux Françaises et aux Français. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648384" ordre_absolu_seance="154" id_acteur="PA719318" id_mandat="PM722624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154460" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Anthoine</nom>
+              <id>719318</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Espérons-le !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648385" ordre_absolu_seance="155" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154461" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous verrons bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre Cordier" id_acteur="PA718850" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722478">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648386" ordre_absolu_seance="156" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154462" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Cordier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648387" ordre_absolu_seance="157" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154463" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis tenté de dire : « Allez, sans rancune ! » <italique>(Exclamations sur les bancs du groupe LaREM.)</italique> À l’occasion d’une niche parlementaire du groupe Les Républicains, j’ai en effet eu l’honneur de défendre en juin 2018 un texte concernant le démarchage téléphonique, et j’ai le souvenir, madame la ministre déléguée, que Mme Gény-Stephann, qui vous précédait ici-même à l’époque, était complètement à côté de la question durant les débats.<br/>Nous évoquons donc ce soir un sujet qui me tient à cœur. Nombre de collègues l’ont déjà dit : le démarchage téléphonique est un véritable fléau. L’échec du système Bloctel mis en place par la loi Hamon étant patent, il convenait de légiférer de nouveau. Jacques Mézard, ainsi que mon collègue député de Vittel, dans les Vosges, avaient eux aussi, à une autre époque, déposé une proposition de loi en la matière. S’il y a eu tant de propositions concernant le démarchage téléphonique intempestif, c’est qu’il s’agit tout simplement d’une question de bon sens et que nous sommes, dans nos circonscriptions, souvent saisis de ce problème par nos concitoyens.<br/>Je rappellerai quatre points qui figuraient dans ma proposition de loi. Il y avait d’abord, cela a été évoqué par notre collègue Bruneel, le fait que les consommateurs doivent donner leur accord au démarchage – ce qu’on appelle l’<italique>opt</italique><italique>-</italique><italique>in</italique>. Ce système fonctionne très bien dans nombre de pays, et pas seulement en Europe ; il consiste à permettre aux consommateurs de donner leur consentement au démarchage. Le deuxième point était la nécessité pour le démarcheur de décliner son identité et d’indiquer de quelle société il est membre. Le troisième, la création d’un indicateur unique apparaissant sur l’écran du téléphone lorsqu’une structure de démarchage appelle. Enfin, était soulevée la question des sanctions : on prévoyait dans la proposition de loi jusqu’à 300 000 euros d’amende.<br/>Rien de tout cela n’a été retenu. Dans le présent texte, vous vous contentez d’interdire le démarchage téléphonique pour la rénovation énergétique, sans même faire de différence entre la grande entreprise qui sollicite des centaines, voire des milliers de personnes pour vendre ses produits et la petite PMI-PME de votre circonscription qui recourt à son fichier clients, par exemple pour mettre en valeur un produit nouveau dans le domaine de l’isolation. Il est vraiment dommage de ne pas avoir fait de différence entre les deux cas de figure. Toutes ces petites entreprises ne pourront malheureusement plus solliciter nos concitoyens pour vendre leurs produits. Je croyais pourtant que la rénovation énergétique était une priorité du Gouvernement et que, dans le contexte actuel, il était nécessaire de soutenir les efforts que nos concitoyens doivent fournir en la matière pour servir la cause que nous défendons tous.<br/>J’avais également évoqué, à travers un amendement, la question des tranches horaires. En effet, tous nos concitoyens nous disent qu’ils sont souvent dérangés le matin de bonne heure, à l’heure du déjeuner ou tard le soir. C’est aussi cela qui, au quotidien, les excède. Vous nous renvoyez, madame la ministre déléguée, à un décret – comme si les députés n’étaient pas capables de définir eux-mêmes les horaires auxquels on peut appeler nos concitoyens ! Il est, là encore, dommage de ne pas avoir légiféré sur cette question.<br/>Certes, les sanctions seront plus dissuasives ; c’est un bon point – il faut le reconnaître. Je qualifierai néanmoins cette proposition de loi de texte de circonstance : une fois qu’on aura dépassé les questions liées à l’environnement et que la plupart de nos concitoyens auront protégé leur domicile et « mis le paquet », si vous me permettez l’expression, sur la rénovation énergétique, d’autres questions se poseront. Le démarchage concernera d’autres domaines et il faudra alors, chers collègues, légiférer de nouveau.<br/>Si les avancées que comporte cette proposition de loi sont déjà un début, je pense que nous aurons ultérieurement l’occasion d’améliorer le dispositif – peut-être au cours d’une autre législature, à l’occasion d’une alternance politique que j’espère de tout cœur ? <italique>(Rires.)</italique><br/>En attendant, le groupe Les Républicains s’abstiendra lors du vote sur ce texte. <italique>(Applaudissements sur les bancs du groupe LR.–</italique><italique> </italique><italique>«</italique><italique> </italique><italique>Oh</italique><italique> </italique><italique>! Quel dommage</italique><italique> </italique><italique>!</italique><italique> </italique><italique>» sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648395" ordre_absolu_seance="165" id_acteur="PA721134" id_mandat="PM723184" id_nomination_oe="-1" id_nomination_op="PM773184" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2154471" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite>président de la commission mixte paritaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vos collègues Les Républicains du Sénat se sont montrés plus ouverts !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Aude Luquet" id_acteur="PA721530" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723302">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648396" ordre_absolu_seance="166" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2154472" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aude Luquet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1648397" ordre_absolu_seance="167" id_acteur="PA721530" id_mandat="PM723302" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2154473" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aude Luquet</nom>
+              <id>721530</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme les précédents orateurs l’ont rappelé, nous avons tous été alertés, dans nos circonscriptions, par nos concitoyens à propos d’appels téléphoniques incessants, non voulus et agressifs leur proposant de nouvelles toitures, de nouvelles chaudières, une autre mutuelle, des abonnements téléphoniques ou encore des offres de télévision sur l’internet. Certaines entreprises n’hésitent pas à démarcher quotidiennement, de manière parfaitement illégale, près de neuf Français sur dix.<br/>Il s’agit donc d’une préoccupation majeure pour nos concitoyens, qui n’osent plus décrocher leur téléphone. Ce phénomène, devenu un véritable fléau, consiste en pratiques trompeuses ou proches du harcèlement téléphonique, qui s’apparentent à un abus de faiblesse.<br/>Plusieurs propositions de lois ont été adoptées à ce sujet. Elles provenaient de tous les groupes, tant ce sujet transcende les clivages politiques. À chaque fois, cependant, les entreprises se sont adaptées pour déjouer la loi et continuer d’abuser nos concitoyens, notamment les plus fragiles. Il faut donc mettre un terme à ces dérives en faisant cesser ces appels intempestifs.<br/>Durant ces deux dernières années, où nous avons tenté d’élaborer un cadre législatif plus efficace, nous avons expliqué que notre action doit reposer sur deux piliers : renforcer les obligations des entreprises et durcir les sanctions auxquelles elles s’exposent.<br/>S’agissant du premier volet, nous avons souhaité responsabiliser les professionnels donneurs d’ordres en leur imposant de respecter un code de bonnes pratiques, en engageant leur responsabilité pour les agissements de leurs sous-traitants, en restreignant le champ de l’exception contractuelle aux sollicitations relatives à un contrat en cours ou ayant un lien avec l’objet du contrat, en luttant contre la modification illégitime de l’identifiant de l’appelant et en déterminant les jours et les heures où peut avoir lieu la prospection commerciale par voie téléphonique non sollicitée.<br/>Le deuxième volet, concernant les sanctions, est tout aussi important. Nous pouvons empiler toutes les obligations que nous voulons : si les sanctions ne sont pas dissuasives, les résultats ne seront pas au rendez-vous. Le durcissement des sanctions a donc été le moteur des amendements de notre groupe du Mouvement démocrate et apparentés, qui ont été adoptés. Ces amendements ont harmonisé les amendes prévues pour les entreprises qui ne respecteraient pas les règles strictes du démarchage téléphonique et ont augmenté leur montant de manière non négligeable. Désormais, les contrevenants aux règles relatives à l’information du consommateur en cas de démarchage s’exposeront à une amende de 75 000 euros pour les personnes physiques et de 375 000 euros pour les entreprises, contre respectivement 3 000 et 15 000 euros auparavant.<br/>Nous avons ainsi abouti à un texte équilibré, qui permettra de lutter plus efficacement contre le démarchage téléphonique abusif et les appels frauduleux. Ce texte a le mérite de protéger les consommateurs contre la fraude et les abus sans pénaliser les acteurs respectueux de la loi. Nous forçons les entreprises à se mettre en conformité avec la législation, mais nous ne menaçons pas la vitalité économique de celles qui exercent leur activité en toute légalité. Le groupe du Mouvement démocrate et apparentés accueille donc favorablement cette proposition de loi, qui a bénéficié d’un large accord en commission mixte paritaire et qui tire les conclusions des précédentes tentatives normatives en la matière.<br/>Enfin, l’interdiction du démarchage téléphonique dans le secteur de la rénovation énergétique est pour nous une évidence : sans elle, le texte perdrait la majeure partie de son intérêt, car ce secteur concentre la plupart des appels téléphoniques incessants. Cette interdiction est largement réclamée par les associations de protection des consommateurs, car près d’un tiers des litiges liés à la rénovation énergétique sont la conséquence du démarchage téléphonique. Les arnaques à l’isolation à 1 euro sont en outre particulièrement dangereuses à l’heure où nous souhaitons inciter les Français à rénover leurs logements. Nous ne pouvons pas dire que nous voulons lutter contre les passoires thermiques et tolérer par ailleurs un démarchage frauduleux qui débouche sur des travaux coûteux et mal exécutés.<br/>Le groupe du Mouvement démocrate et apparentés votera, bien entendu, en faveur de cette proposition de loi, afin de stopper le démarchage téléphonique abusif qui empoisonne la vie d’un trop grand nombre de nos concitoyens. <italique>(Applaudissements sur les bancs des groupes MODEM et LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648406" ordre_absolu_seance="176" id_acteur="PA718850" id_mandat="PM722478" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155554" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Cordier</nom>
+              <id>718850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le texte ne stoppera le démarchage abusif que dans le secteur de la rénovation énergétique. Cela ne réglera rien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle Victory" id_acteur="PA340357" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM747435">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648407" ordre_absolu_seance="177" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2155555" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle Victory.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648408" ordre_absolu_seance="178" id_acteur="PA340357" id_mandat="PM747435" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2155556" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Victory</nom>
+              <id>340357</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes de nouveau réunis ce soir pour l’examen de cette proposition de loi, après son passage au Sénat. Comme l’avait souligné Dominique Potier lors de la première lecture en commission, nous pouvons nous féliciter d’avoir à nous prononcer sur un texte qui fait presque consensus, du moins entre les deux assemblées, et dont beaucoup de nos concitoyens attendent une réponse concrète à des soucis du quotidien, ces petits soucis qui, à force de se répéter, peuvent mal finir. On passe trop vite du démarchage au harcèlement, voire à des ventes forcées, qui touchent des personnes déjà démunies. Nous pourrions tous citer des exemples de proches, souvent seuls ou âgés, pour qui le démarchage téléphonique s’est soldé par une atteinte aux biens, par des situations dramatiques.<br/>Parmi les sollicitations de toutes sortes qui envahissent notre espace privé par l’intermédiaire d’internet, des réseaux sociaux et des mails continuels, le démarchage téléphonique est sûrement l’une des plus pénibles, des plus communes, contre laquelle aucune arme, jusqu’à présent, n’a été efficace. Vous l’avez tous dit : Bloctel n’a pas tenu ses promesses. Il fallait donc aller plus loin.<br/>Le travail accompli sur ce texte est un travail législatif concret, réalisé en bonne intelligence avec les différents groupes politiques et dans le sens de l’intérêt de tous. C’est l’utilité du Parlement que de prendre aussi à bras-le-corps ces difficultés du quotidien, moins anodines qu’elles ne le paraissent. Les appels frauduleux peuvent aller très loin, jusqu’au préjudice financier ou à l’atteinte à la personne.  <br/>Cette proposition de loi a donc pour but de répondre à une double détresse : celle des personnes appelées, surtout lorsqu’elles sont en situation de fragilité ou de faiblesse, et celle des appelants, salariés, le plus souvent parce qu’ils n’ont pas d’autre choix pour survivre, de centres d’appel pour lesquels le travail n’est qu’une valeur marchande et qui contribuent à le déshumaniser. Les appelants y sont constamment évalués sur leurs résultats et leurs prestations, ce qui rend souvent délicats le contact et une éventuelle critique. Il n’est jamais facile, en effet, d’expliquer à un salarié du bout du monde que ses appels vous importunent et de le sommer de vous laisser tranquille quand vous savez à quelle pression il est soumis. Pourtant, combien de fois avons-nous tout simplement raccroché, sachant que le fait même d’entamer le dialogue comportait des risques ? Et que dire de tous ceux qui, pour ne pas être importunés, ne décrochent plus leur téléphone ? En encadrant une pratique qui détruit le lien social et consiste finalement en un jeu de dupes, cette proposition de loi a peut-être une finalité plus large que nous ne l’aurions pensé.<br/>Les sénateurs ont intégré au texte de nouveaux articles qui, dans l’ensemble, permettent de mieux prendre en compte les personnes démarchées, voire harcelées. Renforçant tant l’information des consommateurs que les obligations déontologiques des professionnels, responsables de situations graves, ils donnent enfin un cadre législatif plus protecteur. Aggravant en outre, par rapport au texte initial, les sanctions et les amendes prononcées à l’encontre des contrevenants, ils établissent plus clairement la chaîne des responsabilités et définissent les obligations des différents acteurs qui en constituent les maillons. C’était important et attendu. Enfin, ils donnent à la DGCCRF davantage de moyens pour accomplir sa mission.  <br/>Le groupe Socialistes et apparentés reste donc favorable à cette proposition de loi. Monsieur le rapporteur, vous avez dit que nous aurions dû aller plus loin : nous vous le concédons volontiers, mais c’est un premier pas. Certains collègues auraient préféré interdire le démarchage téléphonique ; peut-être faudra-t-il en arriver là. En attendant, cette première étape permettra de travailler davantage.  <br/>Les amendements adoptés au Sénat ne suffiront pas à résoudre le problème, enraciné dans l’existence d’une économie qui se nourrit des faiblesses de chacun, mais ils enrichissent le texte de notre collègue ; ils vont dans le sens que nous souhaitons, c’est-à-dire celui qu’exige la tranquillité de nos concitoyens, dont le Premier ministre faisait mention aujourd’hui même dans sa déclaration de politique générale. Certes, la tranquillité ne se résume pas au bon usage des outils de communication que nous offrent les technologies actuelles, mais ce bon usage y contribue. Nous espérons donc voir rapidement en vigueur ce texte et ses décrets. Souhaitons que le travail législatif ne s’arrête pas là…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648415" ordre_absolu_seance="185" id_acteur="PA719388" id_mandat="PM722648" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155563" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annaïg Le Meur</nom>
+              <id>719388</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648416" ordre_absolu_seance="186" id_acteur="PA340357" id_mandat="PM747435" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2155564" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Victory</nom>
+              <id>340357</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et que soit ravivée en nous la conscience de nos devoirs de législateur. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648417" ordre_absolu_seance="187" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155565" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>La parole est à M. le rapporteur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648419" ordre_absolu_seance="189" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-7232900" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2155567" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Naegelen</nom>
+            <id>721486</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je remercie tous ceux qui se sont exprimés ce soir sur ce texte, dont nous parlons depuis deux ans – c’est long. Je remercie, bien entendu, Michel Zumkeller, ainsi que les autres membres de mon groupe parlementaire – Béatrice Descamps, Guy Bricout, Sophie Auconie, présents ce soir. Cette proposition de loi n’est pas celle d’un député, mais d’un groupe, et elle porte sur un sujet auquel nous sommes tous confrontés dans nos circonscriptions. Je remercie Nicolas Démoulin, avec qui j’ai beaucoup travaillé à ce texte ; Aude Luquet, pour tout ce qu’elle a dit ; Laure de La Raudière, pour avoir souligné l’opiniâtreté nécessaire – ce fut d’ailleurs un plaisir d’entamer ce texte avec elle. Je remercie également M. Castellani. Je tiens également à dire à Mme Panot qu’elle pourra rassurer sa maman qui, grâce à ce texte, sera beaucoup moins importunée.<br/>Madame Batho, nous avons régulièrement débattu de l’utilité de l’<italique>opt-in</italique>, l’option d’adhésion. La réalité, c’est qu’il ne servirait à rien de l’instaurer pour le démarchage téléphonique car, pour les SMS et pour les mails, elle n’est pas efficace.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648421" ordre_absolu_seance="191" id_acteur="PA335999" id_mandat="PM723480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155569" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Mais si !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648422" ordre_absolu_seance="192" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-7232900" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2155570" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Naegelen</nom>
+            <id>721486</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>De fait, elle n’empêche pas les spams d’arriver sur nos téléphones ou dans nos boîtes de réception. Mieux vaut encadrer le démarchage, être beaucoup plus sévères et créer des processus adéquats, de telle sorte que ces mesures soient efficaces et que nos concitoyens ne soient pas dérangés.<br/>Monsieur Cordier, sans rancune, en effet ! Il n’y a pas de rancune à avoir, mais peut-être faut-il, en revanche, rétablir quelques vérités car, à force de répéter des choses qui ne sont pas vraies, on a tendance à les croire. Cette proposition de loi n’est pas inspirée de la vôtre, car vous étiez partisan de l’<italique>opt-in</italique>, tandis que ce texte favorise l’<italique>opt-out</italique>. D’ailleurs, en adoptant votre position, nous aurions privé ces pauvres petits artisans ou indépendants de démarchage téléphonique. Ce n’est pas ce que fait ce texte. Si vous l’aviez lu correctement,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648424" ordre_absolu_seance="194" id_acteur="PA720586" id_mandat="PM723008" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155572" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Vatin</nom>
+            <id>720586</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Doucement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648425" ordre_absolu_seance="195" id_acteur="PA266808" id_mandat="PM723264" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155573" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Rolland</nom>
+            <id>266808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ce n’est pas très gentil, ça !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648426" ordre_absolu_seance="196" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-7232900" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2155574" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Naegelen</nom>
+            <id>721486</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>…vous sauriez qu’ils pourront démarcher par téléphone dans le cadre d’une relation contractuelle préexistante. Il est donc faux de dire qu’ils ne pourront plus démarcher les personnes figurant dans leur fichier clients : ils auront toujours le droit de les relancer. <italique>(Mme</italique><italique> </italique><italique>Cendra Motin applaudit.)</italique><br/>Tel que nous l’avons travaillé, l’<italique>opt-out</italique> sera l’instrument le plus efficace pour protéger nos concitoyens, mettre fin aux appels frauduleux et faire ce pour quoi nous avons été élus : améliorer le quotidien des Français. Un grand merci, donc, à tous ceux qui voteront en faveur de cette loi. Dommage pour ceux qui s’abstiendront. <italique>(Applaudissements sur les bancs des groupes LaREM, MODEM et UDI-I.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648428" ordre_absolu_seance="198" code_grammaire="VOTE_ENS_PPL_SA_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2155576" valeur=" (n[[o]] 3176)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648429" ordre_absolu_seance="199" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155577" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sur l’ensemble de la proposition de loi, je suis saisie par le groupe UDI et indépendants d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée.<br/>………………………………………………………………………………….<br/>Je vais maintenant mettre aux voix l’ensemble de la proposition de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648431" ordre_absolu_seance="201" code_grammaire="VOTE_ENS_PPL_SA_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2155579" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648432" ordre_absolu_seance="202" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="VOTE_ENS_PPL_SA_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155580" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        60<br/>        Nombre de suffrages exprimés                50<br/>        Majorité absolue                        26<br/>                Pour l’adoption                49<br/>                Contre                1</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1648433" ordre_absolu_seance="203" code_grammaire="VOTE_ENS_PPL_SA_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2155581" valeur="" decision="">
+        <orateurs/>
+        <texte><italique>(La proposition de loi est adoptée.)</italique><italique><br/>(MM.</italique> <italique>Christophe Naegelen, rapporteur, et Roland Lescure, président de la commission mixte paritaire, applaudissent.)</italique></texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="5" id_preparation="1648435" ordre_absolu_seance="205" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2155583" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1648436" ordre_absolu_seance="206" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2155584" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Discussion, en nouvelle lecture, du projet de loi de règlement du budget et d’approbation des comptes de l’année 2019 ;<br/> Discussion, sur le rapport de la commission mixte paritaire, de la proposition de loi permettant d’offrir des chèques-vacances aux personnels des secteurs sanitaire et médico-social.  <br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1648437" ordre_absolu_seance="207" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2155585" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="5" id_preparation="1648438" ordre_absolu_seance="208" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2155586" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N183</uid>
+  <metadonnees>
+    <dateSeance>20200319090000000</dateSeance>
+    <dateSeanceJour>jeudi 19 mars 2020</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>183</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200183</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Fri, 20 Mar 2020 12:15:33 GMT</horaireGmt>
+    <heureGeneration>2020-03-20T13:15:33.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2058056">Présidence de M. Richard Ferrand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2058060">
+          <intitule>Crise du Covid-19</intitule>
+        </titreStruct>
+        <para id_syceron="2058061">M. le président</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2058069">
+          <intitule>Questions au Gouvernement</intitule>
+        </titreStruct>
+        <para id_syceron="2058071">M. le président</para>
+        <sommaire2>
+          <titreStruct id_syceron="2058075">
+            <intitule>Mesures sanitaires pour lutter contre l’épidémie de Covid-19</intitule>
+          </titreStruct>
+          <para id_syceron="2058077">M. Damien Abad</para>
+          <para id_syceron="2058084">M. Édouard Philippe, Premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058092">
+            <intitule>Accompagnement des personnes sans abri face à l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058094">Mme Nathalie Elimas</para>
+          <para id_syceron="2058258">M. Julien Denormandie, ministre chargé de la ville et du logement</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058263">
+            <intitule>Lutte contre l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058265">Mme Valérie Rabault</para>
+          <para id_syceron="2058271">M. Édouard Philippe, Premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058281">
+            <intitule>Approvisionnement en masques de protection</intitule>
+          </titreStruct>
+          <para id_syceron="2058283">M. Christophe Naegelen</para>
+          <para id_syceron="2058289">M. Olivier Véran, ministre des solidarités et de la santé</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058292">
+            <intitule>Approvisionnement en masques de protection et coordination territoriale des soins</intitule>
+          </titreStruct>
+          <para id_syceron="2058294">M. Philippe Vigier</para>
+          <para id_syceron="2058299">M. Édouard Philippe, Premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058308">
+            <intitule>Suivi des mesures prises pour lutter contre le Covid-19</intitule>
+          </titreStruct>
+          <para id_syceron="2058310">Mme Mathilde Panot</para>
+          <para id_syceron="2058315">M. Olivier Véran, ministre des solidarités et de la santé</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058319">
+            <intitule>Situation de l’hôpital public face à l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058321">M. Pierre Dharréville</para>
+          <para id_syceron="2058325">M. Olivier Véran, ministre des solidarités et de la santé</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058330">
+            <intitule>Lutte contre l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058332">M. Gilles Le Gendre</para>
+          <para id_syceron="2058336">M. Édouard Philippe, Premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058342">
+            <intitule>Lutte contre l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058344">Mme Emmanuelle Ménard</para>
+          <para id_syceron="2058350">M. Olivier Véran, ministre des solidarités et de la santé</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058355">
+            <intitule>Approvisionnement en masques de protection</intitule>
+          </titreStruct>
+          <para id_syceron="2058357">Mme Christine Pires Beaune</para>
+          <para id_syceron="2058364">M. Olivier Véran, ministre des solidarités et de la santé</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058371">
+            <intitule>Mesures économiques de lutte contre la crise liée au Covid-19</intitule>
+          </titreStruct>
+          <para id_syceron="2058373">Mme Annie Genevard</para>
+          <para id_syceron="2058378">Mme Agnès Pannier-Runacher, secrétaire d’État auprès du ministre de l’économie et des finances</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058382">
+            <intitule>Approvisionnement des petits commerces pendant l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058384">M. Bruno Millienne</para>
+          <para id_syceron="2058388">Mme Agnès Pannier-Runacher, secrétaire d’État auprès du ministre de l’économie et des finances</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058425">
+            <intitule>Mesures économiques pour lutter contre la crise liée au Covid-19</intitule>
+          </titreStruct>
+          <para id_syceron="2058427">Mme Patricia Lemoine</para>
+          <para id_syceron="2058432">Mme Agnès Pannier-Runacher, secrétaire d’État auprès du ministre de l’économie et des finances</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058435">
+            <intitule>Lutte contre l’épidémie au sein des entreprises</intitule>
+          </titreStruct>
+          <para id_syceron="2058437">M. Alexis Corbière</para>
+          <para id_syceron="2058442">Mme Muriel Pénicaud, ministre du travail</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058446">
+            <intitule>Mesures économiques pour la lutte liée au Covid-19 <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <para id_syceron="2058448">Mme Agnès Pannier-Runacher, secrétaire d’État auprès du ministre de l’économie et des finances</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058449">
+            <intitule>Lutte contre l’épidémie au sein des entreprises</intitule>
+          </titreStruct>
+          <para id_syceron="2058451">M. Fabien Roussel</para>
+          <para id_syceron="2058456">Mme Muriel Pénicaud, ministre du travail</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058397">
+            <intitule>Accompagnement des associations face à l’épidémie</intitule>
+          </titreStruct>
+          <para id_syceron="2058399">Mme Michèle Peyron</para>
+          <para id_syceron="2058404">M. Gabriel Attal, secrétaire d’État auprès du ministre de l’éducation nationale et de la jeunesse</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2058407">
+            <intitule>Mobilisation de l’éducation nationale pour les enfants du personnel soignant</intitule>
+          </titreStruct>
+          <para id_syceron="2058409">M. Charles de Courson</para>
+          <para id_syceron="2058412">M. Jean-Michel Blanquer, ministre de l’éducation nationale et de la jeunesse</para>
+          <para id_syceron="2058416">M. Charles de Courson</para>
+          <para id_syceron="2058418">M. Jean-Michel Blanquer, ministre de l’éducation nationale et de la jeunesse</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2058421">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du jeudi 19 mars 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1591814" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2058056" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Richard Ferrand</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1591815" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058057" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1591816" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2058058" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à neuf heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1591818" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2058060" valeur="">
+      <orateurs/>
+      <texte>Crise du Covid-19</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1591819" ordre_absolu_seance="6" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2058061" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte><italique>(Mmes</italique><italique> </italique><italique>et</italique><italique> </italique><italique>MM.</italique><italique> </italique><italique>les députés et les membres du Gouvernement se lèvent.) </italique>Nous nous réunissons aujourd’hui dans un contexte singulier puisque notre pays vit une crise sanitaire d’une ampleur exceptionnelle dont les répercussions humaines, civiques, économiques et sociales sont encore difficiles à mesurer.<br/>Permettez-moi, au nom de la représentation nationale, d’exprimer notre compassion aux familles en deuil et aux malades qui souffrent de l’épidémie, et notre profonde reconnaissance à tous ceux qui œuvrent au quotidien. Je pense aux soignants et aux professionnels de santé et de secours mais aussi à tous les fonctionnaires et citoyens mobilisés et engagés qui assistent, souvent dans l’inquiétude et parfois dans la détresse, nos compatriotes en souffrance.<br/>J’appelle tous nos concitoyens à respecter strictement les recommandations qui nous sont données pour nous protéger collectivement et individuellement. J’adresse en votre nom une pensée particulière aux collègues, personnels et collaborateurs de notre assemblée actuellement convalescents, et je leur souhaite de se rétablir dans les meilleures conditions et les délais les plus brefs.<br/>Avec le double devoir de respecter, ici, scrupuleusement, les consignes des autorités scientifiques et sanitaires, et de faire vivre notre démocratie, nous sommes réunis dans un format réduit en nombre de participants pour contrôler l’action du Gouvernement et des pouvoirs publics. Je salue nos collègues qui suivent nos travaux à distance.<br/>Dès la fin de cette séance, la commission concernée par le premier des textes urgents transmis par le Gouvernement, commencera son travail. Ces textes ont pour vocation d’aider concrètement nos compatriotes face aux difficultés de toutes sortes. Puis viendra le débat dans l’hémicycle, aujourd’hui sur le projet de loi de finances rectificative, et demain sur les projets de loi portant sur les mesures d’urgence à prendre concernant l’organisation des élections municipales et les enjeux économiques et sociaux.<br/>Je tiens à remercier les présidents de tous les groupes politiques, l’ensemble des députés, également nos collègues non inscrits, qui ont tous consenti, avec un sens élevé des responsabilités envers notre République, que se tiennent nos travaux dans des modalités inhabituelles, liées aux circonstances exceptionnelles que connaît notre pays.<br/>Plus que jamais, l’Assemblée nationale est le cœur battant de notre République et de notre démocratie, dont nous garantissons ici les valeurs et les principes.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591827" ordre_absolu_seance="14" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2058069" valeur="">
+      <orateurs/>
+      <texte>Questions au Gouvernement</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591828" ordre_absolu_seance="15" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058070" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle les questions au Gouvernement.<br/>La conférence des présidents a décidé d’une organisation spécifique de notre séance de questions : les membres du Gouvernement sont présents en nombre restreint ; il a été demandé de limiter le nombre de représentants par groupe – outre le président ou son délégué, participent les seuls auteurs des questions.<br/>Rappelons que deux questions seront posées par chaque groupe et une par un député non inscrit. Afin de favoriser la cohérence du débat, les questions relatives au même thème ont été regroupées. Les temps de parole sont habituels : deux minutes par question et par réponse, réplique et contre-réplique éventuellement comprises.<br/>J’invite les orateurs à ne pas poser les mains sur le flexible du micro, celui-ci sera nettoyé après chaque usage par un huissier. Chaque micro n’aura qu’un utilisateur au cours de cette séance. Je vous invite aussi à rester à la même place durant toute la séance. Il conviendra naturellement de respecter les mesures barrières, en particulier l’échelonnement des entrées et sorties. Je vous indique enfin que l’hémicycle a été désinfecté et qu’il sera nettoyé avant et après chaque séance.<br/>Je vous remercie de votre compréhension et de votre concours, compte tenu de ces circonstances très exceptionnelles. Nous commençons notre séance par des questions générales sur la crise sanitaire du Covid-19.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591833" ordre_absolu_seance="20" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058075" valeur="">
+      <orateurs/>
+      <texte>Mesures sanitaires pour lutter contre l’épidémie de Covid-19</texte>
+      <interExtraction nom_orateur="M. Damien Abad" id_acteur="PA605036" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722444">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591834" ordre_absolu_seance="21" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058076" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Damien Abad.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591835" ordre_absolu_seance="22" id_acteur="PA605036" id_mandat="PM722444" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058077" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Damien Abad</nom>
+              <id>605036</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les mots d’union nationale claquent comme un drapeau, comme celui qu’arborait ce matin l’entrée de l’Assemblée nationale, comme celui qui flotte dans chacune de nos communes, comme celui qui anime le cœur des Français en ces temps troublés.<br/>Confinés mais pas résignés, les Français luttent en restant chez eux. Ce même esprit de responsabilité et de sens du devoir doit nous animer, nous les députés de la nation et les porte-drapeau de cette France hospitalière qui mérite notre reconnaissance, notre soutien et notre mobilisation pleine et entière.<br/>Si nous sommes là aujourd’hui, c’est pour sauver des vies et des emplois. Pour sauver des vies, monsieur le Premier ministre, il faut relever le défi sanitaire d’une France médicale en manque de moyens – masques, lits de réanimation et médicaments – mais aussi d’explications sur les retards de livraison et de vérité. Faire la vérité sur ces éléments, comme le fait très bien, chaque jour, le directeur général ou le ministre de la santé sur la situation sanitaire de notre pays, ce n’est pas polémiquer. Notre devoir de gouvernants est d’être transparents.<br/>Le Gouvernement pourrait-il envisager un point journalier du haut fonctionnaire de défense du ministère de l’intérieur ou du ministre lui-même, en lien avec nos 127 préfets, afin de présenter un état des lieux précis de la production, de l’approvisionnement et de la livraison du matériel médical, notamment des masques ?<br/>Ces masques manquent également à nos policiers, nos pompiers, nos services d’aide à domicile ou encore aux personnels de nos établissements d’hébergement pour personnes âgées dépendantes – EHPAD. Responsabilité et vérité, voilà ce que nous devons aux Français.<br/>Monsieur le Premier ministre, devant une épidémie d’une telle ampleur, il n’y a pas seulement une majorité et une opposition, il y a surtout une Assemblée nationale unie et rassemblée, tout simplement, parce que face au coronavirus, nous ne gagnerons que collectivement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Édouard Philippe" qualite="Premier ministre" id_acteur="PA345619" id_nomination_oe="PM725692" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591841" ordre_absolu_seance="28" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058083" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le Premier ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591842" ordre_absolu_seance="29" id_acteur="PA345619" id_mandat="-1" id_nomination_oe="PM725692" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058084" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Édouard Philippe</nom>
+              <id>345619</id>
+              <qualite>Premier ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président Abad, je voudrais m’inscrire dans l’esprit de votre intervention, de votre appel à l’unité nationale et au sens des responsabilités, alors que nous sommes confrontés à une crise sanitaire d’une ampleur inégalée dont tout indique que ses conséquences seront économiques, financières et sociales. Quelles que soient nos responsabilités et nos convictions – qui peuvent diverger –, nous devons nous rassembler autour d’une idée simple : il faut faire primer l’intérêt général, l’intérêt supérieur du pays, et assurer le service de nos concitoyens.<br/>Vous invitez le Gouvernement et toutes les autorités administratives et politiques à s’astreindre à un exercice, un effort, une discipline de responsabilité, de vérité et de transparence. J’adhère à cette logique. C’est ce qui conduit le directeur général de la santé et le ministre des solidarités et de la santé à s’exprimer tous les jours depuis le début de la crise sanitaire pour faire le point sur l’évolution de la situation sanitaire, le nombre de malades et de décès.<br/>C’est aussi pour cela que nous avons décidé de compléter le dispositif. La cellule interministérielle de crise est gérée au ministère des solidarités et de la santé, chargé de piloter toute la réponse sanitaire. En complément de cette<italique/>task force, la cellule interministérielle de crise sera activée au ministère de l’intérieur pour assurer la communication concernant tous les aspects non sanitaires. Comme vous le souhaitez, une communication y sera réalisée tous les soirs, au moment même où intervient le directeur général de la santé : le directeur général de la sécurité civile pourra s’exprimer sur les remontées des préfectures, sur la situation sur le terrain concernant tous les aspects non sanitaires à prendre en compte dans la gestion de la crise.<br/>J’en viens à la mobilisation de l’ensemble de notre système de soins, que vous aviez évidemment à l’esprit même si vous avez insisté sur l’hôpital. Si les personnels hospitaliers sont en première ligne, le système libéral – la médecine de ville et de campagne – est directement concerné. Tout notre système de santé est mobilisé, suivant une stratégie présentée de façon très simple et très claire par le ministre des solidarités et de la santé. Nous essayons d’aplatir au maximum la courbe pour que le pic épidémique ne soit jamais trop supérieur à notre capacité totale de traitement des cas les plus sévères de cette maladie.<br/>Pour ce faire, nous avons d’abord augmenté la capacité d’accueil des cas les plus sévères : équipement de nouveaux lits ; transformation de lits pour un usage de réanimation ou de soins intensifs ; déprogrammation d’opérations qui pouvaient entraîner des soins intensifs ou de réanimation.<br/>À présent, nous commençons à déplacer les malades qui se trouvent dans des zones très sollicitées vers des territoires où il reste des places disponibles, en respectant évidemment les conditions de sûreté. C’est ainsi que nous avons utilisé les forces armées pour transférer à Toulon des malades hospitalisés dans la région Grand Est.<br/>S’agissant des masques, j’aurai certainement l’occasion d’y revenir en réponse à d’autres questions. Je peux d’ores et déjà vous répondre que notre objectif est de faire en sorte que cette ressource rare soit bien utilisée, ce qui n’est pas facile, en fixant une doctrine et en veillant à ce que chacun la respecte. Nous cherchons aussi à garantir les sources d’approvisionnement – nationales et internationales – de ces masques. Pendant très longtemps, nous nous sommes reposés sur des approvisionnements venant principalement de Chine, un pays qui a utilisé une bonne part de sa production récente pour ses propres besoins. À cet égard, il y aura des choses à corriger. Nous sommes en train de garantir la distribution de masques dans les officines, les hôpitaux, et les EHPAD – le ministre des solidarités et de la santé pourra y revenir.<br/>Sans entrer dans les détails, je peux vous dire que la mobilisation est complète. La difficulté est considérable car le nombre de cas sévères est important. Dans plus de 80 % des cas, le Covid-19 se déclare sous des formes désagréables mais bénignes. Ce qui est préoccupant, c’est le nombre de cas sévères – environ 10 % du total – qui nécessitent une hospitalisation, voire une réanimation. C’est pourquoi nous devons le dire, le redire et le répéter : les mesures de confinement et les gestes barrières sont les éléments les plus efficaces pour ralentir la circulation du virus et ainsi limiter le nombre de cas sévères.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591850" ordre_absolu_seance="37" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058092" valeur="">
+      <orateurs/>
+      <texte>Accompagnement des personnes sans abri face à l’épidémie</texte>
+      <interExtraction nom_orateur="Mme Nathalie Elimas" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723114">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591851" ordre_absolu_seance="38" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058093" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Nathalie Elimas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1591852" ordre_absolu_seance="39" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058094" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le ministre chargé de la ville et du logement, l’épidémie à laquelle notre pays est confronté a conduit le Gouvernement à réagir de manière forte et courageuse, en prenant des mesures de confinement pour freiner la propagation du virus. En cet instant, j’ai une pensée particulière pour nos soignants qui se battent sans relâche, pour nos aînés, pour les malades et pour tous ceux dont le travail est affecté.<br/>Mais je pense également aux personnes vivant sans domicile fixe – SDF – qui vont subir l’épidémie de plein fouet : 250 000 dont 3 500 à Paris. Pour ces personnes déjà malades et dont il faut majorer l’âge, les mesures de confinement seront particulièrement compliquées à mettre en place, tout comme les gestes barrières.<br/>Les accueils de jour sont contraints de fermer alors que les centres d’hébergement sont déjà saturés. Le matériel de protection manque malgré le risque accru de contamination, et les bénévoles et personnels des associations ne peuvent actuellement bénéficier de système de garde d’enfants. Si certaines initiatives de collectivités locales sont utiles <exposant>__</exposant> je pense à la mise à disposition de gymnases <exposant>__</exposant>, elles sont, bien entendu, insuffisamment efficaces et humaines. L’enjeu, ici, est double : la santé et la salubrité publique.<br/>Dans ce contexte particulièrement tendu, je salue le travail formidable des bénévoles qui font face à de grandes difficultés, en l’absence de personnel disponible, pour maintenir les activités de première ligne <exposant>__</exposant> distributions alimentaires, maraudes.<br/>Il est de notre devoir de protéger nos concitoyens, et de notre responsabilité de ne laisser personne au bord de la route. Quelles mesures d’urgence seront décidées afin de poursuivre l’assistance aux plus vulnérables ? Quelles solutions pourront être instaurées, vite, pour accompagner les bénévoles des associations, maillons essentiels de notre chaîne de solidarité ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Julien Denormandie" qualite="ministre chargé de la ville et du logement" id_acteur="PA729332" id_nomination_oe="PM759804" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591758" ordre_absolu_seance="4" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058257" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre chargé de la ville et du logement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591759" ordre_absolu_seance="5" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM759804" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058258" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <id>729332</id>
+              <qualite>ministre chargé de la ville et du logement</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Oui, il est de notre devoir de protéger les plus fragiles. Oui, il est de notre responsabilité de tout faire pour cela, notamment vis-à-vis de ceux qui sont à la rue. La mobilisation de mon ministère, de l’administration, qui accomplit un travail remarquable, des collectivités, mais aussi des associations, que je salue, est totale. Elle vise d’abord à mettre à l’abri celles et ceux qui vivent encore dehors. C’est évidemment compliqué, car cela nécessite des dispositifs particuliers : nous privilégions notamment les chambres individuelles et les hôtels, avec lesquels nous travaillons beaucoup pour libérer le plus grand nombre possible de chambres. Les premières ont ouvert dès hier soir ; à Paris, 170 places seront ouvertes avant la fin de la semaine, et nous allons continuer ainsi jour après jour.<br/>La seconde priorité est de protéger les sans-abri qui auraient malheureusement été infectés par le Covid-19, mais qui n’auraient pas besoin d’aller à l’hôpital car leurs symptômes ne seraient pas graves. Pour eux, nous ouvrons dès à présent des centres dédiés, qui offriront avant la fin de la semaine 150 places à Paris et dans ses environs, 80 sites ayant par ailleurs été identifiés à cette fin partout sur le territoire national.<br/>Tout cela nécessite des moyens. Une enveloppe de 50 millions d’euros est déjà mise à disposition et, s’il le faut, nous irons plus loin.<br/>Tout cela nécessite aussi une organisation parfaite. C’est ce à quoi nous œuvrons avec les associations, dont je veux saluer le courage, la sérénité et le professionnalisme alors qu’elles font face à des défis, notamment touchant les personnels, que nous les aidons à relever dans le cadre du pilotage dédié que nous avons instauré.<br/>Merci de votre mobilisation ; nous devons continuer : la solidarité ne doit jamais être une victime du Covid-19.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591764" ordre_absolu_seance="10" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058263" valeur="">
+      <orateurs/>
+      <texte>Lutte contre l’épidémie</texte>
+      <interExtraction nom_orateur="Mme Valérie Rabault" id_acteur="PA609590" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723326">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591765" ordre_absolu_seance="11" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058264" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Valérie Rabault.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591766" ordre_absolu_seance="12" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058265" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le Premier ministre, je vous remercie, ainsi que le Gouvernement, d’avoir pris la décision courageuse du confinement. Bien entendu, vous pourrez compter sur notre soutien, au nom de l’unité que nous appelons de nos vœux.<br/>Parmi les questions que pose l’actuelle crise sanitaire, j’en retiendrai trois.<br/>La première concerne les masques. À l’heure actuelle, plusieurs millions de Français <exposant>__</exposant> caissiers, postiers, sapeurs-pompiers et, bien sûr, tous les personnels médicaux <exposant>__</exposant> continuent de travailler sans masque. Ils partent au travail pleins d’angoisse pour eux-mêmes et pour leur famille. Il est donc essentiel que vous nous indiquiez où en est la production de masques. Vous avez pris le 13 mars un décret réquisitionnant les stocks ; je souhaiterais qu’il soit complété par la réquisition des usines de production, y compris de celles qui n’ont pas l’habitude de produire des masques mais sauraient le faire.<br/>Deuxièmement, les pays qui, pour l’heure, ont le mieux réussi à endiguer l’épidémie sont ceux qui ont massivement recouru aux tests sur leur territoire national. Pourriez-vous nous préciser de nouveau la doctrine du Gouvernement à ce sujet ? Vu la progression de l’épidémie, sera-t-il oui ou non possible de faire pratiquer un plus grand nombre de tests afin de la circonscrire par endroits ?<br/>Enfin, si l’objectif premier est aujourd’hui de sauver des vies, j’appelle néanmoins votre attention sur une question économique : vous avez proposé un report de deux mois des cotisations des restaurateurs et de l’ensemble des indépendants, de tous ceux qui n’ont plus aucune activité, donc plus aucune rentrée d’argent. Je souhaiterais que ce report soit transformé en annulation pour deux mois : il paraît très difficile de demander à ces travailleurs indépendants de payer des cotisations sur de l’argent qu’ils n’auront pas.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Édouard Philippe" qualite="Premier ministre" id_acteur="PA345619" id_nomination_oe="PM725692" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591771" ordre_absolu_seance="17" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058270" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le Premier ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1591772" ordre_absolu_seance="18" id_acteur="PA345619" id_mandat="-1" id_nomination_oe="PM725692" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058271" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Édouard Philippe</nom>
+              <id>345619</id>
+              <qualite>Premier ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En ce qui concerne les masques, j’ai commencé d’en parler en répondant à la question de M. Damien Abad, et le ministre des solidarités et de la santé complétera ma réponse.<br/>Nous avons en effet pris un décret de réquisition des masques, dont il existe en France quatre producteurs, ce qui, soit dit en passant, place notre pays dans une situation plus favorable que celle de plusieurs de ses voisins européens qui n’en comptent aucun. Nous avons ainsi décidé de réquisitionner la totalité de la production et des stocks. Ce faisant, nous avons accru le nombre de masques dont nous disposons nous-mêmes en stock : ce nombre, qui avait décru avec l’utilisation des stocks d’État pour tomber à quelque 89 millions, est remonté au-dessus de 100 millions grâce à la réquisition. Le fait que la situation change tous les jours alors que l’on a tendance à figer notre parole peut donner une impression d’incohérence. Mais nous avons bel et bien accru le stock après les réquisitions.<br/>Nous procédons aux distributions selon une doctrine d’usage que je n’ai pas décidée moi-même : ce sont évidemment les autorités de santé qui la déterminent compte tenu de la disponibilité et de la demande. Voici ce que j’ai compris de ce qu’elles disent : le port du masque par la population générale n’est pas recommandé, d’abord parce qu’il est inutile quand, en se promenant dans la rue, on respecte les gestes barrières et les distances de sécurité, ensuite parce qu’il prive de masques ceux qui en ont besoin du fait de leur activité <exposant>__</exposant> les soignants, bien entendu, et tous ceux qui sont directement en contact avec les malades <exposant>__</exposant> ou les malades déclarés, qui doivent les porter pour limiter la propagation du virus. Il faut donc réserver les masques disponibles à ces catégories de population.<br/>Voilà ce que j’appelle la doctrine. Il importe de l’expliquer, de la faire comprendre, et de la respecter. Vous avez vu comme moi certains de nos concitoyens, par inquiétude <exposant>__</exposant> je ne leur jetterai certainement pas la pierre <exposant>__</exposant>, porter un masque alors qu’ils ne sont pas au contact de malades, ni malades eux-mêmes, et qu’ils ne font pas non plus partie des personnels soignants. C’est le genre de comportement qui complique l’affectation des moyens nécessaires à ceux qui en ont le plus besoin.<br/>Nous sommes en train de procéder à la distribution des stocks de masques aux hôpitaux, aux EHPAD et aux pharmacies d’officine, afin que les médecins libéraux, les infirmières et l’ensemble de ceux qui ont vocation à en disposer puissent y avoir accès. Ces opérations sont techniquement délicates, d’abord parce que la réquisition a compliqué la logistique, mais aussi du fait de comportements qui ne sont pas majoritaires, mais qu’il serait irréaliste d’ignorer, et qui ne sont pas à la hauteur des enjeux. Je songe à la disparition de stocks de masques dans certains hôpitaux ou là où ils étaient entreposés : ils ne disparaissent pas tout seuls, mais à la suite d’un vol de précaution ou pour faire l’objet de trafics sur un marché noir. Ces comportements sont inacceptables : ils mettent en danger les soignants et ils minent la cohérence et la confiance nationales. Il faut donc les réprimer et, croyez-moi, nous le ferons.<br/>Quant à la question des tests, nous avons, dans ce domaine également, élaboré une doctrine. Au stade 1 de l’épidémie, lorsqu’il s’agissait d’éviter l’introduction du virus sur le territoire, nous avons beaucoup testé ; ce nombre élevé de tests en début d’épidémie a permis de circonscrire assez efficacement les premières apparitions du virus, ce qui nous a fait gagner un temps nécessaire. C’est ce qui s’est passé dans les Alpes ou au début de l’apparition d’un cluster dans le Morbihan.<br/>Désormais, la doctrine consiste à tester les personnes qui présentent des symptômes de l’infection au Covid-19 et qui sont hospitalisées, les personnels soignants qui présentent des symptômes, ainsi que les deux premières personnes à présenter des symptômes au sein d’un EHPAD, de manière à pouvoir prendre très rapidement des mesures de confinement lorsque c’est nécessaire. Bref, au stade 3, la doctrine d’utilisation des tests n’a pu qu’évoluer : il ne servirait désormais à rien de tester tout le monde, préventivement ou en fonction des symptômes, car cela emboliserait nos capacités d’analyse et ne nous permettrait donc pas de réagir assez rapidement là où c’est absolument nécessaire.<br/>Nous avons très vite mis au point un test <exposant>__</exposant> je le précise car cela n’a pas été le cas partout. Mais, pour l’analyser, il faut des réactifs, donc une chaîne logistique efficace pour pouvoir continuer à les produire. Or, du fait du confinement, plusieurs lignes logistiques sont interrompues ou compliquées.<br/>C’est l’un des enjeux auxquels nous allons être confrontés au cours des jours et des semaines à venir : faire en sorte que les consignes de confinement soient strictement respectées tout en permettant la poursuite de l’activité nécessaire au pays, qui ne se réduit pas à l’activité stratégique. Ainsi, l’arrêt d’une usine qui fabrique des emballages, dont l’activité pourrait sembler non stratégique, peut empêcher la distribution des produits agro-alimentaires, des masques ou des médicaments, ce qui crée une situation matérielle très dangereuse. Un problème de ce type, désormais identifié et résolu, a récemment affecté un centre de production de réactifs. Nous devons donc conserver, même en période de confinement, le minimum d’activité économique nécessaire à la vie du pays et à la préparation du rebond.<br/>J’en viens précisément à votre dernière question, relative à l’économie. Les mesures d’urgence que nous allons présenter cet après-midi au Sénat et demain à l’Assemblée nationale sont massives. Vous nous demandez d’aller au-delà ; la question se posera nécessairement, mais commençons par nous concentrer sur ce que nous proposons actuellement, qui doit permettre à chaque entreprise de tenir en cette période de déstabilisation complète, de manière à pouvoir rebondir ensuite. Telle est notre logique ; elle va nécessiter beaucoup de moyens et un grand engagement de l’État, de toute la nation, des régions, qui ont annoncé qu’elles nous accompagneraient sur cette voie, et des organisations syndicales et patronales, que nous avons consultées et qui s’y sont elles aussi engagées. La situation sera tendue, elle sera difficile, mais j’ai bon espoir que, grâce à la mobilisation générale, nous puissions y faire face.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591719" ordre_absolu_seance="1" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058281" valeur="">
+      <orateurs/>
+      <texte>Approvisionnement en masques de protection</texte>
+      <interExtraction nom_orateur="M. Christophe Naegelen" id_acteur="PA721486" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723290">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591720" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christophe Naegelen.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591721" ordre_absolu_seance="3" id_acteur="PA721486" id_mandat="PM723290" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058283" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Naegelen</nom>
+              <id>721486</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parmi les nombreux obstacles que rencontrent les professionnels de santé qui luttent chaque jour, à tout instant, contre l’épidémie qui paralyse notre pays, l’une des plus inquiétantes que le monde ait connues ces dernières années, nous ne pouvons que déplorer le manque chronique d’équipements, particulièrement de masques de protection.<br/>La politique de réquisition est à parfaire, urgemment. Pour y parvenir, il est nécessaire de simplifier les conditions d’import, notamment en ne prenant en considération que les normes sanitaires.<br/>En outre, il n’est pas tolérable d’instaurer des priorités entre les acteurs de santé : chaque maillon est essentiel, qu’il s’agisse du milieu hospitalier, de la médecine de ville, des aides à domicile, des sages-femmes, des aides-soignants dans les EHPAD, des ambulanciers, des pompiers, des forces de l’ordre, ou même des caissiers. Chacun effectue un travail essentiel, au risque de sa santé ou de celle de ses proches. Dans cet état d’urgence sanitaire, l’État leur doit à tous reconnaissance et protection.<br/>Certains professionnels du secteur médical, tels les dentistes, recommandent d’arrêter les soins, faute d’équipements de protection individuels. Un cabinet de trois infirmières libérales situé dans les Vosges en offre un exemple : elles devaient recevoir cinquante masques chacune, pour assurer leur sécurité et celle de leurs patients – elles en ont reçu cinquante pour trois.<br/>Vous avez promis à tous ces professionnels de les protéger ; tel n’est malheureusement pas le cas, en raison du manque d’équipements. Avez-vous l’intention de simplifier et d’accélérer les procédures d’importation ? Comment rendrez-vous la politique de distribution plus efficace et plus égalitaire, afin de protéger les professionnels et les Français ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre des solidarités et de la santé" id_acteur="PA642788" id_nomination_oe="PM770473" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591726" ordre_absolu_seance="8" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591727" ordre_absolu_seance="9" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM770473" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058289" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <id>642788</id>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous m’interrogez sur les matériels de protection destinés aux personnes qui prennent soin de nous, qui soignent les malades. À l’heure de vous répondre, je pense très fort à elles. Je vais citer des chiffres, afin que chacun puisse mesurer l’ampleur des distributions en cours. Nous avons déstocké, à ma demande, 25 millions de masques chirurgicaux, au début du mois de mars, et nous avons eu recours à une réquisition de l’ensemble des stocks et des capacités de production de notre pays, le 3 mars. Nous sommes le seul pays à avoir réalisé ce qu’on appelle un monitoring complet des stocks, des capacités de production et des besoins ; nous disposions alors, je l’ai tout de suite dit, d’un stock d’État comprenant environ 150 millions de masques chirurgicaux, et aucun masque FFP2. En effet, à la suite des crises sanitaires de 2011 et 2013, il a été décidé qu’il n’était plus nécessaire de conserver des stocks massifs dans le territoire, en considérant que les usines de production étaient à même d’être actives très rapidement, notamment en Chine. Seulement, voilà : la crise sanitaire a d’abord touché la Chine. Ses usines ont été arrêtées et les pays européens se sont trouvés en difficulté.<br/>Je le dis donc, avec force : les masques FFP2 et les masques chirurgicaux sont des biens précieux, indispensables, vitaux ; nous devons les utiliser avec la plus grande parcimonie. Des indications sont posées pour les professionnels de santé et certains malades, à qui ils sont prescrits. Celles et ceux à qui ils n’ont pas été recommandés ne doivent pas en porter.<br/>Comme je le disais, les 17 et 18 mars, 12,3 millions de masques chirurgicaux et FFP2 ont été déstockés, à destination de quelque 20 000 pharmacies d’officine, prioritairement dans les départements les plus tendus ; la livraison a été terminée aujourd’hui. Depuis deux jours, de nombreux professionnels de santé - sans doute pas tous, nous compléterons au fur et à mesure - ont donc pu se rendre à leur officine pour en recevoir, dans le respect d’une logique de rationnement, présentée à chaque syndicat et chaque corporation. J’ajoute que depuis hier soir, une livraison de 17 millions de masques est en cours, qui durera jusqu’à demain, en direction de l’ensemble des hôpitaux, des groupements hospitaliers de territoire, des EHPAD et des organismes de transport sanitaire. Au total, près de 30 millions de masques ont été déstockés et livrés en trois jours.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591730" ordre_absolu_seance="12" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058292" valeur="">
+      <orateurs/>
+      <texte>Approvisionnement en masques de protection et coordination territoriale des soins</texte>
+      <interExtraction nom_orateur="M. Philippe Vigier" id_acteur="PA331582" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722646">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591731" ordre_absolu_seance="13" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Vigier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591732" ordre_absolu_seance="14" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous connaissons une crise sanitaire très grave, chacun l’a dit. Elle exige que nous soyons tous à la hauteur. Monsieur le Premier ministre, monsieur le ministre des solidarités et de la santé, je voudrais vous exprimer le soutien du groupe Liberté et territoires ; l’unité nationale est au rendez-vous : nous sommes là, et nous approuvons la déclaration de l’état d’urgence sanitaire.<br/>Vous avez rappelé que les gestes qui protègent commencent à être connus ; ils nécessitent une adhésion encore plus large des Français. Leur adhésion au confinement est également indispensable : pour la première fois, la Chine ne connaît pas de nouveaux cas, et nous savons très bien que c’est grâce à l’observation d’un confinement très strict. Celui-ci doit être accompagné psychologiquement, car il provoque de l’anxiété, parfois même des scènes de panique, comme on a pu en voir par crainte d’une famine. Dans ce cadre, il me semble que les médias peuvent jouer un rôle de première importance pour accompagner le confinement.<br/>Comme Olivier Véran, que je salue, vient de le dire, il faut aussi rassurer au sujet des masques. Ainsi, les services de soins infirmiers à domicile – SSIAD – ne sont pas prioritaires : nous devons les tranquilliser quant à leur capacité de se protéger dans les prochaines semaines. Les biologistes ne sont pas non plus prioritaires. Je veux vraiment que le nombre de masques mis à disposition suscite la confiance des Français : ils doivent comprendre que vous faites tout ce qui est possible. Nous savons que c’est le cas, mais il faut le dire et l’expliquer. Il est nécessaire de garantir les flux, de manière à protéger ceux qui sauvent. La communauté médicale est exemplaire, généreuse et professionnelle.<br/>Dans mon département d’Eure-et-Loir, nous avons décidé hier d’instaurer des « centres Covid-19 ». Les hôpitaux commencent à être surchargés ; avec le soutien des maires, nous ouvrirons des salles municipales, où des équipes médicales, comprenant des infirmières, accueilleront des patients pour effectuer un tri. Ceux qui nécessitent une prise en charge urgente la recevront, tandis que ceux qui ne souffrent pas de symptômes seront suivis à distance. Il faut soutenir cette initiative, parce que le pic est devant nous.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Édouard Philippe" qualite="Premier ministre" id_acteur="PA345619" id_nomination_oe="PM725692" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591736" ordre_absolu_seance="18" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058298" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le Premier ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591737" ordre_absolu_seance="19" id_acteur="PA345619" id_mandat="-1" id_nomination_oe="PM725692" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058299" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Édouard Philippe</nom>
+              <id>345619</id>
+              <qualite>Premier ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pendant que vous posiez votre question, le ministre des solidarités et de la santé m’a confirmé que les services de soin infirmiers à domicile faisaient partie des listes de destinataires de masques. Des interrogations porteront certainement sur le nombre qui leur sont affectés, pour savoir s’il est suffisant, ce que je peux parfaitement entendre. Néanmoins, je tenais à vous répondre sur ce point, et je remercie le ministre d’y avoir concouru.<br/>Vous l’avez dit, mais je pense qu’il faut systématiquement le répéter, la meilleure façon de lutter contre la propagation du virus est de respecter les consignes. Je parle ici de la population générale, et non des membres de la communauté soignante, à qui les masques sont destinés, je l’ai dit précédemment, en réponse à la question de Mme Valérie Rabault. Le confinement n’est pas un couvre-feu ; il a néanmoins pour but d’empêcher qu’on sorte de chez soi, de restreindre au maximum les contacts et de limiter les déplacements aux courses, aux soins et au travail, lorsque ce dernier est possible, c’est-à-dire aux cinq cas que les Français commencent à connaître. Respecter strictement le confinement et les gestes barrières constitue la meilleure façon d’aider les soignants. Pour nous tous, qui ne sommes pas soignants, il s’agit de leur permettre d’absorber le choc au mieux, en limitant la circulation du virus.<br/>Aujourd’hui, lorsqu’on aime quelqu’un, il faut éviter d’aller le serrer dans ses bras. C’est contre-intuitif et c’est pénible : vous avez raison de dire que cette expérience peut se traduire par des perturbations psychologiques. C’est pourtant ce que nous devons faire. Aujourd’hui, ceux qui veulent aider les soignants peuvent les applaudir à vingt heures depuis leur balcon, accomplissant ainsi un geste assez remarquable, mais on peut aussi se dire qu’il est peut-être moins spectaculaire, mais tout aussi important, de respecter les gestes barrières et de rester confinés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591740" ordre_absolu_seance="22" id_acteur="PA2150" id_mandat="PM722506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Mélenchon</nom>
+              <id>2150</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>N’opposez pas les choses !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591741" ordre_absolu_seance="23" id_acteur="PA345619" id_mandat="-1" id_nomination_oe="PM725692" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2058303" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Édouard Philippe</nom>
+              <id>345619</id>
+              <qualite>Premier ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je ne les oppose absolument pas, monsieur Mélenchon, je dis que c’est au moins aussi important.<br/>Concernant les initiatives que vous évoquez, monsieur Vigier, j’aurais tendance à répondre que cette période de crise nous conduira sans doute à voir ce que l’humanité a de plus beau, comme peut-être ce qu’elle a de plus sombre. J’évoquais tout à l’heure les trafiquants de ressources rares, comme les masques : ils dévoilent la part sombre de l’âme humaine, même s’il existe sans doute plus sombre encore.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591743" ordre_absolu_seance="25" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058305" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il y a aussi de faux désinfecteurs !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591744" ordre_absolu_seance="26" id_acteur="PA345619" id_mandat="-1" id_nomination_oe="PM725692" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2058306" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Édouard Philippe</nom>
+              <id>345619</id>
+              <qualite>Premier ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous assistons également à des initiatives admirables, de solidarité, d’intelligence, d’engagement : il faut qu’elles puissent prospérer. Nous devons veiller à ce que cette générosité, cette solidarité et cette élévation de l’âme soient efficaces, ou du moins ne soient pas contre-productives. C’est pourquoi je me permets de souligner que l’initiative que vous citez doit être bien coordonnée avec les autorités de santé locales, afin d’être certains que les gens ne soient pas ensuite placés dans une situation plus difficile encore. Puisque vous y participez, je suis sûr que tel sera le cas.<br/>Nous allons devoir, tous ensemble, renforcer ces initiatives, leur permettre de s’épanouir dans des circonstances difficiles et contraintes. En effet, elles seront nécessaires pour faire perdurer la confiance, l’espoir et le lien social, forcément amoindris lors d’une période de confinement. J’insiste sur ce point parce que nos concitoyens sont merveilleux de civisme lorsqu’ils décident de lutter ensemble pour une cause d’intérêt général. Des ressources inouïes d’intelligence et de générosité se font jour : il faut que nous puissions les mobiliser, pour résoudre cette grave crise sanitaire.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591746" ordre_absolu_seance="28" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058308" valeur="">
+      <orateurs/>
+      <texte>Suivi des mesures prises pour lutter contre le Covid-19</texte>
+      <interExtraction nom_orateur="Mme Mathilde Panot" id_acteur="PA720892" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723106">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591747" ordre_absolu_seance="29" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058309" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mathilde Panot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591748" ordre_absolu_seance="30" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058310" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le moment que traverse notre Nation est grave, autant qu’inédit. Au nom du groupe La France insoumise, je veux formuler un hommage appuyé aux soignants et à toutes les forces républicaines placées en première ligne de la lutte contre le virus. Nous adressons nos pensées les plus solidaires aux Françaises et Français touchés par cette épidémie historique. Nous vous assurons, monsieur le Premier ministre, de notre disponibilité totale et du strict respect des consignes dictées par les autorités sanitaires.<br/>Toutefois, il ne peut y avoir d’unité du pays sans confiance dans votre action. Or, vous avez affirmé, lors de votre entretien au journal télévisé de France 2, que vous aviez consulté les formations politiques quant au maintien du premier tour des élections municipales. Vous le savez comme moi : nous n’avons pas été consultés sur ce point.<br/>Vous avez admis par ailleurs que l’ancienne ministre des solidarités et de la santé, Mme Agnès Buzyn, vous avait alerté dès janvier sur la catastrophe à venir. Pourquoi ne pas nous en avoir informés ? Pourquoi n’avez-vous pas adopté dès alors les mesures nécessaires ? Si, comme elle le dit, vous saviez, pourquoi sommes-nous en retard dans la production de masques, de gants de protection et de gel hydroalcoolique, indispensables à la protection des soignants et des salariés, et qui manquent cruellement ? Pourquoi ne disposons-nous pas de tests en nombre suffisant pour organiser un dépistage généralisé, afin de permettre une prise en charge plus rapide et plus efficace, comme le préconise l’Organisation mondiale de la santé ?<br/>La transparence que vous devez aux Français et à la représentation nationale doit être totale ; nous demandons la création d’un comité parlementaire de suivi permanent, afin de contrôler votre action dans l’intérêt de toutes et tous, dans la lutte qui doit aujourd’hui nous unir. Plus que jamais, le contrôle démocratique du Gouvernement importe et doit s’imposer, car une confiance méfiante est impossible.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre des solidarités et de la santé" id_acteur="PA642788" id_nomination_oe="PM770473" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591752" ordre_absolu_seance="34" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058314" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1591753" ordre_absolu_seance="35" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM770473" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058315" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <id>642788</id>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Depuis le premier jour, un exercice de transparence devant les Français a lieu quotidiennement, avec l’intervention d’un ministre, du Premier ministre, du Président de la République ou du directeur général de la santé. L’histoire de notre pays a été profondément marquée, meurtrie, par des crises sanitaires d’ampleur, dans la gestion desquelles la transparence n’a pas toujours été une vertu cardinale. On connaît le résultat : une perte de confiance importante dans les élites scientifique et politique. La question de la transparence est donc vitale ; tous les comptes qui doivent être rendus et toutes les enquêtes qui doivent être menées le seront en temps voulu. Vous imaginez bien que nous sommes pour le moment occupés à aider les soignants à sauver des vies ; nous occupons tout le temps disponible à soutenir les services mobilisés jour et nuit depuis des semaines pour mener à bien cette mission.<br/>J’entends le besoin de transparence ; j’ai été parlementaire et rien ne me choque en la matière.<br/>Dans cette même logique de transparence, je tiens à vous dire que si nous n’avions pas eu une ministre de la santé avertie, si nous n’avions pas eu un gouvernement et un Premier ministre avertis et constamment en alerte, si je n’avais pas eu un directeur général de la santé lui aussi averti et constamment en alerte, jamais nous n’aurions pu intervenir comme nous l’avons fait aux Contamines-Montjoie, en Haute-Savoie, alors même que l’épidémie n’existait pas en Europe, et qu’aucun pays européen ou presque ne parlait du coronavirus comme d’une menace réelle et imminente. C’est bien parce que, depuis le premier jour, tout a été mis en œuvre par anticipation pour pouvoir intervenir au moment où le virus pénétrerait dans notre territoire que nous avons pu retarder, semaine après semaine, l’arrivée de l’épidémie, qui était néanmoins inéluctable.<br/>Toutefois, rien ne nous permettait de savoir si cette épidémie nous frapperait cette semaine ou la semaine prochaine ou la semaine dernière. Nous ne disposions d’aucun indicateur, il n’y avait aucun consensus scientifique en la matière. Pourtant, vous le savez, les consensus scientifiques, nous les recherchons, les scientifiques, nous les consultons – et nous le faisons là encore en toute transparence : tous leurs avis vous sont accessibles, comme ils sont accessibles à l’ensemble des Français. Veuillez croire que la transparence est vraiment notre valeur cardinale, celle qui nous guide et nous mobilise depuis le début, celle qui nous a permis d’agir depuis le début avec efficacité.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591856" ordre_absolu_seance="3" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058319" valeur="">
+      <orateurs/>
+      <texte>Situation de l’hôpital public face à l’épidémie</texte>
+      <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591857" ordre_absolu_seance="4" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058320" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Dharréville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591858" ordre_absolu_seance="5" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058321" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À la lumière de ce drame, nous redécouvrons combien la santé est un bien commun et combien elle suppose des services publics forts et dans la plénitude de leurs capacités. Nos soignants feront face, ils feront bloc – mais il faut les écouter, les aider, lever toute entrave, suspendre les opérations de suppression et de réduction en cours pour permettre à l’hôpital de s’organiser ; il faut apporter à celui-ci de la trésorerie, afin notamment d’acheter du matériel. Les éloges doivent, autant que possible, se traduire par des actes : un protocole particulier pour le suivi des soignants ; quand cela est possible, un plan ambitieux d’embauche de personnel, notamment d’agents de service afin d’assurer le plus haut niveau d’hygiène possible. Ne serait-il pas temps de sortir de la politique de compression de personnel et de dégager de réelles marges de manœuvre au moyen d’un projet de loi de financement rectificative de la sécurité sociale ?<br/>D’autre part, la distribution au compte-gouttes ne rassure pas. Sans attenter à la maîtrise des stocks, ne faudrait-il pas répondre davantage aux demandes de matériel, de gants stériles et non stériles, de masques en faisant confiance aux soignants, en ville comme à l’hôpital, pour que ce matériel soit utilisé de manière adaptée aux nécessités et aux consignes ? Pourriez-vous clarifier votre politique d’approvisionnement ? S’agissant des respirateurs, ne serait-il pas envisageable de mobiliser certaines industries qui auraient la capacité de s’adapter pour en produire ?<br/>Troisième question : il existe aujourd’hui plusieurs outils et savoir-faire susceptibles d’être organisés au sein d’un pôle au service d’une politique publique du médicament. Par exemple, dans la région lyonnaise, un laboratoire se trouve aujourd’hui sans repreneur. Comptez-vous les mobiliser, voire les réquisitionner pour produire les médicaments dont nous avons besoin ? Quel contrôle exercez-vous sur les prix afin de lutter contre d’éventuels profiteurs de la crise ? Qu’en est-il, par exemple, de la marge sur les tests relatifs au Covid-19 ? Enfin, et même si une réorientation profonde de la politique en la matière serait nécessaire, avez-vous d’ores et déjà pris des dispositions en vue de répondre aux besoins des chercheurs ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre des solidarités et de la santé" id_acteur="PA642788" id_nomination_oe="PM770473" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591861" ordre_absolu_seance="8" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058324" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591862" ordre_absolu_seance="9" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM770473" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <id>642788</id>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Pour ce qui concerne le financement, je répondrai en paraphrasant le Président de la République : « Quoi qu’il en coûte ». La question n’est pas de savoir combien cela va nous coûter, elle est de savoir comment dépenser : comment accompagner la recherche, comment accompagner les soins… Jamais vous n’entendrez de notre part le moindre mot concernant d’éventuelles restrictions budgétaires, alors que nous faisons face à une crise sanitaire sans précédent, et que nos soignants sont depuis des semaines mobilisés vingt-quatre heures sur vingt-quatre pour sauver des vies. La question ne se pose même pas. S’il nous est arrivé, en plusieurs occasions par le passé, de débattre des questions budgétaires, aujourd’hui, je le répète, la question ne se pose pas.<br/>Vous avez posé beaucoup de questions, monsieur le député, et je souhaiterais répondre de manière factuelle à quelques-unes. S’agissant des respirateurs, la France a passé une commande publique pour acquérir 1 132 respirateurs auprès d’une entreprise française. Les stocks étant disponibles, nous avons pu récupérer cette quantité de respirateurs, ce qui va nous permettre de monter en charge et d’augmenter le nombre de lits de réanimation, notamment dans le cadre des hôpitaux de campagne que nous pourrions être amenés à construire, comme c’est déjà le cas à proximité de Mulhouse, où la construction d’un hôpital militaire de campagne a débuté afin de venir en aide aux hôpitaux de la région Grand Est.<br/>Pour la première fois, nous avons procédé – et je sais que vous y serez sensible, monsieur Dharréville – à une réquisition totale des stocks et des capacités de production de masques et de matériels de protection dans notre pays, ce qui montre notre détermination. Nous avons passé une commande publique auprès de la totalité des entreprises françaises qui fabriquent des masques pour qu’elles en produisent vingt-quatre heures sur vingt-quatre ; la capacité de production est désormais de 8 millions d’exemplaires par semaine – voilà un autre chiffre que je vous livre en toute transparence.<br/>J’ai signé un décret qui plafonne le prix de vente des solutions hydroalcooliques, afin d’éviter l’inflation des prix – on avait commencé à constater des augmentations allant jusqu’à une multiplication par vingt-cinq du jour au lendemain dans certaines officines. J’ai autorisé, par dérogation, tous les pharmaciens qui le peuvent à produire leur propre gel hydroalcoolique. On observe aussi des mouvements de solidarité de la part des entreprises. Le groupe LVMH Moët Hennessy Louis Vuitton, par exemple, s’est mis à produire du gel hydroalcoolique, qu’il met gracieusement à la disposition des hôpitaux ; des entreprises du textile ou du papier réorientent quant à elles leur production vers la fabrication de masques.<br/>Enfin, je l’affirme haut et fort, s’il s’avérait qu’un médicament permette de soigner correctement les Français, non seulement nous procéderions à sa production massive, mais nous nous assurerions aussi que cette production bénéficierait aux patients français. Bien évidemment, il existe des enjeux de solidarité européenne, mais je ne peux malheureusement pas tout d’expliquer ici – d’autant que j’ai déjà été trop long. Sachez néanmoins qu’hier soir encore, je discutais avec mon homologue allemand du rôle des entreprises de biotechnologie dans la production des traitements indispensables pour sauver des vies.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591867" ordre_absolu_seance="14" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058330" valeur="">
+      <orateurs/>
+      <texte>Lutte contre l’épidémie</texte>
+      <interExtraction nom_orateur="M. Gilles Le Gendre" id_acteur="PA721466" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723284">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591868" ordre_absolu_seance="15" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058331" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gilles Le Gendre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591869" ordre_absolu_seance="16" id_acteur="PA721466" id_mandat="PM723284" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gilles Le Gendre</nom>
+              <id>721466</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le Premier ministre, jamais aucun de vos prédécesseurs n’avait affronté une épreuve comparable à la crise sanitaire, cause de tant de morts, qui frappe la France et le monde. Jamais notre pays n’avait subi un arrêt aussi brutal de son activité, avec des conséquences économiques imprévisibles. Jamais nos concitoyens n’avaient été aussi directement responsables de leur propre vie, par le moyen de gestes simples, qu’ils sont néanmoins encore trop nombreux à refuser d’accomplir. Ce caractère triplement inédit de la situation montre la complexité de votre tâche, et aussi la difficulté de la nôtre dans l’exercice de notre devoir constitutionnel de contrôle de l’action gouvernementale.<br/>Aujourd’hui, l’action publique est sous le feu de nombreuses interpellations, qui sont autant d’exutoires à l’anxiété qui habite chacune et chacun d’entre nous. Premièrement, nous sommes-nous préparés assez tôt pour nous défendre contre le coronavirus ? Deuxièmement, notre organisation administrative et politique est-elle adaptée pour gérer des drames de cette ampleur ? Troisièmement, notre système de santé publique est-il à la hauteur du dévouement des personnels soignants qui le font fonctionner ? Quatrièmement, la confiance – nécessaire – entre les décideurs politiques et les représentants du monde médical ne pâtit-elle pas d’une construction trop récente ?<br/>Depuis le début de cette crise, nous sommes tous sensibles à la promesse de transparence que vous nous avez faite et que vous n’avez jamais trahie. Si cette transparence rend vain tout esprit polémique, ce dont il faut se réjouir, elle doit vous engager à nous dire, monsieur le Premier ministre, si notre pays a réellement mis toutes les chances de son côté pour gagner ce que le Président de la République a appelé la « guerre ».</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Édouard Philippe" qualite="Premier ministre" id_acteur="PA345619" id_nomination_oe="PM725692" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591872" ordre_absolu_seance="19" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058335" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le Premier ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591873" ordre_absolu_seance="20" id_acteur="PA345619" id_mandat="-1" id_nomination_oe="PM725692" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058336" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Édouard Philippe</nom>
+              <id>345619</id>
+              <qualite>Premier ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison, monsieur le président Le Gendre : notre pays est confronté à une crise sanitaire comme il n’en a pas connu depuis probablement un siècle – et il faut que cette expression prenne tout son sens. D’ailleurs, il n’y a pas que notre pays qui soit dans ce cas de figure : c’est vrai aussi pour l’Italie, pour l’Espagne, pour le Royaume-Uni, pour l’Allemagne ; c’est vrai partout en Europe et il est probable que cela finira par être vrai partout dans le monde.<br/>Notre système de santé, tel qu’il est construit, est-il capable, compte tenu de ce que nous savons de cette maladie, de faire face à un afflux concomitant de cas sévères ? La réponse est non ; mais aucun système au monde ne pourrait faire face à l’afflux massif et simultané de cas exigeant une réanimation ou un accueil dans un service de soins intensifs. C’est d’ailleurs pourquoi on adopte partout en Europe, même si c’est parfois à quelques jours d’intervalle, les mêmes solutions, à savoir faire la promotion des gestes barrières, augmenter la capacité d’accueil des établissements hospitaliers, accueillir autant que possible dans de bonnes conditions les cas sévères, et placer en confinement la plus grande partie de la population, après avoir fermé les écoles, quand le virus commence à circuler trop rapidement.<br/>Il est intéressant de constater qu’alors qu’au tout début de la crise sanitaire, les approches divergeaient, ce sont vers les mêmes solutions que se tournent désormais tous les responsables nationaux. Songez que dès la fin du mois de janvier et le début du mois de février, nous avons, nous, gouvernement français, voulu mobiliser nos homologues européens ministres de l’intérieur et de la santé pour définir collectivement des éléments de réponse coordonnée et que, lorsque nous avons milité pour l’organisation de telles réunions – le ministre des solidarités et de la santé peut en témoigner –, nombre de ministres de la santé des États de l’Union européenne nous ont répondu : « Pourquoi voulez-vous que nous organisions ces réunions ? Il n’y a aucun cas chez nous, il n’y a pas urgence ! » Ce que je vous dis est vrai : nous avons eu très tôt conscience que l’épidémie inéluctable aurait des conséquences massives et nous avons essayé de coordonner les actions, mais certains ont donné le sentiment de ne pas avoir saisi la gravité de la situation.<br/>Au moment où je vous parle, tout le monde, y compris le Royaume-Uni, qui avait initialement adopté une stratégie un peu différente, reconnaît progressivement la nécessité du confinement – même si c’est chacun avec ses mots et en fonction des caractéristiques propres à son pays. Ainsi, hier soir, la chancelière Merkel, eu égard à l’histoire de son pays, n’a pas voulu imposer le confinement, mais elle a recommandé très vivement à ses concitoyens de rester chez eux, c’est-à-dire qu’elle apporte une réponse comparable à celle que nous avons apportée.<br/>Autrement dit, l’ensemble des pays qui sont confrontés à cette crise sanitaire ont compris qu’il fallait à la fois confiner les personnes chez elles, multiplier les gestes barrières, augmenter les capacités d’accueil dans les hôpitaux et mobiliser l’ensemble du système pour faire en sorte de lisser autant que possible le pic épidémique. Et, pour notre part, c’est ce que nous faisons, de manière résolue, en pensant aux plus fragiles, en accompagnant dans toute la mesure du possible ceux qui sont en première ligne, en mobilisant les énergies dans tout le territoire national – j’en profite pour rebondir sur la question posée par Pierre Dharréville au sujet des respirateurs : il faut que l’industrie nationale, qui, j’y insiste, doit continuer à fonctionner, puisse nous aider à équiper tous ceux qui doivent l’être.<br/>Voilà le défi que nous devons relever. L’enjeu est d’une extrême importance. Il s’agit d’une responsabilité considérable, qui ne pèse pas uniquement sur les épaules du chef du Gouvernement ou des membres du Gouvernement, mais qui concerne tous ceux qui parlent à nos concitoyens, tous ceux qui agissent au service de nos concitoyens. Dans ce combat, fort heureusement, personne n’est seul.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591879" ordre_absolu_seance="26" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058342" valeur="">
+      <orateurs/>
+      <texte>Lutte contre l’épidémie</texte>
+      <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591880" ordre_absolu_seance="27" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Ménard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1591881" ordre_absolu_seance="28" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Ménard</nom>
+              <id>719608</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes questions – car j’en ai plusieurs – concernant plusieurs ministres, je les adresserai au premier d’entre eux.<br/>Je commencerai par une question d’ordre sanitaire. Dans l’Ouest Hérault, nous sommes nous aussi confrontés à une pénurie de masques et de gels hydroalcooliques. Nous avons notamment été interpellés à Béziers par les infirmiers libéraux. La mairie a réquisitionné le reste des gels utilisés pour les opérations de vote du dimanche 15 mars et les leur a remis, mais ce ne sera pas suffisant. Les livraisons annoncées par le Président de la République ne sont toujours pas arrivées. Les pharmacies locales ne reçoivent les boîtes de masques qu’au compte-gouttes. Pourquoi un tel retard ? Nous avons besoin d’une explication !<br/>Ma deuxième question est d’ordre sécuritaire. Depuis que le confinement est entré en vigueur, les forces de police constatent que son efficacité est plus que mitigée. Muni d’une attestation sur l’honneur, vous pouvez quitter dix fois par jour votre domicile, sous prétexte d’aller vous approvisionner. En outre, si les forces de police et de gendarmerie contrôlent les déplacements, elles ne peuvent pas être partout. À Béziers, la police municipale a procédé à pas moins de 300 contrôles et a dressé 50 procès-verbaux dans la seule journée d’hier. Quelles mesures nouvelles comptez-vous prendre pour remédier à cette situation ? Envisagez-vous d’instaurer un couvre-feu, afin de simplifier la tâche des forces de l’ordre ? Cela me semble aujourd’hui une nécessité.<br/>Autre question, concernant les collectivités territoriales. Les mesures de chômage partiel annoncé par le Gouvernement ne s’appliquent qu’au secteur privé ; les contractuels de droit public ne peuvent pas en bénéficier. Pourrait-on prendre une dérogation afin que les collectivités territoriales puissent y avoir recours ?<br/>Je terminerai par une question d’ordre économique. Des chefs d’entreprise du Biterrois nous ont alertés sur le fait qu’ils n’ont pas pu, comme ils l’auraient souhaité, faire jouer leur assurance perte d’exploitation pour faire face à la crise, car la quasi-totalité des contrats excluent l’événement épidémique. Quelle solution le Gouvernement compte-t-il proposer pour y remédier ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre des solidarités et de la santé" id_acteur="PA642788" id_nomination_oe="PM770473" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591886" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058349" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591887" ordre_absolu_seance="2" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM770473" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058350" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <id>642788</id>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez soulevé de nombreuses questions, auxquelles je ne saurai apporter toutes les réponses en deux minutes. Je peux en revanche partager des informations spécifiques à la région Occitanie, qui vous intéresseront peut-être.<br/>D’abord, conformément aux annonces du Président de la République, des masques ont été livrés le 18 mars aux médecins et aux infirmiers libéraux de la région. Nous sommes aujourd’hui le 19 mars : les masques sont donc arrivés hier. Vous jugez ces livraisons insuffisantes au regard des besoins, qui sont forts. En réalité, tout dépend de la doctrine d’emploi des masques et du rationnel de résilience qui préside à leur utilisation. Cette doctrine a été présentée aux différents professionnels de santé, qu’il s’agisse des médecins libéraux, des infirmiers, des kinésithérapeutes ou des pharmaciens.<br/>Les choses s’organisent. Il est vrai que la situation actuelle met en tension une chaîne logistique qui n’y est pas habituée et qui doit se montrer extrêmement réactive. Cette réactivité a par exemple permis d’assurer dès le 16 mars – toujours en Occitanie – le réassort d’urgence de deux établissements de santé.<br/>Nous déplorons en revanche quelques pertes de masques – en réalité, des vols. Il s’agit d’un phénomène extrêmement déstructurant pour les chaînes de livraison et d’approvisionnement des pharmacies et des hôpitaux : 14 000 masques, indispensables pour protéger les soignants et les patients, ont par exemple été volés à l’hôpital de Montpellier. Volés ! Des masques sont dérobés tous les jours dans les hôpitaux et parfois même jusque dans les officines – pas par les pharmaciens, qui sont les premières victimes de ces vols. Je l’affirme clairement : nous devons tenir un discours de responsabilité sur l’usage de ces masques, car chaque vol est extrêmement déstructurant pour toute la filière d’organisation et de livraison.<br/>S’agissant de la région Occitanie à laquelle vous faites référence, je répète que la livraison aux pharmacies d’officine a eu lieu le 18 mars, conformément aux engagements du Président de la République, et que le réassort d’urgence de deux établissements de santé qui en avaient grandement besoin est intervenu dès le 16 mars.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591892" ordre_absolu_seance="7" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058355" valeur="">
+      <orateurs/>
+      <texte>Approvisionnement en masques de protection</texte>
+      <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591893" ordre_absolu_seance="8" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058356" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Christine Pires Beaune.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591894" ordre_absolu_seance="9" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058357" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Pires Beaune</nom>
+              <id>608172</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le Premier ministre, elles et ils sont en première ligne. Je fais référence à tous les professionnels de santé qui interviennent dans nos hôpitaux, nos cabinets libéraux, nos pharmacies ou nos EHPAD, mais aussi à domicile. Je veux ici leur rendre hommage, tant leur dévouement est exceptionnel.<br/>Ils sont au front et en première ligne, car nous sommes en guerre. Pourtant, on les envoie combattre sans protection. Voilà deux jours, dans un CHU, les infirmières et aides-soignantes d’un service de médecine ont dû renoncer au port du masque, au motif qu’il n’y en avait pas assez pour tout le monde. Un professeur de médecine à l’hôpital de la Pitié Salpêtrière, à Paris, a indiqué hier que sa structure disposait, jusqu’à vendredi, de stocks de masques insuffisants. Deux pharmacies de ma circonscription, si elles ont certes bien été livrées mercredi, n’ont reçu que 500 masques pour approvisionner médecins, infirmiers, kinésithérapeutes et personnels de pharmacie. Ce n’est pas suffisant : elles seront à nouveau en rupture de stock dans une semaine, sans aucune garantie quant à la prochaine livraison.<br/>Dans son discours, le Président de la République indiquait : « nous leur devons des masques, du gel, tout le matériel nécessaire, et nous y veillons et veillerons ». Pour l’heure, la promesse n’est pas tenue. Que dire par ailleurs des pompiers, des forces de l’ordre, des caissiers, ou encore des éboueurs, c’est-à-dire de tous ceux qui travaillent au contact de la population, eux aussi sans masques !<br/>Comment en sommes-nous arrivés à cette situation de pénurie ? Le moment venu, lorsque la crise sera derrière nous, à l’aune des déclarations de Mme Buzyn, de nombreuses questions se poseront. Vous devrez en répondre devant la représentation nationale, mais surtout devant les soignants et devant les Français.<br/>Pour l’heure, pouvez-vous nous garantir que, dès demain, dans tout le territoire national, l’ensemble du personnel soignant – qu’il soit en cabinet, en hôpital, en EHPAD ou qu’il intervienne à domicile – mais aussi le personnel des pharmacies, les pompiers et les paramédicaux auront les moyens, tant que durera la crise, de se protéger pour nous protéger ?<br/>Question complémentaire : allez-vous supprimer le jour de carence pour les fonctionnaires atteints du Covid-19 ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Véran" qualite="ministre des solidarités et de la santé" id_acteur="PA642788" id_nomination_oe="PM770473" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591900" ordre_absolu_seance="15" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058363" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591901" ordre_absolu_seance="16" id_acteur="PA642788" id_mandat="-1" id_nomination_oe="PM770473" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058364" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Véran</nom>
+              <id>642788</id>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous devrons répondre collectivement à la question consistant à savoir si la France dispose, depuis dix ans, des capacités à faire face concrètement à des besoins de moyens de protection très fortement accrus, dans un contexte épidémique. Jusqu’en 2011, puis jusqu’en 2013 – pas jusqu’en 2020, mais jusqu’en 2013, c’est-à-dire sous des législatures précédentes –, le stock d’État a compté 1 milliard de masques.<br/>Il a été décidé, en 2011 puis en 2013, que ce stock n’était plus indispensable, tant les capacités de production mondiale de masques étaient élevées, notamment en Asie. Or la crise sanitaire a frappé le premier pays producteur au monde, la Chine, qui a exploité la totalité de ses stocks et de ses moyens de production. Je tiens d’ailleurs à remercier la Chine de son geste envers la France : nous avons reçu hier un million de masques en provenance de ce pays, au titre de la solidarité. Lorsque nous avions tendu la main aux Chinois qui avaient besoin de masques et de matériel, nous nous étions vu adresser quelques reproches, certains demandant si une telle décision était bien raisonnable. Je suis, pour ma part, très heureux que nous ayons fait preuve de solidarité, car cette dernière est généralement payée de retour. Alors que nous avons aujourd’hui besoin de l’aide de tous les pays capables de nous la fournir, nous pouvons nous enorgueillir de recevoir à notre tour un tel soutien.<br/>Je pourrais évoquer les innombrables commandes que nous passons dans le monde entier pour obtenir du matériel de protection. Ce matériel arrive. Les choses progressent. Comme je l’indiquais à M. Dharréville, notre action n’est guidée par aucune considération financière : dès que nous pouvons acheter des masques, nous le faisons. Il faut cependant qu’ils soient sécurisés et répondent aux normes de protection. Nous en produisons également, dans les quantités que j’évoquais précédemment.<br/>Nous avons défini une doctrine de répartition des masques, que nous appliquons en toute transparence. Les médecins de ville, les biologistes médicaux et les infirmiers de ville se voient attribuer dix-huit masques par semaine et par professionnel, tout comme les pharmaciens d’officine. Les masseurs-kinésithérapeutes reçoivent six masques par semaine, pour pouvoir faire des choix et gérer les urgences. Le même nombre de masques est alloué aux sages-femmes. Les chirurgiens-dentistes – dont j’ai rencontré récemment le conseil de l’ordre national – ont réussi à s’organiser pour assurer des livraisons de masques et seront capables de répondre à toutes les urgences en France pendant au moins six semaines. Nous travaillons également avec les services d’aide à domicile afin de simplifier le système d’acheminement et d’approvisionnement.<br/>Les besoins évoluent très rapidement et très fortement d’un territoire à l’autre, en fonction de l’intensité de la circulation du virus. Il nous faut donc être réactifs. Nous travaillons en ce sens avec les professionnels.<br/>Si je dois un jour répondre à des polémiques, je n’y verrai aucun problème : nous pourrons nous retrouver et débattre en toute transparence. Cependant – chacun doit en avoir conscience –, l’heure est à consacrer la totalité de nos forces collectives et de notre énergie à soutenir celles et ceux qui sauvent des vies tous les jours dans les hôpitaux et en médecine de ville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591907" ordre_absolu_seance="22" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058370" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous poursuivons notre séance avec des questions portant sur des thèmes économiques et sociaux.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591908" ordre_absolu_seance="23" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058371" valeur="">
+      <orateurs/>
+      <texte>Mesures économiques de lutte contre la crise liée au Covid-19</texte>
+      <interExtraction nom_orateur="Mme Annie Genevard" id_acteur="PA605991" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722660">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591909" ordre_absolu_seance="24" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Annie Genevard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591910" ordre_absolu_seance="25" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058373" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Genevard</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le Premier ministre, la catastrophe sanitaire que connaît notre pays – avec l’épidémie de coronavirus et les mesures de confinement auxquelles elle a donné lieu – a plongé en quelques heures la France dans une crise économique majeure. Nous avons déjà connu de telles crises. Celle de 2008 avait fait chuter le PIB de deux points et demi et exigé de l’État un effort de 45 milliards d’euros. Mais la crise actuelle est particulièrement violente : elle touche toutes les entreprises, toutes les activités, tous les territoires, tous les Français.<br/>L’inquiétude est à son comble : Bpifrance, la banque publique d’investissement, a enregistré en quatre jours 12 000 demandes d’intervention, dont la moitié concerne des TPE – très petites entreprises. L’urgence est de préserver l’emploi et d’éviter les faillites. Il faut aller vite et taper juste. C’est pourquoi les élus du groupe Les Républicains approuvent les mesures du Gouvernement visant à prévenir les difficultés de trésorerie et à compenser les pertes d’exploitation. Éric Woerth avait déposé, il y a peu, une proposition de loi en ce sens.<br/>Les questions affluent à nos permanences : comment accéder au chômage partiel quand les entreprises ont suspendu leur activité pour protéger leur personnel et leurs clients ? Certaines n’y ont pas droit. N’est-il pas légitime d’accéder au fonds de solidarité même si l’on n’atteint pas exactement le seuil de 70 % de baisse de chiffre d’affaires ? Comment sécuriser les baux commerciaux si les loyers ne sont pas versés ? Comment se relèvera-t-on lorsqu’il faudra payer les charges différées et rembourser les prêts ? Tant de questions et d’angoisses exprimées, qui appellent des réponses et sans doute des ajustements par amendement.<br/>Pour n’oublier personne, pour que cette pandémie ne se double pas d’un effondrement économique, pour pouvoir répondre au mieux à toutes ces questions, êtes-vous prêt, monsieur le Premier ministre, à étudier avec les députés du groupe Les Républicains les évolutions qui seraient nécessaires ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État auprès du ministre de l'économie et des finances" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591914" ordre_absolu_seance="29" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058377" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès du ministre de l’économie et des finances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591915" ordre_absolu_seance="30" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058378" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État auprès du ministre de l’économie et des finances</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci de souligner la mobilisation collective qui prévaut sur ces questions économiques, dans un moment où les entreprises – au premier rang desquelles les TPE – sont très inquiètes quant à leur situation et sollicitent une aide massive. Cette aide existe ; elle est en place ; elle est inédite. Je veux ici en rappeler les grands axes.<br/>Elle prévoit en premier lieu la possibilité d’accéder à un dispositif d’activité partielle sans égal dans l’histoire de la France, puisque nous assurerons la prise en charge des salaires jusqu’à un niveau équivalant à 4,5 SMIC. L’idée consiste à préserver le lien entre le salarié et l’entreprise, afin que cette dernière puisse redémarrer lorsque la crise sera passée. La ministre du travail, qui a créé ce système, pourra vous confirmer que l’entreprise dispose d’un délai de trente jours pour déposer sa demande, que la prise en considération de celle-ci sera rétroactive et que toutes les entreprises en bénéficieront, quel que soit leur statut – j’insiste sur ce point.<br/>En deuxième lieu, nous repoussons les échéances sociales et fiscales pour les entreprises dont la situation de trésorerie est tendue du fait du coronavirus. J’apporte cette précision car nous avons reçu des demandes de grandes entreprises en parfaite santé financière : il est évident que ces dernières ne sont pas concernées. Pour les entreprises en difficulté, la démarche sera simple comme un coup de fil, un courriel, ou une connexion sur le site internet dédié. Les DIRECCTE – directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi –, les CCI – chambres de commerce et d’industrie – et les CMA – chambres de métiers et de l’artisanat – seront en appui, par le biais de numéros de téléphone spécifiques, pour accompagner les entreprises.<br/>Vous avez soulevé la question des entreprises qui ne parviendraient pas à payer leurs charges dans le futur. Nous prendrons bien entendu cette situation en considération, comme nous le faisons en temps normal pour toutes les entreprises en difficulté, lorsque nous définissons avec elles des échéanciers de paiement. Un dégrèvement sera donc possible.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591919" ordre_absolu_seance="34" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058382" valeur="">
+      <orateurs/>
+      <texte>Approvisionnement des petits commerces pendant l’épidémie</texte>
+      <interExtraction nom_orateur="M. Bruno Millienne" id_acteur="PA721976" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723438">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591920" ordre_absolu_seance="35" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058383" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Millienne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591921" ordre_absolu_seance="36" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058384" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, aux côtés des soignants, auxquels nous ne rendrons jamais assez hommage, œuvrent partout en France ceux qui, grâce à leur travail, permettent à notre pays de continuer de fonctionner. Je fais référence à tous les travailleurs qui, dans les entreprises et lorsque les précautions d’organisation sanitaire indispensables sont prises, font tourner l’économie de notre pays. Ce sont tous ceux qui participent à l’économie de guerre en travaillant dans l’agroalimentaire, l’industrie, la logistique ou les transports. Au nom de la représentation nationale, je veux leur rendre hommage aujourd’hui.<br/>Nous produisons assez pour nourrir les Français et assurer leur quotidien. Il faut continuer ainsi. Les Français sont confinés auprès de leurs enfants ou en télétravail, mais beaucoup se rendent sur leur lieu de travail. Dans chaque entreprise où l’activité continue, les dispositions nécessaires ont été prises avec beaucoup de rigueur et des salariés travaillent pour que la France continue à vivre. De la fourche à la fourchette, dans toutes les usines où dirigeants et salariés ont organisé le travail sans risque sanitaire, sur les chantiers ou dans les collectivités, nous comptons de nombreux héros du quotidien. Ils assurent la vie courante des Français et produisent de la richesse, pour financer les mesures de soutien d’aujourd’hui et la relance de demain.<br/>Dans une guerre, il y a les soldats, mais aussi ceux de l’arrière. Ces derniers doivent savoir qu’ils ont notre gratitude et que nous comptons sur eux. Aussi, pouvez-vous rassurer la représentation nationale et les Français quant au fait qu’il n’y aura ni problème d’approvisionnement ni pénurie, grâce notamment à tous ceux qui font en sorte que, malgré la crise, chacun continue à travailler, à chaque fois que cela est possible sans risque ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État auprès du ministre de l'économie et des finances" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591924" ordre_absolu_seance="39" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058387" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès du ministre de l’économie et des finances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1591925" ordre_absolu_seance="40" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058388" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État auprès du ministre de l’économie et des finances</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci, d’abord, de braquer le projecteur sur tous ceux qui, en appui de la première ligne sanitaire, continuent à faire tourner notre pays et à permettre à la production de médicaments et d’alimentation, ainsi qu’à la distribution de ces biens de première nécessité, de se poursuivre dans l’ensemble du territoire national. Je ne citerai pas tous les secteurs concernés – transports, gestion des déchets, gestion de l’eau, banques, logistique –, qui restent aujourd’hui en activité et rendent des services absolument indispensables à l’ensemble des Français.<br/>Je veux vous rassurer : toute la filière agroalimentaire, de la production à la distribution, est pleinement engagée pour assurer la régularité de l’alimentation des Français.<br/>Régularité de la production, bien évidemment, en se concentrant sur les biens de première nécessité et en augmentant les productions. Pour ce faire, nous agissons avec le ministère du travail afin d’assurer la protection des salariés – c’est une nécessité. Nous savons produire en respectant les règles et les gestes barrières, notamment en aménageant les postes de travail.<br/>Régularité du transport et de la logistique ensuite : le secrétaire d’État chargé des transports publiera très prochainement un décret visant à adapter le cadre de travail pour assurer la plus grande sécurité possible aux salariés et leur permettre de continuer à livrer.<br/>Régularité de la distribution enfin : nous effectuons chaque jour un point téléphonique avec l’ensemble de la filière pour nous assurer de sa capacité à couvrir l’ensemble des besoins des Français, en levant toutes les barrières – y compris en assouplissant les conditions de travail et les horaires.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591930" ordre_absolu_seance="1" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058425" valeur="">
+      <orateurs/>
+      <texte>Mesures économiques pour lutter contre la crise liée au Covid-19</texte>
+      <interExtraction nom_orateur="Mme Patricia Lemoine" id_acteur="PA721632" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM760305">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591931" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058426" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Patricia Lemoine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591932" ordre_absolu_seance="3" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058427" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Lemoine</nom>
+              <id>721632</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le ministre de l’économie et des finances, depuis le début de la crise, votre ministère est pleinement mobilisé et le groupe UDI-Agir tient à saluer le travail accompli par vos services, dans un contexte sanitaire totalement inédit depuis un siècle.<br/>Grâce à un plan d’urgence sans précédent, vous agissez pour soutenir et protéger nos entreprises, éviter leur faillite et préserver l’emploi. Pourtant ces dispositifs, que nous soutiendrons lors de l’examen du projet de loi de finances rectificative, comportent des incohérences qui aboutissent à léser une partie des acteurs de notre tissu économique : les travailleurs indépendants, les commerçants et les artisans.<br/>En effet, bien qu’il soit naturel que les grandes surfaces puissent approvisionner les Français en produits alimentaires et de première nécessité, nous pouvons nous interroger sur la pertinence d’autres marchandises, moins indispensables, comme les vêtements, les fleurs, le matériel de bricolage et les produits de loisir. Les petits commerces proposant ce type de produits sont d’ailleurs contraints à la fermeture. C’est un fait : les grandes surfaces profitent – involontairement peut-être, mais bien directement – des pics d’affluence entraînés par la crise sanitaire pour renforcer leur profit, alors que d’autres se meurent. Dans tous les territoires, nous sommes alertés par les travailleurs indépendants et les commerçants, qui assistent, impuissants, à ce constat. Ils redoutent, à raison, de ne pouvoir survivre économiquement à cette crise. Quelles mesures pouvez-vous nous proposer pour éviter la poursuite de la distorsion de concurrence ?<br/>Nous souhaitons également vous alerter sur la nécessité de contrôler les prix qui s’envolent, notamment à Rungis : quelles mesures spécifiquement adaptées au statut de ces travailleurs privés de revenus comptez-vous instaurer ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État auprès du ministre de l'économie et des finances" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591936" ordre_absolu_seance="7" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058431" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès du ministre de l’économie et des finances.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591937" ordre_absolu_seance="8" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058432" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État auprès du ministre de l’économie et des finances</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens tout d’abord à vous rassurer : les artisans et commerçants doivent savoir qu’ils peuvent compter sur nous, car nous avons prévu un plan de soutien économique massif. Aux mesures de chômage partiel pour leurs salariés et de soutien à la trésorerie que j’ai déjà citées, j’ajoute la création d’un fonds de solidarité spécifiquement dédié aux travailleurs indépendants réalisant un chiffre d’affaires de moins de 1 million d’euros par an et qui, du fait des arrêtés, ont dû fermer leur commerce. Les travailleurs de divers secteurs ayant perdu plus de 70 % de chiffre d’affaires depuis le début de la crise pourront également y avoir accès.<br/>Cependant, les commerçants ne sont fort heureusement pas tous fermés : quelle que soit leur taille, les commerces alimentaires et de produits d’hygiène continuent de fonctionner. Pour les commerçants qui sont fermés, nous instaurons un soutien pour qu’ils aient accès aux plateformes de vente en ligne de façon à continuer à fonctionner en dépit… <italique>(La secrétaire d’État est prise d’une quinte de toux) </italique>Pardonnez-moi, c’est fort inapproprié dans le contexte actuel…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591939" ordre_absolu_seance="10" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058434" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, je vous propose d’interrompre votre réponse pour boire un verre d’eau.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591940" ordre_absolu_seance="11" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058435" valeur="">
+      <orateurs/>
+      <texte>Lutte contre l’épidémie au sein des entreprises</texte>
+      <interExtraction nom_orateur="M. Alexis Corbière" id_acteur="PA721210" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723204">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591941" ordre_absolu_seance="12" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058436" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alexis Corbière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591942" ordre_absolu_seance="13" id_acteur="PA721210" id_mandat="PM723204" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058437" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alexis Corbière</nom>
+              <id>721210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le Premier ministre, le 14 mars, le ministre des solidarités et de la santé a dressé dans un arrêté la longue liste des établissements ne pouvant plus accueillir du public. Dans le même arrêté, il a établi la liste des activités qui, faisant exception, sont autorisées. Un cran au-dessus, le Président de la République a lancé un appel à la population : « Si vous voulez nous aider, il faut rester chez vous. » Pourtant, le 18 mars, la ministre du travail s’est inquiétée d’un recours, prétendument abusif selon elle, au chômage partiel, et le ministre de l’économie et des finances a exhorté tous les salariés des entreprises qu’il a qualifiées d’essentielles à se rendre au travail. Or il n’a jamais été indiqué dans les arrêtés ce qui relevait des activités essentielles.<br/>Ces injonctions contradictoires créent de la confusion et méritent des précisions. Dans certaines entreprises, par exemple dans l’industrie automobile, la mobilisation des syndicats a permis une mise à l’arrêt de l’activité. Leurs salariés peuvent donc désormais se confiner, sans qu’aucun préjudice ne soit porté aux intérêts de la nation. Une question se pose donc : qui décide de ce qui est essentiel ou non ? Ce sujet ne saurait être tranché uniquement par une poignée de membres de l’exécutif.<br/>La situation sanitaire requiert une large mobilisation humaine et sociale : les travailleurs doivent se réunir dans les lieux de production pour en débattre dans les meilleures conditions sanitaires ; la communauté scientifique, les groupes politiques et, surtout, les salariés, doivent être associés. Une fois définies les activités essentielles, il faut garantir la protection des travailleurs, en association avec les principaux intéressés. Je pense notamment aux éboueurs d’Otus, dans mon département de Seine-Saint-Denis, qui ont exercé hier leur droit de retrait car ils n’avaient ni masques, ni moyen de se laver correctement les mains.  <br/>Monsieur le Premier ministre, comment le périmètre des activités essentielles est-il défini ? Accepteriez-vous d’associer à cette définition d’autres parties, comme les syndicats ou la communauté scientifique ? Enfin, comment comptez-vous assurer la protection de nos héros, qu’ils soient en blouse blanche, en bleu de travail ou en gilet fluorescent ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre du travail" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591946" ordre_absolu_seance="17" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058441" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre du travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591947" ordre_absolu_seance="18" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058442" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre du travail</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie pour votre question, qui permet de clarifier la situation. L’arrêté pris dimanche interdit certaines activités, comme l’ouverture des bars et restaurants : tout le monde connaît la liste. Tous les salariés de ces secteurs sont évidemment automatiquement en chômage partiel. En matière de travail, ce qui n’est pas interdit est de fait autorisé. Mais je voudrais que tout le monde prenne bien conscience que nous sommes très interdépendants en matière de continuité sanitaire : nous soutenons tous les soignants qui, dans cette guerre, sont au front, mais il faut qu’à l’arrière –pour poursuivre dans le langage militaire –, les activités continuent.<br/>Les Français ont besoin de produits alimentaires et de nettoyage ; ils ont besoin d’internet pour suivre l’école depuis la maison et télétravailler ; ils ont besoin d’électricité et de transports. Je ne déclinerai pas toute la liste de leurs besoins mais, lorsque l’on regarde de bout en bout, il n’y a pas de métier qui soit inutile à la nation. Je voudrais donc à mon tour saluer les auxiliaires de vie, les caissières, les chauffeurs-livreurs, les éboueurs, tous ceux qui, par leur travail, contribuent à l’action de la nation et au soutien de nos soignants.<br/>Mais – et nos opinions vont là se rejoindre – cela ne saurait se faire à n’importe quel prix : il n’est pas question de mettre en danger la protection des salariés. Ma première priorité est de sauvegarder l’emploi, c’est pourquoi nous avons prévu un important plan de chômage partiel, comme la France n’en a encore jamais connu ; mais, ex aequo avec celle-ci, mon autre priorité est la protection des salariés. Ce matin, j’ai appelé solennellement toutes les entreprises qui ne l’ont pas encore fait à réunir aujourd’hui leur comité social et économique ou leur commission santé, sécurité et conditions de travail, pour discuter des conditions de protection et de l’organisation du travail.  <br/>Si le travail doit continuer, il doit également changer : nous devons travailler autrement pour assurer la protection des salariés. Peut-être le travail sera-t-il dégradé, ralenti, incomplet, si les équipes ne se croisent pas et que les distances sont plus grandes en raison d’une nouvelle organisation des transports ; reste qu’il est essentiel. J’en appelle donc à la responsabilité des employeurs : nous faisons un point téléphonique tous les jours avec les organisations syndicales et patronales, et le message, aujourd’hui, est de discuter au sein des entreprises pour organiser le travail tout en protégeant les salariés.  </texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591951" ordre_absolu_seance="22" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058446" valeur="">
+      <orateurs/>
+      <texte>Mesures économiques pour la lutte liée au Covid-19 <italique>(suite)</italique></texte>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher" qualite="secrétaire d'État auprès du ministre de l'économie et des finances" id_acteur="PA759832" id_nomination_oe="PM759840" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591952" ordre_absolu_seance="23" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058447" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès du ministre de l’économie et des finances, pour compléter sa réponse à Mme Patricia Lemoine, qui n’avait été qu’esquissée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591953" ordre_absolu_seance="24" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM759840" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058448" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>secrétaire d’État auprès du ministre de l’économie et des finances</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie, monsieur le président. Après avoir évoqué la création d’un fonds de solidarité, je souhaitais conclure en ajoutant qu’avec Cédric O, secrétaire d’État chargé du numérique, nous travaillons à l’instauration de plateformes numériques à disposition des artisans et commerçants, afin de leur permettre de continuer à travailler même si leurs magasins sont fermés. En Chine comme en Italie, on a observé que les besoins en livraison augmentaient, notamment dans le secteur de la restauration. Les Français sont chez eux, mais ne vont pas nécessairement cuisiner à chaque repas. Nous organisons donc des plateformes pour permettre aux artisans de poursuivre leur activité et d’avoir un chiffre d’affaires, mais également pour rendre aux Français un service, en toute protection : en effet, nous avons rédigé un guide des précautions sanitaires à respecter dans le cadre de la livraison, qui seront appliquées par l’ensemble des plateformes. Cela permettra de garantir à leurs salariés et aux Français le maximum de sécurité sanitaire.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591954" ordre_absolu_seance="25" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058449" valeur="">
+      <orateurs/>
+      <texte>Lutte contre l’épidémie au sein des entreprises</texte>
+      <interExtraction nom_orateur="M. Fabien Roussel" id_acteur="PA720692" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723042">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591955" ordre_absolu_seance="26" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Fabien Roussel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591956" ordre_absolu_seance="27" id_acteur="PA720692" id_mandat="PM723042" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Roussel</nom>
+              <id>720692</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le Premier ministre, le monde du travail est en première ligne. Il y a d’abord toutes celles et ceux qui assurent des activités essentielles au bon fonctionnement de notre pays : nous pensons évidemment à tous les soignants, auxquels la nation doit exprimer une infinie reconnaissance. Mais il y a aussi tous les autres : les auxiliaires de vie auprès des personnes âgées, ceux qui vivent au quotidien auprès des personnes handicapées, les policiers, les gendarmes, les pompiers ou encore les personnels pénitentiaires. Ils sont des dizaines de milliers à mener un travail admirable, nécessairement au contact d’autres personnes, sans comprendre pourquoi ils ne peuvent pas faire garder leurs enfants, ou pourquoi ils n’ont ni masque, ni gel hydroalcoolique, ni gants.<br/>Il y a également toutes celles et ceux qui, dans le privé comme dans le public, nous permettent de continuer à vivre du mieux possible. Enseignants, fonctionnaires, caissières, livreurs, postiers : tous sont indispensables mais se sentent également oubliés, car ils ne disposent pas non plus de protection. Lorsque leur direction les met en danger, ils doivent faire valoir leur droit de retrait, comme chez Amazon ou chez General Electric, à Belfort. Il y a aussi tous ces salariés qui ont peur d’être licenciés : monsieur le Premier ministre, interdisez les licenciements, au moins durant cette période.<br/>Enfin, il y a ceux qui se demandent pourquoi ils doivent aller travailler, au péril de leur santé, dans des secteurs non essentiels, comme le bâtiment, la production de rétroviseurs – c’est le cas dans le grand Est –, ou encore la fabrication de paquebots à Saint-Nazaire ou de trains à Valenciennes. Dans les ports, les travailleurs demandent que les activités se concentrent sur le strict nécessaire. Sans règles claires, des entreprises non indispensables continuent de tourner. Or, il ne peut y avoir d’un côté un confinement total et de l’autre des salariés contraints de prendre les transports pour aller travailler et de se regrouper dans leur entreprise.<br/>Monsieur le Premier ministre, celles et ceux qui sont au front sont souvent les mêmes. Que comptez-vous faire pour les protéger ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre du travail" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591960" ordre_absolu_seance="31" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058455" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre du travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1591961" ordre_absolu_seance="211" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058456" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre du travail</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi tout d’abord de souhaiter un prompt rétablissement au président André Chassaigne.<br/>Vous avez raison : aujourd’hui, les héros du quotidien exercent de multiples métiers, qui tous permettent la continuité des biens et services indispensables à la vie quotidienne de tous les Français.<br/>Certains voudraient que nous dressions une liste des métiers indispensables, mais ce serait très compliqué. Prenons un exemple : une entreprise qui fabrique des cartons d’emballage a arrêté son activité il y a quelques jours. Or certains de ses cartons servent à l’agroalimentaire, pour emballer la farine livrée aux boulangers, et d’autres servent à emballer les packs de gel hydroalcoolique livrés aux hôpitaux. En définitive, peu d’activités peuvent s’arrêter complètement. Ce matin, la fédération du bâtiment de la région Auvergne-Rhône-Alpes a appelé à stopper le travail dans l’ensemble du bâtiment. Mais comment ferons-nous si aucun plombier ne peut réparer un problème urgent ? Certains services doivent absolument être assurés.<br/>Pour moi, la solution n’est pas de définir au scalpel ce qui est autorisé ou non, mais de travailler différemment. Il y a des solutions pour cela. Le ministre de l’économie et des finances et moi-même y œuvrons quotidiennement, notamment avec les enseignes de la grande distribution : elles ont installé des protections en plexiglass pour leurs caissiers, et mettent à leur disposition du gel hydroalcoolique et des gants. Je le répète, il y a des solutions. Dans le bâtiment, certaines entreprises ont organisé des transports avec plusieurs véhicules pour éviter qu’une équipe entière se déplace dans une même camionnette. Les chantiers sont organisés différemment, avec une équipe du matin et une équipe du soir, et les ouvriers se tiennent toujours à plus de deux mètres les uns des autres. Ils peuvent ainsi effectuer des réparations urgentes, notamment chez les personnes âgées qui vivent seules.<br/>La solution n’est donc pas binaire. J’invite toutes les entreprises à définir, avec leurs syndicats et leurs salariés, les activités qui doivent être maintenues et la façon dont le travail doit s’organiser pour protéger le personnel. C’est ainsi que nous faciliterons la vie quotidienne des Français, que nous protégerons les salariés et que nous repartirons, demain, avec les compétences nécessaires, quand la crise sera terminée.  </texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591786" ordre_absolu_seance="216" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058397" valeur="">
+      <orateurs/>
+      <texte>Accompagnement des associations face à l’épidémie</texte>
+      <interExtraction nom_orateur="Mme Michèle Peyron" id_acteur="PA721710" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723362">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591787" ordre_absolu_seance="217" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058398" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle Peyron.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591788" ordre_absolu_seance="218" id_acteur="PA721710" id_mandat="PM723362" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058399" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Peyron</nom>
+              <id>721710</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il nous est tous difficile de prendre la parole ce matin, alors que notre pays fait face à une crise sanitaire, mais il est de notre responsabilité de parlementaires d’accompagner le Gouvernement. Je m’exprime aujourd’hui à deux voix : je souhaite associer à mes propos mon collègue Mickaël Nogal qui, avec le groupe La République en marche, œuvre en tant que référent pour les enjeux du Covid-19. Nous diffusons des informations relatives à cette crise auprès de nos collègues, dans leurs circonscriptions, et nous nous tenons à la disposition de tous.<br/>Je tiens avant tout à saluer les personnels soignants du secteur public et du secteur privé, qui se donnent sans retenue depuis de nombreux jours. Enfin, je tiens à témoigner mon plus grand soutien à nos collègues touchés directement ou indirectement par la maladie.<br/>Ma question s’adresse à M. Gabriel Attal, secrétaire d’État auprès du ministre de l’éducation nationale et de la jeunesse. Le Président de la République et le Premier ministre ont annoncé différentes mesures visant à soutenir l’économie et les entreprises : report des charges et des échéances bancaires, suspension des loyers et des factures, décalage du paiement des impôts et des cotisations sociales pour les plus petites entreprises, généralisation du chômage partiel avec prise en charge des rémunérations par l’État à hauteur de 80 %, voire de 100 % pour les salariés payés au SMIC.<br/>Les associations sont, elles aussi, touchées directement par l’épidémie et par les mesures décidées par le Gouvernement pour protéger la population. Nous ne devons pas oublier qu’elles représentent 10 % du PIB et 1,8 million d’emplois. Elles agissent quotidiennement auprès des personnes les plus vulnérables et sont au fondement de la solidarité – solidarité d’autant plus primordiale et nécessaire dans la période que nous traversons. Monsieur le secrétaire d’État, pouvez-vous nous confirmer que les associations bénéficieront de ces mesures, au même titre que les entreprises ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gabriel Attal" qualite="secrétaire d'État auprès du ministre de l'éducation nationale et de la jeunesse" id_acteur="PA722190" id_nomination_oe="PM759824" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591792" ordre_absolu_seance="222" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058403" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État auprès du ministre de l’éducation nationale et de la jeunesse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591793" ordre_absolu_seance="223" id_acteur="PA722190" id_mandat="-1" id_nomination_oe="PM759824" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058404" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gabriel Attal</nom>
+              <id>722190</id>
+              <qualite>secrétaire d’État auprès du ministre de l’éducation nationale et de la jeunesse</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme vient de le souligner le Premier ministre, les moments de crise agissent comme des révélateurs. À cet égard, je tiens à saluer les témoignages de solidarité et le besoin de lien qu’expriment les Français, qu’ils se traduisent par des applaudissements depuis les balcons à vingt heures ou par le désir de venir en aide et de se rendre utiles. Nous avons besoin des associations pour cela, car elles remplissent un rôle social majeur. Dans le contexte actuel, le social et l’aide aux plus démunis ne sont pas de second ordre par rapport au sanitaire, mais au moins aussi importants. Nous savons en effet que les premières victimes des crises sanitaires peuvent être les personnes les plus vulnérables. C’est pourquoi, en début de semaine, M. Jean-Michel Blanquer et moi-même avons réuni les réseaux associatifs pour faire le point.<br/>Toutes les mesures de soutien aux entreprises annoncées par le Gouvernement sont ouvertes aux associations employeuses : chômage partiel, décalage du paiement des impôts ainsi que des charges sociales, des loyers, des factures d’électricité et de gaz. J’invite les associations qui se posent des questions à consulter le site associations.gouv.fr pour obtenir les informations nécessaires et identifier les contacts auxquels elles doivent s’adresser pour faire valoir leurs droits.<br/>Par ailleurs, certaines associations manquent aujourd’hui de bras. Un tiers des bénévoles réguliers des Restos du cœur ont ainsi plus de 70 ans et sont confinés à leur domicile, étant les plus à risque face à l’épidémie. Il faut donc mobiliser les Français. À la demande du Président de la République et du Premier ministre, nous lancerons dans les prochaines heures un appel pour répondre à la pénurie de bénévoles dont souffrent certains secteurs absolument vitaux pour nombre de nos concitoyens. Une plateforme sera créée pour mettre les associations en relation avec tous ceux qui pourront leur apporter leur aide. Je sais que vous vous mobiliserez pour faire connaître ce dispositif.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591796" ordre_absolu_seance="226" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2058407" valeur="">
+      <orateurs/>
+      <texte>Mobilisation de l’éducation nationale pour les enfants du personnel soignant</texte>
+      <interExtraction nom_orateur="M. Charles de Courson" id_acteur="PA942" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722900">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591797" ordre_absolu_seance="227" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058408" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Charles de Courson.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591798" ordre_absolu_seance="228" id_acteur="PA942" id_mandat="PM722900" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058409" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Charles de Courson</nom>
+              <id>942</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les personnels soignants, réquisitionnés ou non, fournissent un effort considérable, vingt-quatre heures sur vingt-quatre et sept jours sur sept, pour faire face à l’afflux croissant de malades. Cet effort doit être soutenu fortement et dans la durée. Dans ce cadre, le Gouvernement a instauré un service de garde des enfants des personnels soignants des fonctionnaires indispensables à la gestion de la crise sanitaire. Or certains secteurs éprouvent de réelles difficultés à assurer un tel service vingt-quatre heures sur vingt-quatre.<br/>Monsieur le ministre de l’éducation nationale et de la jeunesse, pourriez-vous faire le point, devant la représentation nationale, du déploiement de ce service de garde ? Envisagez-vous des mesures complémentaires, comme la réquisition de certains personnels, pour le rendre effectif ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Michel Blanquer" qualite="ministre de l'éducation nationale et de la jeunesse" id_acteur="PA717157" id_nomination_oe="PM759776" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591800" ordre_absolu_seance="230" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058411" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591801" ordre_absolu_seance="231" id_acteur="PA717157" id_mandat="-1" id_nomination_oe="PM759776" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058412" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Blanquer</nom>
+              <id>717157</id>
+              <qualite>ministre de l’éducation nationale et de la jeunesse</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie pour cette question qui permet de faire le point des actions conduites par mon ministère. Deux missions essentielles nous incombent. D’une part, nous devons assurer un enseignement à distance auprès de plus de 12 millions d’élèves. Nos 850 000 professeurs sont mobilisés à cet effet, grâce au dispositif « Ma classe à la maison » et à d’autres outils permettant de rester en lien avec les élèves. Je tiens à rendre hommage à l’ensemble des professeurs qui se mobilisent dans ce cadre. Nous avons rencontré des difficultés informatiques lundi, mais la situation s’améliore au fil du temps.<br/>D’autre part, nous devons accueillir les enfants du personnel soignant. Vous l’avez très bien dit, l’ensemble des Français, a fortiori le service public, doivent soutenir les personnels soignants afin qu’ils accomplissent leurs missions sans s’inquiéter de la garde de leurs enfants. C’est pourquoi nous avons créé un service d’accueil dans toute la France. La plupart des collèges et des écoles sont restés ouverts et proposent une permanence pédagogique aux enfants des soignants, lorsque ces derniers attestent devoir travailler. Nous avons accueilli 14 000 élèves lundi dans ce cadre, puis 28 000 mardi ; le dispositif monte donc en puissance, et nous pensons atteindre 30 000 à 40 000 élèves de façon stable. Il n’a pas été nécessaire de procéder à des réquisitions à cette fin, car des volontaires – auxquels je tiens à rendre hommage – se sont spontanément présentés pour assurer cette permanence pédagogique. Nous avons le devoir de leur assurer de bonnes conditions sanitaires, en équipant les écoles de savon et de gel hydroalcoolique et en imposant une distance de plus d’un mètre entre chacun – raison pour laquelle les groupes ne dépassent jamais dix élèves.<br/>Nous devons offrir ce même service le mercredi et le week-end. Des fonctionnaires volontaires de l’éducation nationale sont mobilisés à cet effet, mais aussi des personnels des collectivités locales – nous nous sommes accordés avec les élus en ce sens – et des associations. Grâce à cette mobilisation, nous pourrons assurer la garde des enfants du personnel soignant sept jours sur sept.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Charles de Courson" id_acteur="PA942" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722900">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591804" ordre_absolu_seance="234" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058415" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Charles de Courson.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591805" ordre_absolu_seance="235" id_acteur="PA942" id_mandat="PM722900" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Charles de Courson</nom>
+              <id>942</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cette garde sera-t-elle assurée vingt-quatre heures sur vingt-quatre ? Les soignants travaillent jour et nuit !  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Michel Blanquer" qualite="ministre de l'éducation nationale et de la jeunesse" id_acteur="PA717157" id_nomination_oe="PM759776" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591806" ordre_absolu_seance="236" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2058417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591807" ordre_absolu_seance="237" id_acteur="PA717157" id_mandat="-1" id_nomination_oe="PM759776" id_nomination_op="-1" code_grammaire="QG_2_5" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2058418" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Blanquer</nom>
+              <id>717157</id>
+              <qualite>ministre de l’éducation nationale et de la jeunesse</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Elle sera assurée sept jours sur sept, mais pas vingt-quatre heures sur vingt-quatre. Nous devrons trouver d’autres modalités pour la garde de nuit, qui ne pourra pas être organisée dans les écoles et les collèges.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1591808" ordre_absolu_seance="238" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="QG_1_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058419" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous avons terminé les questions au Gouvernement.<br/> Avant de lever la séance, je tiens à remercier les fonctionnaires et tous les personnels de l’Assemblée nationale qui s’investissent pour permettre à nos travaux de se dérouler.<br/> Je vous remercie de quitter l’hémicycle de manière échelonnée.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="7" id_preparation="1591810" ordre_absolu_seance="240" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2058421" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1591811" ordre_absolu_seance="241" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2058422" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, cet après-midi, à quinze heures :<br/>Discussion du projet de loi de finances rectificative pour 2020.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1591812" ordre_absolu_seance="242" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2058423" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="1591813" ordre_absolu_seance="243" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2058424" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2021O1N217</uid>
+  <seanceRef>RUANR5L15S2021IDS24000</seanceRef>
+  <sessionRef>SCR5A2021O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20210326090000000</dateSeance>
+    <dateSeanceJour>vendredi 26 mars 2021</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>217</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2020-2021</session>
+    <nomFichierJo>20210217</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-03-30T23:02:03.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2460169">Présidence de M. Hugues Renson</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2460173">
+          <intitule>Place de la France face à la révolution des NBIC</intitule>
+        </titreStruct>
+        <para id_syceron="2460177">M. Thomas Gassilloud (Agir ens)</para>
+        <para id_syceron="2460209">M. Jean-Paul Lecoq (GDR)</para>
+        <para id_syceron="2460269">Mme Mireille Clapot (LaREM)</para>
+        <para id_syceron="2460282">Mme Maud Gatel (Dem)</para>
+        <para id_syceron="2460325">M. Cédric O, secrétaire d’État chargé de la transition numérique et des communications électroniques</para>
+        <para id_syceron="2460361">M. Pierre-Yves Bournazel (Agir ens)</para>
+        <para id_syceron="2460368">M. Cédric O, secrétaire d’État</para>
+        <para id_syceron="2460374">Mme Anne Genetet (LaREM)</para>
+        <para id_syceron="2460381">M. Cédric O, secrétaire d’État</para>
+        <para id_syceron="2460385">Mme Anne Genetet</para>
+        <para id_syceron="2460391">M. Cédric O, secrétaire d’État</para>
+        <para id_syceron="2460396">Mme Maud Gatel (Dem)</para>
+        <para id_syceron="2460400">M. Cédric O, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2460220">
+          <intitule>Investir pour mieux saisir, confisquer pour mieux sanctionner</intitule>
+        </titreStruct>
+        <para id_syceron="2460223">M. Jean-Luc Warsmann (UDI-I)</para>
+        <para id_syceron="2460231">M. Ugo Bernalicis (FI)</para>
+        <para id_syceron="2460237">M. Jean-Paul Lecoq (GDR)</para>
+        <para id_syceron="2460248">M. Laurent Saint-Martin (LaREM)</para>
+        <para id_syceron="2460256">M. David Corceiro (Dem)</para>
+        <para id_syceron="2460295">M. Thomas Gassilloud (Agir ens)</para>
+        <para id_syceron="2460303">Mme Olivia Grégoire, secrétaire d’État chargée de l’économie sociale, solidaire et responsable</para>
+        <para id_syceron="2460316">Mme Agnès Thill (UDI-I)</para>
+        <para id_syceron="2460319">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2460411">M. Ugo Bernalicis (FI)</para>
+        <para id_syceron="2460417">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2460426">Mme Naïma Moutchou (LaREM)</para>
+        <para id_syceron="2460430">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2460436">Mme Naïma Moutchou</para>
+        <para id_syceron="2460441">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2460445">M. David Corceiro (Dem)</para>
+        <para id_syceron="2460457">Mme Olivia Grégoire, secrétaire d’État</para>
+        <para id_syceron="2460462">M. Pierre-Yves Bournazel (Agir ens)</para>
+        <para id_syceron="2460466">Mme Olivia Grégoire, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="2460470">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du vendredi 26 mars 2021</journee>
+      <session>session ordinaire 2020-2021</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1842403" ordre_absolu_seance="1" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2460169" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Hugues Renson<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1842404" ordre_absolu_seance="2" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460170" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1842405" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2460171" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à neuf heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842407" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2460173" valeur="">
+      <orateurs/>
+      <texte>Place de la France face à la révolution des NBIC</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842408" ordre_absolu_seance="6" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460174" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur le thème : « La France face à la révolution des NBIC : quelle place dans le match entre les États-Unis et la Chine ? ».<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement. Nous procéderons ensuite à une séance de questions-réponses.<br/>La parole est à M. Thomas Gassilloud.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842411" ordre_absolu_seance="9" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460177" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thomas Gassilloud (Agir ens)</nom>
+            <acteurRef>PA722358</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous sommes réunis aujourd’hui pour débattre de l’action de la France dans le domaine des NBIC – nanotechnologies, biotechnologies, informatique et sciences cognitives – à la lumière de la compétition stratégique sino-américaine. En effet, la dynamique géopolitique entre la Chine et les États-Unis structurera le Grand Jeu des nations pour les trente prochaines années. Nous en voyons d’ailleurs d’ores et déjà des illustrations sur les plans diplomatique, commercial, et parfois même militaire.<br/>Pour commencer, je voudrais remercier le président du groupe Agir ensemble, Olivier Becht, d’avoir choisi d’inscrire ce thème à l’ordre du jour et de m’avoir proposé d’intervenir pour indiquer la position de notre groupe.<br/>Durant la seconde moitié du XX<exposant>e</exposant> siècle, l’ère de la révolution de l’information a été marquée par la convergence des technologies de l’information, donnant naissance à une série de disciplines scientifiques, de processus industriels, et de services. Internet, par exemple, dont chacun ici mesure bien les conséquences dans sa vie quotidienne, est né de cette convergence. De même, la recherche sur le génome humain, qui continue de progresser, est issue de la convergence entre la biologie et les technologies de l’information. En effet, si le décryptage du génome a été rendu possible par l’augmentation de la puissance de calcul, la communauté des technologies de l’information, à l’inverse, s’est inspirée des avancées de la biologie, inventant les réseaux neuronaux, l’intelligence en essaim et les ordinateurs à ADN.<br/>L’émergence rapide des sciences cognitives a entraîné une interaction croissante entre les sciences du vivant, l’informatique et l’ingénierie, puis a donné un nouveau souffle à l’intelligence artificielle et à la robotique.<br/>Nous le voyons, les avancées technologiques permises par la convergence des NBIC provoquent des effets de rupture sans précédent. Elles offrent autant d’occasions pour le stratège visionnaire que de risques pour celui qui, par crainte ou par manque d’ambition, reste en retrait de la marche du monde.<br/>Il est parfois difficile de cerner les enjeux de technologies aux effets de rupture si importants. La fiction prend alors le pas sur la réalité. À cet égard, notre imaginaire collectif est foisonnant : de Terminator, le robot tueur émancipé de la tutelle de l’homme à la Matrice – l’intelligence artificielle exploitant l’homme pour en faire une source d’énergie –, en passant par Hulk, supersoldat incontrôlable au génome modifié, ces références issues de la culture populaire sont pour nous, décideurs politiques, riches d’enseignements sur la perception des ruptures technologiques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842417" ordre_absolu_seance="15" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460183" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <acteurRef>PA335612</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Combien de fois la réalité n’a-t-elle pas rejoint la fiction !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842418" ordre_absolu_seance="16" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460184" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thomas Gassilloud</nom>
+            <acteurRef>PA722358</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le premier est que si le développement d’une technologie de rupture n’est pas suffisamment maîtrisé sur les plans éthique et technique, celle-ci finit par nuire à l’homme, à ses droits et à la nature.<br/>Le deuxième est que les conditions d’un développement sain ne peuvent émerger que dans un cadre international – c’est le fondement du multilatéralisme. C’est de ce deuxième enseignement que nous débattons aujourd’hui : comment faire de la France – et, derrière elle, l’Europe – un leader en matière de NBIC, afin de ne pas subir les pressions de la compétition sino-américaine ?<br/>Dans la course à la puissance, le rôle joué par la compétition technologique n’a rien de nouveau. Contrôler le secret du bronze, du fer, du gouvernail, de la poudre, de la machine à vapeur, puis de l’atome : voilà ce qui a rythmé l’histoire du monde, fait et défait les empires, apporté la souveraineté prospère à certains peuples et condamné d’autres à la vassalité. Pour ceux qui douteraient encore, rappelons qu’en 1957, déjà, Washington avait tremblé au moment du lancement du satellite Spoutnik. Face à ce Pearl Harbor technologique, les États-Unis s’étaient alors lancés dans une course à l’espace. À l’époque, nombre d’Américains n’en avaient pas saisi les enjeux stratégiques, mais tous ont profité de ses retombées scientifiques et technologiques, comme le GPS, la télévision, la téléphonie satellitaire et l’informatique.<br/>Au-delà du saut technologique réalisé dans chacune de ces disciplines scientifiques, c’est bien la convergence des quatre – nanotechnologies, biotechnologies, informatique et sciences cognitives – qui offre des possibilités sans précédent et pose des questions nouvelles.<br/>Nous, êtres humains, sommes de plus en plus intimement liés à la technologie : c’est à grande échelle qu’elle entre dans nos vies, par le biais des smartphones, des traqueurs d’activité, des réseaux sociaux, des jeux en ligne ou des lunettes de réalité augmentée. Ces appareils numériques s’immiscent dans notre vie privée et sociale et ont de plus en plus d’effets sur les échanges humains. En effet, les interactions avec les machines qui nous entourent – caméras de vidéosurveillance, chaussures intelligentes, puces à ADN, technologies de reconnaissance faciale – permettent de nous caractériser numériquement, les données collectées touchant à notre patrimoine génétique, notre santé, nos sentiments, nos préférences, etc.<br/>Parallèlement, l’importance de l’interface entre l’homme et la machine ne cesse d’augmenter, réduisant la distance qui existait jusqu’à présent entre les capacités de l’homme et celles de la machine. Ainsi, certains robots peuvent imiter le comportement humain au point d’entrer en compétition avec l’homme sur le marché du travail et dans la vie courante.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842424" ordre_absolu_seance="22" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460190" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <acteurRef>PA335612</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Que du bonheur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842425" ordre_absolu_seance="23" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460191" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thomas Gassilloud</nom>
+            <acteurRef>PA722358</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ces robots, capables d’un apprentissage automatique par l’expérience, deviennent autonomes ; ils ont une énorme capacité de mémoire et développent une aptitude à raisonner. De nouvelles machines dotées de l’intelligence artificielle seront utilisées dans les systèmes experts, le commandement militaire, l’aide au diagnostic et aux décisions, la gestion financière. Elles seront capables de reconnaître les formes et la parole. Certaines machines pourront même exprimer des émotions artificielles et résoudre des problèmes complexes.<br/>Les avancées duales offertes par certaines technologies étendent également la confrontation économique à de nouveaux espaces de compétition : numérique, robotisation, intelligence artificielle, télécoms à très haut débit. Face à ces nouveautés, les États européens avancent parfois en ordre dispersé, avec des budgets cumulés en recherche et développement – R&amp;D – souvent sous-dimensionnés, notamment par rapport aux efforts chinois et américains. Ces insuffisances sont de nature à priver l’Europe de son avance résiduelle et de son influence dans ces domaines. Le risque d’un déclassement irrémédiable, voire d’un effacement du continent européen dans les affaires du monde, ne peut plus être écarté. Les résultats de la course au vaccin contre la covid-19 en sont un bon exemple et constituent une première alerte : d’autres continents ont été plus ambitieux et plus forts que nous.<br/>Contrairement aux nôtres, les ambitions de la République populaire de Chine sont immenses. Là encore, la pandémie de la covid-19 aura permis de révéler une partie des ambitions stratégiques et des modes d’action du régime chinois. Assumant ouvertement sa rivalité stratégique avec Washington, exploitant toutes les occasions qui se présentaient, Pékin a développé au cours des trois dernières années une diplomatie aussi active qu’agressive, fondée sur des actions d’influence au niveau mondial, et que ses efforts en matière d’espionnage et de captation technologique et le poids qu’elle représente désormais en matière économique et industrielle ont permis d’accentuer – sans même parler de la résolution dont elle fait preuve du point de vue militaire.<br/>Pékin entend peser plus directement sur les enjeux mondiaux et faire valoir ses aspirations stratégiques. Au-delà d’un compétiteur économique, la Chine est ainsi devenue un rival systémique pour l’Union européenne, mais aussi un partenaire diplomatique de premier plan, notamment sur la question climatique. Elle a profité de la pandémie pour mener une diplomatie sanitaire et mettre en avant ses entreprises et ses produits. L’ambition chinoise en matière d’industrie pharmaceutique s’inscrit dans le cadre du plan <italique>Made in China 2025</italique>, qui fait des biotechnologies une des dix priorités de la recherche. Le plan quinquennal 2016-2020 présentait d’ailleurs la pharmacie comme l’une des cinq industries prioritaires, un accent particulier étant mis sur les vaccins.<br/>De l’autre côté du Pacifique, le bouleversement numérique est très largement provoqué par des entreprises américaines, au premier rang desquels les célèbres géants Google, Amazon, Facebook, Apple et Microsoft, les GAFAM. Leur présence est écrasante dans la recherche en ligne, le e-commerce, les systèmes d’exploitation et les plateformes, qui hébergent et permettent de faire circuler des contenus véhiculant les valeurs de l’Amérique. Ces entreprises s’affirment donc comme l’un des instruments du <italique>soft power</italique> américain.<br/>Cette domination continue de s’accentuer, car les entreprises de la Silicon Valley se développent en absorbant les nouveaux venus, dont les innovations pourraient les menacer. Le caractère exponentiel de la croissance numérique leur permet de creuser sans cesse l’écart avec leur rival arrivé plus tard sur le marché.<br/>Pour compléter ce succès, les acteurs américains du numérique souhaitent maîtriser l’ensemble des chaînes de valeur dans lesquelles ils s’inscrivent. Leur démarche est comparable à la stratégie dite du collier de perles, appliquée par la Chine, qui vise à assurer son approvisionnement en hydrocarbures grâce à l’acquisition de ports le long des routes maritimes.  <br/>Les entreprises américaines ont su procéder aux investissements physiques nécessaires en amont de la chaîne de valeur. Google, par exemple, possède près de 900 000 serveurs, travaille avec des ordinateurs quantiques et collabore avec la NASA, l’agence spatiale américaine. Pour maîtriser leurs services de manière globale, les géants du numérique investissent aussi dorénavant dans des réseaux internet privés qui combinent sécurité et performances. Grâce à cette logique, les acteurs américains sont en mesure de nuire à leurs concurrents ou, à tout le moins, de les mettre en insécurité.<br/>Enfin, sur le plan mondial, les États-Unis dominent le secteur de la biologie de synthèse.<br/>Le caractère dual de ces recherches et technologies, qui présentent des applications aussi bien civiles que militaires, doit donc être appréhendé d’un point de vue opérationnel. Alors, face à ces défis, que doit faire la France ?<br/>Tout d’abord, elle doit se donner les moyens de ses ambitions. Le Président de la République a ainsi annoncé un ambitieux plan relatif à l’intelligence artificielle, et dévoilé, le 21 janvier, le plan quantique, qui vise à organiser les forces industrielles et de recherche du pays pour faire de la France un acteur majeur des stratégies quantiques.<br/>Nous devons également mieux identifier les risques sur les chaînes d’approvisionnement quitte, si nécessaire, à développer nos propres canaux. Certaines filières industrielles stratégiques doivent faire l’objet d’une attention particulière, susceptible d’aller jusqu’à une démarche de soutien capitalistique.<br/>Enfin, pour renforcer leur souveraineté et assumer leurs responsabilités partagées, nos alliés européens devront accroître leur indépendance technologique et industrielle.<br/>Mes chers collègues, la maîtrise des NBIC n’est pas une simple option, ni pour la France, ni pour l’Europe, car elle conditionne notre souveraineté, c’est-à-dire notre capacité à décider par nous-mêmes et à élaborer nos politiques publiques, y compris en matière de lutte conte le dérèglement climatique. Puisse ce débat contribuer modestement à la prise de conscience de chacun d’entre nous, afin que nous construisions ensemble un monde meilleur pour nos enfants. <italique>(Mme</italique><italique> </italique><italique>Mireille Clapot applaudit.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq (GDR)" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723506">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842439" ordre_absolu_seance="37" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460205" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1842443" ordre_absolu_seance="38" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460209" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq (GDR)</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nanotechnologies, biotechnologies, informatique et sciences cognitives : ces quatre mots provoquent autant d’inquiétudes qu’ils n’ouvrent de portes sur l’avenir.<br/>Aux yeux des députés communistes, la question de la course au progrès pose un problème de fond : d’ambitieuses entreprises privées jouent aux apprentis sorciers et imposent aux peuples les conséquences de leurs trouvailles. Or ces trouvailles sont parfois dangereuses, et leurs conséquences ne peuvent jamais être connues à l’avance.<br/>L’élaboration de ces nouvelles technologies n’est pas motivée par la recherche du bien de l’humanité ou la préservation de la vie sur terre, mais par l’espoir qu’elles rapportent gros aux premières entreprises qui seront en mesure de déposer des brevets.<br/>Ce caractère antidémocratique de la recherche fondamentale est extrêmement grave. Depuis des années, en France comme dans le reste du monde, la recherche publique se désinvestit de la recherche fondamentale, laissant ce champ aux entreprises privées qui s’y adonnent sans se préoccuper de réflexion éthique, visant non pas le bien commun mais de substantiels bénéfices.<br/>Au passage, je note une contradiction chez ceux qui, à droite, prônent le conservatisme en matière de bioéthique : d’un côté, ils soutiennent la liberté du marché et sa main invisible, mais de l’autre, ils s’étonnent que des entrepreneurs-apprentis sorciers ne se donnent aucune limite et ne prêtent aucun intérêt aux conséquences possibles de leurs découvertes.<br/>J’espère donc que ce débat permettra à certains d’accepter l’idée que, dans un marché totalement libéralisé, tout peut survenir. C’est d’ailleurs précisément pour cette raison que les communistes exigent une régulation forte du marché, doublée d’un système de validation démocratique. C’est seulement à ce prix que les débats relatifs à la bioéthique pourront se tenir honnêtement.<br/>Une telle validation est fondamentale : de nombreux citoyens s’offusquent de l’imposition de nouvelles technologies invasives dans leur quotidien, tels que la 5G ou les compteurs Linky, alors même que l’on ne connaît pas la nocivité des ondes dont elles sont la source, ni d’un éventuel « effet cocktail » dû à une exposition à long terme et cumulée avec d’autres réseaux sans fil comme le wifi. Comment peut-on prétendre que de tels choix ne doivent pas faire l’objet d’un référendum ?<br/>Le progrès technique doit faire partie des enjeux démocratiques de demain. La robotisation pour limiter la pénibilité au travail, oui, mais la robotisation pour supprimer des emplois et pour mieux contrôler les citoyens, non !<br/>À ce propos, à quoi serviront les NBIC ? Seuls les naïfs peuvent croire qu’elles sont destinées à améliorer le sort de l’humain, car ces technologies servent avant tout à contrôler les citoyens. Par exemple, pour faire accepter la 5G, qui permet de réduire la latence des réseaux internet, on prétend qu’elle permettra d’accéder immédiatement à des vidéos sur des dispositifs mobiles – c’est ce que vous faites miroiter à la jeunesse de France après l’avoir achetée avec des téléphones –, mais sa véritable raison d’être est de faire fonctionner à grande échelle des caméras de reconnaissance faciale et de recueillir, d’envoyer et de traiter des données presque en temps réel, ce qui n’est pas possible avec la 4G. Sur cette question, nous aurions dû donner la parole au peuple et le laisser trancher, mais vous ne le voulez pas.<br/>Le principe de précaution est systématiquement ringardisé. La formulation même du thème de notre débat – « La France face à la révolution des NBIC : quelle place dans le match États-Unis-Chine ? » – porte à croire que nous sommes dans une confrontation permanente. Sommes-nous obligés de nous lancer dans une course folle vers le précipice ? Sommes-nous contraints de le faire parce que nos voisins, si puissants soient-ils, courent aussi ? Ne pourrions-nous pas, en France ou à l’échelle de l’Union européenne, créer une troisième voie, celle d’une technologie améliorée au service de l’humain et d’un progrès qui servirait à autre chose qu’à contrôler les populations et augmenter le profit des grandes entreprises ? C’est cela, le sujet de notre débat, et non pas de commenter un match.<br/>Et s’il s’agit vraiment d’un match, plutôt que d’occuper la place des spectateurs ou des joueurs, soyons les arbitres ! Réinvestissons massivement la diplomatie mondiale en affirmant notre vision du monde, des valeurs démocratiques fermes, et ne faisons pas du capitalisme néolibéral, qui nous mène tout droit dans le mur, notre seul et unique maître. Plutôt que de laisser régner les obsédés de la technologie, soyons un espace démocratique au sein duquel sont effectués des choix éclairés. Engageons une troisième voie démocratique, tournée résolument vers l’avenir.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mireille Clapot (LaREM)" id_acteur="PA719294" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722618">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842518" ordre_absolu_seance="49" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460268" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mireille Clapot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842519" ordre_absolu_seance="50" id_acteur="PA719294" id_mandat="PM722618" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Clapot (LaREM)</nom>
+              <acteurRef>PA719294</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ces dernières décennies, les NBIC ont connu une progression fulgurante. N pour nanotechnologies qui manipulent les atomes, B pour biotechnologies s’appliquant aux gènes, I pour informatique qui s’appuie sur les bits et C pour sciences cognitives, fondées sur l’étude des neurones biologiques. La fameuse convergence de ces quatre technologies permettra d’entrer dans un nouveau paradigme scientifique ou technologique.<br/>Les NBIC sont connues pour cristalliser la conflictualité entre les États-Unis et la Chine. Pour Washington, la technique occupe une fonction cardinale dans la tradition politique et la construction de l’hégémonie, mais les GAFAM se sont peu à peu émancipées de la politique fédérale américaine. À Pékin, depuis Deng Xiaopin, les ambitions économiques, sociales et géopolitiques s’ancrent dans une politique technoscientifique. Les BATX – Baidu, Alibaba, Tencent et Xiaomi –, équivalent chinois des GAFAM, sont de puissants relais de la politique étrangère chinoise. Dans les deux cas, les NBIC sont la pierre angulaire de la course technologique. Elles ouvrent en effet des perspectives enthousiasmantes pour qui aspire à l’hégémonie : prospérité économique, suprématie militaire, contrôle sociopolitique des populations et perspectives de résoudre la crise environnementale sans remettre en cause du régime de production capitaliste. D’où l’importance particulière donnée à l’intelligence artificielle, qui permettra, selon le mot de Poutine, d’être le maître du monde.<br/>Les investissements de ces deux géants sont colossaux. L’intelligence artificielle représente, à elle seule, 1 milliard parmi les 450 milliards de dollars de recherche-développement américaine, avec un investissement privé des GAFAM de 60 milliards. La Chine y consacre 22 milliards de dollars et se donne l’objectif d’atteindre 60 milliards avant 2025. Il y a donc une suprématie politique, économique et financière des États-Unis et de la Chine.<br/>Qu’en est-il de l’Europe et de la France ? L’Union européenne a fait émerger tardivement des objectifs stratégiques de recherche et ce n’est que tout récemment que la Commission européenne a orienté sa politique selon une nouvelle doctrine : celle de l’autonomie stratégique et de la souveraineté numérique. Certes, 8 milliards d’euros sont dédiés au numérique dans le futur cadre financier pluriannuel 2021-2027 et 20 % des 750 milliards d’euros prévus dans le plan de relance européen seront alloués au numérique, tandis que le PIIEC – projet important d’intérêt européen commun – pour la micro-électronique est un succès.<br/>L’Europe promeut les grandes innovations technologiques telles que la 5G ou l’intelligence artificielle – à propos de laquelle le livre blanc publié en février 2020 met l’accent sur l’éthique. Nous souscrivons pleinement à cette ambition, même si – ce n’est pas un grand secret – la culture de la donnée est loin d’être répandue au sein de l’Union, dont l’agilité n’est pas la vertu cardinale. Il faudra donc patienter encore un peu avant qu’un écosystème européen prenne forme. Aussi la France active-t-elle ses leviers souverains, avec le plan France relance sur deux ans, les PIA, ou programmes d’investissements d’avenir, sur cinq ans, les stratégies d’accélération du PIA 4 et, au-delà, le financement de la recherche que notre récente loi de programmation de la recherche porte à 3 % du PIB, soit 25 milliards d’euros sur dix ans. Il faut citer également le déploiement d’une stratégie IA – intelligence artificielle – au succès reconnu, le plan nano 2022 et un plan majeur pour les technologies quantiques dévoilé en janvier par le Président de la République et doté de 1,8 milliard d’euros. Enfin, la cybersécurité, l’espace numérique et le cloud de confiance devraient être des priorités pour la prochaine présidence française de l’Union européenne, en 2022.<br/>J’en viens maintenant à l’aspect societal de ces technologies, vues sous l’angle purement national – ce sera en quelque sorte une réponse à M. Lecoq. Il faut bien, en effet, se poser une question essentielle pour nos concitoyens : les NBIC, pour quoi faire, au fond ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842525" ordre_absolu_seance="56" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460275" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842526" ordre_absolu_seance="57" id_acteur="PA719294" id_mandat="PM722618" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Clapot</nom>
+              <acteurRef>PA719294</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi de citer Pic de la Mirandole qui, en 1486 dans son <italique>Discours sur</italique><italique> la dignité de l’homme</italique>, faisait ainsi parler le créateur s’adressant à l’homme : « Si nous ne t’avons fait ni céleste ni terrestre, ni mortel ni immortel, c’est afin que, doté pour ainsi dire du pourvoi arbitral et honorifique de te modeler et de te façonner toi-même, tu te donnes la forme qui aurait eu ta préférence. » Les NBIC nous prédisent des applications dans le domaine de la santé, avec la médecine prédictive et les médicaments intelligents, mais aussi, et surtout, un homme augmenté avec des membres bioniques et des organes artificiels.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842527" ordre_absolu_seance="58" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460277" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour les plus riches !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842528" ordre_absolu_seance="59" id_acteur="PA719294" id_mandat="PM722618" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460278" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mireille Clapot</nom>
+              <acteurRef>PA719294</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle ouvre la porte au transhumanisme, dont Pic de la Mirandole aura été le précurseur. Plus pessimistes, certains de nos concitoyens s’inquiètent d’éventuelles conséquences néfastes : pertes d’emplois, surveillance, manipulations, toxicité. Nous devrons sans doute les convaincre en leur apportant la preuve qu’ils vivront mieux et que la planète sera préservée.<br/>Oui, la France, dans une Europe raisonnée et fière de ses valeurs, peut tenir son rang dans le secteur des NBIC, tout en se démarquant des plateformes américaines et chinoises, dans l’intérêt des citoyens européens. <italique>(Mme</italique><italique> </italique><italique>Maud Gatel applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842530" ordre_absolu_seance="61" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460280" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On en reparle dans cinquante ans, de l’état de l’humanité !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Maud Gatel (Dem)" id_acteur="PA721760" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM779695">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842531" ordre_absolu_seance="62" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Maud Gatel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1842532" ordre_absolu_seance="63" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel (Dem)</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie tout d’abord le groupe Agir ensemble pour l’inscription à l’ordre du jour de ce débat essentiel. Questionner la place de la France face à la révolution des NBIC, c’est, plus largement, questionner la place de l’Europe et son autonomie dans les secteurs stratégiques d’aujourd’hui et de demain, ainsi que notre capacité à réguler et à imposer nos standards éthiques dans un jeu international complexe.<br/>Conjuguées, les NBIC vont bouleverser l’humanité. Leurs prolongements apparaissent à la fois prometteurs et porteurs d’espoir lorsqu’il s’agit de soigner, d’informer et de nourrir, et potentiellement très menaçants si on parle de transhumanisme ou d’exploitation des données. Au moment où que des révolutions technologiques sont bien engagées aux États-Unis et en Chine, et où émergent des champions internationaux extra-européens, l’Union a tardé à prendre conscience de l’importance des NBIC, des perspectives qu’elles offrent, mais aussi des menaces dont elles sont porteuses. Un travail d’anticipation, de régulation et d’encadrement est pourtant impérieusement nécessaire si nous voulons maîtriser les conséquences de leur développement sur la physionomie de nos futures sociétés. L’autonomie stratégique européenne est donc au cœur des débats relatifs à une évolution qui, compte tenu de son ampleur et de son intensité, est désignée comme la quatrième révolution industrielle.<br/>En ce début d’année, la Commission européenne a en effet annoncé la création d’un observatoire européen pour les technologies critiques et le lancement d’un plan d’action baptisé « ceinture à trois points », dont l’objectif est de favoriser l’autonomie stratégique de l’Europe. Ces annonces font écho au travail lancé depuis le printemps 2020 par Thierry Breton sur la définition d’écosystèmes industriels et aux enseignements d’une crise sanitaire qui agit comme un révélateur de nos faiblesses industrielles dans le domaine de la santé, qu’il s’agisse de notre capacité à produire les médicaments traditionnels ou de notre aptitude à innover.<br/>Si cette double dynamique de prise de conscience en faveur de l’autonomie industrielle et de la filière santé est centrale, c’est parce qu’un des points de convergence des NBIC, où se concentrent bon nombre d’enjeux, est la santé humaine. La révolution de la biotechnologie est apparue au grand jour avec la mise sur le marché des vaccins à ARN messager et l’attribution du prix Nobel à Emmanuelle Charpentier. Certains domaines de la recherche médicale – nanomédicaments, cellules artificielles, nanomatériaux – ne relèvent pas seulement des biotechnologies, mais du croisement des NBIC. À chaque fois, les enjeux technologiques se doublent de considérations éthiques : s’il nous faut prendre le virage de l’innovation pour la santé, il nous faut aussi promouvoir et faire respecter nos principes bioéthiques et prévenir toute dérive. On retrouve d’ailleurs le même dilemme dans des domaines toujours plus nombreux : la justice – quid du droit à l’oubli ou des droits d’auteur ? –, la fiscalité – où, comment et par qui assurer l’imposition des richesses créées ? –, la culture – comment prévenir le pillage de la valeur créée par les artistes européens ? – ou l’éthique – quelles modifications à l’environnement immédiat de l’homme ?<br/>Notre action doit donc s’engager dans un double mouvement.<br/>Le premier est la régulation, pour que la révolution des NBIC soit une révolution éthique, respectueuse de nos valeurs et de l’humain. Cet encadrement peut être national – je pense à la loi votée en 2019 à l’initiative de Patrick Mignola tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse – ou européen – comme la directive sur les services de médias audiovisuels. Sur le plan international, un rapport de force devra s’engager pour que soient préservés l’indépendance et la souveraineté européennes et le respect de notre modèle démocratique.<br/>Le second mouvement consiste à rester à la pointe de l’innovation à l’intérieur du cadre éthique que nous aurons défini, ce que traduit notamment l’initiative <italique>S</italique><italique>cale-up </italique><italique>Europe</italique> lancée au début du mois par le Gouvernement pour promouvoir des filières et des champions européens.<br/>C’est dans le même objectif que l’Union a engagé le chantier de l’autonomie stratégique. Seule une action politique volontariste pourra en effet faire émerger des pépites sur notre sol.<br/>La marge est aussi étroite qu’est vaste l’ampleur de la révolution des NBIC. Nous faisons face à quatre domaines technologiques dans lesquels s’accomplissent des sauts technologiques majeurs et dont l’alliance ouvre la voie à de nouveaux champs de connaissance et d’action. Nous sommes face à des acteurs internationaux engagés dans un tournant économique et industriel significatif. Il nous faudra de l’élan. Il nous faudra des limites. <italique>(Applaudissements sur les bancs du groupe Agir ens. – Mme</italique><italique> </italique><italique>Mireille Clapot applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État chargé de la transition numérique et des communications électroniques" id_acteur="PA764388" id_nomination_oe="PM774116" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842647" ordre_absolu_seance="72" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460324" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé de la transition numérique et des communications électroniques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842648" ordre_absolu_seance="73" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État chargé de la transition numérique et des communications électroniques</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je commencerai par remercier le député Jean-Paul Lecoq. Comme vous l’imaginez, nous ne partageons pas tout à fait la même position mais je tiens à relever sa présence, qui témoigne d’une forme de respect pour la démocratie et le débat public. Hier, j’ai vu les uns et les autres réagir à l’allocution du Président de la République. Le président Mélenchon se plaisait à dénigrer la stratégie vaccinale. Force est de constater que lorsqu’il s’agit de commenter le retard français dans la production de vaccins, il y a toujours du monde du côté de l’opposition – ce qui est normal dans une certaine mesure –, mais qu’il y en a beaucoup moins, en revanche, lorsqu’il s’agit de participer à un débat sur les causes profondes du retard de la France en matière de biotechnologies et donc de production de vaccins. Ce matin, je ne vois pas le président Mélenchon. Il n’y a personne sur les bancs du groupe La France insoumise, personne sur ceux du groupe Socialistes et apparentés, personne non plus sur ceux du groupe Les Républicains.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842649" ordre_absolu_seance="74" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460326" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis seul !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842650" ordre_absolu_seance="75" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460327" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En effet, seul le groupe communiste est là parmi les groupes d’opposition et cela s’explique, d’une certaine manière, car je pense qu’il y a dans l’histoire du parti communiste une relation spéciale avec la technique, qui dépasse d’ailleurs le seul cadre de la technique. Évidemment, il y a la majorité, que je remercie d’avoir choisi ce débat sur un sujet essentiel.<br/>Il y a une certaine inconséquence dans l’action des responsables politiques. Il est trop facile de venir commenter sur les plateaux télévisés le retard français en matière de vaccins et de déserter ensuite l’hémicycle lorsqu’il s’agit de débattre de sujets aussi importants que le progrès technique, l’investissement dans la recherche et le retard européen en ce domaine. Les uns et les autres gagneraient à faire preuve d’une certaine décence dans l’action politique. <italique>(Mme</italique><italique> </italique><italique>Maud Gatel, M.</italique><italique> </italique><italique>Thomas Gassilloud et Mme</italique><italique> </italique><italique>Anne Genetet applaudissent.)</italique> <br/>Mais venons-en au fond du débat qui nous occupe aujourd’hui et que je remercie le groupe Agir ensemble d’avoir proposé. Il soulève des questions complexes, compte tenu notamment des tensions sociales et géopolitiques existantes, mais absolument déterminantes pour l’avenir de la France et de l’Europe. Vous me permettrez de l’étendre à la recherche et à la compétition technologique que se livrent les grands ensembles mondiaux que sont les États-Unis, la Chine et l’Europe et certains autres pays.<br/>Qu’on la trouve positive ou pas, la concurrence technologique est très forte et c’est là que ma position diffère un peu de la vôtre, monsieur Lecoq. En tant que député d’une circonscription qui comprend une partie du Havre, vous en êtes témoin plus que d’autres, compte tenu de l’importance des échanges maritimes dans la compétition internationale – mais aussi intra-européenne, puisque les premiers concurrents du port du Havre sont les ports du nord de l’Europe. Mais vous savez aussi quelle importance a le progrès technologique, progrès à concevoir bien sûr dans le respect de l’humain et des transitions. Le risque, que face aux ports d’Anvers et de Rotterdam, Le Havre courrait à ne pas innover, à ne pas être à la pointe de la technologie, c’est malheureusement de se retrouver déclassé dans la compétition internationale.<br/>Il y a quelques jours, j’étais dans cette belle ville pour évoquer la 5G, que nous estimons être un élément absolument indispensable de la compétitivité des ports. Certes, elle suscite des débats mais j’estime que la responsabilité des décideurs politiques est de prendre en compte le monde tel qu’il est et non pas tel qu’ils aimeraient qu’il soit. Bien sûr, nous souhaiterions tous voir émerger une coopération internationale globale qui permettrait à chaque pays de se concentrer sur une part de la recherche afin de maximiser les gains pour tous. Soit dit en passant, il serait intéressant de savoir, du point de vue de la théorie économique, si ce modèle-là serait plus efficace qu’un modèle de concurrence, mais peu importe, la réalité, c’est que nous sommes en concurrence avec les États-Unis et la Chine. Les choix que nous faisons aujourd’hui, les choix que nous avons faits hier conditionnent l’avenir de nos emplois, de notre souveraineté, de nos modèles sociaux.<br/>Si l’on regarde le monde tel qu’il est, nous voyons bien qu’il y a une compétition technologique, une compétition dans la recherche comme il n’y en a pas eu depuis plusieurs décennies. Nous assistons à une course aux armements, symbolisée par les investissements énormes de la Chine et des États-Unis dans certaines technologies critiques – l’intelligence artificielle, le quantique, le <italique>cloud</italique> et les NBIC. De manière plus globale, comme l’a indiqué Thomas Gassilloud, nous observons une convergence des biotechnologies, des nanotechnologies et de la micro-électronique. Les pays se livrent une compétition pour acquérir à terme une suprématie technologique et économique. Ce qui est en jeu pour nous, c’est toujours notre souveraineté nationale et l’indépendance de l’Europe car la France comme l’Europe sont exposées au risque d’un déclassement significatif.<br/>Je citerai quelques chiffres pour illustrer mon propos. En 2017, lorsqu’Emmanuel Macron a été élu Président de la République, le différentiel d’investissements dans l’intelligence artificielle entre les États-Unis, d’un côté, et l’Europe, de l’autre, était le même que celui existant entre l’Europe et la Chine : un rapport de un à dix. Les raisons qui l’expliquent ne sont pas les mêmes, bien sûr. Aux États-Unis, marché capitaliste fondé sur l’initiative privée, l’investissement est essentiellement d’origine privée. Rendez-vous compte qu’Amazon investit chaque année dans la recherche de l’ordre de 20 à 22 milliards de dollars alors que la R&amp;D française, dans son ensemble, représente 60 milliards de dollars. Autrement dit, une entreprise américaine dégage à elle seule un tiers des moyens consacrés à la recherche en France. La Chine, quant à elle, repose sur autre modèle, fondé principalement sur les investissements étatiques.<br/>Le risque que nous courons est le déclassement. La France investit 2,83 % de son PIB dans la R&amp;D alors que l’Allemagne en est déjà à 3 % et vise 3,5  %. Si nous restons collés à ces 2,83 % et que les Allemands passent à 3,5 %, ce sont 60 milliards de dollars de plus chaque année qu’ils consacreront à la recherche, à leur industrie, à leur avenir. En Europe, nous sommes globalement en retard même si dans certains domaines, nous restons encore dans la course. Nous pouvons y voir le résultat de choix politiques des majorités précédentes qu’elles doivent assumer.<br/>Les choix ou les non-choix politiques sont à nos yeux décisifs et c’est la raison pour laquelle le Gouvernement a choisi dès le début de faire de la question technologique un axe extrêmement fort de sa politique, en étant parfois, il faut le dire, un peu raillé, sur la question du numérique notamment. Citons les plans sectoriels consacrés à l’intelligence artificielle, au quantique, à la cybersécurité, aux biotechnologies. Plus globalement, la loi de programmation pour la recherche représente un effort de plus de 25 milliards d’euros sur dix ans. Certains ont jugé cette ambition insuffisante – que n’ont-ils tiré de telles conclusions lorsqu’ils étaient au pouvoir ; pour nous, cet investissement historique dans la recherche publique est absolument indispensable. Ne décidons pas, de manière inconsciente, d’abandonner notre économie, nos emplois, notre souveraineté et notre modèle social.<br/>Le modèle social français tient à certains choix économiques, bien sûr, mais aussi à l’inventivité, à la créativité, à l’audace d’entrepreneurs, de chercheurs, d’entrepreneuses et de chercheuses qui ont choisi, à la fin du XIX<exposant>e</exposant> siècle et au début du XX<exposant>e</exposant> siècle, de se consacrer au rail, à la chimie, à l’aéronautique, et au lendemain de la seconde guerre mondiale, au nucléaire. D’ailleurs, monsieur Lecoq, si un référendum lui avait été consacré alors,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842660" ordre_absolu_seance="85" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460337" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela aurait été une bonne chose !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842661" ordre_absolu_seance="86" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…je ne pense pas que l’idée d’investir autant d’argent dans l’atome aurait suscité un grand enthousiasme dans la population française. Et je ne suis pas certain que sans le nucléaire, la France serait ce qu’elle est aujourd’hui, mais c’est un autre débat.<br/>Regardons les choses en face : nous avons besoin de réinvestir dans la R&amp;D et l’innovation et nous avons besoin que le privé le fasse aussi car ce qui nous différencie des puissances d’innovation, ce n’est pas la dépense publique, plus élevée en France qu’ailleurs, mais bien la dépense privée.<br/>Comme l’ont souligné Jean-Paul Lecoq et Mireille Clapot, la question de l’acceptabilité du progrès technologique s’est fait jour dans les sociétés occidentales. Bien évidemment, elle est décisive et nous ne saurions continuer dans la voie des innovations sans prendre le temps d’avoir un débat à ce sujet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842664" ordre_absolu_seance="89" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460341" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Chiche !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842665" ordre_absolu_seance="90" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460342" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Cela dit, je ne pense pas que l’on puisse régler ces problèmes à coups de référendums – j’ai déjà dit mon avis sur ce qui se serait passé si l’on en avait organisé un sur la question du nucléaire. Cela nécessite des débats longs, précis et contradictoires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842666" ordre_absolu_seance="91" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur l’éducation aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842667" ordre_absolu_seance="92" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La prochaine élection présidentielle sera, à mon avis, le meilleur moyen démocratique de donner l’occasion à chacun de faire le choix de sa relation au progrès technologique et au progrès tout court. Cette question occupera une place centrale dans le débat électoral et l’intelligence artificielle, la 5G dans la bande des 26 gigahertz, les biotechnologies ou les nanotechnologies seront autant de sujets essentiels.<br/>Il me semble indispensable que la France retrouve un discours de progrès. Je suis d’accord avec la plupart des intervenants sur le fait que l’alliance d’une ambition extrêmement forte pour la recherche et l’innovation et d’une prise en compte de l’humain doit nous permettre de trouver une voie française sur ces questions. Encore faut-il pour cela que nous soyons capables d’avoir un débat apaisé et que nous ne dévoyions pas certains principes comme le principe de précaution.<br/>Dans une interview, il y a quelques semaines, le professeur Étienne Klein soulignait que le principe de précaution devait pousser à faire des recherches et non à les bloquer. En faire un principe de refus du progrès,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842670" ordre_absolu_seance="95" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460347" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais qu’entendez-vous par progrès ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842671" ordre_absolu_seance="96" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460348" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…un principe de peur, c’est le dévoyer par rapport à sa philosophie initiale. Si nous ne sommes pas capables de voir lucidement ce que nous avons à gagner et ce que nous avons à perdre, alors nous nous retrouverons dans la même situation qu’aujourd’hui avec les vaccins. Les difficultés de la France en matière de recherche biotechnologique sont en partie la conséquence d’un dévoiement du principe de précaution. Nous avons surpondéré les risques dans les processus d’innovation technologique, tous les chercheurs en biotechnologies vous le diront. Pourquoi Emmanuelle Charpentier, dernière Française à avoir reçu le prix Nobel de chimie, est-elle partie en Allemagne ? Il faut se demander pourquoi certains secteurs sont exposés à une forme de déclassement technologique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842672" ordre_absolu_seance="97" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460349" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parce que les chercheurs sont sous-payés !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842673" ordre_absolu_seance="98" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460350" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Si nous n’abordons la question de l’innovation en santé que sous l’angle du risque alors, à la fin, ce sont les autres pays qui produiront les vaccins.<br/>La recherche technologique repose sur un équilibre lucide entre risques et gains. Et je pense que c’est ce qu’a voulu dire le Président de la République lorsqu’il est revenu sur la question du risque dans son allocution hier. Il y a un rapport aux risques, un rapport à l’échec que nous devons retrouver. Nous avons construit notre prospérité technologique, notre prospérité sociale grâce à des gens qui prenaient des risques. Il fallait oser monter dans un avion lorsqu’il venait d’être inventé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842675" ordre_absolu_seance="100" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460352" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Certes, mais s’il s’écrasait, cela n’avait pas de conséquences pour la planète entière !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842676" ordre_absolu_seance="101" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460353" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En matière de vaccins, il en va de même. Si nous refusons le risque, alors nous devons en assumer les conséquences.<br/>Je ne vais pas m’attarder plus longtemps sur ce sujet qui, comme vous le voyez, me passionne. Je rappellerai encore une fois l’importance de ce débat et remercierai la majorité et le groupe communiste pour leur présence ce matin. Je ne doute pas que nous aurons l’occasion de poursuivre ce débat au-delà de la série des questions-réponses. <italique>(Applaudissements sur les bancs des groupes LaREM, Dem et Agir ens.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1842678" ordre_absolu_seance="103" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2460355" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Monsieur le secrétaire d’État, si je me réjouis comme vous de la présence de Jean-Paul Lecoq, je dois vous indiquer qu’à l’Assemblée nationale, il n’est pas de coutume de prendre à partie des élus de la nation lorsqu’ils ne sont pas présents dans notre hémicycle.<br/>J’aimerais que nous puissions passer sereinement à la deuxième partie de ce débat. Je vous rappelle que la durée des questions ainsi que celle des réponses est limitée à deux minutes et qu’il n’y a pas de droit de réplique.<br/>La parole est à M. Pierre-Yves Bournazel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842451" ordre_absolu_seance="106" id_acteur="PA722030" id_mandat="PM723454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460361" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Yves Bournazel (Agir ens)</nom>
+            <acteurRef>PA722030</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Si la révolution des nanotechnologies, biotechnologies, de l’informatique et des sciences cognitives est un défi technique, la réponse se trouve dans le capital humain. La locomotive technologique de la robotique, de l’intelligence artificielle ou de la biotechnologie est avant tout alimentée par les cerveaux des jeunes chercheurs. Pour saisir le train des NBIC et ne pas rester sur le quai des producteurs de données assujettis à l’offre sino-américaine, la France doit mener une politique de formation, d’orientation et de fidélisation ambitieuse.<br/>Les grands groupes comme Facebook, Google, Samsung, Fujitsu ou IBM ont compris le potentiel des talents français et font le pari d’installer en France leurs nouveaux centres de recherche et d’innovation sur l’intelligence artificielle.<br/>Aussi est-il essentiel, pour soutenir et convertir en dividendes concurrentiels les travaux scientifiques français, de développer, d’abord, les compétences et le capital humain à travers la formation initiale et continue, de créer, ensuite, un environnement favorable à l’intensification de l’entreprenariat et au transfert de technologies, de promouvoir, enfin, l’attractivité vis-à-vis des acteurs internationaux et des meilleurs talents mondiaux.<br/>En ce sens, la stratégie exposée par la France en matière d’intelligence artificielle vise à attirer les meilleurs talents en mettant en place un programme national pour l’intelligence artificielle, coordonné par l’INRIA – Institut national de recherche en sciences et technologies du numérique : doublement du nombre d’étudiants formés à l’intelligence artificielle d’ici à la fin du quinquennat ; renforcement des synergies entre recherche publique et industrie ; création de chaires individuelles pour faire venir les meilleurs chercheurs ; lancement d’appels à projets, enfin, pour attirer les meilleurs projets de recherche. Le plan quantique, quant à lui, doit permettre de créer 16 000 emplois directs et indirects à l’horizon 2030.<br/>Cette montée en puissance s’appuiera sur différents niveaux de formation, combinant formation initiale, continue, technique et sur la recherche. L’objectif est de former 5 000 nouveaux talents en technologie quantique – techniciens, ingénieurs, docteurs – et 1 700 jeunes chercheurs, grâce à un doublement du nombre de tests par an.<br/>Pouvez-vous nous préciser la stratégie du Gouvernement en matière d’orientation, de formation et de fidélisation des cerveaux ? La France et l’Europe demeurent des pôles de puissance, mais nous ne devons pas ignorer le risque d’un déclassement technologique.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM774116" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842457" ordre_absolu_seance="112" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460367" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842458" ordre_absolu_seance="113" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460368" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous mettez le doigt sur le point nodal. La bataille en matière d’intelligence artificielle, comme en matière de recherche, est avant tout une bataille pour l’intelligence humaine. Historiquement, l’Europe et la France forment d’excellents chercheurs. Cependant, elles faisaient face à un double problème : elles n’en formaient pas assez et nombre d’entre eux, notamment parmi les meilleurs, partaient.<br/>Le cœur de la stratégie dans l’ensemble des secteurs que vous évoquez est donc de créer les conditions permettant de conserver les meilleurs chercheurs. Qu’est-ce que cela implique ? D’abord, d’augmenter les salaires. C’est pourquoi, dans le cadre du plan intelligence artificielle, nous avons créé 270 doctorats, développé le nombre de chaires et fait en sorte que les conditions de la recherche dans ce domaine, pour les chercheurs français ou étrangers d’ailleurs, soient améliorées. La question du salaire des chercheurs, notamment au cours des premières années de carrière, est ainsi centrale dans la LPPR – loi de programmation pluriannuelle de la recherche.<br/>Le deuxième élément, c’est la question de l’environnement et de l’écosystème dans lequel un chercheur évolue. Il décide en effet de rester et de travailler dans un pays si l’écosystème, les gens qu’il rencontre, les autres chercheurs sont au bon niveau. Pour vous citer un exemple, j’ai rencontré il y a peu un chercheur venu travailler au sein d’un centre de recherche – celui de Facebook, je crois. Ce Français, qui a habité aux États-Unis, est revenu travailler en France sur l’intelligence artificielle précisément parce que Google, mais aussi d’autres entreprises, d’autres chercheurs étaient présents sur le territoire. La question de l’attractivité de la France vis-à-vis des meilleures entreprises et des meilleurs centres de recherche est donc tout à fait centrale.<br/>C’est pourquoi nous investissons pour former plus de personnes dans les différents secteurs – le quantique, l’intelligence artificielle, la cybersécurité – et nous œuvrons à encourager l’investissement des entreprises étrangères, mais aussi françaises, comme Clitéo ou Orange, pour créer cet environnement favorable qui doit nous permettre d’attirer les meilleurs talents internationaux et de les garder. <italique>(Applaudissements</italique><italique/><italique>sur</italique><italique/><italique>quelques</italique><italique/><italique>bancs</italique><italique/><italique>des</italique><italique/><italique>groupes</italique><italique/><italique>LaREM</italique><italique/><italique>et</italique><italique/><italique>Agir</italique><italique/><italique>ens.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842462" ordre_absolu_seance="117" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous reconnaissez que le salaire des chercheurs est trop faible ! Vivement que vous fassiez de même pour les autres fonctionnaires !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842462" ordre_absolu_seance="118" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460402" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Lecoq, nous nous sommes réjouis de votre présence, n’en abusez pas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842462" ordre_absolu_seance="119" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460403" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il est rare de voir le Gouvernement admettre que les salaires sont trop faibles ! </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Anne Genetet (LaREM)" id_acteur="PA721024" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723144">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842463" ordre_absolu_seance="120" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460373" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Anne Genetet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842464" ordre_absolu_seance="121" id_acteur="PA721024" id_mandat="PM723144" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460374" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anne Genetet (LaREM)</nom>
+              <acteurRef>PA721024</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>NBIC : ce sigle, que personne ne sait énoncer, cache une compétition féroce, dont la France et l’Europe pourraient être exclues. Elles font face en effet à deux géants qui ont mis sur la table des moyens considérables pour développer leurs propres outils et leurs propres normes.<br/>Il nous faut donc définir, de manière urgente et coordonnée, une stratégie européenne qui combine investissements de conséquence, personnels compétents et installation de sites de production. Sur ce dernier aspect, la crise du Covid-19 a mis en lumière notre dépendance.<br/>Sans réaction européenne massive et rapide, ce seront des secteurs cruciaux de notre quotidien que nous mettrons dans les mains de ces deux géants : santé, éducation, défense, administration, les applications sont pratiquement illimitées.<br/>Les Français n’en mesurent pas encore la portée, mais nous devons nous y préparer. Pour traiter des flux de données très importants, nous devrons nous équiper des infrastructures adéquates, ce qui implique notamment de couvrir entièrement le territoire national en très haut débit, d’une part – le Président de la République s’y était engagé et le Gouvernement s’y attelle au travers du plan France relance et je peux témoigner que la fibre optique est arrivée dans le petit village du Lot dont je suis élue ; d’autre part, il faut s’équiper en antennes relais 5G qui, contrairement à ce qu’a pu dire subtilement le maire Europe Écologie-Les Verts M. Éric Piolle, serviront à autre chose que, je le cite, « regarder du porno dans l’ascenseur en HD ». Nos malades, en attente d’une chirurgie de pointe, apprécieront !<br/>En réponse à notre collègue Jean-Paul Lecoq, je voudrais souligner que l’outil n’est pas le problème, mais bien plutôt l’usage qu’on en fait : ainsi, un marteau peut servir à construire une maison, mais aussi à la cambrioler en fracturant une fenêtre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842468" ordre_absolu_seance="126" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460404" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parlons plutôt du serrage de vis !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842469" ordre_absolu_seance="127" id_acteur="PA721024" id_mandat="PM723144" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460379" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anne Genetet</nom>
+              <acteurRef>PA721024</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, que répondez-vous au refus idéologique, militant, voire électoraliste, opposé à la 5G ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842469" ordre_absolu_seance="128" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460405" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <acteurRef>PA720430</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh là là !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842469" ordre_absolu_seance="129" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460406" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quelle agressivité !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM774116" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842470" ordre_absolu_seance="130" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460380" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842471" ordre_absolu_seance="131" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460381" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il convient d’appréhender l’arrivée de la 5G de manière non partisane et lucide. Douze pays européens l’ont déployée avant la France, et les autorités sanitaires de ces pays se sont penchées sur cette question, notamment des pays du nord dont on sait la sensibilité en matière de santé publique. Ces autorités l’ont validée. Depuis cinquante ans, 27 000 études ont été réalisées sur les ondes électromagnétiques. Je ne suis d’ailleurs pas d’accord avec le député Jean-Paul Lecoq : aucune étude reconnue par la communauté scientifique n’a jamais estimé qu’en dessous des seuils admis d’exposition aux ondes il existait un quelconque risque pour la santé humaine. Or en France, au Havre comme à Paris ou ailleurs, nous sommes en moyenne exposés à des niveaux qui sont de 150 à 200 fois inférieurs au niveau maximal.<br/>Les élus des différentes villes de France le savent bien d’ailleurs, quelle que soit leur couleur partisane, et l’on ne peut que constater dans certaines postures une forme de jeu de rôles – on cherche encore à Paris ce que la nouvelle charte signée par les opérateurs comporte de différent par rapport à la précédente ! Après avoir dû composer avec les réticences d’une partie de leur majorité, l’ensemble des villes ont accédé au déploiement de la 5G ou vont le faire. Et, ce, pour une raison simple : d’ici un an, les réseaux de la 4G arriveront à saturation. Trois choix seront alors possibles : laisser faire, mais je ne suis pas sûr que les édiles y soient prêts ; déployer plus de 4G ; ou déployer la 5G qui, pour une même bande passante, consomme dix à vingt fois moins d’électricité.<br/>Selon une approche environnementale très basique, nous avons donc besoin de la 5G. Elle sera nécessaire également pour le développement industriel, pour les ports, pour l’agriculture, pour la télémédecine en zone rurale…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842473" ordre_absolu_seance="134" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pas pour le climat !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842473" ordre_absolu_seance="135" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460449" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes parvenus à une plus grande sérénité sur le sujet et je ne peux que m’en féliciter, tant il est crucial pour l’économie française.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Anne Genetet" id_acteur="PA721024" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723144">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842474" ordre_absolu_seance="136" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460384" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Anne Genetet, pour une deuxième question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842475" ordre_absolu_seance="137" id_acteur="PA721024" id_mandat="PM723144" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460385" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anne Genetet</nom>
+              <acteurRef>PA721024</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’an dernier, la France a connu une multiplication par quatre du nombre des cyberattaques lancées contre ses entreprises et ses administrations les plus sensibles. Depuis le début de l’année, les attaques sont devenues hebdomadaires et n’épargnent personne.<br/>Les hôpitaux, en première ligne pour soigner les malades de l’épidémie de covid-19, sont devenus récemment les cibles privilégiées du rançonnage, qui consiste à paralyser l’ensemble du système informatique d’une structure jusqu’au versement d’une rançon.<br/>Le mois dernier, les informations personnelles et médicales de plus de 500 000 Français, issues d’une trentaine de laboratoires d’analyses médicales, ont été rendues publiques par des hackers. Ces phénomènes doivent nous alerter : ils disent quelque chose de la vulnérabilité de notre tissu économique, de notre administration et de l’ensemble de notre réseau informatique. Il y a deux semaines encore, l’incendie d’un centre de données OVH a montré combien ce réseau était fragile : plus de 3,5 millions de sites web, en grande partie français, ont été affectés par le sinistre.<br/>Monsieur le secrétaire d’État, la sécurité informatique n’est pas un sujet sur lequel nous pouvons lésiner. Elle nous concerne tous et nous concernera de plus en plus au fur et à mesure que se développeront les objets connectés, la décentralisation des services administratifs, la robotisation des appareils de production ou encore les applications reposant sur l’intelligence artificielle.<br/>Je pose donc deux questions : que compte faire le Gouvernement, au niveau national, pour relever ces défis ? Au niveau européen, quelles sont les actions de la France afin de faire émerger une défense européenne en matière de cybersécurité, étant entendu que la menace ne répond pas à une logique de frontières ? Des coopérations existent-elles ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842479" ordre_absolu_seance="142" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bonne question ! Meilleure que la précédente !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM774116" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842480" ordre_absolu_seance="143" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460390" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842481" ordre_absolu_seance="144" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460391" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous pointez un sujet absolument central, sur lequel d’ailleurs le Président de la République s’est exprimé, il y a quelques semaines : celui des cyberattaques et de la cybersécurité.<br/>De la même manière que, lors d’une pandémie, la réponse première repose sur l’application des gestes barrières et le comportement individuel, nous devons faire prendre conscience à l’ensemble des Françaises et des Français de la menace qui pèse sur eux et sur leur entreprise et de la nécessité de respecter les gestes barrières dans leur vie personnelle ou professionnelle. La meilleure manière d’éviter une cyberattaque reste encore de ne pas cliquer sur une pièce jointe envoyée par une personne inconnue, de télécharger les mises à jour sur son téléphone portable ou son ordinateur, de changer régulièrement de mots de passe et de les choisir de manière relativement élaborée.<br/>De nombreuses cyberattaques commencent par l’envoi d’une pièce jointe vérolée. C’est effectivement devenu un problème national, je pense notamment à l’attaque des hôpitaux, le dernier en date étant celui d’Oloron-Sainte-Marie qui se remet difficilement. Pour y parer, nous devons améliorer la prise de conscience – c’est pour cela que nous avons travaillé à une campagne de communication, notamment avec l’équipe du <italique>Bureau des légendes</italique>. Nous devons aussi renforcer les effectifs de l’ANSSI – Agence nationale de la sécurité des systèmes d’information – qui bénéficiera d’un budget supplémentaire de 136 millions d’euros dans le cadre du plan de relance : ce sont ces personnes qui interviennent à la manière de pompiers et travaillent avec les très petites entreprises, les PME et les grandes entreprises pour anticiper les attaques. Enfin, il nous faut apporter une réponse technologique, car il s’agit bien d’une guerre technologique. C’est la raison pour laquelle le Président de la République a annoncé, il y a quelques semaines, une mobilisation de 1,3 milliard d’euros.<br/>Nous menons également ce combat au niveau européen ; nous commençons à nous coordonner et nous avons ouvert un centre européen de cybersécurité en Roumanie. Nous ne sommes qu’au début de la réponse commune et nous devons la renforcer. <italique>(M.</italique><italique> </italique><italique>Pierre-Yves Bournazel, Mme</italique><italique> </italique><italique>Mireille Clapot et Mme</italique><italique> </italique><italique>Maud Gatel applaudissent.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Maud Gatel (Dem)" id_acteur="PA721760" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM779695">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842485" ordre_absolu_seance="148" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460395" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Maud Gatel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842486" ordre_absolu_seance="149" id_acteur="PA721760" id_mandat="PM779695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460396" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Gatel (Dem)</nom>
+              <acteurRef>PA721760</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite mettre l’accent sur l’intelligence artificielle, dont les capacités exponentielles et les progrès – si tant est que nous puissions parler de progrès sur certains aspects – ouvrent tous les champs du possible.<br/>Avec le livre blanc de la Commission européenne et les travaux très intéressants conduits par le Parlement européen, une stratégie européenne se dessine en la matière. Comment comptez-vous l’articuler avec la stratégie française, compte tenu notamment des questions éthiques qui se posent ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O, quali  secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM774116" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842489" ordre_absolu_seance="151" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460399" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1842490" ordre_absolu_seance="152" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM774116" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460400" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <acteurRef>PA764388</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Les stratégies française et européenne en matière d’intelligence artificielle reposent sur deux piliers. Le premier concerne la recherche et les progrès technologiques qu’il nous faut accomplir. Dans certains domaines comme l’intelligence artificielle appliquée aux données personnelles ou aux données de consommateurs, nous connaissons en effet un retard important par rapport à la Chine ou les États-Unis, même si nous restons dans la course en matière d’intelligence artificielle embarquée ou appliquée à certains secteurs comme l’énergie ou la santé.<br/>Nous devons donc continuer à investir pour, selon le cas, réduire notre retard ou conserver notre compétitivité. Continuer à faire partie du jeu est en outre le seul moyen de parler avec les leaders technologiques internationaux qui, il faut bien le dire, fixent les standards. C’est donc également indispensable sur le plan éthique et des valeurs.<br/>Parallèlement, la France – avec le Canada notamment, et avec le soutien de l’Union européenne – a lancé le partenariat mondial pour l’intelligence artificielle – PMIA. En effet, nous avons besoin de mieux connaître les conséquences éthiques et sociétales de l’intelligence artificielle. De même que le Groupe d’experts intergouvernemental sur l’évolution du climat – GIEC – a permis de forger un consensus concernant le réchauffement climatique, préalable à l’action politique, nous devons organiser un dialogue entre les chercheurs du monde entier – canadiens et français, africains, américains, asiatiques… – pour dresser un état des lieux des recherches sociétales, sociologiques et techniques relatives aux conséquences de l’intelligence artificielle, base sur laquelle des décisions politiques seront prises. Le PMIA a été lancé il y a environ six mois, à l’instigation, notamment, du Président de la République et du Premier ministre du Canada, Justin Trudeau. Il fonctionne extrêmement bien, et tiendra cette année sa deuxième réunion. Nous avons grand espoir que ce cénacle fasse progresser le débat de société sur l’intelligence artificielle, qui interroge nos valeurs. <italique>(Mme</italique><italique> </italique><italique>Mireille Clapot et M.</italique><italique> </italique><italique>Thomas Gassilloud applaudissent.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842626" ordre_absolu_seance="155" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460217" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat est clos.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1842627" ordre_absolu_seance="156" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460218" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est dommage !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842629" ordre_absolu_seance="158" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2460220" valeur="">
+      <orateurs/>
+      <texte>Investir pour mieux saisir, confisquer pour mieux sanctionner</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842630" ordre_absolu_seance="159" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460221" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur le rapport « Investir pour mieux saisir, confisquer pour mieux sanctionner » remis au Gouvernement par MM. Laurent Saint-Martin et Jean-Luc Warsmann en novembre 2019.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement. Nous procéderons ensuite à une séance de questions-réponses.<br/>La parole est à M. Jean-Luc Warsmann.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842632" ordre_absolu_seance="161" id_acteur="PA2952" id_mandat="PM722480" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460223" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Warsmann (UDI-I)</nom>
+            <acteurRef>PA2952</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La loi du 9 juillet 2010 visant à faciliter la saisie et la confiscation en matière pénale a incontestablement changé la donne, et le décret du 1<exposant>er</exposant> février 2011 créant l’Agence de gestion et de recouvrement des avoirs saisis et confisqués – AGRASC – fut une seconde révolution. Depuis, le montant des saisies et des confiscations ne cesse de progresser. Faut-il, pour autant, verser dans l’autosatisfaction ? Dix ans plus tard, M. le Premier ministre a confié à Laurent Saint-Martin et à moi-même le soin de dresser un état des lieux de la question. De toute évidence, un changement de culture est à l’œuvre. Nos 144 auditions, menées y compris en Belgique et en Suisse, ont prouvé que la France avait beaucoup progressé, aux côtés des autres pays développés, en matière de saisies et de confiscations.<br/>Je concentrerai mon propos sur deux points. Tout d’abord, le rôle central de l’AGRASC doit être réaffirmé : elle doit devenir, plus encore qu’aujourd’hui, un centre de ressources à l’intention des magistrats et des professionnels. Lors de nos déplacements, certains magistrats nous ont fait part de leurs appréhensions à l’égard des saisies : non seulement ces dossiers sont techniques, mais encore, dans les contentieux, les avocats font de plus en plus de contestations financières, conscients des conséquences graves qu’encourent leurs clients.<br/>Il est par ailleurs essentiel que tous les services concernés utilisent le même outil informatique – et, oserais-je dire, un même outil statistique. Certains font encore leurs statistiques à la main, sur une feuille de papier ! Les pratiques étant très hétérogènes entre les services, on peut douter que la consolidation statistique effectuée au niveau national soit de grande qualité.<br/>Nous préconisons de recruter 128 équivalents temps plein – ETP – pour renforcer la présence de l’AGRASC dans les tribunaux. Il faut le reconnaître, la loi du 9 juillet 2010 n’a pas atteint tous ses objectifs. Pourquoi, par exemple, de nombreux tribunaux s’abstiennent-ils de saisir des voitures ? Tout simplement parce que cela oblige à payer des droits de garde. Certes, la loi prévoit qu’un magistrat puisse ordonner la vente immédiate d’un véhicule. Le fruit de la cession est alors consigné auprès de la Caisse des dépôts et consignations. Si la procédure se conclut par une confiscation, l’argent est confisqué ; dans le cas contraire, il est rendu. Or tous les tribunaux n’appliquent pas cette procédure, et certains accumulent des montants extrêmement importants de droits de garde. J’estime – sans penser trop me tromper – qu’un parquet sur trois donne la consigne à ses enquêteurs de ne pas saisir de voitures : cela demande du temps et de l’argent, et il y a d’autres priorités. Le but visé par la loi n’est donc pas atteint. Permettez-moi une image choc : les greffes devraient devenir la « gare de triage » des très nombreux objets qui entrent dans des tribunaux. Certains sont nécessaires à l’enquête – les preuves d’un meurtre, par exemple –, mais d’autres sont destinés à être saisis puis confisqués : ils doivent ressortir immédiatement. Nous n’avons pas à payer des locaux pour les entreposer ! Ils doivent être remis en vente s’ils risquent de perdre de la valeur le temps de la procédure, et l’argent doit être consigné, comme le prévoit la loi. Notre première recommandation fondamentale est donc de renforcer le rôle de l’AGRASC et son maillage géographique.<br/> <br/>Un deuxième point essentiel réside dans l’identification préalable du patrimoine. Un changement culturel est certes enclenché, mais – je le dis, au risque d’être provocateur – on ne doit pas placer les membres d’un réseau criminel en garde à vue avant d’avoir enquêté sur leur patrimoine. Le jour où la garde à vue est déclenchée, il faut bloquer les comptes et procéder à des saisies – encore faut-il avoir recensé le patrimoine en amont ! L’expérience prouve que le recours aux assistants spécialisés est très concluant, car il permet d’apporter les compétences d’autres ministères. Les policiers et les gendarmes ont beaucoup de qualités, mais ils ont parfois besoin d’accéder à d’autres réseaux de compétences, pour donner toute l’ampleur nécessaire à leur travail.<br/>Par ailleurs, nous avons constaté de grandes lacunes concernant l’international. Comme les voyous ont compris qu’il n’était guère efficace de placer leur argent en France, ils investissent à l’étranger. Les enquêteurs relatent que lors des perquisitions, ils trouvent des photos de vacances toujours prises dans la même maison, à l’étranger. À qui appartient-elle ? Pour investiguer ce type de sujet, il faut conclure des accords internationaux et établir un réseau relationnel avec les services des pays concernés.<br/>Le ministère de la justice est certes pilote dans le champ des saisies et confiscations, mais une démarche interministérielle est indispensable. Le ministère de l’Europe et des affaires étrangères a un rôle à jouer : la question des saisies et confiscations doit être abordée chaque fois que la France négocie un accord de coopération avec un pays étranger – qu’il s’agisse des biens détenus dans les États concernés ou des biens détenus par leurs ressortissants en France. Par ailleurs, un appui technique renforcé du ministère de l’intérieur est nécessaire – beaucoup a déjà été fait, mais il faut diffuser plus largement encore les pratiques. Enfin, les tribunaux ont besoin d’être secondés par des personnels du ministère des finances – même, si j’ai cru le comprendre, ses effectifs sont à la baisse. L’expérience le prouve : quand Bercy fait bénéficier les tribunaux de sa manière de travailler et de rechercher l’information en matière financière, cela fait grandement progresser la collectivité.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Ugo Bernalicis (FI)" id_acteur="PA720430" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722962">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842639" ordre_absolu_seance="168" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460230" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Ugo Bernalicis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842640" ordre_absolu_seance="169" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460231" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis (FI)</nom>
+              <acteurRef>PA720430</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie nos collègues Jean-Luc Warsmann et Laurent Saint-Martin pour leur rapport, qui s’inscrit dans la continuité de celui que Jacques Maire et moi-même avons consacré à l’évaluation de la lutte contre la délinquance financière. Déjà, nous nous étions intéressés à l’AGRASC à cette occasion. Nous conduisons actuellement des auditions en vue d’établir un rapport d’application du rapport précité ; nous rendrons nos conclusions fin mai ou début juin.<br/>Les constats que vous dressez, monsieur Warsmann, sont identiques à ceux que nous avons faits en matière de lutte contre la délinquance économique et financière. À chaque fois, on bute sur le même problème : un manque d’interministérialité, de coopération et de coordination entre les services. Un autre constat nous est commun : l’insuffisance de moyens. Imaginez notre étonnement : quand on demande à l’AGRASC un état des saisies et des confiscations en France, elle explique qu’elle ne peut répondre que pour son périmètre, pas à l’échelle du pays. Quand on s’adresse à la chancellerie, elle explique qu’elle ne peut répondre que tribunal par tribunal, pas pour le pays. Quand on s’adresse au ministère de l’intérieur, c’est la même chose : chaque service a ses propres statistiques, et il est impossible de répondre pour le pays. C’est donc trois ministres qui devraient être au banc ce matin, si nous voulions un débat de qualité ! Les évolutions récentes de la lutte contre la délinquance économique et financière vont d’ailleurs en ce sens. Elles se sont accélérées après l’évaluation que le Groupe d’action financière – GAFI – a faite des moyens que la France consacre à cette lutte ; le covid-19 a mis tout cela en pause, mais cette évaluation internationale par nos pairs devrait se poursuivre.<br/>Je le rappelle, l’AGRASC compte une petite quarantaine de personnes – c’est dire combien la dimension interministérielle et la question des moyens sont essentielles. Son effectif mériterait d’être quatre, cinq, voire dix fois plus nombreux, afin qu’elle devienne un vrai service support pour les enquêteurs et pour la justice.<br/>Vous observez, monsieur Warsmann, que les assistants spécialisés auprès des magistrats peuvent faire un bon travail d’identification – mais, objectivement, ce n’est pas censé être leur travail ! Il serait plus efficace que l’AGRASC ait des enquêteurs dotés de ces compétences, que les tribunaux solliciteraient. Il se pose d’ailleurs un vrai problème de recrutement au ministère de l’intérieur, notamment chez les enquêteurs, ceux qui vont mener les travaux d’identification – en réalité, toute la filière économique et financière est en grande difficulté. Il n’est pas rare qu’à l’Office central de lutte contre la corruption et les infractions financières et fiscales – OCLCIFF –, des postes ouverts à la mutation restent vacants. On doit alors recruter et former des policiers novices en la matière, qui demandent leur mutation trois ou quatre ans plus tard – alors que c’est la durée nécessaire pour acquérir de l’expérience et être le plus efficace possible. Il faudra réfléchir à des recrutements dédiés. Par le passé, le dispositif des officiers fiscaux judiciaires a bien fonctionné au sein de la police judiciaire : il s’agissait d’inspecteurs des finances auxquels était donnée une qualification judiciaire. Désormais, ils sont plutôt déployés à Bercy, dans le nouveau service d’enquêtes judiciaires des finances. Dont acte, mais nous n’en avons que quarante ! Pour un pays de 66 millions d’habitants comme la France, quarante officiers fiscaux judiciaires, on peut rêver mieux ! S’il y en avait davantage, ils pourraient mener des enquêtes patrimoniales pour l’AGRASC, en amont des saisies, sur l’ensemble du territoire.<br/>Je rentre d’un week-end à Palerme, où j’ai rencontré des acteurs de la lutte contre la mafia. L’Italie a des lois spécifiques concernant la mafia et les confiscations, qui prévoient notamment la « socialisation » des biens confisqués aux organisations mafieuses – cette mesure figure d’ailleurs dans votre rapport, monsieur Warsmann, et je tiens à l’évoquer. C’est une perspective intéressante : des immeubles saisis et confisqués pourraient être donnés en gestion à des associations d’intérêt général et d’utilité publique. À Paris, un immeuble a été saisi conjointement avec la justice italienne, et l’Italie a demandé expressément à la France que la part qui lui revient soit donnée à une association d’utilité publique. Une disposition similaire figure dans la proposition de loi améliorant l’efficacité de la justice de proximité et de la réponse pénale, mais uniquement pour de très petites confiscations, dans le cadre d’alternatives aux poursuites. Elle devrait être déployée en haut du spectre, afin qu’on puisse redonner aux citoyens ce que les mafieux ou les criminels leur ont pris indûment.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq (GDR)" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723506">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842645" ordre_absolu_seance="174" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460236" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1842646" ordre_absolu_seance="175" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460237" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq (GDR)</nom>
+              <acteurRef>PA335612</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’intéressant rapport de nos collègues Laurent Saint-Martin et Jean-Luc Warsmann dresse un bilan à la fois qualitatif et quantitatif des dispositifs de saisie et de confiscation par la justice. Le nombre de saisies et de confiscations, utilisées comme outils de répression de la délinquance, a augmenté ces dernières années. Près de 60 000 mesures de confiscation ont été prononcées par les tribunaux correctionnels en 2017, et 9 % des condamnations prononcées par ces tribunaux étaient assorties d’une confiscation.<br/>Toutefois, le rapport souligne que les différents organes concourant à l’identification des avoirs criminels travaillent trop souvent en silos. Afin de renforcer la cohérence du travail, il propose de renforcer l’AGRASC et de la déconcentrer en créant seize agences en région auprès de chaque cour d’appel. Il propose également de créer un centre de ressources pour cette agence qui centraliserait, pour toute la chaîne pénale, les informations sur un bien saisi ou confisqué. Cela faciliterait aussi la réalisation de statistiques fiables. Peut-être aurait-il été intéressant de croiser ce sujet avec le débat précédent. <italique>(Sourires.)</italique><br/>La mission a aussi constaté que l’organisation actuelle des juridictions ne permettait pas de gérer les saisies de manière efficace. Actuellement, les biens saisis en vue de leur confiscation ont le même statut que les scellés à visée probatoire. Cela entraîne des frais de garde importants. Les rapporteurs préconisent donc que les magistrats statuent sur le sort des biens saisis dans les trois mois.<br/>Comme l’a rappelé Jean-Luc Warsmann, le rapport regrette également le faible nombre d’enquêtes patrimoniales qui permettent d’établir le patrimoine d’un délinquant. Ces enquêtes sont malheureusement perçues comme des charges supplémentaires par des enquêteurs déjà sous tension, d’autant que certaines procédures trop lourdes sont parfois décourageantes. La mission préconise aussi l’instauration d’une procédure d’enquête post-sentencielle permettant aux policiers et aux gendarmes de poursuivre les recherches dans le patrimoine du condamné, une fois la peine de confiscation prononcée.<br/>En définitive, les différents constats dressés mettent en exergue la nécessité de réaliser des investissements importants, notamment humains, pour faciliter la confiscation et les saisies. Voilà ce qui est préconisé tant à droite qu’à gauche de l’hémicycle.<br/>Tous ces sujets sont fondamentaux, et on peut se féliciter de cette réflexion.<br/>Le rapport insiste également sur un sujet qui tient à cœur aux députés communistes, celui de la confiscation des biens mal acquis, c’est-à-dire des biens détournés par des dirigeants de pays étrangers ou leurs proches. Jusqu’à présent, faute de mécanisme de restitution, le droit français ne permettait pas de restituer les fonds issus de la confiscation des biens mal acquis, versés directement aux recettes du budget général de l’État français.<br/>Les rapporteurs ont présenté un modèle proche de celui de la Suisse où le traitement se fait au cas par cas, avec la création d’une cellule associant systématiquement l’AGRASC et l’Agence française de développement – AFD. Cela permettra d’élaborer un mécanisme efficace de réaffectation des biens mal acquis par l’intermédiaire d’un financement de projets de développement par l’AFD au bénéfice des populations victimes de corruption. Nous approuvons pleinement cette proposition et nous nous félicitons qu’un mécanisme visant à restituer aux populations les avoirs confisqués par la justice, grâce à l’aide au développement, ait été voté dans le cadre de la loi de programmation relative au développement solidaire et à la lutte contre les inégalités mondiales. Ces dispositions, adoptées d’ailleurs à l’unanimité par notre assemblée, constituent une première avancée notable. La création d’un programme budgétaire spécifique auquel seront versées, sous forme de crédit budgétaire, les recettes tirées de la vente des biens confisqués, devrait permettre d’assurer la traçabilité, la transparence des fonds durant les étapes du processus de restitution.<br/>Cependant, nous pensons que le dispositif peut être encore amélioré afin de garantir que les fonds confisqués, une fois restitués, ne retombent pas dans les circuits de la corruption. Comme le souligne l’ONG Transparency International, il apparaît nécessaire que ces sommes restituées soient distinguées de l’aide publique au développement et ne soient pas notifiées comme telles dans notre comptabilisation de l’aide publique au développement. La transparence et la participation de la société civile pour déterminer les modalités de restitution sont indispensables tant en France que dans les pays d’origine, afin de garantir l’effectivité de ce processus.<br/>Enfin, je remercie le groupe UDI et indépendants qui a permis la discussion de ce sujet ce matin.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Saint-Martin (LaREM)" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723102">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1842499" ordre_absolu_seance="185" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460247" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Laurent Saint-Martin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1842500" ordre_absolu_seance="186" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460248" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin (LaREM)</nom>
+              <acteurRef>PA720878</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’ai eu la chance de m’intéresser à la question des saisies et des confiscations, avec notre estimable collègue Jean-Luc Warsmann, dans le cadre du rapport que nous avons remis au Gouvernement en novembre 2019. Ce rapport visait à dresser le bilan de la politique de saisie et de confiscation des biens en matière pénale, à la suite notamment de la création de l’AGRASC. Je salue l’initiative du groupe UDI et indépendants qui nous offre aujourd’hui l’opportunité de faire le point sur les propositions que nous avions formulées. Le moment est particulièrement bien choisi puisque nous avons fêté les dix ans de l’AGRASC le 4 février dernier.<br/>Je veux tout d’abord rappeler la philosophie qui a présidé à la création de l’AGRASC. Il s’agissait alors de moderniser notre culture judiciaire par un changement de paradigme : les saisies devaient devenir un outil, non plus seulement probatoire c’est-à-dire contribuant à la manifestation de la vérité, mais aussi patrimonial afin de renforcer le caractère dissuasif des peines. Il s’avère en effet que les peines d’emprisonnement sont souvent acceptées par ceux qui les subissent comme des étapes inévitables du parcours criminel. C’est ce que nous avons pu vérifier lors de nos différentes enquêtes. Pour beaucoup trop de criminels que j’oserai appeler « de carrière », la prison fait presque partie des risques du métier et elle n’est pas aussi dissuasive que nous pourrions l’espérer. De plus, on le sait, les séjours en prison peuvent avoir, dans certains cas, un effet contre-productif en ce qu’ils constituent parfois hélas ! une école du crime. À l’inverse, et c’est ce que nous avons pu vérifier sur le terrain, les peines de confiscation auxquelles les criminels sont moins préparés, qui anéantissent la motivation qui se trouve au principe de l’action criminelle et qui touchent aussi leurs proches, peuvent avoir beaucoup plus d’effet. Les personnes condamnées à de lourdes peines cantonnent d’ailleurs souvent leur appel à la seule décision de confiscation.<br/>Je veux souligner le changement de culture ainsi accompli qui modernise le sens de la peine et qui permet, si vous me passez l’expression, de « taper au portefeuille » afin que le crime ne paie pas. Je tiens à nouveau à saluer sincèrement Jean-Luc Warsmann pour les travaux qu’il mène depuis tant d’années sur ce sujet. C’est un changement sensible non seulement pour la délinquance économique et financière, celle qu’on comprend le mieux, pour la grande criminalité organisée mais aussi pour la délinquance de moyenne intensité. Les statistiques montrent en effet que tous les types d’infractions sont susceptibles de donner lieu à des confiscations. Dans le contexte de la montée de la violence et de multiplication des trafics que nous connaissons, il faut rappeler que des peines de nature patrimoniale peuvent constituer une réponse efficace et véritablement dissuasive.<br/>Je veux également saluer l’avancée cruciale réalisée dans le projet de loi de programmation relative au développement solidaire et à la lutte contre les inégalités mondiales sur la question des biens mal acquis que nous avions abordée dans notre rapport. Le travail commun entre la majorité, le Gouvernement et les oppositions a permis d’aboutir à un texte garantissant la restitution aux populations du produit des cessions de biens confisqués à des responsables publics étrangers dans des dossiers de corruption internationale.<br/>C’est vrai, des questions demeurent sur le cadre opérationnel des restitutions. Madame la secrétaire d’État, pourriez-vous nous apporter des précisions sur les modalités qui seront choisies pour reverser les montants saisis aux populations, l’idée étant évidemment d’éviter de rendre l’argent à ceux qui ont été eux-mêmes à l’origine des crimes des biens mal acquis, ou bien à une opposition politique qui n’est parfois pas bien meilleure en la matière ?<br/>Au cours de notre travail avec Jean-Luc Warsmann, nous nous étions aperçus que la politique de saisies et confiscations était éclatée entre trop d’institutions et trop de ministères, l’AGRASC n’en assurant qu’une partie. Les diverses structures agissant dans ce domaine, l’AGRASC, la plateforme d’identification des avoirs criminels – PIAC – qui relève surtout de la police, et la cellule nationale des avoirs criminels – CeNAC – qui relève de la gendarmerie tendent à fonctionner encore trop en silos et sans doctrine partagée, au détriment d’une efficacité d’ensemble. Nous avions donc plaidé pour la création d’une stratégie interministérielle, pilotée par le ministère de la justice mais associant étroitement le ministère de l’intérieur et celui des comptes publics. Nous avions également suggéré que la communication entre les administrations, notamment avec la direction générale des finances publiques – DGFIP –, soit améliorée afin de vérifier la situation fiscale des mis en cause lorsque les biens saisis sont restitués et de rembourser les créances publiques détenues sur les condamnés lorsqu’elles existent. Madame la secrétaire d’État, avons-nous pu avancer sur la question de la coordination et de la communication entre les administrations ?<br/>Notre rapport appelait à renforcer les moyens humains de l’AGRASC et de la doter de relais en région. Si un réel effort a été accompli, nous n’en sommes encore qu’au début. Ne serait-il pas envisageable de compléter les moyens de l’AGRASC grâce à des financements dégagés par vous, en faveur de la justice de proximité ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. David Corceiro (Dem)" id_acteur="PA720928" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774485">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1842507" ordre_absolu_seance="193" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460255" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. David Corceiro.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1842508" ordre_absolu_seance="194" id_acteur="PA720928" id_mandat="PM774485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460256" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Corceiro (Dem)</nom>
+              <acteurRef>PA720928</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La législation sur la saisie et la confiscation des avoirs criminels est restée longtemps figée en droit français. Nous n’avons pas la culture de la saisie en tant que sanction dissuasive, mais uniquement dans un objectif de conservation des éléments de preuve. Nous n’avons pas non plus la culture de la confiscation comme une sanction principale ; elle constitue plutôt une peine complémentaire accessoire à la fonction. Progressivement, nous avons évolué pour en faire des éléments à part entière de notre lutte contre les avoirs criminels et la délinquance financière.<br/>Comme vous avez pu le dire, messieurs les corapporteurs, lors de la remise de votre rapport que je souhaite saluer pour sa qualité et son approche pragmatique, ce sujet est fondamental. Nos politiques publiques s’en sont emparées. Lors des précédentes réformes, l’AGRASC, organe central du dispositif, a vu son action complétée, mais comme l’ont observé nos collègues Jean-Luc Warsmann et Laurent Saint-Martin, cela a engendré des chevauchements avec d’autres structures telles que la PIAC, rattachée à l’office central pour la répression de la grande délinquance financière du ministère de l’intérieur, et la CeNAC, rattachée à la cellule des avoirs criminels de la Direction générale de la gendarmerie nationale.<br/>Depuis sa création il y a dix ans, l’AGRASC a fait l’objet d’une montée en puissance. En 2019, quelque 21 000 affaires ont été traitées pour plus de 250 millions d’euros confisqués aux délinquants et criminels. Au 31 décembre dernier, l’Agence affichait un solde positif de 1,2 milliard d’euros, et 200 millions de dollars. C’est 38 % de plus en trois ans. Toujours en 2020, grâce la revente de biens et de fonds confisqués dans des affaires de proxénétisme ou de traite d’êtres humains, l’Agence a versé 2 millions d’euros au fonds pour la prévention de la prostitution, soit quatre fois plus que l’année précédente. Le trafic de stupéfiants a, lui aussi, alimenté de 18 millions d’euros le budget destiné à la mission interministérielle de lutte contre les drogues et les conduites addictives.<br/>Souvent, les délinquants sont plus sensibles à la confiscation de leurs biens mal acquis qu’à une courte peine de prison. La portée dissuasive et pédagogique du dispositif est une réussite. Aussi le groupe Dem est-il favorable à l’idée de développer davantage la culture de la saisie en lui donnant plus de moyens financiers, comme le recommandent les corapporteurs. Je pense notamment à l’objectif de créer seize antennes régionales qui, nous l’espérons, pourront voir le jour. Je pense aussi à la nécessité de clarifier les fonctions des différents acteurs de l’identification et de la saisie afin de mener une politique plus offensive et plus cohérente à l’échelle nationale, d’identifier systématiquement les avoirs criminels, l’enquête patrimoniale devant devenir un réflexe, d’améliorer l’efficacité de la saisie et de maximiser les confiscations, d’améliorer les décisions de confiscation et les conditions de redistribution, enfin de créer un dispositif innovant de restitution des biens mal acquis.<br/>Mes chers collègues, notre groupe nourrit quelques interrogations. La première porte sur l’acquisition sociale des biens mal acquis. C’est là l’un des enjeux majeurs de la proposition de loi visant à améliorer la trésorerie des associations, déposée par Sarah El Haïry, adoptée à l’Assemblée et bientôt examinée au Sénat. Cette volonté est aussi celle du directeur de l’AGRASC. La loi pourrait permettre à une association de femmes battues, de victimes de proxénétisme, ou encore à un centre de désintoxication de récupérer les murs d’un immeuble anciennement investi par des trafiquants de drogues ou des proxénètes. Ce serait là une véritable « reconquête républicaine », pour reprendre les mots justes de Nicolas Bessone.<br/>La question du reversement des fonds de concours de l’AGRASC, indispensable au bon fonctionnement de ce système vertueux, soulève aussi des interrogations. J’en veux pour preuve les saisies d’avoirs criminels réalisées par la gendarmerie, dont la valeur s’est élevée, en moyenne, à un peu plus de 200 millions d’euros par an au cours des deux dernières années. Pourtant, la gendarmerie n’a été financée par les fonds de concours qu’à hauteur de 1 million d’euros en 2020, soit moins encore que l’année précédente où le financement s’élevait à 1,5 million. Le groupe Dem souhaite que nous adoptions une ligne d’action très claire : donner davantage de moyens financiers aux forces de l’ordre qui réalisent quotidiennement sur le terrain un nombre important de saisies. C’est leur affirmer notre soutien et notre confiance et contribuer à faire de la saisie d’avoirs criminels un levier central du dispositif de lutte contre la délinquance.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Thomas Gassilloud (Agir ens)" id_acteur="PA722358" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723552">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842581" ordre_absolu_seance="200" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thomas Gassilloud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842582" ordre_absolu_seance="201" id_acteur="PA722358" id_mandat="PM723552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460295" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Gassilloud (Agir ens)</nom>
+              <acteurRef>PA722358</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite tout d’abord remercier nos collègues du groupe UDI et indépendants d’avoir mis ce débat à l’ordre du jour.<br/>Remis au Gouvernement en novembre 2019 par Jean-Luc Warsmann et Laurent Saint-Martin, dont je salue le travail, ce rapport témoigne de l’approche transpartisane existant depuis plus de dix ans sur cette thématique des saisies des avoirs criminels. Il témoigne également – et c’est fort appréciable – de l’engagement de longue durée de notre collègue Jean-Luc Warsmann sur ces enjeux. Je le perçois comme un point d’étape sur la politique de saisie et de confiscation, quelque dix ans après l’entrée en vigueur de la loi du 9 juillet 2010 visant à faciliter la saisie et la confiscation en matière pénale. Cette loi est le premier marqueur fort du changement de paradigme en matière de saisies judiciaires. Alors que jusque là les saisies et les confiscations n’étaient pas ancrées dans la culture française, elles sont devenues un outil de répression à part entière de notre arsenal judiciaire.<br/>Bien manié, cet outil cumule plusieurs avantages. Il répond d’abord à l’impératif de justice qui veut qu’un délinquant ne puisse profiter du produit de ses activités illicites. Il répond ensuite à un impératif budgétaire, puisqu’il apporte des recettes nouvelles à la collectivité. Enfin, il répond à un impératif d’efficacité de la politique de répression puisqu’en frappant de manière efficace les délinquants au portefeuille, elle renforce l’arsenal répressif à disposition du juge.<br/>Pour assurer la mise en œuvre de cette politique de saisie et de confiscation, la loi du 9 juillet 2010 a créé l’AGRASC. Dix ans après sa création, cette agence est reconnue pour son utilité et son expertise. Son rapport pour l’année 2019 montre que le montant des confiscations a dépassé cette année-là les 253 millions d’euros, soit une hausse de plus de 600 % par rapport à l’année précédente. Quatre-vingt-sept immeubles et 3 060 biens meubles ont été vendus. Le rapport précise que les sommes confisquées ont permis d’indemniser en 2019 426 parties civiles, à hauteur de 101 millions d’euros. Ce sont des résultats significatifs, encourageants et révélateurs de l’appropriation par le système judiciaire français de ces nouveaux outils de saisie et de confiscation.<br/>La création d’agences régionales pourrait améliorer encore cette efficacité en renforçant le maillage territorial et en généralisant les bonnes pratiques ; ainsi, on identifierait mieux le patrimoine frauduleux, on le saisirait plus efficacement, on accélérerait les procédures et on réduirait les frais de gestion des biens saisis et confisqués. Nous ne pouvons que soutenir une telle proposition, qui nécessite toutefois un investissement financier et humain non négligeable.<br/>Parmi les autres axes de progression, votre rapport constate que les saisies restent concentrées sur les dossiers économiques et financiers, qui en représentent entre 60 et 70 %, et sont trop rares dans la délinquance de moyenne intensité. Je pense qu’il y a là un enjeu majeur pour permettre au dispositif d’atteindre sa pleine portée. Je retiens également la proposition de permettre aux magistrats de statuer sur le sort des biens saisis dans les trois mois afin de gérer les saisies de manière efficace et d’éviter des frais de garde importants. Enfin, je salue la volonté d’élaborer des statistiques plus fiables en mettant en place une chaîne unique de recensement et de centralisation des données.<br/>Le groupe Agir Ensemble se réjouit donc de la manière dont le cadre normatif évolue depuis dix ans en la matière, conformément à une logique d’efficacité et de pragmatisme. Ces résultats sont déjà extrêmement encourageants et les propositions que vous formulez dans ce rapport vont dans le sens d’une amélioration du dispositif. Je terminerai donc en m’associant au vœu que vous formulez à la fin de votre rapport : « la peine de confiscation doit désormais prendre pleinement sa place dans l’arsenal répressif en devenant une peine principale et non plus seulement une peine complémentaire ».</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État chargée de l'économie sociale, solidaire et responsable" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842589" ordre_absolu_seance="208" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée de l’économie sociale, solidaire et responsable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842590" ordre_absolu_seance="209" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460303" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État chargée de l’économie sociale, solidaire et responsable</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le 26 novembre 2019, les députés Jean-Luc Warsmann et Laurent Saint-Martin, que je salue, remettaient aux ministres de la justice, de l’intérieur et des comptes publics un rapport intitulé « Investir pour mieux saisir, confisquer pour mieux sanctionner ». Ce rapport porte, vous l’avez tous rappelé, sur un axe fort de la politique pénale du Gouvernement : comment donner du sens et de l’efficacité à la peine, par le biais des saisies et des confiscations ? En d’autres termes, et selon la formule de Laurent Saint-Martin, comment mieux frapper au portefeuille ?<br/>La mission constate que le cadre législatif est abouti mais que notre dispositif d’identification de saisie et de confiscation des avoirs criminels peut clairement gagner en efficacité. Elle formule aussi trente-quatre propositions d’actions. Il convient donc ce jour, un peu plus d’un an après la publication du rapport, de dresser devant la représentation nationale un premier bilan de ce qui a déjà été fait et de ce qui l’est actuellement.<br/>Ce premier bilan est positif puisqu’un tiers des trente-quatre propositions ont déjà été appliquées – j’y reviendrai – et que d’autres vont l’être très prochainement.<br/>L’organisation de l’action gouvernementale était un vrai sujet. La mission invitait à juste titre les ministères concernés, intérieur, justice et comptes publics, à renforcer la stratégie interministérielle d’appréhension des avoirs criminels : il s’agit de la première proposition du rapport. Cette stratégie est très concrètement en cours de consolidation, sous l’égide de l’AGRASC, qui a fêté, vous l’avez dit, ses dix ans.<br/>L’action gouvernementale s’est améliorée à plusieurs titres. D’abord, le ministère de la justice a engagé avec l’AGRASC un chantier de fond en matière de statistiques, auquel le ministère de l’intérieur a été associé. Ensuite, le réseau des magistrats référents en matière de saisies et confiscations au sein de chaque juridiction de première instance et d’appel s’est attelé à diffuser plus activement les évolutions législatives et jurisprudentielles en matière d’appréhension des avoirs criminels et de gestion des scellés, ainsi que les bonnes pratiques. La direction des affaires criminelles et des grâces rappelle également dans ses circulaires thématiques la priorité qui doit être accordée à l’identification et à la saisie des avoirs criminels en vue de leur confiscation. Enfin, en collaboration avec l’AGRASC, la DACG a procédé à la refonte du guide des saisies et confiscations élaboré en 2015 ; la nouvelle version a été publiée sur son site intranet le 5 janvier dernier, ce qui constitue un outil utile, pédagogique, juridique, technique de référence pour l’ensemble des praticiens.<br/>S’agissant de l’action de l’AGRASC, la mission préconisait un redimensionnement qui s’appuierait sur la création d’antennes régionales, au plus près des juridictions – il s’agit de la proposition n<exposant>o</exposant> 5 du rapport. Une expérience en ce sens est menée depuis le début du mois : deux antennes régionales expérimentales ont ouvert leurs portes  à Lyon et à Marseille, le 1<exposant>er</exposant> mars, dans les locaux de la DGFIP. Elles sont composées de quatre agents à Lyon et de six à Marseille, outre un magistrat coordonnateur. Leurs missions sont de trois ordres : identifier et tracer les biens saisis et confisqués ; mieux gérer certains biens meubles saisis ou confisqués en développant les ventes avant jugement et les affectations au service ; agir en soutien et en conseil des magistrats et des enquêteurs, notamment par des actions de formation. À terme le dispositif pourrait être étendu si l’expérimentation s’avérait concluante.<br/>La proposition n°4 était d’assurer « une meilleure cohérence entre les missions de même nature au sein de la PIAC et de l’AGRASC ». Des rencontres régulières ont d’ores et déjà lieu entre ces deux instances pour fixer une doctrine commune d’intervention et une meilleure répartition des missions de formation.<br/>Enfin, dans le but d’étendre la portée des saisies et des confiscations, le rapport formule plusieurs recommandations d’évolutions normatives. La première concerne l’instauration d’une procédure d’enquête post-sentencielle. Aujourd’hui, il est permis d’identifier le patrimoine acquis frauduleusement pour en prononcer la confiscation à l’audience. L’ambition de cette proposition est de permettre l’identification du patrimoine de la personne après la condamnation et ainsi d’exécuter la peine de confiscation lorsqu’aucune saisie n’aura été opérée préalablement. Le Gouvernement approuve pleinement l’idée d’un tel dispositif.<br/>Une deuxième évolution concerne la restitution des biens dits mal acquis. Il s’agit ici de créer un dispositif de retour des biens mal acquis aux populations spoliées, directement ou indirectement. Je souhaitais éclaircir ce point, évoqué par Laurent Saint-Martin. Ce dispositif est d’ores et déjà en cours de mise en œuvre, après qu’un amendement au projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales a été adopté en première lecture par l’Assemblée nationale le 19 février 2021. Ce dispositif prévoit d’affecter le produit des biens mal acquis au financement d’actions de coopération et de développement aux populations des pays concernés. Cette avancée nous met en conformité avec nos engagements internationaux et présente une forte dimension symbolique et morale.<br/>Une dernière recommandation vise à étendre les possibilités de statuer sur le devenir du bien meuble avant toute saisie au fond. Le Gouvernement partage là aussi cette analyse : le recours à la vente avant jugement est identifié comme un véritable levier de meilleure efficacité. C’est l’objet de la diffusion imminente d’une dépêche du ministère de la justice rappelant l’apport opérationnel de l’AGRASC au soutien des juridictions.<br/>Vous avez également, mesdames, messieurs les députés, abordé le sujet budgétaire. À ce propos, je souhaitais vous indiquer que la loi de finances pour 2021 a procédé à une évolution majeure : désormais le Parlement suivra le plafond d’emplois, les recettes et les dépenses.<br/>Vous le voyez, que ce soit au plan organisationnel, au plan des expérimentations, mais aussi au plan budgétaire, le Gouvernement s’est pleinement emparé des recommandations ambitieuses de MM. Warsmann et Saint-Martin. Nous avons travaillé activement à faire progresser les réformes, à identifier les voies et moyens de gagner encore plus en efficacité, enfin à donner à l’AGRASC les moyens juridiques et humains d’améliorer l’amplitude et surtout l’efficacité de son action. <italique>(Applaudissements sur les bancs du groupe LaREM. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>David Corceiro et M. Jean-Luc Warsmann applaudissent également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Thill (UDI-I)" id_acteur="PA720568" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723002">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842601" ordre_absolu_seance="221" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460314" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous abordons la deuxième partie de ce débat, consacrée aux questions des groupes. Je vous rappelle que la durée des questions ainsi que celle des réponses est limitée à deux minutes et qu’il n’y a pas de droit de réplique.<br/>La parole est à Mme Agnès Thill.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842603" ordre_absolu_seance="223" id_acteur="PA720568" id_mandat="PM723002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460316" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Thill (UDI-I)</nom>
+              <acteurRef>PA720568</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, les trente-quatre propositions du rapport de nos collègues Warsmann et Saint-Martin constituent pour nous un point d’étape important. Nous saluons le fait qu’un grand nombre de ces propositions ont été reprises, notamment dans le cadre de la première lecture du projet de loi de programmation relatif au développement solidaire et à la lutte contre les inégalités mondiales pour l’inscription et la définition tant attendues dans la loi de la notion de biens mal acquis. En revanche, nous continuons à nous interroger sur d’autres propositions intéressantes restées encore jusqu’à maintenant sans concrétisation. Je voudrais vous en signaler deux.<br/>La première porte sur l’information du Parlement au sujet de l’utilisation de ces produits de cession. Les modalités pratiques de leur restitution, notamment les modalités budgétaires, restent floues. On nous dit qu’elles seront définies ultérieurement. Êtes-vous en mesure, madame la secrétaire d’État, de nous les préciser aujourd’hui ou au moins de nous dire à quelle échéance  ces précisions interviendront ?<br/>Le second point que je souhaite soulever est relatif à la proposition n<exposant>o</exposant> 31 du rapport. Nous aimerions savoir comment le Gouvernement souhaite mettre en œuvre l’élargissement du droit de communication à des fins de vérification de la situation fiscale du mis en cause, au moment où les biens saisis sont restitués.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire" qualite="secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842605" ordre_absolu_seance="226" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460318" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1842606" ordre_absolu_seance="227" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460319" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le Gouvernement s’est effectivement engagé à mettre en place un dispositif de restitution des produits de cession des biens mal acquis aux populations des États concernés, proposition du rapport qui fait consensus.<br/>La restitution intervient une fois les recettes récupérées, par le biais d’un mécanisme budgétaire impliquant l’ouverture de crédits en loi de finances. Les circuits de financement feront l’objet d’une traduction concrète dans le prochain projet de loi de finances.<br/>S’agissant de la proposition n<exposant>o</exposant> 31, je ne dispose pas d’éléments plus précis à vous apporter. Je m’engage à transmettre votre question au ministère de la justice.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Ugo Bernalicis (FI)" id_acteur="PA720430" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722962">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842542" ordre_absolu_seance="230" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460410" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Ugo Bernalicis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842543" ordre_absolu_seance="231" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460411" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis (FI)</nom>
+              <acteurRef>PA720430</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ma question est simple : qu’attendez-vous depuis deux ans pour augmenter les effectifs de tous les services qui concourent à la lutte contre la délinquance économique et financière et qui rapportent de l’argent aux caisses de l’État – je parle de millions, et même de milliards ?<br/>Le parquet national financier a accueilli un magistrat supplémentaire en deux ans pour porter leur nombre à dix-huit. Sur les vingt magistrats du parquet de Paris, seulement sept ont rejoint la nouvelle juridiction nationale de lutte contre le crime organisé – JUNALCO –, les treize autres étant restés au parquet de Paris. L’AGRASC a bénéficié de deux équivalents temps plein supplémentaires. L’Agence française anti-corruption a perdu des effectifs depuis l’année dernière. Il suffit de faire le tour de tous les services : à l’office central de lutte contre la corruption et les infractions financières et fiscales, stagnation des effectifs et même légère baisse actuellement dans l’attente de mutations ; même chose à l’office central de répression de la grande délinquance financière.<br/>Que vous faut-il ? On ne parle même plus d’interministérialité, je ne m’adresse qu’à Bercy qui est seul représenté ce matin et qui tient les cordons de la bourse. Où est passée la volonté politique ? Y en a-t-il seulement une ?<br/>Je m’en souviens, pendant la mobilisation des gilets jaunes, le Président de la République Emmanuel Macron jugeait scandaleux que des gens ne paient pas leurs impôts et se soustraient à l’effort collectif par des manœuvres frauduleuses. Et puis, rien ! Prenons l’exemple de la TVA : un rapport de 2019 pointe les manquements aux obligations de déclaration fiscale des entreprises hors Union européenne qui utilisent les places de marché. Alors que la fraude à la TVA dans notre pays se chiffre à plusieurs centaines de millions d’euros, seulement vingt-trois enquêtes ont été ouvertes par le parquet national financier, lequel fait ce qu’il peut car il manque d’assistants de justice.<br/>Que vous faut-il ? Avec votre état d’esprit, vous devriez le comprendre : c’est rentable pour la puissance publique de dépenser de l’argent dans ce domaine.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842548" ordre_absolu_seance="236" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842549" ordre_absolu_seance="237" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous le mentionnez pour la deuxième fois, alors je vous réponds : je suis là ce matin, avec l’engagement qui me caractérise, pour répondre de l’action interministérielle du Gouvernement. Le débat concerne la Chancellerie, le ministère des comptes publics et le ministère de l’intérieur. Je sais que vous êtes, autant que je le suis, heureux de me voir ce matin où je représente à la fois Bercy et les autres ministères.<br/>Je peux vous assurer que le Gouvernement est mobilisé et a fait bouger les lignes depuis 2017. Vous n’en conviendrez certainement pas, mais je vous rappelle quelques éléments.<br/>En 2019 et 2020, les biens saisis représentent plus de 500 millions d’euros – 560 exactement – contre un peu moins de 295 millions en 2012, soit presque un doublement. Nous avons continué à augmenter les effectifs mais surtout les moyens du ministère de l’intérieur. Sur le montant des saisies en 2019, 18 millions d’euros lui sont revenus pour former et équiper les policiers et les gendarmes ainsi que pour améliorer la fidélisation des enquêteurs sur les filières très spécialisées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842551" ordre_absolu_seance="240" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460454" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <acteurRef>PA720430</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est faux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842553" ordre_absolu_seance="241" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460421" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le ministère réfléchit également à des primes supplémentaires.<br/>Vous serez sans aucun doute en désaccord…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842555" ordre_absolu_seance="243" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460423" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <acteurRef>PA720430</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas une question de désaccord ! On parle de faits inscrits dans un rapport de l’Assemblée nationale ! Je peux vous le faire transmettre par Jacques Maire si c’est plus efficace !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842556" ordre_absolu_seance="244" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2460424" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…mais je vous assure que le Gouvernement est mobilisé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842556" ordre_absolu_seance="245" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460455" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <acteurRef>PA720430</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce ne sont plus des contrôles, ce sont des blagues !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Naïma Moutchou (LaREM)" id_acteur="PA720908" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723110">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842557" ordre_absolu_seance="246" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Naïma Moutchou.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842558" ordre_absolu_seance="247" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460426" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou (LaREM)</nom>
+              <acteurRef>PA720908</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous connaissez, madame la secrétaire d’État, mon engagement sur les sujets ayant trait à la justice mais aussi au développement de la solidarité. J’ai eu l’occasion, il y a quelques mois, de remettre au Premier ministre un rapport sur la philanthropie à la française. J’en suis convaincue, les deux sujets sont liés : la justice a un rôle à jouer en matière de solidarité.<br/>C’est ce que suggère le rapport de nos collègues Laurent Saint-Martin et Jean-Luc Warsmann dont je tiens ici à saluer la grande qualité, dans la proposition n<exposant>o</exposant> 23 qui prévoit un système de réaffectation sociale des biens. En résumé, l’AGRASC pourrait mettre des biens immobiliers saisis à disposition d’associations qui poursuivent un but d’intérêt général ou qui sont reconnues d’utilité publique, le cas échéant à titre gratuit. Il s’agit d’une proposition consensuelle, qui est aussi un moyen de répondre à la crise que nous traversons. Elle est consensuelle parce qu’elle figure également dans la proposition de loi de notre collègue Sarah El Haïry visant à améliorer la trésorerie des associations qui était jusqu’à présent bloquée dans la navette parlementaire.<br/>Ma question est simple : nous espérons des bonnes nouvelles sur la traduction législative de la proposition. Pouvez-vous nous confirmer que la disposition sera bientôt examinée par le Sénat ? Dans le cas contraire, celle-ci pourrait-elle être incluse dans un autre texte ? Pouvez-vous également nous assurer de votre soutien à un tel dispositif ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842561" ordre_absolu_seance="250" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460429" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842562" ordre_absolu_seance="251" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460430" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous m’interrogez d’abord sur la socialisation des biens en règle générale. Sans remettre en cause, bien au contraire, l’opportunité d’un tel dispositif, il faut d’abord en définir les contours. C’est l’objet de l’expertise menée actuellement par différents services, notamment afin d’évaluer les conséquences directes pour les services enquêteurs qui sont intéressés aux résultats des activités de saisie et de confiscation. En effet, une telle affectation les amputerait d’une partie de leurs recettes.<br/>Il semble également que l’affectation sociale des biens puisse emprunter d’autres canaux. Ainsi, sous l’impulsion de Laurent Saint-Martin, la loi de finances pour 2021 a autorité l’affectation des biens meubles saisis dans le cadre d’une enquête aux services judiciaires et, partant, au ministère de la justice. Il s’agit d’une avancée sociale. Les services judiciaires, dès lors qu’ils sont amenés à jouer un rôle dans les saisies, étaient demandeurs d’un retour sur investissement.<br/>Enfin, la proposition aurait pour effet de diversifier un peu plus les flux financiers dont bénéficie l’AGRASC. Or, le rapport incite, à juste titre, à une simplification de ces mêmes flux – j’y suis favorable.<br/>À titre expérimental, au terme d’un accord politique, un bien immobilier confisqué par le tribunal judiciaire de Paris, en exécution d’une demande d’entraide italienne, a été mis à disposition de l’Amicale du nid, association d’aide et de soutien aux personnes prostituées. L’État français a par conséquent renoncé, au moins temporairement, au produit de la vente qui aurait dû lui revenir pour mettre le bien à disposition de l’association précitée.<br/>Enfin, s’agissant de la proposition de loi visant à améliorer la trésorerie des associations – je connais votre intérêt pour ce sujet, madame Moutchou –, nous avons une bonne nouvelle puisqu’elle est inscrite à l’ordre du jour du Sénat à compter du 12 mai. Le texte est cohérent avec l’expérimentation que je mentionnais à l’instant. Même si la navette a été longue, l’issue est positive.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Naïma Moutchou" id_acteur="PA720908" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723110">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842567" ordre_absolu_seance="256" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460435" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Naïma Moutchou, pour une seconde question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842568" ordre_absolu_seance="257" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460436" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <acteurRef>PA720908</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour mettre un terme aux trafics divers et variés qui gangrènent certains de nos territoires, Laurent Saint-Martin l’a très bien dit, il faut frapper les délinquants au portefeuille. Pour ce faire, il faut mener ce que l’on appelle des enquêtes patrimoniales. Or les juridictions se trouvent souvent démunies pour faire procéder à ce type d’investigations. Aujourd’hui, ces enquêtes sont relativement pauvres voire, dans certains cas, inexistantes. Elles ne permettent pas d’établir un lien entre le patrimoine du délinquant et son activité criminelle.<br/>De même, les biens qui sont en relation directe avec une infraction ne font pas toujours l’objet d’une confiscation. Je vous donne un exemple : une personne condamnée pour proxénétisme dont les appartements avaient été saisis au cours d’une enquête se les est vus restituer par la juridiction alors qu’ils étaient le lieu où s’étaient déroulées les infractions. Cela pose question.<br/>Je voudrais mettre en valeur la proposition n<exposant>o</exposant> 18 du rapport, qui vise à rendre obligatoire sauf motivation contraire, bien sûr, la confiscation des biens qui sont en relation directe avec une infraction. Le rapport suggère également d’étendre le champ d’application de la confiscation en valeur qui permet de confisquer les biens du condamné dont il ne peut pas justifier l’origine – pour avoir un peu pratiqué la matière, je sais que ce sont des cas relativement fréquents. Aujourd’hui, cette peine complémentaire est réservée aux infractions qui sont punies d’au moins cinq ans d’emprisonnement alors qu’elle pourrait être utile pour certains délits punis de peines moindres.<br/>Ces pistes nécessitent une modification législative. Le projet de loi sur la confiance dans l’institution judiciaire que le garde des sceaux doit présenter dans quelques semaines peut être le véhicule idoine pour traduire certaines propositions, dont celle que je viens de rappeler. Il faut évidemment qu’il y ait ce qu’on appelle une accroche dans le texte. Madame la secrétaire d’État, pouvez-vous nous en dire plus ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842572" ordre_absolu_seance="261" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460440" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842573" ordre_absolu_seance="262" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460441" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant des enquêtes patrimoniales, elles sont menées presque systématiquement aujourd’hui par les enquêteurs, policiers et gendarmes, grâce aux moyens spécifiques en matériel et en formation qui leur ont été alloués, comme je l’indiquais à M. Bernalicis tout à l’heure. Ces moyens sont le fruit des confiscations et ventes réalisées par l’AGRASC ; ils s’élèvent, en 2020, à environ 18 millions d’euros. Cette somme finance des formations de haut niveau pour les enquêteurs et des matériels de haut niveau – logiciels, licences – à l’appui des enquêtes patrimoniales. Les moyens dédiés aux enquêtes patrimoniales sont ainsi consolidés.<br/>Quant à la confiscation obligatoire, elle pose encore des problèmes de proportionnalité des peines. Elle n’est pas possible dans tous les cas. Le projet de loi que vous mentionnez pourrait être l’occasion d’avancer ou, à tout le moins, d’échanges approfondis avec le garde des sceaux sur ce sujet.<br/>Au sujet de la proposition n<exposant>o</exposant> 5 que vous avez citée, un magistrat coordonnateur des antennes régionales a été recruté le 1<exposant>er</exposant> mars 2021. Les services judiciaires ont été autorisés, dans la loi de finances pour 2021, à se voir affecter des biens meubles saisis dans le cadre d’une enquête judiciaire, comme c’est actuellement le cas pour la police ou la gendarmerie. Une telle extension permet d’intéresser plus directement les services judiciaires aux missions de l’AGRASC ainsi que d’assurer une meilleure communication entre tous les acteurs de la chaîne judiciaire – c’est aussi un élément important.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. David Corceiro (Dem)" id_acteur="PA720928" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM774485">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842576" ordre_absolu_seance="265" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460444" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. David Corceiro.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1842577" ordre_absolu_seance="266" id_acteur="PA720928" id_mandat="PM774485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460445" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. David Corceiro (Dem)</nom>
+              <acteurRef>PA720928</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’aimerais tout d’abord saluer le travail de MM. les rapporteurs, Jean-Luc Warsmann et Laurent Saint-Martin, dont la rigueur a abouti à un rapport complet qui doit permettre la refondation d’un pan entier de notre système judiciaire.<br/>Le rapport met en lumière la nécessité pour l’État d’affirmer une politique efficace et cohérente en matière d’avoirs criminels. Cela implique que la logique patrimoniale irrigue l’ensemble de la chaîne pénale et demande d’investir afin de donner aux services d’enquête et aux juridictions les moyens d’appliquer la nouvelle politique de saisie et de confiscation.<br/>Depuis la loi Warsmann de 2010 visant à faciliter la saisie et la confiscation en matière pénale, nous assistons à un changement sémantique dans la perception des peines judiciaires. À titre d’exemple, la confiscation des biens ayant contribué à l’enrichissement illicite des personnes condamnées est perçue comme une excellente sanction, parfois même plus pédagogique que la peine d’emprisonnement car elle sanctionne les activités criminelles antérieures et ne permet pas aux coupables de bénéficier du bien mal acquis pour la suite.<br/>Un renforcement du statut juridique de la confiscation des biens est-il envisageable, madame la secrétaire d’État, d’autant que son application serait rendue possible par une large réorganisation de l’AGRASC ? Peut-il constituer une piste dans le cadre des grandes réflexions du ministère de la justice sur les sanctions alternatives ? Croyez-vous nécessaire d’envisager une réorganisation des textes relatifs aux peines complémentaires de confiscation et de saisie, aujourd’hui éparpillés et comportant des renvois qui ne sont pas toujours très clairs ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842607" ordre_absolu_seance="270" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460456" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842608" ordre_absolu_seance="271" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460457" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le reversement à la gendarmerie des fonds de concours de l’AGRASC constitue en effet un sujet important. En l’état actuel des textes, la gendarmerie bénéficie d’une partie du fonds de concours consacré à la lutte contre la délinquance ; les crédits de l’AGRASC représentent 1,5 million d’euros et ceux de la MILDECA – mission interministérielle de lutte contre les drogues et les conduites addictives – 4,5 millions, soit 6 millions en tout. En 2020, l’AGRASC a ainsi financé sept projets présentés par la gendarmerie nationale, pour un montant total de 20,5 millions, grâce à ce fonds.<br/>Plus largement, votre question portait sur les flux financiers de l’AGRASC, dont la complexité peut éveiller une certaine défiance concernant l’utilisation du produit des confiscations. Actuellement, les dépenses d’intervention de l’AGRASC alimentent les budgets ministériels, par l’intermédiaire de fonds de concours, en contrepartie des actions menées par les services enquêteurs. Ce lien d’intéressement, que j’ai mentionné il y a quelques instants, doit être préservé par la réforme que préconise le rapport de MM. Warsmann et Saint-Martin afin de simplifier ces flux : cette réforme est nécessaire, mais, encore une fois, elle ne doit pas compromettre l’intéressement des acteurs de police judiciaire sur le terrain, maillon essentiel du dispositif.<br/>Vous l’avez dit : les fonds de concours ne sont qu’imparfaitement retracés – pour recourir à un euphémisme – dans les documents budgétaires transmis au Parlement. Nous devons absolument progresser dans ce domaine, et je ne doute pas que les membres de la commission des finances proposeront des solutions, à l’automne, dans le cadre de l’examen du prochain budget. Quoi qu’il en soit, la traçabilité de ces fonds au sein des documents budgétaires est un vrai sujet de réflexion.<br/>Enfin, les avoirs s’accumulent aussi sur le compte de la Caisse des dépôts et consignations : dernièrement, une équipe temporaire de cinq personnes a été créée pour apurer les dossiers les plus anciens et faire remonter les recettes dues au budget général. C’est là une avancée significative, même si elle ne suffira pas, l’essentiel étant de prévenir la constitution d’un tel stock.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre-Yves Bournazel (Agir ens)" id_acteur="PA722030" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723454">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842612" ordre_absolu_seance="275" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460461" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre-Yves Bournazel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842613" ordre_absolu_seance="276" id_acteur="PA722030" id_mandat="PM723454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460462" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Yves Bournazel (Agir ens)</nom>
+              <acteurRef>PA722030</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais tout d’abord saluer le travail, l’engagement et les propos de Laurent Saint-Martin au sujet de la lutte contre les réseaux mafieux et l’organisation de la délinquance financière. L’AGRASC possède un circuit de gestion très atypique : elle est entièrement financée par le produit des ventes de biens confisqués auxquelles elle procède et par les intérêts des sommes qu’elle conserve sur son compte à la Caisse des dépôts. Ce financement est malheureusement opaque d’un point de vue budgétaire, aléatoire et peu vertueux. En outre, l’excellent rapport de Laurent Saint-Martin et Jean-Luc Warsmann souligne qu’une fois prélevés ses frais de fonctionnement, l’AGRASC reverse une partie de ces revenus, par l’intermédiaire de fonds de concours, à des entités intéressées aux confiscations. C’est le cas de la MILDECA, ou encore des services chargés de la prévention de la prostitution ou du financement de la lutte contre la délinquance et la criminalité. Or ces mécanismes contreviennent aux principes budgétaires d’unité et d’universalité ; de plus, ils sont soustraits à l’examen et à l’autorisation du Parlement.<br/>La dernière loi de finances a certes accompli un progrès important, puisque l’AGRASC figure désormais parmi les opérateurs du programme 166 « Justice judiciaire » ; ses emplois doivent respecter un plafond adopté par le Parlement. Cependant, son mode de financement reste inchangé et, à ma connaissance, les fonds de concours subsistent. Madame la secrétaire d’État, ne pensez-vous pas qu’il faudrait aller encore plus loin et normaliser tout cela ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842615" ordre_absolu_seance="278" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <acteurRef>PA720878</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bonne question !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Olivia Grégoire, quali  secrétaire d'État" id_acteur="PA721764" id_nomination_oe="PM774101" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842616" ordre_absolu_seance="279" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2460465" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842617" ordre_absolu_seance="280" id_acteur="PA721764" id_mandat="-1" id_nomination_oe="PM774101" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2460466" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Olivia Grégoire</nom>
+              <acteurRef>PA721764</acteurRef>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci de votre question, monsieur Bournazel. J’y répondrai évidemment par l’affirmative : aller toujours plus loin, c’est dans ma nature ! En attendant, et pour compléter la réponse que j’ai faite à M. Corceiro, vous avez vous-même évoqué l’évolution majeure produite par la loi de finances pour 2021 : l’AGRASC a enfin été inscrite en tant qu’opérateur dans un jaune budgétaire, si bien que le Parlement pourra suivre non seulement son plafond d’emplois mais ses recettes et ses dépenses, de la même manière que pour tous les autres opérateurs de l’État. Il était temps ! Ce progrès était attendu et souhaité.<br/>Quant au travail de l’équipe chargée d’apurer le stock des affaires dont les fonds sont placés sur un compte de la Caisse des dépôts, il vise à augmenter la productivité de l’AGRASC et à maximiser la part de ses recettes reversée au budget général de l’État. Actuellement, je le répète, cette équipe est composée de cinq personnes qui se consacrent exclusivement à cette tâche : nous pourrions envisager avec la Caisse des dépôts de la faire monter en puissance, toujours avec l’objectif d’une meilleure visibilité budgétaire de l’AGRASC – objectif que nous partageons avec vous, monsieur Bournazel, comme avec M. Corceiro. Encore une fois, cette question est importante ; dans les prochains mois, nous ne saurions nous dispenser de réformer les flux de cette agence, notamment ses dépenses d’intervention, qui prennent aujourd’hui la forme de fonds de concours.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1842619" ordre_absolu_seance="282" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2460468" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <acteurRef>PA721824</acteurRef>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="9" id_preparation="1842621" ordre_absolu_seance="284" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2460470" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1842622" ordre_absolu_seance="285" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM767299" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2460471" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <acteurRef>PA721824</acteurRef>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, lundi 29 mars, à seize heures :<br/>Projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1842623" ordre_absolu_seance="286" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2460472" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à onze heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="9" id_preparation="1842624" ordre_absolu_seance="287" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2460473" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>
