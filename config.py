@@ -12,9 +12,9 @@ DOSSIER_DATAFRAMES = "/home/onyxia/work/projet_eco_socio/dataframes"
 DOSSIER_ANALYSES = "/home/onyxia/work/projet_eco_socio/analyses"
 
 CHEMIN_DF_DEPUTES     = "/home/onyxia/work/projet_eco_socio/dataframes/df_deputes.csv"
-CHEMIN_DF_GLOBAL      = "/home/onyxia/work/projet_eco_socio/dataframes/df_global.pkl"
-CHEMIN_DF_VSS_PROPRE  = "/home/onyxia/work/projet_eco_socio/dataframes/df_vss_propre.pkl"
-CHEMIN_DF_EMBEDDINGS  = "/home/onyxia/work/projet_eco_socio/dataframes/df_vss_embeddings.pkl"
+CHEMIN_DF_GLOBAL      = "/home/onyxia/work/projet_eco_socio/df_global.pkl"
+CHEMIN_DF_VSS_PROPRE  = "/home/onyxia/work/projet_eco_socio/df_vss_propre.pkl"
+CHEMIN_DF_EMBEDDINGS  = "/home/onyxia/work/projet_eco_socio/df_vss_embeddings.pkl"
 
 URL_OLLAMA = "https://ollama-api.lab.groupe-genes.fr/api/chat"
 
