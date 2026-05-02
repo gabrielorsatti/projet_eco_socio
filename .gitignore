@@ -206,5 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Fichiers pickle volumineux
+df_global.pkl
 dataframes/df_global.pkl
-/home/onyxia/work/projet_eco_socio/dataframes/df_global.pkl
