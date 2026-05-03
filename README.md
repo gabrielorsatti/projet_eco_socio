@@ -56,7 +56,7 @@ Six méthodes de classification, de la plus simple a la plus sophistiquée :
 3. **V3 . Zero-shot NLI** : classification par CamemBERT fine-tuné sur NLI, sans entraînement sur nos données
 4. **V4 . LLM zero-shot** : classification par Llama 3.3 (70B) via le serveur Open WebUI de l'ENSAE
 5. **V4b . LLM one-shot** : meme architecture avec 1 exemple annoté dans le prompt
-6. **V4c . LLM few-shot** : meme architecture avec 5 exemples annotés couvrant les 3 catégories
+6. **V4c . LLM few-shot** : meme architecture avec 7 exemples annotés (distribution rééquilibrée : 3 NEUTRE, 2 ACCUSATEUR, 2 VICTIME)
 
 ### Evaluation (Notebook 05)
 
